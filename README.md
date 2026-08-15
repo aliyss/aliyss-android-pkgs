@@ -122,6 +122,24 @@ $ scripts/install.sh -s R58M123 com-jjewuz-justweather
 $ scripts/install.sh -s R58M123 -u com.jjewuz.justweather
 ```
 
+The installer is also exposed as a flake package (`packages.<system>.android-install`),
+so it runs without a repo checkout — the single install entry point for
+consumers (the dotfiles' `aliyss.androidPkgs` home-manager option and the
+phone's `install-app` command use it instead of shipping their own installer):
+
+```console
+$ nix run .#android-install -- -f . com.darkempire78.opencalculator
+$ nix run .#android-install -- -f . -u com.darkempire78.opencalculator
+```
+
+`-f/--flake` selects the flake to build package names from (default: the
+current directory). On a device with no adb (e.g. Termux), or with
+`-d/--on-device`, the script runs **on the device itself**: it builds the APK
+with the local nix, maps the chroot store path to the host-visible
+`~/.nix/nix` layout, installs directly with `su -c 'pm install -r'` (root), and
+bounds the install at 60s so a Google Play Protect block is reported instead
+of hanging. App-ids are accepted dotted or dashed; `-u` accepts either too.
+
 ## Testing
 
 ```console
