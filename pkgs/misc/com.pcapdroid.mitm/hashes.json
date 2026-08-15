@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pcapdroid.mitm_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TxYiw3zuiCkn5GqmC09hPEz1mRU2fd0BrRmhK4gOYWU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TxYiw3zuiCkn5GqmC09hPEz1mRU2fd0BrRmhK4gOYWU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TxYiw3zuiCkn5GqmC09hPEz1mRU2fd0BrRmhK4gOYWU="
+    }
+  },
+  "version": "1.4"
+}

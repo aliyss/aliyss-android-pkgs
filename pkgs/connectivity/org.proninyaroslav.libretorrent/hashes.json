@@ -1,0 +1,18 @@
+{
+  "apkName": "org.proninyaroslav.libretorrent_9000354.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UnbMar1rso9/siuBuNuMatRZsIOAyX3dJS9GYvhIt3Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UnbMar1rso9/siuBuNuMatRZsIOAyX3dJS9GYvhIt3Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UnbMar1rso9/siuBuNuMatRZsIOAyX3dJS9GYvhIt3Q="
+    }
+  },
+  "version": "4.1.1"
+}
