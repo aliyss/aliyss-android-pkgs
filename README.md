@@ -90,6 +90,38 @@ python scripts/update.py --rehash        # recompute hashes for pinned versions
 When a downloaded APK's signer does not match `verified.json` (checked with
 `apksigner` when available), the update fails.
 
+## Installing built apps
+
+Builds produce a single APK: f-droid/Izzy apps **are** the file itself, apk-pure
+apps land at `$out/share/apk/<name>.apk`. Install with adb:
+
+```console
+$ adb install -r result                       # f-droid / Izzy layout
+$ adb install -r result/share/apk/org.videolan.vlc_*.apk   # apk-pure layout
+```
+
+Some devices refuse USB installs (`adb install` → `INSTALL_FAILED_USER_RESTRICTED`)
+until **Developer options → Install via USB** is enabled; once it is, plain
+`adb install` / `adb uninstall` work without root. On rooted devices where the
+restriction can't be lifted (or for apps installed into privileged locations),
+root `pm` bypasses it — `scripts/install.sh` automates that fallback: it tries
+plain `adb` first and retries as root (`su -c 'pm install/uninstall'`) on
+failure, resolving the built APK for you:
+
+```console
+$ scripts/install.sh com-jjewuz-justweather    # builds + installs, root fallback
+$ scripts/install.sh -u com.jjewuz.justweather # uninstalls, root fallback
+$ scripts/install.sh -r com-jjewuz-justweather # force the root `pm` path
+```
+
+With several devices connected, pick one with `-s <serial>` (or set
+`ANDROID_SERIAL`); every adb call is then targeted at that device:
+
+```console
+$ scripts/install.sh -s R58M123 com-jjewuz-justweather
+$ scripts/install.sh -s R58M123 -u com.jjewuz.justweather
+```
+
 ## Testing
 
 ```console
