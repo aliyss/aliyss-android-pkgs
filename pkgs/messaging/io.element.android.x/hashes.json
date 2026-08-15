@@ -1,0 +1,18 @@
+{
+  "apkName": "io.element.android.x_202608004.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yMUGXrMYLjjCza7MxKxis306DTuNiAzGzJ9wJ1LEvB0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yMUGXrMYLjjCza7MxKxis306DTuNiAzGzJ9wJ1LEvB0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yMUGXrMYLjjCza7MxKxis306DTuNiAzGzJ9wJ1LEvB0="
+    }
+  },
+  "version": "26.08.0"
+}

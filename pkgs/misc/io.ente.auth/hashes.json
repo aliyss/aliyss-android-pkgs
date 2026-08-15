@@ -1,0 +1,18 @@
+{
+  "apkName": "io.ente.auth_1072.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lx9RdtzWcoHtUdHjM84qAeEMuhmfRLxjiVJ5pWm7ByY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lx9RdtzWcoHtUdHjM84qAeEMuhmfRLxjiVJ5pWm7ByY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lx9RdtzWcoHtUdHjM84qAeEMuhmfRLxjiVJ5pWm7ByY="
+    }
+  },
+  "version": "4.4.25"
+}

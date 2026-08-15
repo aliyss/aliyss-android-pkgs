@@ -1,0 +1,18 @@
+{
+  "apkName": "com.deniscerri.ytdl_108090104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TpX7EO/fN+7w24z/4MCdFPuvmsiJe96hgInWPGzquqA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TpX7EO/fN+7w24z/4MCdFPuvmsiJe96hgInWPGzquqA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TpX7EO/fN+7w24z/4MCdFPuvmsiJe96hgInWPGzquqA="
+    }
+  },
+  "version": "1.8.9.1"
+}
