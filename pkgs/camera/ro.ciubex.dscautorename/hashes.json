@@ -1,0 +1,18 @@
+{
+  "apkName": "ro.ciubex.dscautorename_103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rs0qv5cEGzo12geMv4h2EdDSCymYqLf+DoXCTF0+lTk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rs0qv5cEGzo12geMv4h2EdDSCymYqLf+DoXCTF0+lTk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rs0qv5cEGzo12geMv4h2EdDSCymYqLf+DoXCTF0+lTk="
+    }
+  },
+  "version": "6.0.10"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "dev.elbullazul.linkguardian",
+  "signerFingerprints": [
+    "04:EC:E9:AD:48:20:60:4B:27:9B:74:4B:68:92:75:70:31:D7:6A:42:E7:38:A9:65:1E:17:E3:06:06:08:C9:DE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

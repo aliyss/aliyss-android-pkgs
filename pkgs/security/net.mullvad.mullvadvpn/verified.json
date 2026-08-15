@@ -1,0 +1,8 @@
+{
+  "package": "net.mullvad.mullvadvpn",
+  "signerFingerprints": [
+    "E1:B6:6A:F1:AC:48:69:A3:3B:09:1F:81:DC:BD:57:7B:F8:DC:FE:91:25:DD:DE:33:81:BF:FF:91:81:33:31:EC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

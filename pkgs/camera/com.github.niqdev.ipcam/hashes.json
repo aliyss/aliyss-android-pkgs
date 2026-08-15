@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.niqdev.ipcam_322.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iHBy2SaheD+z8BH/Uh01giHJLl2105CmKsP2DUnwTR8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iHBy2SaheD+z8BH/Uh01giHJLl2105CmKsP2DUnwTR8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iHBy2SaheD+z8BH/Uh01giHJLl2105CmKsP2DUnwTR8="
+    }
+  },
+  "version": "2.4.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.metabrainz.android_56.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JSteE6+RMUF6dcNKz1DqjacOAs8dFyfLyYCzSdieqAc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JSteE6+RMUF6dcNKz1DqjacOAs8dFyfLyYCzSdieqAc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JSteE6+RMUF6dcNKz1DqjacOAs8dFyfLyYCzSdieqAc="
+    }
+  },
+  "version": "7.0.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "sadLogic.HomeCentral",
+  "signerFingerprints": [
+    "18:45:22:6C:1D:DD:E2:E5:92:F2:75:9E:9F:F8:DC:A9:2F:5C:D3:57:D9:DB:18:55:DE:45:3D:5D:F1:A7:F8:17"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

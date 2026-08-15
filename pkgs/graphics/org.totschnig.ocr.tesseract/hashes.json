@@ -1,0 +1,18 @@
+{
+  "apkName": "org.totschnig.ocr.tesseract_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BfyEHlwRKy3pQ29XK3oVgKeM1HA40vPg61g0X3pH9RQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BfyEHlwRKy3pQ29XK3oVgKeM1HA40vPg61g0X3pH9RQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BfyEHlwRKy3pQ29XK3oVgKeM1HA40vPg61g0X3pH9RQ="
+    }
+  },
+  "version": "2.5.0"
+}

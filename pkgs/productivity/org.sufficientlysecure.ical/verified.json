@@ -1,0 +1,8 @@
+{
+  "package": "org.sufficientlysecure.ical",
+  "signerFingerprints": [
+    "6E:C4:16:EF:6B:B5:E8:F3:F8:AE:11:9A:0E:FE:F3:1D:C1:50:BD:AF:A6:04:54:96:84:3E:CF:71:54:78:31:36"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

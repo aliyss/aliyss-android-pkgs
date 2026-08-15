@@ -1,0 +1,8 @@
+{
+  "package": "com.example.quickmdcapture",
+  "signerFingerprints": [
+    "DC:E7:6C:15:11:D0:5F:E6:A5:8D:B8:AA:66:3A:FA:9F:E8:C1:C5:BD:BC:E1:75:BD:B0:9E:17:BD:41:9A:74:FD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

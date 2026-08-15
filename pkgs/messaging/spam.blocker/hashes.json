@@ -1,0 +1,18 @@
+{
+  "apkName": "spam.blocker_514.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rAeuAy3YyfPapBXr5XORrliXPnS/7kwDz0Bg+IL68vg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rAeuAy3YyfPapBXr5XORrliXPnS/7kwDz0Bg+IL68vg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rAeuAy3YyfPapBXr5XORrliXPnS/7kwDz0Bg+IL68vg="
+    }
+  },
+  "version": "5.14"
+}

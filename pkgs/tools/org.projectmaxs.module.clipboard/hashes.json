@@ -1,0 +1,18 @@
+{
+  "apkName": "org.projectmaxs.module.clipboard_2000506627.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OyypI4tnKCC5wVHuMN4oBJYf0kYOZsj+X2zOdu5jfss="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OyypI4tnKCC5wVHuMN4oBJYf0kYOZsj+X2zOdu5jfss="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OyypI4tnKCC5wVHuMN4oBJYf0kYOZsj+X2zOdu5jfss="
+    }
+  },
+  "version": "0.5.19"
+}

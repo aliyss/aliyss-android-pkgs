@@ -1,0 +1,18 @@
+{
+  "apkName": "com.paperknife.app_10009.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/N5JbhcunlO/lOX0/dTPuYW7X3aIcFDjX5d0cJQPTFE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/N5JbhcunlO/lOX0/dTPuYW7X3aIcFDjX5d0cJQPTFE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/N5JbhcunlO/lOX0/dTPuYW7X3aIcFDjX5d0cJQPTFE="
+    }
+  },
+  "version": "1.0.9"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.harshalbhatia.whatsopen_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-swtnKZ3j2yBigWCZfgO/9cThndnWX8sWVGiWQgcs+Lw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-swtnKZ3j2yBigWCZfgO/9cThndnWX8sWVGiWQgcs+Lw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-swtnKZ3j2yBigWCZfgO/9cThndnWX8sWVGiWQgcs+Lw="
+    }
+  },
+  "version": "1.1.3"
+}

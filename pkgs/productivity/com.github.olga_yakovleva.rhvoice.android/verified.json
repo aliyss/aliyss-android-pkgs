@@ -1,0 +1,8 @@
+{
+  "package": "com.github.olga_yakovleva.rhvoice.android",
+  "signerFingerprints": [
+    "10:79:02:73:B7:C5:68:B3:C3:11:35:4D:47:3D:4B:83:B4:82:07:12:E1:F5:95:E3:24:C4:DD:B9:67:2B:D2:3A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

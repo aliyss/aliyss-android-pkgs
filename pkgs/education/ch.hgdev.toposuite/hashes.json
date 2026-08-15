@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.hgdev.toposuite_75.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BePxnicXsan9DLr2b4QJVZU2JE+9LyPBBOw3yO/3LFY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BePxnicXsan9DLr2b4QJVZU2JE+9LyPBBOw3yO/3LFY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BePxnicXsan9DLr2b4QJVZU2JE+9LyPBBOw3yO/3LFY="
+    }
+  },
+  "version": "1.4.0-beta.5"
+}

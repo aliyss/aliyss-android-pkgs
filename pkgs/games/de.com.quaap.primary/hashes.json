@@ -1,0 +1,18 @@
+{
+  "apkName": "de.com.quaap.primary_331.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DijcYPMWnrWwn7r1N1OndgSVXaiQyzRz73d4h9f+Biw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DijcYPMWnrWwn7r1N1OndgSVXaiQyzRz73d4h9f+Biw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DijcYPMWnrWwn7r1N1OndgSVXaiQyzRz73d4h9f+Biw="
+    }
+  },
+  "version": "0.3.3.de3"
+}

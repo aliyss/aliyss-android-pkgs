@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.org.ngo.squeezer_158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aMdNzepRHfEM3bP/2InYi9leu4rucmVTrQbz+p1zDGg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aMdNzepRHfEM3bP/2InYi9leu4rucmVTrQbz+p1zDGg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aMdNzepRHfEM3bP/2InYi9leu4rucmVTrQbz+p1zDGg="
+    }
+  },
+  "version": "2.4.1"
+}

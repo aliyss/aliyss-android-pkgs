@@ -1,0 +1,18 @@
+{
+  "apkName": "biz.binarysolutions.mindfulscale_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r421+otM3zhXJfBgM+KDF0DF6uukYGx2YIlsNUo4kjs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r421+otM3zhXJfBgM+KDF0DF6uukYGx2YIlsNUo4kjs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r421+otM3zhXJfBgM+KDF0DF6uukYGx2YIlsNUo4kjs="
+    }
+  },
+  "version": "1.0.8"
+}

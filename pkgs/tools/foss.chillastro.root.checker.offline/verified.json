@@ -1,0 +1,8 @@
+{
+  "package": "foss.chillastro.root.checker.offline",
+  "signerFingerprints": [
+    "2F:EE:27:BF:AB:96:A7:52:9D:DB:05:76:9A:09:A9:B8:93:3C:A8:2B:A8:2C:2A:0D:A3:7B:E4:7C:FA:45:EB:7D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

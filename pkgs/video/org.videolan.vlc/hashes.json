@@ -1,0 +1,9 @@
+{
+  "version": "3.7.1",
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cktX0H9GceUdSMnhd3VzAIHIF1G2S/oD746bG0lF6J0="
+    }
+  }
+}

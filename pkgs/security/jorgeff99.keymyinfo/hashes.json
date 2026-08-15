@@ -1,0 +1,18 @@
+{
+  "apkName": "jorgeff99.keymyinfo_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bvW7XJdre5djWMOeSlSaFADLGMCyxojvcMoOUuyqMK8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bvW7XJdre5djWMOeSlSaFADLGMCyxojvcMoOUuyqMK8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bvW7XJdre5djWMOeSlSaFADLGMCyxojvcMoOUuyqMK8="
+    }
+  },
+  "version": "2.5.1"
+}

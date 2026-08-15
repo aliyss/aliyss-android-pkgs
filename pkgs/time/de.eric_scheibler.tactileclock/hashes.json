@@ -1,0 +1,18 @@
+{
+  "apkName": "de.eric_scheibler.tactileclock_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lrR319QlgMI6QPGrniyEjw/DiMMMLIBP/3FQfLBNiQE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lrR319QlgMI6QPGrniyEjw/DiMMMLIBP/3FQfLBNiQE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lrR319QlgMI6QPGrniyEjw/DiMMMLIBP/3FQfLBNiQE="
+    }
+  },
+  "version": "2.6.2"
+}

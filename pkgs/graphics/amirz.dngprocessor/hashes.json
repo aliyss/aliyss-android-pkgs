@@ -1,0 +1,18 @@
+{
+  "apkName": "amirz.dngprocessor_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-io6APSOXF4N+cJyE3ga9LRAwaDbWRD6x7Jj1iHhvxjE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-io6APSOXF4N+cJyE3ga9LRAwaDbWRD6x7Jj1iHhvxjE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-io6APSOXF4N+cJyE3ga9LRAwaDbWRD6x7Jj1iHhvxjE="
+    }
+  },
+  "version": "5"
+}

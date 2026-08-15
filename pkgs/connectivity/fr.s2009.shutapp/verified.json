@@ -1,0 +1,8 @@
+{
+  "package": "fr.s2009.shutapp",
+  "signerFingerprints": [
+    "8A:53:2F:50:05:24:F5:A8:73:5F:B8:A6:85:48:5F:24:8F:9A:46:A9:63:74:60:24:CF:47:ED:69:86:0E:5A:58"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.baumann.quitsmoking_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JsTzyAz+5E9e9inEhC120hhs9hiOZ5MWZX6kyo4NVzE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JsTzyAz+5E9e9inEhC120hhs9hiOZ5MWZX6kyo4NVzE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JsTzyAz+5E9e9inEhC120hhs9hiOZ5MWZX6kyo4NVzE="
+    }
+  },
+  "version": "2.5"
+}

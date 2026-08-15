@@ -1,0 +1,18 @@
+{
+  "apkName": "com.smartfind.app_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Aw6d+1BI8BqVB/BXl+qBXVrxc7rfcQtTMZTjW/G6u3w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Aw6d+1BI8BqVB/BXl+qBXVrxc7rfcQtTMZTjW/G6u3w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Aw6d+1BI8BqVB/BXl+qBXVrxc7rfcQtTMZTjW/G6u3w="
+    }
+  },
+  "version": "1.1.3"
+}

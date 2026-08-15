@@ -1,0 +1,8 @@
+{
+  "package": "com.lindevhard.android.raspfinder",
+  "signerFingerprints": [
+    "1F:D4:BE:73:61:13:80:02:1E:3F:55:5B:D6:CE:60:9F:F3:A5:12:B0:EA:27:03:D6:6D:12:93:7B:52:1A:00:D5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sweak.qralarm_85.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bQ0/oxL5aR05H4E3LCBPcfYNRclaaWk9zH5K34Kzy+Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bQ0/oxL5aR05H4E3LCBPcfYNRclaaWk9zH5K34Kzy+Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bQ0/oxL5aR05H4E3LCBPcfYNRclaaWk9zH5K34Kzy+Y="
+    }
+  },
+  "version": "2.10.4"
+}

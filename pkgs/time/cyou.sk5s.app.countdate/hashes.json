@@ -1,0 +1,18 @@
+{
+  "apkName": "cyou.sk5s.app.countdate_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NUavN3sC/gElWT6P3k4+4wibDUbq4F3A7ZfMqUwvrEo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NUavN3sC/gElWT6P3k4+4wibDUbq4F3A7ZfMqUwvrEo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NUavN3sC/gElWT6P3k4+4wibDUbq4F3A7ZfMqUwvrEo="
+    }
+  },
+  "version": "1.5.12"
+}

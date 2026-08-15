@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kaffeemitkoffein.feinstaubwidget_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AkngrKQZG2X3cnoI5fQbVnbwDEyrfOExwD/AHPgvPb0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AkngrKQZG2X3cnoI5fQbVnbwDEyrfOExwD/AHPgvPb0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AkngrKQZG2X3cnoI5fQbVnbwDEyrfOExwD/AHPgvPb0="
+    }
+  },
+  "version": "0.78"
+}

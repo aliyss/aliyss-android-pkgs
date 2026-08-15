@@ -1,0 +1,8 @@
+{
+  "package": "com.smokingtracker",
+  "signerFingerprints": [
+    "62:42:1E:23:C4:D4:3D:5B:5E:34:0C:E7:00:0E:55:3F:06:36:7A:EF:5B:27:D2:AF:82:2C:24:D5:34:EC:00:77"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xvzan.simplemoneytracker_20250704.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l+ZQ7Rr21K/fGHJo8hqNTkIyp/qcmOlRS9tZmAEkBms="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l+ZQ7Rr21K/fGHJo8hqNTkIyp/qcmOlRS9tZmAEkBms="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l+ZQ7Rr21K/fGHJo8hqNTkIyp/qcmOlRS9tZmAEkBms="
+    }
+  },
+  "version": "0.8.11"
+}

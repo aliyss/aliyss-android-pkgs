@@ -1,0 +1,8 @@
+{
+  "package": "org.matrix.chromext",
+  "signerFingerprints": [
+    "B1:0B:03:39:3E:1F:7D:F4:9A:6D:CD:97:CD:B6:47:8F:B1:9C:B5:EF:D2:02:48:41:BE:11:29:FD:80:76:97:ED"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.swlabs.fireflynotes_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O9YbjLleSqczJzzLLrdOgevj5yn0meTtFYqownHCdIs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O9YbjLleSqczJzzLLrdOgevj5yn0meTtFYqownHCdIs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O9YbjLleSqczJzzLLrdOgevj5yn0meTtFYqownHCdIs="
+    }
+  },
+  "version": "v1.4"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gifboard_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-drAaSRv7BhjH6nz4i3AhFq77OzHgWbuDctjfENvvfI0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-drAaSRv7BhjH6nz4i3AhFq77OzHgWbuDctjfENvvfI0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-drAaSRv7BhjH6nz4i3AhFq77OzHgWbuDctjfENvvfI0="
+    }
+  },
+  "version": "v1.0.4"
+}

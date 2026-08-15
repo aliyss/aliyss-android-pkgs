@@ -1,0 +1,8 @@
+{
+  "package": "eu.veldsoft.free.klondike",
+  "signerFingerprints": [
+    "BF:B9:A9:3E:03:01:6D:41:9C:D0:84:76:E5:2F:BE:3C:5F:AA:57:94:F3:A2:18:5C:87:A8:D9:AF:0A:2F:B2:CB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

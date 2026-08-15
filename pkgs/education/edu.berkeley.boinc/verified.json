@@ -1,0 +1,8 @@
+{
+  "package": "edu.berkeley.boinc",
+  "signerFingerprints": [
+    "1D:83:E2:D0:56:A1:BB:3C:03:49:E5:30:22:7C:D1:26:2E:98:50:6A:3A:3A:0A:CF:30:AC:2E:A4:F7:85:81:AB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

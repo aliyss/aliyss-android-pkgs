@@ -1,0 +1,18 @@
+{
+  "apkName": "com.versobit.weatherdoge.foss_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Snf/CQaFTZmKaCoXSAhKf7gxDDdyJr2ynFM9YrPTXuQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Snf/CQaFTZmKaCoXSAhKf7gxDDdyJr2ynFM9YrPTXuQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Snf/CQaFTZmKaCoXSAhKf7gxDDdyJr2ynFM9YrPTXuQ="
+    }
+  },
+  "version": "1.9f-3bbc566"
+}

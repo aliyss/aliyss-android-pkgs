@@ -1,0 +1,8 @@
+{
+  "package": "org.cuberite.android",
+  "signerFingerprints": [
+    "05:87:D1:AC:C6:8C:8E:7F:4F:63:39:9B:1A:36:D4:68:9F:6B:B1:A8:B5:C1:E9:08:10:E7:5E:31:C4:41:C8:C6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

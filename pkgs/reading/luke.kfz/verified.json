@@ -1,0 +1,8 @@
+{
+  "package": "luke.kfz",
+  "signerFingerprints": [
+    "52:0B:10:55:60:7F:2D:2A:0B:F3:A4:8D:E3:C7:39:F9:24:38:BB:D8:09:0F:99:AF:3A:7A:C0:86:4E:40:2B:6C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

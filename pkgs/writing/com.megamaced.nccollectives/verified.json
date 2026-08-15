@@ -1,0 +1,8 @@
+{
+  "package": "com.megamaced.nccollectives",
+  "signerFingerprints": [
+    "65:40:2E:25:78:D9:17:27:D4:3C:68:49:DA:20:62:2D:0F:AD:16:07:34:C6:27:2D:88:7C:16:77:67:D4:4B:91"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

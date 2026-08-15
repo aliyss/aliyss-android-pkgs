@@ -1,0 +1,8 @@
+{
+  "package": "net.ivpn.client",
+  "signerFingerprints": [
+    "9F:42:0E:41:61:46:B3:12:6D:DE:F8:8D:B9:F3:F9:8A:27:42:20:D7:F9:DC:45:C8:6C:0D:72:92:47:57:13:3B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

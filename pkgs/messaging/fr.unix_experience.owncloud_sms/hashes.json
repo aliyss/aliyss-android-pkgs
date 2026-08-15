@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.unix_experience.owncloud_sms_69.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fcE69GsKQPenIGsDqpDCYGsJcxuV09Ng6LyBhYivMI0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fcE69GsKQPenIGsDqpDCYGsJcxuV09Ng6LyBhYivMI0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fcE69GsKQPenIGsDqpDCYGsJcxuV09Ng6LyBhYivMI0="
+    }
+  },
+  "version": "2.0.5"
+}

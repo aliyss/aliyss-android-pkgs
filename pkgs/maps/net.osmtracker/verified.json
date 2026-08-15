@@ -1,0 +1,8 @@
+{
+  "package": "net.osmtracker",
+  "signerFingerprints": [
+    "F4:F3:A4:76:47:C6:0D:84:BD:92:11:AF:5A:34:BB:40:D4:8B:E0:E9:0C:30:43:DF:5F:4C:F2:BC:7D:6C:B2:5E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

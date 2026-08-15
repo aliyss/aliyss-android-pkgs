@@ -1,0 +1,8 @@
+{
+  "package": "site.leos.apps.lespas",
+  "signerFingerprints": [
+    "D3:61:9F:34:B3:8A:00:5E:D0:5A:D0:30:5B:DE:31:AF:3C:5C:AB:30:43:C8:55:DE:6F:C7:04:19:7A:96:5F:1B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

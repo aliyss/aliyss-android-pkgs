@@ -1,0 +1,8 @@
+{
+  "package": "de.qso.again",
+  "signerFingerprints": [
+    "68:83:C1:25:07:6C:89:7B:55:F5:C5:5A:77:F0:47:4D:72:EE:45:7D:7F:0A:01:51:0F:0C:45:22:36:EA:23:98"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

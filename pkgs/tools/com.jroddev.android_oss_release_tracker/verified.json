@@ -1,0 +1,8 @@
+{
+  "package": "com.jroddev.android_oss_release_tracker",
+  "signerFingerprints": [
+    "C2:8C:A2:31:C6:0A:85:A6:8C:40:65:A4:46:7A:1C:20:D8:7D:D5:71:64:69:00:D8:9F:A9:12:19:E2:61:DD:73"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlyyahtzeedicer_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mSahn576fFfGU7UIsmMNoyKEQ/PN0cjrlp21VQ5V1Ug="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mSahn576fFfGU7UIsmMNoyKEQ/PN0cjrlp21VQ5V1Ug="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mSahn576fFfGU7UIsmMNoyKEQ/PN0cjrlp21VQ5V1Ug="
+    }
+  },
+  "version": "1.1.7"
+}

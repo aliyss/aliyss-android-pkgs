@@ -1,0 +1,8 @@
+{
+  "package": "com.cyb3rg0d.urlchecker",
+  "signerFingerprints": [
+    "27:EB:1E:CE:99:DD:C4:D6:51:BD:70:FB:93:AE:9A:F4:C4:45:21:34:7C:4C:6F:31:B0:56:67:90:9B:CC:17:89"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

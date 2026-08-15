@@ -1,0 +1,18 @@
+{
+  "apkName": "se.bitcraze.crazyfliecontrol2_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XN8RjbXS5Xycf/Pri03nRHYr9+XKhlKyDcPQFZ8WJ9g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XN8RjbXS5Xycf/Pri03nRHYr9+XKhlKyDcPQFZ8WJ9g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XN8RjbXS5Xycf/Pri03nRHYr9+XKhlKyDcPQFZ8WJ9g="
+    }
+  },
+  "version": "0.7.6"
+}

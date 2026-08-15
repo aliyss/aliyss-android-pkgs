@@ -1,0 +1,8 @@
+{
+  "package": "com.rabbitcompany.passky",
+  "signerFingerprints": [
+    "BB:A0:D1:A6:08:AD:09:41:3B:59:F8:AD:E6:68:F1:32:33:ED:23:49:3C:43:61:89:B6:C3:2D:7A:53:52:A0:60"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.bugsdev2.bookaccio",
+  "signerFingerprints": [
+    "90:AA:66:2B:B9:79:A0:98:25:EF:61:37:73:0E:2D:93:4A:19:CB:94:97:A0:2F:A2:FD:43:E5:00:A7:88:76:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

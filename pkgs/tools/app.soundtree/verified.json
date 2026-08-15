@@ -1,0 +1,8 @@
+{
+  "package": "app.soundtree",
+  "signerFingerprints": [
+    "7E:41:EF:E1:8F:81:C3:65:70:3D:0E:7C:AE:CE:96:23:23:6C:F6:C9:51:68:86:AB:62:0A:82:F8:CD:DF:B3:AC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

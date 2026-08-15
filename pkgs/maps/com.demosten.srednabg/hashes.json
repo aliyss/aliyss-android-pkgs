@@ -1,0 +1,18 @@
+{
+  "apkName": "com.demosten.srednabg_10100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1nWNeFBq7veIxxe8T6oCr5fOVlcQWkWPFKzZrY+rKRg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1nWNeFBq7veIxxe8T6oCr5fOVlcQWkWPFKzZrY+rKRg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1nWNeFBq7veIxxe8T6oCr5fOVlcQWkWPFKzZrY+rKRg="
+    }
+  },
+  "version": "1.1.0"
+}

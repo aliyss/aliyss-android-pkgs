@@ -1,0 +1,8 @@
+{
+  "package": "com.devrinth.launchpad",
+  "signerFingerprints": [
+    "76:25:81:06:DE:21:5E:8E:3E:AE:53:10:5B:AC:8E:FC:A5:DE:1A:3A:3F:8E:AF:E8:ED:7B:9B:0E:58:27:F5:98"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

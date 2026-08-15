@@ -1,0 +1,8 @@
+{
+  "package": "nl.eventinfra.wifisetup",
+  "signerFingerprints": [
+    "69:53:7D:93:E9:7A:F7:A7:5E:F7:CB:EF:C9:8C:AC:93:86:AC:24:BF:42:5C:39:54:3C:FE:5E:C9:83:7D:4E:F8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

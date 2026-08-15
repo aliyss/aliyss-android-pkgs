@@ -1,0 +1,8 @@
+{
+  "package": "com.omelan.cofi",
+  "signerFingerprints": [
+    "07:04:E7:B0:3E:82:03:1B:1C:A9:99:8C:F1:ED:17:FE:A7:60:CD:13:F9:F2:F3:29:F3:57:C1:2E:93:FB:97:5D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

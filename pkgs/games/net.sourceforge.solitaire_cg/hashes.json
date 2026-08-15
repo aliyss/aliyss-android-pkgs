@@ -1,0 +1,18 @@
+{
+  "apkName": "net.sourceforge.solitaire_cg_4010.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OUEd2CsPKydO+AP0jVAfwQKrELyxm7eJRDPRdFR2WCU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OUEd2CsPKydO+AP0jVAfwQKrELyxm7eJRDPRdFR2WCU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OUEd2CsPKydO+AP0jVAfwQKrELyxm7eJRDPRdFR2WCU="
+    }
+  },
+  "version": "4.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.thepiemonster.hidemocklocation_209.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-z0R6MOcYzuMPYtujonzk9+tHDU6dLhvDDwmAtRjV1P8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z0R6MOcYzuMPYtujonzk9+tHDU6dLhvDDwmAtRjV1P8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z0R6MOcYzuMPYtujonzk9+tHDU6dLhvDDwmAtRjV1P8="
+    }
+  },
+  "version": "2.0.9"
+}

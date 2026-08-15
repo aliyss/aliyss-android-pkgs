@@ -1,0 +1,8 @@
+{
+  "package": "me.vittorio_io.openhostseditor",
+  "signerFingerprints": [
+    "E1:A4:85:A4:C2:7C:57:B4:BB:B6:1A:8D:49:CE:B7:ED:9E:0B:A3:07:21:A4:22:65:2A:CA:91:17:04:3A:A0:6C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

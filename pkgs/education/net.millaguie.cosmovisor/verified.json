@@ -1,0 +1,8 @@
+{
+  "package": "net.millaguie.cosmovisor",
+  "signerFingerprints": [
+    "6D:7C:E9:F4:E5:F6:94:7E:1F:BA:88:BF:8C:97:B3:35:CD:92:2C:CE:CE:A2:A1:7B:18:F9:30:51:E7:2B:E0:35"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

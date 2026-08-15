@@ -1,0 +1,8 @@
+{
+  "package": "org.linaro.glmark2",
+  "signerFingerprints": [
+    "F2:28:75:D7:B8:22:33:75:A2:43:9C:BC:3E:8A:D4:0E:EA:55:78:DC:BB:60:FA:40:C6:66:88:6D:67:3B:F3:F9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

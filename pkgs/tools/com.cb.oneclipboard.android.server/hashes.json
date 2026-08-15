@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cb.oneclipboard.android.server_30103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EzgyTGmAHr+e8Bhw9vDPI867ykol7fhOZ0LxxeQhpGY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EzgyTGmAHr+e8Bhw9vDPI867ykol7fhOZ0LxxeQhpGY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EzgyTGmAHr+e8Bhw9vDPI867ykol7fhOZ0LxxeQhpGY="
+    }
+  },
+  "version": "3.01.03"
+}

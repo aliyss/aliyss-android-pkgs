@@ -1,0 +1,8 @@
+{
+  "package": "com.aipos.aipospm",
+  "signerFingerprints": [
+    "1B:36:20:A7:EC:39:D9:B0:2B:D1:29:60:D2:43:A1:35:5E:DE:F2:13:C6:4D:50:56:FC:FC:E8:CD:50:04:B0:46"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

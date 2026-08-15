@@ -1,0 +1,18 @@
+{
+  "apkName": "de.indie42.guessiron_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YNAQbbXHrcN2kSxKVmJTtxDwkbMc9lzAtuYjb5tzq0c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YNAQbbXHrcN2kSxKVmJTtxDwkbMc9lzAtuYjb5tzq0c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YNAQbbXHrcN2kSxKVmJTtxDwkbMc9lzAtuYjb5tzq0c="
+    }
+  },
+  "version": "6.0"
+}

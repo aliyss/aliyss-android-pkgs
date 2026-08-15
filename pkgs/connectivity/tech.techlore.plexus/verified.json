@@ -1,0 +1,8 @@
+{
+  "package": "tech.techlore.plexus",
+  "signerFingerprints": [
+    "F0:2B:66:E8:E6:18:37:04:C3:FD:6A:E0:63:2F:62:40:DE:8E:EC:0D:6B:DB:E9:17:73:1C:41:AB:8C:7D:9A:AB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

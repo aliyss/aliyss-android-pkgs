@@ -1,0 +1,8 @@
+{
+  "package": "ca.asmat.buzzkill",
+  "signerFingerprints": [
+    "2D:B8:6C:78:3D:4D:D4:57:F5:60:97:15:7B:08:6C:33:34:FC:2E:77:EF:CC:A3:C4:2E:1A:5F:21:71:02:F4:59"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "sadLogic.OctoTouchController.foss_56.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-al+7Vi48T3geJhN2FzNSOYAX7l2vBmGlOnEM/zNsKxI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-al+7Vi48T3geJhN2FzNSOYAX7l2vBmGlOnEM/zNsKxI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-al+7Vi48T3geJhN2FzNSOYAX7l2vBmGlOnEM/zNsKxI="
+    }
+  },
+  "version": "2.1.0"
+}

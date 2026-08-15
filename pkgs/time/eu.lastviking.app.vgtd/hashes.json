@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.lastviking.app.vgtd_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wO2g80R/fonyG4DOMQkaKVQqjml3bvr2zwzd2HntAbs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wO2g80R/fonyG4DOMQkaKVQqjml3bvr2zwzd2HntAbs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wO2g80R/fonyG4DOMQkaKVQqjml3bvr2zwzd2HntAbs="
+    }
+  },
+  "version": "1.10"
+}

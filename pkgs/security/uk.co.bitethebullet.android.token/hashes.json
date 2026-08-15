@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.co.bitethebullet.android.token_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5pRCle8SkmofaDqXTNLX75XD1eTvevht0qTu6QKcT+E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5pRCle8SkmofaDqXTNLX75XD1eTvevht0qTu6QKcT+E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5pRCle8SkmofaDqXTNLX75XD1eTvevht0qTu6QKcT+E="
+    }
+  },
+  "version": "3.0"
+}

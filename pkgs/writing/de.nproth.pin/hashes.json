@@ -1,0 +1,18 @@
+{
+  "apkName": "de.nproth.pin_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-p3SRkI4S+7nnglvZpKXlPDlC7OPcSRj0CsMgCurLZMQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p3SRkI4S+7nnglvZpKXlPDlC7OPcSRj0CsMgCurLZMQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p3SRkI4S+7nnglvZpKXlPDlC7OPcSRj0CsMgCurLZMQ="
+    }
+  },
+  "version": "1.2.13"
+}

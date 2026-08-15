@@ -1,0 +1,8 @@
+{
+  "package": "com.uragiristereo.reversepixelify",
+  "signerFingerprints": [
+    "F4:0F:0F:2F:91:9F:B7:FC:B7:B3:28:A8:15:F0:62:A0:79:F0:8E:F1:66:36:2F:17:AE:05:70:D6:54:4A:1B:76"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.samebits.beacon.locator_122.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q3rGdvecEkkn9vBLZGnZz1l0c8yUujzZPBazR78+ufA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q3rGdvecEkkn9vBLZGnZz1l0c8yUujzZPBazR78+ufA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q3rGdvecEkkn9vBLZGnZz1l0c8yUujzZPBazR78+ufA="
+    }
+  },
+  "version": "1.2.2"
+}

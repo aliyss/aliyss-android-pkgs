@@ -1,0 +1,18 @@
+{
+  "apkName": "liou.rayyuan.ebooksearchtaiwan_1922210103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Yi9zGss3U05jFuWkqlHFqnYliz0IBVCmZ7EObG6Vzrs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Yi9zGss3U05jFuWkqlHFqnYliz0IBVCmZ7EObG6Vzrs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Yi9zGss3U05jFuWkqlHFqnYliz0IBVCmZ7EObG6Vzrs="
+    }
+  },
+  "version": "2.1.2"
+}

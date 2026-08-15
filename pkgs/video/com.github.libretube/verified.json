@@ -1,0 +1,8 @@
+{
+  "package": "com.github.libretube",
+  "signerFingerprints": [
+    "A8:66:31:E8:CC:55:58:38:E8:DF:C2:90:19:FB:0F:7D:AC:33:3E:F1:CD:A1:13:9C:42:4D:1A:08:D6:8A:03:0B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

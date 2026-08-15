@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.folderlogs_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QLBpz4ThUzJ/ZEn++XCXxUsmi2iFH5uC1sJXrTO34I0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QLBpz4ThUzJ/ZEn++XCXxUsmi2iFH5uC1sJXrTO34I0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QLBpz4ThUzJ/ZEn++XCXxUsmi2iFH5uC1sJXrTO34I0="
+    }
+  },
+  "version": "1.0"
+}

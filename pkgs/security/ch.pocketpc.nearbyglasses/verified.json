@@ -1,0 +1,8 @@
+{
+  "package": "ch.pocketpc.nearbyglasses",
+  "signerFingerprints": [
+    "3E:F5:9D:2B:F9:3C:75:64:21:5B:7C:01:6A:D1:DC:28:96:4E:CB:D3:09:5D:FA:56:61:17:4F:B0:01:04:EB:A4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

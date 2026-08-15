@@ -1,0 +1,8 @@
+{
+  "package": "org.fairspeed.test",
+  "signerFingerprints": [
+    "AB:66:08:24:E3:85:AE:17:A2:D6:34:50:22:05:6B:D6:D5:36:D2:E6:13:AF:60:69:88:41:E5:BE:22:D6:5C:64"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

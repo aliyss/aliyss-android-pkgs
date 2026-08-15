@@ -1,0 +1,18 @@
+{
+  "apkName": "com.matt.outfield_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n9PMUZVqTjzdjC+5Gs8rk8OAR0hyiki4Ex3NOACnW0M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n9PMUZVqTjzdjC+5Gs8rk8OAR0hyiki4Ex3NOACnW0M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n9PMUZVqTjzdjC+5Gs8rk8OAR0hyiki4Ex3NOACnW0M="
+    }
+  },
+  "version": "5"
+}

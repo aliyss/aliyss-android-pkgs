@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mendhak.conscryptprovider_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CO8ufQvf5KqcY5mtqWtpSs46oy1s+MkP6AMgtTTsUSY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CO8ufQvf5KqcY5mtqWtpSs46oy1s+MkP6AMgtTTsUSY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CO8ufQvf5KqcY5mtqWtpSs46oy1s+MkP6AMgtTTsUSY="
+    }
+  },
+  "version": "3"
+}

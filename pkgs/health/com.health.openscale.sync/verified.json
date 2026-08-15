@@ -1,0 +1,8 @@
+{
+  "package": "com.health.openscale.sync",
+  "signerFingerprints": [
+    "4C:A8:8C:DD:20:B4:02:EA:ED:FA:9D:1E:CD:F9:A1:CC:3E:07:66:F8:EC:93:35:EA:28:34:F9:39:87:E8:3F:81"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "projects.medicationtracker_58.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sxuBvAYzdFuonjDZHyf1c/9Gxl+nZSme6/c3SBvssvM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sxuBvAYzdFuonjDZHyf1c/9Gxl+nZSme6/c3SBvssvM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sxuBvAYzdFuonjDZHyf1c/9Gxl+nZSme6/c3SBvssvM="
+    }
+  },
+  "version": "0.17.10"
+}

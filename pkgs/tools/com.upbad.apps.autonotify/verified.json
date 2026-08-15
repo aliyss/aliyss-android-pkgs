@@ -1,0 +1,8 @@
+{
+  "package": "com.upbad.apps.autonotify",
+  "signerFingerprints": [
+    "F3:69:20:C6:83:97:5A:6F:9D:4C:CB:BA:94:FB:BB:11:14:13:BD:3C:36:AC:2F:97:67:33:18:34:D3:46:CD:96"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

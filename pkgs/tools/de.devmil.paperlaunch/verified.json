@@ -1,0 +1,8 @@
+{
+  "package": "de.devmil.paperlaunch",
+  "signerFingerprints": [
+    "C4:C0:5E:10:45:A7:8F:9D:00:B0:2F:B9:11:FE:C6:CB:C3:69:02:9A:BF:FC:48:4C:CD:40:C2:1F:50:4C:8F:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

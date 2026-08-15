@@ -1,0 +1,8 @@
+{
+  "package": "com.zfdang.zsmth_android",
+  "signerFingerprints": [
+    "D7:A9:9D:20:61:45:3A:DC:65:A1:05:C0:89:39:99:34:B9:A1:43:D2:F8:4E:84:12:23:AD:EA:67:9A:2A:50:5B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

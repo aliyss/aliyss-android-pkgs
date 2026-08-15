@@ -1,0 +1,18 @@
+{
+  "apkName": "com.reminimalism.materialslivewallpaper_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1Kg/gBzC+cV7KUPCg5XeeMBTWA0acWjujalmc7PanYo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1Kg/gBzC+cV7KUPCg5XeeMBTWA0acWjujalmc7PanYo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1Kg/gBzC+cV7KUPCg5XeeMBTWA0acWjujalmc7PanYo="
+    }
+  },
+  "version": "1.9"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "green_green_avk.anotherterm.redist",
+  "signerFingerprints": [
+    "F4:DC:2E:E4:83:06:64:77:49:D2:C8:EA:7B:53:B1:59:A6:EF:2E:6D:30:2E:98:B0:50:E7:CA:40:CF:05:83:A4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

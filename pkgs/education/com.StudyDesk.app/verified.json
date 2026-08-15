@@ -1,0 +1,8 @@
+{
+  "package": "com.StudyDesk.app",
+  "signerFingerprints": [
+    "27:E1:7D:1F:BA:15:7D:A6:EA:CD:E5:84:85:AA:B5:60:66:20:0C:C4:5A:D0:0B:D5:18:D8:28:36:7E:C1:55:E4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

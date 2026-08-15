@@ -1,0 +1,18 @@
+{
+  "apkName": "com.simon.harmonichackernews_80.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3mXKHyumxih8xGTEiDyNsy1rViv1ZhSv8P5Dhp9OHwA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3mXKHyumxih8xGTEiDyNsy1rViv1ZhSv8P5Dhp9OHwA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3mXKHyumxih8xGTEiDyNsy1rViv1ZhSv8P5Dhp9OHwA="
+    }
+  },
+  "version": "3.1.2"
+}

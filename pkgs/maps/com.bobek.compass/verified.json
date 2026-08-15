@@ -1,0 +1,8 @@
+{
+  "package": "com.bobek.compass",
+  "signerFingerprints": [
+    "9D:CA:AA:64:A4:9D:0C:2A:08:13:9E:31:C7:2C:38:E1:E9:C6:AF:DF:AE:9B:C4:CC:0F:A6:98:D5:B9:C2:CC:D7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

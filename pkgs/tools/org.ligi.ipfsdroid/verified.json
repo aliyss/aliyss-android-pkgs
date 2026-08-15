@@ -1,0 +1,8 @@
+{
+  "package": "org.ligi.ipfsdroid",
+  "signerFingerprints": [
+    "80:5F:7F:C7:A8:10:F6:54:D8:74:2E:28:53:8F:3A:5D:A9:ED:A2:8B:E6:E2:D9:A0:DF:11:1A:ED:A2:1D:5E:53"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

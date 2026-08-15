@@ -1,0 +1,8 @@
+{
+  "package": "com.workingagenda.democracydroid",
+  "signerFingerprints": [
+    "17:E1:F8:18:22:C6:3D:A4:26:E2:DF:3E:DD:B0:B9:2F:98:22:4E:03:86:AD:A2:CA:D0:51:6D:01:EA:DB:80:BE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

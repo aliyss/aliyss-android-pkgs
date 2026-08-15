@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zfdang.zsmth_android_1026.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-y0k3OIZMvdwFQnMpS9q3z8M+5XxpkRta8baIzC3lVS0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y0k3OIZMvdwFQnMpS9q3z8M+5XxpkRta8baIzC3lVS0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y0k3OIZMvdwFQnMpS9q3z8M+5XxpkRta8baIzC3lVS0="
+    }
+  },
+  "version": "25.11.22"
+}

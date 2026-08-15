@@ -1,0 +1,18 @@
+{
+  "apkName": "org.screenlite.webkiosk_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RizIeuCWIN/OnXp+wQBfpv/+9/S3LBS1FZnoOkI+hVk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RizIeuCWIN/OnXp+wQBfpv/+9/S3LBS1FZnoOkI+hVk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RizIeuCWIN/OnXp+wQBfpv/+9/S3LBS1FZnoOkI+hVk="
+    }
+  },
+  "version": "0.0.11"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.screenlite.webkiosk",
+  "signerFingerprints": [
+    "DB:A8:55:42:BF:1D:35:97:EE:97:85:A7:9B:30:80:F1:0B:88:88:06:D3:6F:A3:7A:1E:28:44:92:7E:83:3B:8B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

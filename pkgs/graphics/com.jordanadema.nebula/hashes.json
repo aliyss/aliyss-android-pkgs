@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jordanadema.nebula_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kj14PF07R2rZK037Frt6RQgbsdT60fuRMa/NcnahacI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kj14PF07R2rZK037Frt6RQgbsdT60fuRMa/NcnahacI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kj14PF07R2rZK037Frt6RQgbsdT60fuRMa/NcnahacI="
+    }
+  },
+  "version": "4.12.0"
+}

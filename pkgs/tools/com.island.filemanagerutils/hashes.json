@@ -1,0 +1,18 @@
+{
+  "apkName": "com.island.filemanagerutils_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4w+LUzO+E3qrXaqmB+L4Adm5TIQjshRjebQJKF0VeHs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4w+LUzO+E3qrXaqmB+L4Adm5TIQjshRjebQJKF0VeHs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4w+LUzO+E3qrXaqmB+L4Adm5TIQjshRjebQJKF0VeHs="
+    }
+  },
+  "version": "0.1.1"
+}

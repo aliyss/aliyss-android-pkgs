@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.planespotter_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/QEXe/djBQzky/KsSj+wU29/I/VTdAxhCHRIywl33mo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/QEXe/djBQzky/KsSj+wU29/I/VTdAxhCHRIywl33mo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/QEXe/djBQzky/KsSj+wU29/I/VTdAxhCHRIywl33mo="
+    }
+  },
+  "version": "1.0"
+}

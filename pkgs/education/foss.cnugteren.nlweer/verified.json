@@ -1,0 +1,8 @@
+{
+  "package": "foss.cnugteren.nlweer",
+  "signerFingerprints": [
+    "7A:07:03:17:36:AE:6B:D8:F8:5E:E0:67:A7:45:49:DD:40:9F:58:31:DA:38:C0:C7:B8:C8:10:54:2F:10:DA:F6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

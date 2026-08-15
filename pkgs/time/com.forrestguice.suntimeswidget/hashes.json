@@ -1,0 +1,18 @@
+{
+  "apkName": "com.forrestguice.suntimeswidget_134.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kRJ86sThhDfQ/CP4aOU2dhOxu9SIkQ5fuCqUSwH/SEg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kRJ86sThhDfQ/CP4aOU2dhOxu9SIkQ5fuCqUSwH/SEg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kRJ86sThhDfQ/CP4aOU2dhOxu9SIkQ5fuCqUSwH/SEg="
+    }
+  },
+  "version": "0.17.4"
+}

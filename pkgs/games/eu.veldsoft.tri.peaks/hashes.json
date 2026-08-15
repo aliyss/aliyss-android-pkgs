@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.tri.peaks_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-52PGuF8zdmY/Nki4OFrGD7IeENP4Za3GLgp5hIZnAjM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-52PGuF8zdmY/Nki4OFrGD7IeENP4Za3GLgp5hIZnAjM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-52PGuF8zdmY/Nki4OFrGD7IeENP4Za3GLgp5hIZnAjM="
+    }
+  },
+  "version": "1.2.1"
+}

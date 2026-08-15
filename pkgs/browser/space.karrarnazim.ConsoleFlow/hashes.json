@@ -1,0 +1,18 @@
+{
+  "apkName": "space.karrarnazim.ConsoleFlow_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4/1Ew6eOLa07IsCNBrwlu0dv/wAB9xZnAyT1dU/varY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4/1Ew6eOLa07IsCNBrwlu0dv/wAB9xZnAyT1dU/varY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4/1Ew6eOLa07IsCNBrwlu0dv/wAB9xZnAyT1dU/varY="
+    }
+  },
+  "version": "2.2.8"
+}

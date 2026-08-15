@@ -1,0 +1,8 @@
+{
+  "package": "com.readrops.app",
+  "signerFingerprints": [
+    "CD:1C:41:CF:78:0E:7D:37:26:66:FC:73:AC:09:EA:1D:C5:21:47:ED:85:3A:AA:29:38:19:72:8C:BE:9C:49:C7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

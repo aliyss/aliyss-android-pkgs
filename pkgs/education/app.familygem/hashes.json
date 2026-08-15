@@ -1,0 +1,18 @@
+{
+  "apkName": "app.familygem_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mYOTfDGd0PFcPU0c11FwML2DMqc3WoX/Mwdu2mNPux0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mYOTfDGd0PFcPU0c11FwML2DMqc3WoX/Mwdu2mNPux0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mYOTfDGd0PFcPU0c11FwML2DMqc3WoX/Mwdu2mNPux0="
+    }
+  },
+  "version": "1.2"
+}

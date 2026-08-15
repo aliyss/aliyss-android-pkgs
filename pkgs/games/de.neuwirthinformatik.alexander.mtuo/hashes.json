@@ -1,0 +1,18 @@
+{
+  "apkName": "de.neuwirthinformatik.alexander.mtuo_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-L97/iLt++nFBMem3no2cBWmof4sr0de3FzmLg7kht+w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-L97/iLt++nFBMem3no2cBWmof4sr0de3FzmLg7kht+w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-L97/iLt++nFBMem3no2cBWmof4sr0de3FzmLg7kht+w="
+    }
+  },
+  "version": "6.5.1-r4"
+}

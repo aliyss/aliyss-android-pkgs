@@ -1,0 +1,8 @@
+{
+  "package": "com.gravityplay",
+  "signerFingerprints": [
+    "FF:F8:F8:5F:27:9A:5A:91:19:55:49:0E:FF:05:20:E7:0A:89:F1:B1:0A:78:77:C7:64:0E:D2:BC:ED:EA:3B:61"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

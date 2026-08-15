@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.slideshow_screensaver_2010617.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-u//furWMw0Iz07EqfW1hv6qYDRHnbRYEUPXtfLu0yWE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u//furWMw0Iz07EqfW1hv6qYDRHnbRYEUPXtfLu0yWE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u//furWMw0Iz07EqfW1hv6qYDRHnbRYEUPXtfLu0yWE="
+    }
+  },
+  "version": "002.01.06-17API"
+}

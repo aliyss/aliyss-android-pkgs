@@ -1,0 +1,8 @@
+{
+  "package": "freemap.hikar",
+  "signerFingerprints": [
+    "DE:73:77:01:0E:E4:A1:58:FA:3E:D5:A5:D5:8B:D0:55:73:A5:41:23:D2:1C:26:C1:C2:B2:7A:D9:F2:0C:E3:B3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

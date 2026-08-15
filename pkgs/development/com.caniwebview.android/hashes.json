@@ -1,0 +1,18 @@
+{
+  "apkName": "com.caniwebview.android_1100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tUvYlEXSguoyn32Qp9oVqWhswZ9zbPkPmorE6R0hh3o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tUvYlEXSguoyn32Qp9oVqWhswZ9zbPkPmorE6R0hh3o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tUvYlEXSguoyn32Qp9oVqWhswZ9zbPkPmorE6R0hh3o="
+    }
+  },
+  "version": "1.1.0"
+}

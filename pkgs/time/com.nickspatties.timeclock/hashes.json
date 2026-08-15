@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nickspatties.timeclock_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-azsZ1JvqvohaQlbJILeBwCZl2hLCLkxV8m6iICoDEOg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-azsZ1JvqvohaQlbJILeBwCZl2hLCLkxV8m6iICoDEOg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-azsZ1JvqvohaQlbJILeBwCZl2hLCLkxV8m6iICoDEOg="
+    }
+  },
+  "version": "1.0.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.wifi_password_manager_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lo/zAzKcBAnOZYI5M0iC/f6xywHUuSzrT+G64cVAKBs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lo/zAzKcBAnOZYI5M0iC/f6xywHUuSzrT+G64cVAKBs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lo/zAzKcBAnOZYI5M0iC/f6xywHUuSzrT+G64cVAKBs="
+    }
+  },
+  "version": "1.16"
+}

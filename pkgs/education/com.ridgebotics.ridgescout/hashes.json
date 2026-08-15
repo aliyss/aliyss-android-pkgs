@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ridgebotics.ridgescout_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LtZMpVU6qQ0mP1XWmKRQ3hEhC9s/chk3l3SYmTQfPTc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LtZMpVU6qQ0mP1XWmKRQ3hEhC9s/chk3l3SYmTQfPTc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LtZMpVU6qQ0mP1XWmKRQ3hEhC9s/chk3l3SYmTQfPTc="
+    }
+  },
+  "version": "3.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.listen1.app",
+  "signerFingerprints": [
+    "F3:39:8B:9A:C3:85:20:80:CB:26:BD:77:20:42:92:F3:13:CE:92:76:EE:3A:63:33:40:13:44:8F:3F:15:9F:5A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

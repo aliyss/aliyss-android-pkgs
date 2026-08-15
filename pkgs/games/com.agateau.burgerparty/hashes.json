@@ -1,0 +1,18 @@
+{
+  "apkName": "com.agateau.burgerparty_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6TTMKAGOXOUtXQ7TME/tjShYXa/hzDd+hLqO6FagjfQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6TTMKAGOXOUtXQ7TME/tjShYXa/hzDd+hLqO6FagjfQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6TTMKAGOXOUtXQ7TME/tjShYXa/hzDd+hLqO6FagjfQ="
+    }
+  },
+  "version": "1.4.6"
+}

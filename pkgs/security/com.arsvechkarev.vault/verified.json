@@ -1,0 +1,8 @@
+{
+  "package": "com.arsvechkarev.vault",
+  "signerFingerprints": [
+    "19:62:9C:DB:EF:A7:86:FE:E1:7C:35:E7:79:84:D7:A7:5E:B6:9D:CF:5C:44:27:90:4B:33:12:44:6A:1E:35:DD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

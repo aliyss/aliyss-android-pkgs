@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.aungkyawpaing.ccdroidx_1030000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iC/HKn5Ms+SubRWUxyWVn4V4M7iWE/M2xtyfXYipK5s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iC/HKn5Ms+SubRWUxyWVn4V4M7iWE/M2xtyfXYipK5s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iC/HKn5Ms+SubRWUxyWVn4V4M7iWE/M2xtyfXYipK5s="
+    }
+  },
+  "version": "1.3.0"
+}

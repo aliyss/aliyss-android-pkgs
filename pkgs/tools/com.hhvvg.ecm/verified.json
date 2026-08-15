@@ -1,0 +1,8 @@
+{
+  "package": "com.hhvvg.ecm",
+  "signerFingerprints": [
+    "94:52:90:70:19:D2:40:A2:E7:DC:42:B7:20:A7:53:D7:53:F7:F6:01:38:95:93:6D:65:1C:5C:85:4A:46:71:5A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

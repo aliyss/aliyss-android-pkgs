@@ -1,0 +1,8 @@
+{
+  "package": "de.buttercookie.simbadroid",
+  "signerFingerprints": [
+    "7B:AA:B2:FE:B8:AC:7F:E1:0F:E5:41:4E:4D:28:AA:90:1A:52:59:81:B1:20:1E:2D:58:3D:F5:BB:6D:9B:1B:13"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

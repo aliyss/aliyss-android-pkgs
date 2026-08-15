@@ -1,0 +1,18 @@
+{
+  "apkName": "de.monocles.social_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TU2vReoqLXEBFbNrDBvDQ5n55neyY/1SqlKyQzTMiCM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TU2vReoqLXEBFbNrDBvDQ5n55neyY/1SqlKyQzTMiCM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TU2vReoqLXEBFbNrDBvDQ5n55neyY/1SqlKyQzTMiCM="
+    }
+  },
+  "version": "1.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aurora.adroid_201.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kmedr+5mx9lJyPemX/PylEFAV4u2h80W9ekklcuMQIc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kmedr+5mx9lJyPemX/PylEFAV4u2h80W9ekklcuMQIc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kmedr+5mx9lJyPemX/PylEFAV4u2h80W9ekklcuMQIc="
+    }
+  },
+  "version": "2.0.1"
+}

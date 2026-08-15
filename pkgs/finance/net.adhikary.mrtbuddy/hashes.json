@@ -1,0 +1,18 @@
+{
+  "apkName": "net.adhikary.mrtbuddy_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mF8WgiG7bxZFn8VhbBlfaZaJa7QkosKMV3VWZKHLdXc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mF8WgiG7bxZFn8VhbBlfaZaJa7QkosKMV3VWZKHLdXc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mF8WgiG7bxZFn8VhbBlfaZaJa7QkosKMV3VWZKHLdXc="
+    }
+  },
+  "version": "0.0.24"
+}

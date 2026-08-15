@@ -1,0 +1,18 @@
+{
+  "apkName": "de.buttercookie.simbadroid_102.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-v5Tq4El1IBDDitPuH7yMIQrdRweTZfWuX3/Ik2nlXDg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v5Tq4El1IBDDitPuH7yMIQrdRweTZfWuX3/Ik2nlXDg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v5Tq4El1IBDDitPuH7yMIQrdRweTZfWuX3/Ik2nlXDg="
+    }
+  },
+  "version": "0.8"
+}

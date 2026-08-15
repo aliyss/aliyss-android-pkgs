@@ -1,0 +1,8 @@
+{
+  "package": "com.husudosu.mpvremote",
+  "signerFingerprints": [
+    "8D:45:43:C4:64:27:FB:6A:45:8E:21:6C:31:B4:40:CC:A9:24:46:C3:9F:63:73:57:4E:14:55:ED:09:AC:3F:B7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

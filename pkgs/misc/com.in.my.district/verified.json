@@ -1,0 +1,8 @@
+{
+  "package": "com.in.my.district",
+  "signerFingerprints": [
+    "0B:57:9E:52:E0:F1:3B:E5:BD:12:C1:7E:6B:9A:61:22:A8:71:3C:B3:47:09:79:63:72:33:04:0C:E1:98:58:C9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

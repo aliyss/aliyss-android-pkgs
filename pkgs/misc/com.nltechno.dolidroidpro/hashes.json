@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nltechno.dolidroidpro_69.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SAeKCbDBDjnN5b/jc7BW2PfagNOWe4D+SewzgyseFRc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SAeKCbDBDjnN5b/jc7BW2PfagNOWe4D+SewzgyseFRc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SAeKCbDBDjnN5b/jc7BW2PfagNOWe4D+SewzgyseFRc="
+    }
+  },
+  "version": "3.0.69"
+}

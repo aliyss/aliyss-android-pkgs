@@ -1,0 +1,8 @@
+{
+  "package": "com.arslan.shizuwall",
+  "signerFingerprints": [
+    "6D:ED:BD:D9:03:C5:43:AB:3A:00:BB:49:3B:4C:06:4D:10:CC:1E:5B:90:9E:48:D7:5C:E3:22:C3:ED:B7:0D:C9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "de.jepfa.yapm",
+  "signerFingerprints": [
+    "CB:B8:71:2D:E9:D3:17:8A:01:25:7D:E6:3F:27:1E:64:32:B5:B4:99:29:7F:24:63:B9:D0:C0:C0:28:94:AA:8A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

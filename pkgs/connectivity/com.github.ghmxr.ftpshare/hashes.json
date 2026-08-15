@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.ghmxr.ftpshare_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MSTFhOxnbfgvvioYPgxOetDg7xGnDKpzs+MQBCIyjik="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MSTFhOxnbfgvvioYPgxOetDg7xGnDKpzs+MQBCIyjik="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MSTFhOxnbfgvvioYPgxOetDg7xGnDKpzs+MQBCIyjik="
+    }
+  },
+  "version": "Build 12"
+}

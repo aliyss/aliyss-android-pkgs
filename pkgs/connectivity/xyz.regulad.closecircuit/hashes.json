@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.regulad.closecircuit_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Gf1aTqfakxNQRRRz06fH4cjRvpfzFoZX+iMOQtIq3ig="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gf1aTqfakxNQRRRz06fH4cjRvpfzFoZX+iMOQtIq3ig="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gf1aTqfakxNQRRRz06fH4cjRvpfzFoZX+iMOQtIq3ig="
+    }
+  },
+  "version": "1.0.2"
+}

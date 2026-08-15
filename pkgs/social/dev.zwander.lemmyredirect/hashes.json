@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.zwander.lemmyredirect_44.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2SsqOu7kEMAyIVDU2/gjL3tybha+JOk9NBFm/yjTD3M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2SsqOu7kEMAyIVDU2/gjL3tybha+JOk9NBFm/yjTD3M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2SsqOu7kEMAyIVDU2/gjL3tybha+JOk9NBFm/yjTD3M="
+    }
+  },
+  "version": "1.15.1"
+}

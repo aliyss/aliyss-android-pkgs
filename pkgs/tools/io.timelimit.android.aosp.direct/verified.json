@@ -1,0 +1,8 @@
+{
+  "package": "io.timelimit.android.aosp.direct",
+  "signerFingerprints": [
+    "46:DF:B6:25:6D:4C:E4:58:78:08:95:C7:0E:B9:B2:A9:57:34:12:AB:0C:70:66:A6:15:FA:DE:FA:B8:E6:E0:3F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

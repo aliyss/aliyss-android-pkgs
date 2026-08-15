@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.org.boddie.android.weatherforecast_173.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/Scl84AfQwK9HbxQS0WYD4UvzFDTXbU9Hi0YIrQTwqQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Scl84AfQwK9HbxQS0WYD4UvzFDTXbU9Hi0YIrQTwqQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Scl84AfQwK9HbxQS0WYD4UvzFDTXbU9Hi0YIrQTwqQ="
+    }
+  },
+  "version": "1.7.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.afhdownloader_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VdhTQ9nzxsycYQvSAkmwbsFr3JOJL0g7kjZzgywydZU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VdhTQ9nzxsycYQvSAkmwbsFr3JOJL0g7kjZzgywydZU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VdhTQ9nzxsycYQvSAkmwbsFr3JOJL0g7kjZzgywydZU="
+    }
+  },
+  "version": "0.4.6"
+}

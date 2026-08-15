@@ -1,0 +1,8 @@
+{
+  "package": "org.musicbrainz.picard.barcodescanner",
+  "signerFingerprints": [
+    "52:E8:AC:74:AE:A0:D8:28:3A:69:13:EA:1A:29:B5:1A:12:AE:49:3E:F6:C9:E1:AE:53:3E:3D:04:54:39:EF:02"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

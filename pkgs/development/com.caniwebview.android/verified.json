@@ -1,0 +1,8 @@
+{
+  "package": "com.caniwebview.android",
+  "signerFingerprints": [
+    "7E:74:18:49:E8:93:CD:6D:7D:00:B3:D1:67:F3:33:43:49:76:CC:21:95:96:4D:55:6A:88:30:F8:69:98:FA:D3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

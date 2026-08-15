@@ -1,0 +1,18 @@
+{
+  "apkName": "org.joinmastodon.android_189.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-P20YRgvrnwY216PRVBESFAfn5BsQr5/OF1bpMi0bljU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P20YRgvrnwY216PRVBESFAfn5BsQr5/OF1bpMi0bljU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P20YRgvrnwY216PRVBESFAfn5BsQr5/OF1bpMi0bljU="
+    }
+  },
+  "version": "2.13.2"
+}

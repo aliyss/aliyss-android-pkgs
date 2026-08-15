@@ -1,0 +1,8 @@
+{
+  "package": "com.food.opencook",
+  "signerFingerprints": [
+    "A5:67:B7:BB:65:BD:9C:28:4F:28:43:D2:0D:7C:D0:09:F8:C7:BB:E0:0A:32:50:37:61:24:59:A9:CA:EB:30:26"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

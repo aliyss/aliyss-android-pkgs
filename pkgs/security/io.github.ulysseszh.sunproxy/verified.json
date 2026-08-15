@@ -1,0 +1,8 @@
+{
+  "package": "io.github.ulysseszh.sunproxy",
+  "signerFingerprints": [
+    "2E:25:E9:43:F5:52:5F:6F:26:33:5D:9B:7B:D8:B7:1E:E4:E7:07:F0:A3:22:6D:A6:BF:7B:CE:03:94:90:F4:FD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

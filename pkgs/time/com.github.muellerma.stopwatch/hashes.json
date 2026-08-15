@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.muellerma.stopwatch_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-96YtGnJFe2R/TiYOqHZwpkqSAH4UYgVYJsX+tBK5axM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-96YtGnJFe2R/TiYOqHZwpkqSAH4UYgVYJsX+tBK5axM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-96YtGnJFe2R/TiYOqHZwpkqSAH4UYgVYJsX+tBK5axM="
+    }
+  },
+  "version": "1.7"
+}

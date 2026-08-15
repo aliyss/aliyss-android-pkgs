@@ -1,0 +1,8 @@
+{
+  "package": "org.kore.kolabnotes.android",
+  "signerFingerprints": [
+    "9D:D0:50:5E:F1:CD:C7:46:6A:73:E8:51:FB:71:11:9E:70:BD:F3:22:7F:4A:50:B0:C8:65:0F:92:6E:CC:FB:84"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

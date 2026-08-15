@@ -1,0 +1,8 @@
+{
+  "package": "io.github.krlvm.powertunnel.android",
+  "signerFingerprints": [
+    "A5:1F:EC:9D:EE:A6:EB:FC:36:D2:06:2E:6A:67:39:77:6F:82:6A:4D:CF:6D:58:1B:C3:A2:A7:83:DE:6D:B8:A9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

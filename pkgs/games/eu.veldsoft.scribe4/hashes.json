@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.scribe4_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oeZMGPRRKzmbDOPXesLy59rHl6D0Ry82X160RfNREgw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oeZMGPRRKzmbDOPXesLy59rHl6D0Ry82X160RfNREgw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oeZMGPRRKzmbDOPXesLy59rHl6D0Ry82X160RfNREgw="
+    }
+  },
+  "version": "1.2.1"
+}

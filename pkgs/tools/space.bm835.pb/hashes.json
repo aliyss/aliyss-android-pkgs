@@ -1,0 +1,18 @@
+{
+  "apkName": "space.bm835.pb_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4eYrgyC3y5Yiv3AptPJppLZgHF346L0p2MlNH7PiU18="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4eYrgyC3y5Yiv3AptPJppLZgHF346L0p2MlNH7PiU18="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4eYrgyC3y5Yiv3AptPJppLZgHF346L0p2MlNH7PiU18="
+    }
+  },
+  "version": "2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "askanimus.qrlager",
+  "signerFingerprints": [
+    "82:3D:8C:76:FB:A5:25:CC:D7:6F:D1:CA:A1:88:52:69:FA:F2:E6:07:16:3C:BD:10:38:82:9F:23:28:D8:40:A9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

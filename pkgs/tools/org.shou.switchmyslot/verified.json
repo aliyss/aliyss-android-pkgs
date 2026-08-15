@@ -1,0 +1,8 @@
+{
+  "package": "org.shou.switchmyslot",
+  "signerFingerprints": [
+    "74:46:1F:50:77:9F:08:D6:9E:00:16:5B:35:A5:D0:41:DB:31:7D:44:74:24:28:F6:AF:4E:71:1B:09:C7:52:47"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

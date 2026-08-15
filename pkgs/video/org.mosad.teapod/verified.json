@@ -1,0 +1,8 @@
+{
+  "package": "org.mosad.teapod",
+  "signerFingerprints": [
+    "A6:DC:C9:72:33:09:1C:17:2D:BF:F3:FA:08:8F:44:2C:56:74:AD:00:C9:D3:FF:21:00:52:5C:5D:DB:EB:3E:7B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.umer0586.droidpad_46.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vK5BGz9o3O35T3yg8/i/6s768Suv9cJsuAo+kMlLt4U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vK5BGz9o3O35T3yg8/i/6s768Suv9cJsuAo+kMlLt4U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vK5BGz9o3O35T3yg8/i/6s768Suv9cJsuAo+kMlLt4U="
+    }
+  },
+  "version": "3.12.0"
+}

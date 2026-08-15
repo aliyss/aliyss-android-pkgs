@@ -1,0 +1,8 @@
+{
+  "package": "com.afwsamples.testdpc",
+  "signerFingerprints": [
+    "80:90:F6:63:0B:4E:89:62:47:91:23:24:90:87:CB:46:58:FE:AA:E3:6A:1B:57:DB:EA:FD:74:D1:09:B3:33:DC"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

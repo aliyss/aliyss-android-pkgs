@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlytodolist_103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gMb2jslKVhFXrY200zUAPSssiuuitkmrn0RrRHQ/wK8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gMb2jslKVhFXrY200zUAPSssiuuitkmrn0RrRHQ/wK8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gMb2jslKVhFXrY200zUAPSssiuuitkmrn0RrRHQ/wK8="
+    }
+  },
+  "version": "3.4.0"
+}

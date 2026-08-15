@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.yamin8000.dooz_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KZ6rIayLPGGS7b2IeWZVT++ErQJtJpuQZzECFSAbNis="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KZ6rIayLPGGS7b2IeWZVT++ErQJtJpuQZzECFSAbNis="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KZ6rIayLPGGS7b2IeWZVT++ErQJtJpuQZzECFSAbNis="
+    }
+  },
+  "version": "1.0.23"
+}

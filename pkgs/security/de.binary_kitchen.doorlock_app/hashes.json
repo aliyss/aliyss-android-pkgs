@@ -1,0 +1,18 @@
+{
+  "apkName": "de.binary_kitchen.doorlock_app_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9U4uYnsEfiKBM3+xJWGy7hDY1Vtbz5KuzaqlZjcj35w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9U4uYnsEfiKBM3+xJWGy7hDY1Vtbz5KuzaqlZjcj35w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9U4uYnsEfiKBM3+xJWGy7hDY1Vtbz5KuzaqlZjcj35w="
+    }
+  },
+  "version": "2.5"
+}

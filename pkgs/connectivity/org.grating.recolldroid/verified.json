@@ -1,0 +1,8 @@
+{
+  "package": "org.grating.recolldroid",
+  "signerFingerprints": [
+    "ED:E7:E5:64:74:12:31:CF:D5:5D:57:16:FA:7D:22:B2:E1:D7:7F:D4:6D:83:F9:20:DE:3A:47:19:71:EC:A2:F1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

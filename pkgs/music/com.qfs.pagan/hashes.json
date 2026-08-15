@@ -1,0 +1,18 @@
+{
+  "apkName": "com.qfs.pagan_168.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7Cq7yXKpkraFbX55BXJbl4Szmwy9KZ6mCJfeBG7Py8Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7Cq7yXKpkraFbX55BXJbl4Szmwy9KZ6mCJfeBG7Py8Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7Cq7yXKpkraFbX55BXJbl4Szmwy9KZ6mCJfeBG7Py8Q="
+    }
+  },
+  "version": "1.8.26"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.xlzhen.sharefileserver",
+  "signerFingerprints": [
+    "ED:5A:C1:C0:5D:25:D7:92:FD:60:CF:51:59:86:9B:B9:6A:30:B0:AF:8B:2F:A8:86:D8:C6:EC:EF:A0:9E:35:DF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

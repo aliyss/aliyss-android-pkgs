@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlysudoku",
+  "signerFingerprints": [
+    "27:15:AF:26:96:1B:F2:73:83:AC:5E:FC:D3:AA:72:03:C1:00:4D:18:9E:9B:2D:7D:5F:6D:73:86:CD:80:95:D8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

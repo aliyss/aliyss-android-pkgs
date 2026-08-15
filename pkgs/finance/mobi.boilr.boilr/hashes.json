@@ -1,0 +1,18 @@
+{
+  "apkName": "mobi.boilr.boilr_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1ybv+xjj71A0DdnUAZVliVgI5JL/HVf25Q/unJ7/O0Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1ybv+xjj71A0DdnUAZVliVgI5JL/HVf25Q/unJ7/O0Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1ybv+xjj71A0DdnUAZVliVgI5JL/HVf25Q/unJ7/O0Q="
+    }
+  },
+  "version": "0.7.0"
+}

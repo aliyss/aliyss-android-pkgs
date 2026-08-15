@@ -1,0 +1,8 @@
+{
+  "package": "au.com.wallaceit.reddinator",
+  "signerFingerprints": [
+    "09:0F:74:66:C2:F6:22:FF:0D:6A:A9:41:53:43:B8:32:42:61:A9:B2:C7:0A:48:53:98:C0:31:C8:C6:27:DF:39"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

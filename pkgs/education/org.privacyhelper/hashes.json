@@ -1,0 +1,18 @@
+{
+  "apkName": "org.privacyhelper_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2MBtok+BociY6DomrpH0UItynxHnot+VSwhHSyXsEyI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2MBtok+BociY6DomrpH0UItynxHnot+VSwhHSyXsEyI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2MBtok+BociY6DomrpH0UItynxHnot+VSwhHSyXsEyI="
+    }
+  },
+  "version": "0.7"
+}

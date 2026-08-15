@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ltrademark.hourly_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eJbDiD5ZjYq465xSsRx28RTGLCHosWYLGjiYvMNw35A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eJbDiD5ZjYq465xSsRx28RTGLCHosWYLGjiYvMNw35A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eJbDiD5ZjYq465xSsRx28RTGLCHosWYLGjiYvMNw35A="
+    }
+  },
+  "version": "1.8"
+}

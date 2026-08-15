@@ -1,0 +1,18 @@
+{
+  "apkName": "org.linaro.glmark2_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RbskUb4Nt3fLXlrBytzHoJMz5ZoJEtZTYQjStmhX1q4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RbskUb4Nt3fLXlrBytzHoJMz5ZoJEtZTYQjStmhX1q4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RbskUb4Nt3fLXlrBytzHoJMz5ZoJEtZTYQjStmhX1q4="
+    }
+  },
+  "version": "2023.01"
+}

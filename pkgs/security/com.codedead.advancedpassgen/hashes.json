@@ -1,0 +1,18 @@
+{
+  "apkName": "com.codedead.advancedpassgen_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QOGDZTol+sTL6j15Rnn1v1oAIZaa+qop7MNrQljFkc8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QOGDZTol+sTL6j15Rnn1v1oAIZaa+qop7MNrQljFkc8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QOGDZTol+sTL6j15Rnn1v1oAIZaa+qop7MNrQljFkc8="
+    }
+  },
+  "version": "1.0.3"
+}

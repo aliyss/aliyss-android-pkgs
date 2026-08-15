@@ -1,0 +1,18 @@
+{
+  "apkName": "com.alaskalinuxuser.hourglass_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ya55clpq7qUcpAY1WZwHOkPYlJuiV47M1+63iqo6ofY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ya55clpq7qUcpAY1WZwHOkPYlJuiV47M1+63iqo6ofY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ya55clpq7qUcpAY1WZwHOkPYlJuiV47M1+63iqo6ofY="
+    }
+  },
+  "version": "1.6"
+}

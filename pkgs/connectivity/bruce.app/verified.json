@@ -1,0 +1,8 @@
+{
+  "package": "bruce.app",
+  "signerFingerprints": [
+    "DA:CF:FF:B3:05:DB:3F:81:8B:61:0F:DF:83:68:D9:49:69:45:B7:9B:D8:85:2B:39:AF:57:79:99:63:42:74:00"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

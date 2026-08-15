@@ -1,0 +1,8 @@
+{
+  "package": "com.msb.bluecheese",
+  "signerFingerprints": [
+    "F6:6E:A8:8F:94:64:BB:A2:51:1F:82:E6:09:E4:0C:EB:C8:6D:4A:EB:8C:C5:54:2A:F1:AA:2A:78:05:8E:8A:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

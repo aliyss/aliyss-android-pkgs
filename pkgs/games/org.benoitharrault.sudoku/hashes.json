@@ -1,0 +1,18 @@
+{
+  "apkName": "org.benoitharrault.sudoku_95.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5M+GhY+svKIdMT4TqsjqbFM7D4ksjXzeLvHU69REPa8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5M+GhY+svKIdMT4TqsjqbFM7D4ksjXzeLvHU69REPa8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5M+GhY+svKIdMT4TqsjqbFM7D4ksjXzeLvHU69REPa8="
+    }
+  },
+  "version": "0.13.0"
+}

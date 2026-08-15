@@ -1,0 +1,18 @@
+{
+  "apkName": "cat.naval.atalaya_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+ZuCf5vZc9Mqe97gQ794Q4EJCCSYEWgbNz/07/UdSug="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+ZuCf5vZc9Mqe97gQ794Q4EJCCSYEWgbNz/07/UdSug="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+ZuCf5vZc9Mqe97gQ794Q4EJCCSYEWgbNz/07/UdSug="
+    }
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.icesu.kinnaid_567.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Mn+Wyfv7vP1rFLJA3o98FWWULlq3WYjWz3lpJGu+Uo8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mn+Wyfv7vP1rFLJA3o98FWWULlq3WYjWz3lpJGu+Uo8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mn+Wyfv7vP1rFLJA3o98FWWULlq3WYjWz3lpJGu+Uo8="
+    }
+  },
+  "version": "1.0.7"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.mkckr0.audio_share_app",
+  "signerFingerprints": [
+    "BD:BF:8E:59:01:27:E3:80:A2:8C:32:80:85:23:16:47:91:26:34:B4:5F:FA:A2:0D:9E:70:C9:66:58:CB:7A:40"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.monkopedia.healthdisconnect_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3neY/H48dcGVvpr9Rm/kU07i5GRcp1TMttoiVuGdcRo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3neY/H48dcGVvpr9Rm/kU07i5GRcp1TMttoiVuGdcRo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3neY/H48dcGVvpr9Rm/kU07i5GRcp1TMttoiVuGdcRo="
+    }
+  },
+  "version": "1.2.2"
+}

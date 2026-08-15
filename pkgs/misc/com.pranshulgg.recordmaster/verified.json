@@ -1,0 +1,8 @@
+{
+  "package": "com.pranshulgg.recordmaster",
+  "signerFingerprints": [
+    "47:D0:32:79:A2:CC:F5:A7:32:F3:B8:45:05:76:6C:D3:FB:36:C6:E5:1A:3E:34:24:2D:6B:C0:4B:4D:3B:99:75"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

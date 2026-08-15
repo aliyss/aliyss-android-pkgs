@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.agnosticapollo.xlogcatmanager_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oHhWh79hqEYYJ4djeCPfJt1l5MU5HcEbHW4DV59wKPY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oHhWh79hqEYYJ4djeCPfJt1l5MU5HcEbHW4DV59wKPY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oHhWh79hqEYYJ4djeCPfJt1l5MU5HcEbHW4DV59wKPY="
+    }
+  },
+  "version": "0.2.0"
+}

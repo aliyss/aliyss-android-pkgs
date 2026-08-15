@@ -1,0 +1,8 @@
+{
+  "package": "org.projectmaxs.module.smsnotify",
+  "signerFingerprints": [
+    "3D:36:AC:B0:E2:66:7C:6D:AC:BC:39:66:0C:5A:59:5E:8D:3E:B3:67:3F:C9:2A:F5:7F:BB:DC:76:74:9F:BC:AE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

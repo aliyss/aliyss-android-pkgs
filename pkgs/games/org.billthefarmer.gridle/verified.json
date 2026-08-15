@@ -1,0 +1,8 @@
+{
+  "package": "org.billthefarmer.gridle",
+  "signerFingerprints": [
+    "8E:53:02:FE:84:1D:1E:8B:79:AD:6D:3C:44:7C:1F:4B:0D:10:6A:B2:CC:8E:C0:13:1C:4B:0B:2C:E1:DF:FD:11"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

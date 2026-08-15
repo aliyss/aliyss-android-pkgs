@@ -1,0 +1,8 @@
+{
+  "package": "com.mablanco.pricegrab",
+  "signerFingerprints": [
+    "70:A9:70:9C:E5:A4:82:96:68:D9:D5:04:11:B9:59:BB:90:AD:2E:19:D0:2E:20:69:AD:0F:F3:52:81:81:A9:FB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

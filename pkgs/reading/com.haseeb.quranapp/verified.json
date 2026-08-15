@@ -1,0 +1,8 @@
+{
+  "package": "com.haseeb.quranapp",
+  "signerFingerprints": [
+    "8D:C7:55:44:F1:12:E2:46:01:A3:D1:E9:4D:8D:53:22:8F:35:E5:DF:10:CD:F1:AE:DE:94:0B:47:9E:FA:02:A2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

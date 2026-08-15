@@ -1,0 +1,8 @@
+{
+  "package": "com.example.bluetoothconnect",
+  "signerFingerprints": [
+    "B2:15:DA:2C:F8:A4:C5:00:AF:0D:B3:BC:EC:B8:08:B4:9C:18:DD:35:84:DD:B2:DF:45:1F:6E:5B:92:B0:ED:F8"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "uk.ac.swansea.eduroamcat",
+  "signerFingerprints": [
+    "93:AC:22:87:40:DA:CE:A0:F0:5E:BD:C4:0E:AD:46:4F:4A:10:F2:3C:16:43:43:C7:5A:B1:89:61:1F:AC:42:05"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nononsenseapps.notepad_72600.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7UTXr/eEmKWYrJLoMchZZJKByM29TQ4XEwy93oB1URQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7UTXr/eEmKWYrJLoMchZZJKByM29TQ4XEwy93oB1URQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7UTXr/eEmKWYrJLoMchZZJKByM29TQ4XEwy93oB1URQ="
+    }
+  },
+  "version": "7.2.6"
+}

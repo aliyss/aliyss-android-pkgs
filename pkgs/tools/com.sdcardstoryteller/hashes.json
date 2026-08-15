@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sdcardstoryteller_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-esubNKNyItSv8hJbvURzNhbY34w4C1gLa33vIxWTrE8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-esubNKNyItSv8hJbvURzNhbY34w4C1gLa33vIxWTrE8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-esubNKNyItSv8hJbvURzNhbY34w4C1gLa33vIxWTrE8="
+    }
+  },
+  "version": "1.2"
+}

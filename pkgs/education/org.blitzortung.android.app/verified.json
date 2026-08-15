@@ -1,0 +1,8 @@
+{
+  "package": "org.blitzortung.android.app",
+  "signerFingerprints": [
+    "4E:A0:E0:71:02:DA:8F:1A:73:1F:FE:CE:E9:75:23:70:8F:5D:AC:03:93:08:40:1D:7D:F1:BF:A2:E6:CA:61:EB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

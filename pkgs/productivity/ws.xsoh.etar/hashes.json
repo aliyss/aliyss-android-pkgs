@@ -1,0 +1,18 @@
+{
+  "apkName": "ws.xsoh.etar_57.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2uAdk8iSCqY4RYaNshkLzEqm/4QQsSid4c4nsbuJxZk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2uAdk8iSCqY4RYaNshkLzEqm/4QQsSid4c4nsbuJxZk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2uAdk8iSCqY4RYaNshkLzEqm/4QQsSid4c4nsbuJxZk="
+    }
+  },
+  "version": "1.0.57"
+}

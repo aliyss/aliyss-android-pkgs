@@ -1,0 +1,18 @@
+{
+  "apkName": "com.afollestad.nocknock_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5/k71yXuOjadQJb9AqY0eWlAB0Bls06ZzskZnGOGxkw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5/k71yXuOjadQJb9AqY0eWlAB0Bls06ZzskZnGOGxkw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5/k71yXuOjadQJb9AqY0eWlAB0Bls06ZzskZnGOGxkw="
+    }
+  },
+  "version": "0.8.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.gaulupeau.apps.InThePoche_234.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zALfofzpOcuMKSF4/KtFIhyS7P3XnkSiMZ00bfNVXcI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zALfofzpOcuMKSF4/KtFIhyS7P3XnkSiMZ00bfNVXcI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zALfofzpOcuMKSF4/KtFIhyS7P3XnkSiMZ00bfNVXcI="
+    }
+  },
+  "version": "2.6.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zs.android.apps.photos_83.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jNisBqQqsm5UoE2LTv5fcUGJuUO6woYdbuDqWp5e6/4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jNisBqQqsm5UoE2LTv5fcUGJuUO6woYdbuDqWp5e6/4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jNisBqQqsm5UoE2LTv5fcUGJuUO6woYdbuDqWp5e6/4="
+    }
+  },
+  "version": "1.0.9-foss"
+}

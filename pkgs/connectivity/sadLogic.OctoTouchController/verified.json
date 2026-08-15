@@ -1,0 +1,8 @@
+{
+  "package": "sadLogic.OctoTouchController",
+  "signerFingerprints": [
+    "3E:28:74:52:F7:B5:EF:D3:E6:E0:FB:90:C4:EE:E9:F6:94:3D:A3:F9:84:2A:36:B5:9F:C9:12:15:C9:16:A4:CD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

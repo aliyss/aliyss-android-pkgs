@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.bailu.aat_45.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8QuuAudbiExukuFl5BycySv/UdhcJaoB/t32hHEIBJE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8QuuAudbiExukuFl5BycySv/UdhcJaoB/t32hHEIBJE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8QuuAudbiExukuFl5BycySv/UdhcJaoB/t32hHEIBJE="
+    }
+  },
+  "version": "v1.30.1"
+}

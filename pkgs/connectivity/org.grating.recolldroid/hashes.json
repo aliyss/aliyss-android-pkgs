@@ -1,0 +1,18 @@
+{
+  "apkName": "org.grating.recolldroid_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-a69mkbYdhJJSq9csr7JPRjDis6EbnfX5u5+bG49fR7c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a69mkbYdhJJSq9csr7JPRjDis6EbnfX5u5+bG49fR7c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a69mkbYdhJJSq9csr7JPRjDis6EbnfX5u5+bG49fR7c="
+    }
+  },
+  "version": "1.1"
+}

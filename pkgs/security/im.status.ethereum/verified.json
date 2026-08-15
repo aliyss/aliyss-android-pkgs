@@ -1,0 +1,8 @@
+{
+  "package": "im.status.ethereum",
+  "signerFingerprints": [
+    "64:99:F7:0E:0C:49:DB:1F:3F:50:76:92:4F:50:A3:B3:CD:26:50:25:CE:34:F4:13:C7:CB:B1:9B:09:53:5A:BE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

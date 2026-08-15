@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sjj.echo.umsinterface_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LgOpSgFDOH1ELL4hUsfrvkB/TzZBxnaUUGB7FHigYlo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LgOpSgFDOH1ELL4hUsfrvkB/TzZBxnaUUGB7FHigYlo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LgOpSgFDOH1ELL4hUsfrvkB/TzZBxnaUUGB7FHigYlo="
+    }
+  },
+  "version": "1.4.1"
+}

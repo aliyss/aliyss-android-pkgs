@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gpa.safecharge_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-q5FY1GbgkvS63BqVNT3LeespV/AUhr7vHuPgQnoPfmE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q5FY1GbgkvS63BqVNT3LeespV/AUhr7vHuPgQnoPfmE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q5FY1GbgkvS63BqVNT3LeespV/AUhr7vHuPgQnoPfmE="
+    }
+  },
+  "version": "2.0"
+}

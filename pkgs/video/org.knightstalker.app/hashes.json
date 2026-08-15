@@ -1,0 +1,18 @@
+{
+  "apkName": "org.knightstalker.app_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-apSynYguTUXoDRg41P/vdUQEyXbzTxlcZUxo3Ci77Ds="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-apSynYguTUXoDRg41P/vdUQEyXbzTxlcZUxo3Ci77Ds="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-apSynYguTUXoDRg41P/vdUQEyXbzTxlcZUxo3Ci77Ds="
+    }
+  },
+  "version": "1.2.0"
+}

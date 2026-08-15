@@ -1,0 +1,18 @@
+{
+  "apkName": "com.powerje.nyan_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+BRukHgU0z7Pg2g0NrEcV3yMnKdPe8K8wcvgaygV+UI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+BRukHgU0z7Pg2g0NrEcV3yMnKdPe8K8wcvgaygV+UI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+BRukHgU0z7Pg2g0NrEcV3yMnKdPe8K8wcvgaygV+UI="
+    }
+  },
+  "version": "2.1.1"
+}

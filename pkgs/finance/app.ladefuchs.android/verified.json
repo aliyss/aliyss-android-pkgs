@@ -1,0 +1,8 @@
+{
+  "package": "app.ladefuchs.android",
+  "signerFingerprints": [
+    "3A:DE:09:D0:67:D6:0D:61:99:67:4D:F1:CA:CF:CE:ED:4B:42:C9:D6:39:FC:6A:BF:06:58:19:4A:47:F7:85:13"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

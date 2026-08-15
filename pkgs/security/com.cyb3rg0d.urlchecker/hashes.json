@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cyb3rg0d.urlchecker_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8Dl7IWunlRulQ9eCoWSH+W/j7S7nD7lVNr/nLM0GevA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8Dl7IWunlRulQ9eCoWSH+W/j7S7nD7lVNr/nLM0GevA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8Dl7IWunlRulQ9eCoWSH+W/j7S7nD7lVNr/nLM0GevA="
+    }
+  },
+  "version": "0.1.5"
+}

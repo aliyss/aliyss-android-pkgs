@@ -1,0 +1,8 @@
+{
+  "package": "com.sleepguard",
+  "signerFingerprints": [
+    "93:7E:B8:9C:4F:C4:35:64:77:D6:CF:69:53:A3:1B:77:24:08:48:2C:87:02:FB:CA:46:7B:58:58:D8:86:7B:01"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

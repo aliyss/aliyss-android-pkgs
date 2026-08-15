@@ -1,0 +1,18 @@
+{
+  "apkName": "com.addictologs_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wgUOIJQW8ZrwoRNaZv1mwAXRUnVNpqrpUh0xQ66ThjQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wgUOIJQW8ZrwoRNaZv1mwAXRUnVNpqrpUh0xQ66ThjQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wgUOIJQW8ZrwoRNaZv1mwAXRUnVNpqrpUh0xQ66ThjQ="
+    }
+  },
+  "version": "1.0"
+}

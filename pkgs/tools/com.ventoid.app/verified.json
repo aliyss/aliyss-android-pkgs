@@ -1,0 +1,8 @@
+{
+  "package": "com.ventoid.app",
+  "signerFingerprints": [
+    "87:B3:52:DB:B7:50:30:F9:DE:B5:45:D8:C4:FA:75:86:F2:5E:D7:30:4C:5E:FB:E7:E8:D3:F0:28:44:03:FA:C3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

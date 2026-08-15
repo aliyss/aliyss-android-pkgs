@@ -1,0 +1,18 @@
+{
+  "apkName": "net.minetest.minetest_5160001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qecMQd592VmjWkTtqMcnAS2SCjArwxHseMRUCwVr1Xs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qecMQd592VmjWkTtqMcnAS2SCjArwxHseMRUCwVr1Xs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qecMQd592VmjWkTtqMcnAS2SCjArwxHseMRUCwVr1Xs="
+    }
+  },
+  "version": "5.16.1"
+}

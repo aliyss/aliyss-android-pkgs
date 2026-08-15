@@ -1,0 +1,8 @@
+{
+  "package": "org.sensorkraken",
+  "signerFingerprints": [
+    "FC:28:7B:51:5F:BE:35:8F:59:1C:11:0A:CA:F3:B5:E4:02:16:09:F9:13:E9:4E:DB:35:1A:1D:C7:C6:0E:36:A0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

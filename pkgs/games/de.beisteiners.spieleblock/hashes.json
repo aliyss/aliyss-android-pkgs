@@ -1,0 +1,18 @@
+{
+  "apkName": "de.beisteiners.spieleblock_45.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dRXME+jnBi9+yW8Y5Fbsj9cnd95mvDuSE42SVAL4WfQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dRXME+jnBi9+yW8Y5Fbsj9cnd95mvDuSE42SVAL4WfQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dRXME+jnBi9+yW8Y5Fbsj9cnd95mvDuSE42SVAL4WfQ="
+    }
+  },
+  "version": "2.7"
+}

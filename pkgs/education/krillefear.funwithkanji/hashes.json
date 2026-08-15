@@ -1,0 +1,18 @@
+{
+  "apkName": "krillefear.funwithkanji_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+okVsOeqpvmy2Ba3o8bVoUDzSzr1z0RaMnH91+2pDs8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+okVsOeqpvmy2Ba3o8bVoUDzSzr1z0RaMnH91+2pDs8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+okVsOeqpvmy2Ba3o8bVoUDzSzr1z0RaMnH91+2pDs8="
+    }
+  },
+  "version": "1.0.0"
+}

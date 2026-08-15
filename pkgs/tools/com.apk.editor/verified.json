@@ -1,0 +1,8 @@
+{
+  "package": "com.apk.editor",
+  "signerFingerprints": [
+    "56:E9:3D:3A:05:84:28:C4:F7:0E:CF:3D:49:06:7E:25:D2:D5:1E:16:BB:94:68:3D:B5:45:A2:64:8F:3F:03:1F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

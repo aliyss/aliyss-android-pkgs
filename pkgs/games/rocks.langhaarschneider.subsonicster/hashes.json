@@ -1,0 +1,18 @@
+{
+  "apkName": "rocks.langhaarschneider.subsonicster_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GWCyyyJvQP5B1DMVl4ATiKkXPjo4I4pPPTKeaJdSu4s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GWCyyyJvQP5B1DMVl4ATiKkXPjo4I4pPPTKeaJdSu4s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GWCyyyJvQP5B1DMVl4ATiKkXPjo4I4pPPTKeaJdSu4s="
+    }
+  },
+  "version": "2.2.1"
+}

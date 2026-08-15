@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.cvzi.wallpaperexport_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NTywxRhyIz1WN2vMPSJ2o2U+BpQz961inKyC6qocJ3g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NTywxRhyIz1WN2vMPSJ2o2U+BpQz961inKyC6qocJ3g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NTywxRhyIz1WN2vMPSJ2o2U+BpQz961inKyC6qocJ3g="
+    }
+  },
+  "version": "1.1.4"
+}

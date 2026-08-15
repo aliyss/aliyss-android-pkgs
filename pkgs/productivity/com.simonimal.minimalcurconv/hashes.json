@@ -1,0 +1,18 @@
+{
+  "apkName": "com.simonimal.minimalcurconv_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DWhtvLymtvDgX+ouQNKN8wLHVU1mIRLnmwWNOkETF7U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DWhtvLymtvDgX+ouQNKN8wLHVU1mIRLnmwWNOkETF7U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DWhtvLymtvDgX+ouQNKN8wLHVU1mIRLnmwWNOkETF7U="
+    }
+  },
+  "version": "1.0"
+}

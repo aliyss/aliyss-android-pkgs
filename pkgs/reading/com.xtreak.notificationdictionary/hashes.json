@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xtreak.notificationdictionary_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iw9UaXCLbrxxd52GKjzKJkElbmgHYfQvICbs5edK8/o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iw9UaXCLbrxxd52GKjzKJkElbmgHYfQvICbs5edK8/o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iw9UaXCLbrxxd52GKjzKJkElbmgHYfQvICbs5edK8/o="
+    }
+  },
+  "version": "0.0.24"
+}

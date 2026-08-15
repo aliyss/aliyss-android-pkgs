@@ -1,0 +1,18 @@
+{
+  "apkName": "de.beocode.bestbefore_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XCzsCosSJNGf0APJXeyMOPg4awaFiGQAVPrTDSb74Es="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XCzsCosSJNGf0APJXeyMOPg4awaFiGQAVPrTDSb74Es="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XCzsCosSJNGf0APJXeyMOPg4awaFiGQAVPrTDSb74Es="
+    }
+  },
+  "version": "1.02.1"
+}

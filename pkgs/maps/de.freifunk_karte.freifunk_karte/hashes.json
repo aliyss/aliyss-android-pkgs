@@ -1,0 +1,18 @@
+{
+  "apkName": "de.freifunk_karte.freifunk_karte_1501.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sjmiqCMkGUvHJqH91o+RN2KODrhxdylgH5VpJ5AUDko="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sjmiqCMkGUvHJqH91o+RN2KODrhxdylgH5VpJ5AUDko="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sjmiqCMkGUvHJqH91o+RN2KODrhxdylgH5VpJ5AUDko="
+    }
+  },
+  "version": "1.5.1"
+}

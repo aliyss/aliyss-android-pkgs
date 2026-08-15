@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mrmannwood.hexlauncher_51.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CpYvXEe9sU1YEobPnGl/wE8KMks8UF4WRvAs8BQTiIo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CpYvXEe9sU1YEobPnGl/wE8KMks8UF4WRvAs8BQTiIo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CpYvXEe9sU1YEobPnGl/wE8KMks8UF4WRvAs8BQTiIo="
+    }
+  },
+  "version": "1.4.9"
+}

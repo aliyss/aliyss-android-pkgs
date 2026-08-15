@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aptasystems.dicewarepasswordgenerator_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-69GwPFN5AwHbSykjAHlCHKF7VLx1b3ZRVPEQNWc+gpw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-69GwPFN5AwHbSykjAHlCHKF7VLx1b3ZRVPEQNWc+gpw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-69GwPFN5AwHbSykjAHlCHKF7VLx1b3ZRVPEQNWc+gpw="
+    }
+  },
+  "version": "1.8"
+}

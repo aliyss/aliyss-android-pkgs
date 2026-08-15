@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.subhamtyagi.openinwhatsapp_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-M6/1qZsby0Dk1X5+KWGj1goWPwOs9xZuzE4OKs8Kb8w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M6/1qZsby0Dk1X5+KWGj1goWPwOs9xZuzE4OKs8Kb8w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M6/1qZsby0Dk1X5+KWGj1goWPwOs9xZuzE4OKs8Kb8w="
+    }
+  },
+  "version": "1.5"
+}

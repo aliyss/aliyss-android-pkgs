@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.umer0586.sensagram_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bRZPEPX5yfHs7Z8V5TUfXOkxgQq4KoUn/naQUXCd6cw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bRZPEPX5yfHs7Z8V5TUfXOkxgQq4KoUn/naQUXCd6cw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bRZPEPX5yfHs7Z8V5TUfXOkxgQq4KoUn/naQUXCd6cw="
+    }
+  },
+  "version": "1.5.2"
+}

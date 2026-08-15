@@ -1,0 +1,8 @@
+{
+  "package": "be.mygod.vpnhotspot_foss",
+  "signerFingerprints": [
+    "01:CA:BB:71:F0:1F:D3:B4:D9:CB:10:2E:AB:7C:E6:6A:3E:A1:1F:E3:59:F9:01:E9:1C:EE:A1:60:B4:8B:11:37"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

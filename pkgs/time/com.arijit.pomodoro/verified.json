@@ -1,0 +1,8 @@
+{
+  "package": "com.arijit.pomodoro",
+  "signerFingerprints": [
+    "90:1E:8D:4A:94:2E:63:76:8A:B7:88:92:03:40:4A:CE:50:03:61:4C:60:2C:E4:55:C1:7D:16:EA:46:59:DA:68"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

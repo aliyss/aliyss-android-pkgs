@@ -1,0 +1,8 @@
+{
+  "package": "se.tube42.drum.android",
+  "signerFingerprints": [
+    "55:19:20:A2:87:C5:73:7F:E4:81:83:B3:43:EB:B6:14:09:A4:8D:F6:6B:4D:28:84:0A:AB:A1:6B:76:5F:EB:62"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

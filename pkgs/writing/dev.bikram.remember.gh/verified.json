@@ -1,0 +1,8 @@
+{
+  "package": "dev.bikram.remember.gh",
+  "signerFingerprints": [
+    "64:37:E8:BE:94:51:BD:7D:02:21:55:11:D3:E5:04:A8:8C:50:BE:72:B6:DD:05:AC:4B:5B:87:F5:A2:05:B6:87"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

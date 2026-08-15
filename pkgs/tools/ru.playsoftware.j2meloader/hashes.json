@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.playsoftware.j2meloader_101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cjEzyKNzfjl7Mlep0F+V56b7mNsiyOQhE4GDxg7rMQw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cjEzyKNzfjl7Mlep0F+V56b7mNsiyOQhE4GDxg7rMQw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cjEzyKNzfjl7Mlep0F+V56b7mNsiyOQhE4GDxg7rMQw="
+    }
+  },
+  "version": "1.8.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vishal2376.snaptick_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Nhr1AMzKRm+eWFz9hC9UQO9bhd0JmYptyBWaeUJV2zk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nhr1AMzKRm+eWFz9hC9UQO9bhd0JmYptyBWaeUJV2zk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nhr1AMzKRm+eWFz9hC9UQO9bhd0JmYptyBWaeUJV2zk="
+    }
+  },
+  "version": "4.2"
+}

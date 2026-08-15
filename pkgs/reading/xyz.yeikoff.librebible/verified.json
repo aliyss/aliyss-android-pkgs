@@ -1,0 +1,8 @@
+{
+  "package": "xyz.yeikoff.librebible",
+  "signerFingerprints": [
+    "A5:DD:6B:77:F7:80:EC:EE:9D:3F:80:0F:0C:34:C8:3B:CA:6E:FE:A2:5F:9C:DC:2C:AA:29:C3:17:A2:D2:15:64"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

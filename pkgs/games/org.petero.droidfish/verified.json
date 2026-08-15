@@ -1,0 +1,8 @@
+{
+  "package": "org.petero.droidfish",
+  "signerFingerprints": [
+    "66:76:27:FF:E5:6B:46:D7:6E:CC:5F:A2:26:4C:A5:74:73:73:C7:FB:93:D5:D4:F1:99:30:2F:52:1B:4A:EA:BC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

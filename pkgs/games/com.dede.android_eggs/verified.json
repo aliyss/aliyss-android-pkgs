@@ -1,0 +1,8 @@
+{
+  "package": "com.dede.android_eggs",
+  "signerFingerprints": [
+    "2E:9E:0C:E7:C3:7D:05:02:AA:51:73:AE:9F:96:A1:90:00:50:99:F1:AD:B9:F8:9C:68:D0:CA:01:F6:3F:A6:1D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

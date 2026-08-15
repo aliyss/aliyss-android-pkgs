@@ -1,0 +1,18 @@
+{
+  "apkName": "org.libreoffice.impressremote_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-C7ObtKjIeEDSDbZWgE46fTsGEUS8swep+pLiK6CWTf8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C7ObtKjIeEDSDbZWgE46fTsGEUS8swep+pLiK6CWTf8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C7ObtKjIeEDSDbZWgE46fTsGEUS8swep+pLiK6CWTf8="
+    }
+  },
+  "version": "2.6.1"
+}

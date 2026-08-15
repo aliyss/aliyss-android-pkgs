@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.vatbub.scoreboard_264.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5TetmpeS+SbcuvGGbLkAiO3d9AU8bP1fdWJu+sG1jO0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5TetmpeS+SbcuvGGbLkAiO3d9AU8bP1fdWJu+sG1jO0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5TetmpeS+SbcuvGGbLkAiO3d9AU8bP1fdWJu+sG1jO0="
+    }
+  },
+  "version": "1.0-264"
+}

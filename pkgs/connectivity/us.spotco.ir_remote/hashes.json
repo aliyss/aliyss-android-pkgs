@@ -1,0 +1,18 @@
+{
+  "apkName": "us.spotco.ir_remote_1710.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AopI3kicREXDga1kMETpytSDTkvaG3S2iHX1YGjRpWo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AopI3kicREXDga1kMETpytSDTkvaG3S2iHX1YGjRpWo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AopI3kicREXDga1kMETpytSDTkvaG3S2iHX1YGjRpWo="
+    }
+  },
+  "version": "1.7.1"
+}

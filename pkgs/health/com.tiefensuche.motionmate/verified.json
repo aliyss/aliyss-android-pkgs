@@ -1,0 +1,8 @@
+{
+  "package": "com.tiefensuche.motionmate",
+  "signerFingerprints": [
+    "EF:01:60:9F:7D:31:AE:33:EA:BF:44:96:3E:20:30:B5:C5:F9:DC:BF:33:83:A4:BF:95:CE:37:06:59:08:DD:BB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

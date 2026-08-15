@@ -1,0 +1,18 @@
+{
+  "apkName": "com.termux.widget_1001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Rfs/VqckjLjhSyS0eDV+NAxj1s+ruH/1vpS2Z60WiNY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Rfs/VqckjLjhSyS0eDV+NAxj1s+ruH/1vpS2Z60WiNY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Rfs/VqckjLjhSyS0eDV+NAxj1s+ruH/1vpS2Z60WiNY="
+    }
+  },
+  "version": "0.15.0"
+}

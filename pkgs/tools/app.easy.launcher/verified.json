@@ -1,0 +1,8 @@
+{
+  "package": "app.easy.launcher",
+  "signerFingerprints": [
+    "88:58:51:39:EA:C6:D8:D5:92:2C:E7:AF:80:A0:F2:AC:D9:28:03:71:67:60:14:A1:14:D5:E3:BF:34:90:4A:E0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

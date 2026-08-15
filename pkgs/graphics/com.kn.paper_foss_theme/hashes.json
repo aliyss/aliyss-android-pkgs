@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kn.paper_foss_theme_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Zeh/f+6xyjQiScoQp3OdX+dDrgAgNnirrdu9g3wDQ4U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Zeh/f+6xyjQiScoQp3OdX+dDrgAgNnirrdu9g3wDQ4U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Zeh/f+6xyjQiScoQp3OdX+dDrgAgNnirrdu9g3wDQ4U="
+    }
+  },
+  "version": "1.2.1.1"
+}

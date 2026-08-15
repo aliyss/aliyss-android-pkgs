@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.house.of.cards_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Izp97FiMRzwxasJ+0ZS3Rbdbm0mk4jQ4okfP/yX8JOk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Izp97FiMRzwxasJ+0ZS3Rbdbm0mk4jQ4okfP/yX8JOk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Izp97FiMRzwxasJ+0ZS3Rbdbm0mk4jQ4okfP/yX8JOk="
+    }
+  },
+  "version": "1.0"
+}

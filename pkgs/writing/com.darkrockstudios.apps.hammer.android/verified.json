@@ -1,0 +1,8 @@
+{
+  "package": "com.darkrockstudios.apps.hammer.android",
+  "signerFingerprints": [
+    "BC:93:7A:21:52:15:95:D1:24:6F:5B:A3:04:15:47:A9:21:4E:E8:C8:7C:EB:27:B0:66:6E:E5:44:2C:06:BA:E5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

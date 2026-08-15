@@ -1,0 +1,18 @@
+{
+  "apkName": "com.poupa.vinylmusicplayer_202.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-44fxMPJp1kM0iCvHGkyGEBJM9T+DErkVaLCpLMBzyuM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-44fxMPJp1kM0iCvHGkyGEBJM9T+DErkVaLCpLMBzyuM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-44fxMPJp1kM0iCvHGkyGEBJM9T+DErkVaLCpLMBzyuM="
+    }
+  },
+  "version": "1.11.0"
+}

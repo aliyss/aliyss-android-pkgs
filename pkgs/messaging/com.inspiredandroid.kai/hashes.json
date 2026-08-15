@@ -1,0 +1,18 @@
+{
+  "apkName": "com.inspiredandroid.kai_114.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5d5cVAMXh/Hf1oy8mjbD/fIeVPM5psreowoFfWVpCeQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5d5cVAMXh/Hf1oy8mjbD/fIeVPM5psreowoFfWVpCeQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5d5cVAMXh/Hf1oy8mjbD/fIeVPM5psreowoFfWVpCeQ="
+    }
+  },
+  "version": "3.0.0"
+}

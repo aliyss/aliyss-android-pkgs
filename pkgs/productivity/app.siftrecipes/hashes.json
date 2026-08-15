@@ -1,0 +1,18 @@
+{
+  "apkName": "app.siftrecipes_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/caM6DgGdn1DsFeqpdsSyO6tWAk2I/CfN/7JkoUHJE4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/caM6DgGdn1DsFeqpdsSyO6tWAk2I/CfN/7JkoUHJE4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/caM6DgGdn1DsFeqpdsSyO6tWAk2I/CfN/7JkoUHJE4="
+    }
+  },
+  "version": "1.0.7"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.iamrezamousavi.mafia_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3EKKYhvOwLoepdAZhJ6cd8twsW1lQsJ7nMfroSuEd8A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3EKKYhvOwLoepdAZhJ6cd8twsW1lQsJ7nMfroSuEd8A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3EKKYhvOwLoepdAZhJ6cd8twsW1lQsJ7nMfroSuEd8A="
+    }
+  },
+  "version": "0.3.0"
+}

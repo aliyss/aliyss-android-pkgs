@@ -1,0 +1,18 @@
+{
+  "apkName": "net.seqular.network_109.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l/RJURvqT2Ar/lEmHqY23A1pEz/9PltrHvyT4v3sLVc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l/RJURvqT2Ar/lEmHqY23A1pEz/9PltrHvyT4v3sLVc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l/RJURvqT2Ar/lEmHqY23A1pEz/9PltrHvyT4v3sLVc="
+    }
+  },
+  "version": "2.3.1"
+}

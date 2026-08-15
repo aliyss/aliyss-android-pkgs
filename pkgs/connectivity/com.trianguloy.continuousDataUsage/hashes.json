@@ -1,0 +1,18 @@
+{
+  "apkName": "com.trianguloy.continuousDataUsage_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-geDQ8MaPDVjV5N0WJQ0gSepTHtiUhB4ZZ0q6enhfHiY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-geDQ8MaPDVjV5N0WJQ0gSepTHtiUhB4ZZ0q6enhfHiY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-geDQ8MaPDVjV5N0WJQ0gSepTHtiUhB4ZZ0q6enhfHiY="
+    }
+  },
+  "version": "4.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.czy0729.bangumi_70701.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VqODV7y+vTCBRtKi3zzSIwvPCUJH5hAUDv08BT+X7lE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VqODV7y+vTCBRtKi3zzSIwvPCUJH5hAUDv08BT+X7lE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VqODV7y+vTCBRtKi3zzSIwvPCUJH5hAUDv08BT+X7lE="
+    }
+  },
+  "version": "7.7.0"
+}

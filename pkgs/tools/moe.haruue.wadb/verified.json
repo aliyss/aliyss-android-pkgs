@@ -1,0 +1,8 @@
+{
+  "package": "moe.haruue.wadb",
+  "signerFingerprints": [
+    "BC:CA:82:8C:2F:F1:DC:B8:E1:0B:4A:56:4D:7F:25:D8:E5:90:95:C1:6D:2D:B5:B8:4F:0E:2C:6C:9C:CA:46:CE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

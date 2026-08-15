@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mrsep.musicrecognizer_46.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nzvmU78U6i53u1Y+9flgNF3XO21B02RNP8uDMZFqXsQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nzvmU78U6i53u1Y+9flgNF3XO21B02RNP8uDMZFqXsQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nzvmU78U6i53u1Y+9flgNF3XO21B02RNP8uDMZFqXsQ="
+    }
+  },
+  "version": "1.18.2"
+}

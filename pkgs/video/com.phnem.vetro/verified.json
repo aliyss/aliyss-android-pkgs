@@ -1,0 +1,8 @@
+{
+  "package": "com.phnem.vetro",
+  "signerFingerprints": [
+    "15:13:7E:E0:70:A1:7F:E4:0A:92:F5:26:9A:B7:0C:BD:3F:70:3F:32:2A:E7:FA:A4:0D:6B:1B:B8:5E:68:0A:16"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

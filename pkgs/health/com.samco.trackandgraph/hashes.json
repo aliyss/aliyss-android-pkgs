@@ -1,0 +1,18 @@
+{
+  "apkName": "com.samco.trackandgraph_800026.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-32EK8Mc+62nXFF9xBnAOFAZRSANDrlvaPSoWXGuRCSY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-32EK8Mc+62nXFF9xBnAOFAZRSANDrlvaPSoWXGuRCSY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-32EK8Mc+62nXFF9xBnAOFAZRSANDrlvaPSoWXGuRCSY="
+    }
+  },
+  "version": "10.2.2"
+}

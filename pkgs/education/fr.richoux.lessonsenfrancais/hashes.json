@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.richoux.lessonsenfrancais_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XBj2RBYSDzAAf8FNC3XbL5PGMMQSQvS1dGoRHSdk/18="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XBj2RBYSDzAAf8FNC3XbL5PGMMQSQvS1dGoRHSdk/18="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XBj2RBYSDzAAf8FNC3XbL5PGMMQSQvS1dGoRHSdk/18="
+    }
+  },
+  "version": "1.7"
+}

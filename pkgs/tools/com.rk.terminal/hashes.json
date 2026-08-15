@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rk.terminal_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FqMjcve+yQ1hlM4a0WCl4FNPzMViwj4hyC7rj3kwgVM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FqMjcve+yQ1hlM4a0WCl4FNPzMViwj4hyC7rj3kwgVM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FqMjcve+yQ1hlM4a0WCl4FNPzMViwj4hyC7rj3kwgVM="
+    }
+  },
+  "version": "1.1.0"
+}

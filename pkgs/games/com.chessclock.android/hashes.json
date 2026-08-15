@@ -1,0 +1,18 @@
+{
+  "apkName": "com.chessclock.android_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dGWEgMhSl2nIXGcDtx4KyUDujSBK2DwR4/BQYlxAfog="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dGWEgMhSl2nIXGcDtx4KyUDujSBK2DwR4/BQYlxAfog="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dGWEgMhSl2nIXGcDtx4KyUDujSBK2DwR4/BQYlxAfog="
+    }
+  },
+  "version": "2.12.0"
+}

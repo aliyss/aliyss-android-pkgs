@@ -1,0 +1,18 @@
+{
+  "apkName": "com.phstudio.darktheme_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AADG86ufYAX08mbLWOl0a5NPeD3L6JTMedcgq4gATy4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AADG86ufYAX08mbLWOl0a5NPeD3L6JTMedcgq4gATy4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AADG86ufYAX08mbLWOl0a5NPeD3L6JTMedcgq4gATy4="
+    }
+  },
+  "version": "2.7"
+}

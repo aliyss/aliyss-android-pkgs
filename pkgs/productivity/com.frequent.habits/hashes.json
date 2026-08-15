@@ -1,0 +1,18 @@
+{
+  "apkName": "com.frequent.habits_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O2y0aEfJn7glN+f6PwUn9EQ8VE+oqIOViMXOMuNotEY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O2y0aEfJn7glN+f6PwUn9EQ8VE+oqIOViMXOMuNotEY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O2y0aEfJn7glN+f6PwUn9EQ8VE+oqIOViMXOMuNotEY="
+    }
+  },
+  "version": "2.0.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.buttercookie.disabletargetapiblock_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6dZ1wv7+tOR+5D6xX0zYOTwejHzLgxpTHPrwCt06l0s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6dZ1wv7+tOR+5D6xX0zYOTwejHzLgxpTHPrwCt06l0s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6dZ1wv7+tOR+5D6xX0zYOTwejHzLgxpTHPrwCt06l0s="
+    }
+  },
+  "version": "1.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.jvdegithub.aiscatcher",
+  "signerFingerprints": [
+    "51:E6:6F:E8:8C:48:02:97:B5:45:D4:4C:0B:91:ED:B3:33:90:BF:87:5C:92:BA:2F:52:6C:74:CC:47:57:FE:D2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

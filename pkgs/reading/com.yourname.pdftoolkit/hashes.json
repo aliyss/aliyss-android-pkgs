@@ -1,0 +1,18 @@
+{
+  "apkName": "com.yourname.pdftoolkit_210.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Lxi26Pw1KyZi+6wJFtv20r9MfeJ5JnfCemsVvAnORAU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lxi26Pw1KyZi+6wJFtv20r9MfeJ5JnfCemsVvAnORAU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lxi26Pw1KyZi+6wJFtv20r9MfeJ5JnfCemsVvAnORAU="
+    }
+  },
+  "version": "1.3.210"
+}

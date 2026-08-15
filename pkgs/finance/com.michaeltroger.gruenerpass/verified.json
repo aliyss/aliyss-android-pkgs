@@ -1,0 +1,8 @@
+{
+  "package": "com.michaeltroger.gruenerpass",
+  "signerFingerprints": [
+    "D5:F3:02:5C:70:EC:D9:48:F9:32:F5:68:1E:EF:2B:9D:78:7C:AE:CA:57:3C:48:25:38:2A:73:20:F9:C2:93:3A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

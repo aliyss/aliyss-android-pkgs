@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.snd_r.komelia_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jzcujP13U5uEdCxGXOH9iEy4wHHpCizfIQnQbR6AL2Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jzcujP13U5uEdCxGXOH9iEy4wHHpCizfIQnQbR6AL2Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jzcujP13U5uEdCxGXOH9iEy4wHHpCizfIQnQbR6AL2Y="
+    }
+  },
+  "version": "0.18.5"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quad9.aegis_109.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9p3ou7jBQzlhs5PayoYO2lWGPP6aZfMujUWtmDRL9Mk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9p3ou7jBQzlhs5PayoYO2lWGPP6aZfMujUWtmDRL9Mk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9p3ou7jBQzlhs5PayoYO2lWGPP6aZfMujUWtmDRL9Mk="
+    }
+  },
+  "version": "1.2.4"
+}

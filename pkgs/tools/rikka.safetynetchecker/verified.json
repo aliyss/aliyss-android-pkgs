@@ -1,0 +1,8 @@
+{
+  "package": "rikka.safetynetchecker",
+  "signerFingerprints": [
+    "08:53:22:F9:1F:4E:09:1A:C8:AA:89:F4:59:D3:B0:42:00:38:23:D6:86:D2:6D:6C:60:F6:6E:51:FE:5A:DA:7B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.koelle.christian.trickytripper_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-do2JyIrhiHanB0/9YSo0fT6phkCevmIZ2yrU9Nvw3UU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-do2JyIrhiHanB0/9YSo0fT6phkCevmIZ2yrU9Nvw3UU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-do2JyIrhiHanB0/9YSo0fT6phkCevmIZ2yrU9Nvw3UU="
+    }
+  },
+  "version": "1.6.2"
+}

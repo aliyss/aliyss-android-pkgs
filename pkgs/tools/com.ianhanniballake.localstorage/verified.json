@@ -1,0 +1,8 @@
+{
+  "package": "com.ianhanniballake.localstorage",
+  "signerFingerprints": [
+    "C5:46:A3:B5:4F:69:1A:A5:A9:CD:FC:77:4A:E6:4F:4D:F1:C0:40:78:D8:8B:D9:BF:99:EA:E3:F1:05:F6:2E:38"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

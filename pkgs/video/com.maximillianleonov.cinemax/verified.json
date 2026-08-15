@@ -1,0 +1,8 @@
+{
+  "package": "com.maximillianleonov.cinemax",
+  "signerFingerprints": [
+    "44:A3:E6:2F:EB:4F:66:A9:0D:98:A6:00:4F:93:FD:85:73:99:2F:3A:B6:27:C1:93:49:93:96:8E:C4:5F:69:42"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

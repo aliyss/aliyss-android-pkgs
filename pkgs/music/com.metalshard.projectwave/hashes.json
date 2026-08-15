@@ -1,0 +1,18 @@
+{
+  "apkName": "com.metalshard.projectwave_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KxqKltexLXAdbvPjSXTMo/XDP09Mbw0/dJD8m9yWa7Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KxqKltexLXAdbvPjSXTMo/XDP09Mbw0/dJD8m9yWa7Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KxqKltexLXAdbvPjSXTMo/XDP09Mbw0/dJD8m9yWa7Y="
+    }
+  },
+  "version": "1.4"
+}

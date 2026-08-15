@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.sebaubuntu.athena_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-A9eCPFmCEYCPK4H22uj/rWKjyIDOpkhj/TzSCE2R1Xc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A9eCPFmCEYCPK4H22uj/rWKjyIDOpkhj/TzSCE2R1Xc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A9eCPFmCEYCPK4H22uj/rWKjyIDOpkhj/TzSCE2R1Xc="
+    }
+  },
+  "version": "2.0.3"
+}

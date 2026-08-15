@@ -1,0 +1,8 @@
+{
+  "package": "com.ciphernotes.twa",
+  "signerFingerprints": [
+    "BD:02:7E:D7:77:8C:6D:D6:01:64:F0:54:0B:4C:CD:AD:E1:8F:55:BF:5F:6F:11:45:13:97:A4:E9:00:7F:47:CD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

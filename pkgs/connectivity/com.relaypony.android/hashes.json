@@ -1,0 +1,18 @@
+{
+  "apkName": "com.relaypony.android_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uADEaJd/ROISe4ZyDwk2dzeGB8EHLezCk1E2ezfViBc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uADEaJd/ROISe4ZyDwk2dzeGB8EHLezCk1E2ezfViBc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uADEaJd/ROISe4ZyDwk2dzeGB8EHLezCk1E2ezfViBc="
+    }
+  },
+  "version": "2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.msbs.cyclauncher_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9qZOB0n8QmQJgTZSgpSBMFwxNqPJ82WFcyXA/CvjMlE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9qZOB0n8QmQJgTZSgpSBMFwxNqPJ82WFcyXA/CvjMlE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9qZOB0n8QmQJgTZSgpSBMFwxNqPJ82WFcyXA/CvjMlE="
+    }
+  },
+  "version": "0.6.2 Alpha"
+}

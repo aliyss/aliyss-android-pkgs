@@ -1,0 +1,18 @@
+{
+  "apkName": "com.saulhdev.neofeed_1900.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2AIoh5p5MZ1f97GmHBPClrRQAO7IGXESyMIneFigEi4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2AIoh5p5MZ1f97GmHBPClrRQAO7IGXESyMIneFigEi4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2AIoh5p5MZ1f97GmHBPClrRQAO7IGXESyMIneFigEi4="
+    }
+  },
+  "version": "1.9.0"
+}

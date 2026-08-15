@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kanedias.holywarsoo_310000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XTpEBP2lvl4oH7g3W8ExhokrHCeEER6pTOoJXb2f4dk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XTpEBP2lvl4oH7g3W8ExhokrHCeEER6pTOoJXb2f4dk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XTpEBP2lvl4oH7g3W8ExhokrHCeEER6pTOoJXb2f4dk="
+    }
+  },
+  "version": "1.6.0"
+}

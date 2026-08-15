@@ -1,0 +1,18 @@
+{
+  "apkName": "net.snapdrop_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SCix2uZGFLbBb/AR2Am24Wh1soG1QkBECLTmVHQSKS8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SCix2uZGFLbBb/AR2Am24Wh1soG1QkBECLTmVHQSKS8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SCix2uZGFLbBb/AR2Am24Wh1soG1QkBECLTmVHQSKS8="
+    }
+  },
+  "version": "v1.1"
+}

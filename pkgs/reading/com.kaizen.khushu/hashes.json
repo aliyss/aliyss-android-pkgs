@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kaizen.khushu_85.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WPmRB1/wgJ0ixWx71nkNfHcbXoHy+qjqcSGahDyjoDc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WPmRB1/wgJ0ixWx71nkNfHcbXoHy+qjqcSGahDyjoDc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WPmRB1/wgJ0ixWx71nkNfHcbXoHy+qjqcSGahDyjoDc="
+    }
+  },
+  "version": "0.24.11"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.projectmaxs.module.wifiaccess",
+  "signerFingerprints": [
+    "18:A5:0F:AD:3E:6C:EA:74:03:D6:58:2F:EB:DD:52:D1:F2:02:29:3A:B9:36:11:97:1F:81:E2:B3:7C:0F:ED:17"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

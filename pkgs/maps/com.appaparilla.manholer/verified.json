@@ -1,0 +1,8 @@
+{
+  "package": "com.appaparilla.manholer",
+  "signerFingerprints": [
+    "90:B3:25:53:8E:4D:2B:91:48:04:04:F6:B9:F8:7F:B9:F4:93:C2:88:0C:D8:34:CA:9C:23:BB:0C:42:23:33:D8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

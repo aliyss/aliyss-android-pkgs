@@ -1,0 +1,18 @@
+{
+  "apkName": "hashengineering.darkcoin.wallet_11010205.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dOBBOgRNsrgERxSoSyc+1UIvvtvsD+lzuiFQ7y2D5n4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dOBBOgRNsrgERxSoSyc+1UIvvtvsD+lzuiFQ7y2D5n4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dOBBOgRNsrgERxSoSyc+1UIvvtvsD+lzuiFQ7y2D5n4="
+    }
+  },
+  "version": "11.1.2"
+}

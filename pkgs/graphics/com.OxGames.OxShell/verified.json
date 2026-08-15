@@ -1,0 +1,8 @@
+{
+  "package": "com.OxGames.OxShell",
+  "signerFingerprints": [
+    "B9:CB:57:4E:48:44:A5:9C:33:91:7E:78:84:4C:09:75:40:14:CF:8F:11:A5:5F:84:46:09:9A:00:CB:86:D6:F9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

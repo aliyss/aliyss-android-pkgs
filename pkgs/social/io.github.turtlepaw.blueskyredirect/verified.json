@@ -1,0 +1,8 @@
+{
+  "package": "io.github.turtlepaw.blueskyredirect",
+  "signerFingerprints": [
+    "B6:EE:FD:C4:9B:09:69:AA:D6:A4:E1:E3:A6:1D:0F:7B:89:28:32:93:4D:82:E8:77:9C:EA:EC:C9:9A:C5:D4:32"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

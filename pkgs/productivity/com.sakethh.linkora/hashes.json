@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sakethh.linkora_51.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LM3lb0y3MKrKNYm7JjRndU6J3IlbPxwrXX3lVAK+2oc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LM3lb0y3MKrKNYm7JjRndU6J3IlbPxwrXX3lVAK+2oc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LM3lb0y3MKrKNYm7JjRndU6J3IlbPxwrXX3lVAK+2oc="
+    }
+  },
+  "version": "0.17.2"
+}

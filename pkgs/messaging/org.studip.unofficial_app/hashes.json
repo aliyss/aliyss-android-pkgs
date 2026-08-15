@@ -1,0 +1,18 @@
+{
+  "apkName": "org.studip.unofficial_app_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-udrCXzdaiyqpNPRhz43OvTbV22CsjyUWPYBf7E4qPDI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-udrCXzdaiyqpNPRhz43OvTbV22CsjyUWPYBf7E4qPDI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-udrCXzdaiyqpNPRhz43OvTbV22CsjyUWPYBf7E4qPDI="
+    }
+  },
+  "version": "1.0.0"
+}

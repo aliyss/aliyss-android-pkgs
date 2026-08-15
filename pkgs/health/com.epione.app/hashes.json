@@ -1,0 +1,18 @@
+{
+  "apkName": "com.epione.app_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-szYg0g/9+Xi1YjvuwuPHgYKKGOKxE2D8SzivpFKveGw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-szYg0g/9+Xi1YjvuwuPHgYKKGOKxE2D8SzivpFKveGw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-szYg0g/9+Xi1YjvuwuPHgYKKGOKxE2D8SzivpFKveGw="
+    }
+  },
+  "version": "1.7.0"
+}

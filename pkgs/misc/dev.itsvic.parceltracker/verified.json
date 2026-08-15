@@ -1,0 +1,8 @@
+{
+  "package": "dev.itsvic.parceltracker",
+  "signerFingerprints": [
+    "35:87:8A:7B:D1:03:9F:1D:8D:FE:6B:1F:D4:ED:5D:F2:9A:FC:93:1B:3E:56:1C:D0:65:44:8D:5E:E0:BD:77:62"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.krlvm.powertunnel.android_111.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-84Ue0SPPFCCps0p+wS5VEs3rXMyP54mI7mLln89FALE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-84Ue0SPPFCCps0p+wS5VEs3rXMyP54mI7mLln89FALE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-84Ue0SPPFCCps0p+wS5VEs3rXMyP54mI7mLln89FALE="
+    }
+  },
+  "version": "2.6.3"
+}

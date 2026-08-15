@@ -1,0 +1,18 @@
+{
+  "apkName": "it.danieleverducci.ojo_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7EwsYgWaeOK/zY5v5WXAK28nfRtsJWr27LA6RUmz7Ao="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7EwsYgWaeOK/zY5v5WXAK28nfRtsJWr27LA6RUmz7Ao="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7EwsYgWaeOK/zY5v5WXAK28nfRtsJWr27LA6RUmz7Ao="
+    }
+  },
+  "version": "0.1.4"
+}

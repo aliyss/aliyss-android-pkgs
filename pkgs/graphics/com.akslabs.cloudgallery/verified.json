@@ -1,0 +1,8 @@
+{
+  "package": "com.akslabs.cloudgallery",
+  "signerFingerprints": [
+    "F0:A7:83:EB:E9:ED:90:38:74:E9:9C:E3:5F:7D:10:89:7F:99:09:A0:E3:82:68:83:BD:D8:37:55:70:4E:D5:B5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

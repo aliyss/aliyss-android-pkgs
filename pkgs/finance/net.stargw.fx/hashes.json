@@ -1,0 +1,18 @@
+{
+  "apkName": "net.stargw.fx_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-awqpvKEVOPCoo6F+N22qY+EJluxG7+mNiUSx/Fq8SMU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-awqpvKEVOPCoo6F+N22qY+EJluxG7+mNiUSx/Fq8SMU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-awqpvKEVOPCoo6F+N22qY+EJluxG7+mNiUSx/Fq8SMU="
+    }
+  },
+  "version": "15"
+}

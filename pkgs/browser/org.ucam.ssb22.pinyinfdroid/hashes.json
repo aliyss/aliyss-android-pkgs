@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ucam.ssb22.pinyinfdroid_106.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wHkZxsdAumf8d0f7JIBbpNMc+bv7jM7IMTXy/JJlqEc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wHkZxsdAumf8d0f7JIBbpNMc+bv7jM7IMTXy/JJlqEc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wHkZxsdAumf8d0f7JIBbpNMc+bv7jM7IMTXy/JJlqEc="
+    }
+  },
+  "version": "2.12.71"
+}

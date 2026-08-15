@@ -1,0 +1,8 @@
+{
+  "package": "com.hobbyone.HashDroid",
+  "signerFingerprints": [
+    "7C:62:41:65:B1:6B:EC:9D:48:BA:9B:72:34:B6:4C:E4:CA:02:DF:82:8F:C4:B6:0F:EB:C5:66:2B:F0:F8:D3:E4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

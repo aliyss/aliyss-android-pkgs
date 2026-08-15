@@ -1,0 +1,18 @@
+{
+  "apkName": "tech.xvanturing.freeproxy_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YfnuBHva98Jn+uShNXsq+F2QHjdsDk/Erl5SVdfaK8E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YfnuBHva98Jn+uShNXsq+F2QHjdsDk/Erl5SVdfaK8E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YfnuBHva98Jn+uShNXsq+F2QHjdsDk/Erl5SVdfaK8E="
+    }
+  },
+  "version": "1.0.3"
+}

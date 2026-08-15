@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mrbimc.selinux_20171031.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7lFVAfqhuIKtob8Y5QxSbS07QO+c/qL+Cb1s8lB2sP0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7lFVAfqhuIKtob8Y5QxSbS07QO+c/qL+Cb1s8lB2sP0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7lFVAfqhuIKtob8Y5QxSbS07QO+c/qL+Cb1s8lB2sP0="
+    }
+  },
+  "version": "11.0"
+}

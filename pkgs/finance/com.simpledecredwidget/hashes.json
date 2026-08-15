@@ -1,0 +1,18 @@
+{
+  "apkName": "com.simpledecredwidget_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s13wVUTQ+QX4EaNRAaSGEsC+oypFeYzkwA2KeUDVsEM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s13wVUTQ+QX4EaNRAaSGEsC+oypFeYzkwA2KeUDVsEM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s13wVUTQ+QX4EaNRAaSGEsC+oypFeYzkwA2KeUDVsEM="
+    }
+  },
+  "version": "3.0"
+}

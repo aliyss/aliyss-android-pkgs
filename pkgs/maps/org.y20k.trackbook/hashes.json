@@ -1,0 +1,18 @@
+{
+  "apkName": "org.y20k.trackbook_61.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kfumlGNGbiHVj+8k8uA72F/CbkVRPCR5zzl14hIvF50="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kfumlGNGbiHVj+8k8uA72F/CbkVRPCR5zzl14hIvF50="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kfumlGNGbiHVj+8k8uA72F/CbkVRPCR5zzl14hIvF50="
+    }
+  },
+  "version": "2.5.1"
+}

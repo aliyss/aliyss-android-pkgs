@@ -1,0 +1,8 @@
+{
+  "package": "com.je.fontsmanager.samsung",
+  "signerFingerprints": [
+    "8F:30:C8:AC:0C:AB:1B:DA:35:6E:7F:E6:E0:75:71:14:D2:E7:09:BF:0E:94:D3:06:6C:F0:A2:48:EA:18:69:4F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

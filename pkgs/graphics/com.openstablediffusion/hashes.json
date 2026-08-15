@@ -1,0 +1,18 @@
+{
+  "apkName": "com.openstablediffusion_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Km4UXAWy503tDGNmVfZ9X317/hBuizmYyP2bvkM4dYs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Km4UXAWy503tDGNmVfZ9X317/hBuizmYyP2bvkM4dYs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Km4UXAWy503tDGNmVfZ9X317/hBuizmYyP2bvkM4dYs="
+    }
+  },
+  "version": "1.11"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "in.hridayan.xmlforge",
+  "signerFingerprints": [
+    "8B:07:FD:5A:88:C3:CB:C5:2F:02:DA:E6:0D:4E:CD:6D:9C:79:11:1A:18:3B:80:04:3A:A8:C3:F9:E5:0E:16:7E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

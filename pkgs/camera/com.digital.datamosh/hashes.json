@@ -1,0 +1,18 @@
+{
+  "apkName": "com.digital.datamosh_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MP+gE/hEX1VDUWqt7NIHOTk5Nw2cgSoWrn7ypQ+nidE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MP+gE/hEX1VDUWqt7NIHOTk5Nw2cgSoWrn7ypQ+nidE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MP+gE/hEX1VDUWqt7NIHOTk5Nw2cgSoWrn7ypQ+nidE="
+    }
+  },
+  "version": "1.1"
+}

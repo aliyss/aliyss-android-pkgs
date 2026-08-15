@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hicorenational.wikipedia_50598.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-f34CcaMvRTK7x/wa5jln054fzkvvrOi8LwCslv6xxWY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f34CcaMvRTK7x/wa5jln054fzkvvrOi8LwCslv6xxWY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f34CcaMvRTK7x/wa5jln054fzkvvrOi8LwCslv6xxWY="
+    }
+  },
+  "version": "r/50598-r-2026-07-13"
+}

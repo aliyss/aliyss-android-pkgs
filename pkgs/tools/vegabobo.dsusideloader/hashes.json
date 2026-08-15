@@ -1,0 +1,18 @@
+{
+  "apkName": "vegabobo.dsusideloader_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-p+pg1qj/B1WgsCrE1c47gKrUGwYn9sCWJCHyoMr8MWA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p+pg1qj/B1WgsCrE1c47gKrUGwYn9sCWJCHyoMr8MWA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p+pg1qj/B1WgsCrE1c47gKrUGwYn9sCWJCHyoMr8MWA="
+    }
+  },
+  "version": "2.03"
+}

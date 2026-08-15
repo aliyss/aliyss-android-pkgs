@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.auag0.disableaudiofocus_101000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xskqEX46Clc3zPwJP2el3L/oV40B4ehb++ws9lAJLKA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xskqEX46Clc3zPwJP2el3L/oV40B4ehb++ws9lAJLKA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xskqEX46Clc3zPwJP2el3L/oV40B4ehb++ws9lAJLKA="
+    }
+  },
+  "version": "1.1.0"
+}

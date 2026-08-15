@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.patrickgold.florisboard.beta_119.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-46osan6TNu0S+gsAXPX7E4c7WOw4OoBClDr7gjNO/lI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-46osan6TNu0S+gsAXPX7E4c7WOw4OoBClDr7gjNO/lI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-46osan6TNu0S+gsAXPX7E4c7WOw4OoBClDr7gjNO/lI="
+    }
+  },
+  "version": "0.6.0-alpha02"
+}

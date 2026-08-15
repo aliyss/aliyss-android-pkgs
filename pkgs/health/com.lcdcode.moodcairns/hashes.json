@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lcdcode.moodcairns_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qH06NPFqp+EoDQUw8x3oYKPwZRy7Uivmqq8QOe9gK8s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qH06NPFqp+EoDQUw8x3oYKPwZRy7Uivmqq8QOe9gK8s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qH06NPFqp+EoDQUw8x3oYKPwZRy7Uivmqq8QOe9gK8s="
+    }
+  },
+  "version": "1.1.0"
+}

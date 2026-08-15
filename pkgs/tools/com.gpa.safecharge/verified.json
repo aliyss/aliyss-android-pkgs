@@ -1,0 +1,8 @@
+{
+  "package": "com.gpa.safecharge",
+  "signerFingerprints": [
+    "A2:69:2C:D8:EC:05:DA:E9:B9:1F:12:B8:B2:66:96:CD:B4:91:40:C7:6C:1E:B7:69:AB:7E:E8:2F:7B:C6:37:BB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

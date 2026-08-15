@@ -1,0 +1,8 @@
+{
+  "package": "com.github.ghmxr.apkextractor",
+  "signerFingerprints": [
+    "6A:F1:91:C7:AE:CC:78:39:A2:F8:95:BD:57:44:C4:9F:8E:39:D4:E1:52:71:5E:E4:74:52:63:FE:08:D5:39:21"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

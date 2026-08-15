@@ -1,0 +1,18 @@
+{
+  "apkName": "net.stargw.fat_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PM/XBNSUNS8u1EX6EAPAw1kg6pLSzrnhUaet/6qdgj0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PM/XBNSUNS8u1EX6EAPAw1kg6pLSzrnhUaet/6qdgj0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PM/XBNSUNS8u1EX6EAPAw1kg6pLSzrnhUaet/6qdgj0="
+    }
+  },
+  "version": "15"
+}

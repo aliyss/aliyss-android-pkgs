@@ -1,0 +1,18 @@
+{
+  "apkName": "com.alftendev.notlistener_51.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Lni9iy6DmmJxK5tobvJC0bJiOmVB80LOwoXcoODaIIQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lni9iy6DmmJxK5tobvJC0bJiOmVB80LOwoXcoODaIIQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lni9iy6DmmJxK5tobvJC0bJiOmVB80LOwoXcoODaIIQ="
+    }
+  },
+  "version": "2.7.3"
+}

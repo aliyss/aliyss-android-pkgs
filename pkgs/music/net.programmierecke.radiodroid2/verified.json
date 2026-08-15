@@ -1,0 +1,8 @@
+{
+  "package": "net.programmierecke.radiodroid2",
+  "signerFingerprints": [
+    "4C:E1:5D:9A:E4:FE:88:6C:77:B4:CB:0E:3D:6B:3C:C1:F6:18:BE:BB:64:B1:65:AB:4E:BC:0B:DF:62:F7:74:7D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

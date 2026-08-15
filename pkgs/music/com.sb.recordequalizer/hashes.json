@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sb.recordequalizer_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pMfKOFmuBAh5AHJoh1umi3H2/XkV5tpzrhB2eAv59xo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pMfKOFmuBAh5AHJoh1umi3H2/XkV5tpzrhB2eAv59xo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pMfKOFmuBAh5AHJoh1umi3H2/XkV5tpzrhB2eAv59xo="
+    }
+  },
+  "version": "1.1.1"
+}

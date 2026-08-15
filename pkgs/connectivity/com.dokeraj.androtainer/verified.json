@@ -1,0 +1,8 @@
+{
+  "package": "com.dokeraj.androtainer",
+  "signerFingerprints": [
+    "EE:7D:58:25:F7:AB:CF:AB:5C:AB:DE:F7:27:25:CD:ED:E4:04:F4:F7:CB:CE:A1:99:13:E5:F1:9F:A2:42:BE:DA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

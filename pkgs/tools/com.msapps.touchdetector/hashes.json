@@ -1,0 +1,18 @@
+{
+  "apkName": "com.msapps.touchdetector_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+10Tw5IbsP8nx2MkZIDgyq04Tg9yLf/vL9aYjN+FJZw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+10Tw5IbsP8nx2MkZIDgyq04Tg9yLf/vL9aYjN+FJZw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+10Tw5IbsP8nx2MkZIDgyq04Tg9yLf/vL9aYjN+FJZw="
+    }
+  },
+  "version": "1.0"
+}

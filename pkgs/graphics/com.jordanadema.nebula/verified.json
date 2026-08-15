@@ -1,0 +1,8 @@
+{
+  "package": "com.jordanadema.nebula",
+  "signerFingerprints": [
+    "87:8E:C6:CE:E2:15:25:48:2B:D8:80:C9:7B:DE:14:E1:BE:71:A2:7D:58:15:02:F7:32:64:57:DA:F6:69:36:39"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

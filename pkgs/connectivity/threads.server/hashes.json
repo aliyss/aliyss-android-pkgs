@@ -1,0 +1,18 @@
+{
+  "apkName": "threads.server_400.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ORD7yQOucvZ4kV5GS9GXZ9ZkqmJJWSX+vjF8bI0cG1g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ORD7yQOucvZ4kV5GS9GXZ9ZkqmJJWSX+vjF8bI0cG1g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ORD7yQOucvZ4kV5GS9GXZ9ZkqmJJWSX+vjF8bI0cG1g="
+    }
+  },
+  "version": "4.0.0"
+}

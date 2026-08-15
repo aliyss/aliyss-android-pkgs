@@ -1,0 +1,8 @@
+{
+  "package": "com.ferlagod.rocinante",
+  "signerFingerprints": [
+    "F8:33:86:15:85:2E:E9:73:A0:E4:9C:B3:F4:78:02:37:9C:80:2C:B7:E8:F4:49:A3:EF:F5:6C:94:F3:F9:F6:B6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

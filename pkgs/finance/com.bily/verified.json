@@ -1,0 +1,8 @@
+{
+  "package": "com.bily",
+  "signerFingerprints": [
+    "B0:78:25:C2:4A:10:3D:51:14:CB:8D:E8:B1:EF:D2:2F:EC:D4:2B:EE:60:BF:22:AD:AB:4B:F8:A3:B2:8A:81:95"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

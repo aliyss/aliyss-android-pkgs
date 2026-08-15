@@ -1,0 +1,18 @@
+{
+  "apkName": "com.roundsalmon4.appverifier_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VoOfOVIwJqVciFZ9F/Iiu1RUoQVr9vtaBiMhqN1t0Uc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VoOfOVIwJqVciFZ9F/Iiu1RUoQVr9vtaBiMhqN1t0Uc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VoOfOVIwJqVciFZ9F/Iiu1RUoQVr9vtaBiMhqN1t0Uc="
+    }
+  },
+  "version": "0.7.0"
+}

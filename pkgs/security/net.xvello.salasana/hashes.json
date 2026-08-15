@@ -1,0 +1,18 @@
+{
+  "apkName": "net.xvello.salasana_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XRj1PCm25P1UccVGgdUrYvyhz8aHoIHgSsAFuv61buw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XRj1PCm25P1UccVGgdUrYvyhz8aHoIHgSsAFuv61buw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XRj1PCm25P1UccVGgdUrYvyhz8aHoIHgSsAFuv61buw="
+    }
+  },
+  "version": "1.2"
+}

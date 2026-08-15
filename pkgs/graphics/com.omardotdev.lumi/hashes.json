@@ -1,0 +1,18 @@
+{
+  "apkName": "com.omardotdev.lumi_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Nvs+Xm2aCW2qBD5SEi1wL4oRL7jSjRaT/ENwgGuO0Js="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nvs+Xm2aCW2qBD5SEi1wL4oRL7jSjRaT/ENwgGuO0Js="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nvs+Xm2aCW2qBD5SEi1wL4oRL7jSjRaT/ENwgGuO0Js="
+    }
+  },
+  "version": "1.3.1"
+}

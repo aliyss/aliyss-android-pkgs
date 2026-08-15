@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hito.trails.app_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5RgfPuMF7d64LT9g6UW+LRPYKllD98EZCGjMcGGWWTU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5RgfPuMF7d64LT9g6UW+LRPYKllD98EZCGjMcGGWWTU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5RgfPuMF7d64LT9g6UW+LRPYKllD98EZCGjMcGGWWTU="
+    }
+  },
+  "version": "2.1.0"
+}

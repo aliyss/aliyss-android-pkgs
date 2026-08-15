@@ -1,0 +1,8 @@
+{
+  "package": "com.porg.batt",
+  "signerFingerprints": [
+    "D5:D2:74:14:88:C9:73:8F:D7:D1:36:64:CE:39:89:0A:C6:DA:2E:68:AD:6D:F0:67:DA:02:11:78:15:49:E6:BA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

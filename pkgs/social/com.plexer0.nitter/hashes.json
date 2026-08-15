@@ -1,0 +1,18 @@
+{
+  "apkName": "com.plexer0.nitter_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r6rNfMHf3jlqYwQAVMsf0dZyMmX9WNjBAICE8H293zM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r6rNfMHf3jlqYwQAVMsf0dZyMmX9WNjBAICE8H293zM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r6rNfMHf3jlqYwQAVMsf0dZyMmX9WNjBAICE8H293zM="
+    }
+  },
+  "version": "2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.truemlgpro.wifiinfo_20000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0qfZWKRuGSdDHIQLgcKh+JN4MqNyoOWts2go6Vyx/e8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0qfZWKRuGSdDHIQLgcKh+JN4MqNyoOWts2go6Vyx/e8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0qfZWKRuGSdDHIQLgcKh+JN4MqNyoOWts2go6Vyx/e8="
+    }
+  },
+  "version": "2.0"
+}

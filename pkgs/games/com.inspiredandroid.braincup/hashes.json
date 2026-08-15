@@ -1,0 +1,18 @@
+{
+  "apkName": "com.inspiredandroid.braincup_152.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zHYJKsmJc2Y1G2ROY8OmcD1XWLkf6qPKARIgkWKueYw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zHYJKsmJc2Y1G2ROY8OmcD1XWLkf6qPKARIgkWKueYw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zHYJKsmJc2Y1G2ROY8OmcD1XWLkf6qPKARIgkWKueYw="
+    }
+  },
+  "version": "2.32.0"
+}

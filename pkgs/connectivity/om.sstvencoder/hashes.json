@@ -1,0 +1,18 @@
+{
+  "apkName": "om.sstvencoder_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lZjPFqLp9bs2lZVAC5ljGTY/T7kw4XKAMf0bmeEKS/s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lZjPFqLp9bs2lZVAC5ljGTY/T7kw4XKAMf0bmeEKS/s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lZjPFqLp9bs2lZVAC5ljGTY/T7kw4XKAMf0bmeEKS/s="
+    }
+  },
+  "version": "2.13"
+}

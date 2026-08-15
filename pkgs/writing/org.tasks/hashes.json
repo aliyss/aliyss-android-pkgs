@@ -1,0 +1,18 @@
+{
+  "apkName": "org.tasks_150902.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jsqspSb0LOLwj5Wr/RU4GiOo1Xhjpehv1oDXV9Sp+ck="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jsqspSb0LOLwj5Wr/RU4GiOo1Xhjpehv1oDXV9Sp+ck="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jsqspSb0LOLwj5Wr/RU4GiOo1Xhjpehv1oDXV9Sp+ck="
+    }
+  },
+  "version": "15.9"
+}

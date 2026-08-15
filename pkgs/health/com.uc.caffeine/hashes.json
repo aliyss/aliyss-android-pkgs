@@ -1,0 +1,18 @@
+{
+  "apkName": "com.uc.caffeine_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AOVNt9YKFy26CpAefuZnHhx3MnlhcssZAgAoFPGgCXs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AOVNt9YKFy26CpAefuZnHhx3MnlhcssZAgAoFPGgCXs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AOVNt9YKFy26CpAefuZnHhx3MnlhcssZAgAoFPGgCXs="
+    }
+  },
+  "version": "2.3.1"
+}

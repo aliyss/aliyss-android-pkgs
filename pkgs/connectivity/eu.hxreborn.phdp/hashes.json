@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.hxreborn.phdp_26000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LrwmKdi3a5qC8jfTVHjCrkCe/OZXm7oWuCLU74YIaKY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LrwmKdi3a5qC8jfTVHjCrkCe/OZXm7oWuCLU74YIaKY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LrwmKdi3a5qC8jfTVHjCrkCe/OZXm7oWuCLU74YIaKY="
+    }
+  },
+  "version": "2.6.0"
+}

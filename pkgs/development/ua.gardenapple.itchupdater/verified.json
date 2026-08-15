@@ -1,0 +1,8 @@
+{
+  "package": "ua.gardenapple.itchupdater",
+  "signerFingerprints": [
+    "39:CE:0C:B2:58:ED:6A:5C:AE:0D:03:A3:A0:AA:E9:C6:77:5C:11:E6:7E:D9:CC:26:B7:CB:7A:D7:1A:93:0B:8E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

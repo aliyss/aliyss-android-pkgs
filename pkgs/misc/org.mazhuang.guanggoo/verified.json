@@ -1,0 +1,8 @@
+{
+  "package": "org.mazhuang.guanggoo",
+  "signerFingerprints": [
+    "D3:9A:31:33:0D:4E:AB:DA:2B:4A:48:2D:65:72:06:91:A1:3F:91:59:78:2D:6D:BB:DE:CF:DF:C1:ED:18:AB:F6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

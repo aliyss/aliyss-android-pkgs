@@ -1,0 +1,8 @@
+{
+  "package": "com.swatian.nexnode.free",
+  "signerFingerprints": [
+    "39:70:DE:FF:BA:AB:CA:68:4C:83:34:CB:3A:C0:59:00:F3:31:39:36:36:2C:C3:E9:51:CD:21:0C:26:0C:DD:30"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.owncloud.android_48000300.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0OM2rTWHxJMnDZq1hbpZX+jsLKAKWOCcJKZWc87U++w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0OM2rTWHxJMnDZq1hbpZX+jsLKAKWOCcJKZWc87U++w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0OM2rTWHxJMnDZq1hbpZX+jsLKAKWOCcJKZWc87U++w="
+    }
+  },
+  "version": "4.8.3"
+}

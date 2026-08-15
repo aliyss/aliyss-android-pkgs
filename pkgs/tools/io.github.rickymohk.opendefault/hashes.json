@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.rickymohk.opendefault_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Pwr6A2hY4zPmlUN7Psd5JlFBmrw6pZ1k1lcpaOhmZpk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pwr6A2hY4zPmlUN7Psd5JlFBmrw6pZ1k1lcpaOhmZpk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pwr6A2hY4zPmlUN7Psd5JlFBmrw6pZ1k1lcpaOhmZpk="
+    }
+  },
+  "version": "1.0"
+}

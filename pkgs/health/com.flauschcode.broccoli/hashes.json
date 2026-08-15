@@ -1,0 +1,18 @@
+{
+  "apkName": "com.flauschcode.broccoli_1040600.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bvIckX0jMuCobb5aA/rxbVsWvtvaxH1gl2eGdhjvGSw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bvIckX0jMuCobb5aA/rxbVsWvtvaxH1gl2eGdhjvGSw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bvIckX0jMuCobb5aA/rxbVsWvtvaxH1gl2eGdhjvGSw="
+    }
+  },
+  "version": "1.4.6"
+}

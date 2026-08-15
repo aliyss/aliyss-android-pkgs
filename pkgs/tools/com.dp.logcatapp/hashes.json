@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dp.logcatapp_48.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GM+SwGzjWNMNRzYNV5dVUYpQXAyANBPxG/QfCKVnlvo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GM+SwGzjWNMNRzYNV5dVUYpQXAyANBPxG/QfCKVnlvo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GM+SwGzjWNMNRzYNV5dVUYpQXAyANBPxG/QfCKVnlvo="
+    }
+  },
+  "version": "2.6.1"
+}

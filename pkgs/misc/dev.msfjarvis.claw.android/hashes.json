@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.msfjarvis.claw.android_16800.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-N31Zu39ORNXzihgBwx3mVNm1DKf4d9lX3w/lF4f6oP4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-N31Zu39ORNXzihgBwx3mVNm1DKf4d9lX3w/lF4f6oP4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-N31Zu39ORNXzihgBwx3mVNm1DKf4d9lX3w/lF4f6oP4="
+    }
+  },
+  "version": "1.68.0"
+}

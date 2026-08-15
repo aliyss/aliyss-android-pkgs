@@ -1,0 +1,18 @@
+{
+  "apkName": "de.rwth_aachen.phyphox_1020009.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GJfcfhEnK3cPLKeyKBcFMjo8aJ+8nBp3fp7iGns6FBk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GJfcfhEnK3cPLKeyKBcFMjo8aJ+8nBp3fp7iGns6FBk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GJfcfhEnK3cPLKeyKBcFMjo8aJ+8nBp3fp7iGns6FBk="
+    }
+  },
+  "version": "1.2.0"
+}

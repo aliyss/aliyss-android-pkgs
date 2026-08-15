@@ -1,0 +1,8 @@
+{
+  "package": "com.llamacorp.equate",
+  "signerFingerprints": [
+    "7F:8C:7C:B8:AF:0A:70:16:16:B7:47:6D:AE:0C:AC:98:C8:BA:7C:5A:48:D8:D6:E7:65:E1:57:B8:42:4D:26:DC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

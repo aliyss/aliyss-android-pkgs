@@ -1,0 +1,18 @@
+{
+  "apkName": "com.biotstoiq.hayago_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-x/josD/4+Z6ZOGQI0Vnq6tz7Fyn/hvb+02LccZhhSSw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x/josD/4+Z6ZOGQI0Vnq6tz7Fyn/hvb+02LccZhhSSw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x/josD/4+Z6ZOGQI0Vnq6tz7Fyn/hvb+02LccZhhSSw="
+    }
+  },
+  "version": "1.09"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.unprompted.tildefriends.fdroid_64.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-t5kCouePYlmoYWVCXZaL3/g0tln8TouR0vDt44ksDZw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t5kCouePYlmoYWVCXZaL3/g0tln8TouR0vDt44ksDZw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t5kCouePYlmoYWVCXZaL3/g0tln8TouR0vDt44ksDZw="
+    }
+  },
+  "version": "0.2026.7"
+}

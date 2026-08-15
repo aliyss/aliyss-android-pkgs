@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.eucsoh.android_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nF7T8J/F4jUI76TImfV+3+wAKP+cyeAUJCztwPj4Nec="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nF7T8J/F4jUI76TImfV+3+wAKP+cyeAUJCztwPj4Nec="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nF7T8J/F4jUI76TImfV+3+wAKP+cyeAUJCztwPj4Nec="
+    }
+  },
+  "version": "1.53"
+}

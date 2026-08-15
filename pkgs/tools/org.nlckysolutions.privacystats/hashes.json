@@ -1,0 +1,18 @@
+{
+  "apkName": "org.nlckysolutions.privacystats_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xv+ATzcJFVZJPJMThI7/WDvYWZlsPDg1kh3LeR4uGks="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xv+ATzcJFVZJPJMThI7/WDvYWZlsPDg1kh3LeR4uGks="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xv+ATzcJFVZJPJMThI7/WDvYWZlsPDg1kh3LeR4uGks="
+    }
+  },
+  "version": "1.0"
+}

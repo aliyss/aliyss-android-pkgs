@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.hnit.babyname_204.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FjdHwb7sCYMj5fHhVy8DEPYCBXs7wG3Y5qqzUQ8HTuk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FjdHwb7sCYMj5fHhVy8DEPYCBXs7wG3Y5qqzUQ8HTuk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FjdHwb7sCYMj5fHhVy8DEPYCBXs7wG3Y5qqzUQ8HTuk="
+    }
+  },
+  "version": "2.0.4"
+}

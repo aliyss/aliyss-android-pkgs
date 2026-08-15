@@ -1,0 +1,18 @@
+{
+  "apkName": "org.openpetfoodfacts.scanner_582.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Jshkz6SllZdDAjwHBAbbfFxftewFURl7bah88uHRcRg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Jshkz6SllZdDAjwHBAbbfFxftewFURl7bah88uHRcRg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Jshkz6SllZdDAjwHBAbbfFxftewFURl7bah88uHRcRg="
+    }
+  },
+  "version": "3.9.0"
+}

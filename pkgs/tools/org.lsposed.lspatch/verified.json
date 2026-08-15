@@ -1,0 +1,8 @@
+{
+  "package": "org.lsposed.lspatch",
+  "signerFingerprints": [
+    "CB:A0:1D:5F:C4:38:7B:8C:4C:74:BC:05:E4:CC:E7:D1:14:C1:2F:01:68:89:26:B7:AC:0A:DB:EB:44:0A:16:7C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,9 @@
+{
+  "package": "app.avas.rider",
+  "signerFingerprints": [
+    "4E:B3:C4:7E:B2:E8:98:9E:B6:B2:FD:EC:43:76:EF:2A:FD:13:29:33:A5:F2:2D:41:46:4B:75:D6:84:5B:27:CD"
+  ],
+  "source": "privacyguides/verified-apps",
+  "source-license": "CC-BY-4.0",
+  "source-license-url": "https://github.com/privacyguides/verified-apps/blob/main/LICENSE.txt"
+}

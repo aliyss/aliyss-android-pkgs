@@ -1,0 +1,8 @@
+{
+  "package": "me.yardenac.comaphone",
+  "signerFingerprints": [
+    "B4:98:1E:E7:13:35:23:8F:6A:CA:2F:76:31:8F:96:3F:12:72:D9:5B:4B:12:3A:63:00:4E:E5:41:2B:FE:D6:41"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

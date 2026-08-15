@@ -1,0 +1,18 @@
+{
+  "apkName": "org.therapiefinder_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bQvaTHo8RdUcOz8UGSXSXcDCQwS9pbwknycEE4WdU68="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bQvaTHo8RdUcOz8UGSXSXcDCQwS9pbwknycEE4WdU68="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bQvaTHo8RdUcOz8UGSXSXcDCQwS9pbwknycEE4WdU68="
+    }
+  },
+  "version": "0.6"
+}

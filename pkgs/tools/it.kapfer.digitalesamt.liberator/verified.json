@@ -1,0 +1,8 @@
+{
+  "package": "it.kapfer.digitalesamt.liberator",
+  "signerFingerprints": [
+    "2C:D9:18:17:9E:B2:3E:98:2B:45:C1:C8:A0:9C:03:C2:99:2B:B2:79:DD:79:EF:8F:F3:72:68:44:AF:93:9C:71"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

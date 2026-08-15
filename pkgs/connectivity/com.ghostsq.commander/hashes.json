@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ghostsq.commander_479.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-foBggYT0Y9CDcyiZiYO+sweZ0T3i1bKNyo92l43IoFw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-foBggYT0Y9CDcyiZiYO+sweZ0T3i1bKNyo92l43IoFw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-foBggYT0Y9CDcyiZiYO+sweZ0T3i1bKNyo92l43IoFw="
+    }
+  },
+  "version": "1.64.2b4"
+}

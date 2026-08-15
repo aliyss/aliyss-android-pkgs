@@ -1,0 +1,8 @@
+{
+  "package": "org.pyload.android.client",
+  "signerFingerprints": [
+    "E3:58:17:CF:72:DE:C1:70:74:1E:F9:69:CC:C8:31:DA:7A:F2:6A:1E:C2:46:BB:8B:86:51:60:85:EC:B7:D8:63"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

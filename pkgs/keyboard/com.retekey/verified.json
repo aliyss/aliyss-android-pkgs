@@ -1,0 +1,8 @@
+{
+  "package": "com.retekey",
+  "signerFingerprints": [
+    "9E:DF:10:F8:08:8E:6E:EE:CE:98:31:68:7F:DE:92:DC:B7:37:C7:74:F1:D3:9E:C3:7C:59:69:05:AE:02:0C:35"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

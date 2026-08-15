@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlyrecknoningskills_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tNgCkdYXJgRpnxAAJ0WDH8Qfw93pJKLalI93Z64KQqs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tNgCkdYXJgRpnxAAJ0WDH8Qfw93pJKLalI93Z64KQqs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tNgCkdYXJgRpnxAAJ0WDH8Qfw93pJKLalI93Z64KQqs="
+    }
+  },
+  "version": "1.1.2"
+}

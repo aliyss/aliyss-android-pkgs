@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tuyafeng.orientationlock_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-loe5+q19RcRqnTRq0TKVkRMw7Rp6Hv/BgkTvu+YF/ic="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-loe5+q19RcRqnTRq0TKVkRMw7Rp6Hv/BgkTvu+YF/ic="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-loe5+q19RcRqnTRq0TKVkRMw7Rp6Hv/BgkTvu+YF/ic="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gbeatty.arxiv_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Lk282eFRBaswXUFl7pueem9csDOkv1qGb9E8GqIUUQI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lk282eFRBaswXUFl7pueem9csDOkv1qGb9E8GqIUUQI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lk282eFRBaswXUFl7pueem9csDOkv1qGb9E8GqIUUQI="
+    }
+  },
+  "version": "4.0.4"
+}

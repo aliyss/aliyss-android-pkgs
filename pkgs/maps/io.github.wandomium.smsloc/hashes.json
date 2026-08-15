@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.wandomium.smsloc_140.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m9vK3QsAYBgaQZkHjIj/w13vXHN3FoBhAhFt+5HKRUk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m9vK3QsAYBgaQZkHjIj/w13vXHN3FoBhAhFt+5HKRUk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m9vK3QsAYBgaQZkHjIj/w13vXHN3FoBhAhFt+5HKRUk="
+    }
+  },
+  "version": "1.4.0"
+}

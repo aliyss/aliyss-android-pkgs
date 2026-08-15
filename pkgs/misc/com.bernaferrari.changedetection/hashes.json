@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bernaferrari.changedetection_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LpuUJdrLh6AvKDQ1QK1YbaoB8ji+ubYd67T7Y8DWpts="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LpuUJdrLh6AvKDQ1QK1YbaoB8ji+ubYd67T7Y8DWpts="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LpuUJdrLh6AvKDQ1QK1YbaoB8ji+ubYd67T7Y8DWpts="
+    }
+  },
+  "version": "2.2"
+}

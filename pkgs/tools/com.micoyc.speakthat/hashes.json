@@ -1,0 +1,18 @@
+{
+  "apkName": "com.micoyc.speakthat_61.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HUhsZsos8ee21CgN6HEq2NApULbheMMGfk1GX+sNqIY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HUhsZsos8ee21CgN6HEq2NApULbheMMGfk1GX+sNqIY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HUhsZsos8ee21CgN6HEq2NApULbheMMGfk1GX+sNqIY="
+    }
+  },
+  "version": "1.9.0"
+}

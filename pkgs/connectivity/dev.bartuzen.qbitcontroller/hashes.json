@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.bartuzen.qbitcontroller_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3O+RuocDUe2JXXv559e/GolUtre40nrTPsn9FBOzH9s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3O+RuocDUe2JXXv559e/GolUtre40nrTPsn9FBOzH9s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3O+RuocDUe2JXXv559e/GolUtre40nrTPsn9FBOzH9s="
+    }
+  },
+  "version": "2.2.1"
+}

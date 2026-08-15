@@ -1,0 +1,18 @@
+{
+  "apkName": "com.leaf.explorer_142.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AU6xQa0hSczrT1GW+UXFyADm+EM+MjEUQ6TQHSG91o8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AU6xQa0hSczrT1GW+UXFyADm+EM+MjEUQ6TQHSG91o8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AU6xQa0hSczrT1GW+UXFyADm+EM+MjEUQ6TQHSG91o8="
+    }
+  },
+  "version": "4.0.2"
+}

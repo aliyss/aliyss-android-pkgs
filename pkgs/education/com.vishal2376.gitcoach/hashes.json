@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vishal2376.gitcoach_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ccPfGYQI+ssq18j2qaLV0sPA+N+5ueHtgVsv/9XWDHU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ccPfGYQI+ssq18j2qaLV0sPA+N+5ueHtgVsv/9XWDHU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ccPfGYQI+ssq18j2qaLV0sPA+N+5ueHtgVsv/9XWDHU="
+    }
+  },
+  "version": "5.2"
+}

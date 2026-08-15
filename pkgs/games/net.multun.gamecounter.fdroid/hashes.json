@@ -1,0 +1,18 @@
+{
+  "apkName": "net.multun.gamecounter.fdroid_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fKcGNZFRiWdtXKQ5wDgdeaKr0cHdGfL3xL5cS/1vumI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fKcGNZFRiWdtXKQ5wDgdeaKr0cHdGfL3xL5cS/1vumI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fKcGNZFRiWdtXKQ5wDgdeaKr0cHdGfL3xL5cS/1vumI="
+    }
+  },
+  "version": "2.6.0"
+}

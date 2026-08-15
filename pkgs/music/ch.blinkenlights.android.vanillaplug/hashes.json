@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.blinkenlights.android.vanillaplug_170.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qc28s+qW3Em5vvBr49gkz6vbsmLAnQRodczgwfbFoak="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qc28s+qW3Em5vvBr49gkz6vbsmLAnQRodczgwfbFoak="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qc28s+qW3Em5vvBr49gkz6vbsmLAnQRodczgwfbFoak="
+    }
+  },
+  "version": "1.7"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wagebit.app_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-y+VvL6f21HK1WfPSXHTZu2fzn81n2aHj7lKeeLNH8Nw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y+VvL6f21HK1WfPSXHTZu2fzn81n2aHj7lKeeLNH8Nw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y+VvL6f21HK1WfPSXHTZu2fzn81n2aHj7lKeeLNH8Nw="
+    }
+  },
+  "version": "0.1.0"
+}

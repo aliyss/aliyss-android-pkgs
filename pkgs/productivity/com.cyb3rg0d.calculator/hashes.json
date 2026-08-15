@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cyb3rg0d.calculator_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BaMS+Z3vb94IY2gPm29mumSZP6S6H6HMm40jPomWESs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BaMS+Z3vb94IY2gPm29mumSZP6S6H6HMm40jPomWESs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BaMS+Z3vb94IY2gPm29mumSZP6S6H6HMm40jPomWESs="
+    }
+  },
+  "version": "2.1.0"
+}

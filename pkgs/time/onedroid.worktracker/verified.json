@@ -1,0 +1,8 @@
+{
+  "package": "onedroid.worktracker",
+  "signerFingerprints": [
+    "D8:D2:10:4B:D6:C5:A0:F2:7B:BB:20:CF:2E:49:65:DB:A2:31:A1:F7:80:3B:62:38:A8:56:BE:0C:65:F6:92:49"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

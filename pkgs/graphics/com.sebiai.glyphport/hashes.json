@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sebiai.glyphport_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yV+MpHC1Zfw//yJJAGyk5wr7/6mHFAz2jOIhma+6goA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yV+MpHC1Zfw//yJJAGyk5wr7/6mHFAz2jOIhma+6goA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yV+MpHC1Zfw//yJJAGyk5wr7/6mHFAz2jOIhma+6goA="
+    }
+  },
+  "version": "2.0.3"
+}

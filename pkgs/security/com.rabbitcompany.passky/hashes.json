@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rabbitcompany.passky_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5Gx845R/8NTGS3mZAPFCkSi0srvWyZOKxMDk1r0tgJU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5Gx845R/8NTGS3mZAPFCkSi0srvWyZOKxMDk1r0tgJU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5Gx845R/8NTGS3mZAPFCkSi0srvWyZOKxMDk1r0tgJU="
+    }
+  },
+  "version": "7.1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.matedroid_178293972.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pUavlThAIjpXGXc+84501EaaND3Ot4holTHHAfIejfQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pUavlThAIjpXGXc+84501EaaND3Ot4holTHHAfIejfQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pUavlThAIjpXGXc+84501EaaND3Ot4holTHHAfIejfQ="
+    }
+  },
+  "version": "1.10.0"
+}

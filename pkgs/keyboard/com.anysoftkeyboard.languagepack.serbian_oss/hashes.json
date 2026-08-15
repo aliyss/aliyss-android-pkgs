@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.serbian_oss_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8pLYVZF4UhblyPd/77fD34WcHyQdvu5oFlqbbsX1l74="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8pLYVZF4UhblyPd/77fD34WcHyQdvu5oFlqbbsX1l74="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8pLYVZF4UhblyPd/77fD34WcHyQdvu5oFlqbbsX1l74="
+    }
+  },
+  "version": "5.1.6158"
+}

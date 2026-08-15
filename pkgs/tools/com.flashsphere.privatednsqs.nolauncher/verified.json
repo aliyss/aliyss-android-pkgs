@@ -1,0 +1,8 @@
+{
+  "package": "com.flashsphere.privatednsqs.nolauncher",
+  "signerFingerprints": [
+    "B2:D8:A4:70:8B:05:94:73:D9:04:D0:F8:27:07:D7:1E:3E:72:58:6F:50:BA:2D:11:83:CC:FA:B1:DF:D8:45:C4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

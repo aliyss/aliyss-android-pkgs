@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.regis_cat_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0OpT6PcqwOrDxaBpV/EmzFRBOw0Wx9GQJ10ZnEGyQxw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0OpT6PcqwOrDxaBpV/EmzFRBOw0Wx9GQJ10ZnEGyQxw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0OpT6PcqwOrDxaBpV/EmzFRBOw0Wx9GQJ10ZnEGyQxw="
+    }
+  },
+  "version": "1.0"
+}

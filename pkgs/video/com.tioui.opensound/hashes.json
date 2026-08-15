@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tioui.opensound_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IVOyN/2m+giFYGmgt6A+UKC+4NGMGzCYDu7ASD9YpaA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IVOyN/2m+giFYGmgt6A+UKC+4NGMGzCYDu7ASD9YpaA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IVOyN/2m+giFYGmgt6A+UKC+4NGMGzCYDu7ASD9YpaA="
+    }
+  },
+  "version": "0.5"
+}

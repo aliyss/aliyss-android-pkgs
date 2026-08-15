@@ -1,0 +1,18 @@
+{
+  "apkName": "net.toload.main.hd_750.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xUOnuCV6JWkse+0alE/cMtKJrYRhFfRnw2d3gr/cOvA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xUOnuCV6JWkse+0alE/cMtKJrYRhFfRnw2d3gr/cOvA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xUOnuCV6JWkse+0alE/cMtKJrYRhFfRnw2d3gr/cOvA="
+    }
+  },
+  "version": "7.5.0"
+}

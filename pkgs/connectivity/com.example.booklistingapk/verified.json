@@ -1,0 +1,8 @@
+{
+  "package": "com.example.booklistingapk",
+  "signerFingerprints": [
+    "97:F2:2F:19:1D:71:B8:02:EF:7D:F4:F6:C2:79:0D:42:85:E8:CE:E6:9A:D6:81:71:C4:A4:38:7B:F2:46:FF:80"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

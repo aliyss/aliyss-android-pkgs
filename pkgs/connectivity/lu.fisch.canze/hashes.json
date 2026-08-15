@@ -1,0 +1,18 @@
+{
+  "apkName": "lu.fisch.canze_94.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-p8j75LHzUMiK3KVprzezdn4/6wAE3+MI3jP+19Qui7c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p8j75LHzUMiK3KVprzezdn4/6wAE3+MI3jP+19Qui7c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p8j75LHzUMiK3KVprzezdn4/6wAE3+MI3jP+19Qui7c="
+    }
+  },
+  "version": "1.62"
+}

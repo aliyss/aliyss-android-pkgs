@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.ashutoshgngwr.tenbitclockwidget_221.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Nf+ZQP09c6zRCZ82QL5jZ8MR7J9sNPoX5HSOh07P52M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nf+ZQP09c6zRCZ82QL5jZ8MR7J9sNPoX5HSOh07P52M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nf+ZQP09c6zRCZ82QL5jZ8MR7J9sNPoX5HSOh07P52M="
+    }
+  },
+  "version": "2.2-1"
+}

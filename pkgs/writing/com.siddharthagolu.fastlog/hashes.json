@@ -1,0 +1,18 @@
+{
+  "apkName": "com.siddharthagolu.fastlog_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iBRFK5NhU2wxbLykEF4twiX+j0CMGKwkEQkYGrdJePA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iBRFK5NhU2wxbLykEF4twiX+j0CMGKwkEQkYGrdJePA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iBRFK5NhU2wxbLykEF4twiX+j0CMGKwkEQkYGrdJePA="
+    }
+  },
+  "version": "1.5.0"
+}

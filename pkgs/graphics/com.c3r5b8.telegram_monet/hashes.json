@@ -1,0 +1,18 @@
+{
+  "apkName": "com.c3r5b8.telegram_monet_26070801.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Qf9qYznOJP+9BwFafGzpQ6h3JeEIbjUoi7biTtbD8/A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qf9qYznOJP+9BwFafGzpQ6h3JeEIbjUoi7biTtbD8/A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qf9qYznOJP+9BwFafGzpQ6h3JeEIbjUoi7biTtbD8/A="
+    }
+  },
+  "version": "12.8.2"
+}

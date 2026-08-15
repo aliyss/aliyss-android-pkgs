@@ -1,0 +1,18 @@
+{
+  "apkName": "de.rampro.activitydiary_136.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lSO1RYLBRKl+a89KRGZZ0Qw91UefMp3UXjFHhvGedB8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lSO1RYLBRKl+a89KRGZZ0Qw91UefMp3UXjFHhvGedB8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lSO1RYLBRKl+a89KRGZZ0Qw91UefMp3UXjFHhvGedB8="
+    }
+  },
+  "version": "1.4.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "it.diab",
+  "signerFingerprints": [
+    "25:EF:22:67:A8:2A:A1:8D:E9:82:A1:FA:37:B6:40:A0:D8:9D:87:E7:32:FD:DC:D6:57:67:1A:09:80:D4:07:1C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

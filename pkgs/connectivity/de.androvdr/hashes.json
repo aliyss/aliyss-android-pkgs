@@ -1,0 +1,18 @@
+{
+  "apkName": "de.androvdr_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Niak3s1WvHg6/5hbyISNJp8hjDlYvIDgMtBn84Z06SE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Niak3s1WvHg6/5hbyISNJp8hjDlYvIDgMtBn84Z06SE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Niak3s1WvHg6/5hbyISNJp8hjDlYvIDgMtBn84Z06SE="
+    }
+  },
+  "version": "1.7"
+}

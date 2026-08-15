@@ -1,0 +1,18 @@
+{
+  "apkName": "com.emmanuelmess.tictactoe_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dg/lrPezlDVL8Ct7NITD60QrSRwfpDJWA60yUPDfo5Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dg/lrPezlDVL8Ct7NITD60QrSRwfpDJWA60yUPDfo5Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dg/lrPezlDVL8Ct7NITD60QrSRwfpDJWA60yUPDfo5Q="
+    }
+  },
+  "version": "1.0.0"
+}

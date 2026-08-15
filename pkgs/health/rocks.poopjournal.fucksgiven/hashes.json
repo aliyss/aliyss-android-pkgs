@@ -1,0 +1,18 @@
+{
+  "apkName": "rocks.poopjournal.fucksgiven_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-v9ZU0KFcA9QKkGyR7psfwli1MyqWHuT7YGSbpyAqOe0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v9ZU0KFcA9QKkGyR7psfwli1MyqWHuT7YGSbpyAqOe0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v9ZU0KFcA9QKkGyR7psfwli1MyqWHuT7YGSbpyAqOe0="
+    }
+  },
+  "version": "1.4.0"
+}

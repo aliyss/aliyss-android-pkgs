@@ -1,0 +1,18 @@
+{
+  "apkName": "org.emunix.insteadlauncher_90200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-h4voNx6fuUSBoLwxz+dHKMayM2SM/FyeqadlxpUbE5M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h4voNx6fuUSBoLwxz+dHKMayM2SM/FyeqadlxpUbE5M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h4voNx6fuUSBoLwxz+dHKMayM2SM/FyeqadlxpUbE5M="
+    }
+  },
+  "version": "0.9.2"
+}

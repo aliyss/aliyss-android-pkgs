@@ -1,0 +1,8 @@
+{
+  "package": "eu.mirkodi.bfpcalculator",
+  "signerFingerprints": [
+    "2E:63:F1:11:A0:C8:39:C9:4B:14:70:28:4C:53:B0:B9:72:95:49:78:B4:60:D0:A5:F4:85:EF:A5:68:69:DB:FE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

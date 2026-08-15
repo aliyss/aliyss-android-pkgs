@@ -1,0 +1,8 @@
+{
+  "package": "app.sterna",
+  "signerFingerprints": [
+    "CF:2D:00:7F:7B:FA:44:E0:8E:20:94:3D:E4:FE:17:FB:08:73:70:7F:D7:59:D6:DB:9C:AD:B1:F4:B2:AA:ED:C4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.msb.bluecheese_303.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Jzv0csQNTRXfsmzQpUaBeNIafT+gzhfu1DiWZe1iSkM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Jzv0csQNTRXfsmzQpUaBeNIafT+gzhfu1DiWZe1iSkM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Jzv0csQNTRXfsmzQpUaBeNIafT+gzhfu1DiWZe1iSkM="
+    }
+  },
+  "version": "3.0.3"
+}

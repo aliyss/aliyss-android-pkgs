@@ -1,0 +1,8 @@
+{
+  "package": "org.surrel.facebooknotifications",
+  "signerFingerprints": [
+    "ED:D3:74:1C:70:E1:99:C6:36:FB:C8:90:F7:38:06:36:71:2D:14:D7:6E:49:C4:3F:D1:CB:63:F9:F2:2C:B4:75"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

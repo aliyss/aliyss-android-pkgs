@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rafapps.earthviewformuzei_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7TgmaKTvyJ5sl3aPKBVu0Bmvj36r9n7zPXHdvWCRwaA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7TgmaKTvyJ5sl3aPKBVu0Bmvj36r9n7zPXHdvWCRwaA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7TgmaKTvyJ5sl3aPKBVu0Bmvj36r9n7zPXHdvWCRwaA="
+    }
+  },
+  "version": "2.2"
+}

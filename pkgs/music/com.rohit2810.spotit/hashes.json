@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rohit2810.spotit_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-x+88Kr28rQku10M6TWIDrU0ocdqRknhUnIVqOpb4a+k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x+88Kr28rQku10M6TWIDrU0ocdqRknhUnIVqOpb4a+k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x+88Kr28rQku10M6TWIDrU0ocdqRknhUnIVqOpb4a+k="
+    }
+  },
+  "version": "0.1.1"
+}

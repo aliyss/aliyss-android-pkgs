@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fmsys.snapdrop_45.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TCIdegxmw2aAvx/Pv0y6n3N4BuSXlD8xIFRfO60Nkjw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TCIdegxmw2aAvx/Pv0y6n3N4BuSXlD8xIFRfO60Nkjw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TCIdegxmw2aAvx/Pv0y6n3N4BuSXlD8xIFRfO60Nkjw="
+    }
+  },
+  "version": "2.3.1"
+}

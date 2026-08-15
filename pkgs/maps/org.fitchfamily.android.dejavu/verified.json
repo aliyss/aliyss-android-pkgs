@@ -1,0 +1,8 @@
+{
+  "package": "org.fitchfamily.android.dejavu",
+  "signerFingerprints": [
+    "60:81:D3:18:47:7A:55:5A:74:ED:65:D1:15:98:A5:2E:91:D5:FD:B7:44:6B:07:BC:2C:B8:8D:D5:C0:F9:49:44"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

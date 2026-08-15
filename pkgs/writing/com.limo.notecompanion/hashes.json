@@ -1,0 +1,18 @@
+{
+  "apkName": "com.limo.notecompanion_101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EbPeCpjuSlt4l6VNbkaLUomO9/ORJX5gUmNCHDdYKJ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EbPeCpjuSlt4l6VNbkaLUomO9/ORJX5gUmNCHDdYKJ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EbPeCpjuSlt4l6VNbkaLUomO9/ORJX5gUmNCHDdYKJ0="
+    }
+  },
+  "version": "0.1.1"
+}

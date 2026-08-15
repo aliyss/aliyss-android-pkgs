@@ -1,0 +1,18 @@
+{
+  "apkName": "player.efis.data.pan.arg_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iPO97o/47GIjPfeom2qJxT6n7un0KDNaNJQ6hurRLUE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iPO97o/47GIjPfeom2qJxT6n7un0KDNaNJQ6hurRLUE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iPO97o/47GIjPfeom2qJxT6n7un0KDNaNJQ6hurRLUE="
+    }
+  },
+  "version": "1.11"
+}

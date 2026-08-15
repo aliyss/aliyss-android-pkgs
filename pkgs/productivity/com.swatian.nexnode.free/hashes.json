@@ -1,0 +1,18 @@
+{
+  "apkName": "com.swatian.nexnode.free_400.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vzpdAAL6GOMDYCxOMHK689Ju3benJGQnsJC3mkI8pCk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vzpdAAL6GOMDYCxOMHK689Ju3benJGQnsJC3mkI8pCk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vzpdAAL6GOMDYCxOMHK689Ju3benJGQnsJC3mkI8pCk="
+    }
+  },
+  "version": "4.0.0"
+}

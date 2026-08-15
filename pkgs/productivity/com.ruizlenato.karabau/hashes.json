@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ruizlenato.karabau_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m61cz8yN7cJUT8ktiFEeY221/vPep/jgZP4mj63d+uo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m61cz8yN7cJUT8ktiFEeY221/vPep/jgZP4mj63d+uo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m61cz8yN7cJUT8ktiFEeY221/vPep/jgZP4mj63d+uo="
+    }
+  },
+  "version": "1.4.2"
+}

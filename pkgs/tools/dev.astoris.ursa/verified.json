@@ -1,0 +1,8 @@
+{
+  "package": "dev.astoris.ursa",
+  "signerFingerprints": [
+    "1F:35:9F:B2:7A:A9:24:53:41:25:27:92:1B:16:D5:9E:45:50:5B:F6:F7:BB:83:BC:3C:2C:5E:DF:05:31:5C:D2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

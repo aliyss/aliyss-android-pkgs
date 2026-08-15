@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlydicer",
+  "signerFingerprints": [
+    "56:59:45:D2:FF:2E:CB:34:0F:B5:90:EB:23:FE:F0:B8:6C:3B:BC:E9:6B:39:FC:DA:C8:9C:F2:02:98:8C:19:C6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

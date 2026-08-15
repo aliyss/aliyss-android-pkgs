@@ -1,0 +1,8 @@
+{
+  "package": "mobi.boilr.boilr",
+  "signerFingerprints": [
+    "AF:B8:3B:CD:A1:35:8C:4A:49:FF:71:E9:BA:6D:01:E7:21:67:CF:FF:50:3A:78:73:8B:4F:50:9E:CE:FE:72:AA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

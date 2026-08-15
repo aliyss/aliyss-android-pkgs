@@ -1,0 +1,18 @@
+{
+  "apkName": "de.bernd.bikalo_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QajpqHBIkfWIhwdTidnuh5PzFcOGk3KHeVPaoL34TXM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QajpqHBIkfWIhwdTidnuh5PzFcOGk3KHeVPaoL34TXM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QajpqHBIkfWIhwdTidnuh5PzFcOGk3KHeVPaoL34TXM="
+    }
+  },
+  "version": "1.0"
+}

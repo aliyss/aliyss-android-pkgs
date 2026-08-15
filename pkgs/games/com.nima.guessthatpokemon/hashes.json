@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nima.guessthatpokemon_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-R0AaU7NCt0/GQ1UDkyCciKzhlIx6xL8WmUxOsgTB7y0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R0AaU7NCt0/GQ1UDkyCciKzhlIx6xL8WmUxOsgTB7y0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R0AaU7NCt0/GQ1UDkyCciKzhlIx6xL8WmUxOsgTB7y0="
+    }
+  },
+  "version": "3.0"
+}

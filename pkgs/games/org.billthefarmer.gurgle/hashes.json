@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.gurgle_136.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Kw1ALCMoC4htzqzlHnE+1Xfh7FRMp8LK/XKsZIFYolM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Kw1ALCMoC4htzqzlHnE+1Xfh7FRMp8LK/XKsZIFYolM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Kw1ALCMoC4htzqzlHnE+1Xfh7FRMp8LK/XKsZIFYolM="
+    }
+  },
+  "version": "1.36"
+}

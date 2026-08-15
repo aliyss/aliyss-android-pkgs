@@ -1,0 +1,18 @@
+{
+  "apkName": "de.huepping.wortmuehle_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n5yilKWEK8WkzKUxLFBvd5hZ7DS24b4sR7WqWSRIuiI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n5yilKWEK8WkzKUxLFBvd5hZ7DS24b4sR7WqWSRIuiI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n5yilKWEK8WkzKUxLFBvd5hZ7DS24b4sR7WqWSRIuiI="
+    }
+  },
+  "version": "1.1"
+}

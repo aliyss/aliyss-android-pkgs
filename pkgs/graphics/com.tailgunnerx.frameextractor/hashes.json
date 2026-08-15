@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tailgunnerx.frameextractor_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hjKTkH8y0I52NnpjxuV3cPvm85ZEdTfntNByvt041FU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hjKTkH8y0I52NnpjxuV3cPvm85ZEdTfntNByvt041FU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hjKTkH8y0I52NnpjxuV3cPvm85ZEdTfntNByvt041FU="
+    }
+  },
+  "version": "1.1"
+}

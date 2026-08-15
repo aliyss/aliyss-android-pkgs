@@ -1,0 +1,18 @@
+{
+  "apkName": "com.numguesser.tonio_rpchp.numberguesser_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-36VRYR/0r1iU6z95wrxKk4T8AFVdnXwlc5hmy813ZXM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-36VRYR/0r1iU6z95wrxKk4T8AFVdnXwlc5hmy813ZXM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-36VRYR/0r1iU6z95wrxKk4T8AFVdnXwlc5hmy813ZXM="
+    }
+  },
+  "version": "5.0.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gitlab.kreikenbaum.suntime.fdroid_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FYDeWVKrYh1kV0OAJa+A0L8flCkB260rReZ128QE8Ps="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FYDeWVKrYh1kV0OAJa+A0L8flCkB260rReZ128QE8Ps="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FYDeWVKrYh1kV0OAJa+A0L8flCkB260rReZ128QE8Ps="
+    }
+  },
+  "version": "1.4.0"
+}

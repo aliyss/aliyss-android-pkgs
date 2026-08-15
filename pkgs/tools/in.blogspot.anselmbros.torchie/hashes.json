@@ -1,0 +1,18 @@
+{
+  "apkName": "in.blogspot.anselmbros.torchie_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-McMP6VkVzVd1ly085Cq3icV22bYvraUXL2ur6xW/kOY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-McMP6VkVzVd1ly085Cq3icV22bYvraUXL2ur6xW/kOY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-McMP6VkVzVd1ly085Cq3icV22bYvraUXL2ur6xW/kOY="
+    }
+  },
+  "version": "3.2.1"
+}

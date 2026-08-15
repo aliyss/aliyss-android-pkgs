@@ -1,0 +1,8 @@
+{
+  "package": "com.rama.mako",
+  "signerFingerprints": [
+    "8D:29:CC:EC:70:F0:C1:AD:6F:F5:FC:C2:3B:C2:49:D4:20:47:6D:B9:F3:A0:48:18:E9:11:26:BA:9A:D2:A9:78"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

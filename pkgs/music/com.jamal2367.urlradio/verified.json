@@ -1,0 +1,8 @@
+{
+  "package": "com.jamal2367.urlradio",
+  "signerFingerprints": [
+    "7B:BA:F8:AB:4E:E3:A7:2F:0B:CD:C9:8D:D1:02:BC:32:46:19:47:58:45:13:7E:EC:4A:EE:8C:8C:99:79:59:DB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

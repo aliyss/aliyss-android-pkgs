@@ -1,0 +1,8 @@
+{
+  "package": "com.dd3boh.outertune",
+  "signerFingerprints": [
+    "AC:DD:87:1A:3D:E2:94:7D:32:53:EC:90:CD:C5:3D:1A:07:40:D6:03:8E:25:A6:48:5D:71:89:9E:EF:A9:6D:B8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "vegabobo.languageselector",
+  "signerFingerprints": [
+    "03:38:C4:71:5F:5E:4D:00:07:15:EC:35:1D:2D:DB:80:B9:71:0B:70:99:83:1D:EA:C8:BE:B5:46:BB:73:C2:1A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

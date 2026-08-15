@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.classicdiy.classic_308.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-S6jF2rDEhjG+hwlwrquM4I5JcAELSLYbCFZWLDIkfgk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S6jF2rDEhjG+hwlwrquM4I5JcAELSLYbCFZWLDIkfgk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S6jF2rDEhjG+hwlwrquM4I5JcAELSLYbCFZWLDIkfgk="
+    }
+  },
+  "version": "3.0.8"
+}

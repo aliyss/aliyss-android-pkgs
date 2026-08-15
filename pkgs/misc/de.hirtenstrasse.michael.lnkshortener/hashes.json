@@ -1,0 +1,18 @@
+{
+  "apkName": "de.hirtenstrasse.michael.lnkshortener_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l0crCI+brNwT51G87bq6bRt3ZdA5lWDsBsGHZo6pmcQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l0crCI+brNwT51G87bq6bRt3ZdA5lWDsBsGHZo6pmcQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l0crCI+brNwT51G87bq6bRt3ZdA5lWDsBsGHZo6pmcQ="
+    }
+  },
+  "version": "1.1.2"
+}

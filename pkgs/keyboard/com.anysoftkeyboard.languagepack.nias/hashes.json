@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.nias_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0o5pSJpwHDqF7sZOZHU/vuCRPddRUVWHlFfHXvHZGpw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0o5pSJpwHDqF7sZOZHU/vuCRPddRUVWHlFfHXvHZGpw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0o5pSJpwHDqF7sZOZHU/vuCRPddRUVWHlFfHXvHZGpw="
+    }
+  },
+  "version": "5.1.6158"
+}

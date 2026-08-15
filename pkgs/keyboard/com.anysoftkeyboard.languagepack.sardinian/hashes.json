@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.sardinian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-V2Zgk3z64vCHkYO1BiAFITvil/N95lRMCV4qg5rHSbI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V2Zgk3z64vCHkYO1BiAFITvil/N95lRMCV4qg5rHSbI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V2Zgk3z64vCHkYO1BiAFITvil/N95lRMCV4qg5rHSbI="
+    }
+  },
+  "version": "5.1.6158"
+}

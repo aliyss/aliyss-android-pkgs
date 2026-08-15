@@ -1,0 +1,8 @@
+{
+  "package": "com.mookie.circo",
+  "signerFingerprints": [
+    "8A:5E:98:85:EE:51:69:96:A8:41:A1:1F:61:55:FB:51:FF:F4:60:76:49:C3:8E:BB:BE:0D:19:9C:B8:BA:F9:95"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

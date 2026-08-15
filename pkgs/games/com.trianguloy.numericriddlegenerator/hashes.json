@@ -1,0 +1,18 @@
+{
+  "apkName": "com.trianguloy.numericriddlegenerator_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-w2z6WqowxOGh2RjtLfaSXjVp7DimoDO547CuMQPUzCU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w2z6WqowxOGh2RjtLfaSXjVp7DimoDO547CuMQPUzCU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w2z6WqowxOGh2RjtLfaSXjVp7DimoDO547CuMQPUzCU="
+    }
+  },
+  "version": "2.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.fff.ccgt_1153.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-M3ao6I2rLEzr00XWY/2Kis7KKfGl0WT7ecLeIYA9yaU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M3ao6I2rLEzr00XWY/2Kis7KKfGl0WT7ecLeIYA9yaU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M3ao6I2rLEzr00XWY/2Kis7KKfGl0WT7ecLeIYA9yaU="
+    }
+  },
+  "version": "1.53"
+}

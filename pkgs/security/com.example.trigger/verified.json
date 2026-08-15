@@ -1,0 +1,8 @@
+{
+  "package": "com.example.trigger",
+  "signerFingerprints": [
+    "E7:44:5C:91:8E:52:D4:6A:CC:02:40:15:8E:F7:8E:F8:8C:1A:07:F2:6E:C0:D3:0B:80:0E:18:B6:05:62:0F:DC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

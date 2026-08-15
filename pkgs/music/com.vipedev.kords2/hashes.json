@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vipedev.kords2_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vOW37lW9ebFoJMs8nEzw/xbP8omqf1oAdrBghAfM9o4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vOW37lW9ebFoJMs8nEzw/xbP8omqf1oAdrBghAfM9o4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vOW37lW9ebFoJMs8nEzw/xbP8omqf1oAdrBghAfM9o4="
+    }
+  },
+  "version": "1.3.0"
+}

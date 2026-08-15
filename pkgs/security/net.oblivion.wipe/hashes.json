@@ -1,0 +1,18 @@
+{
+  "apkName": "net.oblivion.wipe_45.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-No7+bt6kOs6m0Ed4ed7wY1Vkl6ScEQMHSnPOd9JKBqo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-No7+bt6kOs6m0Ed4ed7wY1Vkl6ScEQMHSnPOd9JKBqo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-No7+bt6kOs6m0Ed4ed7wY1Vkl6ScEQMHSnPOd9JKBqo="
+    }
+  },
+  "version": "1.0.6"
+}

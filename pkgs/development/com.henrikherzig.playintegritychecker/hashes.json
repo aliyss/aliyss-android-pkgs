@@ -1,0 +1,18 @@
+{
+  "apkName": "com.henrikherzig.playintegritychecker_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qbADbtS3i0hvzZV/xwONRBzW6JaWH/trG8z9fwOz5HE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qbADbtS3i0hvzZV/xwONRBzW6JaWH/trG8z9fwOz5HE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qbADbtS3i0hvzZV/xwONRBzW6JaWH/trG8z9fwOz5HE="
+    }
+  },
+  "version": "1.4.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fediphoto.lineage_80.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/RpC6I4SIHLOBW30bo0YN6ptVzSCRn4zhIMygRU5rx8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/RpC6I4SIHLOBW30bo0YN6ptVzSCRn4zhIMygRU5rx8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/RpC6I4SIHLOBW30bo0YN6ptVzSCRn4zhIMygRU5rx8="
+    }
+  },
+  "version": "8.0"
+}

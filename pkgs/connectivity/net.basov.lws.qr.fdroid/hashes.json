@@ -1,0 +1,18 @@
+{
+  "apkName": "net.basov.lws.qr.fdroid_50100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5XRdpC2Gl8pYMWLK7Ew/zf83ky5zLpvn/IzpJoZoaNk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5XRdpC2Gl8pYMWLK7Ew/zf83ky5zLpvn/IzpJoZoaNk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5XRdpC2Gl8pYMWLK7Ew/zf83ky5zLpvn/IzpJoZoaNk="
+    }
+  },
+  "version": "05.00.00"
+}

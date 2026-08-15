@@ -1,0 +1,18 @@
+{
+  "apkName": "com.daitj.easycontrolfork.app_10004.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZWCN+a1ObuD3+ojSS4M8GSGjJjA76aw3KVfadZkcfZQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZWCN+a1ObuD3+ojSS4M8GSGjJjA76aw3KVfadZkcfZQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZWCN+a1ObuD3+ojSS4M8GSGjJjA76aw3KVfadZkcfZQ="
+    }
+  },
+  "version": "1.0.4"
+}

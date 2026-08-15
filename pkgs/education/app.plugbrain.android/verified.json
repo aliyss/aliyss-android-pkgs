@@ -1,0 +1,8 @@
+{
+  "package": "app.plugbrain.android",
+  "signerFingerprints": [
+    "77:6D:FA:A2:4E:83:16:22:5B:D4:A1:CA:A0:0C:FD:FD:D8:7B:EB:17:57:1E:5B:34:69:CF:DB:92:45:3D:4B:A9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.isotjs.todosian_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NIMQpmvw9zAVs8t2rUIEFlw5Roy1bWwAUuEOliwoC/Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NIMQpmvw9zAVs8t2rUIEFlw5Roy1bWwAUuEOliwoC/Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NIMQpmvw9zAVs8t2rUIEFlw5Roy1bWwAUuEOliwoC/Q="
+    }
+  },
+  "version": "1.7"
+}

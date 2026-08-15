@@ -1,0 +1,18 @@
+{
+  "apkName": "com.indieweb.indigenous_84.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H/8qFypOJXmvNpyo7oIlbV6ZfR7C7e5gAK/5gIo4MUg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H/8qFypOJXmvNpyo7oIlbV6ZfR7C7e5gAK/5gIo4MUg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H/8qFypOJXmvNpyo7oIlbV6ZfR7C7e5gAK/5gIo4MUg="
+    }
+  },
+  "version": "0.84"
+}

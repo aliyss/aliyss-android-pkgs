@@ -1,0 +1,18 @@
+{
+  "apkName": "me.sujanpoudel.playdeals_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wfrUQ/EsYmCS62tuf2H3Ni+1eKFfele6OIYwoXSkbLk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wfrUQ/EsYmCS62tuf2H3Ni+1eKFfele6OIYwoXSkbLk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wfrUQ/EsYmCS62tuf2H3Ni+1eKFfele6OIYwoXSkbLk="
+    }
+  },
+  "version": "2.2.1"
+}

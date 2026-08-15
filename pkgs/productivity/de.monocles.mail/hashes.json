@@ -1,0 +1,18 @@
+{
+  "apkName": "de.monocles.mail_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8kW6EGR5SptH/O5Ehxay66PqRHzGPEfF0QGmS4jODqQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8kW6EGR5SptH/O5Ehxay66PqRHzGPEfF0QGmS4jODqQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8kW6EGR5SptH/O5Ehxay66PqRHzGPEfF0QGmS4jODqQ="
+    }
+  },
+  "version": "1.2.3"
+}

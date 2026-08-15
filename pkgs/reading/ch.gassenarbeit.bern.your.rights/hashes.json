@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.gassenarbeit.bern.your.rights_203.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-85XzNZeFM6hqHAs4ehPMybS7o+XSb+RxmQbQX7ixfiA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-85XzNZeFM6hqHAs4ehPMybS7o+XSb+RxmQbQX7ixfiA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-85XzNZeFM6hqHAs4ehPMybS7o+XSb+RxmQbQX7ixfiA="
+    }
+  },
+  "version": "0.2.3"
+}

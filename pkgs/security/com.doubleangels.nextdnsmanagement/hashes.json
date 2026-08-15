@@ -1,0 +1,18 @@
+{
+  "apkName": "com.doubleangels.nextdnsmanagement_274.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6/dkO/wwQQEhFA7KPX1e47c/vjy6KNyiItt0Bh+Vnww="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6/dkO/wwQQEhFA7KPX1e47c/vjy6KNyiItt0Bh+Vnww="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6/dkO/wwQQEhFA7KPX1e47c/vjy6KNyiItt0Bh+Vnww="
+    }
+  },
+  "version": "5.5.25"
+}

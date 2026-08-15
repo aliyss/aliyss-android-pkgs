@@ -1,0 +1,8 @@
+{
+  "package": "com.mine.autoshine",
+  "signerFingerprints": [
+    "60:14:A0:E3:C2:A3:84:79:44:1C:31:4C:03:BC:59:73:C9:EA:84:FC:F0:91:A0:AB:DE:A4:F4:F8:71:41:02:6C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

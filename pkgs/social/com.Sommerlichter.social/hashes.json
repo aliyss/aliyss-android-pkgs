@@ -1,0 +1,18 @@
+{
+  "apkName": "com.Sommerlichter.social_3300.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-62aZSefJFqCSe9yNPOufGH+VlPIEilkbStOfaj1Tf/o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-62aZSefJFqCSe9yNPOufGH+VlPIEilkbStOfaj1Tf/o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-62aZSefJFqCSe9yNPOufGH+VlPIEilkbStOfaj1Tf/o="
+    }
+  },
+  "version": "3.3"
+}

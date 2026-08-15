@@ -1,0 +1,18 @@
+{
+  "apkName": "org.moire.ultrasonic_131.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sG5JWOP2BAIo4G4nBymyNjNY0eK6g0itB6frxqD4Xao="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sG5JWOP2BAIo4G4nBymyNjNY0eK6g0itB6frxqD4Xao="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sG5JWOP2BAIo4G4nBymyNjNY0eK6g0itB6frxqD4Xao="
+    }
+  },
+  "version": "4.9.0"
+}

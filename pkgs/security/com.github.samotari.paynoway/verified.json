@@ -1,0 +1,8 @@
+{
+  "package": "com.github.samotari.paynoway",
+  "signerFingerprints": [
+    "66:F0:66:9F:B6:C0:F9:9E:34:25:FB:13:C3:22:A4:63:93:E9:26:62:F7:60:2C:83:88:97:8A:CA:DF:23:A8:55"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

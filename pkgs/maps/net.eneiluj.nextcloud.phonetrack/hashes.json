@@ -1,0 +1,18 @@
+{
+  "apkName": "net.eneiluj.nextcloud.phonetrack_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OUYB5k7yaq5WoZN9oEyCjrtjIPWBFIC6pb1eYD+nH0w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OUYB5k7yaq5WoZN9oEyCjrtjIPWBFIC6pb1eYD+nH0w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OUYB5k7yaq5WoZN9oEyCjrtjIPWBFIC6pb1eYD+nH0w="
+    }
+  },
+  "version": "0.1.0"
+}

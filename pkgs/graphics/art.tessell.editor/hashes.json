@@ -1,0 +1,18 @@
+{
+  "apkName": "art.tessell.editor_603.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7MTVi9pBRdVLJTSYw/b0f7lW8FGD92oCnq+5tnTredw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7MTVi9pBRdVLJTSYw/b0f7lW8FGD92oCnq+5tnTredw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7MTVi9pBRdVLJTSYw/b0f7lW8FGD92oCnq+5tnTredw="
+    }
+  },
+  "version": "0.6.3"
+}

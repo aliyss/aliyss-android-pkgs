@@ -1,0 +1,8 @@
+{
+  "package": "be.knars.netflixtoimdb",
+  "signerFingerprints": [
+    "87:ED:E0:C4:13:C2:E1:08:3B:B7:AE:9F:C4:36:57:71:43:D0:30:0B:BE:9A:9F:B1:D5:0A:AA:23:DA:90:27:D8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

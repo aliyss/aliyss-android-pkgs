@@ -1,0 +1,18 @@
+{
+  "apkName": "com.benlinskey.greekreference_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-M4OjQsemBVr3ABYPn8sJwp4LzmDb9cproFwc/awp1e8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M4OjQsemBVr3ABYPn8sJwp4LzmDb9cproFwc/awp1e8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M4OjQsemBVr3ABYPn8sJwp4LzmDb9cproFwc/awp1e8="
+    }
+  },
+  "version": "1.16.0"
+}

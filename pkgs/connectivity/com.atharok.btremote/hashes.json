@@ -1,0 +1,18 @@
+{
+  "apkName": "com.atharok.btremote_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZQLZWJ7nwNDi80klCyi7U0JUZX3zYNwzCxXSFzSVGrc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZQLZWJ7nwNDi80klCyi7U0JUZX3zYNwzCxXSFzSVGrc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZQLZWJ7nwNDi80klCyi7U0JUZX3zYNwzCxXSFzSVGrc="
+    }
+  },
+  "version": "1.12.1"
+}

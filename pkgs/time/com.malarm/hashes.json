@@ -1,0 +1,18 @@
+{
+  "apkName": "com.malarm_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jSrU9c+aku2wONQc4X13toBnhT7h7gpNhl+u5b0moHA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jSrU9c+aku2wONQc4X13toBnhT7h7gpNhl+u5b0moHA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jSrU9c+aku2wONQc4X13toBnhT7h7gpNhl+u5b0moHA="
+    }
+  },
+  "version": "0.5.0"
+}

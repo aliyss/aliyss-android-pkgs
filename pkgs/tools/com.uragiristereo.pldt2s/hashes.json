@@ -1,0 +1,18 @@
+{
+  "apkName": "com.uragiristereo.pldt2s_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Oj/QMUNLu7YpvjlPmolNR5mHjIsGDSlCeTGxRfOm04c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Oj/QMUNLu7YpvjlPmolNR5mHjIsGDSlCeTGxRfOm04c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Oj/QMUNLu7YpvjlPmolNR5mHjIsGDSlCeTGxRfOm04c="
+    }
+  },
+  "version": "1.0.1"
+}

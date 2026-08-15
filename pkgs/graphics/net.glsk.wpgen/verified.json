@@ -1,0 +1,8 @@
+{
+  "package": "net.glsk.wpgen",
+  "signerFingerprints": [
+    "FC:9A:6C:07:C0:71:E9:9B:F0:4D:FF:BF:6B:A1:16:42:39:BA:83:44:CC:7E:A9:F1:82:C7:14:2D:78:C8:A3:7B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

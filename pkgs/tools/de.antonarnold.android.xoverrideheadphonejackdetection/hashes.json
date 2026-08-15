@@ -1,0 +1,18 @@
+{
+  "apkName": "de.antonarnold.android.xoverrideheadphonejackdetection_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YCWvXuhd1jb7/CA+ecdclob5JwFpJ2wVl9zuh5Ln/bc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YCWvXuhd1jb7/CA+ecdclob5JwFpJ2wVl9zuh5Ln/bc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YCWvXuhd1jb7/CA+ecdclob5JwFpJ2wVl9zuh5Ln/bc="
+    }
+  },
+  "version": "1.5"
+}

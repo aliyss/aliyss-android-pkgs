@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.v2compose_101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VXg1ue592VM9+18S9fkwLMiTev79jLAxXiShGaRITW4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VXg1ue592VM9+18S9fkwLMiTev79jLAxXiShGaRITW4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VXg1ue592VM9+18S9fkwLMiTev79jLAxXiShGaRITW4="
+    }
+  },
+  "version": "1.0.1"
+}

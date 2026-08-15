@@ -1,0 +1,8 @@
+{
+  "package": "x1125io.initdlight",
+  "signerFingerprints": [
+    "EB:8F:E5:F6:CE:B8:7F:6C:62:66:94:AC:C1:53:89:17:50:27:57:68:D0:76:72:58:90:2B:8C:26:D7:CF:53:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

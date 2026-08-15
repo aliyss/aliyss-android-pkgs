@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.henridellal.patolli_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MSY/X1utV+HJwWGrm8svN9FGQcvCjyiabXOcv9dpzFc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MSY/X1utV+HJwWGrm8svN9FGQcvCjyiabXOcv9dpzFc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MSY/X1utV+HJwWGrm8svN9FGQcvCjyiabXOcv9dpzFc="
+    }
+  },
+  "version": "1.1"
+}

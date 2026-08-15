@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.wohlsoft.opnmidiplayer_1060100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gYMzqupy/8MDOeyRQYe/aYe1wRbBJNGytOYRl4IyEXA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gYMzqupy/8MDOeyRQYe/aYe1wRbBJNGytOYRl4IyEXA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gYMzqupy/8MDOeyRQYe/aYe1wRbBJNGytOYRl4IyEXA="
+    }
+  },
+  "version": "1.6.1"
+}

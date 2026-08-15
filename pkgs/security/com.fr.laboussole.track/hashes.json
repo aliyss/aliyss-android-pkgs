@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fr.laboussole.track_50020.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DDrEEpV1G2rwI7sVcJSvnev8ynMzF0aw5Gk08f6rNJs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DDrEEpV1G2rwI7sVcJSvnev8ynMzF0aw5Gk08f6rNJs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DDrEEpV1G2rwI7sVcJSvnev8ynMzF0aw5Gk08f6rNJs="
+    }
+  },
+  "version": "5.0.2-gao-full"
+}

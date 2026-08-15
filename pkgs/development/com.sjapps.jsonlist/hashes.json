@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sjapps.jsonlist_1000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sE92mkcJJN/iuqDnZygK8X10nzXtRI04hCu4H+h8fCs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sE92mkcJJN/iuqDnZygK8X10nzXtRI04hCu4H+h8fCs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sE92mkcJJN/iuqDnZygK8X10nzXtRI04hCu4H+h8fCs="
+    }
+  },
+  "version": "1.10"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gitlab.ardash.appleflinger.android_1006001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7UT9hE1856+oT3kCtoIzsIprgsE33hF7z2rRnB+k728="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7UT9hE1856+oT3kCtoIzsIprgsE33hF7z2rRnB+k728="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7UT9hE1856+oT3kCtoIzsIprgsE33hF7z2rRnB+k728="
+    }
+  },
+  "version": "1.6.1"
+}

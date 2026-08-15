@@ -1,0 +1,8 @@
+{
+  "package": "name.seguri.android.isphoneencrypted",
+  "signerFingerprints": [
+    "68:F9:83:FE:5C:70:50:76:8D:BF:C7:61:EB:C4:5A:5F:2A:87:22:45:6F:A1:01:BA:3A:D1:C8:B9:23:3F:F2:F5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

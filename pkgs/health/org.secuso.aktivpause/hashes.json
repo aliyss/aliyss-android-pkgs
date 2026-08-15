@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.aktivpause_102.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7JIEMT/a37Fp/WjOLAheZdoGqU3bki2HPOEdeEpeH90="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7JIEMT/a37Fp/WjOLAheZdoGqU3bki2HPOEdeEpeH90="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7JIEMT/a37Fp/WjOLAheZdoGqU3bki2HPOEdeEpeH90="
+    }
+  },
+  "version": "1.2.6"
+}

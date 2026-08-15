@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlybattleship_101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vu7cu+/DsBMkKSbxH1EZSQDQDwV43vRMjSo8+STYAOA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vu7cu+/DsBMkKSbxH1EZSQDQDwV43vRMjSo8+STYAOA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vu7cu+/DsBMkKSbxH1EZSQDQDwV43vRMjSo8+STYAOA="
+    }
+  },
+  "version": "2.0.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.vivi.vivimusic",
+  "signerFingerprints": [
+    "E0:58:1B:AB:0B:93:0B:17:93:96:E1:30:08:AA:08:50:9C:DC:D1:EE:38:F7:AE:54:10:2F:C3:CF:93:25:6A:9D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

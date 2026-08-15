@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bbzone.isitprime_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aouY98RFfVcUCT7AKCA4Y0MNbF5fMAqoFXoGXqqkOdE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aouY98RFfVcUCT7AKCA4Y0MNbF5fMAqoFXoGXqqkOdE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aouY98RFfVcUCT7AKCA4Y0MNbF5fMAqoFXoGXqqkOdE="
+    }
+  },
+  "version": "1.10"
+}

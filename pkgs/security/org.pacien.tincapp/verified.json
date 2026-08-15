@@ -1,0 +1,8 @@
+{
+  "package": "org.pacien.tincapp",
+  "signerFingerprints": [
+    "2E:D9:76:BA:00:DF:7E:F2:66:25:0A:7B:B1:16:12:4B:E4:30:E4:58:EB:49:F0:77:F9:B4:21:19:A8:D6:E1:2D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

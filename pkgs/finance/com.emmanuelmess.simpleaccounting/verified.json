@@ -1,0 +1,8 @@
+{
+  "package": "com.emmanuelmess.simpleaccounting",
+  "signerFingerprints": [
+    "DC:5C:E6:14:B5:E9:5F:65:81:4E:79:D3:12:1F:A1:AC:31:65:83:8A:1F:63:B2:1F:01:FD:A3:C9:08:94:F2:3B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

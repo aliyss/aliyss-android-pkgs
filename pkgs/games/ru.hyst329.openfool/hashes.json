@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.hyst329.openfool_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BMh2T14AsnfUUZRrfKKwc5N8egjSCGqxxd3DYOuJMGY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BMh2T14AsnfUUZRrfKKwc5N8egjSCGqxxd3DYOuJMGY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BMh2T14AsnfUUZRrfKKwc5N8egjSCGqxxd3DYOuJMGY="
+    }
+  },
+  "version": "0.3.0"
+}

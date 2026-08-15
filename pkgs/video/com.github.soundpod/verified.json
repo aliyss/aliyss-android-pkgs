@@ -1,0 +1,8 @@
+{
+  "package": "com.github.soundpod",
+  "signerFingerprints": [
+    "49:1C:A2:14:62:80:90:9F:3A:2A:89:9D:45:27:0C:A1:5A:96:36:B0:4E:D6:D4:75:EB:51:77:C0:1A:9A:18:3B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

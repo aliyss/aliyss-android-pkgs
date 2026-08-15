@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sleeptimer_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FDGMq78G9XESSyMqwLnxlG3rixCstI53DO6k7+sSoTw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FDGMq78G9XESSyMqwLnxlG3rixCstI53DO6k7+sSoTw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FDGMq78G9XESSyMqwLnxlG3rixCstI53DO6k7+sSoTw="
+    }
+  },
+  "version": "0.9.9"
+}

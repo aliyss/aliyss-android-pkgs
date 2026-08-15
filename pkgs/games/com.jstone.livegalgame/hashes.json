@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jstone.livegalgame_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0EePGjO0U1AG0K9BMASv2DpXgl4Ak2T/w2z/KlgB5XY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0EePGjO0U1AG0K9BMASv2DpXgl4Ak2T/w2z/KlgB5XY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0EePGjO0U1AG0K9BMASv2DpXgl4Ak2T/w2z/KlgB5XY="
+    }
+  },
+  "version": "1.8.1"
+}

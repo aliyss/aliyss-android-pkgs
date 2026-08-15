@@ -1,0 +1,8 @@
+{
+  "package": "xyz.mordorx.sicmu",
+  "signerFingerprints": [
+    "C7:96:B2:E9:18:CA:95:31:65:57:82:DB:A6:77:FD:4F:CC:3C:65:03:43:B8:AE:E7:F2:AE:F3:9C:81:02:97:B1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

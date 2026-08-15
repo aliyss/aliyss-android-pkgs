@@ -1,0 +1,8 @@
+{
+  "package": "com.mkulesh.onpc",
+  "signerFingerprints": [
+    "6A:7B:E8:EE:0A:AB:EA:16:3A:0F:32:8C:46:01:3A:00:C0:0F:B1:84:CB:38:06:FF:2D:BD:9C:AE:7D:31:A0:65"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

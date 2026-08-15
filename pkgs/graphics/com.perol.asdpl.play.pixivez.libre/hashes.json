@@ -1,0 +1,18 @@
+{
+  "apkName": "com.perol.asdpl.play.pixivez.libre_225.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-V8r0XWfs0GBxhPdpAWrsmM0nzc2es4jhiEB/K1ZjuFY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V8r0XWfs0GBxhPdpAWrsmM0nzc2es4jhiEB/K1ZjuFY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V8r0XWfs0GBxhPdpAWrsmM0nzc2es4jhiEB/K1ZjuFY="
+    }
+  },
+  "version": "2.2.5"
+}

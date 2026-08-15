@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.mokrzycki.learndigits_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7b2KN/vNA+UpO87qBKy/8sGoKOWR9OfeG57x72pEuow="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7b2KN/vNA+UpO87qBKy/8sGoKOWR9OfeG57x72pEuow="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7b2KN/vNA+UpO87qBKy/8sGoKOWR9OfeG57x72pEuow="
+    }
+  },
+  "version": "1.0.7"
+}

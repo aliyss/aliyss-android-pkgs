@@ -1,0 +1,8 @@
+{
+  "package": "net.tjado.usbgadget",
+  "signerFingerprints": [
+    "5C:C7:FA:A1:69:C3:C0:8C:58:95:ED:85:09:80:5D:8B:EC:33:8F:61:35:E2:F6:D5:70:E1:47:13:AD:F9:29:CA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

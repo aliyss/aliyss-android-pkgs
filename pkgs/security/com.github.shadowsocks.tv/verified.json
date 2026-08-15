@@ -1,0 +1,8 @@
+{
+  "package": "com.github.shadowsocks.tv",
+  "signerFingerprints": [
+    "39:AF:8D:9C:F5:22:32:6B:87:10:B7:E6:85:C7:0A:F0:B8:43:0C:FD:A4:13:D6:7C:48:1F:3F:11:C4:FE:86:AA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.fastaccess.github.revival",
+  "signerFingerprints": [
+    "E2:49:7E:99:17:C4:3E:DD:85:4B:1F:57:00:02:58:DD:62:3F:D3:08:D9:A6:29:62:BE:C3:FC:10:E1:D8:F0:EB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

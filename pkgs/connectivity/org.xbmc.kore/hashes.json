@@ -1,0 +1,18 @@
+{
+  "apkName": "org.xbmc.kore_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wPYexkZ5ZeTfWjAuIn9uLw77NBuGL/vTDZ3I5B6TAUA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wPYexkZ5ZeTfWjAuIn9uLw77NBuGL/vTDZ3I5B6TAUA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wPYexkZ5ZeTfWjAuIn9uLw77NBuGL/vTDZ3I5B6TAUA="
+    }
+  },
+  "version": "v3.1.0"
+}

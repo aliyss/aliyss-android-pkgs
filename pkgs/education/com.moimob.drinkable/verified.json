@@ -1,0 +1,8 @@
+{
+  "package": "com.moimob.drinkable",
+  "signerFingerprints": [
+    "1C:BB:00:D6:F6:1B:E7:4B:5D:8B:C5:91:88:1D:C9:29:F9:C9:8F:C8:07:8A:57:44:AC:0F:D1:7E:25:26:72:7F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.vgorcum.minedmonero",
+  "signerFingerprints": [
+    "69:53:CC:3F:DF:88:DA:8C:44:81:07:39:47:1F:07:B9:B5:9B:E8:76:07:64:70:53:21:E7:C7:F9:6F:0D:3D:5D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

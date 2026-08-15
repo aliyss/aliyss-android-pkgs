@@ -1,0 +1,8 @@
+{
+  "package": "de.eric_scheibler.tactileclock",
+  "signerFingerprints": [
+    "62:11:AA:FB:8F:BC:59:E6:A1:3D:EE:55:E8:88:C1:5C:F6:55:AC:55:C4:B9:D4:BA:10:66:B5:F9:11:18:85:C4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

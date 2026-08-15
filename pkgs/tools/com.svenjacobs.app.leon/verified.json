@@ -1,0 +1,8 @@
+{
+  "package": "com.svenjacobs.app.leon",
+  "signerFingerprints": [
+    "46:4A:DB:D4:A2:42:46:E4:18:56:3D:F6:46:8D:A9:6C:F4:B2:82:80:A3:91:47:B2:82:4D:E0:51:CA:D1:48:D7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

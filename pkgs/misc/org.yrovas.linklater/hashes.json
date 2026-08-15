@@ -1,0 +1,18 @@
+{
+  "apkName": "org.yrovas.linklater_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-srnfxSsOpitdTjcDTcBnHW2TWctn7V2oRMlGf4pv1AM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-srnfxSsOpitdTjcDTcBnHW2TWctn7V2oRMlGf4pv1AM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-srnfxSsOpitdTjcDTcBnHW2TWctn7V2oRMlGf4pv1AM="
+    }
+  },
+  "version": "2.2"
+}

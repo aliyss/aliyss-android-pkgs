@@ -1,0 +1,8 @@
+{
+  "package": "com.voyagerfiles",
+  "signerFingerprints": [
+    "DB:49:62:77:D4:56:75:1A:BE:8C:A6:40:50:26:33:7C:81:A5:61:A1:34:E3:8D:49:C8:E2:1F:B8:F0:36:BA:DF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

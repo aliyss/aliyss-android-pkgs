@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.marietetbc.littlepainter_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uyWiG2r1baEW91IPozKjYLiCb+jcmfyqX4QrHFYmXaE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uyWiG2r1baEW91IPozKjYLiCb+jcmfyqX4QrHFYmXaE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uyWiG2r1baEW91IPozKjYLiCb+jcmfyqX4QrHFYmXaE="
+    }
+  },
+  "version": "1.0.0"
+}

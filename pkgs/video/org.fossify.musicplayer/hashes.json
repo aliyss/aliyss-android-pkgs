@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fossify.musicplayer_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tdDONnVE3xrBYq33HWQoeMW5Y6MEyg3fj4VW8Hu7p5s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tdDONnVE3xrBYq33HWQoeMW5Y6MEyg3fj4VW8Hu7p5s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tdDONnVE3xrBYq33HWQoeMW5Y6MEyg3fj4VW8Hu7p5s="
+    }
+  },
+  "version": "1.8.1"
+}

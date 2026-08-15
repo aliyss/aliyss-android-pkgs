@@ -1,0 +1,8 @@
+{
+  "package": "com.example.zoomhundred",
+  "signerFingerprints": [
+    "A2:DC:E3:A0:C0:5E:BB:0C:79:44:00:AF:08:CD:5A:9E:56:6E:3C:94:EB:14:55:1A:69:63:0A:BE:40:FE:FA:1B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

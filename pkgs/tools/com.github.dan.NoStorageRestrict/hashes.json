@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.dan.NoStorageRestrict_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2SLiU/TuEMhTT1NW7pSzQ+HLoMHJZ9eTcYMPmFrXkWU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2SLiU/TuEMhTT1NW7pSzQ+HLoMHJZ9eTcYMPmFrXkWU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2SLiU/TuEMhTT1NW7pSzQ+HLoMHJZ9eTcYMPmFrXkWU="
+    }
+  },
+  "version": "0.7.0"
+}

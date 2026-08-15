@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.vitosha.blackjack_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-h79V1Oq0PH8rDA/V4V+a22mt7JCqwzOX98l2N82tcYQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h79V1Oq0PH8rDA/V4V+a22mt7JCqwzOX98l2N82tcYQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h79V1Oq0PH8rDA/V4V+a22mt7JCqwzOX98l2N82tcYQ="
+    }
+  },
+  "version": "2.0.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.securescreen.app_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1+vW8lizI/VjUV+ipINCCx5d4c2KL6onP4QdZUjMulg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1+vW8lizI/VjUV+ipINCCx5d4c2KL6onP4QdZUjMulg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1+vW8lizI/VjUV+ipINCCx5d4c2KL6onP4QdZUjMulg="
+    }
+  },
+  "version": "1.2.0"
+}

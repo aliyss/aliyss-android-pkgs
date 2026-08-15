@@ -1,0 +1,8 @@
+{
+  "package": "com.myfinancemate",
+  "signerFingerprints": [
+    "76:93:86:3C:0D:2C:D7:94:08:17:EB:73:A9:5F:BB:22:38:F0:EC:B6:88:CC:69:05:E8:7C:51:51:6D:FD:07:F1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

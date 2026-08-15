@@ -1,0 +1,18 @@
+{
+  "apkName": "at.co.schwaerzler.maximilian.doit_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-89tnPFNihjbOdKtx91dYkbUzxfTj/V9edJITO9txmGc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-89tnPFNihjbOdKtx91dYkbUzxfTj/V9edJITO9txmGc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-89tnPFNihjbOdKtx91dYkbUzxfTj/V9edJITO9txmGc="
+    }
+  },
+  "version": "1.7"
+}

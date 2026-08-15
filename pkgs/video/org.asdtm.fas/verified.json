@@ -1,0 +1,8 @@
+{
+  "package": "org.asdtm.fas",
+  "signerFingerprints": [
+    "08:30:84:CE:51:C8:58:8D:B4:DB:7A:29:22:0E:84:82:2A:F9:C4:A6:C6:83:FB:11:9D:C6:5F:D3:00:28:5C:51"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

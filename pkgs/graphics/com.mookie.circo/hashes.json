@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mookie.circo_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3A2uyr9KtrJW0L71W0ua41Ki45n6VhPyu9q8BL+QL1A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3A2uyr9KtrJW0L71W0ua41Ki45n6VhPyu9q8BL+QL1A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3A2uyr9KtrJW0L71W0ua41Ki45n6VhPyu9q8BL+QL1A="
+    }
+  },
+  "version": "1.4.7"
+}

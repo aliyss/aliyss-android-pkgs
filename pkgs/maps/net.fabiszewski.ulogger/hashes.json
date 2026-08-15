@@ -1,0 +1,18 @@
+{
+  "apkName": "net.fabiszewski.ulogger_313.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5AOxXZxaq4s4YDEpWk07vMQOUQa5WRDhSwADMPUllpc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5AOxXZxaq4s4YDEpWk07vMQOUQa5WRDhSwADMPUllpc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5AOxXZxaq4s4YDEpWk07vMQOUQa5WRDhSwADMPUllpc="
+    }
+  },
+  "version": "3.13"
+}

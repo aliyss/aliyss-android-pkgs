@@ -1,0 +1,18 @@
+{
+  "apkName": "info.guardianproject.ripple_170.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yU2K7DxHrQkJMxFrrAs9NWmb2hHJjq8Klj7HE/Dcu+k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yU2K7DxHrQkJMxFrrAs9NWmb2hHJjq8Klj7HE/Dcu+k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yU2K7DxHrQkJMxFrrAs9NWmb2hHJjq8Klj7HE/Dcu+k="
+    }
+  },
+  "version": "0.3.2"
+}

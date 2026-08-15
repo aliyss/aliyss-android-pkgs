@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.drumber.kitsune_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RASEONedFzta4Ue/w57ipTUSbil+BtYHdg7Otgn+oXs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RASEONedFzta4Ue/w57ipTUSbil+BtYHdg7Otgn+oXs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RASEONedFzta4Ue/w57ipTUSbil+BtYHdg7Otgn+oXs="
+    }
+  },
+  "version": "2.1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ss.proximityservice_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-K5n8S2PH0GUtOoVhYmqfpwxID0WmqMC//V7yrvvn4Fg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-K5n8S2PH0GUtOoVhYmqfpwxID0WmqMC//V7yrvvn4Fg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-K5n8S2PH0GUtOoVhYmqfpwxID0WmqMC//V7yrvvn4Fg="
+    }
+  },
+  "version": "2.2.6"
+}

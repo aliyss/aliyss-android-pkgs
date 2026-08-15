@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cworld.notie_210.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kVk9BgtCjf00Qks9KhZIcKwmKvBuGQgJYmkbW+yrM1o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kVk9BgtCjf00Qks9KhZIcKwmKvBuGQgJYmkbW+yrM1o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kVk9BgtCjf00Qks9KhZIcKwmKvBuGQgJYmkbW+yrM1o="
+    }
+  },
+  "version": "2.1.0"
+}

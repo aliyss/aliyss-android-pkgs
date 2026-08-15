@@ -1,0 +1,8 @@
+{
+  "package": "com.nomadlabs.labcoat.deeplinks",
+  "signerFingerprints": [
+    "8D:52:8A:46:C2:E8:33:04:6A:2F:FA:1B:32:32:C8:35:48:51:E9:48:6E:BF:1D:E8:9B:64:54:CF:67:6F:A4:6F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

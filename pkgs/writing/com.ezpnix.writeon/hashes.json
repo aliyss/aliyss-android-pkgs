@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ezpnix.writeon_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QgKeSbZKktVVMapPCgM8TiDJG9qvaXMJk5pWghbK/pU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QgKeSbZKktVVMapPCgM8TiDJG9qvaXMJk5pWghbK/pU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QgKeSbZKktVVMapPCgM8TiDJG9qvaXMJk5pWghbK/pU="
+    }
+  },
+  "version": "1.8"
+}

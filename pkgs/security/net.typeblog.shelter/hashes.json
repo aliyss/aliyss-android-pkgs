@@ -1,0 +1,18 @@
+{
+  "apkName": "net.typeblog.shelter_445.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1tZ7IvBm1A+HcdjXwODv6TFbNyJNW35yT0wOmw7sygc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1tZ7IvBm1A+HcdjXwODv6TFbNyJNW35yT0wOmw7sygc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1tZ7IvBm1A+HcdjXwODv6TFbNyJNW35yT0wOmw7sygc="
+    }
+  },
+  "version": "1.9.1"
+}

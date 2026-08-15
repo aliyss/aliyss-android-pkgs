@@ -1,0 +1,18 @@
+{
+  "apkName": "co.appreactor.news_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qJYnCW2lkZ/gdN68l8HXTzgAIWJn7jLvaCrNYJYB2UI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qJYnCW2lkZ/gdN68l8HXTzgAIWJn7jLvaCrNYJYB2UI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qJYnCW2lkZ/gdN68l8HXTzgAIWJn7jLvaCrNYJYB2UI="
+    }
+  },
+  "version": "0.4.3"
+}

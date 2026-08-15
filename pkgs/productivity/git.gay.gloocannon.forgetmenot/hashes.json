@@ -1,0 +1,18 @@
+{
+  "apkName": "git.gay.gloocannon.forgetmenot_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kCS8UXSBaO5X0/bb97j6tQRD4lUR2ltpctjrIWR+O5k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kCS8UXSBaO5X0/bb97j6tQRD4lUR2ltpctjrIWR+O5k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kCS8UXSBaO5X0/bb97j6tQRD4lUR2ltpctjrIWR+O5k="
+    }
+  },
+  "version": "1.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "saschpe.contactevents_160179.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1nsxNwHE15K4FfGp9OG52lNtzm+ul2V3bigwLQbsAhs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1nsxNwHE15K4FfGp9OG52lNtzm+ul2V3bigwLQbsAhs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1nsxNwHE15K4FfGp9OG52lNtzm+ul2V3bigwLQbsAhs="
+    }
+  },
+  "version": "1.7.9"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.johanpy.drivesoberly_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9moFzxu6T+W7c9j8nVvS+CpfGkVu3y8+nkbqPhO+MNs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9moFzxu6T+W7c9j8nVvS+CpfGkVu3y8+nkbqPhO+MNs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9moFzxu6T+W7c9j8nVvS+CpfGkVu3y8+nkbqPhO+MNs="
+    }
+  },
+  "version": "1.2.5"
+}

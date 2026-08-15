@@ -1,0 +1,8 @@
+{
+  "package": "io.github.potsdam_pnp.initiative_tracker",
+  "signerFingerprints": [
+    "3A:73:3B:BE:1F:F5:37:AE:6D:40:2F:B5:7F:CC:C6:E0:24:F9:64:00:27:C9:45:33:E9:D0:9E:1E:83:AC:00:49"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

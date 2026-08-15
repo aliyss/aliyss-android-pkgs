@@ -1,0 +1,18 @@
+{
+  "apkName": "us.spotco.carrion_123.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4nNCeO/HR5TbFV3iptVuEc6xMKcPOByWDbDKpKEq0bg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4nNCeO/HR5TbFV3iptVuEc6xMKcPOByWDbDKpKEq0bg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4nNCeO/HR5TbFV3iptVuEc6xMKcPOByWDbDKpKEq0bg="
+    }
+  },
+  "version": "1.23"
+}

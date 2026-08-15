@@ -1,0 +1,18 @@
+{
+  "apkName": "com.minimo.launcher_134.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LsQzkIfDWEBAe8JoUsKRfdlEWGR5YDIOsatomXwtPTs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LsQzkIfDWEBAe8JoUsKRfdlEWGR5YDIOsatomXwtPTs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LsQzkIfDWEBAe8JoUsKRfdlEWGR5YDIOsatomXwtPTs="
+    }
+  },
+  "version": "1.33.0"
+}

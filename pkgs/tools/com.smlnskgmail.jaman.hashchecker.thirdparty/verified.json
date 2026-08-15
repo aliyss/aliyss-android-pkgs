@@ -1,0 +1,8 @@
+{
+  "package": "com.smlnskgmail.jaman.hashchecker.thirdparty",
+  "signerFingerprints": [
+    "47:C3:90:FA:38:0B:5B:6C:0D:B9:DC:AD:C4:B5:AA:44:27:8C:A9:33:35:0D:26:6E:E5:3B:28:09:77:32:2B:6C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.binarynoise.freeNotifications_66.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FX+xCCvdOTI6CDm8D1C/ejOpz177y/5YACu0SmC/kL0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FX+xCCvdOTI6CDm8D1C/ejOpz177y/5YACu0SmC/kL0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FX+xCCvdOTI6CDm8D1C/ejOpz177y/5YACu0SmC/kL0="
+    }
+  },
+  "version": "66-894ca4a-20251216"
+}

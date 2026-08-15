@@ -1,0 +1,8 @@
+{
+  "package": "com.google.android.projection.gearhead.xunlocked",
+  "signerFingerprints": [
+    "50:73:01:E9:77:87:46:29:4E:88:F5:AB:B2:12:27:1D:4A:D7:76:96:91:5E:64:0D:9D:77:74:8A:B0:03:2E:45"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

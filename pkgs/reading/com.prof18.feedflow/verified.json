@@ -1,0 +1,8 @@
+{
+  "package": "com.prof18.feedflow",
+  "signerFingerprints": [
+    "90:EF:EB:4F:04:23:6A:1D:D4:8B:83:0E:5B:53:0E:47:40:64:53:93:5A:16:B2:BD:C4:F1:11:A4:83:A8:14:7D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

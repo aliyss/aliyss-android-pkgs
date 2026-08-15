@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.ryder.benoit.jmdictdroid_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iJCIupltydg+OEwqhDlnGNG/s2Zm/vQZwCNHwZF2gCQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iJCIupltydg+OEwqhDlnGNG/s2Zm/vQZwCNHwZF2gCQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iJCIupltydg+OEwqhDlnGNG/s2Zm/vQZwCNHwZF2gCQ="
+    }
+  },
+  "version": "1.5"
+}

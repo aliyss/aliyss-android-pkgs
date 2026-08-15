@@ -1,0 +1,8 @@
+{
+  "package": "app.varlorg.unote",
+  "signerFingerprints": [
+    "4D:50:BB:67:EF:67:94:82:D7:05:27:7D:1B:45:3C:45:6C:9D:1C:D3:E7:96:35:5F:0A:46:48:F6:69:05:FB:35"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

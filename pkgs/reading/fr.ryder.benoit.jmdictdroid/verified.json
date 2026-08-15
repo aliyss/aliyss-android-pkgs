@@ -1,0 +1,8 @@
+{
+  "package": "fr.ryder.benoit.jmdictdroid",
+  "signerFingerprints": [
+    "72:52:51:8B:06:BE:B8:36:EA:F1:6A:90:EA:20:00:A3:76:E8:E8:33:39:F3:9B:90:A0:74:F6:A2:DB:F2:C7:2D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

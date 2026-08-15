@@ -1,0 +1,18 @@
+{
+  "apkName": "pl.edu.pjwstk.s999844.shoppinglist_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zZUfYnOtVr/JiwT5X57b7YW/lwB2Y3fB2QdqlT2E9WQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zZUfYnOtVr/JiwT5X57b7YW/lwB2Y3fB2QdqlT2E9WQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zZUfYnOtVr/JiwT5X57b7YW/lwB2Y3fB2QdqlT2E9WQ="
+    }
+  },
+  "version": "v1.21.0"
+}

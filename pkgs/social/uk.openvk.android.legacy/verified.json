@@ -1,0 +1,8 @@
+{
+  "package": "uk.openvk.android.legacy",
+  "signerFingerprints": [
+    "99:02:CE:45:A9:06:1C:AD:DD:C5:6F:C3:A7:22:91:B3:A3:19:35:74:AF:0E:BA:7C:16:39:C5:DB:77:A4:D9:AE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

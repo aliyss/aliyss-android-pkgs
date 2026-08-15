@@ -1,0 +1,8 @@
+{
+  "package": "de.melvil.noten",
+  "signerFingerprints": [
+    "D7:11:EE:41:A3:34:34:CD:6D:74:BB:76:14:B7:05:FC:82:F6:13:BE:07:0F:82:4B:63:4D:3E:43:23:14:A8:E9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.edward.studytracker_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xKiwQerqIdbQp3bB7I4Tl5+iBX6SHXpztGdAx7tX5us="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xKiwQerqIdbQp3bB7I4Tl5+iBX6SHXpztGdAx7tX5us="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xKiwQerqIdbQp3bB7I4Tl5+iBX6SHXpztGdAx7tX5us="
+    }
+  },
+  "version": "1.0.7"
+}

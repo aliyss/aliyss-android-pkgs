@@ -1,0 +1,18 @@
+{
+  "apkName": "com.streamatico.polymarketviewer_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lj0kt5PnqA8lMEKNpGA+HfbgDotQpsBRDrcsbIgcA78="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lj0kt5PnqA8lMEKNpGA+HfbgDotQpsBRDrcsbIgcA78="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lj0kt5PnqA8lMEKNpGA+HfbgDotQpsBRDrcsbIgcA78="
+    }
+  },
+  "version": "1.42"
+}

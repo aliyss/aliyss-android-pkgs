@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ubergeek42.WeechatAndroid_11100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BK0kotD006/reqegg1NlEeqNevEvWZGjBhNUS3qQ6F8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BK0kotD006/reqegg1NlEeqNevEvWZGjBhNUS3qQ6F8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BK0kotD006/reqegg1NlEeqNevEvWZGjBhNUS3qQ6F8="
+    }
+  },
+  "version": "1.11"
+}

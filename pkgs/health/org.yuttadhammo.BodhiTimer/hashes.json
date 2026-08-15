@@ -1,0 +1,18 @@
+{
+  "apkName": "org.yuttadhammo.BodhiTimer_98.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Tm8D5bTCQEKl3ZLXLutAaTQc4Hr+8ov7YLZDyGLmLiE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Tm8D5bTCQEKl3ZLXLutAaTQc4Hr+8ov7YLZDyGLmLiE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Tm8D5bTCQEKl3ZLXLutAaTQc4Hr+8ov7YLZDyGLmLiE="
+    }
+  },
+  "version": "6.3.0"
+}

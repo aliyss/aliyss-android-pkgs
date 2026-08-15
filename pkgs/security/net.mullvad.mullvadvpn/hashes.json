@@ -1,0 +1,18 @@
+{
+  "apkName": "net.mullvad.mullvadvpn_26089000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-W2CC4+tZCDyKVp3JCVfb80WVuygGz0RT1pQnbDr1NVw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W2CC4+tZCDyKVp3JCVfb80WVuygGz0RT1pQnbDr1NVw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W2CC4+tZCDyKVp3JCVfb80WVuygGz0RT1pQnbDr1NVw="
+    }
+  },
+  "version": "2026.8"
+}

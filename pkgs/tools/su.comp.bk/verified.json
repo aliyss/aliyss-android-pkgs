@@ -1,0 +1,8 @@
+{
+  "package": "su.comp.bk",
+  "signerFingerprints": [
+    "6B:68:20:D9:FE:13:C2:A1:AC:DF:EE:B4:E1:C4:2B:23:85:85:B0:80:51:8B:A5:40:7B:C7:7E:D2:3E:DF:8C:B6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

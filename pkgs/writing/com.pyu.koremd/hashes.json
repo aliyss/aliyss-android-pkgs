@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pyu.koremd_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9fk+R8BaPwkDz3LRmXMMrlt3W9EzMgVrK9VCfp7L2vc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9fk+R8BaPwkDz3LRmXMMrlt3W9EzMgVrK9VCfp7L2vc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9fk+R8BaPwkDz3LRmXMMrlt3W9EzMgVrK9VCfp7L2vc="
+    }
+  },
+  "version": "1.1.9"
+}

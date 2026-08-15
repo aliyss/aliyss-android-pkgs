@@ -1,0 +1,8 @@
+{
+  "package": "com.quietgrid.app",
+  "signerFingerprints": [
+    "83:44:AB:D1:5A:2C:4B:FD:76:80:B5:3A:4F:B0:11:92:94:9F:7C:9E:CB:E6:12:CD:BF:9D:83:BA:0F:77:FE:5F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

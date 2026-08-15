@@ -1,0 +1,8 @@
+{
+  "package": "org.herac.tuxguitar.android.application",
+  "signerFingerprints": [
+    "76:44:D1:FB:B8:AE:5B:74:76:00:7F:34:4C:6F:7C:69:C1:35:0F:B5:FA:E3:FD:5E:D6:59:3B:41:E4:13:F6:8F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.gigabytedevelopersinc.app.explorer",
+  "signerFingerprints": [
+    "10:C1:8D:E4:2C:5D:80:70:95:17:1A:48:0B:80:64:99:9C:E6:4E:FD:EE:F8:D8:1F:A4:19:42:DA:D9:D7:68:7F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

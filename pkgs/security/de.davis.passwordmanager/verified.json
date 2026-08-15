@@ -1,0 +1,8 @@
+{
+  "package": "de.davis.passwordmanager",
+  "signerFingerprints": [
+    "12:B5:CA:E4:FA:67:B4:81:80:FB:12:39:FA:3A:33:EE:67:D7:1A:BB:80:38:1B:98:CB:FA:EF:B8:5B:B8:13:E0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

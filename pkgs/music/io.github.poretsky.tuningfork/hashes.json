@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.poretsky.tuningfork_103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6rgTmgZNu4z/03PO0DiT++MqI/YkzeZMytE+Kd4kTa8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6rgTmgZNu4z/03PO0DiT++MqI/YkzeZMytE+Kd4kTa8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6rgTmgZNu4z/03PO0DiT++MqI/YkzeZMytE+Kd4kTa8="
+    }
+  },
+  "version": "1.0.3"
+}

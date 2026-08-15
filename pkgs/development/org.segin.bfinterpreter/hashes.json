@@ -1,0 +1,18 @@
+{
+  "apkName": "org.segin.bfinterpreter_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XZ1jG9YPeQXRNpEWzgd8+obSo6bf5oM6DApylKJeG4w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XZ1jG9YPeQXRNpEWzgd8+obSo6bf5oM6DApylKJeG4w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XZ1jG9YPeQXRNpEWzgd8+obSo6bf5oM6DApylKJeG4w="
+    }
+  },
+  "version": "0.8"
+}

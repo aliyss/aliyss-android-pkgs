@@ -1,0 +1,18 @@
+{
+  "apkName": "com.akexorcist.ruammij_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-X1vy+6zGMVDky4Mamx1Qs50MaFTGqtw32BQiNztWgPQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X1vy+6zGMVDky4Mamx1Qs50MaFTGqtw32BQiNztWgPQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X1vy+6zGMVDky4Mamx1Qs50MaFTGqtw32BQiNztWgPQ="
+    }
+  },
+  "version": "1.3.0"
+}

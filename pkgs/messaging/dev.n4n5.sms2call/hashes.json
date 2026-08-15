@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.n4n5.sms2call_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NuBkU5gkHLxN84JqjWk1u/hsSDv+f9vqa++vZwrF6cs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NuBkU5gkHLxN84JqjWk1u/hsSDv+f9vqa++vZwrF6cs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NuBkU5gkHLxN84JqjWk1u/hsSDv+f9vqa++vZwrF6cs="
+    }
+  },
+  "version": "1.0.11"
+}

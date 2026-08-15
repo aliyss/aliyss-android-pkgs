@@ -1,0 +1,18 @@
+{
+  "apkName": "org.openhab.habdroid_599.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FUZbyEVWC9FL7g5H/FncTtcPpSLcfJQwbiuk/Ym/QKE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FUZbyEVWC9FL7g5H/FncTtcPpSLcfJQwbiuk/Ym/QKE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FUZbyEVWC9FL7g5H/FncTtcPpSLcfJQwbiuk/Ym/QKE="
+    }
+  },
+  "version": "3.21.1"
+}

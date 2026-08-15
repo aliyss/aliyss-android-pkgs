@@ -1,0 +1,8 @@
+{
+  "package": "com.kidozh.discuzhub.fdroid",
+  "signerFingerprints": [
+    "B3:AF:BA:9A:69:74:91:35:88:E0:CC:88:53:1F:34:3E:91:A1:65:83:C8:3B:6A:14:05:39:E5:FB:4D:AE:13:CC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

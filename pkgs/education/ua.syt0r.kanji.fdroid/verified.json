@@ -1,0 +1,8 @@
+{
+  "package": "ua.syt0r.kanji.fdroid",
+  "signerFingerprints": [
+    "5A:D1:04:66:F0:9E:A3:C4:F7:C5:00:42:68:CD:54:DA:7A:F3:7C:09:4E:2D:94:CD:91:DD:88:94:D9:9F:B0:DD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

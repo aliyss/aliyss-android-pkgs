@@ -1,0 +1,18 @@
+{
+  "apkName": "com.yassirh.digitalocean_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3bL1YCKTUTc2RDpfTTavL/GhHt8Eh7KufuEEHR1b24c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3bL1YCKTUTc2RDpfTTavL/GhHt8Eh7KufuEEHR1b24c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3bL1YCKTUTc2RDpfTTavL/GhHt8Eh7KufuEEHR1b24c="
+    }
+  },
+  "version": "3.0.1"
+}

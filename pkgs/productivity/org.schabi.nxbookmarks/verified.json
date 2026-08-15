@@ -1,0 +1,8 @@
+{
+  "package": "org.schabi.nxbookmarks",
+  "signerFingerprints": [
+    "38:6E:BD:D2:DB:52:D2:4E:49:61:8A:17:BE:00:83:F4:64:53:92:91:2A:6D:4E:D1:4A:D9:68:AE:C7:B0:1A:6A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

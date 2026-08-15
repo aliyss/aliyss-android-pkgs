@@ -1,0 +1,18 @@
+{
+  "apkName": "me.yardenac.comaphone_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UG6tBrm5873V/Rj2gboJn4VjpBLudI0rIPRTn17YgMA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UG6tBrm5873V/Rj2gboJn4VjpBLudI0rIPRTn17YgMA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UG6tBrm5873V/Rj2gboJn4VjpBLudI0rIPRTn17YgMA="
+    }
+  },
+  "version": "3.4.c"
+}

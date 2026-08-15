@@ -1,0 +1,18 @@
+{
+  "apkName": "com.openappslabs.coffee_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JJs9Z364WFk5ofg58PmFhVDTHNjtNn5ZqoE1cbApo6Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JJs9Z364WFk5ofg58PmFhVDTHNjtNn5ZqoE1cbApo6Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JJs9Z364WFk5ofg58PmFhVDTHNjtNn5ZqoE1cbApo6Y="
+    }
+  },
+  "version": "1.4.0"
+}

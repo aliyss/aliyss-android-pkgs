@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.theme.classic_pc_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T2L7muClYD8i7K5ztOYBKoepXOM22lv+DAOhZ/28PC8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T2L7muClYD8i7K5ztOYBKoepXOM22lv+DAOhZ/28PC8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T2L7muClYD8i7K5ztOYBKoepXOM22lv+DAOhZ/28PC8="
+    }
+  },
+  "version": "5.1.6158"
+}

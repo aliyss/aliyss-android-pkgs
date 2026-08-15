@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.nocle.passegares_304.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s8Zz7NIrDkxYoZ9kGH36IHNaMZSR2dl/oCK0JnKTkW4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s8Zz7NIrDkxYoZ9kGH36IHNaMZSR2dl/oCK0JnKTkW4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s8Zz7NIrDkxYoZ9kGH36IHNaMZSR2dl/oCK0JnKTkW4="
+    }
+  },
+  "version": "1.6.4"
+}

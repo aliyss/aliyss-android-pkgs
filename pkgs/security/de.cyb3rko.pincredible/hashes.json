@@ -1,0 +1,18 @@
+{
+  "apkName": "de.cyb3rko.pincredible_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-af7bT8xTjkCnPWEXoeAag9gfva9XjowvEzKQeaDxQwA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-af7bT8xTjkCnPWEXoeAag9gfva9XjowvEzKQeaDxQwA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-af7bT8xTjkCnPWEXoeAag9gfva9XjowvEzKQeaDxQwA="
+    }
+  },
+  "version": "1.0.1"
+}

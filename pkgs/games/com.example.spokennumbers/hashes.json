@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.spokennumbers_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-k6HQbntmSmj1H0lt1FlgTTPdx6ts0QvJH55bTiSDlfI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k6HQbntmSmj1H0lt1FlgTTPdx6ts0QvJH55bTiSDlfI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k6HQbntmSmj1H0lt1FlgTTPdx6ts0QvJH55bTiSDlfI="
+    }
+  },
+  "version": "1.8.1"
+}

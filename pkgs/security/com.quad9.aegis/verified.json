@@ -1,0 +1,8 @@
+{
+  "package": "com.quad9.aegis",
+  "signerFingerprints": [
+    "55:78:20:BD:0F:0E:C5:AC:38:7E:A4:DA:0C:9B:72:19:92:CF:29:32:D5:53:93:26:FF:B6:4B:33:47:15:5F:DB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

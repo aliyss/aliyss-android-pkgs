@@ -1,0 +1,18 @@
+{
+  "apkName": "peterfajdiga.fastdraw_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ji/vQ3HqIWZ4rGv0b5MEgWO2ehue7+QH0IXcZbWJmt4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ji/vQ3HqIWZ4rGv0b5MEgWO2ehue7+QH0IXcZbWJmt4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ji/vQ3HqIWZ4rGv0b5MEgWO2ehue7+QH0IXcZbWJmt4="
+    }
+  },
+  "version": "2.2.1"
+}

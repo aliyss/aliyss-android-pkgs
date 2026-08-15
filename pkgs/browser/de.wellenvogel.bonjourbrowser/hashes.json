@@ -1,0 +1,18 @@
+{
+  "apkName": "de.wellenvogel.bonjourbrowser_115.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dl04QiIMBnMAOE7NlTOozCoYRcboM+SyGd/AojlSoHU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dl04QiIMBnMAOE7NlTOozCoYRcboM+SyGd/AojlSoHU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dl04QiIMBnMAOE7NlTOozCoYRcboM+SyGd/AojlSoHU="
+    }
+  },
+  "version": "1.15"
+}

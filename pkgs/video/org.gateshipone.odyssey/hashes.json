@@ -1,0 +1,18 @@
+{
+  "apkName": "org.gateshipone.odyssey_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eDAmxY2EZzyVcxUXyqk75F0wLKLzOv0MpTsKEiIe/Ic="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eDAmxY2EZzyVcxUXyqk75F0wLKLzOv0MpTsKEiIe/Ic="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eDAmxY2EZzyVcxUXyqk75F0wLKLzOv0MpTsKEiIe/Ic="
+    }
+  },
+  "version": "1.4.0"
+}

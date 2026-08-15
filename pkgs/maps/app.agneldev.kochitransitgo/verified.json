@@ -1,0 +1,8 @@
+{
+  "package": "app.agneldev.kochitransitgo",
+  "signerFingerprints": [
+    "BA:BE:35:1C:68:09:03:B1:CE:A7:B6:E8:72:CB:D6:7D:AA:A3:87:55:30:E0:41:33:F6:E7:82:0F:56:87:29:D9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

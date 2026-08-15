@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.uwot.fabio.altcoinprices_81.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DhpTYDROF9MUmAJZofVg5Fy+zzLNWRZ3FXAENNa03Lw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DhpTYDROF9MUmAJZofVg5Fy+zzLNWRZ3FXAENNa03Lw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DhpTYDROF9MUmAJZofVg5Fy+zzLNWRZ3FXAENNa03Lw="
+    }
+  },
+  "version": "1.7.4"
+}

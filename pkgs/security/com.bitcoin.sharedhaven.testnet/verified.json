@@ -1,0 +1,8 @@
+{
+  "package": "com.bitcoin.sharedhaven.testnet",
+  "signerFingerprints": [
+    "D8:96:DA:1F:21:5F:F5:7F:96:55:59:3D:93:0F:74:60:03:FA:44:91:7B:C2:B3:F2:40:16:6D:CA:D8:90:AA:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

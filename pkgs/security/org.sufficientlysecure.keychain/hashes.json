@@ -1,0 +1,18 @@
+{
+  "apkName": "org.sufficientlysecure.keychain_60400.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+IN0uRE6qd26hlJYvZies6wsoVd9kuWdboQijggGdM4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+IN0uRE6qd26hlJYvZies6wsoVd9kuWdboQijggGdM4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+IN0uRE6qd26hlJYvZies6wsoVd9kuWdboQijggGdM4="
+    }
+  },
+  "version": "6.0.4"
+}

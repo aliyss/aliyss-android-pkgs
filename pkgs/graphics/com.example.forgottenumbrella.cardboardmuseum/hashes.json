@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.forgottenumbrella.cardboardmuseum_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IeI/kEME7HLpGT+LtROHm6+VWVexlN6DM943C7Xv8HY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IeI/kEME7HLpGT+LtROHm6+VWVexlN6DM943C7Xv8HY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IeI/kEME7HLpGT+LtROHm6+VWVexlN6DM943C7Xv8HY="
+    }
+  },
+  "version": "2.2.0"
+}

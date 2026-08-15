@@ -1,0 +1,18 @@
+{
+  "apkName": "com.yozachar.apps.soundcraftmixer_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9Oav2csCKdC5huVmhU4b+23gk36tEiCwqxbDMXjXKAI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9Oav2csCKdC5huVmhU4b+23gk36tEiCwqxbDMXjXKAI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9Oav2csCKdC5huVmhU4b+23gk36tEiCwqxbDMXjXKAI="
+    }
+  },
+  "version": "1.3.2"
+}

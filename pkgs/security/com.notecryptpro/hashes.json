@@ -1,0 +1,18 @@
+{
+  "apkName": "com.notecryptpro_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qLQ1AY3cbrRJML3ZCDM8A4dDK6vy1X7tpba07nHphho="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qLQ1AY3cbrRJML3ZCDM8A4dDK6vy1X7tpba07nHphho="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qLQ1AY3cbrRJML3ZCDM8A4dDK6vy1X7tpba07nHphho="
+    }
+  },
+  "version": "1.44"
+}

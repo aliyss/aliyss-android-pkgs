@@ -1,0 +1,18 @@
+{
+  "apkName": "com.robertmengual.open_pros_cons_10100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O0ckxre6h50nv8i383YRZzL3cXHtpeMdvqwjw2sN5FQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O0ckxre6h50nv8i383YRZzL3cXHtpeMdvqwjw2sN5FQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O0ckxre6h50nv8i383YRZzL3cXHtpeMdvqwjw2sN5FQ="
+    }
+  },
+  "version": "1.1.0"
+}

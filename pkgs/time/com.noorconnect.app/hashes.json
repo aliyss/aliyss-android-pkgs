@@ -1,0 +1,18 @@
+{
+  "apkName": "com.noorconnect.app_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kwZYJ40NFDVJirOjC4/KAGtwXuPBWkgb7bnrKj160/g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kwZYJ40NFDVJirOjC4/KAGtwXuPBWkgb7bnrKj160/g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kwZYJ40NFDVJirOjC4/KAGtwXuPBWkgb7bnrKj160/g="
+    }
+  },
+  "version": "2.0.1"
+}

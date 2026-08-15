@@ -1,0 +1,18 @@
+{
+  "apkName": "com.maksimowiczm.foodyou_123.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pRJKYIfxCjhUZJPUbXC0TecqYHSATatsghMiAuVRU6w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pRJKYIfxCjhUZJPUbXC0TecqYHSATatsghMiAuVRU6w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pRJKYIfxCjhUZJPUbXC0TecqYHSATatsghMiAuVRU6w="
+    }
+  },
+  "version": "3.4.9"
+}

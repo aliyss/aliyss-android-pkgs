@@ -1,0 +1,18 @@
+{
+  "apkName": "app.fayaz.otgmaster_43.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-I7vlehRUQkrfNZvI953XjBNo5qyyaRns7f69kv/lPrI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I7vlehRUQkrfNZvI953XjBNo5qyyaRns7f69kv/lPrI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I7vlehRUQkrfNZvI953XjBNo5qyyaRns7f69kv/lPrI="
+    }
+  },
+  "version": "0.3.10"
+}

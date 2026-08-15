@@ -1,0 +1,18 @@
+{
+  "apkName": "de.luhmer.owncloudnewsreader_196.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Up8l90r7ToPZVt1yNVxXiMPhiqxV9Gqw8sgdEPA2HBc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Up8l90r7ToPZVt1yNVxXiMPhiqxV9Gqw8sgdEPA2HBc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Up8l90r7ToPZVt1yNVxXiMPhiqxV9Gqw8sgdEPA2HBc="
+    }
+  },
+  "version": "0.9.9.95"
+}

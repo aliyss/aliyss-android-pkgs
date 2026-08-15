@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mirfatif.permissionmanagerx_130.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WfD4gasDqCqcPZf+9qILoIZXCJ1KPxNBQ7ihA3S8ouM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WfD4gasDqCqcPZf+9qILoIZXCJ1KPxNBQ7ihA3S8ouM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WfD4gasDqCqcPZf+9qILoIZXCJ1KPxNBQ7ihA3S8ouM="
+    }
+  },
+  "version": "v1.30-foss"
+}

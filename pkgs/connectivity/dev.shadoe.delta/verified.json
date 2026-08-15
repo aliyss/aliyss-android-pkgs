@@ -1,0 +1,8 @@
+{
+  "package": "dev.shadoe.delta",
+  "signerFingerprints": [
+    "1B:FC:E5:01:43:EA:B0:DF:7D:AF:C4:38:C8:B3:87:03:89:9A:EB:37:36:15:F0:F7:6A:DC:76:E3:07:3D:9E:F9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

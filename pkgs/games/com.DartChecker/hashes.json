@@ -1,0 +1,18 @@
+{
+  "apkName": "com.DartChecker_47.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-u7YiTcnt7kEI3PbIc1f9fFhRyHqt3a5wsojI2kuc+TY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u7YiTcnt7kEI3PbIc1f9fFhRyHqt3a5wsojI2kuc+TY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u7YiTcnt7kEI3PbIc1f9fFhRyHqt3a5wsojI2kuc+TY="
+    }
+  },
+  "version": "0.8.6"
+}

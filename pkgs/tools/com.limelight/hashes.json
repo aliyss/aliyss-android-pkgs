@@ -1,0 +1,18 @@
+{
+  "apkName": "com.limelight_314.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rOCyiw1PTFsqDmg75soh696EdoUcQNSJ0FkTIvxsSpk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rOCyiw1PTFsqDmg75soh696EdoUcQNSJ0FkTIvxsSpk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rOCyiw1PTFsqDmg75soh696EdoUcQNSJ0FkTIvxsSpk="
+    }
+  },
+  "version": "12.1"
+}

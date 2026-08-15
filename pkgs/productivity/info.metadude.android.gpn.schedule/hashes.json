@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.gpn.schedule_119.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vsWaWWGAc1j76bZA9vPdEYWLCi1iwZB+5nvlFA2b6mg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vsWaWWGAc1j76bZA9vPdEYWLCi1iwZB+5nvlFA2b6mg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vsWaWWGAc1j76bZA9vPdEYWLCi1iwZB+5nvlFA2b6mg="
+    }
+  },
+  "version": "1.76.0-GPN-Edition"
+}

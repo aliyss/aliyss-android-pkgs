@@ -1,0 +1,8 @@
+{
+  "package": "org.thayyil.ringdroid",
+  "signerFingerprints": [
+    "7C:02:7C:79:AB:5C:D6:81:6D:B8:4B:34:2E:31:12:BA:01:E3:3D:EE:2F:AA:98:58:35:1C:57:13:71:B0:D7:C5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

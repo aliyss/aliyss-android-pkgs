@@ -1,0 +1,8 @@
+{
+  "package": "friimaind.piholedroid",
+  "signerFingerprints": [
+    "4B:64:0C:C4:0F:01:87:8C:45:D9:15:10:4D:5B:F0:7C:30:C4:1B:94:82:B7:05:4F:24:A8:D4:F4:CA:6A:F2:19"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

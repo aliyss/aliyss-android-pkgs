@@ -1,0 +1,8 @@
+{
+  "package": "com.sweak.qralarm",
+  "signerFingerprints": [
+    "FF:CE:98:42:73:01:AD:B2:80:FB:37:D3:6B:82:AF:74:EA:D3:F1:9B:05:C7:B7:6D:8A:6F:53:7F:7B:A4:85:89"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.poul.bits.android",
+  "signerFingerprints": [
+    "7C:57:55:4E:C8:2E:A6:7D:65:CB:CE:3B:7A:F3:2A:CF:63:13:92:0A:CE:00:3E:46:8F:29:15:6B:46:61:49:5A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

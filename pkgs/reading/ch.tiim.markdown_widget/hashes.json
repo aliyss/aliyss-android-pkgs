@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.tiim.markdown_widget_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ioKgSjTO1rlbcdpQQmkg8Xt84jqvGOIgr18Ihb973Zs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ioKgSjTO1rlbcdpQQmkg8Xt84jqvGOIgr18Ihb973Zs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ioKgSjTO1rlbcdpQQmkg8Xt84jqvGOIgr18Ihb973Zs="
+    }
+  },
+  "version": "0.1.4"
+}

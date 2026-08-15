@@ -1,0 +1,8 @@
+{
+  "package": "com.meow.lnctattendance",
+  "signerFingerprints": [
+    "B1:EE:D9:34:99:D4:B8:9D:B1:78:2A:93:81:6E:95:8E:E4:E6:89:11:85:68:6B:58:A0:35:EE:87:A8:BE:D7:80"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

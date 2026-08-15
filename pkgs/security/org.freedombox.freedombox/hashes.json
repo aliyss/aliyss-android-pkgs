@@ -1,0 +1,18 @@
+{
+  "apkName": "org.freedombox.freedombox_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Dh/k7JFqRNrlHMu8qhbc8F2/RlP91MpMEsa3WgVi0uk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dh/k7JFqRNrlHMu8qhbc8F2/RlP91MpMEsa3WgVi0uk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dh/k7JFqRNrlHMu8qhbc8F2/RlP91MpMEsa3WgVi0uk="
+    }
+  },
+  "version": "0.7"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.hito.trails.app",
+  "signerFingerprints": [
+    "0D:A0:6E:6D:9F:AE:1B:11:8D:3D:34:37:1B:4C:48:7C:D3:D3:B7:40:BC:BD:5E:C6:B7:54:10:C8:CD:8C:FC:54"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

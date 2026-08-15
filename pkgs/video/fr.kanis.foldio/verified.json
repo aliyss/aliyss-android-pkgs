@@ -1,0 +1,8 @@
+{
+  "package": "fr.kanis.foldio",
+  "signerFingerprints": [
+    "0A:21:E9:7E:FE:B7:09:A5:BC:58:34:10:48:06:76:5D:56:61:A0:EE:1B:82:CB:17:7D:26:42:BF:07:C2:37:1A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

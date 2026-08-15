@@ -1,0 +1,8 @@
+{
+  "package": "tr.edu.iyte.caffeine",
+  "signerFingerprints": [
+    "59:AE:DD:4E:55:5A:74:63:E0:B7:F4:21:4D:EB:E4:32:5C:18:7C:44:37:6B:20:7B:43:EA:5C:EB:DA:54:F3:6E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

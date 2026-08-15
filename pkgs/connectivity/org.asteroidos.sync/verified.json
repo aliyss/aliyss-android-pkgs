@@ -1,0 +1,8 @@
+{
+  "package": "org.asteroidos.sync",
+  "signerFingerprints": [
+    "63:66:67:0E:C6:25:12:2D:29:B0:5C:97:10:BF:AE:49:1F:97:5B:23:20:71:80:3B:36:76:8C:AC:76:D0:65:A5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

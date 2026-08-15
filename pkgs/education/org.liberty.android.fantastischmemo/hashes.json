@@ -1,0 +1,18 @@
+{
+  "apkName": "org.liberty.android.fantastischmemo_241.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nX1l/Wbdog+MJuctcQJIoBW18Q9BJlN2XnkU6bXAXI8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nX1l/Wbdog+MJuctcQJIoBW18Q9BJlN2XnkU6bXAXI8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nX1l/Wbdog+MJuctcQJIoBW18Q9BJlN2XnkU6bXAXI8="
+    }
+  },
+  "version": "10.12.2"
+}

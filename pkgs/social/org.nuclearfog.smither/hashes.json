@@ -1,0 +1,18 @@
+{
+  "apkName": "org.nuclearfog.smither_120.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6eKUd/hc563I9VP/IK5KDMBBYZSodEI8ZFWWLA04aJ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6eKUd/hc563I9VP/IK5KDMBBYZSodEI8ZFWWLA04aJ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6eKUd/hc563I9VP/IK5KDMBBYZSodEI8ZFWWLA04aJ0="
+    }
+  },
+  "version": "3.6.4"
+}

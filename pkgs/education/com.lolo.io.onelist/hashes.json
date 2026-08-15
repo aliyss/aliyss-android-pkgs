@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lolo.io.onelist_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B38OFyFrx/ZZfBtxsVAFzQ8b4EQAtfKZWTSNsHa0bug="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B38OFyFrx/ZZfBtxsVAFzQ8b4EQAtfKZWTSNsHa0bug="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B38OFyFrx/ZZfBtxsVAFzQ8b4EQAtfKZWTSNsHa0bug="
+    }
+  },
+  "version": "1.5.3"
+}

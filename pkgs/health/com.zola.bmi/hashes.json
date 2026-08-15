@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zola.bmi_402.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Lb2Ovi21aAFMNkRaBpKY3L7ptG/aAZ8AjS7PLB2mhAg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lb2Ovi21aAFMNkRaBpKY3L7ptG/aAZ8AjS7PLB2mhAg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lb2Ovi21aAFMNkRaBpKY3L7ptG/aAZ8AjS7PLB2mhAg="
+    }
+  },
+  "version": "4.0.2"
+}

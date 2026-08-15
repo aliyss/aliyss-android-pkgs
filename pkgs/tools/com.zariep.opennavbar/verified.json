@@ -1,0 +1,8 @@
+{
+  "package": "com.zariep.opennavbar",
+  "signerFingerprints": [
+    "27:5B:A1:42:D2:A9:6C:B8:D2:81:CC:F3:40:6C:68:C0:5A:E0:D0:7F:B1:E4:BB:AE:60:EC:CB:07:8B:37:C7:1B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

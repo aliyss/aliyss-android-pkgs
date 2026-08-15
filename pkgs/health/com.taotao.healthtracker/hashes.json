@@ -1,0 +1,18 @@
+{
+  "apkName": "com.taotao.healthtracker_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8R9Chx/zkeiEZsji0OeJNiM/dmY+QR3GRSY4YaS6td4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8R9Chx/zkeiEZsji0OeJNiM/dmY+QR3GRSY4YaS6td4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8R9Chx/zkeiEZsji0OeJNiM/dmY+QR3GRSY4YaS6td4="
+    }
+  },
+  "version": "1.1.7"
+}

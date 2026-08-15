@@ -1,0 +1,18 @@
+{
+  "apkName": "com.luisbocanegra.substweaks_121.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NQCwyypvhJi+Gdur2If8WD6YgllSeYwKVsf6budsfBI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NQCwyypvhJi+Gdur2If8WD6YgllSeYwKVsf6budsfBI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NQCwyypvhJi+Gdur2If8WD6YgllSeYwKVsf6budsfBI="
+    }
+  },
+  "version": "1.2.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "app.hkTransport_106.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5mvhCdj+oCZQJTWAUYBo5ihPeiy2SYZ0QBxmf/bP3Ls="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5mvhCdj+oCZQJTWAUYBo5ihPeiy2SYZ0QBxmf/bP3Ls="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5mvhCdj+oCZQJTWAUYBo5ihPeiy2SYZ0QBxmf/bP3Ls="
+    }
+  },
+  "version": "1.0.6"
+}

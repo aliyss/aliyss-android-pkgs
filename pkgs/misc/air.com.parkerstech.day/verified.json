@@ -1,0 +1,9 @@
+{
+  "package": "air.com.parkerstech.day",
+  "signerFingerprints": [
+    "02:B9:EE:EE:6B:7E:F0:0A:3D:F9:15:5D:83:1E:B5:E5:DB:43:DA:FD:BF:7A:38:72:6C:05:5C:C1:37:E6:95:A2 FF:2D:09:13:F5:CA:7B:E3:3E:D9:B9:88:BB:2D:02:6B:B6:7B:5F:22:96:70:8A:63:2D:BD:91:B2:7F:88:97:32"
+  ],
+  "source": "privacyguides/verified-apps",
+  "source-license": "CC-BY-4.0",
+  "source-license-url": "https://github.com/privacyguides/verified-apps/blob/main/LICENSE.txt"
+}

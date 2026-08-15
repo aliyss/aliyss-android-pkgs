@@ -1,0 +1,8 @@
+{
+  "package": "com.taotao.healthtracker",
+  "signerFingerprints": [
+    "79:8D:08:8A:15:E4:36:1D:A8:4F:62:45:D8:DD:67:D4:9E:6C:50:32:00:18:F7:25:36:8C:99:51:23:F3:93:48"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

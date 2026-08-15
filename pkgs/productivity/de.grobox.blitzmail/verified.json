@@ -1,0 +1,8 @@
+{
+  "package": "de.grobox.blitzmail",
+  "signerFingerprints": [
+    "6F:6F:96:46:2D:71:91:99:F7:6D:2C:78:86:64:0E:DA:FD:9F:F6:F5:65:F2:02:D1:75:DB:E9:CA:B2:79:10:78"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

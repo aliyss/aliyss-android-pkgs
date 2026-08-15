@@ -1,0 +1,8 @@
+{
+  "package": "dev.patrickgold.florisboard",
+  "signerFingerprints": [
+    "83:6B:2F:E1:89:24:FA:D8:35:65:61:32:46:5F:6C:CB:86:5D:BC:D6:0B:E8:D2:70:66:05:79:DF:77:95:2D:94"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

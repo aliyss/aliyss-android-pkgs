@@ -1,0 +1,8 @@
+{
+  "package": "com.nevidimka655.astracrypt",
+  "signerFingerprints": [
+    "69:64:AA:59:AB:FA:49:30:01:21:4A:A6:BD:1A:5D:95:FE:2D:41:35:78:DA:26:22:67:B9:11:BB:F6:DF:12:0F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

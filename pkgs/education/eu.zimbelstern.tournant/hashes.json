@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.zimbelstern.tournant_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UrDVYz+ai11JBwHmozk6RmMY8lCpFOampNOOF99N49w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UrDVYz+ai11JBwHmozk6RmMY8lCpFOampNOOF99N49w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UrDVYz+ai11JBwHmozk6RmMY8lCpFOampNOOF99N49w="
+    }
+  },
+  "version": "2.11.1"
+}

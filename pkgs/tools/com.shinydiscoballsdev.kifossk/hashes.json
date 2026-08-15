@@ -1,0 +1,18 @@
+{
+  "apkName": "com.shinydiscoballsdev.kifossk_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5Aw+wvdAJgF5Cmi3aMGiEngmJzl6D/HC+1Me7qAh0JA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5Aw+wvdAJgF5Cmi3aMGiEngmJzl6D/HC+1Me7qAh0JA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5Aw+wvdAJgF5Cmi3aMGiEngmJzl6D/HC+1Me7qAh0JA="
+    }
+  },
+  "version": "1.0.2"
+}

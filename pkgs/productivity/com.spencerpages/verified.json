@@ -1,0 +1,8 @@
+{
+  "package": "com.spencerpages",
+  "signerFingerprints": [
+    "BC:9E:1F:B5:F3:C0:4F:FB:D1:A5:63:DE:84:8A:70:F4:0D:DB:6E:26:DC:AB:F7:D6:6C:C3:BF:8C:F1:10:AE:30"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

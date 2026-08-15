@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.dorfbrunnen.momkin_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5RxApKL9UD53l3gDmKHZbjHzt1NuuBh7cQg9BE6mzp4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5RxApKL9UD53l3gDmKHZbjHzt1NuuBh7cQg9BE6mzp4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5RxApKL9UD53l3gDmKHZbjHzt1NuuBh7cQg9BE6mzp4="
+    }
+  },
+  "version": "0.1.2"
+}

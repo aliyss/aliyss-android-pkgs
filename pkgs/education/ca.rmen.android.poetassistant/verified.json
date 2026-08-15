@@ -1,0 +1,8 @@
+{
+  "package": "ca.rmen.android.poetassistant",
+  "signerFingerprints": [
+    "EE:9A:F8:F5:4E:26:61:A4:92:9F:DB:0F:6E:EF:3F:F8:56:8C:7E:EA:43:E9:F1:74:B1:A5:95:9C:F2:08:07:C7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.github.muellerma.tabletoptools",
+  "signerFingerprints": [
+    "FC:E1:24:C5:09:8B:83:91:48:EE:31:4F:90:FA:8A:B1:14:AC:6F:37:43:5C:87:2D:04:AD:A6:DC:77:8E:86:08"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

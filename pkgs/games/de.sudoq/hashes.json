@@ -1,0 +1,18 @@
+{
+  "apkName": "de.sudoq_46.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-h5THmYJ0vrm+6FvxPgFZBIPR+5DOrwAvpigZ1wyUydo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h5THmYJ0vrm+6FvxPgFZBIPR+5DOrwAvpigZ1wyUydo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h5THmYJ0vrm+6FvxPgFZBIPR+5DOrwAvpigZ1wyUydo="
+    }
+  },
+  "version": "3.0.1"
+}

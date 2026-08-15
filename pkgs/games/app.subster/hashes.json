@@ -1,0 +1,18 @@
+{
+  "apkName": "app.subster_108.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+u9LIiQMh8ZgJVje+q8gc4V7KhAHJw+90dpIZzjZZl0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+u9LIiQMh8ZgJVje+q8gc4V7KhAHJw+90dpIZzjZZl0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+u9LIiQMh8ZgJVje+q8gc4V7KhAHJw+90dpIZzjZZl0="
+    }
+  },
+  "version": "0.1.8"
+}

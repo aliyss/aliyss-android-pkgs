@@ -1,0 +1,18 @@
+{
+  "apkName": "com.shapeshed.aerial_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+Mi+3sxs/18E52/JG+EC8Zk4ZQWdD+wDMtxqXxmC1SQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+Mi+3sxs/18E52/JG+EC8Zk4ZQWdD+wDMtxqXxmC1SQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+Mi+3sxs/18E52/JG+EC8Zk4ZQWdD+wDMtxqXxmC1SQ="
+    }
+  },
+  "version": "0.6.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.rendox.routinetracker",
+  "signerFingerprints": [
+    "95:C2:FD:66:91:EB:D5:50:68:47:47:E5:A8:4A:DA:6F:AC:CB:51:F5:B1:23:17:01:B9:6B:54:9A:0A:E6:2A:7F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

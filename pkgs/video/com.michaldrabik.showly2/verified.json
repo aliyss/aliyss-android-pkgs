@@ -1,0 +1,8 @@
+{
+  "package": "com.michaldrabik.showly2",
+  "signerFingerprints": [
+    "2F:E8:7C:92:B1:96:46:C7:95:5D:36:E3:B0:F9:8B:3D:93:D7:25:BF:FA:82:92:08:87:48:99:E8:79:52:58:D4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

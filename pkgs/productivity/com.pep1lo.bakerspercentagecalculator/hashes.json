@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pep1lo.bakerspercentagecalculator_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EkSDryMZ3JE1rQBDtzGOsj0A/etd3BGhWtsNpGyqyV0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EkSDryMZ3JE1rQBDtzGOsj0A/etd3BGhWtsNpGyqyV0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EkSDryMZ3JE1rQBDtzGOsj0A/etd3BGhWtsNpGyqyV0="
+    }
+  },
+  "version": "1.6.1"
+}

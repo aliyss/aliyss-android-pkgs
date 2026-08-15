@@ -1,0 +1,18 @@
+{
+  "apkName": "com.antony.muzei.pixiv_327.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gQESz2JrfoNC+7+5ZL9YI8/mQlBc8BQWUCDk4xiQUos="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gQESz2JrfoNC+7+5ZL9YI8/mQlBc8BQWUCDk4xiQUos="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gQESz2JrfoNC+7+5ZL9YI8/mQlBc8BQWUCDk4xiQUos="
+    }
+  },
+  "version": "3.9.1"
+}

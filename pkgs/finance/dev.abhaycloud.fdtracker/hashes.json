@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.abhaycloud.fdtracker_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FdFNrvy+gqdmnAUAB9kxGSJeURTTkrSioWyBUSnISGk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FdFNrvy+gqdmnAUAB9kxGSJeURTTkrSioWyBUSnISGk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FdFNrvy+gqdmnAUAB9kxGSJeURTTkrSioWyBUSnISGk="
+    }
+  },
+  "version": "1.0"
+}

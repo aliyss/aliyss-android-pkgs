@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlydame_101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QXJ8ASH++Kt2DzTDSLBMzvWkEmn5oPMlFsUFKc7NKzM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QXJ8ASH++Kt2DzTDSLBMzvWkEmn5oPMlFsUFKc7NKzM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QXJ8ASH++Kt2DzTDSLBMzvWkEmn5oPMlFsUFKc7NKzM="
+    }
+  },
+  "version": "1.3.4"
+}

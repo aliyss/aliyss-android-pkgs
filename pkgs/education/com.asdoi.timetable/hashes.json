@@ -1,0 +1,18 @@
+{
+  "apkName": "com.asdoi.timetable_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SG1R2uf/2yO5IP8RDNY+zVlLWoasVBuLyBH3hsmq1zY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SG1R2uf/2yO5IP8RDNY+zVlLWoasVBuLyBH3hsmq1zY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SG1R2uf/2yO5IP8RDNY+zVlLWoasVBuLyBH3hsmq1zY="
+    }
+  },
+  "version": "1.7"
+}

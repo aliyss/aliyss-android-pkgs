@@ -1,0 +1,8 @@
+{
+  "package": "de.nilsfo.lsn",
+  "signerFingerprints": [
+    "1D:F6:E8:B5:72:A9:E4:8D:B9:51:CF:EA:41:A8:DF:E6:9F:1C:5A:65:D4:AA:B1:48:DE:61:62:97:70:54:F6:50"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.gresse.hugo.anecdote_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fOYDC4G+ZJRSEHvXy/pvOx8kAqPhvzw2awPH2PVOsXo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fOYDC4G+ZJRSEHvXy/pvOx8kAqPhvzw2awPH2PVOsXo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fOYDC4G+ZJRSEHvXy/pvOx8kAqPhvzw2awPH2PVOsXo="
+    }
+  },
+  "version": "1.1.5"
+}

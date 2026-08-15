@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ghstudios.android.mhgendatabase_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SLsubwBSHQs6KfIpyq6zN40Gb7lPBO/AV7WbQB81p/U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SLsubwBSHQs6KfIpyq6zN40Gb7lPBO/AV7WbQB81p/U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SLsubwBSHQs6KfIpyq6zN40Gb7lPBO/AV7WbQB81p/U="
+    }
+  },
+  "version": "2.3.6"
+}

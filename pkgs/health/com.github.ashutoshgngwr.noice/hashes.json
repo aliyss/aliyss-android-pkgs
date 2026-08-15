@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.ashutoshgngwr.noice_72.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jhGzE2l36fXciX3oXCat2aIZ6mGIT+q8vNTjNWbV0so="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jhGzE2l36fXciX3oXCat2aIZ6mGIT+q8vNTjNWbV0so="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jhGzE2l36fXciX3oXCat2aIZ6mGIT+q8vNTjNWbV0so="
+    }
+  },
+  "version": "2.5.7"
+}

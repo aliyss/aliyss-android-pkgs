@@ -1,0 +1,8 @@
+{
+  "package": "com.isayso.fire2kodi",
+  "signerFingerprints": [
+    "A9:93:FC:BD:C6:7F:57:66:64:4A:95:CB:74:D0:E3:1E:05:22:E1:70:96:6F:E5:85:41:7D:28:B3:C6:64:84:FD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

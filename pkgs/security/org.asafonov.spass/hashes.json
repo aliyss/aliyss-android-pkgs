@@ -1,0 +1,18 @@
+{
+  "apkName": "org.asafonov.spass_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YWB7CI39cjnMTcYPlk3lIXXu8Jt0Vtb8ZvjSv0L29PQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YWB7CI39cjnMTcYPlk3lIXXu8Jt0Vtb8ZvjSv0L29PQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YWB7CI39cjnMTcYPlk3lIXXu8Jt0Vtb8ZvjSv0L29PQ="
+    }
+  },
+  "version": "2.2"
+}

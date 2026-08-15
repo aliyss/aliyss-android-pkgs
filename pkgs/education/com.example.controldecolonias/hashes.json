@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.controldecolonias_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-D16/jT9vYH+aqWwuQgu0tRHEXiNn4+73OD5Xla2avBM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D16/jT9vYH+aqWwuQgu0tRHEXiNn4+73OD5Xla2avBM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D16/jT9vYH+aqWwuQgu0tRHEXiNn4+73OD5Xla2avBM="
+    }
+  },
+  "version": "1.1"
+}

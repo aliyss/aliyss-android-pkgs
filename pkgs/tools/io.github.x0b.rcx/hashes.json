@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.x0b.rcx_220.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4OGKdhO6t9vFBkLS1OKJgzW9/RfFvw3b9urQZi4l4KQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4OGKdhO6t9vFBkLS1OKJgzW9/RfFvw3b9urQZi4l4KQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4OGKdhO6t9vFBkLS1OKJgzW9/RfFvw3b9urQZi4l4KQ="
+    }
+  },
+  "version": "1.12.2"
+}

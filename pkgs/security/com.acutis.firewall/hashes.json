@@ -1,0 +1,18 @@
+{
+  "apkName": "com.acutis.firewall_10005.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-h2RFe/hVV3D+udNjOvi/HR8uupFlj/oNgjXsu4WmKw8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h2RFe/hVV3D+udNjOvi/HR8uupFlj/oNgjXsu4WmKw8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h2RFe/hVV3D+udNjOvi/HR8uupFlj/oNgjXsu4WmKw8="
+    }
+  },
+  "version": "1.0.5"
+}

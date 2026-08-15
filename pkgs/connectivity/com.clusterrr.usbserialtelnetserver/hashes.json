@@ -1,0 +1,18 @@
+{
+  "apkName": "com.clusterrr.usbserialtelnetserver_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yhhNkrZTH1SHoCuS3pfnIsRMjd5dkcSnXQIGF4S5uPE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yhhNkrZTH1SHoCuS3pfnIsRMjd5dkcSnXQIGF4S5uPE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yhhNkrZTH1SHoCuS3pfnIsRMjd5dkcSnXQIGF4S5uPE="
+    }
+  },
+  "version": "2.0"
+}

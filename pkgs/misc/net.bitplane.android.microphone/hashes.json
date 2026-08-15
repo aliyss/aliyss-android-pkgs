@@ -1,0 +1,18 @@
+{
+  "apkName": "net.bitplane.android.microphone_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-o5Udce1vSjzoeEv5om3bNaRhMHPLudtEzHpgppXEfwo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o5Udce1vSjzoeEv5om3bNaRhMHPLudtEzHpgppXEfwo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o5Udce1vSjzoeEv5om3bNaRhMHPLudtEzHpgppXEfwo="
+    }
+  },
+  "version": "0.9"
+}

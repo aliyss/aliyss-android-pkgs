@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.muzei.muzeiapod_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WL4weq93+fETrfY+wrlYm5eH4cpirTVrbNE+FeJbHjA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WL4weq93+fETrfY+wrlYm5eH4cpirTVrbNE+FeJbHjA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WL4weq93+fETrfY+wrlYm5eH4cpirTVrbNE+FeJbHjA="
+    }
+  },
+  "version": "1.0.0"
+}

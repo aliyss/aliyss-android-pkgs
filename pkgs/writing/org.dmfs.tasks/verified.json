@@ -1,0 +1,8 @@
+{
+  "package": "org.dmfs.tasks",
+  "signerFingerprints": [
+    "05:6B:29:8F:CF:E8:C3:80:4B:44:86:53:E8:55:8B:B4:73:AF:42:CE:EA:0D:9C:31:E9:4A:B2:03:F0:D7:25:E2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.patricksmill.quicknotes_100007.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ntNbNPBUqjZoSvSYoWjezf5EgP4fLZ3yTkbiXS803LA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ntNbNPBUqjZoSvSYoWjezf5EgP4fLZ3yTkbiXS803LA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ntNbNPBUqjZoSvSYoWjezf5EgP4fLZ3yTkbiXS803LA="
+    }
+  },
+  "version": "1.0.7"
+}

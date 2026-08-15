@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.shadowsocks.plugin.ck_client_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-low8C50HeV4irF28CyTaiN/dHeD8P+xkPzAXMJjB5pY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-low8C50HeV4irF28CyTaiN/dHeD8P+xkPzAXMJjB5pY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-low8C50HeV4irF28CyTaiN/dHeD8P+xkPzAXMJjB5pY="
+    }
+  },
+  "version": "2.12.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mustupid.pitch_pipe_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Wv16QlF1UHQwQhcqxAxxq6hJy8BvJkKTmfxIMeO3iOY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Wv16QlF1UHQwQhcqxAxxq6hJy8BvJkKTmfxIMeO3iOY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Wv16QlF1UHQwQhcqxAxxq6hJy8BvJkKTmfxIMeO3iOY="
+    }
+  },
+  "version": "1.0"
+}

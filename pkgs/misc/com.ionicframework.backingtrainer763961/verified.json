@@ -1,0 +1,8 @@
+{
+  "package": "com.ionicframework.backingtrainer763961",
+  "signerFingerprints": [
+    "AC:36:CF:E8:7F:17:B4:0A:D5:60:21:28:A5:BF:E0:07:38:3D:1F:CA:36:FA:1F:A5:21:69:D0:E6:5F:69:DD:AA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

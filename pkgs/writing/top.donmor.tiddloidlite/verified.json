@@ -1,0 +1,8 @@
+{
+  "package": "top.donmor.tiddloidlite",
+  "signerFingerprints": [
+    "46:F6:59:B7:EA:1E:C6:B8:5C:7C:28:78:19:D8:A8:05:CE:DC:88:C3:A4:A0:CF:EA:56:73:31:DA:86:20:5A:32"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

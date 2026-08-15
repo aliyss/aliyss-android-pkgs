@@ -1,0 +1,8 @@
+{
+  "package": "net.slions.fulguris.full.fdroid",
+  "signerFingerprints": [
+    "66:95:8F:33:66:38:8C:23:CA:1A:3C:BF:D9:15:45:CC:A4:AB:F3:E7:9E:DA:AB:4F:E9:88:21:3E:39:2B:07:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

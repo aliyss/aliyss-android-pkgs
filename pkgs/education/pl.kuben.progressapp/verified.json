@@ -1,0 +1,8 @@
+{
+  "package": "pl.kuben.progressapp",
+  "signerFingerprints": [
+    "BB:84:C4:D7:9C:9B:4E:63:98:5C:EE:EC:5B:FA:FC:71:E0:22:51:EA:FC:E3:5E:65:6A:75:E7:B8:32:DC:ED:41"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

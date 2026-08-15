@@ -1,0 +1,18 @@
+{
+  "apkName": "com.shiyunjin.easycontrolnext.app_10011.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7JDXExIBLDQIzQdqSuKZfTW/7W4xQXrOcbcDt3p1eWc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7JDXExIBLDQIzQdqSuKZfTW/7W4xQXrOcbcDt3p1eWc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7JDXExIBLDQIzQdqSuKZfTW/7W4xQXrOcbcDt3p1eWc="
+    }
+  },
+  "version": "1.1.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.stealthcotper.networktools_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iwT2ZqzWuie6Q65Gm7RpuKjIuGlywunJbzkMP1ozuwM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iwT2ZqzWuie6Q65Gm7RpuKjIuGlywunJbzkMP1ozuwM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iwT2ZqzWuie6Q65Gm7RpuKjIuGlywunJbzkMP1ozuwM="
+    }
+  },
+  "version": "0.4.5.2"
+}

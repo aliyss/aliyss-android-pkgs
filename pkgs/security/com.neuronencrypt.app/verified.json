@@ -1,0 +1,8 @@
+{
+  "package": "com.neuronencrypt.app",
+  "signerFingerprints": [
+    "D7:AA:BA:54:69:8C:F0:E8:40:D0:5E:CF:B4:AE:6E:0F:9D:C7:83:11:F5:80:C6:85:60:1C:84:55:D4:F5:EC:04"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

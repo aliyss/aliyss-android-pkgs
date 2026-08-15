@@ -1,0 +1,18 @@
+{
+  "apkName": "org.totschnig.myexpenses_871.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vi5QWrUGBPoHPPH08HKNRTWDu7dHaxyVQABURsFh5VA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vi5QWrUGBPoHPPH08HKNRTWDu7dHaxyVQABURsFh5VA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vi5QWrUGBPoHPPH08HKNRTWDu7dHaxyVQABURsFh5VA="
+    }
+  },
+  "version": "4.1.0.2"
+}

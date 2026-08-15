@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mattvchandler.a2050_190010010.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mKDnXlicMZCT21bPmL+jLZILlDapy+fDCzLc96Sm0oQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mKDnXlicMZCT21bPmL+jLZILlDapy+fDCzLc96Sm0oQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mKDnXlicMZCT21bPmL+jLZILlDapy+fDCzLc96Sm0oQ="
+    }
+  },
+  "version": "1.0.10"
+}

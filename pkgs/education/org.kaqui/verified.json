@@ -1,0 +1,8 @@
+{
+  "package": "org.kaqui",
+  "signerFingerprints": [
+    "46:DB:E8:67:18:28:49:13:A6:54:EF:C3:88:64:9F:71:48:A3:19:26:BA:F9:49:8A:F0:C1:BF:EC:E8:7F:B3:5F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

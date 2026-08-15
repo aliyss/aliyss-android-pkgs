@@ -1,0 +1,18 @@
+{
+  "apkName": "luke.kfz_10004.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/Ykhs3dO4j0QapLfLKv6K77m+EHSzfd8qfvtGJepfsw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Ykhs3dO4j0QapLfLKv6K77m+EHSzfd8qfvtGJepfsw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Ykhs3dO4j0QapLfLKv6K77m+EHSzfd8qfvtGJepfsw="
+    }
+  },
+  "version": "1.0.4"
+}

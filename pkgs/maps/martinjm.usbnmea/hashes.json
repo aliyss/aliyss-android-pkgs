@@ -1,0 +1,18 @@
+{
+  "apkName": "martinjm.usbnmea_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QEetLwI7iMNMnkeuz85Mv51z3sE2i1LEtj293UY3HkM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QEetLwI7iMNMnkeuz85Mv51z3sE2i1LEtj293UY3HkM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QEetLwI7iMNMnkeuz85Mv51z3sE2i1LEtj293UY3HkM="
+    }
+  },
+  "version": "0.4.1"
+}

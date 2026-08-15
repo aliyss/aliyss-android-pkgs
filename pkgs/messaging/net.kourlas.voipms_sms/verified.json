@@ -1,0 +1,8 @@
+{
+  "package": "net.kourlas.voipms_sms",
+  "signerFingerprints": [
+    "1B:5F:C6:61:85:02:C8:39:A0:82:2E:0E:A6:7C:3F:FF:3D:F4:C3:35:90:F3:65:5A:08:07:4C:CA:93:73:1F:55"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

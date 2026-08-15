@@ -1,0 +1,8 @@
+{
+  "package": "org.stingle.photos",
+  "signerFingerprints": [
+    "4F:D8:83:99:2B:28:50:DA:A1:87:A5:F1:76:F3:2C:06:8C:7E:CC:28:0D:41:E5:38:FD:23:FF:26:D5:FC:ED:B4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

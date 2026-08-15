@@ -1,0 +1,18 @@
+{
+  "apkName": "com.yogeshpaliyal.keypass_1442.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-x1Goa86agOG1pRcWwIWmWQwuTuJoAEqR3X2tNEFbrFY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x1Goa86agOG1pRcWwIWmWQwuTuJoAEqR3X2tNEFbrFY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x1Goa86agOG1pRcWwIWmWQwuTuJoAEqR3X2tNEFbrFY="
+    }
+  },
+  "version": "1.4.42"
+}

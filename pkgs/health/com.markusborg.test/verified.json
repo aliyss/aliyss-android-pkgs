@@ -1,0 +1,8 @@
+{
+  "package": "com.markusborg.test",
+  "signerFingerprints": [
+    "32:11:44:95:60:6D:C7:9E:05:3F:77:2B:91:A9:F1:41:C8:B9:AE:41:8C:59:71:CB:C4:E1:CF:1E:1A:E3:FC:E2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

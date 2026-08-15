@@ -1,0 +1,9 @@
+{
+  "package": "app.comaps.fdroid",
+  "signerFingerprints": [
+    "CA:51:80:DA:AC:F1:F2:6A:18:F9:8F:F4:BC:E2:D6:2B:BA:AA:39:36:1C:99:8B:22:67:CE:D1:BC:0D:2F:93:2B"
+  ],
+  "source": "privacyguides/verified-apps",
+  "source-license": "CC-BY-4.0",
+  "source-license-url": "https://github.com/privacyguides/verified-apps/blob/main/LICENSE.txt"
+}

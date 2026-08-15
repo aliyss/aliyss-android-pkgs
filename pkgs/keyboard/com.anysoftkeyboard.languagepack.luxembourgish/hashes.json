@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.luxembourgish_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-D7D1FfmaCyt/1cnR2Vne9UHFBhHjNPQBwEXZaktjtBg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D7D1FfmaCyt/1cnR2Vne9UHFBhHjNPQBwEXZaktjtBg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D7D1FfmaCyt/1cnR2Vne9UHFBhHjNPQBwEXZaktjtBg="
+    }
+  },
+  "version": "5.1.6158"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "me.robbyblue.mylauncher_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xlpf0oNIVCpnE5wrIbn03fQJzVmnXCdOAOtmcKcmEbc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xlpf0oNIVCpnE5wrIbn03fQJzVmnXCdOAOtmcKcmEbc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xlpf0oNIVCpnE5wrIbn03fQJzVmnXCdOAOtmcKcmEbc="
+    }
+  },
+  "version": "0.3.6hotfix"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.reteclock_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kEKswCg3Ie4rUiw3+kZGuq6J6jlAy3NypIzTodPpgPM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kEKswCg3Ie4rUiw3+kZGuq6J6jlAy3NypIzTodPpgPM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kEKswCg3Ie4rUiw3+kZGuq6J6jlAy3NypIzTodPpgPM="
+    }
+  },
+  "version": "0.12.0"
+}

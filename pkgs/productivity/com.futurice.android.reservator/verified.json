@@ -1,0 +1,8 @@
+{
+  "package": "com.futurice.android.reservator",
+  "signerFingerprints": [
+    "BD:50:3B:BE:33:EE:F4:F3:48:25:E8:74:59:54:43:28:0B:94:44:9B:E3:8D:32:05:49:BA:94:82:89:B4:78:06"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "la.daube.photochiotte_75.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xoodHM5Wtd/mpmKg+ve7g8o4uakIfafeZpNw44DmFv4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xoodHM5Wtd/mpmKg+ve7g8o4uakIfafeZpNw44DmFv4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xoodHM5Wtd/mpmKg+ve7g8o4uakIfafeZpNw44DmFv4="
+    }
+  },
+  "version": "v1.74"
+}

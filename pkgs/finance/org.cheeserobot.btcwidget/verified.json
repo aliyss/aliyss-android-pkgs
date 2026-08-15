@@ -1,0 +1,8 @@
+{
+  "package": "org.cheeserobot.btcwidget",
+  "signerFingerprints": [
+    "5C:28:E6:1D:A2:1C:A3:6F:B5:64:33:26:1C:D4:9E:FF:9C:FC:6B:72:21:94:1C:B5:2D:23:75:CC:24:03:19:EF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "app.fayaz.otgmaster",
+  "signerFingerprints": [
+    "FA:2A:19:B4:54:9D:AE:6C:8F:71:36:2A:0D:74:BE:39:6B:ED:A8:70:D9:C6:FE:E3:27:EE:29:09:76:38:8F:3A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

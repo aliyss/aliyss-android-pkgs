@@ -1,0 +1,18 @@
+{
+  "apkName": "helium314.keyboard_4005.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hWXvrXCtspbFBVXt7YaCdOYHvJEBZbOkJV1nCa+aiH0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hWXvrXCtspbFBVXt7YaCdOYHvJEBZbOkJV1nCa+aiH0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hWXvrXCtspbFBVXt7YaCdOYHvJEBZbOkJV1nCa+aiH0="
+    }
+  },
+  "version": "4.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.foss.aihub_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2WoSUZvR5DkaCPZOKgVXB4DsLH0JMyLUEO9yHCJLMAg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2WoSUZvR5DkaCPZOKgVXB4DsLH0JMyLUEO9yHCJLMAg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2WoSUZvR5DkaCPZOKgVXB4DsLH0JMyLUEO9yHCJLMAg="
+    }
+  },
+  "version": "3.0.0"
+}

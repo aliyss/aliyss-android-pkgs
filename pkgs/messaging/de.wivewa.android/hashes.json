@@ -1,0 +1,18 @@
+{
+  "apkName": "de.wivewa.android_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SixujJ5XhrXtdBx8o24sSaJTJmQlZ0AcWPYYH/CpQ7c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SixujJ5XhrXtdBx8o24sSaJTJmQlZ0AcWPYYH/CpQ7c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SixujJ5XhrXtdBx8o24sSaJTJmQlZ0AcWPYYH/CpQ7c="
+    }
+  },
+  "version": "1.6.0"
+}

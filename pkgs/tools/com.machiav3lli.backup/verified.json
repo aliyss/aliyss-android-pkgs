@@ -1,0 +1,8 @@
+{
+  "package": "com.machiav3lli.backup",
+  "signerFingerprints": [
+    "6A:0B:8D:B9:8C:68:D9:72:DA:3E:06:09:78:C2:D0:A2:30:EC:85:BE:05:42:B3:02:FA:F0:B5:B1:BC:4E:F0:07"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

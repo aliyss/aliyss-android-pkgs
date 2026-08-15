@@ -1,0 +1,18 @@
+{
+  "apkName": "com.developerfromjokela.motioneyeclient_10000008.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n4DDc4tZzoofQxKY/6SOAjRwMKy0B7K8vamERY/Rpro="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n4DDc4tZzoofQxKY/6SOAjRwMKy0B7K8vamERY/Rpro="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n4DDc4tZzoofQxKY/6SOAjRwMKy0B7K8vamERY/Rpro="
+    }
+  },
+  "version": "1.0.0-alp9"
+}

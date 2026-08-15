@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mrchandler.disableprox_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Zq52EFEry9lpLF5/fCdA+KFLElmNn628MSLBtn1GPeA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Zq52EFEry9lpLF5/fCdA+KFLElmNn628MSLBtn1GPeA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Zq52EFEry9lpLF5/fCdA+KFLElmNn628MSLBtn1GPeA="
+    }
+  },
+  "version": "3.0.2"
+}

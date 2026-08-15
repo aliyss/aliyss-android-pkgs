@@ -1,0 +1,18 @@
+{
+  "apkName": "org.btcmap_56.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rwSEAfQAAe73P+vr+m7QCTUQTxRz7g/7VtdWPA7tvng="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rwSEAfQAAe73P+vr+m7QCTUQTxRz7g/7VtdWPA7tvng="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rwSEAfQAAe73P+vr+m7QCTUQTxRz7g/7VtdWPA7tvng="
+    }
+  },
+  "version": "1.1.0"
+}

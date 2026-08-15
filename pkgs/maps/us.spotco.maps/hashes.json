@@ -1,0 +1,18 @@
+{
+  "apkName": "us.spotco.maps_49.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Cb/2Rhr84Lu/xSFRrZwIIgWo/NGdLzIomFNF30j82YY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cb/2Rhr84Lu/xSFRrZwIIgWo/NGdLzIomFNF30j82YY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cb/2Rhr84Lu/xSFRrZwIIgWo/NGdLzIomFNF30j82YY="
+    }
+  },
+  "version": "4.9"
+}

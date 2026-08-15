@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mantz_it.rfanalyzer_20208.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B6X1qxD4CovK1IPBjCdCj2v3UBKrcaro9NS88aPr6cY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B6X1qxD4CovK1IPBjCdCj2v3UBKrcaro9NS88aPr6cY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B6X1qxD4CovK1IPBjCdCj2v3UBKrcaro9NS88aPr6cY="
+    }
+  },
+  "version": "2.2.1-foss"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.chagemann.regexcrossword_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T86PjqXV6MwD5TMH3rBM7j7KMs5f+ZqlmQNiF4C0WDA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T86PjqXV6MwD5TMH3rBM7j7KMs5f+ZqlmQNiF4C0WDA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T86PjqXV6MwD5TMH3rBM7j7KMs5f+ZqlmQNiF4C0WDA="
+    }
+  },
+  "version": "2.5.6"
+}

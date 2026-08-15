@@ -1,0 +1,18 @@
+{
+  "apkName": "me.bmax.apatch_11142.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-b5DeXOjJWdprBpKcz5iOOHmqXLjbThvgAUJkY+fO1+4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b5DeXOjJWdprBpKcz5iOOHmqXLjbThvgAUJkY+fO1+4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b5DeXOjJWdprBpKcz5iOOHmqXLjbThvgAUJkY+fO1+4="
+    }
+  },
+  "version": "11142"
+}

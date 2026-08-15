@@ -1,0 +1,8 @@
+{
+  "package": "cc.taylorzhang.subtune",
+  "signerFingerprints": [
+    "1C:48:FC:D8:2B:18:B7:F7:EF:7E:B7:DC:6C:45:87:E4:B2:81:17:58:9E:F3:7E:0D:1C:23:50:8E:7C:C4:5B:23"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

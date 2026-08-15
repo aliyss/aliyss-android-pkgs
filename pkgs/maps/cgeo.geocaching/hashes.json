@@ -1,0 +1,18 @@
+{
+  "apkName": "cgeo.geocaching_20260805.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-F9lvS2dmUbHaT6x/OmZENls4O4BKO+/zqEhFiPynMRY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F9lvS2dmUbHaT6x/OmZENls4O4BKO+/zqEhFiPynMRY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F9lvS2dmUbHaT6x/OmZENls4O4BKO+/zqEhFiPynMRY="
+    }
+  },
+  "version": "2026.08.05"
+}

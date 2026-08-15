@@ -1,0 +1,8 @@
+{
+  "package": "fr.mobdev.goblim",
+  "signerFingerprints": [
+    "0F:85:23:9B:B2:77:46:CC:70:6C:92:09:7D:F0:73:B2:38:E1:6C:33:69:C6:A1:E6:A1:38:C4:4C:75:5A:27:5F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

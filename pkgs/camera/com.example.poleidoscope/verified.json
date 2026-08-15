@@ -1,0 +1,8 @@
+{
+  "package": "com.example.poleidoscope",
+  "signerFingerprints": [
+    "2A:EC:E6:A9:9F:FA:C9:EB:E2:3A:AA:38:9F:EA:CD:02:37:8D:8D:5A:78:1A:B8:7D:70:64:E8:69:B6:B1:43:43"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

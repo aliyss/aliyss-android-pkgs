@@ -1,0 +1,18 @@
+{
+  "apkName": "com.health.openworkout_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TYNSqxdIlRc3GGCI0zGm0ENEclR3rvCuiTRGQMiBDa0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TYNSqxdIlRc3GGCI0zGm0ENEclR3rvCuiTRGQMiBDa0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TYNSqxdIlRc3GGCI0zGm0ENEclR3rvCuiTRGQMiBDa0="
+    }
+  },
+  "version": "1.3.2"
+}

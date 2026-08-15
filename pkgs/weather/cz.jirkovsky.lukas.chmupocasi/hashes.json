@@ -1,0 +1,18 @@
+{
+  "apkName": "cz.jirkovsky.lukas.chmupocasi_30013.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8+BzR6GUWrnbRNTR/EhbiSf8Fm/XgdsUyL5ttfuZLIo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8+BzR6GUWrnbRNTR/EhbiSf8Fm/XgdsUyL5ttfuZLIo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8+BzR6GUWrnbRNTR/EhbiSf8Fm/XgdsUyL5ttfuZLIo="
+    }
+  },
+  "version": "2.1.1"
+}

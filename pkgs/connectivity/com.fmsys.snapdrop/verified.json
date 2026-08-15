@@ -1,0 +1,8 @@
+{
+  "package": "com.fmsys.snapdrop",
+  "signerFingerprints": [
+    "D6:6A:CA:E2:4B:35:9B:80:6D:E8:30:91:B6:B5:B4:E8:55:BA:DD:01:8F:5F:1B:33:C1:B5:F1:17:71:D6:D3:1E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

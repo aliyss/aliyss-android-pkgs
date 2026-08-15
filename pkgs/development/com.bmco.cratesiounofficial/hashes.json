@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bmco.cratesiounofficial_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iMU6XcGqRCw0j/Al6wSTnzF4vRHVYfAhG5N75P8wuzA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iMU6XcGqRCw0j/Al6wSTnzF4vRHVYfAhG5N75P8wuzA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iMU6XcGqRCw0j/Al6wSTnzF4vRHVYfAhG5N75P8wuzA="
+    }
+  },
+  "version": "1.5.3"
+}

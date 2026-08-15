@@ -1,0 +1,18 @@
+{
+  "apkName": "org.decsync.sparss.floss_99.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ddjLf0Pw8sJlGsEYHSwCG5WysUvVc6nKceaq9Fd6zb4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ddjLf0Pw8sJlGsEYHSwCG5WysUvVc6nKceaq9Fd6zb4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ddjLf0Pw8sJlGsEYHSwCG5WysUvVc6nKceaq9Fd6zb4="
+    }
+  },
+  "version": "1.17.0"
+}

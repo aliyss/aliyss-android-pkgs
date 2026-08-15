@@ -1,0 +1,18 @@
+{
+  "apkName": "koeln.mop.elpeefpe_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r5OhgLEuVl1IFvl6jsuq/Lssxo5nGeyG3tPIuCseRAY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r5OhgLEuVl1IFvl6jsuq/Lssxo5nGeyG3tPIuCseRAY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r5OhgLEuVl1IFvl6jsuq/Lssxo5nGeyG3tPIuCseRAY="
+    }
+  },
+  "version": "1.1"
+}

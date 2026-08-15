@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.muntashirakon.AppManager_450.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5ZkD7cShTj/diTwd5KFYQU9t2xa64X5ZxXELIEANABQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5ZkD7cShTj/diTwd5KFYQU9t2xa64X5ZxXELIEANABQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5ZkD7cShTj/diTwd5KFYQU9t2xa64X5ZxXELIEANABQ="
+    }
+  },
+  "version": "4.1.0"
+}

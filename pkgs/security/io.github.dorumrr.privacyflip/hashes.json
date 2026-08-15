@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.dorumrr.privacyflip_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-prwdYXw6ujCkEL6rqhMhb2hjZ30a8vwHeP6vvmtfVhc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-prwdYXw6ujCkEL6rqhMhb2hjZ30a8vwHeP6vvmtfVhc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-prwdYXw6ujCkEL6rqhMhb2hjZ30a8vwHeP6vvmtfVhc="
+    }
+  },
+  "version": "2.1.2"
+}

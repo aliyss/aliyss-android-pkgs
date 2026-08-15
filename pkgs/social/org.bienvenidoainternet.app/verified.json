@@ -1,0 +1,8 @@
+{
+  "package": "org.bienvenidoainternet.app",
+  "signerFingerprints": [
+    "31:E6:33:B8:E7:49:1F:DD:F5:91:AF:FF:91:8B:64:1A:60:17:27:A4:92:1F:82:A4:79:25:40:5D:61:27:C2:E8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

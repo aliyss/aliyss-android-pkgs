@@ -1,0 +1,8 @@
+{
+  "package": "com.alaskalinuxuser.criticalvelocity",
+  "signerFingerprints": [
+    "7A:69:06:A9:99:9A:2B:05:4C:9F:C3:72:EA:B9:D4:C7:90:15:4B:0C:8B:A2:3C:43:68:BF:81:24:15:07:A9:8C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

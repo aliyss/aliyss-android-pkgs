@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ghostsinthelab.apps.guilelessbopomofo_213.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zKrn4yOW6E1C0rDSCCaJl5qEweUljCgGo09WoFKRYWI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zKrn4yOW6E1C0rDSCCaJl5qEweUljCgGo09WoFKRYWI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zKrn4yOW6E1C0rDSCCaJl5qEweUljCgGo09WoFKRYWI="
+    }
+  },
+  "version": "4.0.13"
+}

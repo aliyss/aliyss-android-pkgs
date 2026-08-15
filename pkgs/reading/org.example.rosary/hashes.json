@@ -1,0 +1,18 @@
+{
+  "apkName": "org.example.rosary_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-c4XFDUHbRDxv2RIudROz9K5peRLwfTxvSJAe2iznDwA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c4XFDUHbRDxv2RIudROz9K5peRLwfTxvSJAe2iznDwA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c4XFDUHbRDxv2RIudROz9K5peRLwfTxvSJAe2iznDwA="
+    }
+  },
+  "version": "0.2.1"
+}

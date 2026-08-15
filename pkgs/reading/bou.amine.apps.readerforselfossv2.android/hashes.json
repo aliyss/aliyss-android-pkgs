@@ -1,0 +1,18 @@
+{
+  "apkName": "bou.amine.apps.readerforselfossv2.android_125051211.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H3fEsflTEJ+j0vnRGJ0MK8JMbOgnpa2nfO0LwhoFED8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H3fEsflTEJ+j0vnRGJ0MK8JMbOgnpa2nfO0LwhoFED8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H3fEsflTEJ+j0vnRGJ0MK8JMbOgnpa2nfO0LwhoFED8="
+    }
+  },
+  "version": "125051211-github"
+}

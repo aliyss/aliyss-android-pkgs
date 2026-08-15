@@ -1,0 +1,8 @@
+{
+  "package": "com.colnix.fta",
+  "signerFingerprints": [
+    "84:1D:CE:09:CE:B0:33:AD:0C:D0:03:50:C6:BF:C1:FE:38:2D:69:37:80:8F:BA:7E:C2:0F:29:5E:24:B6:22:17"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

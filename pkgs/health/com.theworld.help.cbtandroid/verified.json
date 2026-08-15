@@ -1,0 +1,8 @@
+{
+  "package": "com.theworld.help.cbtandroid",
+  "signerFingerprints": [
+    "43:97:C0:F7:29:C1:00:EE:C9:8C:D4:C1:E4:27:DE:EF:9E:E8:6B:52:57:B1:59:78:FD:EC:57:3A:B7:C9:85:26"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

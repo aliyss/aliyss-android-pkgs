@@ -1,0 +1,18 @@
+{
+  "apkName": "de.schliweb.bluesharpbendingapp_30800.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lVqyD5kdeSzipMlWe3GY+FwAvQYWHF0tbx1vdwvNcSw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lVqyD5kdeSzipMlWe3GY+FwAvQYWHF0tbx1vdwvNcSw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lVqyD5kdeSzipMlWe3GY+FwAvQYWHF0tbx1vdwvNcSw="
+    }
+  },
+  "version": "3.8.0"
+}

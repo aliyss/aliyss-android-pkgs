@@ -1,0 +1,8 @@
+{
+  "package": "net.cacheux.nvp.app",
+  "signerFingerprints": [
+    "85:CC:13:B7:CD:A6:2D:0C:D4:1D:15:B6:BD:A8:CF:A9:5D:9D:5C:C2:44:50:7A:E6:0E:FD:2D:FB:D1:58:12:17"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

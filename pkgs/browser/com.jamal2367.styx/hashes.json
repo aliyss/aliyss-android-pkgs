@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jamal2367.styx_172.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PZ7B0PNqZjFGMz8AJ7ZigywvGIuQWTe7iGNNGmWgRNc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PZ7B0PNqZjFGMz8AJ7ZigywvGIuQWTe7iGNNGmWgRNc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PZ7B0PNqZjFGMz8AJ7ZigywvGIuQWTe7iGNNGmWgRNc="
+    }
+  },
+  "version": "17.2"
+}

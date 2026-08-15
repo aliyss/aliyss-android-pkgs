@@ -1,0 +1,18 @@
+{
+  "apkName": "com.milki.launcher_10100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PqFP2jvw48lR9nFaf0LmgELgh55nXqoypjC18EJJ1FQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PqFP2jvw48lR9nFaf0LmgELgh55nXqoypjC18EJJ1FQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PqFP2jvw48lR9nFaf0LmgELgh55nXqoypjC18EJJ1FQ="
+    }
+  },
+  "version": "1.1.0"
+}

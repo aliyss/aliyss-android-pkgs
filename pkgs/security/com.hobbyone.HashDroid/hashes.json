@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hobbyone.HashDroid_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LVHf5gG6XeZthB83esGzgzEo7x9O6GU5Bwy1tvpT1Yk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LVHf5gG6XeZthB83esGzgzEo7x9O6GU5Bwy1tvpT1Yk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LVHf5gG6XeZthB83esGzgzEo7x9O6GU5Bwy1tvpT1Yk="
+    }
+  },
+  "version": "4.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.studip.unofficial_app",
+  "signerFingerprints": [
+    "1E:92:CF:76:68:AA:E8:C0:4A:F5:D8:CC:1F:E0:EF:83:9D:E8:92:34:20:EE:F9:55:85:E5:03:E1:A1:0A:EC:E8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

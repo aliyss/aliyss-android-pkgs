@@ -1,0 +1,8 @@
+{
+  "package": "me.sanao1006.mint.release",
+  "signerFingerprints": [
+    "FE:52:9A:AF:3F:B7:30:05:CB:0B:F7:C2:E7:23:0E:F8:A4:EC:FA:AB:13:C6:04:EB:EF:0E:81:51:38:CA:53:9C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

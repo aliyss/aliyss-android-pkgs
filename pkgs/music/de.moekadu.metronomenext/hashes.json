@@ -1,0 +1,18 @@
+{
+  "apkName": "de.moekadu.metronomenext_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7SIZ0B5w9cXXWSiCxseabT9sejZfTc1BDPmlqcPZR90="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7SIZ0B5w9cXXWSiCxseabT9sejZfTc1BDPmlqcPZR90="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7SIZ0B5w9cXXWSiCxseabT9sejZfTc1BDPmlqcPZR90="
+    }
+  },
+  "version": "6.1.1"
+}

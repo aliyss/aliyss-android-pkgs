@@ -1,0 +1,8 @@
+{
+  "package": "org.cry.otp",
+  "signerFingerprints": [
+    "AF:03:07:7D:71:80:86:68:79:CA:46:10:CA:55:2C:DD:96:6D:AA:F5:CD:49:15:FA:78:26:3A:C2:6B:72:49:87"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

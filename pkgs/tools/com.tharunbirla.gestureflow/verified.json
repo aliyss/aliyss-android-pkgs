@@ -1,0 +1,8 @@
+{
+  "package": "com.tharunbirla.gestureflow",
+  "signerFingerprints": [
+    "49:6E:14:99:80:30:B3:B7:BC:91:8B:C9:7F:99:2D:C8:7A:ED:BF:E3:08:99:C1:74:2D:02:7D:8F:DA:E8:26:F6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

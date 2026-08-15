@@ -1,0 +1,8 @@
+{
+  "package": "eth.brume.wallet",
+  "signerFingerprints": [
+    "4A:06:69:10:F4:A6:54:4D:11:7C:07:81:69:42:8B:70:DC:EC:E0:86:94:0E:C3:33:2D:78:11:9F:67:9E:6D:4A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

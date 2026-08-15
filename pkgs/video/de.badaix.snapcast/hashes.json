@@ -1,0 +1,18 @@
+{
+  "apkName": "de.badaix.snapcast_2902.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aAyViM/KQNZ7NuW9c3JnKemUAAldPBVGEMmY5DehzZw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aAyViM/KQNZ7NuW9c3JnKemUAAldPBVGEMmY5DehzZw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aAyViM/KQNZ7NuW9c3JnKemUAAldPBVGEMmY5DehzZw="
+    }
+  },
+  "version": "0.29.0.2"
+}

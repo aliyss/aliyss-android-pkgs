@@ -1,0 +1,8 @@
+{
+  "package": "yetzio.yetcalc",
+  "signerFingerprints": [
+    "D1:87:0C:69:5F:5C:BB:6E:2D:12:93:54:4B:25:60:EF:22:67:CB:F3:22:63:2D:50:F5:34:82:64:9A:6A:A4:21"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

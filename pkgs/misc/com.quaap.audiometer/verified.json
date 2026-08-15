@@ -1,0 +1,8 @@
+{
+  "package": "com.quaap.audiometer",
+  "signerFingerprints": [
+    "E4:97:A9:BA:D9:37:9F:62:DF:EE:7B:06:AC:51:E4:93:80:E2:A7:62:1B:3B:A5:15:46:ED:20:9B:CA:F7:DC:54"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

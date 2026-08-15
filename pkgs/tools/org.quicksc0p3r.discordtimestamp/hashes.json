@@ -1,0 +1,18 @@
+{
+  "apkName": "org.quicksc0p3r.discordtimestamp_1000000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-y10Q4eZqER+MaW9Ei0Q1kGGJjgSuX+CCd0Dml3HJJMY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y10Q4eZqER+MaW9Ei0Q1kGGJjgSuX+CCd0Dml3HJJMY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y10Q4eZqER+MaW9Ei0Q1kGGJjgSuX+CCd0Dml3HJJMY="
+    }
+  },
+  "version": "1.0"
+}

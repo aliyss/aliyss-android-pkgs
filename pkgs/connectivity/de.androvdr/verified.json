@@ -1,0 +1,8 @@
+{
+  "package": "de.androvdr",
+  "signerFingerprints": [
+    "26:8A:67:38:11:4A:67:32:46:97:30:B2:02:8C:2B:C9:DE:5D:87:B7:53:3F:85:56:66:80:6E:7D:29:60:93:FA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

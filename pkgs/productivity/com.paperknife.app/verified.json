@@ -1,0 +1,8 @@
+{
+  "package": "com.paperknife.app",
+  "signerFingerprints": [
+    "AE:E9:5E:35:A2:47:E9:FB:0F:E0:B4:1C:09:77:F8:89:B7:33:C3:89:88:C2:D1:C6:80:F7:14:E3:18:C1:E9:76"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

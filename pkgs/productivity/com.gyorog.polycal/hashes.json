@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gyorog.polycal_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-P7pd9xjk5h9kcHLg9Z6Ie53oRiws4sigeWAPz+wkBA8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P7pd9xjk5h9kcHLg9Z6Ie53oRiws4sigeWAPz+wkBA8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P7pd9xjk5h9kcHLg9Z6Ie53oRiws4sigeWAPz+wkBA8="
+    }
+  },
+  "version": "1.7"
+}

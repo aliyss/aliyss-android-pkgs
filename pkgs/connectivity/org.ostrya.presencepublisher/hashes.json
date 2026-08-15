@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ostrya.presencepublisher_59.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8UFn/arFlAz6KWZeG0z1YcEfUSDZGt+b7WSp5Uwopcs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8UFn/arFlAz6KWZeG0z1YcEfUSDZGt+b7WSp5Uwopcs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8UFn/arFlAz6KWZeG0z1YcEfUSDZGt+b7WSp5Uwopcs="
+    }
+  },
+  "version": "2.7.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "anonvpn.anon_next.android_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-L0g5zNtuLmN65j6uNQTMOc8dNxkkPLPClQUnNCB/hJ4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-L0g5zNtuLmN65j6uNQTMOc8dNxkkPLPClQUnNCB/hJ4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-L0g5zNtuLmN65j6uNQTMOc8dNxkkPLPClQUnNCB/hJ4="
+    }
+  },
+  "version": "00.00.022"
+}

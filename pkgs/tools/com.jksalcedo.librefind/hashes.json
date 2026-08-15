@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jksalcedo.librefind_10100300.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-S8Mat66Xl34yDN220CS6Xv4ZYIBGnelduR4Q5mJJypc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S8Mat66Xl34yDN220CS6Xv4ZYIBGnelduR4Q5mJJypc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S8Mat66Xl34yDN220CS6Xv4ZYIBGnelduR4Q5mJJypc="
+    }
+  },
+  "version": "1.1.0"
+}

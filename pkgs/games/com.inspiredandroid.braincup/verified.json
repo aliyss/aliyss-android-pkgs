@@ -1,0 +1,8 @@
+{
+  "package": "com.inspiredandroid.braincup",
+  "signerFingerprints": [
+    "51:DB:6C:AA:95:4A:13:51:2F:74:40:5A:63:1D:7C:51:F4:BF:AD:7D:81:07:1A:2D:9F:B2:C8:90:49:51:D9:89"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

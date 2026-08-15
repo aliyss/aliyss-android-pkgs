@@ -1,0 +1,18 @@
+{
+  "apkName": "com.musheer360.swiftslate_218.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s0IozczLk3ALbArww1UK8B8qXhpMpC4mJWfFWRimv1A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s0IozczLk3ALbArww1UK8B8qXhpMpC4mJWfFWRimv1A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s0IozczLk3ALbArww1UK8B8qXhpMpC4mJWfFWRimv1A="
+    }
+  },
+  "version": "1.0.75"
+}

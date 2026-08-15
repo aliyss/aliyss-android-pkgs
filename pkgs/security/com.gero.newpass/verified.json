@@ -1,0 +1,8 @@
+{
+  "package": "com.gero.newpass",
+  "signerFingerprints": [
+    "0D:FA:8F:27:F7:EC:26:3C:D5:7E:DC:44:94:53:4F:05:19:7C:6B:F7:F3:DB:83:0C:B6:53:2F:0D:4D:D0:6E:E3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.nighthawkapps.wallet.android",
+  "signerFingerprints": [
+    "7F:6C:9E:75:83:F0:2D:B9:33:58:C2:82:5E:F6:F6:0B:6E:D3:02:46:18:D7:85:BA:F0:90:0D:11:4E:5C:79:B5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

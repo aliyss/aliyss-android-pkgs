@@ -1,0 +1,8 @@
+{
+  "package": "org.thosp.yourlocalweather",
+  "signerFingerprints": [
+    "90:80:54:9D:A0:30:FE:1E:A2:D5:86:DE:56:AA:5D:F0:85:FD:86:BE:17:45:7F:D1:85:54:8D:44:1E:BF:89:28"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

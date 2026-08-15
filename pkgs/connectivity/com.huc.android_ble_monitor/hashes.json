@@ -1,0 +1,18 @@
+{
+  "apkName": "com.huc.android_ble_monitor_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QhKHhBJUzLeOk73JZsq10sdQjA3VDYGyexlZqj1vmg0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QhKHhBJUzLeOk73JZsq10sdQjA3VDYGyexlZqj1vmg0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QhKHhBJUzLeOk73JZsq10sdQjA3VDYGyexlZqj1vmg0="
+    }
+  },
+  "version": "1.0.0"
+}

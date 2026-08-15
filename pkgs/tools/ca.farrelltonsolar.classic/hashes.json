@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.farrelltonsolar.classic_314.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LXZ82zAfw8ui0XQ0ksbjoz9pk0sjFvEpUZds82kPewI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LXZ82zAfw8ui0XQ0ksbjoz9pk0sjFvEpUZds82kPewI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LXZ82zAfw8ui0XQ0ksbjoz9pk0sjFvEpUZds82kPewI="
+    }
+  },
+  "version": "3.1.4"
+}

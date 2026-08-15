@@ -1,0 +1,18 @@
+{
+  "apkName": "com.learntube.app_1009.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T8HbmOGJ/BO70GFM6SnE8JXyAAk/ZPY3R6TLJ0A7osQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T8HbmOGJ/BO70GFM6SnE8JXyAAk/ZPY3R6TLJ0A7osQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T8HbmOGJ/BO70GFM6SnE8JXyAAk/ZPY3R6TLJ0A7osQ="
+    }
+  },
+  "version": "0.28.4"
+}

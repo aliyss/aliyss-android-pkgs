@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fossify.calendar_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KsvUf6Krxt1IRuQG7S/WDFwBuGExWNEOASE1kj7iSJQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KsvUf6Krxt1IRuQG7S/WDFwBuGExWNEOASE1kj7iSJQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KsvUf6Krxt1IRuQG7S/WDFwBuGExWNEOASE1kj7iSJQ="
+    }
+  },
+  "version": "1.10.3"
+}

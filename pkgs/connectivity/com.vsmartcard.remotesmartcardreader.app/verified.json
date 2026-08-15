@@ -1,0 +1,8 @@
+{
+  "package": "com.vsmartcard.remotesmartcardreader.app",
+  "signerFingerprints": [
+    "55:71:15:96:7E:AB:3A:60:23:E1:FA:2E:A5:F7:E3:CF:23:71:88:E0:21:CA:30:29:AB:1D:88:D2:11:F4:48:09"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.traseapps.simplestNotes_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pFjvm/p4yD1bSmZ6uRy0g/vdijY3YHy5jc3UMPQB/8s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pFjvm/p4yD1bSmZ6uRy0g/vdijY3YHy5jc3UMPQB/8s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pFjvm/p4yD1bSmZ6uRy0g/vdijY3YHy5jc3UMPQB/8s="
+    }
+  },
+  "version": "1.0.3"
+}

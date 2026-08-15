@@ -1,0 +1,8 @@
+{
+  "package": "dev.pgaxis.musicaxs",
+  "signerFingerprints": [
+    "FF:2F:2C:3A:37:04:6A:9F:52:BF:73:D0:F6:D5:38:92:7D:C2:BE:0B:30:A4:90:1B:48:EA:10:77:4A:1F:A2:0D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.faltenreich.diaguard",
+  "signerFingerprints": [
+    "6F:67:B5:55:A0:FA:64:C4:F0:F1:6C:85:FA:57:96:E4:07:E9:F9:97:7D:B3:54:06:E6:2E:0F:42:34:60:45:CD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.stoutner.privacycell",
+  "signerFingerprints": [
+    "D7:28:59:59:D2:60:1F:13:EA:75:B9:DB:23:66:1D:E4:A7:CE:04:18:09:87:E8:9C:7C:CB:23:68:BE:08:55:AE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.poretsky.tuningfork",
+  "signerFingerprints": [
+    "83:D7:71:55:12:3E:62:CE:B4:1F:CD:89:6C:79:B1:80:B7:A2:E2:5D:B2:CB:29:90:E2:34:19:2E:78:12:74:90"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

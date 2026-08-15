@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.zwander.installwithoptions_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5EjrKXczt6GUsn9HtQLyrhTRe5fpi3mZJes9wOFfk38="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5EjrKXczt6GUsn9HtQLyrhTRe5fpi3mZJes9wOFfk38="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5EjrKXczt6GUsn9HtQLyrhTRe5fpi3mZJes9wOFfk38="
+    }
+  },
+  "version": "0.9.2"
+}

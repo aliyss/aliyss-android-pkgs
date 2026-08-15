@@ -1,0 +1,18 @@
+{
+  "apkName": "tech.techlore.plexus_221.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vVcVSQHNVNfFV9GpOSXDbHNxzKslU6bariC6C8f/bZU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vVcVSQHNVNfFV9GpOSXDbHNxzKslU6bariC6C8f/bZU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vVcVSQHNVNfFV9GpOSXDbHNxzKslU6bariC6C8f/bZU="
+    }
+  },
+  "version": "2.2.1"
+}

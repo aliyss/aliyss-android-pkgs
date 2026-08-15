@@ -1,0 +1,8 @@
+{
+  "package": "org.cagnulein.qzcompanionnordictracktreadmill",
+  "signerFingerprints": [
+    "15:4A:DD:74:15:A9:D7:63:5A:A3:8C:10:99:39:C8:D0:8E:E6:ED:7F:DF:00:27:B8:4B:F7:FC:B0:C8:E5:02:62"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.libopenmw.openmw",
+  "signerFingerprints": [
+    "F1:A4:49:F5:98:E6:6E:E6:93:A0:86:8E:6E:60:93:A7:D1:12:11:6B:E1:EB:BE:48:DF:E8:4A:1F:61:D7:65:BF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

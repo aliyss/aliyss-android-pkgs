@@ -1,0 +1,8 @@
+{
+  "package": "io.github.ratul.topactivity",
+  "signerFingerprints": [
+    "09:25:2C:35:33:C4:37:89:57:D2:2E:AD:91:65:DB:D9:1F:B2:52:11:9E:7F:CE:7E:B5:95:DC:CA:6C:4B:67:48"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

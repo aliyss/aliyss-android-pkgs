@@ -1,0 +1,8 @@
+{
+  "package": "es.pile",
+  "signerFingerprints": [
+    "FA:22:5F:05:52:C1:0C:23:B4:D9:32:CE:3A:55:DD:9B:B6:D8:8D:2F:7E:1C:FE:62:73:31:BF:3D:57:94:54:FC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

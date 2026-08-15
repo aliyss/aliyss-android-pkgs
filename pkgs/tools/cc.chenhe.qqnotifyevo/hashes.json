@@ -1,0 +1,18 @@
+{
+  "apkName": "cc.chenhe.qqnotifyevo_20116.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aWEKxrovpmItG+kBVsUe5YPvoNqUeIb/toRskyQY8dE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aWEKxrovpmItG+kBVsUe5YPvoNqUeIb/toRskyQY8dE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aWEKxrovpmItG+kBVsUe5YPvoNqUeIb/toRskyQY8dE="
+    }
+  },
+  "version": "3.0.1"
+}

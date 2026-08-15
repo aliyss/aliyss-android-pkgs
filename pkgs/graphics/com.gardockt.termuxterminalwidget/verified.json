@@ -1,0 +1,8 @@
+{
+  "package": "com.gardockt.termuxterminalwidget",
+  "signerFingerprints": [
+    "42:87:52:DB:FC:C0:3A:6B:FC:9E:E8:CC:78:25:6F:BD:13:BE:12:65:F5:D3:7B:62:43:86:68:53:6F:AC:68:03"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

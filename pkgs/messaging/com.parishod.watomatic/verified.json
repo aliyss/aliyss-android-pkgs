@@ -1,0 +1,8 @@
+{
+  "package": "com.parishod.watomatic",
+  "signerFingerprints": [
+    "4D:DA:A5:03:4E:74:C1:97:30:10:70:BB:AB:E4:73:2A:2E:F2:98:58:60:8E:23:58:20:24:28:F4:F6:AA:58:3C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

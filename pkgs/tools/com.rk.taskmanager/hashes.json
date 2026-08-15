@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rk.taskmanager_52.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-02u21TpfPxBBV2TSJJ5rqxAcogDqhE9UibtTeB/EGAQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-02u21TpfPxBBV2TSJJ5rqxAcogDqhE9UibtTeB/EGAQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-02u21TpfPxBBV2TSJJ5rqxAcogDqhE9UibtTeB/EGAQ="
+    }
+  },
+  "version": "1.5.2"
+}

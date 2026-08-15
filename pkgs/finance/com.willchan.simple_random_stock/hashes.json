@@ -1,0 +1,18 @@
+{
+  "apkName": "com.willchan.simple_random_stock_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yDz3kSTenVAgk8Cx9kMC2N9njBq1ElkE2Sd3HZznC+w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yDz3kSTenVAgk8Cx9kMC2N9njBq1ElkE2Sd3HZznC+w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yDz3kSTenVAgk8Cx9kMC2N9njBq1ElkE2Sd3HZznC+w="
+    }
+  },
+  "version": "1.2.0"
+}

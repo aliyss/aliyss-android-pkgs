@@ -1,0 +1,18 @@
+{
+  "apkName": "app.pachli_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-R30rXZaxa30uAb6SZILiM2SMgi/CARDjXd8pi7hlIV0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R30rXZaxa30uAb6SZILiM2SMgi/CARDjXd8pi7hlIV0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R30rXZaxa30uAb6SZILiM2SMgi/CARDjXd8pi7hlIV0="
+    }
+  },
+  "version": "3.8.0"
+}

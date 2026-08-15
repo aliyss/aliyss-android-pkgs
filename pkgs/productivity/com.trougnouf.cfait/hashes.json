@@ -1,0 +1,18 @@
+{
+  "apkName": "com.trougnouf.cfait_10104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-z0cw28d119JNnJhFDnjnywSnre7GOrehSUXaD0CzLZE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z0cw28d119JNnJhFDnjnywSnre7GOrehSUXaD0CzLZE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z0cw28d119JNnJhFDnjnywSnre7GOrehSUXaD0CzLZE="
+    }
+  },
+  "version": "1.1.4"
+}

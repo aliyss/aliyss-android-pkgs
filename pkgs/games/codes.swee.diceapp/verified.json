@@ -1,0 +1,8 @@
+{
+  "package": "codes.swee.diceapp",
+  "signerFingerprints": [
+    "2B:F0:00:FA:FF:C6:3A:1E:3E:7B:81:EB:27:C3:5F:09:9B:90:E6:58:2A:81:8A:58:D1:47:C8:9C:3A:DB:1C:37"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

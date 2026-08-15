@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aurora.warden_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/i7SB361jA2LutIIZPywzgT5bh1WzfIL/gy6TDRakO0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/i7SB361jA2LutIIZPywzgT5bh1WzfIL/gy6TDRakO0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/i7SB361jA2LutIIZPywzgT5bh1WzfIL/gy6TDRakO0="
+    }
+  },
+  "version": "1.0.3"
+}

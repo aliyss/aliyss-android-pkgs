@@ -1,0 +1,18 @@
+{
+  "apkName": "com.biohazard786.quickupi_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9SdaiK0MEL2J2vB0hVyOhYy40QtAJT+NugA0dvTo8gk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9SdaiK0MEL2J2vB0hVyOhYy40QtAJT+NugA0dvTo8gk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9SdaiK0MEL2J2vB0hVyOhYy40QtAJT+NugA0dvTo8gk="
+    }
+  },
+  "version": "1.2.0"
+}

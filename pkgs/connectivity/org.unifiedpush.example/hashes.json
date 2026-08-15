@@ -1,0 +1,18 @@
+{
+  "apkName": "org.unifiedpush.example_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0inJTrDAuMcD5QU3UhfMudnCfL2cfT3HJ6rZJZsFz2g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0inJTrDAuMcD5QU3UhfMudnCfL2cfT3HJ6rZJZsFz2g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0inJTrDAuMcD5QU3UhfMudnCfL2cfT3HJ6rZJZsFz2g="
+    }
+  },
+  "version": "2.3.0-rc1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.phstudio.freetv",
+  "signerFingerprints": [
+    "E6:80:EB:6B:AB:F7:01:DD:2F:00:93:03:AE:A9:29:8E:57:AA:94:C5:6F:5F:E8:1F:9E:55:22:2B:BA:7E:B6:4C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

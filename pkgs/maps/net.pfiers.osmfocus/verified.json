@@ -1,0 +1,8 @@
+{
+  "package": "net.pfiers.osmfocus",
+  "signerFingerprints": [
+    "6F:30:54:21:4A:2F:43:86:BF:E5:35:26:5E:F0:7B:65:E4:7B:4F:96:CE:DF:16:54:90:6E:A2:E4:0F:E5:3B:89"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

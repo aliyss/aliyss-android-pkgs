@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.sommd.automute_106002000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SoMzE6a1dCwnHaw/WFv+yLSAXETmeF+2IO2kuIU4gHk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SoMzE6a1dCwnHaw/WFv+yLSAXETmeF+2IO2kuIU4gHk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SoMzE6a1dCwnHaw/WFv+yLSAXETmeF+2IO2kuIU4gHk="
+    }
+  },
+  "version": "1.6.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.gracethings.bubblenotice",
+  "signerFingerprints": [
+    "0E:3C:BE:F3:F3:D9:E3:00:1C:C6:42:5C:1F:F0:1F:97:83:E1:22:D4:0F:77:CA:8E:B9:6B:93:8B:41:65:6B:04"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

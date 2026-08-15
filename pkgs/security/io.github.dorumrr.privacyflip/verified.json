@@ -1,0 +1,8 @@
+{
+  "package": "io.github.dorumrr.privacyflip",
+  "signerFingerprints": [
+    "67:BD:90:CA:F5:7E:BC:3C:94:7F:03:7C:B2:62:EB:F6:BD:18:82:93:DB:C9:07:C9:2D:51:92:4F:CF:2B:99:75"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

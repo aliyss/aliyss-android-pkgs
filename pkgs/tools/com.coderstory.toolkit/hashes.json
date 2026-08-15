@@ -1,0 +1,18 @@
+{
+  "apkName": "com.coderstory.toolkit_2047.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-G9xH1bSK//03lIqfVjiual89TQLKAa42FDWIKEuXmZY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G9xH1bSK//03lIqfVjiual89TQLKAa42FDWIKEuXmZY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G9xH1bSK//03lIqfVjiual89TQLKAa42FDWIKEuXmZY="
+    }
+  },
+  "version": "4.9"
+}

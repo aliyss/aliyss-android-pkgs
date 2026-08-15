@@ -1,0 +1,18 @@
+{
+  "apkName": "com.michaldrabik.showly2_923.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tWz6FBCz6EdGakA1C2zSxu8ly5faMCSnfT0+3EzkYFs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tWz6FBCz6EdGakA1C2zSxu8ly5faMCSnfT0+3EzkYFs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tWz6FBCz6EdGakA1C2zSxu8ly5faMCSnfT0+3EzkYFs="
+    }
+  },
+  "version": "3.58.1"
+}

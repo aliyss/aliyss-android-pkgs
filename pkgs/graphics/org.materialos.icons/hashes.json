@@ -1,0 +1,18 @@
+{
+  "apkName": "org.materialos.icons_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4MSlP6eDScsD30ZYe3HkcflHvmKwvSw1leO/ssPK/DI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4MSlP6eDScsD30ZYe3HkcflHvmKwvSw1leO/ssPK/DI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4MSlP6eDScsD30ZYe3HkcflHvmKwvSw1leO/ssPK/DI="
+    }
+  },
+  "version": "2.1"
+}

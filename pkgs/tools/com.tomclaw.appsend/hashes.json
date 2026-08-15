@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tomclaw.appsend_1174.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NbzrKJQ4gK0VWxV/jJVobD5tDAHp5iHRQ1DFvuHgxlE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NbzrKJQ4gK0VWxV/jJVobD5tDAHp5iHRQ1DFvuHgxlE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NbzrKJQ4gK0VWxV/jJVobD5tDAHp5iHRQ1DFvuHgxlE="
+    }
+  },
+  "version": "23.0"
+}

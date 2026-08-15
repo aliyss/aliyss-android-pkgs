@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.cmcdaniel.localcrop_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rxqbg7BiDlEMvwqc0qwQ2f1P2Lm/m0tDjsfo55pQ5Sc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rxqbg7BiDlEMvwqc0qwQ2f1P2Lm/m0tDjsfo55pQ5Sc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rxqbg7BiDlEMvwqc0qwQ2f1P2Lm/m0tDjsfo55pQ5Sc="
+    }
+  },
+  "version": "1.1.0"
+}

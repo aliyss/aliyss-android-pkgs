@@ -1,0 +1,18 @@
+{
+  "apkName": "moe.haruue.wadb_212.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0UAODclsYWa8cdMDC4QN4wJ3J/6qDj/2Gx+bI2M7ch4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0UAODclsYWa8cdMDC4QN4wJ3J/6qDj/2Gx+bI2M7ch4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0UAODclsYWa8cdMDC4QN4wJ3J/6qDj/2Gx+bI2M7ch4="
+    }
+  },
+  "version": "7.0.0.r212.65458e8"
+}

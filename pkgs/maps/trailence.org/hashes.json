@@ -1,0 +1,18 @@
+{
+  "apkName": "trailence.org_20200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7a84H0715CEk3XTbWT032IAEbZIZGwfQvGCbeqwRUng="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7a84H0715CEk3XTbWT032IAEbZIZGwfQvGCbeqwRUng="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7a84H0715CEk3XTbWT032IAEbZIZGwfQvGCbeqwRUng="
+    }
+  },
+  "version": "2.2.0"
+}

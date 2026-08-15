@@ -1,0 +1,8 @@
+{
+  "package": "com.ivarna.fluxlinux",
+  "signerFingerprints": [
+    "34:F0:11:66:0E:5B:B7:14:0D:E5:45:2E:16:9E:13:99:FD:0E:65:86:74:6D:AA:54:31:D2:9D:63:7F:6D:1A:3C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

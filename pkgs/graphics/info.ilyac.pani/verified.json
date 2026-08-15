@@ -1,0 +1,8 @@
+{
+  "package": "info.ilyac.pani",
+  "signerFingerprints": [
+    "6A:7E:54:A8:6B:EE:7B:3A:98:40:BB:CA:79:64:AC:DA:18:FF:D4:70:DC:61:5A:24:EC:53:83:97:F8:90:E9:29"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

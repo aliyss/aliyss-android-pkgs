@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.muntashirakon.bcl_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GpVKgRDkwL846bY2rdLh9r0pqWQcHagvQI2S+obn9Ts="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GpVKgRDkwL846bY2rdLh9r0pqWQcHagvQI2S+obn9Ts="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GpVKgRDkwL846bY2rdLh9r0pqWQcHagvQI2S+obn9Ts="
+    }
+  },
+  "version": "1.1.0"
+}

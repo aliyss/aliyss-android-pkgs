@@ -1,0 +1,18 @@
+{
+  "apkName": "com.arslandaim.omegaplayer_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-axw6M2gGzd9TDfMqY92Wlcd8kInQr/ofedC/ViuLO0c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-axw6M2gGzd9TDfMqY92Wlcd8kInQr/ofedC/ViuLO0c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-axw6M2gGzd9TDfMqY92Wlcd8kInQr/ofedC/ViuLO0c="
+    }
+  },
+  "version": "1.1.5"
+}

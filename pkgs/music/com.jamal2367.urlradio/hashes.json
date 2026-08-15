@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jamal2367.urlradio_128.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FcfpwuUStkb/gZH95Ji7LH/KOAI+T20EhNTwQ8FkPW8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FcfpwuUStkb/gZH95Ji7LH/KOAI+T20EhNTwQ8FkPW8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FcfpwuUStkb/gZH95Ji7LH/KOAI+T20EhNTwQ8FkPW8="
+    }
+  },
+  "version": "12.8"
+}

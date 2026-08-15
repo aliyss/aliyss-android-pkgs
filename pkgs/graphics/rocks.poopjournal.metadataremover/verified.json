@@ -1,0 +1,8 @@
+{
+  "package": "rocks.poopjournal.metadataremover",
+  "signerFingerprints": [
+    "E2:26:02:FF:3F:80:D2:7B:2F:63:B8:D4:1B:FE:D0:FF:3D:61:0C:B5:5B:6E:CC:7A:B7:56:FF:8B:3B:51:61:DA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

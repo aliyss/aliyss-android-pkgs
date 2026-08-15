@@ -1,0 +1,8 @@
+{
+  "package": "com.enjoyingfoss.om",
+  "signerFingerprints": [
+    "5A:C2:62:B8:81:8E:9E:6C:9B:A1:4E:FF:6C:9E:C9:23:05:F8:85:22:89:DE:FA:51:5F:25:34:11:18:7F:C9:85"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

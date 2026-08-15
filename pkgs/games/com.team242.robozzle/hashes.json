@@ -1,0 +1,18 @@
+{
+  "apkName": "com.team242.robozzle_61.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gpLJfvncmtM9psl8NZjYY/9UZ//5Cs6kLlunr1S4w34="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gpLJfvncmtM9psl8NZjYY/9UZ//5Cs6kLlunr1S4w34="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gpLJfvncmtM9psl8NZjYY/9UZ//5Cs6kLlunr1S4w34="
+    }
+  },
+  "version": "0.4.3.54"
+}

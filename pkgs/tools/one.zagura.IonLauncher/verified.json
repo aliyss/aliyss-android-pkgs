@@ -1,0 +1,8 @@
+{
+  "package": "one.zagura.IonLauncher",
+  "signerFingerprints": [
+    "5D:D9:78:3F:C4:2D:F0:C5:DA:B9:98:EC:D6:B2:1F:2C:30:08:B0:32:6B:6C:F1:BC:B6:B9:44:73:32:EF:66:DB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

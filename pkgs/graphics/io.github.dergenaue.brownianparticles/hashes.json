@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.dergenaue.brownianparticles_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1V6tKwvE1ilW8Q12lVHBONdtHq/gTftHIIDgO6HfKz0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1V6tKwvE1ilW8Q12lVHBONdtHq/gTftHIIDgO6HfKz0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1V6tKwvE1ilW8Q12lVHBONdtHq/gTftHIIDgO6HfKz0="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.duenndns.gmdice_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SvOvzOY200PMu5aWAztuZwvNy5TyZ8MlHnM7w6KvbKo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SvOvzOY200PMu5aWAztuZwvNy5TyZ8MlHnM7w6KvbKo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SvOvzOY200PMu5aWAztuZwvNy5TyZ8MlHnM7w6KvbKo="
+    }
+  },
+  "version": "1.2-3-g973297a"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xmrchat.xmrpod_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DkzqekyCtZfk5dEc/VmK+FZo1mwUbyXTbAVuKqKqz1s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DkzqekyCtZfk5dEc/VmK+FZo1mwUbyXTbAVuKqKqz1s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DkzqekyCtZfk5dEc/VmK+FZo1mwUbyXTbAVuKqKqz1s="
+    }
+  },
+  "version": "0.1.11"
+}

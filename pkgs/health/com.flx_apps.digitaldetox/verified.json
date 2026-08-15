@@ -1,0 +1,8 @@
+{
+  "package": "com.flx_apps.digitaldetox",
+  "signerFingerprints": [
+    "03:A7:94:A0:CA:36:00:72:72:CA:43:3E:25:92:C3:87:CD:5C:B2:61:90:7F:96:E8:50:72:9A:58:A0:28:CE:BE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

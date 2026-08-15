@@ -1,0 +1,18 @@
+{
+  "apkName": "com.elsdoerfer.android.autostarts_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KmXHQ6UrGqCBKNjAbh3xi8liG7hfdBdbG9ovaYCwnWI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KmXHQ6UrGqCBKNjAbh3xi8liG7hfdBdbG9ovaYCwnWI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KmXHQ6UrGqCBKNjAbh3xi8liG7hfdBdbG9ovaYCwnWI="
+    }
+  },
+  "version": "2.0.0"
+}

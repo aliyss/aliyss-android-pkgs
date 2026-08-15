@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dev.tunedetectivex_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TGezA1yAwlfiyKqdTxluR236m8ipG5XcGPu1kJybedE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TGezA1yAwlfiyKqdTxluR236m8ipG5XcGPu1kJybedE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TGezA1yAwlfiyKqdTxluR236m8ipG5XcGPu1kJybedE="
+    }
+  },
+  "version": "1.6-github"
+}

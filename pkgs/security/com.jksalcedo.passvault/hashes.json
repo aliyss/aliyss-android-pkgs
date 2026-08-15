@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jksalcedo.passvault_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-p1Kje4NwwTiTP9UK+0CVAiV5LpVivVC53fOi3Atg590="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p1Kje4NwwTiTP9UK+0CVAiV5LpVivVC53fOi3Atg590="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p1Kje4NwwTiTP9UK+0CVAiV5LpVivVC53fOi3Atg590="
+    }
+  },
+  "version": "2.2.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.isaiahvonrundstedt.fokus",
+  "signerFingerprints": [
+    "98:92:5C:35:29:B3:74:52:8D:4D:EB:63:F3:FC:03:78:65:FE:A7:D2:94:23:FF:84:9D:24:F9:66:25:0F:12:DA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

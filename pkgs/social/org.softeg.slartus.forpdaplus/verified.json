@@ -1,0 +1,8 @@
+{
+  "package": "org.softeg.slartus.forpdaplus",
+  "signerFingerprints": [
+    "BC:DF:DB:F3:C7:68:BC:DC:58:AC:4B:E6:A0:49:16:DB:AA:07:25:EF:23:1F:C6:17:F5:FA:18:E9:0A:FB:79:78"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "helium314.localbackend_43.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YcUrlQK5WftDJP+kAGPeM80l9HXBXMICQGAX/31cA/E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YcUrlQK5WftDJP+kAGPeM80l9HXBXMICQGAX/31cA/E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YcUrlQK5WftDJP+kAGPeM80l9HXBXMICQGAX/31cA/E="
+    }
+  },
+  "version": "1.2.15"
+}

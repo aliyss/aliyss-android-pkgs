@@ -1,0 +1,18 @@
+{
+  "apkName": "org.wbftw.weil.sos_flashlight_10003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rNLSM+EvIVlxSqewiiAIbjev237X3p3krTj5B3a9hMQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rNLSM+EvIVlxSqewiiAIbjev237X3p3krTj5B3a9hMQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rNLSM+EvIVlxSqewiiAIbjev237X3p3krTj5B3a9hMQ="
+    }
+  },
+  "version": "1.0.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "app.tujice.jergasColombia",
+  "signerFingerprints": [
+    "99:B5:18:00:AD:F0:44:9D:C7:4E:FE:14:FD:1A:D9:C9:B1:E1:05:41:F8:68:99:03:8E:CC:0C:36:4F:52:0E:AA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ogz.tripeaks_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EVs4aVP0y8JgzJe+TnTEQaD9XeWMMG0oimYrssNScIY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EVs4aVP0y8JgzJe+TnTEQaD9XeWMMG0oimYrssNScIY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EVs4aVP0y8JgzJe+TnTEQaD9XeWMMG0oimYrssNScIY="
+    }
+  },
+  "version": "1.2.3"
+}

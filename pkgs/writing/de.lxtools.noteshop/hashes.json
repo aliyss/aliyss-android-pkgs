@@ -1,0 +1,18 @@
+{
+  "apkName": "de.lxtools.noteshop_178.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-agfJWu5PLAsa10YUNYobv8xN7xUxcOYtM49BjXERNjM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-agfJWu5PLAsa10YUNYobv8xN7xUxcOYtM49BjXERNjM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-agfJWu5PLAsa10YUNYobv8xN7xUxcOYtM49BjXERNjM="
+    }
+  },
+  "version": "0.1.178"
+}

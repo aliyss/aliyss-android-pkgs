@@ -1,0 +1,18 @@
+{
+  "apkName": "v4lpt.vpt.f006.yxn_102.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Hn7ZdSzXCLAkLfYfb6H0ZJV8E9nFEXtTGLO+K+42+I0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hn7ZdSzXCLAkLfYfb6H0ZJV8E9nFEXtTGLO+K+42+I0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hn7ZdSzXCLAkLfYfb6H0ZJV8E9nFEXtTGLO+K+42+I0="
+    }
+  },
+  "version": "1.0.2"
+}

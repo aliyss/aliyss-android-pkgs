@@ -1,0 +1,8 @@
+{
+  "package": "com.cointrend",
+  "signerFingerprints": [
+    "7C:D9:21:B8:1B:45:55:21:15:98:4F:BD:84:1B:00:E1:1E:A8:D7:B5:B5:BD:E6:22:30:E5:BB:08:50:53:59:9A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

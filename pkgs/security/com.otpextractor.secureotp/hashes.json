@@ -1,0 +1,18 @@
+{
+  "apkName": "com.otpextractor.secureotp_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EKzrfo7aFiKH+/81B7XSzk+nXibX4w5Y+3Ay874pFjQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EKzrfo7aFiKH+/81B7XSzk+nXibX4w5Y+3Ay874pFjQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EKzrfo7aFiKH+/81B7XSzk+nXibX4w5Y+3Ay874pFjQ="
+    }
+  },
+  "version": "1.0.4"
+}

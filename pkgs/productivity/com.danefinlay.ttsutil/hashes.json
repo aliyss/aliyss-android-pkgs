@@ -1,0 +1,18 @@
+{
+  "apkName": "com.danefinlay.ttsutil_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-W49bNe2mzQoZaPQoeAIf/rwH4L0a+LXvXl6NwOOIiZs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W49bNe2mzQoZaPQoeAIf/rwH4L0a+LXvXl6NwOOIiZs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W49bNe2mzQoZaPQoeAIf/rwH4L0a+LXvXl6NwOOIiZs="
+    }
+  },
+  "version": "4.1.1"
+}

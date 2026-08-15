@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.umercodez.sensorspot_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IFQI6/uVdpyXIC9MqMs20pr+XiBYuDpEZaZMUq6Mdrw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IFQI6/uVdpyXIC9MqMs20pr+XiBYuDpEZaZMUq6Mdrw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IFQI6/uVdpyXIC9MqMs20pr+XiBYuDpEZaZMUq6Mdrw="
+    }
+  },
+  "version": "1.16.0"
+}

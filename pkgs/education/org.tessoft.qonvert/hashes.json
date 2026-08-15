@@ -1,0 +1,18 @@
+{
+  "apkName": "org.tessoft.qonvert_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-R6pjZ4+umn9NjhEcomPFpTcW4+7yk4VWMX1b6q5hHBE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R6pjZ4+umn9NjhEcomPFpTcW4+7yk4VWMX1b6q5hHBE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R6pjZ4+umn9NjhEcomPFpTcW4+7yk4VWMX1b6q5hHBE="
+    }
+  },
+  "version": "1.8.0"
+}

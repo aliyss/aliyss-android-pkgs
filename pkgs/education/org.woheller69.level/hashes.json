@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.level_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+oAoxNcyPmR1dIa6uh7q9uPH+f9DSa6EsNiP4qj1Qow="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+oAoxNcyPmR1dIa6uh7q9uPH+f9DSa6EsNiP4qj1Qow="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+oAoxNcyPmR1dIa6uh7q9uPH+f9DSa6EsNiP4qj1Qow="
+    }
+  },
+  "version": "3.4"
+}

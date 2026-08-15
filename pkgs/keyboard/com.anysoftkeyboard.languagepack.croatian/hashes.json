@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.croatian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l3XNR17/S/+sgTrxwDG/KwCPXwuvKtxghw+TJokxcNQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l3XNR17/S/+sgTrxwDG/KwCPXwuvKtxghw+TJokxcNQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l3XNR17/S/+sgTrxwDG/KwCPXwuvKtxghw+TJokxcNQ="
+    }
+  },
+  "version": "5.1.6158"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "priv.wh201906.serialtest",
+  "signerFingerprints": [
+    "7F:42:A1:A5:69:FE:BF:93:26:E7:02:5E:1C:33:3F:B1:EC:55:06:E7:A3:F2:3A:F1:F0:05:3E:CB:DD:6F:A6:08"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

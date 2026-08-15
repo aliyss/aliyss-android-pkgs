@@ -1,0 +1,18 @@
+{
+  "apkName": "com.starry.greenstash_440.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fMSJ7cOvCig2cIRfIZbgiPRg76m+g3qHDAMzgN7+wOg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fMSJ7cOvCig2cIRfIZbgiPRg76m+g3qHDAMzgN7+wOg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fMSJ7cOvCig2cIRfIZbgiPRg76m+g3qHDAMzgN7+wOg="
+    }
+  },
+  "version": "4.4.0"
+}

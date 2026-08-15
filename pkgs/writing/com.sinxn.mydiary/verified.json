@@ -1,0 +1,8 @@
+{
+  "package": "com.sinxn.mydiary",
+  "signerFingerprints": [
+    "8A:A9:DC:F2:9E:DA:35:55:01:14:36:3D:71:51:12:D1:17:39:28:D7:DA:56:4C:61:FE:0C:C7:D7:72:1C:0C:12"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

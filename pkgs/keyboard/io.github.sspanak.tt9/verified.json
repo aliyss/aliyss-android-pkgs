@@ -1,0 +1,8 @@
+{
+  "package": "io.github.sspanak.tt9",
+  "signerFingerprints": [
+    "57:F0:9A:B8:DC:FE:DB:B6:3F:A3:09:36:2F:ED:BB:B0:D8:02:6C:AD:A8:B2:DC:78:FF:00:05:7F:98:C6:02:0B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

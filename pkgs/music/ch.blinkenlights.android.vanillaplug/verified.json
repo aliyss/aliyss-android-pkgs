@@ -1,0 +1,8 @@
+{
+  "package": "ch.blinkenlights.android.vanillaplug",
+  "signerFingerprints": [
+    "77:1B:04:CA:96:CA:11:F3:2B:34:80:92:9B:2C:41:7A:98:A9:90:1B:D9:F4:90:A4:67:5E:E2:46:D9:66:F5:BA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

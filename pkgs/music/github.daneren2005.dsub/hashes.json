@@ -1,0 +1,18 @@
+{
+  "apkName": "github.daneren2005.dsub_208.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RdkCBl8Q0cvFhvQHRAV2ThOXLjgJwxBVBpKi2pwPMDY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RdkCBl8Q0cvFhvQHRAV2ThOXLjgJwxBVBpKi2pwPMDY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RdkCBl8Q0cvFhvQHRAV2ThOXLjgJwxBVBpKi2pwPMDY="
+    }
+  },
+  "version": "5.5.3"
+}

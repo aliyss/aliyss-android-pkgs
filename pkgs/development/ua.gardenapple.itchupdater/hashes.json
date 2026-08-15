@@ -1,0 +1,18 @@
+{
+  "apkName": "ua.gardenapple.itchupdater_20303.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WrGgo6BB78mXz6TeU9OcieGdoguCD8nj6R8BQma2Mu0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WrGgo6BB78mXz6TeU9OcieGdoguCD8nj6R8BQma2Mu0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WrGgo6BB78mXz6TeU9OcieGdoguCD8nj6R8BQma2Mu0="
+    }
+  },
+  "version": "2.3.3"
+}

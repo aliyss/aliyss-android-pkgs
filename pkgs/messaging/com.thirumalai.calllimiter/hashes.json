@@ -1,0 +1,18 @@
+{
+  "apkName": "com.thirumalai.calllimiter_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hS8CcHE+ig4ErEdl+RersQ8IZETbch/xyzOLwP6uZ/A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hS8CcHE+ig4ErEdl+RersQ8IZETbch/xyzOLwP6uZ/A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hS8CcHE+ig4ErEdl+RersQ8IZETbch/xyzOLwP6uZ/A="
+    }
+  },
+  "version": "0.3.9"
+}

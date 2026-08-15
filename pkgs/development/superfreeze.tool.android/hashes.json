@@ -1,0 +1,18 @@
+{
+  "apkName": "superfreeze.tool.android_1001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CavcpD013xcECQHjvKbW+Xy0qQx2hF0Bx6uasI9E0VI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CavcpD013xcECQHjvKbW+Xy0qQx2hF0Bx6uasI9E0VI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CavcpD013xcECQHjvKbW+Xy0qQx2hF0Bx6uasI9E0VI="
+    }
+  },
+  "version": "1.1"
+}

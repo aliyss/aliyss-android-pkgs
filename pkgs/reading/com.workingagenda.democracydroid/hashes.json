@@ -1,0 +1,18 @@
+{
+  "apkName": "com.workingagenda.democracydroid_56.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HAO+Msk/kxpkfcVnRm1dHNERcfvpBmrJqNgA7Dg0Ado="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HAO+Msk/kxpkfcVnRm1dHNERcfvpBmrJqNgA7Dg0Ado="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HAO+Msk/kxpkfcVnRm1dHNERcfvpBmrJqNgA7Dg0Ado="
+    }
+  },
+  "version": "4.3.0"
+}

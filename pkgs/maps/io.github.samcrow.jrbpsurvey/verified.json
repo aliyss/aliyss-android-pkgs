@@ -1,0 +1,8 @@
+{
+  "package": "io.github.samcrow.jrbpsurvey",
+  "signerFingerprints": [
+    "E9:91:6F:08:7D:97:52:A0:2D:4B:76:D7:57:31:0D:A5:59:18:87:A5:1E:7A:30:D0:F3:AC:52:49:3A:77:C3:08"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

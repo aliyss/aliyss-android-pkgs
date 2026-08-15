@@ -1,0 +1,8 @@
+{
+  "package": "org.quantumbadger.redreader",
+  "signerFingerprints": [
+    "19:9F:DB:F8:30:08:EC:CE:44:ED:FD:EE:F4:E1:A2:DD:1A:EF:D9:CA:0F:5C:39:5A:36:B4:7C:07:22:07:AC:2F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

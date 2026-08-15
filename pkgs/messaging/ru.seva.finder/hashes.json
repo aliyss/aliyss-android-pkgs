@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.seva.finder_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Cn+z/D7MBvexvb/1fkzMIyt36sLbmYytN+cKN80Nnbo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cn+z/D7MBvexvb/1fkzMIyt36sLbmYytN+cKN80Nnbo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cn+z/D7MBvexvb/1fkzMIyt36sLbmYytN+cKN80Nnbo="
+    }
+  },
+  "version": "2.4"
+}

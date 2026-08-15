@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ligi.passandroid_373.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Gy81+Z3/nCaBLDZQtsJ1TavYWwJNzWkubyw66mmLi9o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gy81+Z3/nCaBLDZQtsJ1TavYWwJNzWkubyw66mmLi9o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gy81+Z3/nCaBLDZQtsJ1TavYWwJNzWkubyw66mmLi9o="
+    }
+  },
+  "version": "3.7.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.goofwear.file85toolkit_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s2Rnyht6uszuGNCpvMjGMx9mD8tDKqCLxH4mTZnMWCg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s2Rnyht6uszuGNCpvMjGMx9mD8tDKqCLxH4mTZnMWCg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s2Rnyht6uszuGNCpvMjGMx9mD8tDKqCLxH4mTZnMWCg="
+    }
+  },
+  "version": "1.0.2"
+}

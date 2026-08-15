@@ -1,0 +1,8 @@
+{
+  "package": "org.purple.smoke",
+  "signerFingerprints": [
+    "84:83:A3:8B:A8:20:F4:7D:73:F6:33:F4:DE:54:E8:BA:06:6A:4E:6D:5C:9A:15:40:5E:DE:9A:AD:AA:9A:55:34"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

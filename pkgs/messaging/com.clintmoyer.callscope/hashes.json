@@ -1,0 +1,18 @@
+{
+  "apkName": "com.clintmoyer.callscope_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-J/P0I0ljNIsOqf1r9ZkJehjvb1O5PfsUe8l0Za3KBBg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J/P0I0ljNIsOqf1r9ZkJehjvb1O5PfsUe8l0Za3KBBg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J/P0I0ljNIsOqf1r9ZkJehjvb1O5PfsUe8l0Za3KBBg="
+    }
+  },
+  "version": "0.1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.adrianvictor.geleia_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+61Vwucla3dAxOve6AVUCBmAMb/EJU/qQQsQKloHJBA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+61Vwucla3dAxOve6AVUCBmAMb/EJU/qQQsQKloHJBA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+61Vwucla3dAxOve6AVUCBmAMb/EJU/qQQsQKloHJBA="
+    }
+  },
+  "version": "1.4.1"
+}

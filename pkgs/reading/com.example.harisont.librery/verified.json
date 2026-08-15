@@ -1,0 +1,8 @@
+{
+  "package": "com.example.harisont.librery",
+  "signerFingerprints": [
+    "7D:56:76:7A:22:BC:CC:00:50:26:9C:07:45:C9:95:A5:BB:EC:FF:EB:01:15:6D:93:27:8D:92:C5:FB:D3:6C:AC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

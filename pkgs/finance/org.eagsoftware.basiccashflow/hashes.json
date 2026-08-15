@@ -1,0 +1,18 @@
+{
+  "apkName": "org.eagsoftware.basiccashflow_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Fzm1RTXqaYT22YydzPzBm7eFj+Z5FS5Ep+jzXeF0wWU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Fzm1RTXqaYT22YydzPzBm7eFj+Z5FS5Ep+jzXeF0wWU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Fzm1RTXqaYT22YydzPzBm7eFj+Z5FS5Ep+jzXeF0wWU="
+    }
+  },
+  "version": "3.0"
+}

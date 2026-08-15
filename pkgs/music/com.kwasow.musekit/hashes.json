@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kwasow.musekit_1721768604.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uSvA+VCm1G1zveI0q0AcULXuwxtUYBY5iDXDAQHa/M4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uSvA+VCm1G1zveI0q0AcULXuwxtUYBY5iDXDAQHa/M4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uSvA+VCm1G1zveI0q0AcULXuwxtUYBY5iDXDAQHa/M4="
+    }
+  },
+  "version": "3.0.0"
+}

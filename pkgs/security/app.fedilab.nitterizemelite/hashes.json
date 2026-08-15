@@ -1,0 +1,18 @@
+{
+  "apkName": "app.fedilab.nitterizemelite_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MK5AYR9fu84HcuPCbUED2Y1i7SK33YNzYhms4IOxvEY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MK5AYR9fu84HcuPCbUED2Y1i7SK33YNzYhms4IOxvEY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MK5AYR9fu84HcuPCbUED2Y1i7SK33YNzYhms4IOxvEY="
+    }
+  },
+  "version": "1.30.0"
+}

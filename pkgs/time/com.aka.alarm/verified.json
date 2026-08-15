@@ -1,0 +1,8 @@
+{
+  "package": "com.aka.alarm",
+  "signerFingerprints": [
+    "22:CA:24:9C:6F:8A:BF:31:90:C9:E8:AA:B2:10:8C:E4:EC:6C:07:36:6C:1B:06:77:97:B4:4F:4A:3C:0D:D5:38"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

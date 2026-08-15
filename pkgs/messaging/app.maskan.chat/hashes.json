@@ -1,0 +1,18 @@
+{
+  "apkName": "app.maskan.chat_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yxQmEfcOf7TwAYIxFFNIY1icoePtp/M9UXHGwZ/c0As="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yxQmEfcOf7TwAYIxFFNIY1icoePtp/M9UXHGwZ/c0As="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yxQmEfcOf7TwAYIxFFNIY1icoePtp/M9UXHGwZ/c0As="
+    }
+  },
+  "version": "2.4.3"
+}

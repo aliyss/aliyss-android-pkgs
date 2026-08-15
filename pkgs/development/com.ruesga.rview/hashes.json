@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ruesga.rview_69.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wEsyIRY6nN2LD4yinqE4VL3u9mGpu+7USA1UFfgYzCI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wEsyIRY6nN2LD4yinqE4VL3u9mGpu+7USA1UFfgYzCI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wEsyIRY6nN2LD4yinqE4VL3u9mGpu+7USA1UFfgYzCI="
+    }
+  },
+  "version": "2.4.2"
+}

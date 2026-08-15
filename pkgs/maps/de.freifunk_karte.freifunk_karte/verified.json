@@ -1,0 +1,8 @@
+{
+  "package": "de.freifunk_karte.freifunk_karte",
+  "signerFingerprints": [
+    "24:FB:4F:EC:0A:B8:7C:B2:CB:C0:7D:92:57:A5:56:87:1F:3C:7A:D6:D2:7C:D7:16:D3:63:FE:B9:E6:23:65:FB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

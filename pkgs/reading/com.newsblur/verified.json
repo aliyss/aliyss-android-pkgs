@@ -1,0 +1,8 @@
+{
+  "package": "com.newsblur",
+  "signerFingerprints": [
+    "AF:3E:76:E9:0D:BD:F4:07:F4:71:21:7C:D4:80:57:46:BE:C2:E1:9E:C5:10:50:0E:6D:F0:75:AC:C8:FB:B9:02"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

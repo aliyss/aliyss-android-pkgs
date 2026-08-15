@@ -1,0 +1,8 @@
+{
+  "package": "com.conreo.couchytv",
+  "signerFingerprints": [
+    "54:FA:B1:5E:1C:75:00:BB:EA:28:8A:89:20:42:77:EF:B8:24:4B:A8:1E:84:C8:F9:8D:4C:D9:C3:C1:83:79:EB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

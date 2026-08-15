@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fredhappyface.ewesticker_20250217.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NvhdmZGmq94tV9FsREoLSdlpUUEZ5H4qRQ1dBziUiCg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NvhdmZGmq94tV9FsREoLSdlpUUEZ5H4qRQ1dBziUiCg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NvhdmZGmq94tV9FsREoLSdlpUUEZ5H4qRQ1dBziUiCg="
+    }
+  },
+  "version": "20250217"
+}

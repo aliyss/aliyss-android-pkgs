@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mendhak.gpslogger_136.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xh71ACvuuheXvYvFQwPTjp4kI+5Yh7Lk8Jj7u7SnqIc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xh71ACvuuheXvYvFQwPTjp4kI+5Yh7Lk8Jj7u7SnqIc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xh71ACvuuheXvYvFQwPTjp4kI+5Yh7Lk8Jj7u7SnqIc="
+    }
+  },
+  "version": "136"
+}

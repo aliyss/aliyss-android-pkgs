@@ -1,0 +1,8 @@
+{
+  "package": "org.archivekeep.ArchiveKeep",
+  "signerFingerprints": [
+    "3D:1E:EE:1D:38:96:88:15:5D:F9:00:AD:68:25:32:C5:06:18:F9:4F:C5:BF:17:80:B8:A5:72:7B:C9:6F:A8:4E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

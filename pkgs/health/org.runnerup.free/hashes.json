@@ -1,0 +1,18 @@
+{
+  "apkName": "org.runnerup.free_23000372.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rqA102xZy3yIrYikL1BwVBJc0YuXsG5c4LS4Ls93GCQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rqA102xZy3yIrYikL1BwVBJc0YuXsG5c4LS4Ls93GCQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rqA102xZy3yIrYikL1BwVBJc0YuXsG5c4LS4Ls93GCQ="
+    }
+  },
+  "version": "2.11.0.1"
+}

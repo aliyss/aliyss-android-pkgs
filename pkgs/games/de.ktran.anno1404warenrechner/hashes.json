@@ -1,0 +1,18 @@
+{
+  "apkName": "de.ktran.anno1404warenrechner_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TgbejH3z7RewfmrDj2iAyne/kQG3HUAl3d2K23iJByo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TgbejH3z7RewfmrDj2iAyne/kQG3HUAl3d2K23iJByo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TgbejH3z7RewfmrDj2iAyne/kQG3HUAl3d2K23iJByo="
+    }
+  },
+  "version": "1.0"
+}

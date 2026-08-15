@@ -1,0 +1,8 @@
+{
+  "package": "ca.rmen.android.scrumchatter",
+  "signerFingerprints": [
+    "9F:DE:39:D6:D4:F3:10:2B:3E:18:0F:6A:14:E1:86:3F:7F:EF:90:36:44:06:98:6B:9A:7E:11:37:0F:90:F7:ED"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

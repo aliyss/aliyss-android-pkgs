@@ -1,0 +1,18 @@
+{
+  "apkName": "net.ebt.muzei.miyazaki_320.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-f2xtSksZkMlz/sy88MzMDjge91ct9jakIx8tRHGbVFU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f2xtSksZkMlz/sy88MzMDjge91ct9jakIx8tRHGbVFU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f2xtSksZkMlz/sy88MzMDjge91ct9jakIx8tRHGbVFU="
+    }
+  },
+  "version": "3.2"
+}

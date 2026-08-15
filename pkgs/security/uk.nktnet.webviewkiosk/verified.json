@@ -1,0 +1,8 @@
+{
+  "package": "uk.nktnet.webviewkiosk",
+  "signerFingerprints": [
+    "2F:E1:0D:E0:EC:70:A0:7F:38:3A:87:89:2C:A4:56:67:21:4E:A1:3C:4E:EE:A4:A3:25:4F:3A:33:1A:7A:6B:15"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

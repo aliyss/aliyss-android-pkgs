@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ea.sqrl_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XpstY5BSjFxpfzgxx5rEQRJP1H8SroiSxo04uOEMYtg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XpstY5BSjFxpfzgxx5rEQRJP1H8SroiSxo04uOEMYtg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XpstY5BSjFxpfzgxx5rEQRJP1H8SroiSxo04uOEMYtg="
+    }
+  },
+  "version": "1.7.2"
+}

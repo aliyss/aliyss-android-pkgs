@@ -1,0 +1,18 @@
+{
+  "apkName": "com.stefansundin.sshremote_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MpWeZmmMfjMKSbE4MMBULN2Mf32exm9HAr//aJRJ9CI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MpWeZmmMfjMKSbE4MMBULN2Mf32exm9HAr//aJRJ9CI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MpWeZmmMfjMKSbE4MMBULN2Mf32exm9HAr//aJRJ9CI="
+    }
+  },
+  "version": "1.0.0"
+}

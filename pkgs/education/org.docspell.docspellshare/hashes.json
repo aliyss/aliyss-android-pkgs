@@ -1,0 +1,18 @@
+{
+  "apkName": "org.docspell.docspellshare_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r/S92D//152XFveA8vTKyqohkQ/5P5cZPSRqQIYAPeg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r/S92D//152XFveA8vTKyqohkQ/5P5cZPSRqQIYAPeg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r/S92D//152XFveA8vTKyqohkQ/5P5cZPSRqQIYAPeg="
+    }
+  },
+  "version": "0.9.0"
+}

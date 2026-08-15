@@ -1,0 +1,8 @@
+{
+  "package": "com.matedroid",
+  "signerFingerprints": [
+    "92:B3:4B:1E:45:65:04:FB:AC:AF:CC:35:05:D1:32:C6:30:EA:C7:5F:0B:D9:68:78:D4:B7:69:B2:0C:B7:1A:5B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

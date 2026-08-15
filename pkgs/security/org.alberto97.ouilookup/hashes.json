@@ -1,0 +1,18 @@
+{
+  "apkName": "org.alberto97.ouilookup_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sKgoWQJY2uXKueWDYDO7SAvXYJK8p4Wuqw8Rr2lXt+Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sKgoWQJY2uXKueWDYDO7SAvXYJK8p4Wuqw8Rr2lXt+Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sKgoWQJY2uXKueWDYDO7SAvXYJK8p4Wuqw8Rr2lXt+Y="
+    }
+  },
+  "version": "1.6.6"
+}

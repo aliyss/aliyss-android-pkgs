@@ -1,0 +1,8 @@
+{
+  "package": "org.liberty.android.fantastischmemo",
+  "signerFingerprints": [
+    "D0:6A:0D:99:40:7C:DC:3C:1A:FC:19:67:1D:12:DC:A8:A4:95:FC:27:AA:11:46:47:06:C3:A9:01:10:8B:BB:2D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

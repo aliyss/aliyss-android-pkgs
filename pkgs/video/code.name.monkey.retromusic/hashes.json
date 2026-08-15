@@ -1,0 +1,18 @@
+{
+  "apkName": "code.name.monkey.retromusic_10660.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wYmOH873POtLYOAYVhZ0rTfHH2HQUQIO0Fw/4gl0P4k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wYmOH873POtLYOAYVhZ0rTfHH2HQUQIO0Fw/4gl0P4k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wYmOH873POtLYOAYVhZ0rTfHH2HQUQIO0Fw/4gl0P4k="
+    }
+  },
+  "version": "6.6.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.woheller69.omweather",
+  "signerFingerprints": [
+    "7C:B8:32:6B:35:9F:CF:06:10:1C:F0:33:7B:56:AF:89:E3:95:2B:71:1C:9A:00:FF:DC:7F:7B:2F:8C:09:D8:5B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.joinmastodon.android",
+  "signerFingerprints": [
+    "83:CB:2C:D2:BD:D5:10:31:04:4C:D2:76:85:23:24:B2:E9:6F:BE:3D:87:29:8D:F7:B6:79:4C:9D:EA:34:55:04"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

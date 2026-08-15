@@ -1,0 +1,18 @@
+{
+  "apkName": "app.mlauncher_1120000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZgtWQtL87dSi489yaRWT85x8zCdyGJBX8CAj0gTVzFI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZgtWQtL87dSi489yaRWT85x8zCdyGJBX8CAj0gTVzFI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZgtWQtL87dSi489yaRWT85x8zCdyGJBX8CAj0gTVzFI="
+    }
+  },
+  "version": "1.12.0 Build 0"
+}

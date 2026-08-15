@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.toldi.infinityforlemmy_136.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ov6LfHE/x/9i0kiy2GCCmaDuqi+gMOLGv7Esb10imSg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ov6LfHE/x/9i0kiy2GCCmaDuqi+gMOLGv7Esb10imSg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ov6LfHE/x/9i0kiy2GCCmaDuqi+gMOLGv7Esb10imSg="
+    }
+  },
+  "version": "0.2.1"
+}

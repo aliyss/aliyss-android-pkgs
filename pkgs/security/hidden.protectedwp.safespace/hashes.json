@@ -1,0 +1,18 @@
+{
+  "apkName": "hidden.protectedwp.safespace_82.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-G6mTYZxfLFL4PN91b1acJahI5hc3h3SbtDRdVCV5tyQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G6mTYZxfLFL4PN91b1acJahI5hc3h3SbtDRdVCV5tyQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G6mTYZxfLFL4PN91b1acJahI5hc3h3SbtDRdVCV5tyQ="
+    }
+  },
+  "version": "82.0"
+}

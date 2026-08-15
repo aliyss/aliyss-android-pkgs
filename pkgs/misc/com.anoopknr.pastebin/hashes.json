@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anoopknr.pastebin_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hTOF6PuvlO8IBUyGUHS0fNKmfmQA/rv9lejjiRzw/h8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hTOF6PuvlO8IBUyGUHS0fNKmfmQA/rv9lejjiRzw/h8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hTOF6PuvlO8IBUyGUHS0fNKmfmQA/rv9lejjiRzw/h8="
+    }
+  },
+  "version": "1.6"
+}

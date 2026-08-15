@@ -1,0 +1,8 @@
+{
+  "package": "org.afhdownloader",
+  "signerFingerprints": [
+    "C2:2D:09:BD:5F:53:B4:22:40:1B:FD:E3:54:47:BB:A5:E4:9E:43:2C:0C:CA:34:C1:87:4F:05:FB:2F:4F:31:8D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

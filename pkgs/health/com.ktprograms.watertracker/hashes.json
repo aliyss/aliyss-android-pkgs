@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ktprograms.watertracker_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zNZ0S+LakQnU1EYHXCXvy6pviROkiQjfhpK0edKkU6I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zNZ0S+LakQnU1EYHXCXvy6pviROkiQjfhpK0edKkU6I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zNZ0S+LakQnU1EYHXCXvy6pviROkiQjfhpK0edKkU6I="
+    }
+  },
+  "version": "0.1.4-beta"
+}

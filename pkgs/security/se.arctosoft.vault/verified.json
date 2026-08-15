@@ -1,0 +1,8 @@
+{
+  "package": "se.arctosoft.vault",
+  "signerFingerprints": [
+    "06:DD:0C:D0:94:2F:0C:8B:29:FB:2F:19:F6:D4:85:3E:B7:D6:9D:F0:C9:83:52:19:7F:24:AD:E1:70:A9:3A:BA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

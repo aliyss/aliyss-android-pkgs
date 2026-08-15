@@ -1,0 +1,18 @@
+{
+  "apkName": "link.standen.michael.slideshow_51.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iFeaNGzaKZVfx+v3q5YqFZ0SPchoSdQWY3xwdPXUrBg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iFeaNGzaKZVfx+v3q5YqFZ0SPchoSdQWY3xwdPXUrBg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iFeaNGzaKZVfx+v3q5YqFZ0SPchoSdQWY3xwdPXUrBg="
+    }
+  },
+  "version": "2.9.0"
+}

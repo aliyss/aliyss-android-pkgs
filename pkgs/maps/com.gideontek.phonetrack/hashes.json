@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gideontek.phonetrack_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-d3NDvgge/Kkd6c6HYDirgxRZYGgiuv9UmuLSbAN+dMo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-d3NDvgge/Kkd6c6HYDirgxRZYGgiuv9UmuLSbAN+dMo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-d3NDvgge/Kkd6c6HYDirgxRZYGgiuv9UmuLSbAN+dMo="
+    }
+  },
+  "version": "1.1"
+}

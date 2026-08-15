@@ -1,0 +1,8 @@
+{
+  "package": "com.github.edeso.bubble2",
+  "signerFingerprints": [
+    "9F:4E:35:37:89:01:8E:11:F7:97:DA:2F:E7:31:88:BD:3D:1B:65:C3:29:C6:84:57:A8:05:2F:3A:78:EB:DA:AB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

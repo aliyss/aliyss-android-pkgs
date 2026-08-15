@@ -1,0 +1,18 @@
+{
+  "apkName": "amirz.rootless.nexuslauncher_30911.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-f6RNVg3EV3N01FF2Ig3iwLAKceCdbRSM3qTgpS04QEo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f6RNVg3EV3N01FF2Ig3iwLAKceCdbRSM3qTgpS04QEo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f6RNVg3EV3N01FF2Ig3iwLAKceCdbRSM3qTgpS04QEo="
+    }
+  },
+  "version": "3.9.1"
+}

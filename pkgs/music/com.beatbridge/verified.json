@@ -1,0 +1,8 @@
+{
+  "package": "com.beatbridge",
+  "signerFingerprints": [
+    "01:1E:E1:A6:E4:E5:EC:D6:75:F6:7F:BF:3D:78:AD:82:61:4A:7A:7A:3F:24:ED:71:CC:9C:41:71:54:A0:F0:FD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

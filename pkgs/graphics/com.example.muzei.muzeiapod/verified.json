@@ -1,0 +1,8 @@
+{
+  "package": "com.example.muzei.muzeiapod",
+  "signerFingerprints": [
+    "51:9D:46:97:CA:EF:74:16:CA:98:6D:F9:07:B7:46:C7:0B:7E:77:84:EF:9A:FC:44:8B:BD:DB:16:4D:EC:10:08"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

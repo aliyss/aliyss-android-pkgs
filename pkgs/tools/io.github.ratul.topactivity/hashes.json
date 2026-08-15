@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.ratul.topactivity_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yJFvmDLHUBeqiXRbEZZp/rJTV+9cIqushqsj43spT7M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yJFvmDLHUBeqiXRbEZZp/rJTV+9cIqushqsj43spT7M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yJFvmDLHUBeqiXRbEZZp/rJTV+9cIqushqsj43spT7M="
+    }
+  },
+  "version": "2.2.0"
+}

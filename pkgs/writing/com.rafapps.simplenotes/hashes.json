@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rafapps.simplenotes_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wO2GrpwoG5YuVfB70qEB/hcYh41Q6CO7mF6vPN2QAZ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wO2GrpwoG5YuVfB70qEB/hcYh41Q6CO7mF6vPN2QAZ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wO2GrpwoG5YuVfB70qEB/hcYh41Q6CO7mF6vPN2QAZ0="
+    }
+  },
+  "version": "2.1"
+}

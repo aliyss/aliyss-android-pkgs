@@ -1,0 +1,8 @@
+{
+  "package": "com.android.adbkeyboard",
+  "signerFingerprints": [
+    "1F:77:1A:EE:5D:D8:E3:92:01:D2:58:79:34:2C:F3:90:B2:F9:93:FE:74:13:6B:B5:7F:11:B8:18:8E:08:8B:AF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

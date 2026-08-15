@@ -1,0 +1,8 @@
+{
+  "package": "dev.mlzzen.androidnga",
+  "signerFingerprints": [
+    "06:7D:D0:34:D3:26:7A:69:A5:E1:FA:1A:94:45:85:5A:63:0F:EC:1A:56:89:7F:85:41:B1:B5:FA:16:57:84:EA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

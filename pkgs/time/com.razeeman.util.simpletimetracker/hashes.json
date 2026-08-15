@@ -1,0 +1,18 @@
+{
+  "apkName": "com.razeeman.util.simpletimetracker_143.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-d/kWhj6WVI3xWEWxyOCNYgKbrR5pCBuPfW+WLNmHEN4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-d/kWhj6WVI3xWEWxyOCNYgKbrR5pCBuPfW+WLNmHEN4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-d/kWhj6WVI3xWEWxyOCNYgKbrR5pCBuPfW+WLNmHEN4="
+    }
+  },
+  "version": "1.59"
+}

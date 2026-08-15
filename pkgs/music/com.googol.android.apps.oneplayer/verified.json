@@ -1,0 +1,8 @@
+{
+  "package": "com.googol.android.apps.oneplayer",
+  "signerFingerprints": [
+    "0C:2D:50:27:E3:3C:D5:DB:94:B8:F2:AD:56:47:78:E2:39:C8:28:92:B0:51:67:D0:31:B8:AE:86:68:D8:04:66"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

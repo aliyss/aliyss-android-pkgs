@@ -1,0 +1,8 @@
+{
+  "package": "lt.ffda.sourcherry",
+  "signerFingerprints": [
+    "A7:B9:9A:4C:9A:B1:0A:28:C4:B6:84:94:36:1F:54:42:30:63:0E:97:50:C0:E7:FA:36:06:51:2C:EB:8C:B9:DF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

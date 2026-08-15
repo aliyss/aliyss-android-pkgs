@@ -1,0 +1,18 @@
+{
+  "apkName": "ee.ioc.phon.android.speak_1916.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WiO6/UjCi053IABahAYazN3xhZN+6Rl50N+I9ztOPPA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WiO6/UjCi053IABahAYazN3xhZN+6Rl50N+I9ztOPPA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WiO6/UjCi053IABahAYazN3xhZN+6Rl50N+I9ztOPPA="
+    }
+  },
+  "version": "1.9.16"
+}

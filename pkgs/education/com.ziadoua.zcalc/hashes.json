@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ziadoua.zcalc_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-afecdl0tmZe2THff5XacBeKDZSYwk9cMr/shbr1PrYs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-afecdl0tmZe2THff5XacBeKDZSYwk9cMr/shbr1PrYs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-afecdl0tmZe2THff5XacBeKDZSYwk9cMr/shbr1PrYs="
+    }
+  },
+  "version": "1.0.0"
+}

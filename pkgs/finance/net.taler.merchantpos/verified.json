@@ -1,0 +1,8 @@
+{
+  "package": "net.taler.merchantpos",
+  "signerFingerprints": [
+    "B0:4F:F6:82:FC:88:9D:C2:F6:50:BB:D3:C6:37:52:5A:E2:56:88:E0:33:FF:96:87:DF:48:18:60:34:69:B1:01"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

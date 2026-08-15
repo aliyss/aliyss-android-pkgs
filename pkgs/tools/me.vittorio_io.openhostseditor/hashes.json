@@ -1,0 +1,18 @@
+{
+  "apkName": "me.vittorio_io.openhostseditor_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CIswOMUL4xgATarmMD9uknOk61mM4Y0aI9+eaOTY+bQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CIswOMUL4xgATarmMD9uknOk61mM4Y0aI9+eaOTY+bQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CIswOMUL4xgATarmMD9uknOk61mM4Y0aI9+eaOTY+bQ="
+    }
+  },
+  "version": "0.12.4"
+}

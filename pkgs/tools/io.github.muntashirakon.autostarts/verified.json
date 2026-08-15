@@ -1,0 +1,8 @@
+{
+  "package": "io.github.muntashirakon.autostarts",
+  "signerFingerprints": [
+    "32:0C:0C:0F:E8:CE:F8:73:F2:B5:54:CB:88:C8:37:F1:51:25:89:DC:CE:D5:0C:5B:25:C4:3C:04:59:67:60:AB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

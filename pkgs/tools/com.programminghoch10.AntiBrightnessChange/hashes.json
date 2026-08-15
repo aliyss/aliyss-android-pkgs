@@ -1,0 +1,18 @@
+{
+  "apkName": "com.programminghoch10.AntiBrightnessChange_60.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s1CvZ6FQfyozf/oAfffQH/2vFxACtegyidNeadwAIaU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s1CvZ6FQfyozf/oAfffQH/2vFxACtegyidNeadwAIaU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s1CvZ6FQfyozf/oAfffQH/2vFxACtegyidNeadwAIaU="
+    }
+  },
+  "version": "60-ca313a9-20251015"
+}

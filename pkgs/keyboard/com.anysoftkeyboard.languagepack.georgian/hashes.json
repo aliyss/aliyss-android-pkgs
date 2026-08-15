@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.georgian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cLjTK4UzHkGunuvDSRDaOAWZgk3gzmYtByy6A/aBGqI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cLjTK4UzHkGunuvDSRDaOAWZgk3gzmYtByy6A/aBGqI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cLjTK4UzHkGunuvDSRDaOAWZgk3gzmYtByy6A/aBGqI="
+    }
+  },
+  "version": "5.1.6158"
+}

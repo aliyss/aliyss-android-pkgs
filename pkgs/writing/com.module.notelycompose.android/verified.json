@@ -1,0 +1,8 @@
+{
+  "package": "com.module.notelycompose.android",
+  "signerFingerprints": [
+    "EB:DD:1D:20:1B:50:25:38:23:B2:D8:1D:FB:48:06:82:37:28:A3:88:E5:8B:52:FF:39:E2:8B:7A:DD:92:4C:D5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

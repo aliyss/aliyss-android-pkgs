@@ -1,0 +1,8 @@
+{
+  "package": "dev.halim.shelfdroid",
+  "signerFingerprints": [
+    "04:30:BE:D0:1A:BB:1C:65:3F:C5:68:83:31:4A:1C:14:F4:92:23:14:F5:AF:16:AF:68:88:5C:73:2D:D2:9B:BD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

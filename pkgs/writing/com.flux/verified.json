@@ -1,0 +1,8 @@
+{
+  "package": "com.flux",
+  "signerFingerprints": [
+    "BD:CC:CA:30:AE:93:30:2C:46:46:DB:9C:F2:3F:4E:47:59:C1:D5:B6:0A:D5:72:8B:35:AE:0F:C0:FE:B7:94:02"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

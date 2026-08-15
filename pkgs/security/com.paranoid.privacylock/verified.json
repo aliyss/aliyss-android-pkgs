@@ -1,0 +1,8 @@
+{
+  "package": "com.paranoid.privacylock",
+  "signerFingerprints": [
+    "9B:1C:77:A2:06:3E:23:E1:B3:7F:CE:FF:DF:6E:2E:19:62:8B:A6:C6:80:E0:4D:BF:22:08:88:84:10:9B:F3:21"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

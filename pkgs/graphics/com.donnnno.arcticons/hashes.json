@@ -1,0 +1,18 @@
+{
+  "apkName": "com.donnnno.arcticons_1550.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oVeDjFDs+EZ0Nxz9VLLnacMCbfj6lG+jgp2EKKOTRCE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oVeDjFDs+EZ0Nxz9VLLnacMCbfj6lG+jgp2EKKOTRCE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oVeDjFDs+EZ0Nxz9VLLnacMCbfj6lG+jgp2EKKOTRCE="
+    }
+  },
+  "version": "14.9.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "space.kraut.schluessel",
+  "signerFingerprints": [
+    "16:0A:4B:74:9D:31:35:FD:52:14:1D:89:70:83:AB:01:10:FD:2F:54:54:F6:04:C5:B5:DD:2A:B7:57:F6:40:7B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

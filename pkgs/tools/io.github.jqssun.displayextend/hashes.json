@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.jqssun.displayextend_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fwV0HdJLXoPHZ5cI1BLhHyJIym4Kg3GinMcD4VaGIV0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fwV0HdJLXoPHZ5cI1BLhHyJIym4Kg3GinMcD4VaGIV0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fwV0HdJLXoPHZ5cI1BLhHyJIym4Kg3GinMcD4VaGIV0="
+    }
+  },
+  "version": "0.0.26"
+}

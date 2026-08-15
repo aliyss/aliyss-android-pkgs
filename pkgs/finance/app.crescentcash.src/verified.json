@@ -1,0 +1,8 @@
+{
+  "package": "app.crescentcash.src",
+  "signerFingerprints": [
+    "09:8C:3B:2A:76:6B:9B:1A:0F:72:09:CF:4E:87:F9:80:67:C2:DA:F3:5C:8E:A8:94:84:93:4C:D1:86:C6:F6:F4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

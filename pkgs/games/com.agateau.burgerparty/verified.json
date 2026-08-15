@@ -1,0 +1,8 @@
+{
+  "package": "com.agateau.burgerparty",
+  "signerFingerprints": [
+    "8A:8F:F4:84:FD:D7:80:B3:FB:DB:14:18:3A:53:73:DB:E1:1B:02:6E:DD:3E:6F:EC:29:7E:5F:10:AA:3F:32:F1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

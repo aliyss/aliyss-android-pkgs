@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.libreoffice.schedule_106.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dpNZYL/CWf7Ozg4cs2iALwHKEUWW+65qaAUqmgsOhPw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dpNZYL/CWf7Ozg4cs2iALwHKEUWW+65qaAUqmgsOhPw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dpNZYL/CWf7Ozg4cs2iALwHKEUWW+65qaAUqmgsOhPw="
+    }
+  },
+  "version": "1.66.2-LibreOffice-Edition"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "x653.bullseye",
+  "signerFingerprints": [
+    "52:0A:8E:49:70:0E:5A:7F:78:45:BF:7D:E3:8F:FA:48:0F:A7:60:55:0E:E6:78:84:F8:C0:34:79:3F:30:1F:1F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

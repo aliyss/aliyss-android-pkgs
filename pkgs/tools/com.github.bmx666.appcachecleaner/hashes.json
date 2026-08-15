@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.bmx666.appcachecleaner_109.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1JE82CQ7+eyJMMUieDbbfrSPXnm7adYmQmo8UrBqg5o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1JE82CQ7+eyJMMUieDbbfrSPXnm7adYmQmo8UrBqg5o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1JE82CQ7+eyJMMUieDbbfrSPXnm7adYmQmo8UrBqg5o="
+    }
+  },
+  "version": "2.3.0"
+}

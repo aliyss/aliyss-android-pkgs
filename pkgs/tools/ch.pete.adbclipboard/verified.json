@@ -1,0 +1,8 @@
+{
+  "package": "ch.pete.adbclipboard",
+  "signerFingerprints": [
+    "DA:12:98:CD:9E:46:79:45:43:E3:38:C3:86:BC:8D:B2:5F:2B:51:21:A1:F8:3D:B8:9F:A9:E3:F9:27:69:6D:78"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

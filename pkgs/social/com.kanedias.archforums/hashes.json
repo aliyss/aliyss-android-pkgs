@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kanedias.archforums_160000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UTvJEaHjkEzzpU+gT79jDxq2m8vH4YhSnx5CBGClyfY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UTvJEaHjkEzzpU+gT79jDxq2m8vH4YhSnx5CBGClyfY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UTvJEaHjkEzzpU+gT79jDxq2m8vH4YhSnx5CBGClyfY="
+    }
+  },
+  "version": "1.2.8"
+}

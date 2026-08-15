@@ -1,0 +1,18 @@
+{
+  "apkName": "com.amaze.filemanager_125.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NeAzjawb8CbyLZHhsJbBxu/xQkrX1r5Sp/jT/lCYdTA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NeAzjawb8CbyLZHhsJbBxu/xQkrX1r5Sp/jT/lCYdTA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NeAzjawb8CbyLZHhsJbBxu/xQkrX1r5Sp/jT/lCYdTA="
+    }
+  },
+  "version": "3.11.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.andstatus.game2048_47.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LWcHYkYj/ohX2icdzBlRGrUkcs4f7mrCO8fy7PLn7qk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LWcHYkYj/ohX2icdzBlRGrUkcs4f7mrCO8fy7PLn7qk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LWcHYkYj/ohX2icdzBlRGrUkcs4f7mrCO8fy7PLn7qk="
+    }
+  },
+  "version": "1.16.2"
+}

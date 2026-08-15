@@ -1,0 +1,8 @@
+{
+  "package": "com.hotstuff",
+  "signerFingerprints": [
+    "EE:F7:4F:4C:AA:E8:68:D2:72:3E:D3:ED:71:C9:AE:FD:B0:43:84:A7:BA:C5:71:8A:A5:C1:6E:EB:BC:F5:7E:D0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

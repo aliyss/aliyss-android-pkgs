@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nunti_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Lab5lsjg7y5DYlqJA/T0ur9CrkNDUgjdoBObOc7SFic="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lab5lsjg7y5DYlqJA/T0ur9CrkNDUgjdoBObOc7SFic="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lab5lsjg7y5DYlqJA/T0ur9CrkNDUgjdoBObOc7SFic="
+    }
+  },
+  "version": "v2.9.0"
+}

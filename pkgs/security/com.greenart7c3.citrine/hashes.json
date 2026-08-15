@@ -1,0 +1,18 @@
+{
+  "apkName": "com.greenart7c3.citrine_61.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-E1EXAAQCeVEThJISXIsC55vVr8aepn6He3Jt7JIOqWw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E1EXAAQCeVEThJISXIsC55vVr8aepn6He3Jt7JIOqWw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E1EXAAQCeVEThJISXIsC55vVr8aepn6He3Jt7JIOqWw="
+    }
+  },
+  "version": "3.0.1"
+}

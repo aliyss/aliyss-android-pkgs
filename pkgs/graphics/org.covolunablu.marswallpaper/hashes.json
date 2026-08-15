@@ -1,0 +1,18 @@
+{
+  "apkName": "org.covolunablu.marswallpaper_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dk978KgrcY7+t/FBwrYAB9N5VINWHoczpiVbXin6OpI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dk978KgrcY7+t/FBwrYAB9N5VINWHoczpiVbXin6OpI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dk978KgrcY7+t/FBwrYAB9N5VINWHoczpiVbXin6OpI="
+    }
+  },
+  "version": "1.2.0"
+}

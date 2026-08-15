@@ -1,0 +1,8 @@
+{
+  "package": "com.luigivampa92.xlogger",
+  "signerFingerprints": [
+    "78:DD:5E:F5:A4:3C:A1:7E:41:EA:FA:C3:96:E5:89:09:10:1A:5D:C7:8A:4B:10:CD:D7:9B:C5:88:0C:18:36:5A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

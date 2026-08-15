@@ -1,0 +1,8 @@
+{
+  "package": "com.github.vgaj.proxy",
+  "signerFingerprints": [
+    "D5:E9:52:09:BC:29:92:0A:F8:D3:67:D7:20:50:30:AB:9A:60:6B:AE:CD:93:B1:C6:FC:65:59:09:C4:60:9F:72"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.trianguloy.urlchecker_47.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3cvzRFGb/zDblVDRbzcQQVC4Fu1AH5U3DVUfGDqeVSA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3cvzRFGb/zDblVDRbzcQQVC4Fu1AH5U3DVUfGDqeVSA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3cvzRFGb/zDblVDRbzcQQVC4Fu1AH5U3DVUfGDqeVSA="
+    }
+  },
+  "version": "3.5"
+}

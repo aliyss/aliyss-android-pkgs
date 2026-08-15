@@ -1,0 +1,8 @@
+{
+  "package": "com.idunnololz.summit.fdroid",
+  "signerFingerprints": [
+    "3C:51:00:7D:D6:FF:62:BE:38:02:6F:29:4F:73:1E:F0:69:16:1E:BB:8C:25:4D:F3:54:24:9B:35:BB:5B:FE:D1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

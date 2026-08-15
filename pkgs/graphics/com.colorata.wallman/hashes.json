@@ -1,0 +1,18 @@
+{
+  "apkName": "com.colorata.wallman_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m5x7PXEJnRV3a6nZovYSSUOwIMCU1Qs+wCFkUbzO60g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m5x7PXEJnRV3a6nZovYSSUOwIMCU1Qs+wCFkUbzO60g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m5x7PXEJnRV3a6nZovYSSUOwIMCU1Qs+wCFkUbzO60g="
+    }
+  },
+  "version": "Tiramisu03"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nononsenseapps.wanidoku_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gfnBbWMmae360SxPNc5xeLHvXfrMwTw7Gma/0DUar1Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gfnBbWMmae360SxPNc5xeLHvXfrMwTw7Gma/0DUar1Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gfnBbWMmae360SxPNc5xeLHvXfrMwTw7Gma/0DUar1Y="
+    }
+  },
+  "version": "1.0.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.andreacioccarelli.androoster_62.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-liFYBNMdrg6bNJL+l1UGN7lF6N1SS+4sQkllHt/PE+I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-liFYBNMdrg6bNJL+l1UGN7lF6N1SS+4sQkllHt/PE+I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-liFYBNMdrg6bNJL+l1UGN7lF6N1SS+4sQkllHt/PE+I="
+    }
+  },
+  "version": "1.6.2"
+}

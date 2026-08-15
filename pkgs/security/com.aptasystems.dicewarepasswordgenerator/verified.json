@@ -1,0 +1,8 @@
+{
+  "package": "com.aptasystems.dicewarepasswordgenerator",
+  "signerFingerprints": [
+    "3F:F5:D4:D4:96:E9:88:31:47:61:65:4B:44:2E:0D:8A:E9:94:9B:DB:A6:43:E7:9A:E5:E3:FE:1E:CE:30:24:7A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

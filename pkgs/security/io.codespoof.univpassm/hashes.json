@@ -1,0 +1,18 @@
+{
+  "apkName": "io.codespoof.univpassm_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NFbfulcFQk3eSrVen7xrVD5oqgjdaxaAhirOgIYfq+M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NFbfulcFQk3eSrVen7xrVD5oqgjdaxaAhirOgIYfq+M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NFbfulcFQk3eSrVen7xrVD5oqgjdaxaAhirOgIYfq+M="
+    }
+  },
+  "version": "1.1.1"
+}

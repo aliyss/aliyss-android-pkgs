@@ -1,0 +1,18 @@
+{
+  "apkName": "com.oml.recordtimedroid_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VEZurMAu3wuRvrkayqZN2mYa8mm3zYbsGJ77m9M93DA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VEZurMAu3wuRvrkayqZN2mYa8mm3zYbsGJ77m9M93DA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VEZurMAu3wuRvrkayqZN2mYa8mm3zYbsGJ77m9M93DA="
+    }
+  },
+  "version": "3.00"
+}

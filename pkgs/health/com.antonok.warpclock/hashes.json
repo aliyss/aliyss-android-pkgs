@@ -1,0 +1,18 @@
+{
+  "apkName": "com.antonok.warpclock_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bn7S0gZyq1yVW8+aV9elDanf71TqOi3YY4bv5hrWmFI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bn7S0gZyq1yVW8+aV9elDanf71TqOi3YY4bv5hrWmFI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bn7S0gZyq1yVW8+aV9elDanf71TqOi3YY4bv5hrWmFI="
+    }
+  },
+  "version": "1.2"
+}

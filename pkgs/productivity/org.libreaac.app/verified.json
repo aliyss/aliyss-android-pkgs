@@ -1,0 +1,8 @@
+{
+  "package": "org.libreaac.app",
+  "signerFingerprints": [
+    "AA:D2:F1:2A:91:25:A9:F2:F9:7B:00:70:CB:6B:2D:FD:10:B2:6E:D9:89:A8:4B:4F:12:FF:99:BE:E6:6E:52:BA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

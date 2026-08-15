@@ -1,0 +1,18 @@
+{
+  "apkName": "in.hridayan.driftly_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zzafXi95K2AH6alH7V77/eui+gZKgtC2tJCzZpi/lz8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zzafXi95K2AH6alH7V77/eui+gZKgtC2tJCzZpi/lz8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zzafXi95K2AH6alH7V77/eui+gZKgtC2tJCzZpi/lz8="
+    }
+  },
+  "version": "v1.9.0"
+}

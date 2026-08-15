@@ -1,0 +1,8 @@
+{
+  "package": "com.jksalcedo.librefind",
+  "signerFingerprints": [
+    "34:10:F3:33:70:A8:08:F7:08:8B:A1:27:BF:13:9A:DF:19:EC:54:24:42:A4:10:EF:77:F1:80:1D:B5:01:17:AB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

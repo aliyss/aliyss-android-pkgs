@@ -1,0 +1,8 @@
+{
+  "package": "straw.berry",
+  "signerFingerprints": [
+    "0E:22:80:CA:BB:8F:ED:5B:B9:46:17:8F:55:0E:78:6F:4D:96:BC:9B:C9:0E:4A:36:8F:7E:E4:8B:2C:70:81:F8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

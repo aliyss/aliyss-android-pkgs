@@ -1,0 +1,18 @@
+{
+  "apkName": "com.farmerbb.notepad_122.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-t88wwYepUSA+zwYpVlP6tYfD5U8VXPVFZe2p4n0URPo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t88wwYepUSA+zwYpVlP6tYfD5U8VXPVFZe2p4n0URPo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t88wwYepUSA+zwYpVlP6tYfD5U8VXPVFZe2p4n0URPo="
+    }
+  },
+  "version": "3.0.6"
+}

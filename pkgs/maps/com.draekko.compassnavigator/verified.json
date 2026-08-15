@@ -1,0 +1,8 @@
+{
+  "package": "com.draekko.compassnavigator",
+  "signerFingerprints": [
+    "B8:56:7A:FF:98:5B:A8:05:D0:2D:DF:0D:87:B0:03:81:A0:55:73:40:41:38:59:5C:AA:D1:9A:F5:5D:05:AF:1F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

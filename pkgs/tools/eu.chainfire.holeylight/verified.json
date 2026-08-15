@@ -1,0 +1,8 @@
+{
+  "package": "eu.chainfire.holeylight",
+  "signerFingerprints": [
+    "82:F5:9B:A2:B7:4E:BE:00:E3:5F:9B:DD:02:A3:0E:AB:16:A3:95:12:CC:5A:70:0A:48:33:E8:FA:F4:87:A0:12"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

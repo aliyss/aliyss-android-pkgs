@@ -1,0 +1,18 @@
+{
+  "apkName": "com.forrestguice.suntimescalendars_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6sJn/DCHsGJGUcpNxk8yBjVE6BYb+vNJQ5Eaa2mPe9s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6sJn/DCHsGJGUcpNxk8yBjVE6BYb+vNJQ5Eaa2mPe9s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6sJn/DCHsGJGUcpNxk8yBjVE6BYb+vNJQ5Eaa2mPe9s="
+    }
+  },
+  "version": "0.6.3"
+}

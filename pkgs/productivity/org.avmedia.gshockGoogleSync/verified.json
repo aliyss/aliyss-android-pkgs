@@ -1,0 +1,8 @@
+{
+  "package": "org.avmedia.gshockGoogleSync",
+  "signerFingerprints": [
+    "D9:21:D6:EF:F0:0E:97:10:8B:2A:33:23:C0:EB:26:89:18:02:0F:A1:35:3F:E0:21:1A:BB:77:45:75:8C:E4:6F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.jpkhawam.nabu",
+  "signerFingerprints": [
+    "12:0C:70:73:A6:33:C6:E5:DB:82:3D:77:FB:77:CD:97:8F:6A:A3:23:55:2E:3A:52:AD:47:26:2E:23:18:D2:1D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "godau.fynn.usagedirect.system_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-a11DBMCT5iOvZxnvA2Fx5iOFGjiwUkViQyE1C2nF4/Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a11DBMCT5iOvZxnvA2Fx5iOFGjiwUkViQyE1C2nF4/Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a11DBMCT5iOvZxnvA2Fx5iOFGjiwUkViQyE1C2nF4/Q="
+    }
+  },
+  "version": "0.8.1"
+}

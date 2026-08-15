@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.mikulash.shareasqr_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ijJ6p9iO00pP1d5cv19nAd9cnh+MJuo+4bQfZFKdxcM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ijJ6p9iO00pP1d5cv19nAd9cnh+MJuo+4bQfZFKdxcM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ijJ6p9iO00pP1d5cv19nAd9cnh+MJuo+4bQfZFKdxcM="
+    }
+  },
+  "version": "1.0.3"
+}

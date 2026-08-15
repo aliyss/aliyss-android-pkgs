@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zarathustra.mnemosyne_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fj5lf1eCza9LXqzvbVgxVD8xaF3p87YpJBw2+i+6+RM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fj5lf1eCza9LXqzvbVgxVD8xaF3p87YpJBw2+i+6+RM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fj5lf1eCza9LXqzvbVgxVD8xaF3p87YpJBw2+i+6+RM="
+    }
+  },
+  "version": "1.2.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gelakinetic.mtgfam_99.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4vRRUZ0E6ZIr9pslUGnEkqr8x1k5FPNltP1xl+swSbM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4vRRUZ0E6ZIr9pslUGnEkqr8x1k5FPNltP1xl+swSbM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4vRRUZ0E6ZIr9pslUGnEkqr8x1k5FPNltP1xl+swSbM="
+    }
+  },
+  "version": "3.9.16"
+}

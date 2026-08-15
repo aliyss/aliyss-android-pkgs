@@ -1,0 +1,8 @@
+{
+  "package": "com.achunt.weboslauncher",
+  "signerFingerprints": [
+    "B0:52:87:72:A9:6E:6F:4D:5F:3A:EC:ED:62:FA:91:E8:F8:34:8B:55:E0:E9:D8:06:0B:26:26:DD:91:6E:86:DD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

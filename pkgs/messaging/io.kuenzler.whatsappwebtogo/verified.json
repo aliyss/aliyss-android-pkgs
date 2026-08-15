@@ -1,0 +1,8 @@
+{
+  "package": "io.kuenzler.whatsappwebtogo",
+  "signerFingerprints": [
+    "47:93:62:F1:BC:E3:D4:90:CA:C1:64:99:8E:5F:4A:C3:99:C0:8C:45:B7:48:19:8B:53:0B:8B:60:23:18:3F:A6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

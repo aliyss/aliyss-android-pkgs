@@ -1,0 +1,8 @@
+{
+  "package": "app.tryst",
+  "signerFingerprints": [
+    "FC:7E:30:AB:1F:F1:29:F4:20:DA:D3:8C:07:DE:EE:65:8C:06:67:00:E2:3E:84:FB:2C:C0:62:BA:BD:85:6C:53"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

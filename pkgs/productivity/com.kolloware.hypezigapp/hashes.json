@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kolloware.hypezigapp_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hnsJtvFB5RLfiGCJAX21syNNqdatWfaFo+gxpoEySkE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hnsJtvFB5RLfiGCJAX21syNNqdatWfaFo+gxpoEySkE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hnsJtvFB5RLfiGCJAX21syNNqdatWfaFo+gxpoEySkE="
+    }
+  },
+  "version": "2.3"
+}

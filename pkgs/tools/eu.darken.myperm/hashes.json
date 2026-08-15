@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.darken.myperm_20201000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yT0q3DVJYsXc1fLHR/66VJJsTItfN5+dTrscZ5M6TM4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yT0q3DVJYsXc1fLHR/66VJJsTItfN5+dTrscZ5M6TM4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yT0q3DVJYsXc1fLHR/66VJJsTItfN5+dTrscZ5M6TM4="
+    }
+  },
+  "version": "2.2.1-rc0"
+}

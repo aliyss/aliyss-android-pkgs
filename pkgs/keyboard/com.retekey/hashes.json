@@ -1,0 +1,18 @@
+{
+  "apkName": "com.retekey_94.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-V2EbTqOV3mf2EnrNRALlVJeMli45rcVGrDkomOM4a/g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V2EbTqOV3mf2EnrNRALlVJeMli45rcVGrDkomOM4a/g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V2EbTqOV3mf2EnrNRALlVJeMli45rcVGrDkomOM4a/g="
+    }
+  },
+  "version": "0.1.93"
+}

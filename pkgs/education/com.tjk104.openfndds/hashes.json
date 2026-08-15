@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tjk104.openfndds_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SEVeh/whuylGJ5zL02TnU3TBZrmYB/gtSeBXqs4D7Wo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SEVeh/whuylGJ5zL02TnU3TBZrmYB/gtSeBXqs4D7Wo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SEVeh/whuylGJ5zL02TnU3TBZrmYB/gtSeBXqs4D7Wo="
+    }
+  },
+  "version": "1.0.0"
+}

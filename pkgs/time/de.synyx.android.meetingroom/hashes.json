@@ -1,0 +1,18 @@
+{
+  "apkName": "de.synyx.android.meetingroom_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kB/3KiVUt37BvMOlsopHGY0GKYsKqzpKz6wTzC1zaSw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kB/3KiVUt37BvMOlsopHGY0GKYsKqzpKz6wTzC1zaSw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kB/3KiVUt37BvMOlsopHGY0GKYsKqzpKz6wTzC1zaSw="
+    }
+  },
+  "version": "1.4.0"
+}

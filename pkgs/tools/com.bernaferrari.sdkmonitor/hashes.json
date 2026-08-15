@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bernaferrari.sdkmonitor_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WkbltmHSMdmDAizbOnr8uc93P0B3j6jWTGIUUPdH9Uw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WkbltmHSMdmDAizbOnr8uc93P0B3j6jWTGIUUPdH9Uw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WkbltmHSMdmDAizbOnr8uc93P0B3j6jWTGIUUPdH9Uw="
+    }
+  },
+  "version": "2.0.2"
+}

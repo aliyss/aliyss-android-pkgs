@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jmstudios.redmoon_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wgfr8lM9UPE7qQnHoyC+DmVRVKkVMO/ryPfcXCfVtS0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wgfr8lM9UPE7qQnHoyC+DmVRVKkVMO/ryPfcXCfVtS0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wgfr8lM9UPE7qQnHoyC+DmVRVKkVMO/ryPfcXCfVtS0="
+    }
+  },
+  "version": "4.0.0"
+}

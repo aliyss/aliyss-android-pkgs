@@ -1,0 +1,18 @@
+{
+  "apkName": "org.openttd.fdroid_1410128.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NVzDAqiS+oxiRZtq5tDylAhouf6lIh94Tzb5BnezRhA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NVzDAqiS+oxiRZtq5tDylAhouf6lIh94Tzb5BnezRhA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NVzDAqiS+oxiRZtq5tDylAhouf6lIh94Tzb5BnezRhA="
+    }
+  },
+  "version": "14.1.rev128"
+}

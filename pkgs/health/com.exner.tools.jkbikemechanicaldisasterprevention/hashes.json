@@ -1,0 +1,18 @@
+{
+  "apkName": "com.exner.tools.jkbikemechanicaldisasterprevention_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ulp2POQjwYJ8QgiIuXAStHmAH2Um/o95jnsc3df05yU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ulp2POQjwYJ8QgiIuXAStHmAH2Um/o95jnsc3df05yU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ulp2POQjwYJ8QgiIuXAStHmAH2Um/o95jnsc3df05yU="
+    }
+  },
+  "version": "4.2.1"
+}

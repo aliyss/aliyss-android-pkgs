@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.thachillera.cardsscorekeeper_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4JYtDjtep7xIH23b+RKvgdeRSvvwekOLg65K1wFYZfU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4JYtDjtep7xIH23b+RKvgdeRSvvwekOLg65K1wFYZfU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4JYtDjtep7xIH23b+RKvgdeRSvvwekOLg65K1wFYZfU="
+    }
+  },
+  "version": "1.0.3"
+}

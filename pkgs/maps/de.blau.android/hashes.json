@@ -1,0 +1,18 @@
+{
+  "apkName": "de.blau.android_3409.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kuoMOmqvNCXWEzcUqihN0Pw1oM5q03A3HyBwFJalPZg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kuoMOmqvNCXWEzcUqihN0Pw1oM5q03A3HyBwFJalPZg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kuoMOmqvNCXWEzcUqihN0Pw1oM5q03A3HyBwFJalPZg="
+    }
+  },
+  "version": "22.0.8.0"
+}

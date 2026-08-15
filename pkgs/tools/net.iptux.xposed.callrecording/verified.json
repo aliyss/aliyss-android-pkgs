@@ -1,0 +1,8 @@
+{
+  "package": "net.iptux.xposed.callrecording",
+  "signerFingerprints": [
+    "9E:8F:12:A5:CA:89:4B:D3:A0:05:6D:94:6E:80:EC:85:76:F2:9F:88:56:1F:C8:26:B3:9B:B1:7A:7B:D8:14:AA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

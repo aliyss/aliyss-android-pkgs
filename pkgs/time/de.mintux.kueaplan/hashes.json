@@ -1,0 +1,18 @@
+{
+  "apkName": "de.mintux.kueaplan_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iWP3SlPm/4C8Ah7Gn5F5ZJYHR8CvFGbheFHLemCGtJI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iWP3SlPm/4C8Ah7Gn5F5ZJYHR8CvFGbheFHLemCGtJI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iWP3SlPm/4C8Ah7Gn5F5ZJYHR8CvFGbheFHLemCGtJI="
+    }
+  },
+  "version": "1.2.0"
+}

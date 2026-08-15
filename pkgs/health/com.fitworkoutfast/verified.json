@@ -1,0 +1,8 @@
+{
+  "package": "com.fitworkoutfast",
+  "signerFingerprints": [
+    "4D:77:24:FF:2A:AA:AB:D0:24:D5:3B:31:04:39:1D:C1:67:5A:7A:F9:63:75:A9:FC:F9:E8:56:55:A7:5F:FB:91"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

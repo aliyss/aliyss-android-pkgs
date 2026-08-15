@@ -1,0 +1,18 @@
+{
+  "apkName": "org.tfv.deskflow_10014.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eCWd4bfpuAaHEiTpNBe1/8hntRGab9C5KgFX6MWA1rg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eCWd4bfpuAaHEiTpNBe1/8hntRGab9C5KgFX6MWA1rg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eCWd4bfpuAaHEiTpNBe1/8hntRGab9C5KgFX6MWA1rg="
+    }
+  },
+  "version": "1.0.14"
+}

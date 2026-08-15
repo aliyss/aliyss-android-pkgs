@@ -1,0 +1,18 @@
+{
+  "apkName": "de.micmun.android.deufeitage_520.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JTuUwjNYX5ihYkolM0f1B2kPxjedkXe51VRdN0cZLvs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JTuUwjNYX5ihYkolM0f1B2kPxjedkXe51VRdN0cZLvs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JTuUwjNYX5ihYkolM0f1B2kPxjedkXe51VRdN0cZLvs="
+    }
+  },
+  "version": "5.2.0"
+}

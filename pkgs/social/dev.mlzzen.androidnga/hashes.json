@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.mlzzen.androidnga_1000201.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kibEapBIcFHelYl6cP8jxviHYU5LKxWxJ7o0nNQN/Yc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kibEapBIcFHelYl6cP8jxviHYU5LKxWxJ7o0nNQN/Yc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kibEapBIcFHelYl6cP8jxviHYU5LKxWxJ7o0nNQN/Yc="
+    }
+  },
+  "version": "v1.2.1"
+}

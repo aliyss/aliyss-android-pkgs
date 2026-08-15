@@ -1,0 +1,8 @@
+{
+  "package": "com.samleatherdale.openwith.floss",
+  "signerFingerprints": [
+    "BE:11:AF:96:3A:93:C0:10:CF:77:81:D0:BB:ED:EE:5A:CC:6F:7F:91:EF:FC:C2:2F:83:02:7E:33:5F:EB:A6:5D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

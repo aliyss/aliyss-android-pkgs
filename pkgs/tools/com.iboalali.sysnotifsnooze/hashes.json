@@ -1,0 +1,18 @@
+{
+  "apkName": "com.iboalali.sysnotifsnooze_102.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lYJZ97TU1hVug9k6qABIx7Jn55DY8LapiJ8JrGJSRZY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lYJZ97TU1hVug9k6qABIx7Jn55DY8LapiJ8JrGJSRZY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lYJZ97TU1hVug9k6qABIx7Jn55DY8LapiJ8JrGJSRZY="
+    }
+  },
+  "version": "v1.7vc102-fdroid"
+}

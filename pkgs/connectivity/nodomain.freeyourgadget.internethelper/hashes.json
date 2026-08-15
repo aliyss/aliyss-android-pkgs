@@ -1,0 +1,18 @@
+{
+  "apkName": "nodomain.freeyourgadget.internethelper_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ICj8tJ9o5oVcb/YrrZmhVEiEDUSJFalKLfuG7F3o8Ec="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ICj8tJ9o5oVcb/YrrZmhVEiEDUSJFalKLfuG7F3o8Ec="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ICj8tJ9o5oVcb/YrrZmhVEiEDUSJFalKLfuG7F3o8Ec="
+    }
+  },
+  "version": "0.7"
+}

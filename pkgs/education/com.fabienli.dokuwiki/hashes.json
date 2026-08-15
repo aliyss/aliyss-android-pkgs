@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fabienli.dokuwiki_82.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ApZhMcvWlRC43RO8LV68QdbexQmmVTa7xET6fu8Kzww="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ApZhMcvWlRC43RO8LV68QdbexQmmVTa7xET6fu8Kzww="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ApZhMcvWlRC43RO8LV68QdbexQmmVTa7xET6fu8Kzww="
+    }
+  },
+  "version": "v1.4.0"
+}

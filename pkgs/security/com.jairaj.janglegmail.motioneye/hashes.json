@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jairaj.janglegmail.motioneye_106.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-L0urMho5p2lRBBIf9OS4tegBCn0TjitnkEc+7PPH1nE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-L0urMho5p2lRBBIf9OS4tegBCn0TjitnkEc+7PPH1nE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-L0urMho5p2lRBBIf9OS4tegBCn0TjitnkEc+7PPH1nE="
+    }
+  },
+  "version": "1.0.6"
+}

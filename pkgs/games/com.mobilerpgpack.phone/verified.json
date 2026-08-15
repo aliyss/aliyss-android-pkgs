@@ -1,0 +1,8 @@
+{
+  "package": "com.mobilerpgpack.phone",
+  "signerFingerprints": [
+    "1C:4A:EE:F0:E2:00:2F:6F:8A:00:C6:8D:88:9E:6C:F5:6A:05:56:57:A8:16:8A:5A:F0:B2:F4:3E:6C:5A:95:B6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

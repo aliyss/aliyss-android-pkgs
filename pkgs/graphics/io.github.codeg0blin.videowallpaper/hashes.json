@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.codeg0blin.videowallpaper_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SzTr/mdi8w13wtAc+PFXGPCv2wKM1hiAMvPiNMe30C8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SzTr/mdi8w13wtAc+PFXGPCv2wKM1hiAMvPiNMe30C8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SzTr/mdi8w13wtAc+PFXGPCv2wKM1hiAMvPiNMe30C8="
+    }
+  },
+  "version": "1.1.5"
+}

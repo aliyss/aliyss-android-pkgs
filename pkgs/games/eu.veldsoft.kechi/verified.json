@@ -1,0 +1,8 @@
+{
+  "package": "eu.veldsoft.kechi",
+  "signerFingerprints": [
+    "E0:25:62:D0:09:F5:F8:26:48:31:31:B0:D2:82:83:84:9B:1B:9A:47:21:04:F8:2F:FF:9C:42:C9:94:94:77:28"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

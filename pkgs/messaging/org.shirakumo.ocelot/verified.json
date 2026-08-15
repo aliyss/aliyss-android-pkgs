@@ -1,0 +1,8 @@
+{
+  "package": "org.shirakumo.ocelot",
+  "signerFingerprints": [
+    "7F:7A:0B:0A:E7:06:27:A9:9B:59:CE:D2:C1:1D:18:91:52:DF:72:8E:FB:EE:10:AC:16:F3:8D:BF:64:8A:52:4B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

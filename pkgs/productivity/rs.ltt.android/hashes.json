@@ -1,0 +1,18 @@
+{
+  "apkName": "rs.ltt.android_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nJBg8+JocxR/YlGwyDJRWMADGZobC3ELUBSyaTcCbns="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nJBg8+JocxR/YlGwyDJRWMADGZobC3ELUBSyaTcCbns="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nJBg8+JocxR/YlGwyDJRWMADGZobC3ELUBSyaTcCbns="
+    }
+  },
+  "version": "0.4.4"
+}

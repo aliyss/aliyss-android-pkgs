@@ -1,0 +1,8 @@
+{
+  "package": "org.ligi.gobandroid_hd",
+  "signerFingerprints": [
+    "82:84:B1:F3:67:1C:84:ED:23:E3:2D:B2:EC:6C:09:9B:7C:46:37:37:69:4B:8C:A7:4B:80:B9:CE:25:25:36:6F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

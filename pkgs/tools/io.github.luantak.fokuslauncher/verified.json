@@ -1,0 +1,8 @@
+{
+  "package": "io.github.luantak.fokuslauncher",
+  "signerFingerprints": [
+    "79:35:1D:7E:DA:A5:E5:4B:33:9C:1C:9B:E6:8E:3F:08:BC:DB:97:DC:7E:82:91:29:16:DF:60:38:55:7E:BE:48"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

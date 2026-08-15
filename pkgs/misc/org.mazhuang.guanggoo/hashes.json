@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mazhuang.guanggoo_179.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ent2XzQpOHHcA7z0nuQHo95DbM3iTqwO7SKVAPlQRF0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ent2XzQpOHHcA7z0nuQHo95DbM3iTqwO7SKVAPlQRF0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ent2XzQpOHHcA7z0nuQHo95DbM3iTqwO7SKVAPlQRF0="
+    }
+  },
+  "version": "2.3.179"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "in.basulabs.shakealarmclock",
+  "signerFingerprints": [
+    "60:CF:39:72:9F:62:30:FD:0D:F6:84:9D:11:D7:5B:78:84:27:9E:D8:9C:1C:08:2A:CD:BB:72:38:BC:D6:E5:B4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

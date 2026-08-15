@@ -1,0 +1,8 @@
+{
+  "package": "com.chesire.nekome",
+  "signerFingerprints": [
+    "2C:4D:23:A1:FB:D5:68:03:F9:D6:64:AD:95:24:FF:B5:DA:E9:96:F1:38:CD:A8:54:06:E9:FD:A9:8D:C7:BA:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

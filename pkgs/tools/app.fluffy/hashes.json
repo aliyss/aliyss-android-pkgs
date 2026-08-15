@@ -1,0 +1,18 @@
+{
+  "apkName": "app.fluffy_801.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kuy2sGmfppEwoRQGndJJUrITEvPpcy+9+V1/yU+yxSU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kuy2sGmfppEwoRQGndJJUrITEvPpcy+9+V1/yU+yxSU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kuy2sGmfppEwoRQGndJJUrITEvPpcy+9+V1/yU+yxSU="
+    }
+  },
+  "version": "4.2.5"
+}

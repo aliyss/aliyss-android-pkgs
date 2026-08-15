@@ -1,0 +1,8 @@
+{
+  "package": "com.nothingsecure",
+  "signerFingerprints": [
+    "91:96:48:0B:D9:B6:5C:A5:B8:F2:54:60:AD:9F:41:11:03:C6:63:EF:C7:97:87:BC:A9:B1:CA:03:A1:B8:46:72"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

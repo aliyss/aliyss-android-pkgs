@@ -1,0 +1,18 @@
+{
+  "apkName": "com.arthur.arcade_101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EU11D+coaG4OvYqFaZC4Na/MbDFgrFs4qcrZ52OU6Yc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EU11D+coaG4OvYqFaZC4Na/MbDFgrFs4qcrZ52OU6Yc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EU11D+coaG4OvYqFaZC4Na/MbDFgrFs4qcrZ52OU6Yc="
+    }
+  },
+  "version": "1.1"
+}

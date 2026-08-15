@@ -1,0 +1,8 @@
+{
+  "package": "com.biketrackd.app",
+  "signerFingerprints": [
+    "55:D3:11:59:36:C1:29:06:ED:05:9D:3F:6A:8D:AC:EE:EA:A8:A7:AF:D6:BF:E2:F1:5B:70:FD:80:D9:00:7C:90"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

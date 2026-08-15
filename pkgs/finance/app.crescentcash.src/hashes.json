@@ -1,0 +1,18 @@
+{
+  "apkName": "app.crescentcash.src_120.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oCtkwY0OxDrf6HaGVRQWpMaPNts6JRIvxHR5frSICu4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oCtkwY0OxDrf6HaGVRQWpMaPNts6JRIvxHR5frSICu4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oCtkwY0OxDrf6HaGVRQWpMaPNts6JRIvxHR5frSICu4="
+    }
+  },
+  "version": "1.13.9"
+}

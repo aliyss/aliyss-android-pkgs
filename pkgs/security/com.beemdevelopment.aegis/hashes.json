@@ -1,0 +1,18 @@
+{
+  "apkName": "com.beemdevelopment.aegis_81.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-q2M9McwPpJ464po7gWp/y+BAM6Mif0K9MM+G/NO+QVk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q2M9McwPpJ464po7gWp/y+BAM6Mif0K9MM+G/NO+QVk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q2M9McwPpJ464po7gWp/y+BAM6Mif0K9MM+G/NO+QVk="
+    }
+  },
+  "version": "3.4.2"
+}

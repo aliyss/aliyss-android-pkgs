@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tortillum.signalid_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EY0kw5oLuejMugRD8zjHDGKMTPc+xGbBP6fTde1EmCI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EY0kw5oLuejMugRD8zjHDGKMTPc+xGbBP6fTde1EmCI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EY0kw5oLuejMugRD8zjHDGKMTPc+xGbBP6fTde1EmCI="
+    }
+  },
+  "version": "1.2"
+}

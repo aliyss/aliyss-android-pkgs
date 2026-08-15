@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tk.quicksearch_70.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RtcpuBM1/2kzdYGtZxJw/A3A4YrCcpY1r2koH/O+CaE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RtcpuBM1/2kzdYGtZxJw/A3A4YrCcpY1r2koH/O+CaE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RtcpuBM1/2kzdYGtZxJw/A3A4YrCcpY1r2koH/O+CaE="
+    }
+  },
+  "version": "4.0"
+}

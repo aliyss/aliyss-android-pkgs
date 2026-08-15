@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.muellerma.nfcreader_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-32nDg/rBqz4DFUyxcapA3OuwI+EZSMHePT4Giw307TA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-32nDg/rBqz4DFUyxcapA3OuwI+EZSMHePT4Giw307TA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-32nDg/rBqz4DFUyxcapA3OuwI+EZSMHePT4Giw307TA="
+    }
+  },
+  "version": "1.1"
+}

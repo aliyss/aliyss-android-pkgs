@@ -1,0 +1,18 @@
+{
+  "apkName": "com.apkupdater.ci_604.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lnQdUBrmCsc7lJgxh7x9s8/iios1IM/8NxF3182jVPI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lnQdUBrmCsc7lJgxh7x9s8/iios1IM/8NxF3182jVPI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lnQdUBrmCsc7lJgxh7x9s8/iios1IM/8NxF3182jVPI="
+    }
+  },
+  "version": "0.0.604"
+}

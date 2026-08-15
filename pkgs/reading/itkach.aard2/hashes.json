@@ -1,0 +1,18 @@
+{
+  "apkName": "itkach.aard2_58.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ch57IWQ5iUoRuH1iHjrJQG+VD7c6vXmDQUQHyz+Tczo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ch57IWQ5iUoRuH1iHjrJQG+VD7c6vXmDQUQHyz+Tczo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ch57IWQ5iUoRuH1iHjrJQG+VD7c6vXmDQUQHyz+Tczo="
+    }
+  },
+  "version": "0.58"
+}

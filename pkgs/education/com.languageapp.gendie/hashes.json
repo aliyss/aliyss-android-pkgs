@@ -1,0 +1,18 @@
+{
+  "apkName": "com.languageapp.gendie_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OrCzc/w+abEAZFdK0hx4289z5/BpCqV/udQPw5VfqZQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OrCzc/w+abEAZFdK0hx4289z5/BpCqV/udQPw5VfqZQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OrCzc/w+abEAZFdK0hx4289z5/BpCqV/udQPw5VfqZQ="
+    }
+  },
+  "version": "2.0.1"
+}

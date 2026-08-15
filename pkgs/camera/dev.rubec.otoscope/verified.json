@@ -1,0 +1,8 @@
+{
+  "package": "dev.rubec.otoscope",
+  "signerFingerprints": [
+    "69:4D:49:76:7B:3E:3F:1A:40:24:07:2F:9B:13:FE:FC:44:FC:04:36:28:03:C5:5F:E0:3E:30:BA:27:07:AF:A9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

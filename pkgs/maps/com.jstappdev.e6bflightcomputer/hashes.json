@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jstappdev.e6bflightcomputer_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-StbcnVbWkwBnh8JjoifHb7AHxuhqn47Xkd3gPcz02Gs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-StbcnVbWkwBnh8JjoifHb7AHxuhqn47Xkd3gPcz02Gs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-StbcnVbWkwBnh8JjoifHb7AHxuhqn47Xkd3gPcz02Gs="
+    }
+  },
+  "version": "2.0"
+}

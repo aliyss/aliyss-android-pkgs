@@ -1,0 +1,18 @@
+{
+  "apkName": "moe.henry_zhr.kill_domain_verification_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UrWhzLtcEPXkd6CpbaHJj/a0rXjmX+9lXDu9v8vbrx4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UrWhzLtcEPXkd6CpbaHJj/a0rXjmX+9lXDu9v8vbrx4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UrWhzLtcEPXkd6CpbaHJj/a0rXjmX+9lXDu9v8vbrx4="
+    }
+  },
+  "version": "4"
+}

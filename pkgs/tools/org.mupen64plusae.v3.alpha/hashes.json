@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mupen64plusae.v3.alpha_246.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-c1EX3GWQ+Pa+uLoVPxlO5Jy6PLk1uvvZxJxmHn1sFNU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c1EX3GWQ+Pa+uLoVPxlO5Jy6PLk1uvvZxJxmHn1sFNU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c1EX3GWQ+Pa+uLoVPxlO5Jy6PLk1uvvZxJxmHn1sFNU="
+    }
+  },
+  "version": "3.0.246 (beta)"
+}

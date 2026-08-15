@@ -1,0 +1,8 @@
+{
+  "package": "com.topjohnwu.magisk",
+  "signerFingerprints": [
+    "97:F9:DC:10:84:DA:5B:F0:97:91:C8:51:3B:02:3E:CB:91:69:75:11:B1:18:93:7D:BF:2E:45:41:A2:FF:26:55"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

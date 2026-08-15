@@ -1,0 +1,8 @@
+{
+  "package": "com.octo4a",
+  "signerFingerprints": [
+    "0C:3C:82:05:F4:F3:42:35:2C:07:93:46:7B:54:CE:A2:C8:CA:C7:F4:65:90:4C:CC:0B:C0:DC:08:9F:B8:FE:87"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

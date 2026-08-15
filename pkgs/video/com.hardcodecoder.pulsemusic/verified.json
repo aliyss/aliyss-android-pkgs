@@ -1,0 +1,8 @@
+{
+  "package": "com.hardcodecoder.pulsemusic",
+  "signerFingerprints": [
+    "83:D3:3F:A0:F0:19:E5:E6:0A:C7:15:CE:9E:91:1D:E4:E3:79:DF:D4:62:A3:F6:6C:D8:ED:11:82:A8:D0:73:67"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

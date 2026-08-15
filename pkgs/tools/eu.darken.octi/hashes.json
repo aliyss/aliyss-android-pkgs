@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.darken.octi_10200010.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3dltDP7p737jX3stMzFZ5cX1mD4qG+kUp1WBB6vI4ak="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3dltDP7p737jX3stMzFZ5cX1mD4qG+kUp1WBB6vI4ak="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3dltDP7p737jX3stMzFZ5cX1mD4qG+kUp1WBB6vI4ak="
+    }
+  },
+  "version": "1.2.0-rc1"
+}

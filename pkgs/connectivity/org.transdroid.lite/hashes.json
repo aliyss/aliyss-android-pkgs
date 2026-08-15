@@ -1,0 +1,18 @@
+{
+  "apkName": "org.transdroid.lite_249.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8NAe/fxfR8ryVOcFARzUX3XeHPckMovEFB62Wc/v0vI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8NAe/fxfR8ryVOcFARzUX3XeHPckMovEFB62Wc/v0vI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8NAe/fxfR8ryVOcFARzUX3XeHPckMovEFB62Wc/v0vI="
+    }
+  },
+  "version": "2.5.29"
+}

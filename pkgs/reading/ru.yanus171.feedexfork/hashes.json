@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.yanus171.feedexfork_339.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Tr7NLQlemH8NGxQA7RqXoPEXCfk65KhSIzKp1lTI1+M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Tr7NLQlemH8NGxQA7RqXoPEXCfk65KhSIzKp1lTI1+M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Tr7NLQlemH8NGxQA7RqXoPEXCfk65KhSIzKp1lTI1+M="
+    }
+  },
+  "version": "1.1.4"
+}

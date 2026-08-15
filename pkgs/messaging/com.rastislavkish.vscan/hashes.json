@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rastislavkish.vscan_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aNOZiKIAGIYksKdwxP7Irouo5U5K5Ek1RH6Sj58c9R4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aNOZiKIAGIYksKdwxP7Irouo5U5K5Ek1RH6Sj58c9R4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aNOZiKIAGIYksKdwxP7Irouo5U5K5Ek1RH6Sj58c9R4="
+    }
+  },
+  "version": "0.2.4"
+}

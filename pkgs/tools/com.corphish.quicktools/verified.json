@@ -1,0 +1,8 @@
+{
+  "package": "com.corphish.quicktools",
+  "signerFingerprints": [
+    "C3:8C:54:BA:54:FA:67:18:A5:6A:8E:E3:19:CF:82:91:32:98:60:BA:09:22:90:74:3B:7D:EF:D8:13:FA:9D:E7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

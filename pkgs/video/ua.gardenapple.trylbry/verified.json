@@ -1,0 +1,8 @@
+{
+  "package": "ua.gardenapple.trylbry",
+  "signerFingerprints": [
+    "B3:4B:2E:95:9C:C5:DC:29:6B:F7:B4:4C:67:4F:36:E2:FA:70:5C:4F:FC:7B:5D:07:7E:8D:7F:CE:67:30:F0:ED"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

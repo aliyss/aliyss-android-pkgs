@@ -1,0 +1,8 @@
+{
+  "package": "com.wa2c.android.cifsdocumentsprovider",
+  "signerFingerprints": [
+    "32:64:44:88:EA:8F:82:47:D8:E1:07:B1:41:FB:B5:F1:67:48:64:AD:09:15:6B:A8:C3:57:A1:FC:A9:B5:7A:EB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

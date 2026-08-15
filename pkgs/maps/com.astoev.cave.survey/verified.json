@@ -1,0 +1,8 @@
+{
+  "package": "com.astoev.cave.survey",
+  "signerFingerprints": [
+    "96:3F:D4:39:51:B0:56:55:88:CE:D3:A3:BF:AA:33:E4:9D:AA:F4:22:6A:1C:59:DE:82:42:53:29:86:17:20:F3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

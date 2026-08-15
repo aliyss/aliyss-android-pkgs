@@ -1,0 +1,18 @@
+{
+  "apkName": "ac.robinson.mediaphone_65.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SX4BncihyFlt0OJVSk9103JTEBGyM96kotGS5pTtdVI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SX4BncihyFlt0OJVSk9103JTEBGyM96kotGS5pTtdVI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SX4BncihyFlt0OJVSk9103JTEBGyM96kotGS5pTtdVI="
+    }
+  },
+  "version": "1.8.2"
+}

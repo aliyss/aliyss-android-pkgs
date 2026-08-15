@@ -1,0 +1,8 @@
+{
+  "package": "com.crazyunicorn.simplequizfr",
+  "signerFingerprints": [
+    "E4:C6:40:43:B9:23:8F:D6:47:25:15:55:52:40:D8:D3:EF:C2:4A:08:B6:08:2B:3D:46:06:A5:71:0A:1E:08:A9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

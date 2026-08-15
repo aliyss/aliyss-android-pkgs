@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.twentynine.keepon_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H4eVQGcNvp4bRQcWxBggFQtROtsY+6odV0KIgIPTo74="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H4eVQGcNvp4bRQcWxBggFQtROtsY+6odV0KIgIPTo74="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H4eVQGcNvp4bRQcWxBggFQtROtsY+6odV0KIgIPTo74="
+    }
+  },
+  "version": "2.2.0"
+}

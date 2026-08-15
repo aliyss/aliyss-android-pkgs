@@ -1,0 +1,18 @@
+{
+  "apkName": "com.afaneca.myfin_24100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+YZ3uWFArQZT+/9HSyrzmyOE16snn8NQvYXB0jfoWjI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+YZ3uWFArQZT+/9HSyrzmyOE16snn8NQvYXB0jfoWjI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+YZ3uWFArQZT+/9HSyrzmyOE16snn8NQvYXB0jfoWjI="
+    }
+  },
+  "version": "2.4.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "it.piemonte.arpa.openoise_20008.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EnRRSHcMvba3TC0uhkLKQR3l8nflP2mt2YuRYZLeSAE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EnRRSHcMvba3TC0uhkLKQR3l8nflP2mt2YuRYZLeSAE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EnRRSHcMvba3TC0uhkLKQR3l8nflP2mt2YuRYZLeSAE="
+    }
+  },
+  "version": "3.0.4"
+}

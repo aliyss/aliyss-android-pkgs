@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.libretube_70.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gIeKj8KqIuyTg/UXaw9TdhFtBJEbtyy/YGwNjuKkyUc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gIeKj8KqIuyTg/UXaw9TdhFtBJEbtyy/YGwNjuKkyUc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gIeKj8KqIuyTg/UXaw9TdhFtBJEbtyy/YGwNjuKkyUc="
+    }
+  },
+  "version": "31.4"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dessalines.rankmyfavs_44.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5HGDE4J1iz+0kr9Q1R5S+9AP6HfYDQBddN9KCZKEMew="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5HGDE4J1iz+0kr9Q1R5S+9AP6HfYDQBddN9KCZKEMew="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5HGDE4J1iz+0kr9Q1R5S+9AP6HfYDQBddN9KCZKEMew="
+    }
+  },
+  "version": "0.6.21"
+}

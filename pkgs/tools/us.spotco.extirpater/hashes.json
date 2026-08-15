@@ -1,0 +1,18 @@
+{
+  "apkName": "us.spotco.extirpater_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uo3NBWav/aYbetlMt/HyscDL/yy3i9L9BCtqDjhYQG4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uo3NBWav/aYbetlMt/HyscDL/yy3i9L9BCtqDjhYQG4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uo3NBWav/aYbetlMt/HyscDL/yy3i9L9BCtqDjhYQG4="
+    }
+  },
+  "version": "1.8"
+}

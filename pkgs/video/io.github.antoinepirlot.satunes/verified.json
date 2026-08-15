@@ -1,0 +1,8 @@
+{
+  "package": "io.github.antoinepirlot.satunes",
+  "signerFingerprints": [
+    "7E:E0:DF:5B:3A:80:0A:22:39:98:76:97:D8:39:6E:CF:17:6C:9E:F8:A7:06:88:93:FA:1E:88:52:CE:5F:26:79"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.saverio.wordoftheday_en_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NrCOmh+4bYhl6XzE9FkQ6cjvMepyzcrXv3NMtS+EFdY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NrCOmh+4bYhl6XzE9FkQ6cjvMepyzcrXv3NMtS+EFdY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NrCOmh+4bYhl6XzE9FkQ6cjvMepyzcrXv3NMtS+EFdY="
+    }
+  },
+  "version": "2.0"
+}

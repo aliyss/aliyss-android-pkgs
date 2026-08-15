@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.shingyx.boomswitch_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qR0HuTG4ZYk5QWOrkZQwwwO8O5fpIOim4AMhhIsoyVU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qR0HuTG4ZYk5QWOrkZQwwwO8O5fpIOim4AMhhIsoyVU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qR0HuTG4ZYk5QWOrkZQwwwO8O5fpIOim4AMhhIsoyVU="
+    }
+  },
+  "version": "1.10"
+}

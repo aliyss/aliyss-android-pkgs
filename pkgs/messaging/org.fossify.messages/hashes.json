@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fossify.messages_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lfImx5Ka3CaZzbK8bq0ppwS9249VvZLZtOz3S7YE8cY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lfImx5Ka3CaZzbK8bq0ppwS9249VvZLZtOz3S7YE8cY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lfImx5Ka3CaZzbK8bq0ppwS9249VvZLZtOz3S7YE8cY="
+    }
+  },
+  "version": "1.9.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "player.efis.pfd.ink_105.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-u7aVmAfgzzYbzuLE+eRc+WyDrGNf2Tfa/1ku9X/n/uI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u7aVmAfgzzYbzuLE+eRc+WyDrGNf2Tfa/1ku9X/n/uI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u7aVmAfgzzYbzuLE+eRc+WyDrGNf2Tfa/1ku9X/n/uI="
+    }
+  },
+  "version": "8.05"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.wentura.getflow_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2rKko6U2Kn2ZqnnqBbSV9R3Nn5kHI15Inov7UsD7y1Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2rKko6U2Kn2ZqnnqBbSV9R3Nn5kHI15Inov7UsD7y1Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2rKko6U2Kn2ZqnnqBbSV9R3Nn5kHI15Inov7UsD7y1Q="
+    }
+  },
+  "version": "1.0.0"
+}

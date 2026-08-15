@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rechnen.app_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-++hyB8dwqd9P35IxzqRZKHym/ks4qvWA0IqNP3OZxBA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-++hyB8dwqd9P35IxzqRZKHym/ks4qvWA0IqNP3OZxBA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-++hyB8dwqd9P35IxzqRZKHym/ks4qvWA0IqNP3OZxBA="
+    }
+  },
+  "version": "3.1"
+}

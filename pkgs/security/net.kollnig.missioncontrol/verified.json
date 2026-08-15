@@ -1,0 +1,8 @@
+{
+  "package": "net.kollnig.missioncontrol",
+  "signerFingerprints": [
+    "7F:48:F7:47:81:63:20:67:CA:E3:34:73:4F:F2:BD:F5:4E:B2:A9:77:C0:61:A3:27:49:9C:A9:10:92:02:D6:80"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlycircuittraining_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iHEEl0cmz92+JHlB52MB7w1m9tCVz9zC1//uJpWGftQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iHEEl0cmz92+JHlB52MB7w1m9tCVz9zC1//uJpWGftQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iHEEl0cmz92+JHlB52MB7w1m9tCVz9zC1//uJpWGftQ="
+    }
+  },
+  "version": "1.2.4"
+}

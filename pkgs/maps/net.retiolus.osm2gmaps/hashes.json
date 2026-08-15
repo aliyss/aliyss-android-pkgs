@@ -1,0 +1,18 @@
+{
+  "apkName": "net.retiolus.osm2gmaps_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-szQ1iIPyxq2JlaX30PcA6jnI5yu2MjW7n1S2V+FtXTM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-szQ1iIPyxq2JlaX30PcA6jnI5yu2MjW7n1S2V+FtXTM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-szQ1iIPyxq2JlaX30PcA6jnI5yu2MjW7n1S2V+FtXTM="
+    }
+  },
+  "version": "0.6.0"
+}

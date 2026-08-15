@@ -1,0 +1,8 @@
+{
+  "package": "net.helcel.beans",
+  "signerFingerprints": [
+    "62:53:15:7E:24:C9:6C:4B:EB:03:06:69:12:4F:92:7C:4A:17:E5:45:88:28:E6:B7:8F:8E:29:C4:E0:22:AF:5B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

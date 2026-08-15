@@ -1,0 +1,8 @@
+{
+  "package": "com.elsdoerfer.android.autostarts",
+  "signerFingerprints": [
+    "E2:5A:B6:71:54:64:76:56:F3:E2:5C:D3:F5:69:37:2C:02:2D:3F:E1:48:35:5B:3A:EB:85:E0:30:14:6A:AC:DE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

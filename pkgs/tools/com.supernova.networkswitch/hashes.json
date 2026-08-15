@@ -1,0 +1,18 @@
+{
+  "apkName": "com.supernova.networkswitch_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Kcxw2yDIZrDszvqEZ7B/4Vb1pili+8tsArleY+icOEE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Kcxw2yDIZrDszvqEZ7B/4Vb1pili+8tsArleY+icOEE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Kcxw2yDIZrDszvqEZ7B/4Vb1pili+8tsArleY+icOEE="
+    }
+  },
+  "version": "1.1.0"
+}

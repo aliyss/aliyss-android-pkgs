@@ -1,0 +1,8 @@
+{
+  "package": "com.openappslabs.coffee",
+  "signerFingerprints": [
+    "D7:53:F0:B3:16:7E:CB:F2:AD:DF:BC:4F:D5:D1:52:C1:20:4C:9C:63:6B:BD:8D:CF:90:EC:89:40:6A:A6:BB:1C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

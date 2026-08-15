@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aurora.store_76.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/Zx12Q0PSnwTK5tKWizxmSpF4DuNj/mIt9z7wNssTRE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Zx12Q0PSnwTK5tKWizxmSpF4DuNj/mIt9z7wNssTRE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Zx12Q0PSnwTK5tKWizxmSpF4DuNj/mIt9z7wNssTRE="
+    }
+  },
+  "version": "4.8.4"
+}

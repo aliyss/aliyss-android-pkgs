@@ -1,0 +1,18 @@
+{
+  "apkName": "com.akylas.enforcedoze_86.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-f60agu4PWmr4a3yyCHnE1K0romv0YrUssQtjYHGaSnU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f60agu4PWmr4a3yyCHnE1K0romv0YrUssQtjYHGaSnU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f60agu4PWmr4a3yyCHnE1K0romv0YrUssQtjYHGaSnU="
+    }
+  },
+  "version": "1.10.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "eu.darken.octi",
+  "signerFingerprints": [
+    "34:61:26:57:AF:AE:BE:CC:14:55:65:07:F5:A3:5D:6B:7B:50:DA:BC:10:D6:23:96:7B:D7:F9:7C:89:AD:BE:0E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

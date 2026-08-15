@@ -1,0 +1,18 @@
+{
+  "apkName": "jp.takke.datastats_37.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-D/4lEPMYp1717FmHzQO0usjw/sPq6b+g3YSuAEGJkHo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D/4lEPMYp1717FmHzQO0usjw/sPq6b+g3YSuAEGJkHo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D/4lEPMYp1717FmHzQO0usjw/sPq6b+g3YSuAEGJkHo="
+    }
+  },
+  "version": "4.0.1"
+}

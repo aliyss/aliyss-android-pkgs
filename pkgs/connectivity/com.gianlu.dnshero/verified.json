@@ -1,0 +1,8 @@
+{
+  "package": "com.gianlu.dnshero",
+  "signerFingerprints": [
+    "69:27:50:17:48:E2:E8:CC:74:74:47:3A:4B:C2:B6:5A:DE:3A:2A:C6:D4:5F:0E:98:13:75:7F:74:65:E0:35:B5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

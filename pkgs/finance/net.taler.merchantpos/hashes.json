@@ -1,0 +1,18 @@
+{
+  "apkName": "net.taler.merchantpos_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-91slDpLQgUKHxRlfCnw/SViKOFBuxwyFMA0ToeL0EEA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-91slDpLQgUKHxRlfCnw/SViKOFBuxwyFMA0ToeL0EEA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-91slDpLQgUKHxRlfCnw/SViKOFBuxwyFMA0ToeL0EEA="
+    }
+  },
+  "version": "1.6.2"
+}

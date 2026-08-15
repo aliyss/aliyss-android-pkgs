@@ -1,0 +1,8 @@
+{
+  "package": "de.determapp.android",
+  "signerFingerprints": [
+    "C0:8D:D1:23:03:67:66:89:5A:3E:CB:00:48:60:FF:C8:42:13:B0:00:CE:9D:CD:ED:C9:40:D5:57:CA:63:7E:C0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

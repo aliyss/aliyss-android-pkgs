@@ -1,0 +1,18 @@
+{
+  "apkName": "com.trianguloy.isUserAMonkey_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i24LlbX/FoEdbEP7rW36ANs8NvKLlAI9uEwBdUeOvr0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i24LlbX/FoEdbEP7rW36ANs8NvKLlAI9uEwBdUeOvr0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i24LlbX/FoEdbEP7rW36ANs8NvKLlAI9uEwBdUeOvr0="
+    }
+  },
+  "version": "2.0"
+}

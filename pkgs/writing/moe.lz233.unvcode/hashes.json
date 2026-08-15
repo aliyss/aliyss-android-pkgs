@@ -1,0 +1,18 @@
+{
+  "apkName": "moe.lz233.unvcode_20220207.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WKhd4SNQ0GIncQBlv3KE38cn7nutogz3J5U78frDHS8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WKhd4SNQ0GIncQBlv3KE38cn7nutogz3J5U78frDHS8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WKhd4SNQ0GIncQBlv3KE38cn7nutogz3J5U78frDHS8="
+    }
+  },
+  "version": "0.2"
+}

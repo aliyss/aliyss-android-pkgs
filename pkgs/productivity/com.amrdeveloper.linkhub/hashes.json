@@ -1,0 +1,18 @@
+{
+  "apkName": "com.amrdeveloper.linkhub_48.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r5kTYxeyj6zUb8g3d3qhg0/czSeVDCu071EKSTMarfo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r5kTYxeyj6zUb8g3d3qhg0/czSeVDCu071EKSTMarfo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r5kTYxeyj6zUb8g3d3qhg0/czSeVDCu071EKSTMarfo="
+    }
+  },
+  "version": "2.2.1"
+}

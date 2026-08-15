@@ -1,0 +1,8 @@
+{
+  "package": "com.burnpony.android",
+  "signerFingerprints": [
+    "05:4E:EF:E6:E5:D8:FD:7E:B0:58:25:E6:8E:EA:33:B0:A2:C2:D5:8F:1B:80:AF:05:F7:56:25:34:C8:18:38:66"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

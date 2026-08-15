@@ -1,0 +1,8 @@
+{
+  "package": "io.theficos.quire",
+  "signerFingerprints": [
+    "3C:18:14:B1:49:9C:7C:79:96:11:08:35:99:5D:41:12:A3:94:49:F8:DA:82:43:33:EA:77:AA:73:43:94:8F:F3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.pedrolcl.vmpk",
+  "signerFingerprints": [
+    "20:9C:2F:BF:9C:61:71:7E:7C:C7:D7:DA:43:11:9F:13:43:11:2A:0A:34:22:7B:32:64:F2:8F:EF:DD:B7:3A:FD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

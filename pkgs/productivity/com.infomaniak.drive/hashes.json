@@ -1,0 +1,18 @@
+{
+  "apkName": "com.infomaniak.drive_502000002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T2nTolcFM/SJPtSxa9YHbfZNRnZks0Uq/DS2vjCxoic="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T2nTolcFM/SJPtSxa9YHbfZNRnZks0Uq/DS2vjCxoic="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T2nTolcFM/SJPtSxa9YHbfZNRnZks0Uq/DS2vjCxoic="
+    }
+  },
+  "version": "5.20.0"
+}

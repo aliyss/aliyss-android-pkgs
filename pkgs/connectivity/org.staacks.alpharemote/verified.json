@@ -1,0 +1,8 @@
+{
+  "package": "org.staacks.alpharemote",
+  "signerFingerprints": [
+    "C9:C9:29:4A:9B:FB:BA:54:56:01:3D:D0:90:DF:00:57:DA:EC:2C:F6:A0:7D:65:F9:60:AA:61:1E:F9:03:B5:4F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

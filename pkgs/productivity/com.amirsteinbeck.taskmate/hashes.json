@@ -1,0 +1,18 @@
+{
+  "apkName": "com.amirsteinbeck.taskmate_41100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+cDe/pjOFkB59hNs91HAz9l1QVye0adKuDx8DWPgTLI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+cDe/pjOFkB59hNs91HAz9l1QVye0adKuDx8DWPgTLI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+cDe/pjOFkB59hNs91HAz9l1QVye0adKuDx8DWPgTLI="
+    }
+  },
+  "version": "4.11.0"
+}

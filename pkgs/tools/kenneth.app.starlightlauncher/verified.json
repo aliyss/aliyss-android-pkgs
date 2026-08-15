@@ -1,0 +1,8 @@
+{
+  "package": "kenneth.app.starlightlauncher",
+  "signerFingerprints": [
+    "39:74:BE:FD:8E:86:9C:86:47:AC:5F:F7:54:22:A0:4E:25:16:73:06:E5:05:2F:6A:E9:C1:15:8D:CC:2E:22:B8"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

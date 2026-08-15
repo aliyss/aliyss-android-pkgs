@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlyludo_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uGQn4cTodDcr4/T4e8JnOalsN+h+99h2UFaPzAH+SHs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uGQn4cTodDcr4/T4e8JnOalsN+h+99h2UFaPzAH+SHs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uGQn4cTodDcr4/T4e8JnOalsN+h+99h2UFaPzAH+SHs="
+    }
+  },
+  "version": "2.3.3"
+}

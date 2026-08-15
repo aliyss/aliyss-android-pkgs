@@ -1,0 +1,18 @@
+{
+  "apkName": "com.farmerbb.secondscreen.free_186.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Pxp0y7sQiM2jMxhuSJTFXv5t4UX+0ANjVLLsg7pe0Tg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pxp0y7sQiM2jMxhuSJTFXv5t4UX+0ANjVLLsg7pe0Tg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pxp0y7sQiM2jMxhuSJTFXv5t4UX+0ANjVLLsg7pe0Tg="
+    }
+  },
+  "version": "2.9.4"
+}

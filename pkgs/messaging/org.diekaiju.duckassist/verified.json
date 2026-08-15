@@ -1,0 +1,8 @@
+{
+  "package": "org.diekaiju.duckassist",
+  "signerFingerprints": [
+    "5E:F6:9B:D6:56:D4:1B:55:A7:58:25:41:B7:E7:9C:51:17:E6:EE:6B:E0:CF:07:6A:A5:82:E4:28:C2:3E:5C:54"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

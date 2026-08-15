@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.gsantner.memetastic_73.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5xvtT3NCr0dWMTtEqRVSEzcA+ugTWYIya4GwbhSNKh8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5xvtT3NCr0dWMTtEqRVSEzcA+ugTWYIya4GwbhSNKh8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5xvtT3NCr0dWMTtEqRVSEzcA+ugTWYIya4GwbhSNKh8="
+    }
+  },
+  "version": "1.7.3"
+}

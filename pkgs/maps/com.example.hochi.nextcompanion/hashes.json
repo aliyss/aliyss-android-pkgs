@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.hochi.nextcompanion_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lWXdc/S8eJbwZu2j8fm3jH+JSnW1xsS86m4noDIBitQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lWXdc/S8eJbwZu2j8fm3jH+JSnW1xsS86m4noDIBitQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lWXdc/S8eJbwZu2j8fm3jH+JSnW1xsS86m4noDIBitQ="
+    }
+  },
+  "version": "0.1.7.2"
+}

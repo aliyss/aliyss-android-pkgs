@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dergoogler.mmrl_34296.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dfQrDoct9T5ww3X95/NR1qJhQd4TsK1m/69mtUE4Kos="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dfQrDoct9T5ww3X95/NR1qJhQd4TsK1m/69mtUE4Kos="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dfQrDoct9T5ww3X95/NR1qJhQd4TsK1m/69mtUE4Kos="
+    }
+  },
+  "version": "v34296-release"
+}

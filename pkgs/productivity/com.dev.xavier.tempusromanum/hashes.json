@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dev.xavier.tempusromanum_261.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lb+sLcvfYoYiKjvKX5Uu7YD8uVZDfSXmtT0ll8UC5kc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lb+sLcvfYoYiKjvKX5Uu7YD8uVZDfSXmtT0ll8UC5kc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lb+sLcvfYoYiKjvKX5Uu7YD8uVZDfSXmtT0ll8UC5kc="
+    }
+  },
+  "version": "2.6.1"
+}

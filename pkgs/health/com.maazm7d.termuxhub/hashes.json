@@ -1,0 +1,18 @@
+{
+  "apkName": "com.maazm7d.termuxhub_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5xInoKQsVkbQ+O06pKqF4lFJxgL9FQs4Fldoii6aYm4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5xInoKQsVkbQ+O06pKqF4lFJxgL9FQs4Fldoii6aYm4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5xInoKQsVkbQ+O06pKqF4lFJxgL9FQs4Fldoii6aYm4="
+    }
+  },
+  "version": "3.2.4"
+}

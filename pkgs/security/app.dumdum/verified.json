@@ -1,0 +1,8 @@
+{
+  "package": "app.dumdum",
+  "signerFingerprints": [
+    "AB:AD:1C:0E:D0:26:BB:98:40:DE:7B:B2:53:4B:41:80:A2:D0:BF:51:3B:70:67:E6:FB:7A:13:42:12:43:ED:05"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

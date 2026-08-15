@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.fvasco.pinpoi_96.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qaiPv6KQZ0WUZ7gGmG6EM7m7PPKFjcE1WaAGifNqEQk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qaiPv6KQZ0WUZ7gGmG6EM7m7PPKFjcE1WaAGifNqEQk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qaiPv6KQZ0WUZ7gGmG6EM7m7PPKFjcE1WaAGifNqEQk="
+    }
+  },
+  "version": "1.11.3"
+}

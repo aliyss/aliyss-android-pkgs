@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.tcreopargh.textconverter_69.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+x9V6ZZs9RzV3gD3E4QufsbwrYCi41y5SJz2Pp96BPY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+x9V6ZZs9RzV3gD3E4QufsbwrYCi41y5SJz2Pp96BPY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+x9V6ZZs9RzV3gD3E4QufsbwrYCi41y5SJz2Pp96BPY="
+    }
+  },
+  "version": "4.6.0"
+}

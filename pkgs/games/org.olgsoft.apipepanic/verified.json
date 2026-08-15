@@ -1,0 +1,8 @@
+{
+  "package": "org.olgsoft.apipepanic",
+  "signerFingerprints": [
+    "75:1C:64:30:47:EA:7D:36:E0:B8:AE:F3:41:6E:81:6B:79:9F:70:93:19:14:B2:FA:82:68:75:FB:14:FB:E5:FB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

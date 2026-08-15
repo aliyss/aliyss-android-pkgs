@@ -1,0 +1,8 @@
+{
+  "package": "com.puutaro.commandclick",
+  "signerFingerprints": [
+    "4E:88:F8:C3:BB:8D:6B:1F:30:89:97:1F:26:AB:B4:13:38:FE:74:B8:D1:D0:38:C0:76:D3:63:9C:1F:20:2C:A6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

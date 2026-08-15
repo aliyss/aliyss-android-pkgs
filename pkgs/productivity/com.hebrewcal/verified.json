@@ -1,0 +1,8 @@
+{
+  "package": "com.hebrewcal",
+  "signerFingerprints": [
+    "EE:18:A6:F0:BF:93:3B:57:90:9C:99:81:12:E3:72:96:84:BD:DA:B3:6D:85:62:46:04:5E:3F:CF:27:32:3A:60"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

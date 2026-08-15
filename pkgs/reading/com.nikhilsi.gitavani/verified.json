@@ -1,0 +1,8 @@
+{
+  "package": "com.nikhilsi.gitavani",
+  "signerFingerprints": [
+    "45:90:96:AE:29:26:79:0C:02:BE:76:95:5E:DD:5A:16:4D:3A:D1:C3:42:C3:78:FC:B0:5B:02:DB:A1:63:64:4D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

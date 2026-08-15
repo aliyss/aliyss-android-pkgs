@@ -1,0 +1,8 @@
+{
+  "package": "com.utyf.pmetro",
+  "signerFingerprints": [
+    "71:66:79:D3:2D:C8:FF:2D:2C:E7:A8:07:96:C0:75:BA:F9:4B:9B:B3:D4:3B:46:D9:28:9A:AA:5F:35:1C:2E:4E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

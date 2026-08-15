@@ -1,0 +1,8 @@
+{
+  "package": "rasel.lunar.launcher",
+  "signerFingerprints": [
+    "DA:E3:3F:41:F3:4A:3C:4C:C0:0F:E4:F2:4D:48:67:7C:4B:30:95:37:DE:0D:FC:D2:3F:C3:A8:26:13:4C:75:FC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

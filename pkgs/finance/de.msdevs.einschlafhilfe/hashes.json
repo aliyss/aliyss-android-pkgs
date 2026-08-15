@@ -1,0 +1,18 @@
+{
+  "apkName": "de.msdevs.einschlafhilfe_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Gy0OSf6e7glL8WeAaH3K7n4DlR/es7D++/hQoVi/TYo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gy0OSf6e7glL8WeAaH3K7n4DlR/es7D++/hQoVi/TYo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gy0OSf6e7glL8WeAaH3K7n4DlR/es7D++/hQoVi/TYo="
+    }
+  },
+  "version": "6.0"
+}

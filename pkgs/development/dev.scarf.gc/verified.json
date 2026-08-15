@@ -1,0 +1,8 @@
+{
+  "package": "dev.scarf.gc",
+  "signerFingerprints": [
+    "E4:8B:0C:23:38:6B:1C:EB:86:99:62:3C:1B:A6:B7:66:CD:66:97:90:10:A0:C8:0B:58:B4:BC:24:E0:DD:79:79"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

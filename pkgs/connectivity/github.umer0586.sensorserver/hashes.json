@@ -1,0 +1,18 @@
+{
+  "apkName": "github.umer0586.sensorserver_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-095jWlaYomaQExN7WxjtE/h/1ZeMgphD1AcTR29cf+Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-095jWlaYomaQExN7WxjtE/h/1ZeMgphD1AcTR29cf+Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-095jWlaYomaQExN7WxjtE/h/1ZeMgphD1AcTR29cf+Q="
+    }
+  },
+  "version": "7.2.1"
+}

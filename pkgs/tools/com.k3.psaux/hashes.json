@@ -1,0 +1,18 @@
+{
+  "apkName": "com.k3.psaux_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ON+GcPKMiUWurzSQaQVRIwACQHWpXUr/P+h7EQFPVck="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ON+GcPKMiUWurzSQaQVRIwACQHWpXUr/P+h7EQFPVck="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ON+GcPKMiUWurzSQaQVRIwACQHWpXUr/P+h7EQFPVck="
+    }
+  },
+  "version": "2.2"
+}

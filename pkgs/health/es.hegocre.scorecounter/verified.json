@@ -1,0 +1,8 @@
+{
+  "package": "es.hegocre.scorecounter",
+  "signerFingerprints": [
+    "F6:D6:F9:86:A6:3F:E7:59:8B:1B:F2:91:52:1D:1C:2F:7B:AA:9D:C2:5E:BF:8B:08:6F:7B:F9:C2:F7:56:B8:98"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

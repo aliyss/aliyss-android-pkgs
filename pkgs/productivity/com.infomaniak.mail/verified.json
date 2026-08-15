@@ -1,0 +1,8 @@
+{
+  "package": "com.infomaniak.mail",
+  "signerFingerprints": [
+    "BB:CC:E8:94:AB:11:38:BF:8C:21:60:E9:33:91:03:78:40:44:17:61:7D:31:AF:BB:C7:AD:BC:F3:C4:58:46:7C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

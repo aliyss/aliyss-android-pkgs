@@ -1,0 +1,8 @@
+{
+  "package": "com.rfidresearchgroup.rfidtools",
+  "signerFingerprints": [
+    "E1:F4:9E:F8:F7:BF:1D:6A:D7:70:BD:80:E0:B5:B3:46:1F:D1:99:33:45:05:38:5C:7D:A7:79:D8:DB:88:06:33"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

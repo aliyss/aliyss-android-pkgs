@@ -1,0 +1,18 @@
+{
+  "apkName": "de.chadenas.cpudefense_62.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zxRJiPuHtwETc7jifF4eSxjNqocqRRB3IiibpiJH1Zk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zxRJiPuHtwETc7jifF4eSxjNqocqRRB3IiibpiJH1Zk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zxRJiPuHtwETc7jifF4eSxjNqocqRRB3IiibpiJH1Zk="
+    }
+  },
+  "version": "1.62"
+}

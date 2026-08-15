@@ -1,0 +1,18 @@
+{
+  "apkName": "app.lawnchair.lawnicons_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6DCzfhzXzWZIdJL0oQhLoIYlSysJVB1ynaDsIWmnO/4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6DCzfhzXzWZIdJL0oQhLoIYlSysJVB1ynaDsIWmnO/4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6DCzfhzXzWZIdJL0oQhLoIYlSysJVB1ynaDsIWmnO/4="
+    }
+  },
+  "version": "2.18.0"
+}

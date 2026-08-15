@@ -1,0 +1,8 @@
+{
+  "package": "com.bernaferrari.sdkmonitor",
+  "signerFingerprints": [
+    "A8:F1:05:D3:59:8D:3A:40:FF:D2:32:B9:5E:1D:40:B1:49:B9:42:BE:33:78:8B:C5:6E:91:5D:27:46:3B:86:42"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

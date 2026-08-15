@@ -1,0 +1,8 @@
+{
+  "package": "com.xargsgrep.portknocker",
+  "signerFingerprints": [
+    "23:D6:89:83:4F:80:B6:EE:0A:8E:88:C1:A0:B2:9E:F2:2E:E0:0F:5E:87:33:00:82:A6:AB:6F:A1:2A:88:E9:40"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

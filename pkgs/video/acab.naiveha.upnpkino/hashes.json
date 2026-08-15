@@ -1,0 +1,18 @@
+{
+  "apkName": "acab.naiveha.upnpkino_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OqWs0cadGPwM/ybw1hAUxT9wqp46cTNt8/J6AI6ZiBo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OqWs0cadGPwM/ybw1hAUxT9wqp46cTNt8/J6AI6ZiBo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OqWs0cadGPwM/ybw1hAUxT9wqp46cTNt8/J6AI6ZiBo="
+    }
+  },
+  "version": "3.0.0"
+}

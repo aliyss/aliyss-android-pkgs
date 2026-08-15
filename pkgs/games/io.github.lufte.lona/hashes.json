@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.lufte.lona_10002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8KOEiD46ZnI9oavKL5eMyondwe1QYbV1CKfuGKmskIk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8KOEiD46ZnI9oavKL5eMyondwe1QYbV1CKfuGKmskIk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8KOEiD46ZnI9oavKL5eMyondwe1QYbV1CKfuGKmskIk="
+    }
+  },
+  "version": "1.0.2"
+}

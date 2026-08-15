@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kromke.andreas.unpopmusicplayerfree_65.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fd6sius87gIVFsThAAJQ+FhstJRz9Kafbuft9e9Wn/A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fd6sius87gIVFsThAAJQ+FhstJRz9Kafbuft9e9Wn/A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fd6sius87gIVFsThAAJQ+FhstJRz9Kafbuft9e9Wn/A="
+    }
+  },
+  "version": "2.85"
+}

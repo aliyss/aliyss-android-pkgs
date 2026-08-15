@@ -1,0 +1,18 @@
+{
+  "apkName": "moe.henry_zhr.firefox_no_home_button_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-talEl2fWzG9J60bwyR/WgKUj/VM83Z/GIkTGDhiCMY4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-talEl2fWzG9J60bwyR/WgKUj/VM83Z/GIkTGDhiCMY4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-talEl2fWzG9J60bwyR/WgKUj/VM83Z/GIkTGDhiCMY4="
+    }
+  },
+  "version": "6"
+}

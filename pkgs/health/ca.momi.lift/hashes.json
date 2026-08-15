@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.momi.lift_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-We5hrLsbolmz5rJNl5HPncxMzmmdwGemnAxudK6mfS0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-We5hrLsbolmz5rJNl5HPncxMzmmdwGemnAxudK6mfS0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-We5hrLsbolmz5rJNl5HPncxMzmmdwGemnAxudK6mfS0="
+    }
+  },
+  "version": "0.2"
+}

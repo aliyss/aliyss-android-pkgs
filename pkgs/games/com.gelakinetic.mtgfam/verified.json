@@ -1,0 +1,8 @@
+{
+  "package": "com.gelakinetic.mtgfam",
+  "signerFingerprints": [
+    "B4:2F:A6:A3:FB:4B:AE:0D:C0:14:63:3B:C7:D7:FC:95:D2:C2:64:0C:B1:35:E2:57:CD:71:92:41:49:F8:D6:4B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

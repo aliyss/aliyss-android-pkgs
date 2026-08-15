@@ -1,0 +1,8 @@
+{
+  "package": "com.clusterrr.usbserialtelnetserver",
+  "signerFingerprints": [
+    "2A:9E:58:0F:BF:F1:20:A2:DA:62:A3:F9:E7:29:A8:E9:58:26:F4:A6:AC:76:91:D2:53:44:7C:46:EA:76:42:2E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

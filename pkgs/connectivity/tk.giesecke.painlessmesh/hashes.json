@@ -1,0 +1,18 @@
+{
+  "apkName": "tk.giesecke.painlessmesh_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0kwot9W4zpdXslwQKlr/0+Y8R1y6H6HxkUqLlrudepY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0kwot9W4zpdXslwQKlr/0+Y8R1y6H6HxkUqLlrudepY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0kwot9W4zpdXslwQKlr/0+Y8R1y6H6HxkUqLlrudepY="
+    }
+  },
+  "version": "1.4"
+}

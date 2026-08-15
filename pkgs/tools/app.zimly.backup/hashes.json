@@ -1,0 +1,18 @@
+{
+  "apkName": "app.zimly.backup_93.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q+1TmvmbgoCub481K5rF+XaETGnQ6aqd6vVm53/151s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q+1TmvmbgoCub481K5rF+XaETGnQ6aqd6vVm53/151s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q+1TmvmbgoCub481K5rF+XaETGnQ6aqd6vVm53/151s="
+    }
+  },
+  "version": "3.4.1"
+}

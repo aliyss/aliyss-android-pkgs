@@ -1,0 +1,8 @@
+{
+  "package": "org.havenapp.neruppu",
+  "signerFingerprints": [
+    "CA:5B:74:C2:C9:3C:8D:95:26:33:E5:C8:E6:57:14:2A:16:EB:2B:77:3D:5A:C7:51:E4:67:5E:50:A1:26:ED:CC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

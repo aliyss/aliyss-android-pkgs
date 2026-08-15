@@ -1,0 +1,8 @@
+{
+  "package": "com.gitlab.giwiniswut.rwremount",
+  "signerFingerprints": [
+    "A5:68:E2:89:0C:C2:1E:B7:66:00:CC:E7:14:95:C7:76:A2:71:35:39:C1:B9:BB:30:01:4A:09:B7:97:4C:5A:24"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

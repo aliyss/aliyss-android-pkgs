@@ -1,0 +1,18 @@
+{
+  "apkName": "ooo.akito.webmon_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3pq76FOSshJhz4lr2Ae6xOxmGdd/R/BqC72xz2imrhw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3pq76FOSshJhz4lr2Ae6xOxmGdd/R/BqC72xz2imrhw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3pq76FOSshJhz4lr2Ae6xOxmGdd/R/BqC72xz2imrhw="
+    }
+  },
+  "version": "2.9.0"
+}

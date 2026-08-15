@@ -1,0 +1,18 @@
+{
+  "apkName": "foss.chillastro.root.checker.offline_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/IyuOtijt7W41LTPQlWi+ZQWwI040NyreYhsmoSVOVM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/IyuOtijt7W41LTPQlWi+ZQWwI040NyreYhsmoSVOVM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/IyuOtijt7W41LTPQlWi+ZQWwI040NyreYhsmoSVOVM="
+    }
+  },
+  "version": "v36.23.2.0-OFFLINE"
+}

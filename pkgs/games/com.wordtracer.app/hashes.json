@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wordtracer.app_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Wu1Szp3n/Tv5jPSuOpKraMq7soyx7RALN5pLbCqQDYs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Wu1Szp3n/Tv5jPSuOpKraMq7soyx7RALN5pLbCqQDYs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Wu1Szp3n/Tv5jPSuOpKraMq7soyx7RALN5pLbCqQDYs="
+    }
+  },
+  "version": "1.0.22"
+}

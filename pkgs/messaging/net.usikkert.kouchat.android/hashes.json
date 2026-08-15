@@ -1,0 +1,18 @@
+{
+  "apkName": "net.usikkert.kouchat.android_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-exoKvBNLNa46dMA8MQnFb12/NSYri9BId74JBlLEwp8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-exoKvBNLNa46dMA8MQnFb12/NSYri9BId74JBlLEwp8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-exoKvBNLNa46dMA8MQnFb12/NSYri9BId74JBlLEwp8="
+    }
+  },
+  "version": "1.1.1"
+}

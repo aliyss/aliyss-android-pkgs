@@ -1,0 +1,8 @@
+{
+  "package": "com.cosmos.candle",
+  "signerFingerprints": [
+    "59:A1:86:13:49:23:1C:42:66:DF:B1:20:AA:AD:42:DB:43:47:4A:DC:5B:4C:76:3F:5C:FA:E2:EC:7E:24:F6:21"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

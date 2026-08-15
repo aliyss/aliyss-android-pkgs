@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jpkhawam.nabu_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-v6ZGBlyVEaSpVOOvoi5jc0RAP9/Wnjy4l/yV8EOLCbA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v6ZGBlyVEaSpVOOvoi5jc0RAP9/Wnjy4l/yV8EOLCbA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v6ZGBlyVEaSpVOOvoi5jc0RAP9/Wnjy4l/yV8EOLCbA="
+    }
+  },
+  "version": "0.7.3"
+}

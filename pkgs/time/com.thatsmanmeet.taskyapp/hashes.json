@@ -1,0 +1,18 @@
+{
+  "apkName": "com.thatsmanmeet.taskyapp_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/5gr5nLNJkqE3PNQ52EMSSMKF7PhIS31nXQs0W16avQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/5gr5nLNJkqE3PNQ52EMSSMKF7PhIS31nXQs0W16avQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/5gr5nLNJkqE3PNQ52EMSSMKF7PhIS31nXQs0W16avQ="
+    }
+  },
+  "version": "3.0.1"
+}

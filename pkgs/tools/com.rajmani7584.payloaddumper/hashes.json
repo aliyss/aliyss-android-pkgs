@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rajmani7584.payloaddumper_20260713.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DY1M0ZoLxu97iDxR9pBMNMebd10CPM72mmxLsqZ1ErY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DY1M0ZoLxu97iDxR9pBMNMebd10CPM72mmxLsqZ1ErY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DY1M0ZoLxu97iDxR9pBMNMebd10CPM72mmxLsqZ1ErY="
+    }
+  },
+  "version": "5.2"
+}

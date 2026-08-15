@@ -1,0 +1,18 @@
+{
+  "apkName": "com.droidheat.musicplayer_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ISaZHmEsS4YrUs7z8lf4MsTolNfUYuYXL6YsAnCCZus="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ISaZHmEsS4YrUs7z8lf4MsTolNfUYuYXL6YsAnCCZus="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ISaZHmEsS4YrUs7z8lf4MsTolNfUYuYXL6YsAnCCZus="
+    }
+  },
+  "version": "1.1.0"
+}

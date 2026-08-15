@@ -1,0 +1,8 @@
+{
+  "package": "xyz.metiq",
+  "signerFingerprints": [
+    "66:B3:79:7D:A8:8C:1E:26:76:B6:D3:40:56:F6:CE:A8:2D:7E:A5:9C:00:07:43:B0:F2:03:F7:EF:F8:8C:05:81"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

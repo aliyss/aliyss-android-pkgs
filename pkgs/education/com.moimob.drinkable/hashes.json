@@ -1,0 +1,18 @@
+{
+  "apkName": "com.moimob.drinkable_16000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T7EJ94UWzs/g9RpGM8BR1ovDF06dsy7xZJjq/QVPmlA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T7EJ94UWzs/g9RpGM8BR1ovDF06dsy7xZJjq/QVPmlA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T7EJ94UWzs/g9RpGM8BR1ovDF06dsy7xZJjq/QVPmlA="
+    }
+  },
+  "version": "1.60.0"
+}

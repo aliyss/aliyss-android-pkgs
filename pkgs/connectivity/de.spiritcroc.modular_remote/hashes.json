@@ -1,0 +1,18 @@
+{
+  "apkName": "de.spiritcroc.modular_remote_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-e3fL9Y3ElRJ9HhLUaHsyUtdOEwvomYYbf4O6v/f+OBM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e3fL9Y3ElRJ9HhLUaHsyUtdOEwvomYYbf4O6v/f+OBM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e3fL9Y3ElRJ9HhLUaHsyUtdOEwvomYYbf4O6v/f+OBM="
+    }
+  },
+  "version": "0.7"
+}

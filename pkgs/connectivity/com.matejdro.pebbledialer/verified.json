@@ -1,0 +1,8 @@
+{
+  "package": "com.matejdro.pebbledialer",
+  "signerFingerprints": [
+    "51:BD:25:16:8E:F4:D2:00:FD:4D:FD:48:8A:58:29:34:FE:3C:41:D8:55:47:5D:25:12:75:5D:69:89:EF:6B:CB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

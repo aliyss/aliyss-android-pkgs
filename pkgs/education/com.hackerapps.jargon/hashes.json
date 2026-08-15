@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hackerapps.jargon_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HGtX5av+eXWL5cy+WnuxqMqp8f7oLS0xekO/+QKBneY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HGtX5av+eXWL5cy+WnuxqMqp8f7oLS0xekO/+QKBneY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HGtX5av+eXWL5cy+WnuxqMqp8f7oLS0xekO/+QKBneY="
+    }
+  },
+  "version": "1.0.2"
+}

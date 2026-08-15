@@ -1,0 +1,18 @@
+{
+  "apkName": "com.noto_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KCx4wV5V53Eam7LzUc5ecNNVIydHDwy62qY04mnqMCg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KCx4wV5V53Eam7LzUc5ecNNVIydHDwy62qY04mnqMCg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KCx4wV5V53Eam7LzUc5ecNNVIydHDwy62qY04mnqMCg="
+    }
+  },
+  "version": "2.2.3"
+}

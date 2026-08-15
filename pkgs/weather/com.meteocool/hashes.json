@@ -1,0 +1,18 @@
+{
+  "apkName": "com.meteocool_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qcpG7CFOi0Oo8cfb4yq3b/oqymo/IaLt3oaq3CUlTpM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qcpG7CFOi0Oo8cfb4yq3b/oqymo/IaLt3oaq3CUlTpM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qcpG7CFOi0Oo8cfb4yq3b/oqymo/IaLt3oaq3CUlTpM="
+    }
+  },
+  "version": "2.1l"
+}

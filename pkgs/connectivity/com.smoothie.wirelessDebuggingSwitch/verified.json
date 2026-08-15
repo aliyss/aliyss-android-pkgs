@@ -1,0 +1,8 @@
+{
+  "package": "com.smoothie.wirelessDebuggingSwitch",
+  "signerFingerprints": [
+    "FF:5D:6D:EC:86:BA:BD:5E:9F:06:0B:38:A7:01:49:CE:2F:EF:2E:C8:44:0F:31:6F:70:5C:8D:26:44:17:75:9A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

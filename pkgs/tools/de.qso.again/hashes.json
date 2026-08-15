@@ -1,0 +1,18 @@
+{
+  "apkName": "de.qso.again_1000002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AeMSXitUfIiB7fEEKdZ/qfHfkAnD1XFnAkyN30RNbSk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AeMSXitUfIiB7fEEKdZ/qfHfkAnD1XFnAkyN30RNbSk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AeMSXitUfIiB7fEEKdZ/qfHfkAnD1XFnAkyN30RNbSk="
+    }
+  },
+  "version": "1.0.2"
+}

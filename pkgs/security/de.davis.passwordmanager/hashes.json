@@ -1,0 +1,18 @@
+{
+  "apkName": "de.davis.passwordmanager_10020098.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-44T472cyNQUEf/vO8X65fzoPxsBvk3308sZzevI/Dmg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-44T472cyNQUEf/vO8X65fzoPxsBvk3308sZzevI/Dmg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-44T472cyNQUEf/vO8X65fzoPxsBvk3308sZzevI/Dmg="
+    }
+  },
+  "version": "1.2.0"
+}

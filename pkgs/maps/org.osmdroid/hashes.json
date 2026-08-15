@@ -1,0 +1,18 @@
+{
+  "apkName": "org.osmdroid_55.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DNVn+P080oA5+O3Sp4XgEWd26R9D6WrJGZSjMVj1xv0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DNVn+P080oA5+O3Sp4XgEWd26R9D6WrJGZSjMVj1xv0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DNVn+P080oA5+O3Sp4XgEWd26R9D6WrJGZSjMVj1xv0="
+    }
+  },
+  "version": "6.1.20"
+}

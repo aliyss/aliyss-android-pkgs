@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kin.athena_306.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/wz5tSD7TdJFkDO9is5ACpGBxhu1POh1HG13lvoOtps="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/wz5tSD7TdJFkDO9is5ACpGBxhu1POh1HG13lvoOtps="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/wz5tSD7TdJFkDO9is5ACpGBxhu1POh1HG13lvoOtps="
+    }
+  },
+  "version": "1.80"
+}

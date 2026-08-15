@@ -1,0 +1,18 @@
+{
+  "apkName": "com.concept1tech.instalate_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uom5DjOa8udfQnKSRPYS7fiRskM4geaNlkbl4aDtFuU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uom5DjOa8udfQnKSRPYS7fiRskM4geaNlkbl4aDtFuU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uom5DjOa8udfQnKSRPYS7fiRskM4geaNlkbl4aDtFuU="
+    }
+  },
+  "version": "1.2.2"
+}

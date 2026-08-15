@@ -1,0 +1,18 @@
+{
+  "apkName": "it.niedermann.nextcloud.tables_2002006.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-imy9dQR0hv7j1D9JkPLVohCBp0HFzCApD0Rd22CtI2g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-imy9dQR0hv7j1D9JkPLVohCBp0HFzCApD0Rd22CtI2g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-imy9dQR0hv7j1D9JkPLVohCBp0HFzCApD0Rd22CtI2g="
+    }
+  },
+  "version": "2.2.6"
+}

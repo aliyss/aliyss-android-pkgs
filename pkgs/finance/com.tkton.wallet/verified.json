@@ -1,0 +1,8 @@
+{
+  "package": "com.tkton.wallet",
+  "signerFingerprints": [
+    "DF:A2:1E:98:14:90:FE:A5:52:DA:69:B6:0A:78:AA:25:14:33:1A:A2:D5:21:D9:DC:53:6D:D8:95:81:D3:AF:C9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

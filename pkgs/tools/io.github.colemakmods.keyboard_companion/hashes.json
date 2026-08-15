@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.colemakmods.keyboard_companion_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rM+65xlR2ETO8vv3XtJVeMGha1dlc4XhYyfh5j2XOuE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rM+65xlR2ETO8vv3XtJVeMGha1dlc4XhYyfh5j2XOuE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rM+65xlR2ETO8vv3XtJVeMGha1dlc4XhYyfh5j2XOuE="
+    }
+  },
+  "version": "1.12"
+}

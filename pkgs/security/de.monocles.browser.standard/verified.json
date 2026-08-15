@@ -1,0 +1,8 @@
+{
+  "package": "de.monocles.browser.standard",
+  "signerFingerprints": [
+    "8F:AC:1F:5C:D4:63:12:5A:91:E9:E5:31:BB:10:DD:A1:49:34:F6:FF:D6:58:91:3F:BD:9D:29:68:28:AF:DC:FD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.oldnortharabian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-q/xEjYVyz1387AjED6rBi0Q/WBtWfKHK0t3OGVjtYCI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q/xEjYVyz1387AjED6rBi0Q/WBtWfKHK0t3OGVjtYCI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q/xEjYVyz1387AjED6rBi0Q/WBtWfKHK0t3OGVjtYCI="
+    }
+  },
+  "version": "5.1.6158"
+}

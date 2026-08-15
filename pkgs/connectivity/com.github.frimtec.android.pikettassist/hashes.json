@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.frimtec.android.pikettassist_2923261.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vexLemPK8rcrCMcw/bkhj/YxgXRTtJskSN50SZrBWAg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vexLemPK8rcrCMcw/bkhj/YxgXRTtJskSN50SZrBWAg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vexLemPK8rcrCMcw/bkhj/YxgXRTtJskSN50SZrBWAg="
+    }
+  },
+  "version": "3.0.3-Anchovy-oss"
+}

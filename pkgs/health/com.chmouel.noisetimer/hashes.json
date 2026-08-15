@@ -1,0 +1,18 @@
+{
+  "apkName": "com.chmouel.noisetimer_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FNwtzO7yxTIi/V9F58QBGxBl7sU8TADQoIUbfwwIyuo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FNwtzO7yxTIi/V9F58QBGxBl7sU8TADQoIUbfwwIyuo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FNwtzO7yxTIi/V9F58QBGxBl7sU8TADQoIUbfwwIyuo="
+    }
+  },
+  "version": "1.0.1"
+}

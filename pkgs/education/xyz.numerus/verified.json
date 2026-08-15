@@ -1,0 +1,8 @@
+{
+  "package": "xyz.numerus",
+  "signerFingerprints": [
+    "2C:6E:B8:9D:4A:76:BD:16:13:C3:B3:5C:A0:70:87:F6:DA:D9:D9:21:C3:94:0B:82:A0:62:07:DA:7A:68:0D:15"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

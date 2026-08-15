@@ -1,0 +1,8 @@
+{
+  "package": "com.g00fy2.developerwidget",
+  "signerFingerprints": [
+    "94:52:75:8C:78:FF:AF:B2:95:06:A8:AA:2B:B0:4B:1A:CB:7B:D1:EA:5B:14:48:93:B6:92:D7:70:CA:FA:BF:5E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

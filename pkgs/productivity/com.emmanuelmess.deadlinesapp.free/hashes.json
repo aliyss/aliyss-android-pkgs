@@ -1,0 +1,18 @@
+{
+  "apkName": "com.emmanuelmess.deadlinesapp.free_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-foqBGChNeFxrDE7RwODkDJ4rVJTKjpgkgZnqLjQcSJg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-foqBGChNeFxrDE7RwODkDJ4rVJTKjpgkgZnqLjQcSJg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-foqBGChNeFxrDE7RwODkDJ4rVJTKjpgkgZnqLjQcSJg="
+    }
+  },
+  "version": "1.0.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.github.umer0586.droidpad",
+  "signerFingerprints": [
+    "CA:2E:5A:87:0A:05:B6:31:CE:53:CA:19:38:25:48:44:2E:C2:E0:41:25:8B:A8:09:58:98:0F:6A:AB:3D:BF:23"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

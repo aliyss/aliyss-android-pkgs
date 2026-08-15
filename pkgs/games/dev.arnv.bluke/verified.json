@@ -1,0 +1,8 @@
+{
+  "package": "dev.arnv.bluke",
+  "signerFingerprints": [
+    "6E:5C:AE:C5:7E:14:AC:CF:1E:B3:27:1D:43:57:1D:5E:2C:E9:BD:EE:D5:DE:69:24:D7:AA:1C:C1:DE:D4:DB:DC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

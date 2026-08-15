@@ -1,0 +1,8 @@
+{
+  "package": "br.com.colman.petals",
+  "signerFingerprints": [
+    "4F:F7:DB:0E:73:A3:78:DB:15:70:EC:9B:C8:02:F3:79:02:18:8C:27:B8:17:1E:0C:B6:D0:BB:D7:FA:96:37:1F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

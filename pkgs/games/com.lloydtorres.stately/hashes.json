@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lloydtorres.stately_51.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LieiHyOXz7CEn8XnCA4goomFluLlU1p+tWk9zcMSriI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LieiHyOXz7CEn8XnCA4goomFluLlU1p+tWk9zcMSriI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LieiHyOXz7CEn8XnCA4goomFluLlU1p+tWk9zcMSriI="
+    }
+  },
+  "version": "1.11.2"
+}

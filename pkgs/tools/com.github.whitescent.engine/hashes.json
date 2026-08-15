@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.whitescent.engine_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AV1Yw6Hg50l0ff6yveliy6py3H+3fbqngA8qN+MGFvw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AV1Yw6Hg50l0ff6yveliy6py3H+3fbqngA8qN+MGFvw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AV1Yw6Hg50l0ff6yveliy6py3H+3fbqngA8qN+MGFvw="
+    }
+  },
+  "version": "1.0.8"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.briankhuu.nfcmessageboard_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MvgkyRlXzwWoM3rfgzSS411dXFYhhG4xHocvEG8DMlI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MvgkyRlXzwWoM3rfgzSS411dXFYhhG4xHocvEG8DMlI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MvgkyRlXzwWoM3rfgzSS411dXFYhhG4xHocvEG8DMlI="
+    }
+  },
+  "version": "4.0"
+}

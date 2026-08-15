@@ -1,0 +1,18 @@
+{
+  "apkName": "app.vger.voyager_935.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-p9m1nW5ua2oW6TpvUU3+cG0a+Ngko4BA1InTOKCZ2AI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p9m1nW5ua2oW6TpvUU3+cG0a+Ngko4BA1InTOKCZ2AI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p9m1nW5ua2oW6TpvUU3+cG0a+Ngko4BA1InTOKCZ2AI="
+    }
+  },
+  "version": "2.47.4"
+}

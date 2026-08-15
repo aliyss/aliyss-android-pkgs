@@ -1,0 +1,8 @@
+{
+  "package": "org.akvo.rsr.up",
+  "signerFingerprints": [
+    "95:79:6E:4A:A1:0F:9A:3D:1D:F8:F2:F9:A0:4A:92:99:99:52:0E:95:14:58:9A:2A:40:1E:BD:9A:14:77:C4:D9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

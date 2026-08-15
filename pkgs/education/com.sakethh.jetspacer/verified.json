@@ -1,0 +1,8 @@
+{
+  "package": "com.sakethh.jetspacer",
+  "signerFingerprints": [
+    "13:E3:9C:48:E9:A6:5E:19:52:92:93:82:7D:68:F5:AD:73:C8:15:45:79:11:5A:71:88:68:31:79:4C:73:58:F8"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

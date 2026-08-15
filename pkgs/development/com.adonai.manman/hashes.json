@@ -1,0 +1,18 @@
+{
+  "apkName": "com.adonai.manman_177.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0NlD7yXmElXtcvlN7b9HYxuF4PAEZPJpleMGe0IM6xo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0NlD7yXmElXtcvlN7b9HYxuF4PAEZPJpleMGe0IM6xo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0NlD7yXmElXtcvlN7b9HYxuF4PAEZPJpleMGe0IM6xo="
+    }
+  },
+  "version": "2.2.2"
+}

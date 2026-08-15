@@ -1,0 +1,8 @@
+{
+  "package": "com.danilkinkin.buckwheat",
+  "signerFingerprints": [
+    "2A:9F:9A:89:08:77:0A:A0:E8:2B:16:14:73:CB:8F:41:94:43:44:7D:1E:82:68:E6:F6:A8:2F:88:9D:7A:78:8F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.ominous.quickweather",
+  "signerFingerprints": [
+    "96:AA:C6:5A:0E:9E:98:25:54:CB:26:74:32:52:26:42:46:13:30:F3:1C:86:AF:77:CA:21:92:3D:6D:82:37:9B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

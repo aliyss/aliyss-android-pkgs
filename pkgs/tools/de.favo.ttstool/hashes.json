@@ -1,0 +1,18 @@
+{
+  "apkName": "de.favo.ttstool_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yUuc6lGGJjHxbZTJaHXJ5Q4Hbb/SWUxy9w2g8B2M0Es="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yUuc6lGGJjHxbZTJaHXJ5Q4Hbb/SWUxy9w2g8B2M0Es="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yUuc6lGGJjHxbZTJaHXJ5Q4Hbb/SWUxy9w2g8B2M0Es="
+    }
+  },
+  "version": "16"
+}

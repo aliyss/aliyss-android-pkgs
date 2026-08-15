@@ -1,0 +1,8 @@
+{
+  "package": "com.esperantajvortaroj.app",
+  "signerFingerprints": [
+    "67:0C:B1:50:29:AC:F3:62:4F:CC:2A:C2:8C:06:55:46:0E:79:4C:9D:13:5B:FC:3C:85:BE:26:49:1B:8B:93:6C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

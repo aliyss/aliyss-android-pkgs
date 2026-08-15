@@ -1,0 +1,8 @@
+{
+  "package": "com.aaronjwood.portauthority",
+  "signerFingerprints": [
+    "54:A8:AA:E5:3F:52:B3:3E:F3:BB:E1:65:B1:D2:7C:4A:EA:91:61:35:3C:13:08:18:C2:AE:80:6B:DD:42:EE:65"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ofalvai.habittracker_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-umwNoAxi2wATJx4nlwXkZpGWepFLHudJ0Bz6TJXICkY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-umwNoAxi2wATJx4nlwXkZpGWepFLHudJ0Bz6TJXICkY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-umwNoAxi2wATJx4nlwXkZpGWepFLHudJ0Bz6TJXICkY="
+    }
+  },
+  "version": "1.1.4"
+}

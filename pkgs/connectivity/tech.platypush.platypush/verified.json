@@ -1,0 +1,8 @@
+{
+  "package": "tech.platypush.platypush",
+  "signerFingerprints": [
+    "C0:18:46:35:B8:8A:31:8B:6D:3D:BE:2F:31:70:54:97:BD:FB:AE:93:97:27:1F:32:AE:06:AC:93:62:50:2F:F1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

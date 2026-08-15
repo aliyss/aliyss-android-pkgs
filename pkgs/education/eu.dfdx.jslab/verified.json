@@ -1,0 +1,8 @@
+{
+  "package": "eu.dfdx.jslab",
+  "signerFingerprints": [
+    "61:D1:B6:0B:E7:4A:C7:9E:38:37:34:97:B0:83:F7:D7:96:22:A9:56:A6:EC:92:AA:5A:56:A1:18:B7:FB:3E:60"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

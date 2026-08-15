@@ -1,0 +1,18 @@
+{
+  "apkName": "de.phasenrauscher.bicyweather_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tzTrFnlhCLhDotJE3NdIDvMAPDMUc2b8nizezFCizu0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tzTrFnlhCLhDotJE3NdIDvMAPDMUc2b8nizezFCizu0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tzTrFnlhCLhDotJE3NdIDvMAPDMUc2b8nizezFCizu0="
+    }
+  },
+  "version": "1.0.20"
+}

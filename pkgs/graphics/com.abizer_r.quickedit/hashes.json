@@ -1,0 +1,18 @@
+{
+  "apkName": "com.abizer_r.quickedit_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LOfuRtBvRPex5V8BQFLUTFzX6waz6q4j49NCYBF++Pw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LOfuRtBvRPex5V8BQFLUTFzX6waz6q4j49NCYBF++Pw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LOfuRtBvRPex5V8BQFLUTFzX6waz6q4j49NCYBF++Pw="
+    }
+  },
+  "version": "1.1.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.droidheat.musicplayer",
+  "signerFingerprints": [
+    "75:DF:B0:02:FC:7A:22:2F:5A:D4:28:68:77:C2:EC:64:67:70:AB:B5:9A:C6:73:82:46:15:88:97:B4:73:6E:16"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

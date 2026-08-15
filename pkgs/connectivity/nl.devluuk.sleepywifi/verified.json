@@ -1,0 +1,8 @@
+{
+  "package": "nl.devluuk.sleepywifi",
+  "signerFingerprints": [
+    "E1:CD:E8:5C:C7:E7:49:F6:6C:0F:1B:FE:D8:D8:71:27:B3:BD:B8:D5:7C:C5:19:7F:99:55:DB:AC:75:A8:09:37"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

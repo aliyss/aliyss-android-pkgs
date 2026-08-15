@@ -1,0 +1,8 @@
+{
+  "package": "com.omardotdev.lumi",
+  "signerFingerprints": [
+    "DB:29:11:B1:1B:A6:B0:8A:7A:8B:A3:17:D1:68:30:77:43:E4:F2:11:A5:1E:9A:A6:DB:81:DD:3C:9A:53:B2:E9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

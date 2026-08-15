@@ -1,0 +1,18 @@
+{
+  "apkName": "com.alovoa.expo_48.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q8ysSuPvqP+AD5M5D9ggDPpNSoIL6qdQ2muX2MtWJh4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q8ysSuPvqP+AD5M5D9ggDPpNSoIL6qdQ2muX2MtWJh4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q8ysSuPvqP+AD5M5D9ggDPpNSoIL6qdQ2muX2MtWJh4="
+    }
+  },
+  "version": "2.3.4"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.github.handewo.neon",
+  "signerFingerprints": [
+    "B5:4D:E5:BC:3D:90:02:65:24:54:EF:83:08:05:2F:DF:F9:4D:0E:EC:65:EF:5E:9D:0F:BA:83:E7:26:D0:2D:16"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

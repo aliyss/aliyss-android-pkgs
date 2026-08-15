@@ -1,0 +1,8 @@
+{
+  "package": "com.notecryptpro",
+  "signerFingerprints": [
+    "06:6C:F0:9E:19:07:EA:94:88:E8:E5:0C:97:2A:FD:F5:A5:77:BE:B1:5F:6B:38:E0:F2:42:9C:4F:34:37:FD:78"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

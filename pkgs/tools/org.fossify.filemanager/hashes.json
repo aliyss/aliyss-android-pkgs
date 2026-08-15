@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fossify.filemanager_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-npfS+vVfsnAjhsPcUeOKawc3gQFrElcB06tmhBmnAAg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-npfS+vVfsnAjhsPcUeOKawc3gQFrElcB06tmhBmnAAg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-npfS+vVfsnAjhsPcUeOKawc3gQFrElcB06tmhBmnAAg="
+    }
+  },
+  "version": "1.6.1"
+}

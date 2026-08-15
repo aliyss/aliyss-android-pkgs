@@ -1,0 +1,18 @@
+{
+  "apkName": "be.mygod.vpnhotspot_foss_1035.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pyUYU37QXqTHfyKKFIfMyIVAL9DBdTAr2itUkzI3HNc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pyUYU37QXqTHfyKKFIfMyIVAL9DBdTAr2itUkzI3HNc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pyUYU37QXqTHfyKKFIfMyIVAL9DBdTAr2itUkzI3HNc="
+    }
+  },
+  "version": "2.19.1"
+}

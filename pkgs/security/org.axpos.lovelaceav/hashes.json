@@ -1,0 +1,18 @@
+{
+  "apkName": "org.axpos.lovelaceav_31614.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-v7LsaEyNnjdgocEA2Pxw3Bq8DKX+0EiO5p4ZrJKCDio="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v7LsaEyNnjdgocEA2Pxw3Bq8DKX+0EiO5p4ZrJKCDio="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v7LsaEyNnjdgocEA2Pxw3Bq8DKX+0EiO5p4ZrJKCDio="
+    }
+  },
+  "version": "3.16.14"
+}

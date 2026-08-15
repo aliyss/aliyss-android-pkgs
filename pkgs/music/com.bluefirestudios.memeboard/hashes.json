@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bluefirestudios.memeboard_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jDb/aBxyOZux7Z7edrynHrKWnQzbf2XWfMGKIdkPHro="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jDb/aBxyOZux7Z7edrynHrKWnQzbf2XWfMGKIdkPHro="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jDb/aBxyOZux7Z7edrynHrKWnQzbf2XWfMGKIdkPHro="
+    }
+  },
+  "version": "2.2"
+}

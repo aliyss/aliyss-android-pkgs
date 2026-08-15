@@ -1,0 +1,8 @@
+{
+  "package": "de.blau.android",
+  "signerFingerprints": [
+    "AC:5D:0C:28:7A:06:0C:1F:D0:51:F1:D2:03:C4:CE:33:FF:70:08:73:5F:2D:38:D1:95:1A:90:0C:BD:67:39:69"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

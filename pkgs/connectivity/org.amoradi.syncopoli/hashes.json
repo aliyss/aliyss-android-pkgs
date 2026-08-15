@@ -1,0 +1,18 @@
+{
+  "apkName": "org.amoradi.syncopoli_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gTp72MjkiqlNtf/tRwMckuVGWcmzyMw5utHlcMe5dZg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gTp72MjkiqlNtf/tRwMckuVGWcmzyMw5utHlcMe5dZg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gTp72MjkiqlNtf/tRwMckuVGWcmzyMw5utHlcMe5dZg="
+    }
+  },
+  "version": "v0.7.2"
+}

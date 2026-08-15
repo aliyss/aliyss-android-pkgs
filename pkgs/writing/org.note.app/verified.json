@@ -1,0 +1,8 @@
+{
+  "package": "org.note.app",
+  "signerFingerprints": [
+    "59:C9:B5:DB:F7:BA:A9:17:4A:B1:58:48:DD:BB:DA:5C:70:33:1F:15:73:7B:54:B7:B2:D5:0F:C5:C2:A8:AC:92"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

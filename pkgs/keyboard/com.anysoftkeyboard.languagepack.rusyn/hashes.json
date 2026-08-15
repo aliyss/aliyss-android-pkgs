@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.rusyn_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HwXf9qbkfHgosujMKsifU5DT/0ErNzdwVp8RvYHmWQA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HwXf9qbkfHgosujMKsifU5DT/0ErNzdwVp8RvYHmWQA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HwXf9qbkfHgosujMKsifU5DT/0ErNzdwVp8RvYHmWQA="
+    }
+  },
+  "version": "5.1.6158"
+}

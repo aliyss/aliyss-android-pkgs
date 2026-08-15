@@ -1,0 +1,8 @@
+{
+  "package": "dev.obfusk.jiten_webview",
+  "signerFingerprints": [
+    "E3:60:3F:6A:1C:0A:41:CB:00:EE:82:1B:BC:4D:07:03:2D:4B:2C:A2:6D:03:74:5D:4A:26:EB:EB:FB:C7:D4:FD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

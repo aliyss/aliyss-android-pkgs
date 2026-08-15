@@ -1,0 +1,8 @@
+{
+  "package": "app.zimly.backup",
+  "signerFingerprints": [
+    "FA:1B:72:00:CE:4A:A3:4D:41:AC:35:E4:47:4F:36:99:A4:A2:FB:C7:C6:20:19:49:5D:4B:2B:34:29:C9:4B:E7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

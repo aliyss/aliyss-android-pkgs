@@ -1,0 +1,8 @@
+{
+  "package": "com.vauth.salty",
+  "signerFingerprints": [
+    "BA:CA:0A:EF:F4:3D:98:24:3C:BD:1A:74:4A:53:81:B2:87:25:54:9B:A5:3C:9F:DB:7F:5A:95:17:19:46:D9:DF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

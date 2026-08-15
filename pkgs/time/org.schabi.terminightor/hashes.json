@@ -1,0 +1,18 @@
+{
+  "apkName": "org.schabi.terminightor_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FD4y9ccNVR4orCabxhRgirIzn/ZstD/zFsCSzIjr2uA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FD4y9ccNVR4orCabxhRgirIzn/ZstD/zFsCSzIjr2uA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FD4y9ccNVR4orCabxhRgirIzn/ZstD/zFsCSzIjr2uA="
+    }
+  },
+  "version": "1.0.2"
+}

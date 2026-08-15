@@ -1,0 +1,18 @@
+{
+  "apkName": "starcom.snd_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/sRUJgiOIshC+wMkAXMqsjXkGZpsLupBQg2PueASe6g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/sRUJgiOIshC+wMkAXMqsjXkGZpsLupBQg2PueASe6g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/sRUJgiOIshC+wMkAXMqsjXkGZpsLupBQg2PueASe6g="
+    }
+  },
+  "version": "1.5"
+}

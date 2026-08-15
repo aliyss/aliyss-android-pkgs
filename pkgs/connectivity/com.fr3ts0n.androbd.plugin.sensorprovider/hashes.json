@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fr3ts0n.androbd.plugin.sensorprovider_10101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PQ0+uT5i/Et9Q0Av3Qm+oVmSqdO0bE1ZFGZuiQBv7Uw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PQ0+uT5i/Et9Q0Av3Qm+oVmSqdO0bE1ZFGZuiQBv7Uw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PQ0+uT5i/Et9Q0Av3Qm+oVmSqdO0bE1ZFGZuiQBv7Uw="
+    }
+  },
+  "version": "V1.1.1"
+}

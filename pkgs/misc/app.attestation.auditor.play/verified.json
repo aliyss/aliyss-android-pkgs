@@ -1,0 +1,9 @@
+{
+  "package": "app.attestation.auditor.play",
+  "signerFingerprints": [
+    "07:53:35:BD:7B:54:C9:65:22:2B:52:84:D2:A1:FD:EF:11:98:AE:45:EC:7B:09:A4:93:42:87:A0:E3:A2:43:C7"
+  ],
+  "source": "privacyguides/verified-apps",
+  "source-license": "CC-BY-4.0",
+  "source-license-url": "https://github.com/privacyguides/verified-apps/blob/main/LICENSE.txt"
+}

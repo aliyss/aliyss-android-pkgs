@@ -1,0 +1,8 @@
+{
+  "package": "com.github.shingyx.boomswitch",
+  "signerFingerprints": [
+    "1D:8D:2E:B3:E8:F3:78:05:B2:46:E7:C4:F4:02:C1:57:DD:7E:89:B4:07:15:66:B3:C1:48:32:3A:09:08:24:EA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

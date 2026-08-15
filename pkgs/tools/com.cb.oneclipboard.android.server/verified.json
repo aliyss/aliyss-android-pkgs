@@ -1,0 +1,8 @@
+{
+  "package": "com.cb.oneclipboard.android.server",
+  "signerFingerprints": [
+    "7C:2A:9C:3E:54:CF:F3:CB:E6:F9:F7:29:3A:EE:C4:65:40:3B:23:50:E0:3F:F8:5C:D0:DD:32:A2:3D:00:1C:EE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

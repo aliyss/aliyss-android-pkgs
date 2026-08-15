@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.portuguese_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-esgZw4eCz7IiW765p7RkAozKZ/WCMxGOVohP60bIgHo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-esgZw4eCz7IiW765p7RkAozKZ/WCMxGOVohP60bIgHo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-esgZw4eCz7IiW765p7RkAozKZ/WCMxGOVohP60bIgHo="
+    }
+  },
+  "version": "5.1.6158"
+}

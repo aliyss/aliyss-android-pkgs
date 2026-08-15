@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sshborg_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LvRPb8XqLtOsq/d/ugwxYTApPcOBS23+MLNyBrd5ELg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LvRPb8XqLtOsq/d/ugwxYTApPcOBS23+MLNyBrd5ELg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LvRPb8XqLtOsq/d/ugwxYTApPcOBS23+MLNyBrd5ELg="
+    }
+  },
+  "version": "1.13.0"
+}

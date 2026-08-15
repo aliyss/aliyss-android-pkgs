@@ -1,0 +1,18 @@
+{
+  "apkName": "ir.erfansn.siliconecalculator_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tkjpyyNyJtgRGCfcE9PHvI2UAVTsE+aBfCSPNnb8eIQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tkjpyyNyJtgRGCfcE9PHvI2UAVTsE+aBfCSPNnb8eIQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tkjpyyNyJtgRGCfcE9PHvI2UAVTsE+aBfCSPNnb8eIQ="
+    }
+  },
+  "version": "2.3.0"
+}

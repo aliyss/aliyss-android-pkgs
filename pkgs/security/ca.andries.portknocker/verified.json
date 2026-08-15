@@ -1,0 +1,8 @@
+{
+  "package": "ca.andries.portknocker",
+  "signerFingerprints": [
+    "4B:20:9F:9B:BD:AF:52:30:E3:94:62:45:89:60:1B:8D:15:F7:36:E6:E2:F5:21:45:6B:90:A1:C0:EB:66:54:2D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

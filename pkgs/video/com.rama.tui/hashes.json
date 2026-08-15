@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rama.tui_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FiYmx1AmWxiCZLMr025+4oT/3d/RUSA03hj9RWOc9PQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FiYmx1AmWxiCZLMr025+4oT/3d/RUSA03hj9RWOc9PQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FiYmx1AmWxiCZLMr025+4oT/3d/RUSA03hj9RWOc9PQ="
+    }
+  },
+  "version": "2026.11"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.toadlybroodle.minimalist_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6P26SwifrQdXOJUx0gTgY08q+GjvcMy3ke2kIqEhdjE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6P26SwifrQdXOJUx0gTgY08q+GjvcMy3ke2kIqEhdjE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6P26SwifrQdXOJUx0gTgY08q+GjvcMy3ke2kIqEhdjE="
+    }
+  },
+  "version": "110"
+}

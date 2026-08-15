@@ -1,0 +1,18 @@
+{
+  "apkName": "org.shano.assistral_325.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ybyo5OR/3KYspir+bT9kIKe8R/Jx0wVL0jvSUCgg6aQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ybyo5OR/3KYspir+bT9kIKe8R/Jx0wVL0jvSUCgg6aQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ybyo5OR/3KYspir+bT9kIKe8R/Jx0wVL0jvSUCgg6aQ="
+    }
+  },
+  "version": "3.2.5"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.whatever.verifit_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7d3b9s0znLKFivBkK1je0sl8pVlDMpgPOYtUQxeUneo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7d3b9s0znLKFivBkK1je0sl8pVlDMpgPOYtUQxeUneo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7d3b9s0znLKFivBkK1je0sl8pVlDMpgPOYtUQxeUneo="
+    }
+  },
+  "version": "1.0.14"
+}

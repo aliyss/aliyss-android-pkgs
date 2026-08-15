@@ -1,0 +1,18 @@
+{
+  "apkName": "barilyuk.texetescribe_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jNo8GlzjozJE61wchhA9BIrELbQiYgxU9Bbwk9cGEmw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jNo8GlzjozJE61wchhA9BIrELbQiYgxU9Bbwk9cGEmw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jNo8GlzjozJE61wchhA9BIrELbQiYgxU9Bbwk9cGEmw="
+    }
+  },
+  "version": "1.5"
+}

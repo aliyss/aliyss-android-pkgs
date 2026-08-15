@@ -1,0 +1,8 @@
+{
+  "package": "app.zornslemma.mypricelog",
+  "signerFingerprints": [
+    "2E:1A:2A:E1:2C:E5:B3:45:F1:8E:A5:DE:56:95:19:E0:A2:0E:F4:3C:E0:4D:A4:0E:AC:1E:8A:B5:67:68:D0:A4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

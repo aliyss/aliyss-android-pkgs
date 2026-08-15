@@ -1,0 +1,18 @@
+{
+  "apkName": "org.t2.synconwifi_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-k6Yy1W5qYP03hn9EZ70HoBu49JqbfF+ULvp43vW2Mzc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k6Yy1W5qYP03hn9EZ70HoBu49JqbfF+ULvp43vW2Mzc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k6Yy1W5qYP03hn9EZ70HoBu49JqbfF+ULvp43vW2Mzc="
+    }
+  },
+  "version": "1.0.2"
+}

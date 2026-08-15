@@ -1,0 +1,18 @@
+{
+  "apkName": "balti.xposed.pixelifygooglephotos_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O2NG6MfDgd40v7e/4F8oGi3Nb1TK6OVxlbw9lHMcuKU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O2NG6MfDgd40v7e/4F8oGi3Nb1TK6OVxlbw9lHMcuKU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O2NG6MfDgd40v7e/4F8oGi3Nb1TK6OVxlbw9lHMcuKU="
+    }
+  },
+  "version": "4.1"
+}

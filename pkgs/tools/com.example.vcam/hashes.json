@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.vcam_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6mKUhS0oZMHYCLmwnP/4CpYa+HImt8Q3z/U3UbOg4fY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6mKUhS0oZMHYCLmwnP/4CpYa+HImt8Q3z/U3UbOg4fY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6mKUhS0oZMHYCLmwnP/4CpYa+HImt8Q3z/U3UbOg4fY="
+    }
+  },
+  "version": "4.4"
+}

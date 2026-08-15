@@ -1,0 +1,8 @@
+{
+  "package": "nya.kitsunyan.foxydroid",
+  "signerFingerprints": [
+    "60:E5:4D:9C:62:8C:1A:55:12:61:69:00:AC:99:1C:54:12:44:A8:EC:66:1F:4B:D1:28:F7:84:8F:16:58:2A:5C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

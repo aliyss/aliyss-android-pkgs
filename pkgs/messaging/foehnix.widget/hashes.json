@@ -1,0 +1,18 @@
+{
+  "apkName": "foehnix.widget_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lgkT9Azv5fRUJVTvYDMFWGuHygsDsl8o8Jq+7Hqc+Fc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lgkT9Azv5fRUJVTvYDMFWGuHygsDsl8o8Jq+7Hqc+Fc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lgkT9Azv5fRUJVTvYDMFWGuHygsDsl8o8Jq+7Hqc+Fc="
+    }
+  },
+  "version": "4.0"
+}

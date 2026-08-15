@@ -1,0 +1,18 @@
+{
+  "apkName": "org.purple.smokestack_20240101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yRwsQufcKjk2DmM0hDro/5BtME29tKJKDCZgYWMzbr8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yRwsQufcKjk2DmM0hDro/5BtME29tKJKDCZgYWMzbr8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yRwsQufcKjk2DmM0hDro/5BtME29tKJKDCZgYWMzbr8="
+    }
+  },
+  "version": "2024.01.01"
+}

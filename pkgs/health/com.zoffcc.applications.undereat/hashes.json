@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zoffcc.applications.undereat_10035.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vmVinIvSfiRMAGt8Z9EId5mCfZ+5gP5/5yxI21TwcxE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vmVinIvSfiRMAGt8Z9EId5mCfZ+5gP5/5yxI21TwcxE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vmVinIvSfiRMAGt8Z9EId5mCfZ+5gP5/5yxI21TwcxE="
+    }
+  },
+  "version": "1.0.35"
+}

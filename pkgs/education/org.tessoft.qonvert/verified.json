@@ -1,0 +1,8 @@
+{
+  "package": "org.tessoft.qonvert",
+  "signerFingerprints": [
+    "98:DD:05:DC:EF:0C:29:F2:AF:69:45:35:A0:FB:75:E5:52:61:FE:FF:69:B8:9D:A2:FA:EB:71:23:90:8A:4F:48"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

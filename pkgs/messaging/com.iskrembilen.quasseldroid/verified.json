@@ -1,0 +1,8 @@
+{
+  "package": "com.iskrembilen.quasseldroid",
+  "signerFingerprints": [
+    "8E:15:55:9A:1E:A6:C6:E1:44:84:B0:51:45:C6:F7:0A:C4:1D:C5:FD:76:D2:1F:31:16:D6:79:33:3B:81:6B:BF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

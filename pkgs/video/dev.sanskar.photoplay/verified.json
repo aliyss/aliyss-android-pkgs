@@ -1,0 +1,8 @@
+{
+  "package": "dev.sanskar.photoplay",
+  "signerFingerprints": [
+    "0C:3D:B0:AE:45:D6:86:A4:DD:21:B8:07:B5:77:91:D3:60:7E:85:93:48:12:9E:3C:3F:A2:CA:AF:46:96:6F:21"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

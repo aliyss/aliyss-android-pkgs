@@ -1,0 +1,18 @@
+{
+  "apkName": "cat.mvmike.minimalcalendarwidget_93.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O31mNRptG3+tLC9X5YfpDyFYQmTeXZpjqHOdXFZksZs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O31mNRptG3+tLC9X5YfpDyFYQmTeXZpjqHOdXFZksZs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O31mNRptG3+tLC9X5YfpDyFYQmTeXZpjqHOdXFZksZs="
+    }
+  },
+  "version": "2.19.0"
+}

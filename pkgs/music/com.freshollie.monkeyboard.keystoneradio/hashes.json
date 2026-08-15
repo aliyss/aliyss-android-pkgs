@@ -1,0 +1,18 @@
+{
+  "apkName": "com.freshollie.monkeyboard.keystoneradio_116.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-y4lIB6GMKxbqK3aDrpxpw7d5GyJg+6GaQgNGwYV72t8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y4lIB6GMKxbqK3aDrpxpw7d5GyJg+6GaQgNGwYV72t8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y4lIB6GMKxbqK3aDrpxpw7d5GyJg+6GaQgNGwYV72t8="
+    }
+  },
+  "version": "2.1.7-beta"
+}

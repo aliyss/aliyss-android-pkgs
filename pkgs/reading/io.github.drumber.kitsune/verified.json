@@ -1,0 +1,8 @@
+{
+  "package": "io.github.drumber.kitsune",
+  "signerFingerprints": [
+    "6A:6E:74:F1:03:C0:6F:22:B6:48:B2:A3:B0:96:30:A6:26:84:93:6F:94:EA:76:6A:B0:E3:B9:33:77:74:E6:34"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "app.olauncher",
+  "signerFingerprints": [
+    "53:E2:36:BB:1A:A8:7A:63:4E:71:E9:69:5B:C2:C5:EF:83:7D:71:DF:88:5C:E8:05:78:8F:FF:B5:6D:CB:BA:BE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

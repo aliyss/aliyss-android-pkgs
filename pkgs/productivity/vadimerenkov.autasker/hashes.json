@@ -1,0 +1,18 @@
+{
+  "apkName": "vadimerenkov.autasker_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4v2A1fRvZiEllrr+Uo8CHwo35fvxd0fLo3d/wEUjBBc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4v2A1fRvZiEllrr+Uo8CHwo35fvxd0fLo3d/wEUjBBc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4v2A1fRvZiEllrr+Uo8CHwo35fvxd0fLo3d/wEUjBBc="
+    }
+  },
+  "version": "1.2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kamwithk.ankiconnectandroid_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0gVsRUOZUkOkpTc7iGKLgpXFRP/9eCSXeHkVPlkRQGw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0gVsRUOZUkOkpTc7iGKLgpXFRP/9eCSXeHkVPlkRQGw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0gVsRUOZUkOkpTc7iGKLgpXFRP/9eCSXeHkVPlkRQGw="
+    }
+  },
+  "version": "1.15"
+}

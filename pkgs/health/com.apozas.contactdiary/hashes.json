@@ -1,0 +1,18 @@
+{
+  "apkName": "com.apozas.contactdiary_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1K5+gzNQCW4XfkpOoKS8Wc2JMFPifB9vIP2KR0S0KH4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1K5+gzNQCW4XfkpOoKS8Wc2JMFPifB9vIP2KR0S0KH4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1K5+gzNQCW4XfkpOoKS8Wc2JMFPifB9vIP2KR0S0KH4="
+    }
+  },
+  "version": "1.4.14"
+}

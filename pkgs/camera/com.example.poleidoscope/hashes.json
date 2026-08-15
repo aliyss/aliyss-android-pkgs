@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.poleidoscope_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9RSztl3V9uKBUmLPl+EVkIAA/i0jk5MG1LayN7OaV3Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9RSztl3V9uKBUmLPl+EVkIAA/i0jk5MG1LayN7OaV3Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9RSztl3V9uKBUmLPl+EVkIAA/i0jk5MG1LayN7OaV3Y="
+    }
+  },
+  "version": "0.1.0"
+}

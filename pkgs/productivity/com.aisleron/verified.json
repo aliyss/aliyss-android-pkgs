@@ -1,0 +1,8 @@
+{
+  "package": "com.aisleron",
+  "signerFingerprints": [
+    "E1:A1:72:5F:32:B3:02:C6:C6:9A:EE:BD:25:C5:E5:07:41:82:1A:F7:BF:EC:0A:E1:8A:DF:CA:28:70:56:39:EA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

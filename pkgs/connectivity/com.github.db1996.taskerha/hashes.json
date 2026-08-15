@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.db1996.taskerha_20003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Is+62XG/QKF61FiINQwnX9+LigzIdBa0zK4m9s0GBqg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Is+62XG/QKF61FiINQwnX9+LigzIdBa0zK4m9s0GBqg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Is+62XG/QKF61FiINQwnX9+LigzIdBa0zK4m9s0GBqg="
+    }
+  },
+  "version": "2.0.3"
+}

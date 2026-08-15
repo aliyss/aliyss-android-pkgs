@@ -1,0 +1,8 @@
+{
+  "package": "com.signalsense.app",
+  "signerFingerprints": [
+    "77:FF:F6:58:B2:FE:10:04:DF:65:83:D8:2D:2C:83:C1:7B:5A:86:E3:94:D1:B4:07:B9:77:2E:FE:E7:FF:F6:E3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

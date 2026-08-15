@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pedronveloso.a11ybutton_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8ipTnDWUXV7qgXzuSfW/FRSEEvwkOlS6qzAIHFqSVyo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8ipTnDWUXV7qgXzuSfW/FRSEEvwkOlS6qzAIHFqSVyo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8ipTnDWUXV7qgXzuSfW/FRSEEvwkOlS6qzAIHFqSVyo="
+    }
+  },
+  "version": "Beta 3"
+}

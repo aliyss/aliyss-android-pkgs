@@ -1,0 +1,8 @@
+{
+  "package": "com.malopieds.innertune",
+  "signerFingerprints": [
+    "D6:67:CA:F7:D9:75:9B:F6:29:8A:93:82:69:26:47:A1:D8:FE:07:E8:19:DD:95:34:14:3D:6F:28:6A:C4:5C:C2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

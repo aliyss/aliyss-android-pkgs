@@ -1,0 +1,18 @@
+{
+  "apkName": "de.qwerty287.ftpclient_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DQFUVW8Mp6/V0ucUsSLrUj6L+WnU/VkLr22jR21GgTQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DQFUVW8Mp6/V0ucUsSLrUj6L+WnU/VkLr22jR21GgTQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DQFUVW8Mp6/V0ucUsSLrUj6L+WnU/VkLr22jR21GgTQ="
+    }
+  },
+  "version": "3.1.1"
+}

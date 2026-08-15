@@ -1,0 +1,8 @@
+{
+  "package": "org.nitri.opentopo",
+  "signerFingerprints": [
+    "09:73:93:6A:F1:7D:47:D3:C8:EE:3B:79:3B:82:50:C8:DF:38:15:C9:7B:92:4E:A3:5C:51:0A:21:75:CE:0A:92"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

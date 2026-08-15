@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fairspeed.test_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/qBcmmMn75h7VuOlzSMLZE8Rl9PBKghh0ZtV2svt1YE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/qBcmmMn75h7VuOlzSMLZE8Rl9PBKghh0ZtV2svt1YE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/qBcmmMn75h7VuOlzSMLZE8Rl9PBKghh0ZtV2svt1YE="
+    }
+  },
+  "version": "1.0.2"
+}

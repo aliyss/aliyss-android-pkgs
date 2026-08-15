@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.TTime_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YpM2mX142NtdCOTt9ljkRFifAxHnAP5n2AeUnA9sgcg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YpM2mX142NtdCOTt9ljkRFifAxHnAP5n2AeUnA9sgcg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YpM2mX142NtdCOTt9ljkRFifAxHnAP5n2AeUnA9sgcg="
+    }
+  },
+  "version": "1.2"
+}

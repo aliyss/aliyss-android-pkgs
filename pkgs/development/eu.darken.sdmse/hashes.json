@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.darken.sdmse_20002000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wJFwPsaDwNR1wFxJJJdrYk4iO+024bWAxn8steXjqZ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wJFwPsaDwNR1wFxJJJdrYk4iO+024bWAxn8steXjqZ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wJFwPsaDwNR1wFxJJJdrYk4iO+024bWAxn8steXjqZ0="
+    }
+  },
+  "version": "2.0.2-rc0"
+}

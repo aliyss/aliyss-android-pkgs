@@ -1,0 +1,8 @@
+{
+  "package": "it.piemonte.arpa.openoise",
+  "signerFingerprints": [
+    "1B:97:A8:BF:08:87:08:27:80:18:56:C9:EF:A7:A9:29:E6:D7:B6:6E:E8:23:AA:8B:3B:2B:7F:B7:BB:91:9A:F4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

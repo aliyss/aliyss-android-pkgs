@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.randombits.intervaltimer_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fLYebZ2BtxOzhHgzTZQs8qn9CCbfQ5JLrZNIUA+Tlqg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fLYebZ2BtxOzhHgzTZQs8qn9CCbfQ5JLrZNIUA+Tlqg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fLYebZ2BtxOzhHgzTZQs8qn9CCbfQ5JLrZNIUA+Tlqg="
+    }
+  },
+  "version": "1.2.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.yosefario.nclientv3",
+  "signerFingerprints": [
+    "22:EC:85:62:49:B5:CC:99:05:73:CE:11:2B:A2:1E:EE:59:B7:01:D9:8B:A3:25:3E:26:9C:F8:A0:06:0D:D1:2A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

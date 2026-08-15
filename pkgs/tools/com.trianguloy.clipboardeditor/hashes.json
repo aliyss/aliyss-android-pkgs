@@ -1,0 +1,18 @@
+{
+  "apkName": "com.trianguloy.clipboardeditor_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xI6oDUpTYtrkEI9bUipWsm5b4Ag8bai8eXjG72MQaN8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xI6oDUpTYtrkEI9bUipWsm5b4Ag8bai8eXjG72MQaN8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xI6oDUpTYtrkEI9bUipWsm5b4Ag8bai8eXjG72MQaN8="
+    }
+  },
+  "version": "1.6"
+}

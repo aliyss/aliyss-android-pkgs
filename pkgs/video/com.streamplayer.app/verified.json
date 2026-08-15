@@ -1,0 +1,8 @@
+{
+  "package": "com.streamplayer.app",
+  "signerFingerprints": [
+    "4B:70:69:6E:E5:E7:1D:A3:79:B1:D5:C3:58:4D:50:96:91:CF:53:ED:C4:52:5C:C9:2F:A0:6C:E5:A6:AD:DF:CC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

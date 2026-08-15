@@ -1,0 +1,8 @@
+{
+  "package": "org.smssecure.smssecure",
+  "signerFingerprints": [
+    "B3:0B:B9:71:AF:0D:13:48:66:E1:58:EC:74:8F:CD:55:3D:F9:7C:15:0F:58:B0:A9:63:19:0B:BA:FB:EB:08:68"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

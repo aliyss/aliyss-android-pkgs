@@ -1,0 +1,8 @@
+{
+  "package": "com.myclosetx",
+  "signerFingerprints": [
+    "2C:AF:F2:A8:31:8B:BC:B1:25:0B:84:61:56:7D:FD:ED:DD:88:11:ED:B9:D2:A8:18:59:45:8C:DF:7C:C4:E6:E5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

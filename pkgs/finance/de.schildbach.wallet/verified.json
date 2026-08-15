@@ -1,0 +1,8 @@
+{
+  "package": "de.schildbach.wallet",
+  "signerFingerprints": [
+    "58:DC:D8:A0:ED:F2:A5:90:68:3B:A0:22:D2:2A:8D:CA:56:59:AA:BF:47:28:74:1A:5C:07:AF:73:8D:53:DB:38"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

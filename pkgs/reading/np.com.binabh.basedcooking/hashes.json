@@ -1,0 +1,18 @@
+{
+  "apkName": "np.com.binabh.basedcooking_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uVXCCtlK7H0k6LSQgrh7sPyamCVaQlkfoSMziAtJAXw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uVXCCtlK7H0k6LSQgrh7sPyamCVaQlkfoSMziAtJAXw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uVXCCtlK7H0k6LSQgrh7sPyamCVaQlkfoSMziAtJAXw="
+    }
+  },
+  "version": "1.0.3"
+}

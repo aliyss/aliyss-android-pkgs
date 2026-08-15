@@ -1,0 +1,8 @@
+{
+  "package": "com.mobile.bummerzaehler",
+  "signerFingerprints": [
+    "DC:C3:E3:0F:8F:47:F7:31:7D:EC:30:4E:43:82:40:3F:38:53:FD:DA:5F:B1:74:9D:EB:41:20:77:E5:A3:DF:34"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.colemakmods.keyboard_companion",
+  "signerFingerprints": [
+    "D8:8D:EB:09:EC:0C:80:0A:31:41:39:61:76:33:A0:78:6F:44:8C:25:D2:11:F6:BD:02:3A:E2:F1:63:B0:D4:D9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

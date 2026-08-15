@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ventoid.app_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kwd0tplCNlsdFtocjXndGfxF4QdDHlhb4ibHRnLiQfQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kwd0tplCNlsdFtocjXndGfxF4QdDHlhb4ibHRnLiQfQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kwd0tplCNlsdFtocjXndGfxF4QdDHlhb4ibHRnLiQfQ="
+    }
+  },
+  "version": "0.3.1"
+}

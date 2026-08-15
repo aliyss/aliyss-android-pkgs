@@ -1,0 +1,8 @@
+{
+  "package": "com.nbossard.packlist",
+  "signerFingerprints": [
+    "BA:72:13:01:74:43:4B:9C:DA:30:7F:5F:63:1C:D2:B9:8B:64:A9:FF:D4:FC:0E:F6:AD:33:54:39:55:39:7E:E1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

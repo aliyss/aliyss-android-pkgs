@@ -1,0 +1,8 @@
+{
+  "package": "eu.darken.sdmse",
+  "signerFingerprints": [
+    "F4:90:03:2B:E5:38:3F:55:90:04:95:FA:7F:C2:07:EC:E2:E7:86:A5:C2:C6:CC:52:02:7B:99:54:8A:9C:E9:38"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

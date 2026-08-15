@@ -1,0 +1,8 @@
+{
+  "package": "com.stoutner.privacybrowser.standard",
+  "signerFingerprints": [
+    "F9:76:14:DC:96:96:4B:EA:2E:4F:A6:6B:24:60:8A:51:0A:87:B3:B1:E0:1B:A6:8E:07:53:C0:99:13:3A:87:68"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

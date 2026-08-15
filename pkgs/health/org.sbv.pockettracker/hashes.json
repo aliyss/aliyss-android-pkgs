@@ -1,0 +1,18 @@
+{
+  "apkName": "org.sbv.pockettracker_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4io6Ke9P4YSlL5Qji39rg0N8JLhMoV8t03YxSiajAo8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4io6Ke9P4YSlL5Qji39rg0N8JLhMoV8t03YxSiajAo8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4io6Ke9P4YSlL5Qji39rg0N8JLhMoV8t03YxSiajAo8="
+    }
+  },
+  "version": "2.5.9"
+}

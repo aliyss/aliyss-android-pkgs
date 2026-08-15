@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.soundremote_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GF0kLsLzWqQeRWIMhaSsovvQ7eG1Kfzr8l+zka1cS2g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GF0kLsLzWqQeRWIMhaSsovvQ7eG1Kfzr8l+zka1cS2g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GF0kLsLzWqQeRWIMhaSsovvQ7eG1Kfzr8l+zka1cS2g="
+    }
+  },
+  "version": "0.6.0"
+}

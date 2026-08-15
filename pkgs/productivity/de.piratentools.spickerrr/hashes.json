@@ -1,0 +1,18 @@
+{
+  "apkName": "de.piratentools.spickerrr_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IzLeH5sLpjTCOSo1VvDGfXZvI5nZ9liMLMiY5AR9uQ4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IzLeH5sLpjTCOSo1VvDGfXZvI5nZ9liMLMiY5AR9uQ4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IzLeH5sLpjTCOSo1VvDGfXZvI5nZ9liMLMiY5AR9uQ4="
+    }
+  },
+  "version": "2.2.1"
+}

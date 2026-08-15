@@ -1,0 +1,18 @@
+{
+  "apkName": "net.kollnig.missioncontrol.fdroid_2026080501.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8iGwLwmqsfljCudAbpHiYNkvN3pLtOAgThdUJ0EmPUI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8iGwLwmqsfljCudAbpHiYNkvN3pLtOAgThdUJ0EmPUI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8iGwLwmqsfljCudAbpHiYNkvN3pLtOAgThdUJ0EmPUI="
+    }
+  },
+  "version": "2026.08.05-fdroid"
+}

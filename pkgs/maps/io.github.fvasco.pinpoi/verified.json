@@ -1,0 +1,8 @@
+{
+  "package": "io.github.fvasco.pinpoi",
+  "signerFingerprints": [
+    "18:0C:E7:24:90:36:27:21:AB:92:CA:55:07:F9:B3:49:28:F3:89:0A:C7:71:F8:66:8D:FD:8B:24:22:ED:09:4A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

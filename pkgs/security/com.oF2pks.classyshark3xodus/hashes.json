@@ -1,0 +1,18 @@
+{
+  "apkName": "com.oF2pks.classyshark3xodus_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iBm/5jP6p6/85bA1rV9VP7XGg2jsqh0s3uAt0gV3NRI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iBm/5jP6p6/85bA1rV9VP7XGg2jsqh0s3uAt0gV3NRI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iBm/5jP6p6/85bA1rV9VP7XGg2jsqh0s3uAt0gV3NRI="
+    }
+  },
+  "version": "2.0-34"
+}

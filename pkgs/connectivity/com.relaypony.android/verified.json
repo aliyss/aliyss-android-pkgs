@@ -1,0 +1,8 @@
+{
+  "package": "com.relaypony.android",
+  "signerFingerprints": [
+    "D6:5C:D8:0D:CD:A1:D9:2B:86:92:11:B0:2A:E6:07:69:1C:CD:E9:33:51:00:7E:81:1F:7E:49:18:9A:C0:99:C9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

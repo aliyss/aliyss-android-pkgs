@@ -1,0 +1,8 @@
+{
+  "package": "net.cyclestreets",
+  "signerFingerprints": [
+    "0A:CB:0E:A3:13:52:A6:39:3B:13:EF:9E:A5:86:DD:97:24:EB:15:72:86:56:E2:B8:FB:BC:EA:F0:F4:0B:C5:C9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

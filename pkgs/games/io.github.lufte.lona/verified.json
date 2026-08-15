@@ -1,0 +1,8 @@
+{
+  "package": "io.github.lufte.lona",
+  "signerFingerprints": [
+    "24:45:D1:32:1C:14:09:BF:B5:74:28:F0:6E:BC:10:49:BF:E1:56:F7:6B:1B:58:15:C0:FC:21:6D:F0:0D:A0:CB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.jabstone.jabtalk.basic",
+  "signerFingerprints": [
+    "3C:85:73:4F:12:BE:45:B6:32:5F:D8:D7:A3:6A:93:57:0B:68:81:6E:13:FE:EA:68:A3:D1:24:29:22:EB:3F:9D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

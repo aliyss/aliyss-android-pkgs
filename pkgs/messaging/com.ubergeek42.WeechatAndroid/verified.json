@@ -1,0 +1,8 @@
+{
+  "package": "com.ubergeek42.WeechatAndroid",
+  "signerFingerprints": [
+    "00:F4:9E:7E:22:3C:07:0E:4A:02:58:D1:94:3A:3E:40:B8:44:47:82:50:FD:95:1C:DA:D6:0D:9D:4A:F0:F9:1D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

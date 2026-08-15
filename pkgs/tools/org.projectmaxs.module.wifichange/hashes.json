@@ -1,0 +1,18 @@
+{
+  "apkName": "org.projectmaxs.module.wifichange_2000506627.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Znw1D91kahYq+KSS9e3RcSGIEK4L5FZMgfCZxwpDpRw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Znw1D91kahYq+KSS9e3RcSGIEK4L5FZMgfCZxwpDpRw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Znw1D91kahYq+KSS9e3RcSGIEK4L5FZMgfCZxwpDpRw="
+    }
+  },
+  "version": "0.5.19"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.blocklink.pigrid_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Seu/w6wGlvs3277RivYerL9QMNpc2Mv6Yv4jl6uBpP0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Seu/w6wGlvs3277RivYerL9QMNpc2Mv6Yv4jl6uBpP0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Seu/w6wGlvs3277RivYerL9QMNpc2Mv6Yv4jl6uBpP0="
+    }
+  },
+  "version": "1.4"
+}

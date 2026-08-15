@@ -1,0 +1,8 @@
+{
+  "package": "com.coleblvck.methodcall",
+  "signerFingerprints": [
+    "0A:D0:63:7C:E1:65:83:21:70:6C:28:C4:35:84:A6:82:66:2E:C0:25:4C:26:D9:86:9C:4B:73:8E:BB:4E:1D:B7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

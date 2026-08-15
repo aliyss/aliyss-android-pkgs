@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aicodix.assempix_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AbVHaIezl7Pk3+a0RdiSPQl7BGcswQHuqspkcqGYCik="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AbVHaIezl7Pk3+a0RdiSPQl7BGcswQHuqspkcqGYCik="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AbVHaIezl7Pk3+a0RdiSPQl7BGcswQHuqspkcqGYCik="
+    }
+  },
+  "version": "1.18"
+}

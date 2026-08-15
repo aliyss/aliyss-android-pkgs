@@ -1,0 +1,8 @@
+{
+  "package": "com.geecee.escapelauncher",
+  "signerFingerprints": [
+    "6E:E9:90:67:5A:50:4F:1A:87:58:FE:29:73:AF:9F:B3:31:1D:EA:C4:4F:9A:7F:E1:89:E4:06:33:08:EB:C6:CF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

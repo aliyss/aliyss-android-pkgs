@@ -1,0 +1,8 @@
+{
+  "package": "eu.imouto.hupl",
+  "signerFingerprints": [
+    "C9:9C:05:0E:C3:D1:35:0D:07:B0:FA:C0:B9:0C:BF:AA:E2:17:DA:82:CE:5B:28:7C:E9:A6:8D:B4:6D:32:77:1D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

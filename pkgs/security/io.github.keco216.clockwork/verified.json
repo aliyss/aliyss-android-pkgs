@@ -1,0 +1,8 @@
+{
+  "package": "io.github.keco216.clockwork",
+  "signerFingerprints": [
+    "DD:B5:1F:95:E8:B0:18:7E:5D:21:68:EC:99:F1:44:8F:4C:E7:DB:37:3A:C3:A0:AD:43:E6:23:23:C8:BD:2A:47"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

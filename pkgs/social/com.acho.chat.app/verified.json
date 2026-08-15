@@ -1,0 +1,8 @@
+{
+  "package": "com.acho.chat.app",
+  "signerFingerprints": [
+    "6E:DC:E2:9E:FE:0B:ED:24:0C:58:55:ED:45:11:78:BD:46:96:00:58:50:7F:36:FA:BE:7B:16:F6:81:FF:DC:15"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

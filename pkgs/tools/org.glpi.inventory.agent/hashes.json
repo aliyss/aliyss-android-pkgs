@@ -1,0 +1,18 @@
+{
+  "apkName": "org.glpi.inventory.agent_39471.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PkqkydFyhYSSGgH8+fHmJ4X1ML+hJlnd1m4Obj3ZpsY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PkqkydFyhYSSGgH8+fHmJ4X1ML+hJlnd1m4Obj3ZpsY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PkqkydFyhYSSGgH8+fHmJ4X1ML+hJlnd1m4Obj3ZpsY="
+    }
+  },
+  "version": "1.8.1"
+}

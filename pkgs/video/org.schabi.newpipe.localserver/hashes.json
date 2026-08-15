@@ -1,0 +1,18 @@
+{
+  "apkName": "org.schabi.newpipe.localserver_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2XjhP5p58uN79SaeP42Kav9HUgUTUEQQ+iSm5FAdD/s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2XjhP5p58uN79SaeP42Kav9HUgUTUEQQ+iSm5FAdD/s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2XjhP5p58uN79SaeP42Kav9HUgUTUEQQ+iSm5FAdD/s="
+    }
+  },
+  "version": "3.4"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.alexbarry.alexgames_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Twqxfa6IC/erjVmfKPiWGbZ21jJjyY79KYNlLh3RVgE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Twqxfa6IC/erjVmfKPiWGbZ21jJjyY79KYNlLh3RVgE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Twqxfa6IC/erjVmfKPiWGbZ21jJjyY79KYNlLh3RVgE="
+    }
+  },
+  "version": "0.0.3"
+}

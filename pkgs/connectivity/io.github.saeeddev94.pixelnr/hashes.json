@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.saeeddev94.pixelnr_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uwzMREIE6zbNpn2/BF7iVWItRWY+2lInhbJt254DRT0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uwzMREIE6zbNpn2/BF7iVWItRWY+2lInhbJt254DRT0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uwzMREIE6zbNpn2/BF7iVWItRWY+2lInhbJt254DRT0="
+    }
+  },
+  "version": "2.1.0"
+}

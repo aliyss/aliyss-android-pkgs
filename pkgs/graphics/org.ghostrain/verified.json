@@ -1,0 +1,8 @@
+{
+  "package": "org.ghostrain",
+  "signerFingerprints": [
+    "A6:15:89:D7:CA:26:97:80:09:7F:04:77:68:2F:F6:EC:D5:FB:3A:F4:F1:76:06:E9:76:71:09:93:FA:AB:82:49"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

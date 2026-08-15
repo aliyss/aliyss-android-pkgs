@@ -1,0 +1,18 @@
+{
+  "apkName": "org.rocstreaming.rocdroid_2002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NXRa18QwbfO/Cm2s0Tt4wFjlr+6AsvBuK02YST7KtjM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NXRa18QwbfO/Cm2s0Tt4wFjlr+6AsvBuK02YST7KtjM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NXRa18QwbfO/Cm2s0Tt4wFjlr+6AsvBuK02YST7KtjM="
+    }
+  },
+  "version": "0.2.2"
+}

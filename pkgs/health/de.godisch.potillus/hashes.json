@@ -1,0 +1,18 @@
+{
+  "apkName": "de.godisch.potillus_95.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bH1bAEvXZquyn0uiRdIyfXj5cAdxMpHFtjSDBbBPtbY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bH1bAEvXZquyn0uiRdIyfXj5cAdxMpHFtjSDBbBPtbY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bH1bAEvXZquyn0uiRdIyfXj5cAdxMpHFtjSDBbBPtbY="
+    }
+  },
+  "version": "0.84.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.corenting.traficparis_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jh/ZxyNkKDXmjtdrUkij53Z8nGfEl28gDqqFP5+vphY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jh/ZxyNkKDXmjtdrUkij53Z8nGfEl28gDqqFP5+vphY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jh/ZxyNkKDXmjtdrUkij53Z8nGfEl28gDqqFP5+vphY="
+    }
+  },
+  "version": "6.0"
+}

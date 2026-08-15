@@ -1,0 +1,18 @@
+{
+  "apkName": "org.eagsoftware.laundrynotes_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9v8H0zW52ptX842W3E8OI92p4aiKaNlT35OLSbXuuiw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9v8H0zW52ptX842W3E8OI92p4aiKaNlT35OLSbXuuiw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9v8H0zW52ptX842W3E8OI92p4aiKaNlT35OLSbXuuiw="
+    }
+  },
+  "version": "3.0"
+}

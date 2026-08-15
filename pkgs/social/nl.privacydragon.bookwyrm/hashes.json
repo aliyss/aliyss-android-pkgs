@@ -1,0 +1,18 @@
+{
+  "apkName": "nl.privacydragon.bookwyrm_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BBwf6aXiR2bcCnJE0Hf0eUF1ykFEyyJ6d8FM0L6Yzuo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BBwf6aXiR2bcCnJE0Hf0eUF1ykFEyyJ6d8FM0L6Yzuo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BBwf6aXiR2bcCnJE0Hf0eUF1ykFEyyJ6d8FM0L6Yzuo="
+    }
+  },
+  "version": "1.3.9"
+}

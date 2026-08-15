@@ -1,0 +1,18 @@
+{
+  "apkName": "v4lpt.vpt.i018.vpc_105.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AhqVaRVen6TPbfIqSof4rhWTe1Sis1KJDmyJbQtTUTA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AhqVaRVen6TPbfIqSof4rhWTe1Sis1KJDmyJbQtTUTA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AhqVaRVen6TPbfIqSof4rhWTe1Sis1KJDmyJbQtTUTA="
+    }
+  },
+  "version": "1.0.5"
+}

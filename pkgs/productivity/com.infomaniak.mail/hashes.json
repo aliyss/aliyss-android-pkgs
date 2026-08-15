@@ -1,0 +1,18 @@
+{
+  "apkName": "com.infomaniak.mail_13100002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i8o/C8XlM/GIB3EYoY9AYk9CNwU2YiYWKIzCMde8vgw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i8o/C8XlM/GIB3EYoY9AYk9CNwU2YiYWKIzCMde8vgw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i8o/C8XlM/GIB3EYoY9AYk9CNwU2YiYWKIzCMde8vgw="
+    }
+  },
+  "version": "1.31.0"
+}

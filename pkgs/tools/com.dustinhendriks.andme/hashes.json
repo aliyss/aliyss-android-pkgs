@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dustinhendriks.andme_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ws0dZqSTrlXmLgpD3zgS/mD/g2dG9WpW9yWOnOU/E4g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ws0dZqSTrlXmLgpD3zgS/mD/g2dG9WpW9yWOnOU/E4g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ws0dZqSTrlXmLgpD3zgS/mD/g2dG9WpW9yWOnOU/E4g="
+    }
+  },
+  "version": "2.2.0"
+}

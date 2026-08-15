@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.fosdem.schedule_117.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XJjpcVh+stdw1rx8XVxNphFOIE6QzvP5NSiOGmZWvTQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XJjpcVh+stdw1rx8XVxNphFOIE6QzvP5NSiOGmZWvTQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XJjpcVh+stdw1rx8XVxNphFOIE6QzvP5NSiOGmZWvTQ="
+    }
+  },
+  "version": "1.74.2-FOSDEM-Edition"
+}

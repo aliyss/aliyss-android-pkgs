@@ -1,0 +1,18 @@
+{
+  "apkName": "org.gateshipone.malp_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pg9T7QEK3ql2Vxm6IFS6p07KvgxIq/48Rpyybp4tqZQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pg9T7QEK3ql2Vxm6IFS6p07KvgxIq/48Rpyybp4tqZQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pg9T7QEK3ql2Vxm6IFS6p07KvgxIq/48Rpyybp4tqZQ="
+    }
+  },
+  "version": "1.3.2"
+}

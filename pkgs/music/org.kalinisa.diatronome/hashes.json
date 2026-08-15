@@ -1,0 +1,18 @@
+{
+  "apkName": "org.kalinisa.diatronome_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KNE8Nwpc4mTpCu4BI2Y8LHngghrZJdBFqkrVf1mvsd0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KNE8Nwpc4mTpCu4BI2Y8LHngghrZJdBFqkrVf1mvsd0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KNE8Nwpc4mTpCu4BI2Y8LHngghrZJdBFqkrVf1mvsd0="
+    }
+  },
+  "version": "1.0.15"
+}

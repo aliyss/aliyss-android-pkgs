@@ -1,0 +1,18 @@
+{
+  "apkName": "net.ktnx.mobileledger_58.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-npgKYC3Th4bFx/8d3ToOs+recDWvpvIyVtAwScA3y78="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-npgKYC3Th4bFx/8d3ToOs+recDWvpvIyVtAwScA3y78="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-npgKYC3Th4bFx/8d3ToOs+recDWvpvIyVtAwScA3y78="
+    }
+  },
+  "version": "0.21.9"
+}

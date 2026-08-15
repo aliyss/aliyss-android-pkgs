@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cvc953.localplayer_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PaCEvgC0OJ0b4kC+5UB9B88JOgEzzDLapqHrJ9M+hmI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PaCEvgC0OJ0b4kC+5UB9B88JOgEzzDLapqHrJ9M+hmI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PaCEvgC0OJ0b4kC+5UB9B88JOgEzzDLapqHrJ9M+hmI="
+    }
+  },
+  "version": "1.1.1"
+}

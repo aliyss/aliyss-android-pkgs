@@ -1,0 +1,8 @@
+{
+  "package": "org.thayyil.spring.launcher",
+  "signerFingerprints": [
+    "DB:5B:F4:DE:BF:04:12:BE:C8:E0:C2:75:FB:52:35:E6:2E:75:AC:B4:56:B6:81:90:82:25:E1:F0:DD:C1:FA:BE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

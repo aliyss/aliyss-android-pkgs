@@ -1,0 +1,18 @@
+{
+  "apkName": "jp.juggler.subwaytooter.noFcm_549.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IIWNZfmb1TO88KalGCmlYAtN+4jzNRSkt09dYM2Bb+c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IIWNZfmb1TO88KalGCmlYAtN+4jzNRSkt09dYM2Bb+c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IIWNZfmb1TO88KalGCmlYAtN+4jzNRSkt09dYM2Bb+c="
+    }
+  },
+  "version": "5.549-noFcm"
+}

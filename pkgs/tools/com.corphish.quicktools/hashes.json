@@ -1,0 +1,18 @@
+{
+  "apkName": "com.corphish.quicktools_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nDCjYj6Dli/V1IzpA4BsR8kvr3a2VB0CojcsYnZ1oIA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nDCjYj6Dli/V1IzpA4BsR8kvr3a2VB0CojcsYnZ1oIA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nDCjYj6Dli/V1IzpA4BsR8kvr3a2VB0CojcsYnZ1oIA="
+    }
+  },
+  "version": "2.2.4"
+}

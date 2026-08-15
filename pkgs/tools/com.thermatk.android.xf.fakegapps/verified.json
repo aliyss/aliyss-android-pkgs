@@ -1,0 +1,8 @@
+{
+  "package": "com.thermatk.android.xf.fakegapps",
+  "signerFingerprints": [
+    "ED:64:E0:62:CA:35:37:9A:5E:2A:46:30:C4:EE:0F:10:A5:A1:0B:8B:55:40:00:D9:2A:BD:B8:78:62:A2:E6:94"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

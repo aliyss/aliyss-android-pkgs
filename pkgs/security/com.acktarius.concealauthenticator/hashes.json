@@ -1,0 +1,18 @@
+{
+  "apkName": "com.acktarius.concealauthenticator_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KhOa7clBSP7X/1DecTijS62+UD6zEpygR4lFZOMpx6Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KhOa7clBSP7X/1DecTijS62+UD6zEpygR4lFZOMpx6Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KhOa7clBSP7X/1DecTijS62+UD6zEpygR4lFZOMpx6Q="
+    }
+  },
+  "version": "1.1.3"
+}

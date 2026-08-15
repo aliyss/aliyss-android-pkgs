@@ -1,0 +1,8 @@
+{
+  "package": "com.oliverszabo.tcrbdetector",
+  "signerFingerprints": [
+    "61:4E:EB:C3:9F:2A:95:5C:47:16:1E:2C:9C:A5:6D:EB:22:75:91:35:75:DF:8B:63:3D:51:C2:A3:34:00:89:40"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

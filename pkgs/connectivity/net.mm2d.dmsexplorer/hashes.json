@@ -1,0 +1,18 @@
+{
+  "apkName": "net.mm2d.dmsexplorer_773.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cEE/SNQHtt8F0SZsLyjFAj4QJr1jTjUPb1stRuwDvuI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cEE/SNQHtt8F0SZsLyjFAj4QJr1jTjUPb1stRuwDvuI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cEE/SNQHtt8F0SZsLyjFAj4QJr1jTjUPb1stRuwDvuI="
+    }
+  },
+  "version": "0.7.73"
+}

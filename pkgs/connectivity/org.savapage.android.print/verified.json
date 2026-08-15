@@ -1,0 +1,8 @@
+{
+  "package": "org.savapage.android.print",
+  "signerFingerprints": [
+    "DD:39:32:D8:BA:A8:74:9B:92:9D:D1:3B:02:B7:7E:4A:5C:5A:B4:ED:25:42:D1:45:8E:3F:58:59:96:3E:E7:59"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

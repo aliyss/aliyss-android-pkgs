@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.tmo1.sms_ie_10119.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-It9I8EwwGbbtpiCsvtN/dP1OFARFsjHR+JPdbKZEkbI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-It9I8EwwGbbtpiCsvtN/dP1OFARFsjHR+JPdbKZEkbI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-It9I8EwwGbbtpiCsvtN/dP1OFARFsjHR+JPdbKZEkbI="
+    }
+  },
+  "version": "2.11.1-standard"
+}

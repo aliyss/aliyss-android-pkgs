@@ -1,0 +1,8 @@
+{
+  "package": "com.mubarak.mbcompass",
+  "signerFingerprints": [
+    "5A:79:10:E2:2A:BE:3E:F9:D1:FD:42:C6:4F:DD:15:1F:7A:2D:DC:38:AC:AC:5F:1F:94:CA:F9:D7:9B:70:A6:9A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

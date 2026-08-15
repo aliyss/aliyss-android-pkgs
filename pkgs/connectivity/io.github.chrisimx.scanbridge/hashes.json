@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.chrisimx.scanbridge_2001004.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JGDQAmN1zH6fVT+KyBO9p4D4rYbh7/1ce8F2rc+A2Z4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JGDQAmN1zH6fVT+KyBO9p4D4rYbh7/1ce8F2rc+A2Z4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JGDQAmN1zH6fVT+KyBO9p4D4rYbh7/1ce8F2rc+A2Z4="
+    }
+  },
+  "version": "2.1.4"
+}

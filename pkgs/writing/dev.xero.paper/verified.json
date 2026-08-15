@@ -1,0 +1,8 @@
+{
+  "package": "dev.xero.paper",
+  "signerFingerprints": [
+    "E1:FF:4E:05:36:68:23:87:0E:A3:DD:67:60:53:4C:EF:36:7D:59:DC:98:68:E2:16:FB:E2:4C:4E:68:74:DD:61"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

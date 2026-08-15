@@ -1,0 +1,18 @@
+{
+  "apkName": "space.neothefox.laytray_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KD2PHGEYZZUjNq6/L8nkPxz2mnLHkr7kAobxThEe0tQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KD2PHGEYZZUjNq6/L8nkPxz2mnLHkr7kAobxThEe0tQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KD2PHGEYZZUjNq6/L8nkPxz2mnLHkr7kAobxThEe0tQ="
+    }
+  },
+  "version": "1.9"
+}

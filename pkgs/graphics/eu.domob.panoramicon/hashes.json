@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.domob.panoramicon_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VFcUeIFkQu/+JFodzSs+GWe3VQwcEXrq1HPHcWso5GY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VFcUeIFkQu/+JFodzSs+GWe3VQwcEXrq1HPHcWso5GY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VFcUeIFkQu/+JFodzSs+GWe3VQwcEXrq1HPHcWso5GY="
+    }
+  },
+  "version": "1.1.1"
+}

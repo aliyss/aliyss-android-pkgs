@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.secam.simpletag_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jby6nJvwTzPzuPU545Iomg3THUtPnlWbUsG9AVhKSAc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jby6nJvwTzPzuPU545Iomg3THUtPnlWbUsG9AVhKSAc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jby6nJvwTzPzuPU545Iomg3THUtPnlWbUsG9AVhKSAc="
+    }
+  },
+  "version": "0.3.2-beta"
+}

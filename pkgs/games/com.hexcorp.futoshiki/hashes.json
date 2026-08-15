@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hexcorp.futoshiki_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LiuDBYyp9luK5rU5VAQxiwCFNgoHPHtsVI+LW2YaEuw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LiuDBYyp9luK5rU5VAQxiwCFNgoHPHtsVI+LW2YaEuw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LiuDBYyp9luK5rU5VAQxiwCFNgoHPHtsVI+LW2YaEuw="
+    }
+  },
+  "version": "1.4"
+}

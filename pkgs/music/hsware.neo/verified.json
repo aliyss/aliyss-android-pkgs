@@ -1,0 +1,8 @@
+{
+  "package": "hsware.neo",
+  "signerFingerprints": [
+    "E8:30:78:AD:90:A3:E7:6B:3B:48:CA:1C:66:CA:81:DD:13:5D:7D:07:ED:64:2F:AF:58:DD:39:B2:BC:0C:7F:98"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

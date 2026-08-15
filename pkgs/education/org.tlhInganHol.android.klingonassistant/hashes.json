@@ -1,0 +1,18 @@
+{
+  "apkName": "org.tlhInganHol.android.klingonassistant_575.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mAuAkb6bktX0pRO9BPqYrYaFdLaOCf9Cr1ypCRqi1/s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mAuAkb6bktX0pRO9BPqYrYaFdLaOCf9Cr1ypCRqi1/s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mAuAkb6bktX0pRO9BPqYrYaFdLaOCf9Cr1ypCRqi1/s="
+    }
+  },
+  "version": "2023.11.20b"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.foucry.pilldroid_350.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iycVTLupO68c9TxNMn+5P0Uy5MRXzB3C44/5FeqEgho="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iycVTLupO68c9TxNMn+5P0Uy5MRXzB3C44/5FeqEgho="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iycVTLupO68c9TxNMn+5P0Uy5MRXzB3C44/5FeqEgho="
+    }
+  },
+  "version": "v0.350-beta"
+}

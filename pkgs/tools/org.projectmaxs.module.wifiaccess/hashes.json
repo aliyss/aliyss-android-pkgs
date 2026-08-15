@@ -1,0 +1,18 @@
+{
+  "apkName": "org.projectmaxs.module.wifiaccess_2000506627.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nOBUuGruIMuc1Qwole6uj0N7gBFycjBPXdI2zQrdTzQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nOBUuGruIMuc1Qwole6uj0N7gBFycjBPXdI2zQrdTzQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nOBUuGruIMuc1Qwole6uj0N7gBFycjBPXdI2zQrdTzQ="
+    }
+  },
+  "version": "0.5.19"
+}

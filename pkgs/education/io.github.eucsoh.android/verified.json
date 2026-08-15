@@ -1,0 +1,8 @@
+{
+  "package": "io.github.eucsoh.android",
+  "signerFingerprints": [
+    "D4:79:B0:6A:A5:18:E2:E2:F6:7B:BE:06:09:E1:10:C2:5E:5C:52:80:CA:16:19:2C:EE:1C:CF:E9:9D:10:65:CF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.librerandonaut.librerandonaut_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+NbbJcZamh2rUcA+96FlhTtkp9qylQcHBo2UT7d2SA0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+NbbJcZamh2rUcA+96FlhTtkp9qylQcHBo2UT7d2SA0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+NbbJcZamh2rUcA+96FlhTtkp9qylQcHBo2UT7d2SA0="
+    }
+  },
+  "version": "1.0.1"
+}

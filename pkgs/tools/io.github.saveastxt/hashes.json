@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.saveastxt_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SnWSVcuOBFdCrNOyhn6jEsTKUjR2YXjWG60uwG1GqFo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SnWSVcuOBFdCrNOyhn6jEsTKUjR2YXjWG60uwG1GqFo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SnWSVcuOBFdCrNOyhn6jEsTKUjR2YXjWG60uwG1GqFo="
+    }
+  },
+  "version": "1.0"
+}

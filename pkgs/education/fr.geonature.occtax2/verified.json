@@ -1,0 +1,8 @@
+{
+  "package": "fr.geonature.occtax2",
+  "signerFingerprints": [
+    "F6:A5:2A:44:A7:BD:19:29:BE:8A:41:9C:EB:BC:7F:1F:C8:B7:1E:72:A7:C7:67:09:AE:AF:C1:BC:A9:2E:4B:9B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.blacksquircle.ui_10028.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UPKRKJawPxLTpi9/ZTKnGKVmvo4EzJBGrsbR8h6bILw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UPKRKJawPxLTpi9/ZTKnGKVmvo4EzJBGrsbR8h6bILw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UPKRKJawPxLTpi9/ZTKnGKVmvo4EzJBGrsbR8h6bILw="
+    }
+  },
+  "version": "2025.1.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.broeuschmeul.android.gps.usb.provider_199.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eIwNcHmSNcef5XW3ZqiMck61MdaKZcDRVi7iLP8/YFk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eIwNcHmSNcef5XW3ZqiMck61MdaKZcDRVi7iLP8/YFk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eIwNcHmSNcef5XW3ZqiMck61MdaKZcDRVi7iLP8/YFk="
+    }
+  },
+  "version": "v2.2.1"
+}

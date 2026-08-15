@@ -1,0 +1,8 @@
+{
+  "package": "me.arianb.usb_hid_client",
+  "signerFingerprints": [
+    "2F:B5:11:24:78:08:35:8A:1E:0A:6A:B8:1F:C6:6C:F5:44:5F:B5:60:CA:E0:50:A8:95:A2:E0:08:56:1B:3D:43"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

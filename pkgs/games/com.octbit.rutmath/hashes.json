@@ -1,0 +1,18 @@
+{
+  "apkName": "com.octbit.rutmath_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q6BbRAx4K/jRbyi/bkHXJiRsp0yuNnDmoXhM6BuYJTk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q6BbRAx4K/jRbyi/bkHXJiRsp0yuNnDmoXhM6BuYJTk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q6BbRAx4K/jRbyi/bkHXJiRsp0yuNnDmoXhM6BuYJTk="
+    }
+  },
+  "version": "0.2.5"
+}

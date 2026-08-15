@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bwt.threadscooponionchatcom_3915.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uYwKl8O+iPAttARh1nsfVZ7UtX2hchsf1K32Qc+CVbQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uYwKl8O+iPAttARh1nsfVZ7UtX2hchsf1K32Qc+CVbQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uYwKl8O+iPAttARh1nsfVZ7UtX2hchsf1K32Qc+CVbQ="
+    }
+  },
+  "version": "1.20.9"
+}

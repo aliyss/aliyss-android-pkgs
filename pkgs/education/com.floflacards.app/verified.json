@@ -1,0 +1,8 @@
+{
+  "package": "com.floflacards.app",
+  "signerFingerprints": [
+    "E9:DF:22:7F:11:BF:27:BD:24:64:37:DD:60:9C:16:A4:B4:B9:9F:80:B7:8C:93:E2:93:CB:4A:C9:59:F4:2D:9F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.acszo.redomi.repo",
+  "signerFingerprints": [
+    "D5:9A:22:5E:71:65:BA:A3:E3:67:AC:43:C6:BE:05:2A:B4:0E:CD:5A:AB:2A:E1:5E:98:9B:8D:66:5A:4F:9B:70"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

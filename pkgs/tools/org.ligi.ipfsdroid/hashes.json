@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ligi.ipfsdroid_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-S8JlQTFGlAIBSdyBt5JzR9xfhHcA7qgkppAAbiYJwqs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S8JlQTFGlAIBSdyBt5JzR9xfhHcA7qgkppAAbiYJwqs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S8JlQTFGlAIBSdyBt5JzR9xfhHcA7qgkppAAbiYJwqs="
+    }
+  },
+  "version": "0.10"
+}

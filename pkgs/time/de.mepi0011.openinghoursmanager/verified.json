@@ -1,0 +1,8 @@
+{
+  "package": "de.mepi0011.openinghoursmanager",
+  "signerFingerprints": [
+    "99:20:2B:29:26:A2:AC:09:18:D1:F8:9D:93:97:04:94:FE:B4:AA:59:41:71:4A:CE:3A:93:DF:80:2A:17:77:64"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

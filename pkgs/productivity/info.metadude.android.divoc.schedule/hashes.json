@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.divoc.schedule_88.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6DMKdE/C7gNRpxuEAglwJzt/gJ4X/GAxv7f9j09KYtA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6DMKdE/C7gNRpxuEAglwJzt/gJ4X/GAxv7f9j09KYtA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6DMKdE/C7gNRpxuEAglwJzt/gJ4X/GAxv7f9j09KYtA="
+    }
+  },
+  "version": "1.54.0-DiVOC-Edition"
+}

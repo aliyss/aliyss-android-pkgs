@@ -1,0 +1,18 @@
+{
+  "apkName": "me.lucky.wasted_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Dp4n1cOFtjgQYBV7bs/KKLAwqi+UsbhHFKbxGQK9sBg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dp4n1cOFtjgQYBV7bs/KKLAwqi+UsbhHFKbxGQK9sBg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dp4n1cOFtjgQYBV7bs/KKLAwqi+UsbhHFKbxGQK9sBg="
+    }
+  },
+  "version": "1.5.10"
+}

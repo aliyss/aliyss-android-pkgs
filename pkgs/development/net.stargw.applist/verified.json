@@ -1,0 +1,8 @@
+{
+  "package": "net.stargw.applist",
+  "signerFingerprints": [
+    "05:06:D8:A7:6C:40:C4:78:15:39:5D:DB:9D:EA:FF:30:D6:29:0D:12:3D:E5:08:29:0E:48:2D:99:3F:37:61:31"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

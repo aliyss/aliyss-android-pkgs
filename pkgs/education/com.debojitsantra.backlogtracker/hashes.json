@@ -1,0 +1,18 @@
+{
+  "apkName": "com.debojitsantra.backlogtracker_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zH9j7lWW6tWN08NI+Sn0gntJbDXgLy/T5cxbOQpqKK8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zH9j7lWW6tWN08NI+Sn0gntJbDXgLy/T5cxbOQpqKK8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zH9j7lWW6tWN08NI+Sn0gntJbDXgLy/T5cxbOQpqKK8="
+    }
+  },
+  "version": "1.2.4"
+}

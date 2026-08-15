@@ -1,0 +1,18 @@
+{
+  "apkName": "com.beradeep.aiyo_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lPfd/mBOd4wBFqdeI03yoPi0fj1fr2RGurJe94LO8qw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lPfd/mBOd4wBFqdeI03yoPi0fj1fr2RGurJe94LO8qw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lPfd/mBOd4wBFqdeI03yoPi0fj1fr2RGurJe94LO8qw="
+    }
+  },
+  "version": "1.0.9"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.yepgoryo.CaptureCap_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Kseg8BQpKiiy/BOWRLes6fT1T9RqYsX1dSaKSXhvmkc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Kseg8BQpKiiy/BOWRLes6fT1T9RqYsX1dSaKSXhvmkc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Kseg8BQpKiiy/BOWRLes6fT1T9RqYsX1dSaKSXhvmkc="
+    }
+  },
+  "version": "3.9.6"
+}

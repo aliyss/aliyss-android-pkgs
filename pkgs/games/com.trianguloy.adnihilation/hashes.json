@@ -1,0 +1,18 @@
+{
+  "apkName": "com.trianguloy.adnihilation_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rlMbSVzDmyEPwT73Tn5eZj+P3mWKNTXjuWRnX4xBfYA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rlMbSVzDmyEPwT73Tn5eZj+P3mWKNTXjuWRnX4xBfYA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rlMbSVzDmyEPwT73Tn5eZj+P3mWKNTXjuWRnX4xBfYA="
+    }
+  },
+  "version": "1.0"
+}

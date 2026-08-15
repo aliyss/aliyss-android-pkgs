@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.rufid_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lPh3vW1VxheF0h5TtaCztmIbX8l3axmps5pPz4wiTVc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lPh3vW1VxheF0h5TtaCztmIbX8l3axmps5pPz4wiTVc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lPh3vW1VxheF0h5TtaCztmIbX8l3axmps5pPz4wiTVc="
+    }
+  },
+  "version": "0.2.1"
+}

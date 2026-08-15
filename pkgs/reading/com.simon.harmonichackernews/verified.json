@@ -1,0 +1,8 @@
+{
+  "package": "com.simon.harmonichackernews",
+  "signerFingerprints": [
+    "FB:12:DB:F6:D0:69:25:12:ED:70:18:15:06:37:A1:93:2E:AB:09:D6:7D:BF:99:00:45:70:96:A5:52:F8:8E:C6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

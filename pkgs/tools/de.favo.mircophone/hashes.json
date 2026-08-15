@@ -1,0 +1,18 @@
+{
+  "apkName": "de.favo.mircophone_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-csWQNc06wtspjELcP+v5QryFJP/xX+gBYTTVeKNF7Rg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-csWQNc06wtspjELcP+v5QryFJP/xX+gBYTTVeKNF7Rg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-csWQNc06wtspjELcP+v5QryFJP/xX+gBYTTVeKNF7Rg="
+    }
+  },
+  "version": "9"
+}

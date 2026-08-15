@@ -1,0 +1,18 @@
+{
+  "apkName": "com.matejdro.pebbledialer_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SdaOt7agYrgAqEeciwaTfEND9Z+RgR/Xw+XbC42eQYs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SdaOt7agYrgAqEeciwaTfEND9Z+RgR/Xw+XbC42eQYs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SdaOt7agYrgAqEeciwaTfEND9Z+RgR/Xw+XbC42eQYs="
+    }
+  },
+  "version": "3.3.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "ca.fuwafuwa.kaku",
+  "signerFingerprints": [
+    "0A:7C:26:8F:1C:A0:3F:AE:30:43:C6:A5:EF:52:1B:0F:53:B9:B2:1B:11:E2:8D:D5:A3:4F:B8:40:88:93:83:37"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

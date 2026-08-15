@@ -1,0 +1,18 @@
+{
+  "apkName": "tranquvis.simplesmsremote_140.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XRvDOKFpPm2kHL/KsKiPHQ+MauLh8DRNs7xhnY1NUs4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XRvDOKFpPm2kHL/KsKiPHQ+MauLh8DRNs7xhnY1NUs4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XRvDOKFpPm2kHL/KsKiPHQ+MauLh8DRNs7xhnY1NUs4="
+    }
+  },
+  "version": "1.4.0"
+}

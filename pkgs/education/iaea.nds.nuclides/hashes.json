@@ -1,0 +1,18 @@
+{
+  "apkName": "iaea.nds.nuclides_158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ASZicnpzz8NTGvXdPrpX29uDVaZyNrPdrE9YGlymtto="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ASZicnpzz8NTGvXdPrpX29uDVaZyNrPdrE9YGlymtto="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ASZicnpzz8NTGvXdPrpX29uDVaZyNrPdrE9YGlymtto="
+    }
+  },
+  "version": "5.44.86"
+}

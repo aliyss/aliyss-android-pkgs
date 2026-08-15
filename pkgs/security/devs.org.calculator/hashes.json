@@ -1,0 +1,18 @@
+{
+  "apkName": "devs.org.calculator_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ytiwsky+u46MxbBBonhiLJ1hqVZ6N8+3H+3RQ1vmQxA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ytiwsky+u46MxbBBonhiLJ1hqVZ6N8+3H+3RQ1vmQxA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ytiwsky+u46MxbBBonhiLJ1hqVZ6N8+3H+3RQ1vmQxA="
+    }
+  },
+  "version": "2.0.2"
+}

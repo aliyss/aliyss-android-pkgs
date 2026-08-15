@@ -1,0 +1,18 @@
+{
+  "apkName": "x653.all_in_gold_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AfBPmRc+rYJ6Zmmi/NBiUzG8Cmi8+oaEuH0JkPp/m64="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AfBPmRc+rYJ6Zmmi/NBiUzG8Cmi8+oaEuH0JkPp/m64="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AfBPmRc+rYJ6Zmmi/NBiUzG8Cmi8+oaEuH0JkPp/m64="
+    }
+  },
+  "version": "1.2"
+}

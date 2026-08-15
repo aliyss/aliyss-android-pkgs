@@ -1,0 +1,18 @@
+{
+  "apkName": "com.urik.keyboard_64.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NrDUbxOTLhmIxpRPLzragqGgRFfGJkfpVZT0LI6/9cA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NrDUbxOTLhmIxpRPLzragqGgRFfGJkfpVZT0LI6/9cA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NrDUbxOTLhmIxpRPLzragqGgRFfGJkfpVZT0LI6/9cA="
+    }
+  },
+  "version": "0.23.1-beta"
+}

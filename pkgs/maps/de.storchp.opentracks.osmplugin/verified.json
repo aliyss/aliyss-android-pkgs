@@ -1,0 +1,8 @@
+{
+  "package": "de.storchp.opentracks.osmplugin",
+  "signerFingerprints": [
+    "A3:FA:2A:B1:5D:34:07:94:C0:A0:A2:30:F7:D0:61:9C:6B:A3:5F:B8:D1:E7:DC:54:1F:5B:9C:EF:47:69:B6:D8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.gnosco.share2archivetoday_59.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RpL1dsKL641K4qkmf9m8h80Iaws0Ey7IjthA5w9t8Io="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RpL1dsKL641K4qkmf9m8h80Iaws0Ey7IjthA5w9t8Io="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RpL1dsKL641K4qkmf9m8h80Iaws0Ey7IjthA5w9t8Io="
+    }
+  },
+  "version": "5.9"
+}

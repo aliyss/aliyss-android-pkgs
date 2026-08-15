@@ -1,0 +1,8 @@
+{
+  "package": "me.echeung.moemoekyun.fdroid",
+  "signerFingerprints": [
+    "45:07:F3:4A:20:56:70:23:1F:AA:43:81:1F:2B:C4:2A:6E:B4:E0:83:CE:4B:36:41:29:AD:9E:2E:84:B9:B4:4C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

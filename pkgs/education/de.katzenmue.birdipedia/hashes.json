@@ -1,0 +1,18 @@
+{
+  "apkName": "de.katzenmue.birdipedia_113.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-juVxNcNq9P3iwHW1qDvOAKWoZU+4nzH6oA1O3u+jQvE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-juVxNcNq9P3iwHW1qDvOAKWoZU+4nzH6oA1O3u+jQvE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-juVxNcNq9P3iwHW1qDvOAKWoZU+4nzH6oA1O3u+jQvE="
+    }
+  },
+  "version": "1.1.3"
+}

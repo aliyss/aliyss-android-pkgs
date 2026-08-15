@@ -1,0 +1,18 @@
+{
+  "apkName": "de.jurihock.voicesmith_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Kj/l9a7rQdzlm8UkE0T9QAXlwEGAQjHfVZwn2bE1Ty8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Kj/l9a7rQdzlm8UkE0T9QAXlwEGAQjHfVZwn2bE1Ty8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Kj/l9a7rQdzlm8UkE0T9QAXlwEGAQjHfVZwn2bE1Ty8="
+    }
+  },
+  "version": "3.0"
+}

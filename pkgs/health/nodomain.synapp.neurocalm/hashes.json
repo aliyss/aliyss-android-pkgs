@@ -1,0 +1,18 @@
+{
+  "apkName": "nodomain.synapp.neurocalm_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Cx5ceo+VJIajVrdqfnjYR9LteVTbiaG9JWZ17AGNsjI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cx5ceo+VJIajVrdqfnjYR9LteVTbiaG9JWZ17AGNsjI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cx5ceo+VJIajVrdqfnjYR9LteVTbiaG9JWZ17AGNsjI="
+    }
+  },
+  "version": "1.0.5"
+}

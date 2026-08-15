@@ -1,0 +1,8 @@
+{
+  "package": "com.baruckis.kriptofolio",
+  "signerFingerprints": [
+    "FA:68:08:50:2D:D3:BC:09:30:1D:5D:D4:AF:48:FE:FA:3E:64:60:04:ED:37:4E:0B:C9:0D:46:15:92:61:E6:45"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

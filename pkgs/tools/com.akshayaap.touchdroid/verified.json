@@ -1,0 +1,8 @@
+{
+  "package": "com.akshayaap.touchdroid",
+  "signerFingerprints": [
+    "4C:80:D2:43:BF:18:CA:1C:64:81:6F:B6:B3:D9:F5:3F:5F:3E:20:B5:02:4A:DA:A4:73:F3:15:D9:3F:FE:F0:BF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

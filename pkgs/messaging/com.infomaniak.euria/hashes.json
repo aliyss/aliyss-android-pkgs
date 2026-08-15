@@ -1,0 +1,18 @@
+{
+  "apkName": "com.infomaniak.euria_100400401.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Da5qCSJgDIwMLuIMLeNh7kvgi4gCqzsXuWmLCIMrMWM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Da5qCSJgDIwMLuIMLeNh7kvgi4gCqzsXuWmLCIMrMWM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Da5qCSJgDIwMLuIMLeNh7kvgi4gCqzsXuWmLCIMrMWM="
+    }
+  },
+  "version": "1.4.4"
+}

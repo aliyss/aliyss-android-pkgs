@@ -1,0 +1,18 @@
+{
+  "apkName": "rak.pixellwp_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-blJtNhoR5H2FySZkTI027rdgArtChXklsPHxVUddA3o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-blJtNhoR5H2FySZkTI027rdgArtChXklsPHxVUddA3o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-blJtNhoR5H2FySZkTI027rdgArtChXklsPHxVUddA3o="
+    }
+  },
+  "version": "2.3.1"
+}

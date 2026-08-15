@@ -1,0 +1,18 @@
+{
+  "apkName": "com.truchsess.send2car_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r45WIh0kduz6HEZwhsgsIidNjrD36oJ0djktvyvI80Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r45WIh0kduz6HEZwhsgsIidNjrD36oJ0djktvyvI80Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r45WIh0kduz6HEZwhsgsIidNjrD36oJ0djktvyvI80Y="
+    }
+  },
+  "version": "0.9"
+}

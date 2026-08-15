@@ -1,0 +1,8 @@
+{
+  "package": "com.benlinskey.greekreference",
+  "signerFingerprints": [
+    "81:ED:5C:8A:84:7A:99:32:2D:A9:F0:F0:F0:37:A5:26:64:02:75:A8:D9:9C:58:3C:80:03:FD:72:D2:40:66:FE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.seto.kanjirecog_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7Ci7gGGLi8If9m4HJrnVObSQGX2+TH6zLF+iYfcQqw8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7Ci7gGGLi8If9m4HJrnVObSQGX2+TH6zLF+iYfcQqw8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7Ci7gGGLi8If9m4HJrnVObSQGX2+TH6zLF+iYfcQqw8="
+    }
+  },
+  "version": "2.1"
+}

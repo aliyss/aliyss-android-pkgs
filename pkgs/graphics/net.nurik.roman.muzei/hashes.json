@@ -1,0 +1,18 @@
+{
+  "apkName": "net.nurik.roman.muzei_370009.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kb2Yi6QKRskSyaCC3qgsYLuXb2kRey6wa+DFMicUz1c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kb2Yi6QKRskSyaCC3qgsYLuXb2kRey6wa+DFMicUz1c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kb2Yi6QKRskSyaCC3qgsYLuXb2kRey6wa+DFMicUz1c="
+    }
+  },
+  "version": "3.7.0-alpha04"
+}

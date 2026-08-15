@@ -1,0 +1,8 @@
+{
+  "package": "at.techbee.jtx",
+  "signerFingerprints": [
+    "25:A1:6E:DC:3C:EA:5E:27:A3:2E:CD:E1:46:9E:CF:71:6C:8D:59:E9:6B:51:30:F6:75:50:0C:EE:02:A0:A4:5D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.nextgis.mobile",
+  "signerFingerprints": [
+    "09:A9:AE:64:85:D0:D5:7D:F0:36:E1:E8:62:C0:1F:2A:70:44:B2:1B:D3:78:7A:D9:F9:CF:B2:B9:D2:3E:A7:EB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

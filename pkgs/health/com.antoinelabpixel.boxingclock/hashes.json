@@ -1,0 +1,18 @@
+{
+  "apkName": "com.antoinelabpixel.boxingclock_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fz7fGbykaGL0rhxu9h+BNzjB/VRntmCK8E/NTAC9maI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fz7fGbykaGL0rhxu9h+BNzjB/VRntmCK8E/NTAC9maI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fz7fGbykaGL0rhxu9h+BNzjB/VRntmCK8E/NTAC9maI="
+    }
+  },
+  "version": "1.0.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.subhamtyagi.openinwhatsapp",
+  "signerFingerprints": [
+    "2C:D6:E2:8B:1B:C3:96:A4:56:51:DD:54:A6:0C:D2:FE:F3:DA:65:24:45:A5:B2:83:E2:7F:45:F1:E1:00:11:F8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

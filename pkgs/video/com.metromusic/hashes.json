@@ -1,0 +1,18 @@
+{
+  "apkName": "com.metromusic_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kODpL77WHPirFYhAPtZBmQstGRIOP2IwxVjhp6qlR3M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kODpL77WHPirFYhAPtZBmQstGRIOP2IwxVjhp6qlR3M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kODpL77WHPirFYhAPtZBmQstGRIOP2IwxVjhp6qlR3M="
+    }
+  },
+  "version": "1.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nicue.onetwo_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GID3c6hdUB/MgNdPGjzePSnnpCjL/VsJojUr5f5EvhM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GID3c6hdUB/MgNdPGjzePSnnpCjL/VsJojUr5f5EvhM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GID3c6hdUB/MgNdPGjzePSnnpCjL/VsJojUr5f5EvhM="
+    }
+  },
+  "version": "2.1.4"
+}

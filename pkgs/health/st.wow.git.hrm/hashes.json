@@ -1,0 +1,18 @@
+{
+  "apkName": "st.wow.git.hrm_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dFjZ11PIv9comJid1IBaPfw9hTblBqqCQY8AnuGtNM0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dFjZ11PIv9comJid1IBaPfw9hTblBqqCQY8AnuGtNM0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dFjZ11PIv9comJid1IBaPfw9hTblBqqCQY8AnuGtNM0="
+    }
+  },
+  "version": "1.0.3"
+}

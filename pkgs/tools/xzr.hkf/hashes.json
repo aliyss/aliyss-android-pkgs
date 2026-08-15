@@ -1,0 +1,18 @@
+{
+  "apkName": "xzr.hkf_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RCrcooe8dNa/AvFZPt19oKGU7F3ww8Lb5uQ6Sfc6ETg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RCrcooe8dNa/AvFZPt19oKGU7F3ww8Lb5uQ6Sfc6ETg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RCrcooe8dNa/AvFZPt19oKGU7F3ww8Lb5uQ6Sfc6ETg="
+    }
+  },
+  "version": "1.3"
+}

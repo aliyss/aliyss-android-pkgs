@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.aedev.flow_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6FBYsTNpaOUETHS7RC/XW7dZSCjFKkqqJmlS3ucIa78="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6FBYsTNpaOUETHS7RC/XW7dZSCjFKkqqJmlS3ucIa78="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6FBYsTNpaOUETHS7RC/XW7dZSCjFKkqqJmlS3ucIa78="
+    }
+  },
+  "version": "2.2.0"
+}

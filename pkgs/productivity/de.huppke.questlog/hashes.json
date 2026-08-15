@@ -1,0 +1,18 @@
+{
+  "apkName": "de.huppke.questlog_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O2Nss7pJ48Hl8RiiiP0W76HcmuVPJM484Cw7O43kv0U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O2Nss7pJ48Hl8RiiiP0W76HcmuVPJM484Cw7O43kv0U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O2Nss7pJ48Hl8RiiiP0W76HcmuVPJM484Cw7O43kv0U="
+    }
+  },
+  "version": "0.2.1"
+}

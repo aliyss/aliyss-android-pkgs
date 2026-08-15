@@ -1,0 +1,18 @@
+{
+  "apkName": "be.digitalia.fosdem_2300230.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-N7Gouyi5ZG7ftwklyeo0zh7vEtmxxYmNOg3d1pvmqPU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-N7Gouyi5ZG7ftwklyeo0zh7vEtmxxYmNOg3d1pvmqPU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-N7Gouyi5ZG7ftwklyeo0zh7vEtmxxYmNOg3d1pvmqPU="
+    }
+  },
+  "version": "2.3.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.transdroid.search_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CA5Zva225H6Yz0dclJp4yvA3DwLw2l3jE3sc7ISWdTw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CA5Zva225H6Yz0dclJp4yvA3DwLw2l3jE3sc7ISWdTw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CA5Zva225H6Yz0dclJp4yvA3DwLw2l3jE3sc7ISWdTw="
+    }
+  },
+  "version": "4.3"
+}

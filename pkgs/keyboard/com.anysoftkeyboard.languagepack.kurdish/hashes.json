@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.kurdish_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Fd9PTMEGu4lZDNzI9istHLdYJa6GuNebfCMEYWIfioA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Fd9PTMEGu4lZDNzI9istHLdYJa6GuNebfCMEYWIfioA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Fd9PTMEGu4lZDNzI9istHLdYJa6GuNebfCMEYWIfioA="
+    }
+  },
+  "version": "5.1.6158"
+}

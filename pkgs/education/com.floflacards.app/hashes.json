@@ -1,0 +1,18 @@
+{
+  "apkName": "com.floflacards.app_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oKYz/pop1L8lL/Q4YQBofzKOfx5gSjJATZ74+A2Fb5c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oKYz/pop1L8lL/Q4YQBofzKOfx5gSjJATZ74+A2Fb5c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oKYz/pop1L8lL/Q4YQBofzKOfx5gSjJATZ74+A2Fb5c="
+    }
+  },
+  "version": "1.0.32"
+}

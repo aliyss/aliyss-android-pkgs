@@ -1,0 +1,8 @@
+{
+  "package": "org.gateshipone.odyssey",
+  "signerFingerprints": [
+    "D7:C6:6F:BD:A0:B7:A7:C3:DA:8C:75:89:BD:E1:2C:E5:5C:B7:7E:49:76:F8:78:7E:9D:0B:C0:58:02:8B:A3:6D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.domob.heliodos_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-M8DOyhV7OtvsD/rGUKq9z9jxjfT16EeQEwS0UMgSHb4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M8DOyhV7OtvsD/rGUKq9z9jxjfT16EeQEwS0UMgSHb4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M8DOyhV7OtvsD/rGUKq9z9jxjfT16EeQEwS0UMgSHb4="
+    }
+  },
+  "version": "1.0.0"
+}

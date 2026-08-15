@@ -1,0 +1,18 @@
+{
+  "apkName": "org.xapek.andiodine_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/R1jIN5ALKLXtn/hiFbMEof/2Re7OJ73sTQ3JD3U4og="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/R1jIN5ALKLXtn/hiFbMEof/2Re7OJ73sTQ3JD3U4og="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/R1jIN5ALKLXtn/hiFbMEof/2Re7OJ73sTQ3JD3U4og="
+    }
+  },
+  "version": "1.7"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "dev.debene.gopher",
+  "signerFingerprints": [
+    "35:3D:B8:B0:A3:C9:4C:00:1E:B7:11:14:B8:64:0B:EF:A3:5E:38:76:0E:E6:C3:CA:4F:30:1C:7A:ED:C5:A1:DD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.tiwa.pl",
+  "signerFingerprints": [
+    "56:8C:7A:28:4F:8E:0E:84:7F:11:D7:86:80:F1:78:67:D4:CA:08:B3:44:54:E2:A7:32:7F:1F:3C:B9:85:EA:98"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

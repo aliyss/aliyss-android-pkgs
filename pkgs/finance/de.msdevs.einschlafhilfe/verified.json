@@ -1,0 +1,8 @@
+{
+  "package": "de.msdevs.einschlafhilfe",
+  "signerFingerprints": [
+    "44:66:2D:08:AC:EF:BD:A8:FF:6D:00:8F:08:BA:DE:6E:6F:DD:68:A6:14:76:85:76:74:2C:48:29:D0:EE:EC:2B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

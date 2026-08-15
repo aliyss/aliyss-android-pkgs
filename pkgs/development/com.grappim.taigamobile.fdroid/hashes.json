@@ -1,0 +1,18 @@
+{
+  "apkName": "com.grappim.taigamobile.fdroid_44.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yus7+8kXLjjBjrzhSvvAw2WidPPcEF/sx8u3OZ+Uiak="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yus7+8kXLjjBjrzhSvvAw2WidPPcEF/sx8u3OZ+Uiak="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yus7+8kXLjjBjrzhSvvAw2WidPPcEF/sx8u3OZ+Uiak="
+    }
+  },
+  "version": "2.1.5"
+}

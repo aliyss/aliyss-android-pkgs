@@ -1,0 +1,18 @@
+{
+  "apkName": "me.lucky.clipeus_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XoB64DFRdzlc85RRxWbcEyZQ6fn+Qjwmr9ZTz/2/b5Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XoB64DFRdzlc85RRxWbcEyZQ6fn+Qjwmr9ZTz/2/b5Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XoB64DFRdzlc85RRxWbcEyZQ6fn+Qjwmr9ZTz/2/b5Q="
+    }
+  },
+  "version": "1.1.1"
+}

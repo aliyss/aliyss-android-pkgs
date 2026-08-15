@@ -1,0 +1,18 @@
+{
+  "apkName": "day.vitayuzu.neodb_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JmjKrNqipK1bsDMvbyAokDgljStxsjhAeWN3p4bvwvs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JmjKrNqipK1bsDMvbyAokDgljStxsjhAeWN3p4bvwvs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JmjKrNqipK1bsDMvbyAokDgljStxsjhAeWN3p4bvwvs="
+    }
+  },
+  "version": "1.1.0-rc5"
+}

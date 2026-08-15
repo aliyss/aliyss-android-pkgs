@@ -1,0 +1,18 @@
+{
+  "apkName": "com.druk.servicebrowser_3000003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sRaW7tOg4r0c9SXYbbRtUAe5YKf9ehP525gkIOHq9iM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sRaW7tOg4r0c9SXYbbRtUAe5YKf9ehP525gkIOHq9iM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sRaW7tOg4r0c9SXYbbRtUAe5YKf9ehP525gkIOHq9iM="
+    }
+  },
+  "version": "3.0.3"
+}

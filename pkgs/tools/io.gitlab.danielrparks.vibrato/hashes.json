@@ -1,0 +1,18 @@
+{
+  "apkName": "io.gitlab.danielrparks.vibrato_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yMwecNDblJwIczfjI7u+25CchUIO7/hxSOHojA+GoLE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yMwecNDblJwIczfjI7u+25CchUIO7/hxSOHojA+GoLE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yMwecNDblJwIczfjI7u+25CchUIO7/hxSOHojA+GoLE="
+    }
+  },
+  "version": "1.1.0"
+}

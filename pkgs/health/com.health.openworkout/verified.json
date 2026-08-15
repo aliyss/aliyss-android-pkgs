@@ -1,0 +1,8 @@
+{
+  "package": "com.health.openworkout",
+  "signerFingerprints": [
+    "9F:C5:E1:0B:91:76:0F:23:70:00:D4:1D:C1:9B:28:F7:7B:1A:D9:7E:AC:43:48:EE:CF:BC:20:1E:52:43:6B:FE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "sh.unlimi.x2vx_10100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jp3Ylrygvs82btc9wYzDh+tbZAERvvYu9MqMBHKMWDE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jp3Ylrygvs82btc9wYzDh+tbZAERvvYu9MqMBHKMWDE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jp3Ylrygvs82btc9wYzDh+tbZAERvvYu9MqMBHKMWDE="
+    }
+  },
+  "version": "1.1.0"
+}

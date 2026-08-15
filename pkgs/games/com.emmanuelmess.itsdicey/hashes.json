@@ -1,0 +1,18 @@
+{
+  "apkName": "com.emmanuelmess.itsdicey_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jgYSYnA8Sfcev/E367maiRSgo/R2iHC+/SP6iYYeA+I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jgYSYnA8Sfcev/E367maiRSgo/R2iHC+/SP6iYYeA+I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jgYSYnA8Sfcev/E367maiRSgo/R2iHC+/SP6iYYeA+I="
+    }
+  },
+  "version": "1.0.1"
+}

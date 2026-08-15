@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.husseinfo.interfast_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-C42zsyMYbrCOg+a8V3kIRJUmkpK0v2O5pXHIc+zYaPg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C42zsyMYbrCOg+a8V3kIRJUmkpK0v2O5pXHIc+zYaPg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C42zsyMYbrCOg+a8V3kIRJUmkpK0v2O5pXHIc+zYaPg="
+    }
+  },
+  "version": "1.0.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.tiagoshibata.gpsdclient_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ydxrFNn0isToiE922m6ePF2wONmZJVkDmVLcSeMjWro="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ydxrFNn0isToiE922m6ePF2wONmZJVkDmVLcSeMjWro="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ydxrFNn0isToiE922m6ePF2wONmZJVkDmVLcSeMjWro="
+    }
+  },
+  "version": "1.0.4"
+}

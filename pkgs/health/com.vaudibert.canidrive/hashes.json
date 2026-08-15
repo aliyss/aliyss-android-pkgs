@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vaudibert.canidrive_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PCYltVCHY/3/jq7QGhuf/mmU8UU1eB2OCV3aEPiwtp8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PCYltVCHY/3/jq7QGhuf/mmU8UU1eB2OCV3aEPiwtp8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PCYltVCHY/3/jq7QGhuf/mmU8UU1eB2OCV3aEPiwtp8="
+    }
+  },
+  "version": "0.2.9"
+}

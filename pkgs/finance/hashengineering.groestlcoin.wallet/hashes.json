@@ -1,0 +1,18 @@
+{
+  "apkName": "hashengineering.groestlcoin.wallet_102002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IYpf1ZgVxj3XTP9l4a2hesb5Kgqn+1wnOBO7DyQhzQ8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IYpf1ZgVxj3XTP9l4a2hesb5Kgqn+1wnOBO7DyQhzQ8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IYpf1ZgVxj3XTP9l4a2hesb5Kgqn+1wnOBO7DyQhzQ8="
+    }
+  },
+  "version": "10.20"
+}

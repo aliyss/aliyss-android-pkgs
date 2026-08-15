@@ -1,0 +1,8 @@
+{
+  "package": "io.bmaupin.pitchpipe",
+  "signerFingerprints": [
+    "A5:57:80:81:65:0A:25:5F:0E:CD:5A:01:CE:B9:17:5C:CE:C0:1D:45:AA:C2:FD:75:1E:CD:DA:4D:16:AE:E1:0D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

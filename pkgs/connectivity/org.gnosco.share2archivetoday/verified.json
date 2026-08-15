@@ -1,0 +1,8 @@
+{
+  "package": "org.gnosco.share2archivetoday",
+  "signerFingerprints": [
+    "D6:97:5F:50:88:07:94:7B:74:0D:D1:F4:E3:50:87:AA:6B:F9:5A:E6:DD:3B:61:25:26:39:C2:2D:F4:BC:AE:BE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

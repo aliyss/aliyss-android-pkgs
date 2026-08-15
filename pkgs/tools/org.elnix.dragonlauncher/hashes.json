@@ -1,0 +1,18 @@
+{
+  "apkName": "org.elnix.dragonlauncher_56.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-h+hDuLO4HOCs3Te0nBN5eCWVJ6doSJCgs6YjIYlOLXQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h+hDuLO4HOCs3Te0nBN5eCWVJ6doSJCgs6YjIYlOLXQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h+hDuLO4HOCs3Te0nBN5eCWVJ6doSJCgs6YjIYlOLXQ="
+    }
+  },
+  "version": "3.2.2 (Worm)"
+}

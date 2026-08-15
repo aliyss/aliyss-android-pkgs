@@ -1,0 +1,8 @@
+{
+  "package": "org.fdroid.nearby",
+  "signerFingerprints": [
+    "2C:E2:D4:ED:D2:2A:66:4C:7A:C9:58:14:FC:DB:E7:34:79:73:87:31:30:F6:2E:FB:14:3A:57:0D:D4:7C:5B:FE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

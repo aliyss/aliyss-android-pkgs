@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.cvzi.darkmodewallpaper_65.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2cVlx1r1cne7cbUbcJeLNXEgalK91b+ItlMPf+wvWjY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2cVlx1r1cne7cbUbcJeLNXEgalK91b+ItlMPf+wvWjY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2cVlx1r1cne7cbUbcJeLNXEgalK91b+ItlMPf+wvWjY="
+    }
+  },
+  "version": "1.9.1"
+}

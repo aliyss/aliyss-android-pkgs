@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hardbacknutter.nevertoomanybooks_125.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+koAPZqImqyk+B+l56XJPVotQQ62zYXOV+j3LqZV97U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+koAPZqImqyk+B+l56XJPVotQQ62zYXOV+j3LqZV97U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+koAPZqImqyk+B+l56XJPVotQQ62zYXOV+j3LqZV97U="
+    }
+  },
+  "version": "8.0.0"
+}

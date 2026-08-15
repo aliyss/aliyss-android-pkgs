@@ -1,0 +1,8 @@
+{
+  "package": "gizz.tapes.foss",
+  "signerFingerprints": [
+    "0A:32:1C:76:61:9C:8E:E5:EC:B5:2C:D4:29:87:14:84:18:5E:7E:7C:95:B5:F3:4E:33:AA:16:E3:4C:2E:7F:13"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

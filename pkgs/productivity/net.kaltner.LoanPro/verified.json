@@ -1,0 +1,8 @@
+{
+  "package": "net.kaltner.LoanPro",
+  "signerFingerprints": [
+    "B5:9C:0A:CA:91:2D:12:3C:F8:6A:8B:9B:AC:73:4B:E9:45:2A:E5:BE:AC:BC:4D:2F:AC:F0:6F:3E:FB:08:15:54"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

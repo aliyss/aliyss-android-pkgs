@@ -1,0 +1,18 @@
+{
+  "apkName": "io.ssttkkl.mahjongutils.app_10102.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ehor06k3Lf2osGYf7gv8rfofb9youdUYWsziNW9fgmk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ehor06k3Lf2osGYf7gv8rfofb9youdUYWsziNW9fgmk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ehor06k3Lf2osGYf7gv8rfofb9youdUYWsziNW9fgmk="
+    }
+  },
+  "version": "1.1.2"
+}

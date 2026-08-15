@@ -1,0 +1,18 @@
+{
+  "apkName": "com.chmouel.liseur_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0VZRG8kJHVoQZTMg7o9nmgauzFXYBHbRTJOdgDphYJk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0VZRG8kJHVoQZTMg7o9nmgauzFXYBHbRTJOdgDphYJk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0VZRG8kJHVoQZTMg7o9nmgauzFXYBHbRTJOdgDphYJk="
+    }
+  },
+  "version": "0.5.0"
+}

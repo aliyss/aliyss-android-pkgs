@@ -1,0 +1,18 @@
+{
+  "apkName": "org.cuberite.android_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5rJb9xQvm4W/2biT3Yq2mROu9u5GHiwEZC3ThcbCsGY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5rJb9xQvm4W/2biT3Yq2mROu9u5GHiwEZC3ThcbCsGY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5rJb9xQvm4W/2biT3Yq2mROu9u5GHiwEZC3ThcbCsGY="
+    }
+  },
+  "version": "1.6.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "it.niedermann.owncloud.notes_340000151.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-COwspUjV8Qa9WX+KIj+AU3MeUUF5gS8znweFe+jVD/o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-COwspUjV8Qa9WX+KIj+AU3MeUUF5gS8znweFe+jVD/o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-COwspUjV8Qa9WX+KIj+AU3MeUUF5gS8znweFe+jVD/o="
+    }
+  },
+  "version": "34.0.1 RC1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.infomaniak.sync",
+  "signerFingerprints": [
+    "BD:E3:69:67:90:FA:AE:D6:C1:34:5F:BD:87:A9:40:C8:F6:CC:1B:EA:2D:12:26:5B:A7:12:2C:95:CF:49:EA:2C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

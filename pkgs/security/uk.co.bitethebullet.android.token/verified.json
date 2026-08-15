@@ -1,0 +1,8 @@
+{
+  "package": "uk.co.bitethebullet.android.token",
+  "signerFingerprints": [
+    "77:0E:AA:D0:FD:27:41:38:2D:10:10:7D:7F:F0:7F:1A:BB:55:3A:E5:90:BC:26:6F:AE:F4:14:49:C5:C7:4F:02"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

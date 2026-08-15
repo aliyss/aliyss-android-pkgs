@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.numerus_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sFY3pQxTlgf9PBN/613x1kYdt9x3kTcHuDfLWNkFS+A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sFY3pQxTlgf9PBN/613x1kYdt9x3kTcHuDfLWNkFS+A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sFY3pQxTlgf9PBN/613x1kYdt9x3kTcHuDfLWNkFS+A="
+    }
+  },
+  "version": "2.0"
+}

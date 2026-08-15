@@ -1,0 +1,18 @@
+{
+  "apkName": "axp.tool.apkextractor_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dSUK7r9p01/9D/o2MeNzF8PXsTvvoc2scoIBuVYBjFA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dSUK7r9p01/9D/o2MeNzF8PXsTvvoc2scoIBuVYBjFA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dSUK7r9p01/9D/o2MeNzF8PXsTvvoc2scoIBuVYBjFA="
+    }
+  },
+  "version": "1.4"
+}

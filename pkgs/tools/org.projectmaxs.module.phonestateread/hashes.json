@@ -1,0 +1,18 @@
+{
+  "apkName": "org.projectmaxs.module.phonestateread_2000506627.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wBysfbTSazioFjd/lXnosMkH3rHa5i737n2K26YhMDQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wBysfbTSazioFjd/lXnosMkH3rHa5i737n2K26YhMDQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wBysfbTSazioFjd/lXnosMkH3rHa5i737n2K26YhMDQ="
+    }
+  },
+  "version": "0.5.19"
+}

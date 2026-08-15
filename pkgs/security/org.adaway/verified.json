@@ -1,0 +1,8 @@
+{
+  "package": "org.adaway",
+  "signerFingerprints": [
+    "42:20:3F:1A:C8:57:42:6D:14:96:E9:71:DB:96:FB:E1:F8:8C:25:C9:E1:F8:95:A5:C9:8D:70:38:91:29:22:77"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

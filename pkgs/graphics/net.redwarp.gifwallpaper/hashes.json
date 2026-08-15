@@ -1,0 +1,18 @@
+{
+  "apkName": "net.redwarp.gifwallpaper_74.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-P5I1R/kflVkifUDrf25ZIjugW6gNnR58hwgB46fd3/o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P5I1R/kflVkifUDrf25ZIjugW6gNnR58hwgB46fd3/o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P5I1R/kflVkifUDrf25ZIjugW6gNnR58hwgB46fd3/o="
+    }
+  },
+  "version": "2.2.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "me.lucky.sentry",
+  "signerFingerprints": [
+    "4F:88:06:AE:3C:C6:17:56:43:98:7F:DA:3F:C2:26:51:57:AE:FF:5D:72:AF:D0:56:5E:A2:C9:92:AE:82:17:B2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

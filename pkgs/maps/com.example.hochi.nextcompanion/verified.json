@@ -1,0 +1,8 @@
+{
+  "package": "com.example.hochi.nextcompanion",
+  "signerFingerprints": [
+    "61:47:3F:E1:06:56:67:9F:1C:72:BE:BF:C6:79:15:85:BD:92:91:04:A7:4B:F9:29:EE:3F:93:4B:5C:74:0B:0F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.flashsphere.privatednsqs.nolauncher_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LOZxbMLZNi5o0hbC+ht7JheyCnEVVxNZSw2lMsU3Jps="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LOZxbMLZNi5o0hbC+ht7JheyCnEVVxNZSw2lMsU3Jps="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LOZxbMLZNi5o0hbC+ht7JheyCnEVVxNZSw2lMsU3Jps="
+    }
+  },
+  "version": "2.4"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.juliencardoux.openwol",
+  "signerFingerprints": [
+    "8A:68:5D:67:1A:24:BB:01:A7:90:A5:3D:60:12:79:A9:02:CC:C8:64:99:ED:E5:DC:8B:BA:15:4D:2C:F7:82:E6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

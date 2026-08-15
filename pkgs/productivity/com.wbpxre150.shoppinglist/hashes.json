@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wbpxre150.shoppinglist_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PSo8KEoaB0J1Ev+PyIMFWUQBSlJo7DZ5FH3gNlIULNc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PSo8KEoaB0J1Ev+PyIMFWUQBSlJo7DZ5FH3gNlIULNc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PSo8KEoaB0J1Ev+PyIMFWUQBSlJo7DZ5FH3gNlIULNc="
+    }
+  },
+  "version": "11.0"
+}

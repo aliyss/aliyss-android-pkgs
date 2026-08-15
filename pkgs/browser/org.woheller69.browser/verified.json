@@ -1,0 +1,8 @@
+{
+  "package": "org.woheller69.browser",
+  "signerFingerprints": [
+    "B2:4E:B3:BF:C0:F4:55:76:04:53:35:7C:97:A5:7E:09:05:45:A8:98:28:76:57:7E:10:B3:1F:EB:E8:E9:87:79"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

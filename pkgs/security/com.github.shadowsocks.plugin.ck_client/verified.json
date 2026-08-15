@@ -1,0 +1,8 @@
+{
+  "package": "com.github.shadowsocks.plugin.ck_client",
+  "signerFingerprints": [
+    "67:0A:8D:4D:3D:A3:02:88:68:58:77:0E:80:67:F5:B3:81:23:72:74:13:2F:91:7E:78:22:BD:69:14:70:0F:24"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

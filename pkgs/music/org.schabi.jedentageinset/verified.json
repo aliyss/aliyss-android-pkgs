@@ -1,0 +1,8 @@
+{
+  "package": "org.schabi.jedentageinset",
+  "signerFingerprints": [
+    "F9:84:F6:36:68:FD:CC:0E:BA:F2:BD:78:A2:B2:95:E0:E4:51:2F:A5:9F:90:B1:BF:54:07:CB:59:D4:0E:41:23"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

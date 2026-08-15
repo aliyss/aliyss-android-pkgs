@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.mirkodi.bfpcalculator_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-agrbCFGRfFLcCjBiI3sZTcUwHUR/3bp6+b2vggF7ZAg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-agrbCFGRfFLcCjBiI3sZTcUwHUR/3bp6+b2vggF7ZAg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-agrbCFGRfFLcCjBiI3sZTcUwHUR/3bp6+b2vggF7ZAg="
+    }
+  },
+  "version": "v1.2"
+}

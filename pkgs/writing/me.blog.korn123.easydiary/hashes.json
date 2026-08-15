@@ -1,0 +1,18 @@
+{
+  "apkName": "me.blog.korn123.easydiary_346.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-U1NyI4m0HIZb6wz/lIgF5L9uJ+aLxBi6plpKY7uy4TM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-U1NyI4m0HIZb6wz/lIgF5L9uJ+aLxBi6plpKY7uy4TM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-U1NyI4m0HIZb6wz/lIgF5L9uJ+aLxBi6plpKY7uy4TM="
+    }
+  },
+  "version": "1.4.346.202604090"
+}

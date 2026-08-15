@@ -1,0 +1,18 @@
+{
+  "apkName": "de.nulide.shiftcal_55.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5stXe4zTumgTbgWxw7AxG2skvZ4YeufKK0mEwhAHZVs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5stXe4zTumgTbgWxw7AxG2skvZ4YeufKK0mEwhAHZVs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5stXe4zTumgTbgWxw7AxG2skvZ4YeufKK0mEwhAHZVs="
+    }
+  },
+  "version": "3.1.0"
+}

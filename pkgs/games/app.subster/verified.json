@@ -1,0 +1,8 @@
+{
+  "package": "app.subster",
+  "signerFingerprints": [
+    "C4:24:73:CE:FD:0F:AD:F9:3C:8B:A0:58:B7:2B:EF:25:FE:CE:9C:9C:BD:0C:62:A5:42:34:13:AB:22:54:1D:F6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

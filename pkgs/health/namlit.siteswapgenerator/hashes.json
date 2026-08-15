@@ -1,0 +1,18 @@
+{
+  "apkName": "namlit.siteswapgenerator_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-C6gB3CPWhdwvZpyjzF0mKxZgGBkx02VfeJRkXoTgSDg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C6gB3CPWhdwvZpyjzF0mKxZgGBkx02VfeJRkXoTgSDg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C6gB3CPWhdwvZpyjzF0mKxZgGBkx02VfeJRkXoTgSDg="
+    }
+  },
+  "version": "1.7.0"
+}

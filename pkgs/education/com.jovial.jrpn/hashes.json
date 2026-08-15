@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jovial.jrpn_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kpqPsdDcUZecq3PhNwjLZNigtnxhdu1RyUUtKUQYzlQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kpqPsdDcUZecq3PhNwjLZNigtnxhdu1RyUUtKUQYzlQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kpqPsdDcUZecq3PhNwjLZNigtnxhdu1RyUUtKUQYzlQ="
+    }
+  },
+  "version": "1.1.5"
+}

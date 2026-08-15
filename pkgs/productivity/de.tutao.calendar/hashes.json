@@ -1,0 +1,18 @@
+{
+  "apkName": "de.tutao.calendar_331.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EQXahBauqhXonwP5o9ck+qUfwTLMeZ94U8NQ3/sSpoc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EQXahBauqhXonwP5o9ck+qUfwTLMeZ94U8NQ3/sSpoc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EQXahBauqhXonwP5o9ck+qUfwTLMeZ94U8NQ3/sSpoc="
+    }
+  },
+  "version": "356.260806.1"
+}

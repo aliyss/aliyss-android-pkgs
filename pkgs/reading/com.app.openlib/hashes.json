@@ -1,0 +1,18 @@
+{
+  "apkName": "com.app.openlib_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5369sZo5RJa683d34rRdLVV46LbTcBmF9g++7I+bwxM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5369sZo5RJa683d34rRdLVV46LbTcBmF9g++7I+bwxM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5369sZo5RJa683d34rRdLVV46LbTcBmF9g++7I+bwxM="
+    }
+  },
+  "version": "1.0.11"
+}

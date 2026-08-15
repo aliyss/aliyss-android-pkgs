@@ -1,0 +1,18 @@
+{
+  "apkName": "de.qspool.clementineremote_759.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-x617UODzT+RwsGp/bUfh4xqX9FXZ6+7NIzXuvVYgERg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x617UODzT+RwsGp/bUfh4xqX9FXZ6+7NIzXuvVYgERg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x617UODzT+RwsGp/bUfh4xqX9FXZ6+7NIzXuvVYgERg="
+    }
+  },
+  "version": "v12"
+}

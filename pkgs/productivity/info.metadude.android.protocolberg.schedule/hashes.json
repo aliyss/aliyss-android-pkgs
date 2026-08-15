@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.protocolberg.schedule_109.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3+uxv+uCWRtrz/HyifRYTAd8ekNhOB9T1j/oIKUdB60="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3+uxv+uCWRtrz/HyifRYTAd8ekNhOB9T1j/oIKUdB60="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3+uxv+uCWRtrz/HyifRYTAd8ekNhOB9T1j/oIKUdB60="
+    }
+  },
+  "version": "1.70.1-Protocol-Berg-Edition"
+}

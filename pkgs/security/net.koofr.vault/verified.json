@@ -1,0 +1,8 @@
+{
+  "package": "net.koofr.vault",
+  "signerFingerprints": [
+    "1B:0B:E4:F0:9E:70:65:75:19:2C:0A:6C:A2:3A:EE:6C:5C:40:9D:E5:A6:47:DB:F7:9B:8B:EB:DC:12:8C:2D:62"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

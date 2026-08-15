@@ -1,0 +1,8 @@
+{
+  "package": "org.openttd.fdroid",
+  "signerFingerprints": [
+    "4B:D2:AC:B6:C3:92:5D:17:41:13:3E:09:0B:F9:0A:32:09:0E:2A:CE:11:62:66:D2:BF:7F:B1:59:72:34:83:5B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

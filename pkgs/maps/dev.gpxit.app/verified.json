@@ -1,0 +1,8 @@
+{
+  "package": "dev.gpxit.app",
+  "signerFingerprints": [
+    "B1:10:CF:9D:0E:27:AF:C5:02:FD:28:E8:23:7B:5C:52:A6:10:68:E0:13:1D:6C:D7:ED:76:D7:15:3F:DB:CF:97"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

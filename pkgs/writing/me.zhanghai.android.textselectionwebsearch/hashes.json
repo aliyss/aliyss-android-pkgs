@@ -1,0 +1,18 @@
+{
+  "apkName": "me.zhanghai.android.textselectionwebsearch_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HrPwmeE4l+pk6aokLRgnRdzbFnLKFhvD2dpwlXyvSz8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HrPwmeE4l+pk6aokLRgnRdzbFnLKFhvD2dpwlXyvSz8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HrPwmeE4l+pk6aokLRgnRdzbFnLKFhvD2dpwlXyvSz8="
+    }
+  },
+  "version": "1.1.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.koje.cards",
+  "signerFingerprints": [
+    "A0:AE:A2:59:B2:9E:7E:88:EA:74:C0:E3:7E:3C:B4:9C:30:FF:C8:BF:D7:AD:DF:FC:F1:B6:E9:97:C8:27:71:91"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

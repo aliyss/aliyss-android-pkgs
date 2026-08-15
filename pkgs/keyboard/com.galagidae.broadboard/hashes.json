@@ -1,0 +1,18 @@
+{
+  "apkName": "com.galagidae.broadboard_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VW+4RzhzkKA5ItpXqYyFG/cZ4dqzw+4kRPPaqjBxGsQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VW+4RzhzkKA5ItpXqYyFG/cZ4dqzw+4kRPPaqjBxGsQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VW+4RzhzkKA5ItpXqYyFG/cZ4dqzw+4kRPPaqjBxGsQ="
+    }
+  },
+  "version": "2.0"
+}

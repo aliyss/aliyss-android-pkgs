@@ -1,0 +1,18 @@
+{
+  "apkName": "com.danilkinkin.buckwheat_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-InCwNT98uHYFMjfrI0ldtI/hhdfnqt5kcCU313JmoJo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-InCwNT98uHYFMjfrI0ldtI/hhdfnqt5kcCU313JmoJo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-InCwNT98uHYFMjfrI0ldtI/hhdfnqt5kcCU313JmoJo="
+    }
+  },
+  "version": "4.8.0"
+}

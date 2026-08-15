@@ -1,0 +1,18 @@
+{
+  "apkName": "com.megamaced.nccollectives_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CP8VDfb5TIVb0V7Dbzj5rPbLtnli8bZd+vqjXTU0cgM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CP8VDfb5TIVb0V7Dbzj5rPbLtnli8bZd+vqjXTU0cgM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CP8VDfb5TIVb0V7Dbzj5rPbLtnli8bZd+vqjXTU0cgM="
+    }
+  },
+  "version": "2.6.0"
+}

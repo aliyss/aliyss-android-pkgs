@@ -1,0 +1,8 @@
+{
+  "package": "app.fedilab.mobilizon",
+  "signerFingerprints": [
+    "06:28:7F:44:CB:D8:7E:7B:C1:24:D8:61:0F:99:91:89:DB:68:C4:F6:18:B5:8C:B7:11:F2:EF:7F:14:81:36:DA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

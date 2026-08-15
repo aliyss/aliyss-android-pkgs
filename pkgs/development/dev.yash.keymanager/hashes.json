@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.yash.keymanager_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jt+62SKTyLIVB6X1rzZxK8rywTrFjRQ2F0s09If1qGM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jt+62SKTyLIVB6X1rzZxK8rywTrFjRQ2F0s09If1qGM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jt+62SKTyLIVB6X1rzZxK8rywTrFjRQ2F0s09If1qGM="
+    }
+  },
+  "version": "v3.3-release"
+}

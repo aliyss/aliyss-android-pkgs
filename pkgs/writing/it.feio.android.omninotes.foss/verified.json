@@ -1,0 +1,8 @@
+{
+  "package": "it.feio.android.omninotes.foss",
+  "signerFingerprints": [
+    "1E:EE:2B:A9:79:FB:76:23:29:C9:98:19:3D:F3:70:5C:32:51:15:C3:51:AE:B4:CA:A5:63:1B:AD:7A:67:02:A3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

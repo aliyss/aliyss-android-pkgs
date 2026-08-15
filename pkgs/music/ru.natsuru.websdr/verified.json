@@ -1,0 +1,8 @@
+{
+  "package": "ru.natsuru.websdr",
+  "signerFingerprints": [
+    "12:09:8A:7E:CF:0F:E0:F9:57:15:B7:6D:E9:2F:06:00:BE:F8:48:D2:64:3B:E2:78:E7:1E:AC:6A:64:A1:B4:88"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

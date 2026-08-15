@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.halim.shelfdroid_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DEfOgFH6uD+epBo9118uipnqCu7HI/KAEmY0Yp2IkHo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DEfOgFH6uD+epBo9118uipnqCu7HI/KAEmY0Yp2IkHo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DEfOgFH6uD+epBo9118uipnqCu7HI/KAEmY0Yp2IkHo="
+    }
+  },
+  "version": "0.5.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "app.tujice.jergasColombia_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-72F345sdCx1idvEhTS6cjyrNN0ccsOtv4hzyBGi1Dm8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-72F345sdCx1idvEhTS6cjyrNN0ccsOtv4hzyBGi1Dm8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-72F345sdCx1idvEhTS6cjyrNN0ccsOtv4hzyBGi1Dm8="
+    }
+  },
+  "version": "1.0"
+}

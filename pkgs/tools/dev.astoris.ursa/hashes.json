@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.astoris.ursa_10200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Rf9rqtgFITlXDNGEvMCd3Dyh9ox7xeHbYhHGWn/OVqs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Rf9rqtgFITlXDNGEvMCd3Dyh9ox7xeHbYhHGWn/OVqs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Rf9rqtgFITlXDNGEvMCd3Dyh9ox7xeHbYhHGWn/OVqs="
+    }
+  },
+  "version": "1.2.0"
+}

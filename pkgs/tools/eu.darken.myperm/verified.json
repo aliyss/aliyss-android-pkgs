@@ -1,0 +1,8 @@
+{
+  "package": "eu.darken.myperm",
+  "signerFingerprints": [
+    "A9:AD:5C:88:55:01:4D:4B:CA:1C:3D:4E:60:A0:83:AE:36:2D:19:77:89:7B:9A:C3:BE:20:82:FD:DF:0D:9C:7F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

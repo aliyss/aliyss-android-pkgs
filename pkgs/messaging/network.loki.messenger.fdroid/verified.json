@@ -1,0 +1,8 @@
+{
+  "package": "network.loki.messenger.fdroid",
+  "signerFingerprints": [
+    "99:1C:37:C7:C7:62:F6:D4:4B:99:94:C4:AE:06:6A:51:84:91:95:61:B8:3C:8A:FD:7A:35:13:DA:A6:93:A8:9A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

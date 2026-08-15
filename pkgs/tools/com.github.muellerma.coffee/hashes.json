@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.muellerma.coffee_47.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rkaI/kjnUVF+eh1WrtJ7/xC4farA1+KJk/sZOn3I8iM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rkaI/kjnUVF+eh1WrtJ7/xC4farA1+KJk/sZOn3I8iM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rkaI/kjnUVF+eh1WrtJ7/xC4farA1+KJk/sZOn3I8iM="
+    }
+  },
+  "version": "2.27"
+}

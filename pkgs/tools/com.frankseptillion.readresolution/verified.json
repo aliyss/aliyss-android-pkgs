@@ -1,0 +1,8 @@
+{
+  "package": "com.frankseptillion.readresolution",
+  "signerFingerprints": [
+    "C0:59:B3:05:E3:0C:10:23:FC:38:AF:DB:25:59:62:5C:7F:5F:F0:32:78:D4:8A:33:4E:7C:A3:53:BD:4C:1B:67"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

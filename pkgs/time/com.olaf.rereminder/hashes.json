@@ -1,0 +1,18 @@
+{
+  "apkName": "com.olaf.rereminder_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Hw7PC9elGT5EQlgI2RCM9FjrAVoqSXdj2RI2EGpHUfQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hw7PC9elGT5EQlgI2RCM9FjrAVoqSXdj2RI2EGpHUfQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hw7PC9elGT5EQlgI2RCM9FjrAVoqSXdj2RI2EGpHUfQ="
+    }
+  },
+  "version": "3.0"
+}

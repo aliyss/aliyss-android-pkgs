@@ -1,0 +1,18 @@
+{
+  "apkName": "org.michaelevans.nightmodeenabler_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-o0dS5wxwJwAdz1uS/8adyfxiZcslXKkrcoZyUfhCTVI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o0dS5wxwJwAdz1uS/8adyfxiZcslXKkrcoZyUfhCTVI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o0dS5wxwJwAdz1uS/8adyfxiZcslXKkrcoZyUfhCTVI="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.nononsenseapps.notepad",
+  "signerFingerprints": [
+    "5E:15:C9:C2:E5:2B:24:63:64:37:2B:4E:F9:CD:08:60:55:28:F6:9A:4B:C7:A8:2A:50:CD:68:09:09:72:73:C7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

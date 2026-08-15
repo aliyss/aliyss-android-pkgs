@@ -1,0 +1,8 @@
+{
+  "package": "com.nononsenseapps.feeder",
+  "signerFingerprints": [
+    "A8:0D:F8:17:0D:6C:89:1E:C9:A0:55:21:1D:F6:40:A8:55:D4:51:05:23:07:BF:29:CD:CE:3F:EF:9A:FA:94:FD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

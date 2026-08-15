@@ -1,0 +1,8 @@
+{
+  "package": "de.fampopprol.dhbwhorb",
+  "signerFingerprints": [
+    "79:3E:F7:80:12:18:84:36:3F:90:CF:84:10:C9:86:A5:3C:82:FF:84:08:F8:ED:C9:EF:95:0C:B5:24:CB:5F:62"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

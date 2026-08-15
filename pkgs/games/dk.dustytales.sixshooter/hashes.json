@@ -1,0 +1,18 @@
+{
+  "apkName": "dk.dustytales.sixshooter_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4bz/95/taH/Dt0OO74yfRY2B7x9CI5+snUolY0vCZj4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4bz/95/taH/Dt0OO74yfRY2B7x9CI5+snUolY0vCZj4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4bz/95/taH/Dt0OO74yfRY2B7x9CI5+snUolY0vCZj4="
+    }
+  },
+  "version": "1.2"
+}

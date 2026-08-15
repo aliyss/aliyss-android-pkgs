@@ -1,0 +1,8 @@
+{
+  "package": "io.mainframe.hacs",
+  "signerFingerprints": [
+    "EA:E3:A1:B7:8E:A5:B1:01:B1:88:27:80:FD:D2:61:D4:AF:0D:19:F9:DE:2D:72:FA:5E:0D:73:03:8A:BA:B8:BC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

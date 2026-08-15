@@ -1,0 +1,8 @@
+{
+  "package": "org.stendhalgame.client",
+  "signerFingerprints": [
+    "09:1C:5D:FA:A7:E0:B6:B7:35:24:4E:3D:33:A5:BE:C9:ED:6D:9B:31:60:A2:CC:57:15:8E:D4:FF:95:F6:09:DF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.casimirlab.frigoligo_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vgLprTDlNj2vnfDYy80RnxVQylhdXwQgLoxBEsr6GQQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vgLprTDlNj2vnfDYy80RnxVQylhdXwQgLoxBEsr6GQQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vgLprTDlNj2vnfDYy80RnxVQylhdXwQgLoxBEsr6GQQ="
+    }
+  },
+  "version": "2.4.0"
+}

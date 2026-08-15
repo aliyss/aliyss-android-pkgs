@@ -1,0 +1,18 @@
+{
+  "apkName": "me.velc.devqs_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q9gu0Dsev8HgVD/pB8hL9yM6kz92cUVkYELndOnajYc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q9gu0Dsev8HgVD/pB8hL9yM6kz92cUVkYELndOnajYc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q9gu0Dsev8HgVD/pB8hL9yM6kz92cUVkYELndOnajYc="
+    }
+  },
+  "version": "1.2.1"
+}

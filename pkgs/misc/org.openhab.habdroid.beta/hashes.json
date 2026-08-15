@@ -1,0 +1,18 @@
+{
+  "apkName": "org.openhab.habdroid.beta_598.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-F7T5fmIje2wXj3U2X6l0q5QxUcCZdRgjL3zm2bmIdKo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F7T5fmIje2wXj3U2X6l0q5QxUcCZdRgjL3zm2bmIdKo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F7T5fmIje2wXj3U2X6l0q5QxUcCZdRgjL3zm2bmIdKo="
+    }
+  },
+  "version": "3.21.0-beta"
+}

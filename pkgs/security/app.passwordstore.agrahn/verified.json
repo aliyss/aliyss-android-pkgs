@@ -1,0 +1,8 @@
+{
+  "package": "app.passwordstore.agrahn",
+  "signerFingerprints": [
+    "6E:66:4C:96:0C:27:EA:35:DB:9F:91:BD:33:CE:3E:9F:7A:2F:7D:88:B6:20:C4:4F:59:53:62:61:11:E2:B9:FD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

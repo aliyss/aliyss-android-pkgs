@@ -1,0 +1,18 @@
+{
+  "apkName": "me.hackerchick.raisetoanswer_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-p4MKO01r1x6Prga7fOOz91MAPjhY104DF5ryNKcXrBw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p4MKO01r1x6Prga7fOOz91MAPjhY104DF5ryNKcXrBw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p4MKO01r1x6Prga7fOOz91MAPjhY104DF5ryNKcXrBw="
+    }
+  },
+  "version": "3.6.6"
+}

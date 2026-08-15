@@ -1,0 +1,18 @@
+{
+  "apkName": "org.myfastingapp.app_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-w5L2if+KPxokidrMBFEmB2CPqO6sKK/zN1jdU1zd71g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w5L2if+KPxokidrMBFEmB2CPqO6sKK/zN1jdU1zd71g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w5L2if+KPxokidrMBFEmB2CPqO6sKK/zN1jdU1zd71g="
+    }
+  },
+  "version": "1.0.1"
+}

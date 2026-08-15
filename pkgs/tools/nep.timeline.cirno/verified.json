@@ -1,0 +1,8 @@
+{
+  "package": "nep.timeline.cirno",
+  "signerFingerprints": [
+    "CC:43:7A:8C:20:88:47:35:FC:E8:78:E1:CE:02:01:4C:F6:9E:7B:36:0E:EC:5F:13:F4:38:E5:16:97:3D:2F:A6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

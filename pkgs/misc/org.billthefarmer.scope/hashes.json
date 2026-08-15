@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.scope_140.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DjRDnOQ7/UfQOauRpwVgUeDPlMA5SOuXI219JkjqF94="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DjRDnOQ7/UfQOauRpwVgUeDPlMA5SOuXI219JkjqF94="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DjRDnOQ7/UfQOauRpwVgUeDPlMA5SOuXI219JkjqF94="
+    }
+  },
+  "version": "1.40"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.dartstrainer.app.twa_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-emC2Ovw/PCziALyxVeVFV31LDCrPJFOrmZwcVa12rRE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-emC2Ovw/PCziALyxVeVFV31LDCrPJFOrmZwcVa12rRE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-emC2Ovw/PCziALyxVeVFV31LDCrPJFOrmZwcVa12rRE="
+    }
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.wandomium.viewcarousel_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sVqcnS6FDg06TyLk7mMqU5/X8Z//UaXA2xF0mqvMaww="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sVqcnS6FDg06TyLk7mMqU5/X8Z//UaXA2xF0mqvMaww="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sVqcnS6FDg06TyLk7mMqU5/X8Z//UaXA2xF0mqvMaww="
+    }
+  },
+  "version": "0.4.1"
+}

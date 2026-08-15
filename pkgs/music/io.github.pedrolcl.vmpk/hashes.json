@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.pedrolcl.vmpk_151.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xq9JuhNrfezi65cJBMg1j1zp524OYhvp70sJVLLqkPI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xq9JuhNrfezi65cJBMg1j1zp524OYhvp70sJVLLqkPI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xq9JuhNrfezi65cJBMg1j1zp524OYhvp70sJVLLqkPI="
+    }
+  },
+  "version": "1.5.1"
+}

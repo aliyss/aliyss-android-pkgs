@@ -1,0 +1,18 @@
+{
+  "apkName": "net.artificialworlds.boxstacker_1050900.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hAP8QIFTKPx/J70quEC5WZQfJvvk7KyR7jtL9rn9j9w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hAP8QIFTKPx/J70quEC5WZQfJvvk7KyR7jtL9rn9j9w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hAP8QIFTKPx/J70quEC5WZQfJvvk7KyR7jtL9rn9j9w="
+    }
+  },
+  "version": "1.5.9-0"
+}

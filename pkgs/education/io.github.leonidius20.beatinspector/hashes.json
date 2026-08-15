@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.leonidius20.beatinspector_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vOzlVKKQ7KCuIkx9hssKLD80ttXOGthfH18dyl9hkLo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vOzlVKKQ7KCuIkx9hssKLD80ttXOGthfH18dyl9hkLo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vOzlVKKQ7KCuIkx9hssKLD80ttXOGthfH18dyl9hkLo="
+    }
+  },
+  "version": "0.0.8"
+}

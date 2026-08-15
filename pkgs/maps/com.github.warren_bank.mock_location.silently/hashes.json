@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.mock_location.silently_2050201.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sV28PR0aqKlv1/OYi2iI+dYksK6+/2wi9uYpmJ82sbY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sV28PR0aqKlv1/OYi2iI+dYksK6+/2wi9uYpmJ82sbY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sV28PR0aqKlv1/OYi2iI+dYksK6+/2wi9uYpmJ82sbY="
+    }
+  },
+  "version": "002.05.02-01API"
+}

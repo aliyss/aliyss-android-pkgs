@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.evgeniy.dpitunnel_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kBu6MBR5wV9uUJv/PP4OwuLSa/pe4X3Fz3TaHmBMYgY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kBu6MBR5wV9uUJv/PP4OwuLSa/pe4X3Fz3TaHmBMYgY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kBu6MBR5wV9uUJv/PP4OwuLSa/pe4X3Fz3TaHmBMYgY="
+    }
+  },
+  "version": "4.0"
+}

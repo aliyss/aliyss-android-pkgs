@@ -1,0 +1,8 @@
+{
+  "package": "us.spotco.motionlock",
+  "signerFingerprints": [
+    "F1:BD:AC:CB:71:98:0D:2C:6D:81:01:78:FC:09:3E:0C:C5:62:72:CA:BE:6B:30:7C:69:63:7F:96:4E:07:C9:6B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.unitstool_9090.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AeIv4qtFwxcYiBZXZFu9I2/gTZ2ou3VyI5U6nTM2rmQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AeIv4qtFwxcYiBZXZFu9I2/gTZ2ou3VyI5U6nTM2rmQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AeIv4qtFwxcYiBZXZFu9I2/gTZ2ou3VyI5U6nTM2rmQ="
+    }
+  },
+  "version": "1.0.17"
+}

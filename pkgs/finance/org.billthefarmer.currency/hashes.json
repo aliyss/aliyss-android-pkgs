@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.currency_158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+yWDKJ4JvqfxyMPtdC2zoRh2n33J3zEq3LiKPRmKIao="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+yWDKJ4JvqfxyMPtdC2zoRh2n33J3zEq3LiKPRmKIao="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+yWDKJ4JvqfxyMPtdC2zoRh2n33J3zEq3LiKPRmKIao="
+    }
+  },
+  "version": "1.58"
+}

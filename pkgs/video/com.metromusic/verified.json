@@ -1,0 +1,8 @@
+{
+  "package": "com.metromusic",
+  "signerFingerprints": [
+    "C3:25:B9:BC:DB:A6:6D:64:1A:6C:A7:FE:2F:95:4E:2C:34:43:B7:E3:4E:37:C2:94:1D:A1:C6:BB:52:41:53:C6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

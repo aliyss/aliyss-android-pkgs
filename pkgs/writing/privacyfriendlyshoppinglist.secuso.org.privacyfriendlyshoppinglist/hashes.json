@@ -1,0 +1,18 @@
+{
+  "apkName": "privacyfriendlyshoppinglist.secuso.org.privacyfriendlyshoppinglist_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eLTGuRwwwLSXTs9RBbEGiPJWxi6fH+QZbmFLyYB5CHU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eLTGuRwwwLSXTs9RBbEGiPJWxi6fH+QZbmFLyYB5CHU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eLTGuRwwwLSXTs9RBbEGiPJWxi6fH+QZbmFLyYB5CHU="
+    }
+  },
+  "version": "1.2.1"
+}

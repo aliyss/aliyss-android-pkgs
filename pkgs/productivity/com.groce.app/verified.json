@@ -1,0 +1,8 @@
+{
+  "package": "com.groce.app",
+  "signerFingerprints": [
+    "04:21:53:E1:B1:29:40:51:8A:3C:92:BC:2D:83:CF:F1:73:B6:D2:2A:55:26:31:53:C0:B9:A1:5F:B3:FB:E7:38"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.luk.saucenao_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-W7sbyVnnaLip1tBdlI/nRr5FmRxqHWHz+dugdkB2TVQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W7sbyVnnaLip1tBdlI/nRr5FmRxqHWHz+dugdkB2TVQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W7sbyVnnaLip1tBdlI/nRr5FmRxqHWHz+dugdkB2TVQ="
+    }
+  },
+  "version": "1.26"
+}

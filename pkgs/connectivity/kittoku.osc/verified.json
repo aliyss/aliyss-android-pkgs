@@ -1,0 +1,8 @@
+{
+  "package": "kittoku.osc",
+  "signerFingerprints": [
+    "35:A0:10:7F:1C:39:13:4A:4E:E7:C0:32:72:FD:CC:B8:0A:AC:4B:86:45:83:D0:63:FE:F6:37:58:27:7D:E3:D5"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

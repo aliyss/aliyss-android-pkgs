@@ -1,0 +1,8 @@
+{
+  "package": "fr.dogeo.osmgo",
+  "signerFingerprints": [
+    "24:43:BD:45:8D:C9:66:3A:2A:32:E4:26:F3:53:27:26:BA:F6:1A:F5:5B:8A:31:DC:7C:09:E3:39:2E:0D:AE:76"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

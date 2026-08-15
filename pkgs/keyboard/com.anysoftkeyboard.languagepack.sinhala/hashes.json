@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.sinhala_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vPBTSlG0FRbNa6R/myOwV7/QMHf/5EqM4286UjcwJSY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vPBTSlG0FRbNa6R/myOwV7/QMHf/5EqM4286UjcwJSY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vPBTSlG0FRbNa6R/myOwV7/QMHf/5EqM4286UjcwJSY="
+    }
+  },
+  "version": "5.1.6158"
+}

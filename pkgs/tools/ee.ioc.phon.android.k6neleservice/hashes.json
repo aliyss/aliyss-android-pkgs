@@ -1,0 +1,18 @@
+{
+  "apkName": "ee.ioc.phon.android.k6neleservice_208.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7LUbZxRBAaBbun4rGlpQ7omfDa+BPehiH+TmC8cuXeE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7LUbZxRBAaBbun4rGlpQ7omfDa+BPehiH+TmC8cuXeE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7LUbZxRBAaBbun4rGlpQ7omfDa+BPehiH+TmC8cuXeE="
+    }
+  },
+  "version": "0.2.08"
+}

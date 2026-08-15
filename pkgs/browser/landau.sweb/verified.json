@@ -1,0 +1,8 @@
+{
+  "package": "landau.sweb",
+  "signerFingerprints": [
+    "B7:C8:18:AE:E6:7D:40:DA:2D:9E:50:A8:EC:8E:22:4D:0D:2D:A4:26:C8:12:A0:55:56:6D:C5:03:48:20:17:F2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

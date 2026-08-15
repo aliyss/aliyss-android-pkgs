@@ -1,0 +1,8 @@
+{
+  "package": "org.disrupted.rumble",
+  "signerFingerprints": [
+    "F1:BB:37:E9:CE:65:E9:94:8E:59:3B:A5:80:D3:B9:6F:68:3F:01:94:57:5A:A7:08:79:55:22:C4:D2:53:0B:19"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

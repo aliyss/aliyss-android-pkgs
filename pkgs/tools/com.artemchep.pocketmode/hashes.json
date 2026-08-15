@@ -1,0 +1,18 @@
+{
+  "apkName": "com.artemchep.pocketmode_1110300.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4ViKYGO23+Q84+P4ACcatuIHSnMkKmFoeRkEIbKFqXw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4ViKYGO23+Q84+P4ACcatuIHSnMkKmFoeRkEIbKFqXw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4ViKYGO23+Q84+P4ACcatuIHSnMkKmFoeRkEIbKFqXw="
+    }
+  },
+  "version": "1.11.3.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.maazm7d.termuxhub",
+  "signerFingerprints": [
+    "51:16:96:B7:A4:A2:8A:44:7A:AC:A6:26:87:0F:67:67:7B:23:85:9A:FD:67:CF:50:48:97:C1:E1:B2:F6:DD:5C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

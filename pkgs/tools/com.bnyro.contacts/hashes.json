@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bnyro.contacts_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ih0Y/UlTEB+DBA5v/wEaarBoCCgh2Xxqw+RbHcWFsuY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ih0Y/UlTEB+DBA5v/wEaarBoCCgh2Xxqw+RbHcWFsuY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ih0Y/UlTEB+DBA5v/wEaarBoCCgh2Xxqw+RbHcWFsuY="
+    }
+  },
+  "version": "12.0"
+}

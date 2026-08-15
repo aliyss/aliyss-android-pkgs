@@ -1,0 +1,18 @@
+{
+  "apkName": "org.thosp.yourlocalweather_195.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5ZpkRXqoyHITi2//swSAFmNJGzBbrHEhlgZoOgP7UPs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5ZpkRXqoyHITi2//swSAFmNJGzBbrHEhlgZoOgP7UPs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5ZpkRXqoyHITi2//swSAFmNJGzBbrHEhlgZoOgP7UPs="
+    }
+  },
+  "version": "6.5.1-FOSS"
+}

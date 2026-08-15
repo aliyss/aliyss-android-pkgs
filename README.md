@@ -1,0 +1,119 @@
+# aliyss-android-pkgs
+
+A repository of Android APK packages for Nix: thousands of apps,
+each pinned to an exact version, source and hash, buildable with:
+
+```console
+$ nix build .#org-videolan-vlc
+$ nix build .#org-thoughtcrime-securesms
+```
+
+Packages are organized as `pkgs/<category>/<app-id>/` where every app
+directory contains:
+
+| file           | purpose                                                              |
+|----------------|----------------------------------------------------------------------|
+| `package.nix`  | static template that calls `fetchApk` (reads `./hashes.json`)        |
+| `hashes.json`  | generated lockfile: `{version, apkName?, architectures: {system: {archStr, hash}}}` |
+| `verified.json`| signer certificate fingerprints + attribution (written by the seeders) |
+
+## Sources and the hash model
+
+The same Android app can have **different content per provider**, so the
+source is pinned in `package.nix` and every hash in `hashes.json` is specific
+to that source. `scripts/update.py` always resolves updates against the
+provider recorded in the package, never a different one.
+
+| source                  | how hashes are pinned                                            | hash mode     |
+|-------------------------|------------------------------------------------------------------|---------------|
+| `apk-pure` (default)    | `apkeep` downloads per architecture; NAR hash of the installed `share/apk` layout (computed by `update.py`) | recursive |
+| `f-droid`               | **flat file sha256 straight from the repo's signed index** — no download needed to pin | flat |
+| IzzyOnDroid (`f-droid` + `repoUrl`) | same as f-droid, against `https://apt.izzysoft.de/fdroid/repo` | flat |
+| `google-play` / `aurora`| needs credentials (`GOOGLE_EMAIL` + `GOOGLE_AUTH_TOKEN`/`GOOGLE_AAS_TOKEN`); version cannot be pinned, requires `--rehash` | recursive |
+
+F-Droid-format indexes (`f-droid.org/repo/index-v1.json`, IzzyOnDroid) are
+signed and publish, per APK, the exact file name, its sha256 and the signer
+certificate fingerprint — so those apps are pinned fully (version + hash +
+signer) **without downloading a single APK**, and `fetchApk` downloads
+`<repoUrl>/<apkName>` with `outputHashMode = "flat"` so the index hash *is*
+the build hash.
+
+## Seeding
+
+```console
+# F-Droid first (canonical), then IzzyOnDroid (adds only apps F-Droid lacks)
+python scripts/seed_fdroid.py                      # ~3.4k apps from f-droid.org
+python scripts/seed_fdroid.py --repo izzy          # ~700 more from IzzyOnDroid
+```
+
+`seed_fdroid.py` only seeds apps whose latest APK is universal (or covers all
+four ABIs in one file); per-ABI-only APKs are skipped unless `--all`. Use
+`--dry-run`, `--limit`, `--only <app-id>` to preview, and `--from-file` to
+reuse a downloaded `index-v1.json`.
+
+`scripts/seed_verified_apps.py` seeds from the privacyguides/verified-apps
+signing-certificate database (fingerprints only; pin with `update.py` after).
+
+### Categories
+
+Apps live under `pkgs/<category>/<app-id>/`. `scripts/recategorize.py` assigns
+categories from the **curated per-app categories in the F-Droid / IzzyOnDroid
+`index-v2.json` indexes** (falling back to keyword heuristics on the app id +
+name/summary), so re-run it after seeding:
+
+```console
+python scripts/recategorize.py            # consult f-droid.org + IzzyOnDroid
+python scripts/recategorize.py --all      # also reconsider non-misc apps
+python scripts/recategorize.py --dry-run  # preview only
+```
+
+Current taxonomy: `browser`, `camera`, `connectivity`, `development`,
+`education`, `finance`, `games`, `graphics`, `health`, `keyboard`, `maps`,
+`messaging`, `misc`, `music`, `productivity`, `reading`, `security`, `social`,
+`time`, `tools`, `video`, `weather`, `writing`.
+
+## Updating
+
+```console
+python scripts/update.py                 # update everything (writes)
+python scripts/update.py --check         # only report
+python scripts/update.py --only org.thoughtcrime.securesms
+python scripts/update.py --rehash        # recompute hashes for pinned versions
+```
+
+* apk-pure apps: queries `apkeep -l`, downloads per architecture, hashes and
+  rewrites `hashes.json`.
+* f-droid / Izzy apps: reads the repo's index (fetched once per repo) and
+  pins the new version + flat hash directly — no download.
+* google-play / aurora apps: skipped unless `--rehash` (credentials via env).
+
+When a downloaded APK's signer does not match `verified.json` (checked with
+`apksigner` when available), the update fails.
+
+## Testing
+
+```console
+nix flake check        # evaluates all packages + runs the offline test suite
+pytest tests/          # unit tests + structural invariants over all of pkgs/
+```
+
+The suite covers the scripts' logic and the whole `pkgs/` tree: every app
+must have `package.nix` + `hashes.json`, pins must follow the schema, pinned
+apps must have hashes, unpinned seeds must be empty, f-droid apps must carry
+`apkName` + a flat hash, and each f-droid app's `repoUrl` must identify its
+own provider. CI runs both jobs (`.github/workflows/ci.yml`).
+
+## Trust model & caveats
+
+* The F-Droid index is served over TLS and additionally signed (JAR/GPG via
+  `index-v1.jar` / `index-v1.json.asc`) — verify those for maximum trust.
+  Hashes pinned from it are covered by that signature, and `update.py`
+  re-verifies downloads with `apksigner` when available.
+* IzzyOnDroid hosts many proprietary/freeware apps. `fetchApk` defaults to
+  `license = "free"`; review `meta.license` before shipping an Izzy package
+  set to unfree-only consumers.
+* APKPure/Play apps are frequently unfree; the repo's own package set allows
+  them (`config.allowUnfree = true`), consumers importing the overlay keep
+  nixpkgs' standard gating.
+* Per-ABI-only APKs (e.g. arm64-only) are not seeded by default; universal
+  seeds build on any Nix system.

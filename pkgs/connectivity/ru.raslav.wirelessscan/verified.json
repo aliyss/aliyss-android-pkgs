@@ -1,0 +1,8 @@
+{
+  "package": "ru.raslav.wirelessscan",
+  "signerFingerprints": [
+    "05:24:FE:9C:86:D7:7A:45:F9:02:B0:76:28:5E:6B:7C:BB:F7:00:F1:EB:39:18:ED:02:C5:1B:C7:C2:FB:76:7C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

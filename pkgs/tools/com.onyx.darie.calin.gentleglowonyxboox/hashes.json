@@ -1,0 +1,18 @@
+{
+  "apkName": "com.onyx.darie.calin.gentleglowonyxboox_504.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-p/t8NKhN2BgovLaaiFvgqUuEIR8NmlG0RXe0Pzufbrg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p/t8NKhN2BgovLaaiFvgqUuEIR8NmlG0RXe0Pzufbrg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-p/t8NKhN2BgovLaaiFvgqUuEIR8NmlG0RXe0Pzufbrg="
+    }
+  },
+  "version": "5.4"
+}

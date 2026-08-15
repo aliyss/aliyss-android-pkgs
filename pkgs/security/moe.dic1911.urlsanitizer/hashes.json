@@ -1,0 +1,18 @@
+{
+  "apkName": "moe.dic1911.urlsanitizer_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lWnKqh9kjINJiDE30nIp59FM3olsXhfzHWv97RC0x4E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lWnKqh9kjINJiDE30nIp59FM3olsXhfzHWv97RC0x4E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lWnKqh9kjINJiDE30nIp59FM3olsXhfzHWv97RC0x4E="
+    }
+  },
+  "version": "3.0.4"
+}

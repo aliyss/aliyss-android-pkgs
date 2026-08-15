@@ -1,0 +1,8 @@
+{
+  "package": "io.github.mthli.mount",
+  "signerFingerprints": [
+    "D4:93:E6:41:24:BA:14:66:E9:FC:7A:18:4C:FB:AD:78:AB:E2:E8:D5:41:69:74:2C:EA:DF:D6:DA:4A:DA:AB:4B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

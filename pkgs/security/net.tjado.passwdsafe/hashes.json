@@ -1,0 +1,18 @@
+{
+  "apkName": "net.tjado.passwdsafe_500.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qFhY/g774t8LNve+Ix/Ab011rLyw4uSMoV9XOeLZYvs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qFhY/g774t8LNve+Ix/Ab011rLyw4uSMoV9XOeLZYvs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qFhY/g774t8LNve+Ix/Ab011rLyw4uSMoV9XOeLZYvs="
+    }
+  },
+  "version": "0.5.0"
+}

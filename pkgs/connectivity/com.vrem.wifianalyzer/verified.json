@@ -1,0 +1,8 @@
+{
+  "package": "com.vrem.wifianalyzer",
+  "signerFingerprints": [
+    "3A:14:F8:BB:EA:D3:D5:30:AE:0A:A0:B5:78:B9:45:BD:D7:66:7B:6E:2E:27:DA:30:CD:46:34:93:56:99:8F:3E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

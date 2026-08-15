@@ -1,0 +1,18 @@
+{
+  "apkName": "net.justdave.nwsweatheralertswidget_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2d7anK2nl/WskdS9ibj3oeGypavX8eWYW5e06hNQFbs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2d7anK2nl/WskdS9ibj3oeGypavX8eWYW5e06hNQFbs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2d7anK2nl/WskdS9ibj3oeGypavX8eWYW5e06hNQFbs="
+    }
+  },
+  "version": "2.3.1"
+}

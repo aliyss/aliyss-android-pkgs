@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.otherworld.shoppinglist_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zf0hD/ycovjBXz42EQuloTqfmZRVzy+ojiZUwo14leA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zf0hD/ycovjBXz42EQuloTqfmZRVzy+ojiZUwo14leA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zf0hD/ycovjBXz42EQuloTqfmZRVzy+ojiZUwo14leA="
+    }
+  },
+  "version": "0.4.0"
+}

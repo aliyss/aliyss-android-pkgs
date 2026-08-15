@@ -1,0 +1,18 @@
+{
+  "apkName": "gallery.memories_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-q9vffgH7lNs3dF4StWCYrqgjfmNO53lUGUzhG5R/YeA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q9vffgH7lNs3dF4StWCYrqgjfmNO53lUGUzhG5R/YeA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q9vffgH7lNs3dF4StWCYrqgjfmNO53lUGUzhG5R/YeA="
+    }
+  },
+  "version": "1.15"
+}

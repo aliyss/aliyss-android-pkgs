@@ -1,0 +1,18 @@
+{
+  "apkName": "io.atticusc.atmosweather_3010000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zqeIhhQhj4xJ7PG0MdrKPBbTCFgMyVS45zQGnw0xCEo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zqeIhhQhj4xJ7PG0MdrKPBbTCFgMyVS45zQGnw0xCEo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zqeIhhQhj4xJ7PG0MdrKPBbTCFgMyVS45zQGnw0xCEo="
+    }
+  },
+  "version": "3.1.0"
+}

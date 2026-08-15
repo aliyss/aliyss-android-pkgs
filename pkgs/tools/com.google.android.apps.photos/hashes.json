@@ -1,0 +1,18 @@
+{
+  "apkName": "com.google.android.apps.photos_100000010.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m1JvvRHnfswezkluuJp51C/RM55hq6VKWiAc1fimUQs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m1JvvRHnfswezkluuJp51C/RM55hq6VKWiAc1fimUQs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m1JvvRHnfswezkluuJp51C/RM55hq6VKWiAc1fimUQs="
+    }
+  },
+  "version": "1.6.1"
+}

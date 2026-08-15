@@ -1,0 +1,18 @@
+{
+  "apkName": "rocks.mucke.github_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-g2uMrCWJYsXlEjenr6cJaeRPsFb5zqXFlQ92pws77cQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-g2uMrCWJYsXlEjenr6cJaeRPsFb5zqXFlQ92pws77cQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-g2uMrCWJYsXlEjenr6cJaeRPsFb5zqXFlQ92pws77cQ="
+    }
+  },
+  "version": "1.5.1"
+}

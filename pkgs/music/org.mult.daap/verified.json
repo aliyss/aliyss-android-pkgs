@@ -1,0 +1,8 @@
+{
+  "package": "org.mult.daap",
+  "signerFingerprints": [
+    "D8:EE:EE:BB:B8:41:4E:90:44:C6:0B:83:25:DD:CB:3C:A4:1A:C1:F9:1F:BD:FE:9F:12:BA:D7:FB:73:51:A7:72"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

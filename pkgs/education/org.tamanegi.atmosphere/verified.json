@@ -1,0 +1,8 @@
+{
+  "package": "org.tamanegi.atmosphere",
+  "signerFingerprints": [
+    "6D:F3:B7:99:09:CD:96:65:9C:1E:39:9C:E8:C1:AD:5C:69:91:7A:2D:25:D9:0A:23:45:74:7A:CE:D9:1F:4C:16"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

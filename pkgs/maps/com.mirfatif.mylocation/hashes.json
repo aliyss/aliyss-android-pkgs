@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mirfatif.mylocation_108.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O1ZhvWGVk9qwc293FbbeQb5a09UwiIqso40DnoMXLX0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O1ZhvWGVk9qwc293FbbeQb5a09UwiIqso40DnoMXLX0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O1ZhvWGVk9qwc293FbbeQb5a09UwiIqso40DnoMXLX0="
+    }
+  },
+  "version": "v1.08-foss"
+}

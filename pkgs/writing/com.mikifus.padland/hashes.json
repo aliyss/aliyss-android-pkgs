@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mikifus.padland_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5/VMZ70G/90l37nPLO9W5lzpBihMY9KC/9E4Mj/JLl8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5/VMZ70G/90l37nPLO9W5lzpBihMY9KC/9E4Mj/JLl8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5/VMZ70G/90l37nPLO9W5lzpBihMY9KC/9E4Mj/JLl8="
+    }
+  },
+  "version": "3.6"
+}

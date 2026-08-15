@@ -1,0 +1,8 @@
+{
+  "package": "com.thatsmanmeet.taskyapp",
+  "signerFingerprints": [
+    "7E:EF:49:F0:E0:16:02:60:00:F0:0D:A2:01:20:63:2B:90:D8:98:64:0B:65:D7:85:CA:F6:A5:87:C3:82:72:4F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

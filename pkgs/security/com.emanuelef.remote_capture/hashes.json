@@ -1,0 +1,18 @@
+{
+  "apkName": "com.emanuelef.remote_capture_91.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9HhVrmkVv68q4omjJ6FDTrQGd3EEX2nKX1Z6+S5ZDRQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9HhVrmkVv68q4omjJ6FDTrQGd3EEX2nKX1Z6+S5ZDRQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9HhVrmkVv68q4omjJ6FDTrQGd3EEX2nKX1Z6+S5ZDRQ="
+    }
+  },
+  "version": "1.9.1"
+}

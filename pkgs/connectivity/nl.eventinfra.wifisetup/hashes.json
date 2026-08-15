@@ -1,0 +1,18 @@
+{
+  "apkName": "nl.eventinfra.wifisetup_20231222.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qgygUunkiteUX5qlNfX9aRAYpTVqj/lbDlv5RmKlShA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qgygUunkiteUX5qlNfX9aRAYpTVqj/lbDlv5RmKlShA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qgygUunkiteUX5qlNfX9aRAYpTVqj/lbDlv5RmKlShA="
+    }
+  },
+  "version": "0.37"
+}

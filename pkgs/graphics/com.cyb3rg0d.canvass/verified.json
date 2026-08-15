@@ -1,0 +1,8 @@
+{
+  "package": "com.cyb3rg0d.canvass",
+  "signerFingerprints": [
+    "2C:EB:6F:E5:28:76:03:4C:59:C7:BA:26:D4:E0:03:4F:DC:5D:51:E3:7F:51:89:D7:8B:8A:FC:D4:D8:CE:E3:BA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

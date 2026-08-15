@@ -1,0 +1,18 @@
+{
+  "apkName": "org.scoutant.rpn_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fTL4UJ1PdN7HAVHb+a20tUnp1WYU3Z2ftW7YCPNrV3g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fTL4UJ1PdN7HAVHb+a20tUnp1WYU3Z2ftW7YCPNrV3g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fTL4UJ1PdN7HAVHb+a20tUnp1WYU3Z2ftW7YCPNrV3g="
+    }
+  },
+  "version": "1.3"
+}

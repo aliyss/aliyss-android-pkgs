@@ -1,0 +1,8 @@
+{
+  "package": "lv.RIN4X.goldenratio",
+  "signerFingerprints": [
+    "98:EA:C9:07:23:A4:C6:94:93:DF:2B:41:6C:84:F9:31:58:BC:23:4C:48:81:2D:F1:F4:2A:9E:99:86:94:74:F4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

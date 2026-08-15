@@ -1,0 +1,18 @@
+{
+  "apkName": "org.isoron.uhabits_20301.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OQPTvj2w8WIq1hz1uyZ1FclaQGno3Ub3MklyGxu4Fz4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OQPTvj2w8WIq1hz1uyZ1FclaQGno3Ub3MklyGxu4Fz4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OQPTvj2w8WIq1hz1uyZ1FclaQGno3Ub3MklyGxu4Fz4="
+    }
+  },
+  "version": "2.3.1"
+}

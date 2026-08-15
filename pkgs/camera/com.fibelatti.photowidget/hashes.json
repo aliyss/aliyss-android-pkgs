@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fibelatti.photowidget_1450000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RpuqJqjuSqXFujul3+d9yXaGXAlbJtx+/eNieEglJKo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RpuqJqjuSqXFujul3+d9yXaGXAlbJtx+/eNieEglJKo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RpuqJqjuSqXFujul3+d9yXaGXAlbJtx+/eNieEglJKo="
+    }
+  },
+  "version": "1.45"
+}

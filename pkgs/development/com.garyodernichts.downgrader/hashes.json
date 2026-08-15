@@ -1,0 +1,18 @@
+{
+  "apkName": "com.garyodernichts.downgrader_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-28wZ8bVW5YJo9b737Codqm3panV+0cQlumrrG3iTE7A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-28wZ8bVW5YJo9b737Codqm3panV+0cQlumrrG3iTE7A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-28wZ8bVW5YJo9b737Codqm3panV+0cQlumrrG3iTE7A="
+    }
+  },
+  "version": "1.1"
+}

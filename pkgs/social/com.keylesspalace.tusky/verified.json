@@ -1,0 +1,8 @@
+{
+  "package": "com.keylesspalace.tusky",
+  "signerFingerprints": [
+    "E9:46:90:1F:12:BD:49:C6:4D:E7:02:A5:32:11:4E:58:C3:AB:2A:6F:18:D1:CD:9B:78:63:2B:AA:D4:44:54:E3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

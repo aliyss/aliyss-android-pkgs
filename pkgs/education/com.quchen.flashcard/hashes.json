@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quchen.flashcard_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xRrkMRHceRlRj9cMDlY4odtlewNLfoT/7o//vgzD0KU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xRrkMRHceRlRj9cMDlY4odtlewNLfoT/7o//vgzD0KU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xRrkMRHceRlRj9cMDlY4odtlewNLfoT/7o//vgzD0KU="
+    }
+  },
+  "version": "v1.7.1"
+}

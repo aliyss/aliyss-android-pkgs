@@ -1,0 +1,8 @@
+{
+  "package": "io.github.auag0.hidemocklocation",
+  "signerFingerprints": [
+    "06:C1:9B:8A:EB:0F:DF:14:BE:F3:1E:A3:48:34:D6:BA:7A:3F:38:85:67:28:FF:1F:A3:5E:33:4E:F7:FC:2D:B1"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

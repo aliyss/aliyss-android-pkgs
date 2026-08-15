@@ -1,0 +1,8 @@
+{
+  "package": "dev.rx.app2proxy",
+  "signerFingerprints": [
+    "D7:FB:1F:1B:32:52:62:BA:BD:79:B6:09:B1:D5:F3:73:E1:7D:09:64:D7:D4:7B:22:49:3B:06:F8:98:D8:DF:CD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

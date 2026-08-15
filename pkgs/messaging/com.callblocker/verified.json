@@ -1,0 +1,8 @@
+{
+  "package": "com.callblocker",
+  "signerFingerprints": [
+    "36:E5:9E:31:E1:75:2E:3D:88:1F:BC:57:43:A3:D0:8A:98:7C:05:0C:EB:C0:06:36:79:9B:0C:D5:C5:C6:BF:76"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

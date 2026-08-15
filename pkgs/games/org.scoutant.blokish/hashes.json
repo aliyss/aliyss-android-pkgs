@@ -1,0 +1,18 @@
+{
+  "apkName": "org.scoutant.blokish_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-scGyZXzAkJUEUQKBKp16PShqPPm9DxzGP7dVVQAvXJE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-scGyZXzAkJUEUQKBKp16PShqPPm9DxzGP7dVVQAvXJE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-scGyZXzAkJUEUQKBKp16PShqPPm9DxzGP7dVVQAvXJE="
+    }
+  },
+  "version": "3.6"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.goushik.upiwallet",
+  "signerFingerprints": [
+    "04:35:18:C3:EC:65:EB:37:92:93:68:FE:13:4D:7D:A8:31:0B:AF:AB:AC:5A:8B:3E:FB:13:73:D0:5B:B3:BE:C6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

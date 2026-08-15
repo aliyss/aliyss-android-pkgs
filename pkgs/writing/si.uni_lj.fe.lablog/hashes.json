@@ -1,0 +1,18 @@
+{
+  "apkName": "si.uni_lj.fe.lablog_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mUyl/zEfbK74Ct+jJcYPBWFST0SjJOlrGlJG52Kk38I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mUyl/zEfbK74Ct+jJcYPBWFST0SjJOlrGlJG52Kk38I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mUyl/zEfbK74Ct+jJcYPBWFST0SjJOlrGlJG52Kk38I="
+    }
+  },
+  "version": "1.15"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.daemon.ssh",
+  "signerFingerprints": [
+    "81:99:41:D0:0C:32:95:33:AF:BE:3A:8C:5B:08:39:26:91:92:C6:2C:88:6F:E2:AF:40:DD:97:41:D8:EA:D3:5C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

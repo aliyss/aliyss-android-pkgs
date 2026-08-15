@@ -1,0 +1,8 @@
+{
+  "package": "com.yourname.pdftoolkit",
+  "signerFingerprints": [
+    "64:65:FA:23:46:26:C9:C2:DE:98:4B:A0:B1:8E:C5:32:EF:95:CF:AA:8E:1B:18:A0:C0:A9:8A:4E:B1:20:32:E0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

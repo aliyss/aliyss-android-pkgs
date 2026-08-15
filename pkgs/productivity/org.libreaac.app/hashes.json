@@ -1,0 +1,18 @@
+{
+  "apkName": "org.libreaac.app_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BQKJW1J6H3oZVNVJnUhckpgO4LBX9BLtuL12P7N1uiQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BQKJW1J6H3oZVNVJnUhckpgO4LBX9BLtuL12P7N1uiQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BQKJW1J6H3oZVNVJnUhckpgO4LBX9BLtuL12P7N1uiQ="
+    }
+  },
+  "version": "0.1.13"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nima.wikianime_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XoImACso5vSUnnnVgYqPNU9ZVin18uCRDFPyN5yfKvM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XoImACso5vSUnnnVgYqPNU9ZVin18uCRDFPyN5yfKvM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XoImACso5vSUnnnVgYqPNU9ZVin18uCRDFPyN5yfKvM="
+    }
+  },
+  "version": "1.0.1"
+}

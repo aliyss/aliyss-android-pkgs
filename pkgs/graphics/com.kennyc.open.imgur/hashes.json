@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kennyc.open.imgur_88.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iYN83IIhEWXF7TfcBQzLmWrVzrr++VWR/NfFhjiB2NA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iYN83IIhEWXF7TfcBQzLmWrVzrr++VWR/NfFhjiB2NA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iYN83IIhEWXF7TfcBQzLmWrVzrr++VWR/NfFhjiB2NA="
+    }
+  },
+  "version": "4.6.4-F_Droid"
+}

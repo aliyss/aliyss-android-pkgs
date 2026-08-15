@@ -1,0 +1,8 @@
+{
+  "package": "io.github.deprec8.enigmadroid",
+  "signerFingerprints": [
+    "73:89:E0:F3:28:33:56:27:DE:9E:11:41:06:6B:BD:6F:C9:E6:4A:F5:38:A4:2D:94:15:FD:5C:AC:2C:AA:54:33"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

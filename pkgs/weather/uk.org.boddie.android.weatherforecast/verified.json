@@ -1,0 +1,8 @@
+{
+  "package": "uk.org.boddie.android.weatherforecast",
+  "signerFingerprints": [
+    "83:4E:19:B2:9F:0D:7A:05:9E:8F:E2:DE:B7:35:7E:5B:A0:3F:DB:74:FD:E2:22:79:35:DC:08:4A:4B:D7:ED:5E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

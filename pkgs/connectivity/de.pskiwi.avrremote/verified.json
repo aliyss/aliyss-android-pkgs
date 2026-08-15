@@ -1,0 +1,8 @@
+{
+  "package": "de.pskiwi.avrremote",
+  "signerFingerprints": [
+    "BD:8F:F2:A8:22:07:DC:90:C8:8E:F7:CE:B7:9C:1F:8C:63:13:F6:63:2A:3B:FA:29:4C:9F:29:DE:23:87:B4:50"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

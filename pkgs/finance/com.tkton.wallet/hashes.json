@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tkton.wallet_120.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m8qOyJm0mokOvo7C//PB+itZg48Bif8nsMmZr0L5EBg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m8qOyJm0mokOvo7C//PB+itZg48Bif8nsMmZr0L5EBg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m8qOyJm0mokOvo7C//PB+itZg48Bif8nsMmZr0L5EBg="
+    }
+  },
+  "version": "1.2"
+}

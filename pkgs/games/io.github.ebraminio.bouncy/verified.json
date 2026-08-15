@@ -1,0 +1,8 @@
+{
+  "package": "io.github.ebraminio.bouncy",
+  "signerFingerprints": [
+    "4E:01:5E:12:BC:0E:1A:E6:80:6E:DF:57:BE:FA:B9:0E:2D:CC:A4:77:DD:90:96:65:C8:7D:4F:29:D9:BE:29:B0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

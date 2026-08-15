@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.patri9ck.a2ln_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wi9MiMcKa7Cm4sh7F4gp5MIuTgY0w5FKb0iZZ0/2NY8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wi9MiMcKa7Cm4sh7F4gp5MIuTgY0w5FKb0iZZ0/2NY8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wi9MiMcKa7Cm4sh7F4gp5MIuTgY0w5FKb0iZZ0/2NY8="
+    }
+  },
+  "version": "1.4.3"
+}

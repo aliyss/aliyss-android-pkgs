@@ -1,0 +1,18 @@
+{
+  "apkName": "com.parseus.codecinfo_10028.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lElLlHbz0ofF+Rd3Dog+wKy6arv5Iug4i+GRx44sCwA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lElLlHbz0ofF+Rd3Dog+wKy6arv5Iug4i+GRx44sCwA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lElLlHbz0ofF+Rd3Dog+wKy6arv5Iug4i+GRx44sCwA="
+    }
+  },
+  "version": "2.9.0"
+}

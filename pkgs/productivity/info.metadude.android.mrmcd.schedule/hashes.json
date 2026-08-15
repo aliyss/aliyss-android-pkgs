@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.mrmcd.schedule_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bKbQAV371n8eHCB2oae6ttROqKC+zsBFZGxOmsS/EPE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bKbQAV371n8eHCB2oae6ttROqKC+zsBFZGxOmsS/EPE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bKbQAV371n8eHCB2oae6ttROqKC+zsBFZGxOmsS/EPE="
+    }
+  },
+  "version": "1.72.0-MRMCD-Edition"
+}

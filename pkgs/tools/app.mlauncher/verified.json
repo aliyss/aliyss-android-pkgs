@@ -1,0 +1,8 @@
+{
+  "package": "app.mlauncher",
+  "signerFingerprints": [
+    "43:13:61:EE:BC:9D:05:5E:D7:08:12:5D:EF:85:42:3C:70:F0:5C:10:F0:4C:C6:C2:5E:2E:10:18:70:0E:AF:D7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

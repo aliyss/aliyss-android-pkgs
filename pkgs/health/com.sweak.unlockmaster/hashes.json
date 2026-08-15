@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sweak.unlockmaster_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4AUGhwVoi3wSyVq9Em/5U+wx7f8nl8H0Vx67Rh8lcQc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4AUGhwVoi3wSyVq9Em/5U+wx7f8nl8H0Vx67Rh8lcQc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4AUGhwVoi3wSyVq9Em/5U+wx7f8nl8H0Vx67Rh8lcQc="
+    }
+  },
+  "version": "1.5.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ma.tehro_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZWHCVcuAZdLLilxaSIHyGkUu3yIRPg+rSy9dCOy3qRA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZWHCVcuAZdLLilxaSIHyGkUu3yIRPg+rSy9dCOy3qRA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZWHCVcuAZdLLilxaSIHyGkUu3yIRPg+rSy9dCOy3qRA="
+    }
+  },
+  "version": "1.0.0"
+}

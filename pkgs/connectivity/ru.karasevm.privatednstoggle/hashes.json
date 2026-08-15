@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.karasevm.privatednstoggle_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fUIncYj57rIZwgPp3+iUuQZkiVvCWjhHJ5rBeG62sm4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fUIncYj57rIZwgPp3+iUuQZkiVvCWjhHJ5rBeG62sm4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fUIncYj57rIZwgPp3+iUuQZkiVvCWjhHJ5rBeG62sm4="
+    }
+  },
+  "version": "1.11.0"
+}

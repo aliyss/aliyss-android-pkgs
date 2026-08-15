@@ -1,0 +1,18 @@
+{
+  "apkName": "com.eblan.launcher_90.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5iofZITCsMz6MJNAbqzWpXC6avQrBKITyBdFMI0jnvA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5iofZITCsMz6MJNAbqzWpXC6avQrBKITyBdFMI0jnvA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5iofZITCsMz6MJNAbqzWpXC6avQrBKITyBdFMI0jnvA="
+    }
+  },
+  "version": "0.9.0-alpha"
+}

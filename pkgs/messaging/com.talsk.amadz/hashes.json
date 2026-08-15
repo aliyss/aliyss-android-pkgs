@@ -1,0 +1,18 @@
+{
+  "apkName": "com.talsk.amadz_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-M3OfRXGnk6H++gi9N+YENNl1osq3h6hFqIApEb8Bmic="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M3OfRXGnk6H++gi9N+YENNl1osq3h6hFqIApEb8Bmic="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M3OfRXGnk6H++gi9N+YENNl1osq3h6hFqIApEb8Bmic="
+    }
+  },
+  "version": "1.1.4"
+}

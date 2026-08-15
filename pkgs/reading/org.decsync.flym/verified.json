@@ -1,0 +1,8 @@
+{
+  "package": "org.decsync.flym",
+  "signerFingerprints": [
+    "BC:F5:58:E6:EE:E7:BF:3F:9E:37:FE:A4:E4:75:87:28:08:A9:15:49:17:C3:E6:E3:49:5C:11:80:AF:77:F9:8F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

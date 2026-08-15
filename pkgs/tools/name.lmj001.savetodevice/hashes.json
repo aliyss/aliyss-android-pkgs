@@ -1,0 +1,18 @@
+{
+  "apkName": "name.lmj001.savetodevice_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m3tbrGLe71bwTDh397cF91RcHGe1J8Y1ewXy/oSL3W4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m3tbrGLe71bwTDh397cF91RcHGe1J8Y1ewXy/oSL3W4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m3tbrGLe71bwTDh397cF91RcHGe1J8Y1ewXy/oSL3W4="
+    }
+  },
+  "version": "0.4.0"
+}

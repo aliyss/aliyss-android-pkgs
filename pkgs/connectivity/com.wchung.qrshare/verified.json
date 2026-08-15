@@ -1,0 +1,8 @@
+{
+  "package": "com.wchung.qrshare",
+  "signerFingerprints": [
+    "E4:2F:C5:90:CE:BB:FF:B1:43:42:70:CD:22:6D:6D:70:33:7D:04:41:95:85:C5:36:52:D8:0C:EB:94:2B:38:29"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.wardellbagby.lyricistant",
+  "signerFingerprints": [
+    "0D:C7:90:BE:7C:B5:D1:59:B4:B0:C9:7D:B9:48:60:8D:D3:67:EA:7F:34:00:E3:C1:4F:CD:6B:ED:2C:97:5D:3F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

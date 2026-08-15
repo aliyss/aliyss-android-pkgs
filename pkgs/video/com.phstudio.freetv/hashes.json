@@ -1,0 +1,18 @@
+{
+  "apkName": "com.phstudio.freetv_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Hq5ExOSi1SOncchz+K5/XLdIGyHtSEWAf/ff1S27a/g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hq5ExOSi1SOncchz+K5/XLdIGyHtSEWAf/ff1S27a/g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hq5ExOSi1SOncchz+K5/XLdIGyHtSEWAf/ff1S27a/g="
+    }
+  },
+  "version": "1.5"
+}

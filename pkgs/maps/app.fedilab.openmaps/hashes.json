@@ -1,0 +1,18 @@
+{
+  "apkName": "app.fedilab.openmaps_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+PdOtO/YfSURPpYK8/FGmDkEL75NoO6gB1KQlEzF+1M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+PdOtO/YfSURPpYK8/FGmDkEL75NoO6gB1KQlEzF+1M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+PdOtO/YfSURPpYK8/FGmDkEL75NoO6gB1KQlEzF+1M="
+    }
+  },
+  "version": "1.3.0"
+}

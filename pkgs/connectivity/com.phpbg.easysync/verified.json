@@ -1,0 +1,8 @@
+{
+  "package": "com.phpbg.easysync",
+  "signerFingerprints": [
+    "86:73:B9:0B:F8:4E:3B:12:30:19:98:5B:14:05:BB:48:92:09:B3:80:53:F6:68:EB:0A:58:4C:21:42:FB:1E:16"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

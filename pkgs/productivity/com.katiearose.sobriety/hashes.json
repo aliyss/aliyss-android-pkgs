@@ -1,0 +1,18 @@
+{
+  "apkName": "com.katiearose.sobriety_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yei1LqjgxXzF16amQ8y/ksgHyYE57CtOZ/+3XkvpsOw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yei1LqjgxXzF16amQ8y/ksgHyYE57CtOZ/+3XkvpsOw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yei1LqjgxXzF16amQ8y/ksgHyYE57CtOZ/+3XkvpsOw="
+    }
+  },
+  "version": "v10.0.0"
+}

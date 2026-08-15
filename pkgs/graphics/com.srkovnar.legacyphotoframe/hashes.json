@@ -1,0 +1,18 @@
+{
+  "apkName": "com.srkovnar.legacyphotoframe_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-I08ecVWejn8OnqQ83Kar3Efd2sqY3OcEl3PYpeoF2wY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I08ecVWejn8OnqQ83Kar3Efd2sqY3OcEl3PYpeoF2wY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I08ecVWejn8OnqQ83Kar3Efd2sqY3OcEl3PYpeoF2wY="
+    }
+  },
+  "version": "1.3.0"
+}

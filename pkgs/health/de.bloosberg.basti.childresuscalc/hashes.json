@@ -1,0 +1,18 @@
+{
+  "apkName": "de.bloosberg.basti.childresuscalc_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IcO09tVfZXWs9j+RiSpJ1P4lBq1L00i8VBg0jTp430U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IcO09tVfZXWs9j+RiSpJ1P4lBq1L00i8VBg0jTp430U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IcO09tVfZXWs9j+RiSpJ1P4lBq1L00i8VBg0jTp430U="
+    }
+  },
+  "version": "1.0"
+}

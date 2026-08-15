@@ -1,0 +1,18 @@
+{
+  "apkName": "com.languageapp.laetle_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-y6WHHPrdmjfR36wZrC6EYSo8hUVk3fKjWW0Bx1t/Npw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y6WHHPrdmjfR36wZrC6EYSo8hUVk3fKjWW0Bx1t/Npw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y6WHHPrdmjfR36wZrC6EYSo8hUVk3fKjWW0Bx1t/Npw="
+    }
+  },
+  "version": "7.1.1"
+}

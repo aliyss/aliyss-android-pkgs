@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.abdurazaaqmohammed.ApkExtractor_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ah9T8YSpiZGcyf+38p+q3XP4kgDzW1po+a+RW42bl4c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ah9T8YSpiZGcyf+38p+q3XP4kgDzW1po+a+RW42bl4c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ah9T8YSpiZGcyf+38p+q3XP4kgDzW1po+a+RW42bl4c="
+    }
+  },
+  "version": "1.2.1"
+}

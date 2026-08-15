@@ -1,0 +1,18 @@
+{
+  "apkName": "org.smssecure.smssecure_211.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8/viiH6NOUrcgFZ0IJKOXts3lf8Oz0l7DsSq1Jn8/+c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8/viiH6NOUrcgFZ0IJKOXts3lf8Oz0l7DsSq1Jn8/+c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8/viiH6NOUrcgFZ0IJKOXts3lf8Oz0l7DsSq1Jn8/+c="
+    }
+  },
+  "version": "0.16.12-unstable"
+}

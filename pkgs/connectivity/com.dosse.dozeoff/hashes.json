@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dosse.dozeoff_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UjKcVWauXcgHEmf0wQ30iiyON+7ya+0QMtiCPv6pYzk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UjKcVWauXcgHEmf0wQ30iiyON+7ya+0QMtiCPv6pYzk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UjKcVWauXcgHEmf0wQ30iiyON+7ya+0QMtiCPv6pYzk="
+    }
+  },
+  "version": "1.2"
+}

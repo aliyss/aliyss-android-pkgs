@@ -1,0 +1,8 @@
+{
+  "package": "me.timeto.app",
+  "signerFingerprints": [
+    "69:34:15:94:49:96:7F:F5:44:6A:76:6D:0D:8B:6E:E9:C0:F6:8D:E7:0E:1B:B8:5C:61:40:59:9E:4E:47:77:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

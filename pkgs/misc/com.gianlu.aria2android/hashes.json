@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gianlu.aria2android_77.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xTJUNiW0kYW0jUmefjrE65XOYD5FhB8u0Oi4hQAHKl4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xTJUNiW0kYW0jUmefjrE65XOYD5FhB8u0Oi4hQAHKl4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xTJUNiW0kYW0jUmefjrE65XOYD5FhB8u0Oi4hQAHKl4="
+    }
+  },
+  "version": "2.7.0"
+}

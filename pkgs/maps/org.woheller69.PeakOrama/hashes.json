@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.PeakOrama_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Vh+I5alTKLVPVV8mlNe/TNg0yx7LiIAMFDbU8Av5gvg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Vh+I5alTKLVPVV8mlNe/TNg0yx7LiIAMFDbU8Av5gvg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Vh+I5alTKLVPVV8mlNe/TNg0yx7LiIAMFDbU8Av5gvg="
+    }
+  },
+  "version": "3.5"
+}

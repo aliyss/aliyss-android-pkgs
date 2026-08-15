@@ -1,0 +1,18 @@
+{
+  "apkName": "org.surrel.facebooknotifications_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FF2NGCU5a/s4GV1381VvRSnuFlnFUCsKgY8yYLx6fGc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FF2NGCU5a/s4GV1381VvRSnuFlnFUCsKgY8yYLx6fGc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FF2NGCU5a/s4GV1381VvRSnuFlnFUCsKgY8yYLx6fGc="
+    }
+  },
+  "version": "1.12.1"
+}

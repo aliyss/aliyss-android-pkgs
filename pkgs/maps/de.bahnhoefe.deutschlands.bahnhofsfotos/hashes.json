@@ -1,0 +1,18 @@
+{
+  "apkName": "de.bahnhoefe.deutschlands.bahnhofsfotos_99.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OBD2gU9fDRWEZ9puuyyl4bB7/NUBaOX/5GVFB0XItgA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OBD2gU9fDRWEZ9puuyyl4bB7/NUBaOX/5GVFB0XItgA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OBD2gU9fDRWEZ9puuyyl4bB7/NUBaOX/5GVFB0XItgA="
+    }
+  },
+  "version": "16.6.0"
+}

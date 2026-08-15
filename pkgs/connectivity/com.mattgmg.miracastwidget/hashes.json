@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mattgmg.miracastwidget_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-me1xuPKDQ8xeq/L9SPYlvMB6HdzXmGbY3fT7xnrQ6GA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-me1xuPKDQ8xeq/L9SPYlvMB6HdzXmGbY3fT7xnrQ6GA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-me1xuPKDQ8xeq/L9SPYlvMB6HdzXmGbY3fT7xnrQ6GA="
+    }
+  },
+  "version": "3.1"
+}

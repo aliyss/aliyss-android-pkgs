@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.sms_automatic_forwarding_2030411.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Pv54AU4OgI3844uoHwT2Nzku9R1RDwBBSOvzLiPubIo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pv54AU4OgI3844uoHwT2Nzku9R1RDwBBSOvzLiPubIo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pv54AU4OgI3844uoHwT2Nzku9R1RDwBBSOvzLiPubIo="
+    }
+  },
+  "version": "002.03.04-11API"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.taffo.lockscreenear_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cHUc9or5mLFwhznTEV+v6i7aWTT5csIObyfVkUbidBg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cHUc9or5mLFwhznTEV+v6i7aWTT5csIObyfVkUbidBg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cHUc9or5mLFwhznTEV+v6i7aWTT5csIObyfVkUbidBg="
+    }
+  },
+  "version": "3.14.2"
+}

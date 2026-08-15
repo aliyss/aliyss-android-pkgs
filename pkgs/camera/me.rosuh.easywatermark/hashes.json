@@ -1,0 +1,18 @@
+{
+  "apkName": "me.rosuh.easywatermark_21000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kH3DP2JxE+EdEutNLIEJF39CgzFG+IAPsf1i3ySCcE0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kH3DP2JxE+EdEutNLIEJF39CgzFG+IAPsf1i3ySCcE0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kH3DP2JxE+EdEutNLIEJF39CgzFG+IAPsf1i3ySCcE0="
+    }
+  },
+  "version": "2.10.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "foss.cnugteren.nlweer_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-euHZKWfZgurzxhRcgkKOHIOzuYUTlKIYTR5lxCB4cVU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-euHZKWfZgurzxhRcgkKOHIOzuYUTlKIYTR5lxCB4cVU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-euHZKWfZgurzxhRcgkKOHIOzuYUTlKIYTR5lxCB4cVU="
+    }
+  },
+  "version": "1.11.2"
+}

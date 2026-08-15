@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.netstat.locationindicatorwhitelist_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Nzv46C2BqhXH2tWnW0k82xiiluXCsl92BsA0XtcH5sM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nzv46C2BqhXH2tWnW0k82xiiluXCsl92BsA0XtcH5sM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nzv46C2BqhXH2tWnW0k82xiiluXCsl92BsA0XtcH5sM="
+    }
+  },
+  "version": "1.1"
+}

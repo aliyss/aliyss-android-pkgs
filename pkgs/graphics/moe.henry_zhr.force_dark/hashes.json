@@ -1,0 +1,18 @@
+{
+  "apkName": "moe.henry_zhr.force_dark_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zGRUaAXbG5TZdZPTRbLtSmiT0JNqESo6e2b8QS3IL5E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zGRUaAXbG5TZdZPTRbLtSmiT0JNqESo6e2b8QS3IL5E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zGRUaAXbG5TZdZPTRbLtSmiT0JNqESo6e2b8QS3IL5E="
+    }
+  },
+  "version": "2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.projectmaxs.module.ringermode",
+  "signerFingerprints": [
+    "A1:5D:CA:51:2E:89:90:CF:6B:3D:37:88:84:E8:1F:35:69:10:2E:AC:B0:9D:17:74:36:E1:94:3E:33:B9:30:9D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

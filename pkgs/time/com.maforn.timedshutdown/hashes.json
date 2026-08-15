@@ -1,0 +1,18 @@
+{
+  "apkName": "com.maforn.timedshutdown_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZWI9E0YqUzNxtx+YjrL5Z5oNJo3fwYa17N12urb3s3k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZWI9E0YqUzNxtx+YjrL5Z5oNJo3fwYa17N12urb3s3k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZWI9E0YqUzNxtx+YjrL5Z5oNJo3fwYa17N12urb3s3k="
+    }
+  },
+  "version": "v3.0"
+}

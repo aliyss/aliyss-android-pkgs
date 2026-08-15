@@ -1,0 +1,8 @@
+{
+  "package": "stasis.client.android",
+  "signerFingerprints": [
+    "D8:22:0A:5C:18:8C:48:64:FE:23:AE:1F:5F:78:B7:DC:9D:F2:D5:3F:A1:8B:C2:F7:AC:02:05:49:BF:F3:A2:C8"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.chayanforyou.quickball_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QdQRHX8SYGooyPfH12b4hQquaUyDtJSkBzwHIcf+2WY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QdQRHX8SYGooyPfH12b4hQquaUyDtJSkBzwHIcf+2WY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QdQRHX8SYGooyPfH12b4hQquaUyDtJSkBzwHIcf+2WY="
+    }
+  },
+  "version": "4.3.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.tengel.timescale_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ytsp8H22eq7ZJs6tgs8tsoA19Vzi5uWZgyDU/6UtFk4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ytsp8H22eq7ZJs6tgs8tsoA19Vzi5uWZgyDU/6UtFk4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ytsp8H22eq7ZJs6tgs8tsoA19Vzi5uWZgyDU/6UtFk4="
+    }
+  },
+  "version": "0.7.1"
+}

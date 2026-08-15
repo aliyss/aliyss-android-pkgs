@@ -1,0 +1,18 @@
+{
+  "apkName": "net.cyclestreets_1668.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DmQQeoSEnrAfEt0ckWHm5ug+klJEsK+YFOhBjm4rqBE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DmQQeoSEnrAfEt0ckWHm5ug+klJEsK+YFOhBjm4rqBE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DmQQeoSEnrAfEt0ckWHm5ug+klJEsK+YFOhBjm4rqBE="
+    }
+  },
+  "version": "3.12.0"
+}

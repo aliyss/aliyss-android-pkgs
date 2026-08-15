@@ -1,0 +1,18 @@
+{
+  "apkName": "de.mwvb.blockpuzzle_70.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tKvuAReEQXG1DfH/0m0WWcq4kOz/N1Q02aXH4wwG2ho="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tKvuAReEQXG1DfH/0m0WWcq4kOz/N1Q02aXH4wwG2ho="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tKvuAReEQXG1DfH/0m0WWcq4kOz/N1Q02aXH4wwG2ho="
+    }
+  },
+  "version": "7.0"
+}

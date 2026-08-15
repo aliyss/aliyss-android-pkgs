@@ -1,0 +1,18 @@
+{
+  "apkName": "soko.ekibun.stitch_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-A8KW9rlvM8jh4N2gbYQOlxF7KY2TR+kUlpRTJlwK+Zk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A8KW9rlvM8jh4N2gbYQOlxF7KY2TR+kUlpRTJlwK+Zk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A8KW9rlvM8jh4N2gbYQOlxF7KY2TR+kUlpRTJlwK+Zk="
+    }
+  },
+  "version": "v1.1.12"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.mesalabs.knoxpatch_8003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-//ePHAp6o+0qDbmM+6PRqfL5+QeuBFR22l1XjNn4c2U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-//ePHAp6o+0qDbmM+6PRqfL5+QeuBFR22l1XjNn4c2U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-//ePHAp6o+0qDbmM+6PRqfL5+QeuBFR22l1XjNn4c2U="
+    }
+  },
+  "version": "0.8.3"
+}

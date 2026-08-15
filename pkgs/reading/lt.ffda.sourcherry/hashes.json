@@ -1,0 +1,18 @@
+{
+  "apkName": "lt.ffda.sourcherry_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hOckwWPUzNwUY9tH1oTXs8B4ZyrKaNb7XSYqaVLEeI8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hOckwWPUzNwUY9tH1oTXs8B4ZyrKaNb7XSYqaVLEeI8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hOckwWPUzNwUY9tH1oTXs8B4ZyrKaNb7XSYqaVLEeI8="
+    }
+  },
+  "version": "1.8.0"
+}

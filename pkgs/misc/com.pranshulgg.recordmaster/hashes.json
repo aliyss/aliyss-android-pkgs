@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pranshulgg.recordmaster_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pBm9qZM/PfnaZFVTbgr3a2DwBfk7CQCiqIhrE6ipUjg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pBm9qZM/PfnaZFVTbgr3a2DwBfk7CQCiqIhrE6ipUjg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pBm9qZM/PfnaZFVTbgr3a2DwBfk7CQCiqIhrE6ipUjg="
+    }
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lukeneedham.braillekeyboard_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-c6NMtZfcJUsy7UUSj6aX14b+f1Q7aZr4UNZZVspzi6I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c6NMtZfcJUsy7UUSj6aX14b+f1Q7aZr4UNZZVspzi6I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c6NMtZfcJUsy7UUSj6aX14b+f1Q7aZr4UNZZVspzi6I="
+    }
+  },
+  "version": "1.4.2"
+}

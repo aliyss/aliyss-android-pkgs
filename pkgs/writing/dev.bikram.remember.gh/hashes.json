@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.bikram.remember.gh_130.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uoayhbj8X+Oj2nRUAUDZoA1xxJpMEH60kjsVo9rP76w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uoayhbj8X+Oj2nRUAUDZoA1xxJpMEH60kjsVo9rP76w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uoayhbj8X+Oj2nRUAUDZoA1xxJpMEH60kjsVo9rP76w="
+    }
+  },
+  "version": "1.3.0"
+}

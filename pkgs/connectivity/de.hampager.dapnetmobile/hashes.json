@@ -1,0 +1,18 @@
+{
+  "apkName": "de.hampager.dapnetmobile_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XzdzCmfM35JOi7dmGVRJF/kCAdorycSA1D0kI7Q5GVg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XzdzCmfM35JOi7dmGVRJF/kCAdorycSA1D0kI7Q5GVg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XzdzCmfM35JOi7dmGVRJF/kCAdorycSA1D0kI7Q5GVg="
+    }
+  },
+  "version": "1.2.1"
+}

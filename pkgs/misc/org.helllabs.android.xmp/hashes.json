@@ -1,0 +1,18 @@
+{
+  "apkName": "org.helllabs.android.xmp_87.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5SzhQ1lXeeWnXPVJ36SpbocJCdQWWMOKQJeEJ5ZYrgQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5SzhQ1lXeeWnXPVJ36SpbocJCdQWWMOKQJeEJ5ZYrgQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5SzhQ1lXeeWnXPVJ36SpbocJCdQWWMOKQJeEJ5ZYrgQ="
+    }
+  },
+  "version": "4.12.0"
+}

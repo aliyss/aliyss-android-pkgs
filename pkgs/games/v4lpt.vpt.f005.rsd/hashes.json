@@ -1,0 +1,18 @@
+{
+  "apkName": "v4lpt.vpt.f005.rsd_104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2w+rI6PNNOvFCO8MtD5EC1Qeth7ta/b1AHBCgvseHIE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2w+rI6PNNOvFCO8MtD5EC1Qeth7ta/b1AHBCgvseHIE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2w+rI6PNNOvFCO8MtD5EC1Qeth7ta/b1AHBCgvseHIE="
+    }
+  },
+  "version": "1.0.4"
+}

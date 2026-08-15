@@ -1,0 +1,8 @@
+{
+  "package": "org.itxtech.daedalus",
+  "signerFingerprints": [
+    "1A:D1:2F:09:82:A2:9A:12:C9:E2:C4:FB:D3:36:F8:78:69:06:06:FC:C8:31:88:83:FE:3D:29:B4:DE:69:B3:3D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.afrikaans_oss_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZusKl9NiUi13zJGam9tLgWiHKhT5bR7+I+0iUjpX6fA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZusKl9NiUi13zJGam9tLgWiHKhT5bR7+I+0iUjpX6fA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZusKl9NiUi13zJGam9tLgWiHKhT5bR7+I+0iUjpX6fA="
+    }
+  },
+  "version": "5.1.6158"
+}

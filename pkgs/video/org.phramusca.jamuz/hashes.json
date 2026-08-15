@@ -1,0 +1,18 @@
+{
+  "apkName": "org.phramusca.jamuz_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-11zhZhXiuWk8jO4cd8YIs0iKtaD86lzlJjs8mVnivT4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-11zhZhXiuWk8jO4cd8YIs0iKtaD86lzlJjs8mVnivT4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-11zhZhXiuWk8jO4cd8YIs0iKtaD86lzlJjs8mVnivT4="
+    }
+  },
+  "version": "0.6.14"
+}

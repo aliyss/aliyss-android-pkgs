@@ -1,0 +1,18 @@
+{
+  "apkName": "com.reddnek.syncplay_1000023000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iPbkPGIvP0q99O2FRcop9e3sqeZLkjGjI/5DELkTbIM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iPbkPGIvP0q99O2FRcop9e3sqeZLkjGjI/5DELkTbIM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iPbkPGIvP0q99O2FRcop9e3sqeZLkjGjI/5DELkTbIM="
+    }
+  },
+  "version": "0.23.0"
+}

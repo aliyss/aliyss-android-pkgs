@@ -1,0 +1,18 @@
+{
+  "apkName": "net.kevinboone.androidmediaserver_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1zhf5J0JytDDyLlCgR5MZrUw4+sGCxK4OU2MRZtgQmg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1zhf5J0JytDDyLlCgR5MZrUw4+sGCxK4OU2MRZtgQmg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1zhf5J0JytDDyLlCgR5MZrUw4+sGCxK4OU2MRZtgQmg="
+    }
+  },
+  "version": "0.0.8"
+}

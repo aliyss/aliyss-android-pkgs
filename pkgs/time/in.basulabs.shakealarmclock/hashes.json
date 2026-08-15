@@ -1,0 +1,18 @@
+{
+  "apkName": "in.basulabs.shakealarmclock_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xbv45jrY9FQCY5TNp9ZuojYKCF9yj2jYvBLIyv59OA0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xbv45jrY9FQCY5TNp9ZuojYKCF9yj2jYvBLIyv59OA0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xbv45jrY9FQCY5TNp9ZuojYKCF9yj2jYvBLIyv59OA0="
+    }
+  },
+  "version": "4.2.1"
+}

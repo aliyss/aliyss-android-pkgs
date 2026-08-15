@@ -1,0 +1,8 @@
+{
+  "package": "com.mrbimc.selinux",
+  "signerFingerprints": [
+    "DE:81:ED:15:F3:89:E7:18:53:38:18:4C:C6:C1:3A:D8:4D:5B:45:48:DC:D8:4B:9A:39:7E:DA:AA:C9:8D:CB:90"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

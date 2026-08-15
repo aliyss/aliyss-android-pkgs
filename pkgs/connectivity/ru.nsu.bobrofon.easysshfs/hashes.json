@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.nsu.bobrofon.easysshfs_103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fii3QeI5IDJ4M2eKLV6GaKFR2lyYU0ta12SQ6iVvzWc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fii3QeI5IDJ4M2eKLV6GaKFR2lyYU0ta12SQ6iVvzWc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fii3QeI5IDJ4M2eKLV6GaKFR2lyYU0ta12SQ6iVvzWc="
+    }
+  },
+  "version": "0.5.18"
+}

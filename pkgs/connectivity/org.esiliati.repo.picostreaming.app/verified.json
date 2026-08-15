@@ -1,0 +1,8 @@
+{
+  "package": "org.esiliati.repo.picostreaming.app",
+  "signerFingerprints": [
+    "AA:95:3C:7B:BF:80:4E:A0:11:63:AC:A7:0D:9F:A0:2F:B6:16:30:A4:1C:90:73:4A:45:82:81:80:F8:A5:59:2E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

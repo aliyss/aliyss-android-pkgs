@@ -1,0 +1,8 @@
+{
+  "package": "app.hkTransport",
+  "signerFingerprints": [
+    "3D:18:0E:01:C8:3E:2B:2B:5D:BD:37:4F:C2:59:B2:20:E1:FE:94:AA:67:2F:D4:67:73:1B:A4:F7:E5:4A:A8:56"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

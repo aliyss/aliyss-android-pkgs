@@ -1,0 +1,18 @@
+{
+  "apkName": "net.eneiluj.moneybuster_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mwSz2qpqHuOw+ygP7BowUqsx6GbKNok9UnYxtC50BBI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mwSz2qpqHuOw+ygP7BowUqsx6GbKNok9UnYxtC50BBI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mwSz2qpqHuOw+ygP7BowUqsx6GbKNok9UnYxtC50BBI="
+    }
+  },
+  "version": "0.1.20"
+}

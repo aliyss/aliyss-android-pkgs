@@ -1,0 +1,8 @@
+{
+  "package": "org.ttrssreader",
+  "signerFingerprints": [
+    "EC:C7:6F:AC:21:FB:A9:1E:7E:03:70:A9:5C:29:73:62:A4:DF:0E:AF:CD:5A:01:B7:BE:2F:F6:82:2E:08:F7:00"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

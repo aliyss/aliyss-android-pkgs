@@ -1,0 +1,8 @@
+{
+  "package": "partisan.weforge.xyz.pulse",
+  "signerFingerprints": [
+    "73:99:6F:7B:65:D9:72:8A:59:32:2B:33:81:00:72:D2:78:BF:69:71:DB:85:84:C2:74:62:BF:A1:E3:F4:DC:79"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

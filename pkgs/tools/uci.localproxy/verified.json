@@ -1,0 +1,8 @@
+{
+  "package": "uci.localproxy",
+  "signerFingerprints": [
+    "A8:7A:C2:F7:B2:D9:27:23:9B:AC:C5:75:BA:40:9D:CB:49:08:92:25:62:A4:C4:29:CE:A0:E4:D3:3B:AB:49:52"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

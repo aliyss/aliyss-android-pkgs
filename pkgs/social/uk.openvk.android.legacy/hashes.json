@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.openvk.android.legacy_241.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OfmM0iEyvzhDpfVBs4IGHgz89vtHTqUxfqfXe7cDEr0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OfmM0iEyvzhDpfVBs4IGHgz89vtHTqUxfqfXe7cDEr0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OfmM0iEyvzhDpfVBs4IGHgz89vtHTqUxfqfXe7cDEr0="
+    }
+  },
+  "version": "1.2.241-f"
+}

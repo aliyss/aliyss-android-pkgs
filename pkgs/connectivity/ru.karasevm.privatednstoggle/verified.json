@@ -1,0 +1,8 @@
+{
+  "package": "ru.karasevm.privatednstoggle",
+  "signerFingerprints": [
+    "13:47:C5:1F:78:D0:56:FB:15:FE:1E:EA:A1:A0:F3:4C:6A:08:E2:BF:E4:BC:E8:EA:1A:1A:BD:3D:B7:E2:C3:FB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

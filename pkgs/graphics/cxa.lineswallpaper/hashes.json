@@ -1,0 +1,18 @@
+{
+  "apkName": "cxa.lineswallpaper_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-A0ZcY2AzyXNSWXbaJJhD01Kf0msgsHhw4ZbpSIzfFdU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A0ZcY2AzyXNSWXbaJJhD01Kf0msgsHhw4ZbpSIzfFdU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A0ZcY2AzyXNSWXbaJJhD01Kf0msgsHhw4ZbpSIzfFdU="
+    }
+  },
+  "version": "1.6"
+}

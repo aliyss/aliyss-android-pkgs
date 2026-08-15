@@ -1,0 +1,18 @@
+{
+  "apkName": "com.crossbowffs.nekosms_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qD0rUWnM5o1fdyPkIpXmHefr2cZJWpchq1nNPw8CYAg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qD0rUWnM5o1fdyPkIpXmHefr2cZJWpchq1nNPw8CYAg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qD0rUWnM5o1fdyPkIpXmHefr2cZJWpchq1nNPw8CYAg="
+    }
+  },
+  "version": "0.22.0"
+}

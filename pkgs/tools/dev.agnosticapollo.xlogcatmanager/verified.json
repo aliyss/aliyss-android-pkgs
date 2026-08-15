@@ -1,0 +1,8 @@
+{
+  "package": "dev.agnosticapollo.xlogcatmanager",
+  "signerFingerprints": [
+    "44:DE:93:1B:0E:69:37:CC:56:0F:3E:75:F3:FC:95:1B:A7:30:E1:9E:CA:EB:2D:EA:C6:51:02:DA:D1:44:25:1B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

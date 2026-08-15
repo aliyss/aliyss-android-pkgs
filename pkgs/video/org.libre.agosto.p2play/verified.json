@@ -1,0 +1,8 @@
+{
+  "package": "org.libre.agosto.p2play",
+  "signerFingerprints": [
+    "11:C6:63:3E:D5:48:5E:48:76:2E:FF:59:D9:50:10:C2:08:B3:F7:2B:D1:D4:6C:1A:98:C1:F6:B1:01:34:3B:8A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.wivewa.dialer_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OPfIj/uAAx78x/agA17A/3SSmKAn1PtrRpSvHsJ9Krk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OPfIj/uAAx78x/agA17A/3SSmKAn1PtrRpSvHsJ9Krk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OPfIj/uAAx78x/agA17A/3SSmKAn1PtrRpSvHsJ9Krk="
+    }
+  },
+  "version": "2.0.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ly.com.tahaben.farhan_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qSR3TaHsmBXVvRwAqI21CDyBS2XsJmmOvZLmnq2DcyU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qSR3TaHsmBXVvRwAqI21CDyBS2XsJmmOvZLmnq2DcyU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qSR3TaHsmBXVvRwAqI21CDyBS2XsJmmOvZLmnq2DcyU="
+    }
+  },
+  "version": "1.0.0-RC4"
+}

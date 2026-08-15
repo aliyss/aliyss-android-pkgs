@@ -1,0 +1,18 @@
+{
+  "apkName": "at.h4x.awhip_10100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7wiW6/3eOcghXwqIwTCwlKn3XxfGyJTp+1DfgCyN0Qw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7wiW6/3eOcghXwqIwTCwlKn3XxfGyJTp+1DfgCyN0Qw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7wiW6/3eOcghXwqIwTCwlKn3XxfGyJTp+1DfgCyN0Qw="
+    }
+  },
+  "version": "1.1.0"
+}

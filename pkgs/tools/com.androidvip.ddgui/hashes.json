@@ -1,0 +1,18 @@
+{
+  "apkName": "com.androidvip.ddgui_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YR/4+wBQIvQi56LyUrWlCwfZpzWhAJFXC8XL+iJ7Bxs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YR/4+wBQIvQi56LyUrWlCwfZpzWhAJFXC8XL+iJ7Bxs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YR/4+wBQIvQi56LyUrWlCwfZpzWhAJFXC8XL+iJ7Bxs="
+    }
+  },
+  "version": "1.0.1"
+}

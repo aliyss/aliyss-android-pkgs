@@ -1,0 +1,8 @@
+{
+  "package": "org.schabi.stethox",
+  "signerFingerprints": [
+    "2A:EB:32:38:E7:CD:86:B8:8E:E1:CF:44:6E:96:27:24:88:20:26:9C:86:41:88:8A:89:0F:3A:A2:11:5A:E5:91"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.koofr.vault_125001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NbNgVu5E1Ono5q2UjBA2JsLiEEbMyWQu1xN7VVRDTUQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NbNgVu5E1Ono5q2UjBA2JsLiEEbMyWQu1xN7VVRDTUQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NbNgVu5E1Ono5q2UjBA2JsLiEEbMyWQu1xN7VVRDTUQ="
+    }
+  },
+  "version": "0.1.25"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.pyamsoft.tetherfi",
+  "signerFingerprints": [
+    "CC:6F:EC:7D:42:6E:F1:F0:B2:8B:BF:79:81:7B:44:6C:E1:D8:96:06:AC:E7:7D:CB:8A:26:C5:B8:C2:C4:35:CF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

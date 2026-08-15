@@ -1,0 +1,8 @@
+{
+  "package": "com.reddnek.syncplay",
+  "signerFingerprints": [
+    "CF:EE:D0:F6:45:8D:B9:03:EF:44:F5:58:ED:97:A6:ED:D0:A6:56:BB:76:BC:64:51:78:B3:F2:66:DE:2A:95:66"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

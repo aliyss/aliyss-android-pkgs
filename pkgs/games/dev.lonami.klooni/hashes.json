@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.lonami.klooni_860.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VWQc2126fzDB0inPijTzkKj/az9gzf+bRdJ3kZ8zziQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VWQc2126fzDB0inPijTzkKj/az9gzf+bRdJ3kZ8zziQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VWQc2126fzDB0inPijTzkKj/az9gzf+bRdJ3kZ8zziQ="
+    }
+  },
+  "version": "0.8.6"
+}

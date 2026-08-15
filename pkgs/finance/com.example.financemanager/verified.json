@@ -1,0 +1,8 @@
+{
+  "package": "com.example.financemanager",
+  "signerFingerprints": [
+    "AA:AE:AB:0B:1F:47:81:06:29:0D:89:04:90:17:41:BD:85:3A:E3:24:1A:E9:E9:F1:C2:D4:80:97:DC:96:08:EE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

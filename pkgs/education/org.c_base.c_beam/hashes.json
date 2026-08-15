@@ -1,0 +1,18 @@
+{
+  "apkName": "org.c_base.c_beam_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4oi7BnocR2a3F+HMQj81HYAbtSKLEPHye7XjhrL2wT0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4oi7BnocR2a3F+HMQj81HYAbtSKLEPHye7XjhrL2wT0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4oi7BnocR2a3F+HMQj81HYAbtSKLEPHye7XjhrL2wT0="
+    }
+  },
+  "version": "26.07.0"
+}

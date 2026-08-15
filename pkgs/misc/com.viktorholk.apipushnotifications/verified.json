@@ -1,0 +1,8 @@
+{
+  "package": "com.viktorholk.apipushnotifications",
+  "signerFingerprints": [
+    "D5:25:C1:D5:97:48:B9:70:40:90:AB:0E:DD:7C:78:7D:9C:75:ED:A8:FA:AE:FF:77:87:6C:17:8D:24:C1:F6:06"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

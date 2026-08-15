@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mapcomplete_2349.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TOUpSRpUc6O0cruxq9fd8+4cBRY+DtCWce5J56p2wxI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TOUpSRpUc6O0cruxq9fd8+4cBRY+DtCWce5J56p2wxI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TOUpSRpUc6O0cruxq9fd8+4cBRY+DtCWce5J56p2wxI="
+    }
+  },
+  "version": "0.62.1"
+}

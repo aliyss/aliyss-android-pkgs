@@ -1,0 +1,8 @@
+{
+  "package": "tk.zwander.lockscreenwidgets",
+  "signerFingerprints": [
+    "2E:D2:E3:8C:D7:F5:F9:3C:2A:40:59:43:60:CF:3F:B0:8C:EC:FA:CF:1F:79:94:E5:9E:1C:E8:35:27:2C:CD:85"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

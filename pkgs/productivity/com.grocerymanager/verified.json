@@ -1,0 +1,8 @@
+{
+  "package": "com.grocerymanager",
+  "signerFingerprints": [
+    "94:9F:C1:CC:F2:2C:83:BF:AB:5E:B9:9B:C0:BC:DA:50:67:62:B3:30:36:3A:07:34:7C:0B:53:9B:A0:97:2F:A6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

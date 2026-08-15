@@ -1,0 +1,18 @@
+{
+  "apkName": "community.fairphone.checkup_20202.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HbQOhfrUXCbsEGYf3AZvHUMPIKGSTpzd1QHYL6br9So="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HbQOhfrUXCbsEGYf3AZvHUMPIKGSTpzd1QHYL6br9So="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HbQOhfrUXCbsEGYf3AZvHUMPIKGSTpzd1QHYL6br9So="
+    }
+  },
+  "version": "2.2.2"
+}

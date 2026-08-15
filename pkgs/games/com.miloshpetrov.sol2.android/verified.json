@@ -1,0 +1,8 @@
+{
+  "package": "com.miloshpetrov.sol2.android",
+  "signerFingerprints": [
+    "50:C0:01:7A:27:18:33:D8:A5:ED:2F:CF:0D:5A:3C:BD:0D:19:65:7C:86:69:46:D3:4E:05:E1:4C:0B:B7:3C:09"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

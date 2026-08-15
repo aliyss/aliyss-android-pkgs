@@ -1,0 +1,8 @@
+{
+  "package": "com.matrix.synapse.manager",
+  "signerFingerprints": [
+    "2F:F1:40:9F:DC:C4:2C:59:93:E6:1D:E3:02:3B:6F:B1:A8:A6:66:CF:DD:0C:8B:D7:44:E2:7E:3C:0E:9C:E0:32"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

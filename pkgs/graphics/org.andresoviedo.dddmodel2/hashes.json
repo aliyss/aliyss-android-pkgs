@@ -1,0 +1,18 @@
+{
+  "apkName": "org.andresoviedo.dddmodel2_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-W9Mh+Gyms1Nm3vYymsUGMIhrA69T8BBqtTt4kv/cpuw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W9Mh+Gyms1Nm3vYymsUGMIhrA69T8BBqtTt4kv/cpuw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W9Mh+Gyms1Nm3vYymsUGMIhrA69T8BBqtTt4kv/cpuw="
+    }
+  },
+  "version": "4.1.1"
+}

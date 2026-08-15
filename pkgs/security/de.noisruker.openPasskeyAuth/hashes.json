@@ -1,0 +1,18 @@
+{
+  "apkName": "de.noisruker.openPasskeyAuth_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yAi3CbkKiG/the3xnK/P+dtNkim60nNQI86TZ7/dw5I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yAi3CbkKiG/the3xnK/P+dtNkim60nNQI86TZ7/dw5I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yAi3CbkKiG/the3xnK/P+dtNkim60nNQI86TZ7/dw5I="
+    }
+  },
+  "version": "2.1.8"
+}

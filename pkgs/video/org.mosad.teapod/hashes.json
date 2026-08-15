@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mosad.teapod_100992.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zc4mDSJo3MxsK9C7ZwVlVMXh6wzJ3+jaoPwpBhNdVPE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zc4mDSJo3MxsK9C7ZwVlVMXh6wzJ3+jaoPwpBhNdVPE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zc4mDSJo3MxsK9C7ZwVlVMXh6wzJ3+jaoPwpBhNdVPE="
+    }
+  },
+  "version": "1.1.0-beta3"
+}

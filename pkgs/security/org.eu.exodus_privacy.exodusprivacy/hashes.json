@@ -1,0 +1,18 @@
+{
+  "apkName": "org.eu.exodus_privacy.exodusprivacy_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-d1jSwxibLH3rHD49dpQc4hwaHyw+lblGc8gVFGMsAXs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-d1jSwxibLH3rHD49dpQc4hwaHyw+lblGc8gVFGMsAXs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-d1jSwxibLH3rHD49dpQc4hwaHyw+lblGc8gVFGMsAXs="
+    }
+  },
+  "version": "3.3.2"
+}

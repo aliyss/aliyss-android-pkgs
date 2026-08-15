@@ -1,0 +1,8 @@
+{
+  "package": "de.michelinside.glucodatahandler",
+  "signerFingerprints": [
+    "6B:D6:31:06:CC:91:CF:62:BF:0B:16:4A:28:E5:DB:23:A8:05:5E:87:D9:DB:DD:50:B2:DC:76:0B:B3:7B:33:71"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

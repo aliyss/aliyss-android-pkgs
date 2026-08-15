@@ -1,0 +1,18 @@
+{
+  "apkName": "net.stargw.contactsimport_37.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3sAgg2Lx8r3paRDknT3x7IdlkBrWLaM4MeLWMFaoDrI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3sAgg2Lx8r3paRDknT3x7IdlkBrWLaM4MeLWMFaoDrI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3sAgg2Lx8r3paRDknT3x7IdlkBrWLaM4MeLWMFaoDrI="
+    }
+  },
+  "version": "37"
+}

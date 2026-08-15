@@ -1,0 +1,9 @@
+{
+  "package": "app.android.cloaked",
+  "signerFingerprints": [
+    "58:1D:49:7A:77:F9:97:EC:3D:5F:28:60:F8:76:0F:E2:75:C0:38:60:33:F4:8C:38:14:40:8B:6B:5E:3E:63:C3"
+  ],
+  "source": "privacyguides/verified-apps",
+  "source-license": "CC-BY-4.0",
+  "source-license-url": "https://github.com/privacyguides/verified-apps/blob/main/LICENSE.txt"
+}

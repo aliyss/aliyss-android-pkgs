@@ -1,0 +1,18 @@
+{
+  "apkName": "rocks.poopjournal.morse_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Z8UtLxQ+E9J8/n3Ii7PvBoPJn4UO+Tqy5P00tdZcCPM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z8UtLxQ+E9J8/n3Ii7PvBoPJn4UO+Tqy5P00tdZcCPM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z8UtLxQ+E9J8/n3Ii7PvBoPJn4UO+Tqy5P00tdZcCPM="
+    }
+  },
+  "version": "2.2"
+}

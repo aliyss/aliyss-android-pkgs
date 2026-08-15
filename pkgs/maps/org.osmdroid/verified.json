@@ -1,0 +1,8 @@
+{
+  "package": "org.osmdroid",
+  "signerFingerprints": [
+    "A4:40:C2:28:50:16:B2:6D:D3:4A:07:48:66:29:79:26:1F:C3:B5:5D:E4:29:00:D1:48:2F:3D:C6:D3:3E:F6:26"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.cheeserobot.btcwidget_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mK0D61bnZPrTsic24/mBh0wuR93kOayAAbkn01pC5IA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mK0D61bnZPrTsic24/mBh0wuR93kOayAAbkn01pC5IA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mK0D61bnZPrTsic24/mBh0wuR93kOayAAbkn01pC5IA="
+    }
+  },
+  "version": "5.0"
+}

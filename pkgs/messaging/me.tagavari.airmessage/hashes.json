@@ -1,0 +1,18 @@
+{
+  "apkName": "me.tagavari.airmessage_139.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xF2JATGRztmBa0nVJs3OQCB8xl7y9Or4Qf5ma/MEdTc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xF2JATGRztmBa0nVJs3OQCB8xl7y9Or4Qf5ma/MEdTc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xF2JATGRztmBa0nVJs3OQCB8xl7y9Or4Qf5ma/MEdTc="
+    }
+  },
+  "version": "3.5.2-fdroid"
+}

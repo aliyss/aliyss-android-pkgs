@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ligi.gobandroidhd.ai.gnugo_212.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-plPYlVPby0fAixDcR8WMT6ZiP9OJVieGnXSnx7X2cNw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-plPYlVPby0fAixDcR8WMT6ZiP9OJVieGnXSnx7X2cNw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-plPYlVPby0fAixDcR8WMT6ZiP9OJVieGnXSnx7X2cNw="
+    }
+  },
+  "version": "2.1.2"
+}

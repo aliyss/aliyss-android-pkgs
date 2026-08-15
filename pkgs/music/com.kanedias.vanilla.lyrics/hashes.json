@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kanedias.vanilla.lyrics_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4wCLbkIkpsdu0lOrA+LWwbCK9zPv/iH7uRufNAbqxJk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4wCLbkIkpsdu0lOrA+LWwbCK9zPv/iH7uRufNAbqxJk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4wCLbkIkpsdu0lOrA+LWwbCK9zPv/iH7uRufNAbqxJk="
+    }
+  },
+  "version": "1.3.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.monuk7735.nope.remote_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bEsQ2JcuvlgC0X7laKMdHAPPogIbN2IMQxlvbKpTHng="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bEsQ2JcuvlgC0X7laKMdHAPPogIbN2IMQxlvbKpTHng="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bEsQ2JcuvlgC0X7laKMdHAPPogIbN2IMQxlvbKpTHng="
+    }
+  },
+  "version": "2.3"
+}

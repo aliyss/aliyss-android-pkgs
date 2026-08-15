@@ -1,0 +1,8 @@
+{
+  "package": "com.kelani.sbdtracker",
+  "signerFingerprints": [
+    "15:D2:3F:2E:5E:E9:5E:BC:2A:53:0B:48:BE:6F:27:DA:D7:A5:68:F7:22:BC:81:9F:45:71:B3:47:0A:2F:F3:9D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

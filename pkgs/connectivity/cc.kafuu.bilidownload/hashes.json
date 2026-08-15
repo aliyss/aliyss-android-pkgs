@@ -1,0 +1,18 @@
+{
+  "apkName": "cc.kafuu.bilidownload_20305.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XFUUHAwkVJp77iTsnwSWtoQYVRZqfUw3LAPhujnWRNk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XFUUHAwkVJp77iTsnwSWtoQYVRZqfUw3LAPhujnWRNk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XFUUHAwkVJp77iTsnwSWtoQYVRZqfUw3LAPhujnWRNk="
+    }
+  },
+  "version": "2.3.5.foss"
+}

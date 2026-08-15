@@ -1,0 +1,18 @@
+{
+  "apkName": "com.virtual_pen_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EjDu+CdJxIB6aHCxn3pKQKDpkxepbUr5feNzfq3owHc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EjDu+CdJxIB6aHCxn3pKQKDpkxepbUr5feNzfq3owHc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EjDu+CdJxIB6aHCxn3pKQKDpkxepbUr5feNzfq3owHc="
+    }
+  },
+  "version": "1.0"
+}

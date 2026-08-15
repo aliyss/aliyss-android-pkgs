@@ -1,0 +1,18 @@
+{
+  "apkName": "org.gonbei774.pocketcheck_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cJgXnuUCW5dLNSxUIlozvDk4PHtOg+v/0Y6JMwWWKzk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cJgXnuUCW5dLNSxUIlozvDk4PHtOg+v/0Y6JMwWWKzk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cJgXnuUCW5dLNSxUIlozvDk4PHtOg+v/0Y6JMwWWKzk="
+    }
+  },
+  "version": "1.9.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vakarux.instadownload_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-waKYbz5bD7QDS47BKE8Y9ZSVLkqjzhqr9MLXK2wwljg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-waKYbz5bD7QDS47BKE8Y9ZSVLkqjzhqr9MLXK2wwljg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-waKYbz5bD7QDS47BKE8Y9ZSVLkqjzhqr9MLXK2wwljg="
+    }
+  },
+  "version": "2.5.0"
+}

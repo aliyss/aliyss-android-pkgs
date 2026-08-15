@@ -1,0 +1,8 @@
+{
+  "package": "net.daverix.urlforward",
+  "signerFingerprints": [
+    "28:4F:C9:CA:6B:78:0F:2D:FB:CB:0C:DE:AC:A8:68:5B:FA:7A:8D:5A:F0:C1:6F:15:78:2F:10:00:2E:DA:41:89"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gbros.tabslite_3860.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0/5/KjbEtFgctes4XRhJ7alLDzZxmKAJcdhcCQ195hw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0/5/KjbEtFgctes4XRhJ7alLDzZxmKAJcdhcCQ195hw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0/5/KjbEtFgctes4XRhJ7alLDzZxmKAJcdhcCQ195hw="
+    }
+  },
+  "version": "3.8.6"
+}

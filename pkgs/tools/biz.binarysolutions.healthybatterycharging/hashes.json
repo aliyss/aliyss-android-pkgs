@@ -1,0 +1,18 @@
+{
+  "apkName": "biz.binarysolutions.healthybatterycharging_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H79RcjJcdWVLC/+hF4lPgG/2G36PsQ0p9RHOWFA7Kmc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H79RcjJcdWVLC/+hF4lPgG/2G36PsQ0p9RHOWFA7Kmc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H79RcjJcdWVLC/+hF4lPgG/2G36PsQ0p9RHOWFA7Kmc="
+    }
+  },
+  "version": "2.1.3"
+}

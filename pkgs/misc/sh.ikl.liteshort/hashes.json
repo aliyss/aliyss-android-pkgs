@@ -1,0 +1,18 @@
+{
+  "apkName": "sh.ikl.liteshort_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ie/NfeYde7n/XT0/aq69EQa4TNWnObenA1LBA+5Q/pI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ie/NfeYde7n/XT0/aq69EQa4TNWnObenA1LBA+5Q/pI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ie/NfeYde7n/XT0/aq69EQa4TNWnObenA1LBA+5Q/pI="
+    }
+  },
+  "version": "v1.1.2"
+}

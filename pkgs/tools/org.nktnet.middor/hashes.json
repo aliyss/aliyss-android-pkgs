@@ -1,0 +1,18 @@
+{
+  "apkName": "org.nktnet.middor_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-x+rQPyanbvim7CW+dSG3VcWRgRUBL9ZLhI1sGet8gs4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x+rQPyanbvim7CW+dSG3VcWRgRUBL9ZLhI1sGet8gs4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x+rQPyanbvim7CW+dSG3VcWRgRUBL9ZLhI1sGet8gs4="
+    }
+  },
+  "version": "0.1.7"
+}

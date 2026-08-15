@@ -1,0 +1,18 @@
+{
+  "apkName": "net.sourceforge.dibdib.android.dib2qm_2430.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TuG99vrUBCW3NUuRjK2DbKHfH+u9cGHorf6UynwOQFo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TuG99vrUBCW3NUuRjK2DbKHfH+u9cGHorf6UynwOQFo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TuG99vrUBCW3NUuRjK2DbKHfH+u9cGHorf6UynwOQFo="
+    }
+  },
+  "version": "0.24.30"
+}

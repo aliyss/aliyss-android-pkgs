@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.quelltext.memory_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TdOVeYPjw/OMZz+JjZZZ1eAlH5cTe6tSVOr9zbyfonw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TdOVeYPjw/OMZz+JjZZZ1eAlH5cTe6tSVOr9zbyfonw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TdOVeYPjw/OMZz+JjZZZ1eAlH5cTe6tSVOr9zbyfonw="
+    }
+  },
+  "version": "1.7"
+}

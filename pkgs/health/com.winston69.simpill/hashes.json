@@ -1,0 +1,18 @@
+{
+  "apkName": "com.winston69.simpill_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kehwv8JBV3IQmON2HO410RDGH+o//gU6GmVNLdaAJzs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kehwv8JBV3IQmON2HO410RDGH+o//gU6GmVNLdaAJzs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kehwv8JBV3IQmON2HO410RDGH+o//gU6GmVNLdaAJzs="
+    }
+  },
+  "version": "1.3.4"
+}

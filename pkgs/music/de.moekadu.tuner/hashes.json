@@ -1,0 +1,18 @@
+{
+  "apkName": "de.moekadu.tuner_49.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Erjts3pwjKcTbetm9jVHBLIy3rY/waGRoSLiz7d6sRo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Erjts3pwjKcTbetm9jVHBLIy3rY/waGRoSLiz7d6sRo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Erjts3pwjKcTbetm9jVHBLIy3rY/waGRoSLiz7d6sRo="
+    }
+  },
+  "version": "9.1.1"
+}

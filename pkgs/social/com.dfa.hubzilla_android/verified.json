@@ -1,0 +1,8 @@
+{
+  "package": "com.dfa.hubzilla_android",
+  "signerFingerprints": [
+    "FA:2E:6F:92:43:55:62:46:2D:19:2E:4E:8A:CB:60:94:24:4C:AE:2B:D4:43:01:22:B6:28:2C:4A:98:DA:04:99"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

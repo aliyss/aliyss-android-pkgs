@@ -1,0 +1,8 @@
+{
+  "package": "com.atop",
+  "signerFingerprints": [
+    "65:5C:8F:6D:5F:44:80:4C:55:A5:BC:D9:2D:4E:32:E6:DC:D3:21:49:A8:58:ED:3B:55:71:8F:D7:5B:36:1D:5C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

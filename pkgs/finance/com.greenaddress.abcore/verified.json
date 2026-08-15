@@ -1,0 +1,8 @@
+{
+  "package": "com.greenaddress.abcore",
+  "signerFingerprints": [
+    "BD:B6:E1:DA:B2:95:B0:AE:CE:01:7D:44:0E:2F:50:94:5F:B9:76:5A:C7:8F:70:E3:38:92:17:44:DA:C2:4A:25"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

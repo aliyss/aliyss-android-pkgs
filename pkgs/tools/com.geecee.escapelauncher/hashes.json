@@ -1,0 +1,18 @@
+{
+  "apkName": "com.geecee.escapelauncher_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tpfNke980hKoldCuOyldfzLo90/Yqg9IspsG0odc7O8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tpfNke980hKoldCuOyldfzLo90/Yqg9IspsG0odc7O8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tpfNke980hKoldCuOyldfzLo90/Yqg9IspsG0odc7O8="
+    }
+  },
+  "version": "2.3.1-foss"
+}

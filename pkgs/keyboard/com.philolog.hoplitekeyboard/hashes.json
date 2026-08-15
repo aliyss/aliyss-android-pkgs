@@ -1,0 +1,18 @@
+{
+  "apkName": "com.philolog.hoplitekeyboard_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BZoiXXGdJlmTk6Okp/y0+8n2lGeecJ/FnnjiEjCxIGc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BZoiXXGdJlmTk6Okp/y0+8n2lGeecJ/FnnjiEjCxIGc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BZoiXXGdJlmTk6Okp/y0+8n2lGeecJ/FnnjiEjCxIGc="
+    }
+  },
+  "version": "1.7.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.minimo.launcher",
+  "signerFingerprints": [
+    "CE:44:20:02:24:71:A1:F1:68:01:F0:52:91:D0:2C:3A:E0:19:96:3F:11:93:D0:43:02:F0:05:B4:D9:7D:A4:A4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

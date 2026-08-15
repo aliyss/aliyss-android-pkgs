@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mateusrodcosta.apps.share2storage_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8fdS/mYA3h6Ck19NrRzm8XVRkAAvPlmrKYPZ2lMVpSA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8fdS/mYA3h6Ck19NrRzm8XVRkAAvPlmrKYPZ2lMVpSA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8fdS/mYA3h6Ck19NrRzm8XVRkAAvPlmrKYPZ2lMVpSA="
+    }
+  },
+  "version": "2.1.1"
+}

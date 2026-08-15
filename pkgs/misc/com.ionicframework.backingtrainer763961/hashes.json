@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ionicframework.backingtrainer763961_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-a0YXMDcY6G50uE47bz8K/q3tCgGZxNZ8AjVfdQ5zY5E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a0YXMDcY6G50uE47bz8K/q3tCgGZxNZ8AjVfdQ5zY5E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a0YXMDcY6G50uE47bz8K/q3tCgGZxNZ8AjVfdQ5zY5E="
+    }
+  },
+  "version": "1.0.4"
+}

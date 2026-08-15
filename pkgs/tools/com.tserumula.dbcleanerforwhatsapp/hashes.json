@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tserumula.dbcleanerforwhatsapp_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nhRWnz5FIaCu4K6Bax7hXXyjnWqxp9QmsE8nkG44rU8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nhRWnz5FIaCu4K6Bax7hXXyjnWqxp9QmsE8nkG44rU8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nhRWnz5FIaCu4K6Bax7hXXyjnWqxp9QmsE8nkG44rU8="
+    }
+  },
+  "version": "2.0"
+}

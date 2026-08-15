@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.faircode.email_2328.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SsjmZZIQK9BSzJ8tu47lkwkxoOwyAZvJN6/ZwmGtz8A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SsjmZZIQK9BSzJ8tu47lkwkxoOwyAZvJN6/ZwmGtz8A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SsjmZZIQK9BSzJ8tu47lkwkxoOwyAZvJN6/ZwmGtz8A="
+    }
+  },
+  "version": "1.2328"
+}

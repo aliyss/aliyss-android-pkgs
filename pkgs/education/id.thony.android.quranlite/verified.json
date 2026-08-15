@@ -1,0 +1,8 @@
+{
+  "package": "id.thony.android.quranlite",
+  "signerFingerprints": [
+    "3F:C6:78:5E:62:06:60:9D:F5:6F:AF:30:1A:50:2B:53:9F:61:0B:BC:D1:36:A6:E2:03:BF:5C:4A:87:05:95:54"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

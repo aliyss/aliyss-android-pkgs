@@ -1,0 +1,8 @@
+{
+  "package": "com.example.webpdf",
+  "signerFingerprints": [
+    "0D:48:B5:24:D5:20:37:8E:E7:56:18:39:DA:1E:85:13:82:71:26:A3:B6:BB:9D:78:1F:8C:69:04:60:BA:2F:7A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

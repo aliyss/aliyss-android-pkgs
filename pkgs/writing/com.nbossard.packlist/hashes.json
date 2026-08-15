@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nbossard.packlist_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l73GZZRVCv0yVchpuriuInLMftXyo6JaBkZ59s8GE34="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l73GZZRVCv0yVchpuriuInLMftXyo6JaBkZ59s8GE34="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l73GZZRVCv0yVchpuriuInLMftXyo6JaBkZ59s8GE34="
+    }
+  },
+  "version": "0.13"
+}

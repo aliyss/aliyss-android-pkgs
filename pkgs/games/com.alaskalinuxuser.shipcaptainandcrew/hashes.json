@@ -1,0 +1,18 @@
+{
+  "apkName": "com.alaskalinuxuser.shipcaptainandcrew_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-J/oW1a5AFKSEr0qnQ5vop7G2i7UwUGTLf0imJdK2P34="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J/oW1a5AFKSEr0qnQ5vop7G2i7UwUGTLf0imJdK2P34="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J/oW1a5AFKSEr0qnQ5vop7G2i7UwUGTLf0imJdK2P34="
+    }
+  },
+  "version": "2.0"
+}

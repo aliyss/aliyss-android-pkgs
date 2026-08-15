@@ -1,0 +1,8 @@
+{
+  "package": "de.ferreum.pto",
+  "signerFingerprints": [
+    "CC:89:78:84:35:BF:3A:38:0E:A8:19:29:B3:48:5C:9A:A1:7D:35:96:04:15:9C:E8:9C:41:FD:52:D7:D5:73:AB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.rtsp_ipcam_viewer_5010023.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-en5Jhc9rQM4cN/vezrSwK14PsdFE8gXPfrzokb7fwwU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-en5Jhc9rQM4cN/vezrSwK14PsdFE8gXPfrzokb7fwwU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-en5Jhc9rQM4cN/vezrSwK14PsdFE8gXPfrzokb7fwwU="
+    }
+  },
+  "version": "005.01.00-23API"
+}

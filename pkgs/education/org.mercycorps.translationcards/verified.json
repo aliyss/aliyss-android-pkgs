@@ -1,0 +1,8 @@
+{
+  "package": "org.mercycorps.translationcards",
+  "signerFingerprints": [
+    "14:4E:1C:E8:7F:ED:BC:9F:C7:75:07:D8:16:FC:5B:6B:1B:E4:B5:D4:5D:E9:08:DC:FA:82:D8:2A:F6:42:29:05"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.exbin.bined.editor.android_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TOrD8kGxMnl27f+Ya0167rBGLAUp0zcXizLyDPjF9AM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TOrD8kGxMnl27f+Ya0167rBGLAUp0zcXizLyDPjF9AM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TOrD8kGxMnl27f+Ya0167rBGLAUp0zcXizLyDPjF9AM="
+    }
+  },
+  "version": "0.2.10"
+}

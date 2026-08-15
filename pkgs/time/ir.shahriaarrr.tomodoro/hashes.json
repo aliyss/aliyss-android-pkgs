@@ -1,0 +1,18 @@
+{
+  "apkName": "ir.shahriaarrr.tomodoro_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qJF3nUu43c3rLQ1RsxEJRN2ZNKQeIM/L2EEw1XE5j58="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qJF3nUu43c3rLQ1RsxEJRN2ZNKQeIM/L2EEw1XE5j58="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qJF3nUu43c3rLQ1RsxEJRN2ZNKQeIM/L2EEw1XE5j58="
+    }
+  },
+  "version": "0.7.0"
+}

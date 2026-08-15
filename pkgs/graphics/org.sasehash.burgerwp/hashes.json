@@ -1,0 +1,18 @@
+{
+  "apkName": "org.sasehash.burgerwp_122.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8JLO7qECumBjcnzsm/zj6dFp5fIqi/fTXsL64YkHvjs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8JLO7qECumBjcnzsm/zj6dFp5fIqi/fTXsL64YkHvjs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8JLO7qECumBjcnzsm/zj6dFp5fIqi/fTXsL64YkHvjs="
+    }
+  },
+  "version": "1.2.2"
+}

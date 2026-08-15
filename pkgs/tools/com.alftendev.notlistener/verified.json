@@ -1,0 +1,8 @@
+{
+  "package": "com.alftendev.notlistener",
+  "signerFingerprints": [
+    "09:CB:30:AB:94:A7:59:7C:D1:15:C5:E1:17:72:6A:A4:5A:5F:FE:80:E1:D4:67:F3:73:43:5C:6C:86:85:6A:8D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.sunsetware.phocid",
+  "signerFingerprints": [
+    "ED:20:B1:76:70:9C:0E:63:24:00:EE:D8:D5:BD:B3:AB:D5:10:08:67:19:FE:97:FE:90:46:B9:22:F8:FA:AF:4F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

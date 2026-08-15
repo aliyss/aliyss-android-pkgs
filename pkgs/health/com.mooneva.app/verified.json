@@ -1,0 +1,8 @@
+{
+  "package": "com.mooneva.app",
+  "signerFingerprints": [
+    "D9:DF:FA:5F:30:3E:9B:80:72:5B:74:17:64:88:67:2A:35:2A:D8:48:33:77:D9:38:B2:E3:6F:76:0A:81:1F:CD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

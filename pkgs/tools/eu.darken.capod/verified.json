@@ -1,0 +1,8 @@
+{
+  "package": "eu.darken.capod",
+  "signerFingerprints": [
+    "67:29:F9:DE:72:B4:FC:A9:96:15:B2:2F:98:44:00:AD:1F:3D:AA:24:11:D8:B1:E0:9F:32:1B:03:8F:AC:85:ED"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

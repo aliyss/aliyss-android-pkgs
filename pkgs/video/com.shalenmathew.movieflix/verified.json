@@ -1,0 +1,8 @@
+{
+  "package": "com.shalenmathew.movieflix",
+  "signerFingerprints": [
+    "EC:20:B7:0F:D6:28:FE:F4:2B:53:BA:82:65:0B:7B:15:B9:E8:3C:0B:62:ED:08:86:36:5B:1E:6A:2E:C7:22:31"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

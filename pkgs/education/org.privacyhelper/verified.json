@@ -1,0 +1,8 @@
+{
+  "package": "org.privacyhelper",
+  "signerFingerprints": [
+    "3A:14:67:02:6B:9E:9E:91:34:E4:B9:8D:1C:97:74:C7:A1:AC:5C:B4:37:22:C0:F5:A0:30:B2:43:1F:84:C3:8F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

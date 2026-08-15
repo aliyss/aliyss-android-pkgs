@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ensoft.imgurviewer_25400.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sSO5BqL5VCpU8b3ok7dgfIPtW/v6cnMmM4eJ4RGheao="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sSO5BqL5VCpU8b3ok7dgfIPtW/v6cnMmM4eJ4RGheao="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sSO5BqL5VCpU8b3ok7dgfIPtW/v6cnMmM4eJ4RGheao="
+    }
+  },
+  "version": "2.5.4"
+}

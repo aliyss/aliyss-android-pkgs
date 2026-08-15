@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lukeneedham.videodiary_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oz25sMMjgTbAmA25du6QPLMylrW9k7xu0h7XHhnVCgA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oz25sMMjgTbAmA25du6QPLMylrW9k7xu0h7XHhnVCgA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oz25sMMjgTbAmA25du6QPLMylrW9k7xu0h7XHhnVCgA="
+    }
+  },
+  "version": "1.0.8"
+}

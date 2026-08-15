@@ -1,0 +1,18 @@
+{
+  "apkName": "pro.rudloff.lineageos_updater_shortcut_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dYQEDrfR+tfTYSrUd6ER+gwbBFbEjvoPVoKy+OeidnY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dYQEDrfR+tfTYSrUd6ER+gwbBFbEjvoPVoKy+OeidnY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dYQEDrfR+tfTYSrUd6ER+gwbBFbEjvoPVoKy+OeidnY="
+    }
+  },
+  "version": "0.1.1"
+}

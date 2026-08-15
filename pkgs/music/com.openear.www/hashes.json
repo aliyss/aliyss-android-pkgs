@@ -1,0 +1,18 @@
+{
+  "apkName": "com.openear.www_47.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PLTL4KbUcIwnoMCN1fd5wsHv4mpZ1rDVetQmEnxCPPw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PLTL4KbUcIwnoMCN1fd5wsHv4mpZ1rDVetQmEnxCPPw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PLTL4KbUcIwnoMCN1fd5wsHv4mpZ1rDVetQmEnxCPPw="
+    }
+  },
+  "version": "1.9.0"
+}

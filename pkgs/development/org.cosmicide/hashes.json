@@ -1,0 +1,18 @@
+{
+  "apkName": "org.cosmicide_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-foK4sSlij00wjuLRgaGp8/c7u+y5IlkKNsvXbUM8rvE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-foK4sSlij00wjuLRgaGp8/c7u+y5IlkKNsvXbUM8rvE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-foK4sSlij00wjuLRgaGp8/c7u+y5IlkKNsvXbUM8rvE="
+    }
+  },
+  "version": "2.0.3"
+}

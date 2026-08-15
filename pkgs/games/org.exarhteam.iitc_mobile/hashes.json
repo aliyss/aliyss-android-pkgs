@@ -1,0 +1,18 @@
+{
+  "apkName": "org.exarhteam.iitc_mobile_1779111473.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HbWiEZdLACKLysa2X20ho9pxyr8Fz5nQ44feE/97S98="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HbWiEZdLACKLysa2X20ho9pxyr8Fz5nQ44feE/97S98="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HbWiEZdLACKLysa2X20ho9pxyr8Fz5nQ44feE/97S98="
+    }
+  },
+  "version": "0.42.3"
+}

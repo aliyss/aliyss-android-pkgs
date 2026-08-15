@@ -1,0 +1,8 @@
+{
+  "package": "com.github.howeyc.crocgui",
+  "signerFingerprints": [
+    "28:CD:55:7B:8F:2D:19:2F:B3:BF:F6:06:3E:67:D1:A4:20:BA:4F:49:7F:29:FD:97:7C:75:E8:FA:90:C2:2C:B6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

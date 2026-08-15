@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.mkckr0.audio_share_app_3004.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-d8yT0yo+a2EXucIC/1vmkILqVxEIfCPmh3zvWsSkcbQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-d8yT0yo+a2EXucIC/1vmkILqVxEIfCPmh3zvWsSkcbQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-d8yT0yo+a2EXucIC/1vmkILqVxEIfCPmh3zvWsSkcbQ="
+    }
+  },
+  "version": "0.3.4"
+}

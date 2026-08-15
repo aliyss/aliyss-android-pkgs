@@ -1,0 +1,8 @@
+{
+  "package": "it.niedermann.nextcloud.deck",
+  "signerFingerprints": [
+    "EA:92:9C:AF:C3:3A:6C:A7:73:92:80:9F:53:B1:DA:F8:09:92:C4:A8:3F:4D:11:43:32:00:17:44:93:AE:BE:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

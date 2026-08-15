@@ -1,0 +1,18 @@
+{
+  "apkName": "biz.binarysolutions.weatherusa_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5OGncNJ+hmE84zUzwlPuqa5IcqEBWuIBDOtINK4N2Ik="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5OGncNJ+hmE84zUzwlPuqa5IcqEBWuIBDOtINK4N2Ik="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5OGncNJ+hmE84zUzwlPuqa5IcqEBWuIBDOtINK4N2Ik="
+    }
+  },
+  "version": "5.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.sorunome.unifiednlp.trains_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Wr7BFLv+sskGq+8wiMsYTEx4lO8V0DELB8NcPcrx3Og="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Wr7BFLv+sskGq+8wiMsYTEx4lO8V0DELB8NcPcrx3Og="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Wr7BFLv+sskGq+8wiMsYTEx4lO8V0DELB8NcPcrx3Og="
+    }
+  },
+  "version": "v1.3.0"
+}

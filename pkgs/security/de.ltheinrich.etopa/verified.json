@@ -1,0 +1,8 @@
+{
+  "package": "de.ltheinrich.etopa",
+  "signerFingerprints": [
+    "39:05:80:5F:EF:6D:4E:81:6E:EC:13:2A:F9:B7:20:F6:8E:E5:20:5E:C9:8A:A3:BE:46:B3:1F:87:E4:19:2C:CB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

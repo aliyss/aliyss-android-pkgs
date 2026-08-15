@@ -1,0 +1,8 @@
+{
+  "package": "org.segin.bfinterpreter",
+  "signerFingerprints": [
+    "CE:61:7E:82:E5:49:D7:14:FD:07:4E:47:BA:24:F0:B9:03:7A:69:A2:75:1E:17:5F:AF:D1:C9:77:9A:E1:4D:37"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

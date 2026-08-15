@@ -1,0 +1,18 @@
+{
+  "apkName": "com.thesis.yokatta_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n8BC4YeC8fN2E2jzzG7Rbf596eo2SB5zLAXANIhmnh4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n8BC4YeC8fN2E2jzzG7Rbf596eo2SB5zLAXANIhmnh4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n8BC4YeC8fN2E2jzzG7Rbf596eo2SB5zLAXANIhmnh4="
+    }
+  },
+  "version": "v0.3.4"
+}

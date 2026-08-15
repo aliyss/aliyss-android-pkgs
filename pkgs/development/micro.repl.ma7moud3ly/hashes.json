@@ -1,0 +1,18 @@
+{
+  "apkName": "micro.repl.ma7moud3ly_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1JXQxL6AiPBoZ3EEGAyT0TBrx6bri4i2EMWj2YdU5lY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1JXQxL6AiPBoZ3EEGAyT0TBrx6bri4i2EMWj2YdU5lY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1JXQxL6AiPBoZ3EEGAyT0TBrx6bri4i2EMWj2YdU5lY="
+    }
+  },
+  "version": "1.9"
+}

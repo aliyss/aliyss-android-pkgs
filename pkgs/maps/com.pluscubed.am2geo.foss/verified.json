@@ -1,0 +1,8 @@
+{
+  "package": "com.pluscubed.am2geo.foss",
+  "signerFingerprints": [
+    "C4:89:2F:29:38:2B:2A:5E:D3:B5:A8:BD:00:46:68:C2:AF:98:74:B3:3F:EA:3E:B1:CA:B1:F4:2D:B4:69:7A:E1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

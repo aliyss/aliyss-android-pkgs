@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.free.nrw.commons_1066.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NcvlH0x9raD667FxNNRWwPQ+td8Rcfob5ryFbfZ9U0I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NcvlH0x9raD667FxNNRWwPQ+td8Rcfob5ryFbfZ9U0I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NcvlH0x9raD667FxNNRWwPQ+td8Rcfob5ryFbfZ9U0I="
+    }
+  },
+  "version": "6.7.0"
+}

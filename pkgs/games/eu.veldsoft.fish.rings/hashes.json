@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.fish.rings_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yKnLfK2qztN6GxO6Mq2b3B++bTjJ1TSKpWp4tHZ8HHA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yKnLfK2qztN6GxO6Mq2b3B++bTjJ1TSKpWp4tHZ8HHA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yKnLfK2qztN6GxO6Mq2b3B++bTjJ1TSKpWp4tHZ8HHA="
+    }
+  },
+  "version": "1.23"
+}

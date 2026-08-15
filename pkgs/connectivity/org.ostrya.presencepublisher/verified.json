@@ -1,0 +1,8 @@
+{
+  "package": "org.ostrya.presencepublisher",
+  "signerFingerprints": [
+    "E0:5D:CA:37:9F:66:DD:2A:D0:49:83:1D:49:7A:4B:E3:B8:4C:24:A8:73:60:B3:29:DB:67:FE:3B:AA:77:02:B4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

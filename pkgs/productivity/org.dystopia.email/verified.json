@@ -1,0 +1,8 @@
+{
+  "package": "org.dystopia.email",
+  "signerFingerprints": [
+    "1E:24:9D:AD:0E:6A:A1:A6:B3:89:60:73:F6:F8:EC:E2:B3:51:5C:60:05:D8:20:D0:88:94:80:66:BB:5B:B8:03"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

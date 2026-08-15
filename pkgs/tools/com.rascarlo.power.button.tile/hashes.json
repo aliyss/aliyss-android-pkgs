@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rascarlo.power.button.tile_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+4u+N+jRyAAkgUUfv508MfYlbNqv6QGzFx19T8Qg+9g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+4u+N+jRyAAkgUUfv508MfYlbNqv6QGzFx19T8Qg+9g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+4u+N+jRyAAkgUUfv508MfYlbNqv6QGzFx19T8Qg+9g="
+    }
+  },
+  "version": "0.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.snd_r.komelia",
+  "signerFingerprints": [
+    "8A:40:96:86:C2:AE:42:AA:DE:DB:99:7D:00:8C:8A:39:94:CD:F9:97:20:3E:4C:74:BA:0C:B3:52:50:33:55:66"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

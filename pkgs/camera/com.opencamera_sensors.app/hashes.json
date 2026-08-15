@@ -1,0 +1,18 @@
+{
+  "apkName": "com.opencamera_sensors.app_81.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CSi4Vt/YmCot1lCiwFZ+B5NDH+jMYd9PYIeKuYH79gE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CSi4Vt/YmCot1lCiwFZ+B5NDH+jMYd9PYIeKuYH79gE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CSi4Vt/YmCot1lCiwFZ+B5NDH+jMYd9PYIeKuYH79gE="
+    }
+  },
+  "version": "1.48.3.1"
+}

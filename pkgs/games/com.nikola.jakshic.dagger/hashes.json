@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nikola.jakshic.dagger_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3G+FWYffm1GYi6+3SwMvnsw3tln66t+lXzIyPArdyCA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3G+FWYffm1GYi6+3SwMvnsw3tln66t+lXzIyPArdyCA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3G+FWYffm1GYi6+3SwMvnsw3tln66t+lXzIyPArdyCA="
+    }
+  },
+  "version": "1.3.8"
+}

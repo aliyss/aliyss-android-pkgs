@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quaap.computationaldemonology_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dDTU1JSFi4KpxLy1BMrhbsBvw8hzIMIzuNqEV4NlsGc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dDTU1JSFi4KpxLy1BMrhbsBvw8hzIMIzuNqEV4NlsGc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dDTU1JSFi4KpxLy1BMrhbsBvw8hzIMIzuNqEV4NlsGc="
+    }
+  },
+  "version": "0.1"
+}

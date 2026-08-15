@@ -1,0 +1,18 @@
+{
+  "apkName": "lk.dulanjaya.medinote_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kpkRtyfAVPe6m3QRFfqDSC8/+an2ulvyAHiCMBUfqWI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kpkRtyfAVPe6m3QRFfqDSC8/+an2ulvyAHiCMBUfqWI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kpkRtyfAVPe6m3QRFfqDSC8/+an2ulvyAHiCMBUfqWI="
+    }
+  },
+  "version": "1.0.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.schueller.instarepost_205.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MXXTe4atujphWuBbdYbREDIsSmBlrI51tyvWp788g44="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MXXTe4atujphWuBbdYbREDIsSmBlrI51tyvWp788g44="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MXXTe4atujphWuBbdYbREDIsSmBlrI51tyvWp788g44="
+    }
+  },
+  "version": "2.0.5"
+}

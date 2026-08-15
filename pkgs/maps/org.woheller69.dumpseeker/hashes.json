@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.dumpseeker_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kHO39x5k/MnfbRngb+3KPvUIMWUyp8GkCv34OFLoVSQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kHO39x5k/MnfbRngb+3KPvUIMWUyp8GkCv34OFLoVSQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kHO39x5k/MnfbRngb+3KPvUIMWUyp8GkCv34OFLoVSQ="
+    }
+  },
+  "version": "1.7"
+}

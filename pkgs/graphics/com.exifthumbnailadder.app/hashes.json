@@ -1,0 +1,18 @@
+{
+  "apkName": "com.exifthumbnailadder.app_767.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YyKmZZA1S1FAT+nXIhbcXzVPMrs1v6MAbT7/Q6NfTwM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YyKmZZA1S1FAT+nXIhbcXzVPMrs1v6MAbT7/Q6NfTwM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YyKmZZA1S1FAT+nXIhbcXzVPMrs1v6MAbT7/Q6NfTwM="
+    }
+  },
+  "version": "1.0.1"
+}

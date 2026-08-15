@@ -1,0 +1,8 @@
+{
+  "package": "com.sentaroh.android.SMBSync2",
+  "signerFingerprints": [
+    "EF:D0:88:BE:9B:41:CA:D9:F7:36:02:9C:F2:CB:3A:6A:A7:89:C5:85:2F:5A:C2:CF:98:53:85:2B:5F:83:30:FB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

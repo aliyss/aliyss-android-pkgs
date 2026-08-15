@@ -1,0 +1,8 @@
+{
+  "package": "com.hmdm.launcher",
+  "signerFingerprints": [
+    "7D:58:79:3D:7C:3E:22:19:2C:23:6A:CB:49:9C:F4:8D:BB:8F:27:7F:05:00:56:61:88:12:67:F5:32:6B:F2:71"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

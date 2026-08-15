@@ -1,0 +1,8 @@
+{
+  "package": "com.biglybt.android.client",
+  "signerFingerprints": [
+    "25:49:BD:C0:92:0B:E4:A7:C0:78:3F:75:C6:7C:F3:D3:26:56:FC:4A:69:44:5F:E6:46:68:D3:44:17:02:A7:AE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

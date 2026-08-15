@@ -1,0 +1,18 @@
+{
+  "apkName": "com.internalpositioning.find3.find3app_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-G2H7PyMmAyAg4uH4aSjQTT4unzrjIAft/A0CS/BiRAU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G2H7PyMmAyAg4uH4aSjQTT4unzrjIAft/A0CS/BiRAU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G2H7PyMmAyAg4uH4aSjQTT4unzrjIAft/A0CS/BiRAU="
+    }
+  },
+  "version": "3.0.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dessalines.habitmaker_5601.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SJXPOvHe+Pj0hQaabswVzKx6EsVy6gO0Y7AA/62Ug+4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SJXPOvHe+Pj0hQaabswVzKx6EsVy6gO0Y7AA/62Ug+4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SJXPOvHe+Pj0hQaabswVzKx6EsVy6gO0Y7AA/62Ug+4="
+    }
+  },
+  "version": "0.0.56-fdroid"
+}

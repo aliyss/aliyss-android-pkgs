@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nima.triviaapp_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lMPDhJ4aUPVjjoPfTJwvAlib9XPXcPIwiK9bIbVOjeM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lMPDhJ4aUPVjjoPfTJwvAlib9XPXcPIwiK9bIbVOjeM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lMPDhJ4aUPVjjoPfTJwvAlib9XPXcPIwiK9bIbVOjeM="
+    }
+  },
+  "version": "1.0"
+}

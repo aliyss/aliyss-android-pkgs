@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.mobdev.peertubelive_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Wls7VxepwU4mDXDlq/KdaSp2uJRymG5PvbxYeGgCIaE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Wls7VxepwU4mDXDlq/KdaSp2uJRymG5PvbxYeGgCIaE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Wls7VxepwU4mDXDlq/KdaSp2uJRymG5PvbxYeGgCIaE="
+    }
+  },
+  "version": "1.4.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.jonasbernard.tudarmstadtmoodlewrapper_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8TjnIsYKlKeOkjyjwrY9Pb25AI+O9VotwETLpuAEhIc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8TjnIsYKlKeOkjyjwrY9Pb25AI+O9VotwETLpuAEhIc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8TjnIsYKlKeOkjyjwrY9Pb25AI+O9VotwETLpuAEhIc="
+    }
+  },
+  "version": "1.2"
+}

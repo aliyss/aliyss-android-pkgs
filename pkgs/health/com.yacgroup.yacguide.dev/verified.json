@@ -1,0 +1,8 @@
+{
+  "package": "com.yacgroup.yacguide.dev",
+  "signerFingerprints": [
+    "24:8C:24:10:8C:56:75:EE:49:13:A0:00:A9:2D:3F:4E:35:EA:88:96:6B:E1:B3:9A:72:C9:96:99:0A:00:E7:92"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

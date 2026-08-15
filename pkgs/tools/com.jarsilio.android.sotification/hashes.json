@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jarsilio.android.sotification_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Z4INcso9/YmfR5pm1RpSrvMSbEOB6q2lgHIUoI2SLUo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z4INcso9/YmfR5pm1RpSrvMSbEOB6q2lgHIUoI2SLUo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z4INcso9/YmfR5pm1RpSrvMSbEOB6q2lgHIUoI2SLUo="
+    }
+  },
+  "version": "0.1.2"
+}

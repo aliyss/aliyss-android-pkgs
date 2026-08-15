@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.bluetoothconnect_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IhjUc0j/4BSe1eS4Kzu5n897vm/WNiJs/fbO0PUNHqs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IhjUc0j/4BSe1eS4Kzu5n897vm/WNiJs/fbO0PUNHqs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IhjUc0j/4BSe1eS4Kzu5n897vm/WNiJs/fbO0PUNHqs="
+    }
+  },
+  "version": "2.8"
+}

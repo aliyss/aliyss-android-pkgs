@@ -1,0 +1,8 @@
+{
+  "package": "dev.msfjarvis.claw.android",
+  "signerFingerprints": [
+    "02:B3:98:0C:66:9E:1D:46:27:7B:40:7B:F3:C4:11:92:CF:C7:65:23:43:EC:12:DD:7F:7D:74:19:8B:3D:D9:D9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

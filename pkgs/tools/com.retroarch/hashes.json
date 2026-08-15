@@ -1,0 +1,18 @@
+{
+  "apkName": "com.retroarch_1597175267.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cSD9en8Vt6JgNmqBIsdwcKgLwUvyjTS8YJQ5srUv22Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cSD9en8Vt6JgNmqBIsdwcKgLwUvyjTS8YJQ5srUv22Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cSD9en8Vt6JgNmqBIsdwcKgLwUvyjTS8YJQ5srUv22Q="
+    }
+  },
+  "version": "1.22.2"
+}

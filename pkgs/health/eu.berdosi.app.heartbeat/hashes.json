@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.berdosi.app.heartbeat_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OaSl7ilgVNG1jDucw79MjktZu9IQrEm3vLGuoNZPwNo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OaSl7ilgVNG1jDucw79MjktZu9IQrEm3vLGuoNZPwNo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OaSl7ilgVNG1jDucw79MjktZu9IQrEm3vLGuoNZPwNo="
+    }
+  },
+  "version": "1.3.0"
+}

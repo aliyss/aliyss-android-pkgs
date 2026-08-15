@@ -1,0 +1,8 @@
+{
+  "package": "com.anisync.android",
+  "signerFingerprints": [
+    "BD:F6:C7:C1:24:2C:1A:C4:5F:1B:C4:4C:9C:7C:04:FC:49:C3:34:89:DA:CB:11:01:3C:4D:61:1A:33:8A:F9:DB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

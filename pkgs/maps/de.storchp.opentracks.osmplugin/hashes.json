@@ -1,0 +1,18 @@
+{
+  "apkName": "de.storchp.opentracks.osmplugin_71.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3O0GZkU8c3oTcGd+6s8oN+zBSy6AbiayKTGHcVwIngw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3O0GZkU8c3oTcGd+6s8oN+zBSy6AbiayKTGHcVwIngw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3O0GZkU8c3oTcGd+6s8oN+zBSy6AbiayKTGHcVwIngw="
+    }
+  },
+  "version": "6.10.0"
+}

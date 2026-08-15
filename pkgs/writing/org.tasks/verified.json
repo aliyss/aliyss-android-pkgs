@@ -1,0 +1,8 @@
+{
+  "package": "org.tasks",
+  "signerFingerprints": [
+    "A0:38:A0:55:BF:43:B2:65:9C:BA:F8:62:80:8A:FD:5E:44:7D:4D:0E:27:49:A1:03:91:91:00:09:CB:D8:DC:FA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

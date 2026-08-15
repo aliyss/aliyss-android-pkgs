@@ -1,0 +1,18 @@
+{
+  "apkName": "de.viatorus.neo2externalkeyboard_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Wgf3xp2fJlzJQWfUHhoJ1b2S8M6/i8EDnbFTXzzAsus="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Wgf3xp2fJlzJQWfUHhoJ1b2S8M6/i8EDnbFTXzzAsus="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Wgf3xp2fJlzJQWfUHhoJ1b2S8M6/i8EDnbFTXzzAsus="
+    }
+  },
+  "version": "1.1.0"
+}

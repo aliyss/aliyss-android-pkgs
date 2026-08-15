@@ -1,0 +1,18 @@
+{
+  "apkName": "de.uwepost.android.deltacam_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Winz/9aOPUUDmCwZeTZdTX+iojgNWapCObTvM0pY1YI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Winz/9aOPUUDmCwZeTZdTX+iojgNWapCObTvM0pY1YI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Winz/9aOPUUDmCwZeTZdTX+iojgNWapCObTvM0pY1YI="
+    }
+  },
+  "version": "1.1"
+}

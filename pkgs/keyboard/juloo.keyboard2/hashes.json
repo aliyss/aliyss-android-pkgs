@@ -1,0 +1,18 @@
+{
+  "apkName": "juloo.keyboard2_55.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-c9uXtjv8sxMA8TYCbCc8BazbMVZBQrLxYpjgEMSfEGo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c9uXtjv8sxMA8TYCbCc8BazbMVZBQrLxYpjgEMSfEGo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c9uXtjv8sxMA8TYCbCc8BazbMVZBQrLxYpjgEMSfEGo="
+    }
+  },
+  "version": "2.0.4"
+}

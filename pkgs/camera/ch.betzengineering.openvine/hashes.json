@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.betzengineering.openvine_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KnQ5cTMukgopvwqSI8mWsdVLD0SUk0QfwkE4Tii8DHU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KnQ5cTMukgopvwqSI8mWsdVLD0SUk0QfwkE4Tii8DHU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KnQ5cTMukgopvwqSI8mWsdVLD0SUk0QfwkE4Tii8DHU="
+    }
+  },
+  "version": "1.0"
+}

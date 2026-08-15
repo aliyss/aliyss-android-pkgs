@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.gonbei774.calisthenicsmemory_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BmD3uZejRY0BpcCEXn9MOINeAK1NHQs6fycgJlH66A4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BmD3uZejRY0BpcCEXn9MOINeAK1NHQs6fycgJlH66A4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BmD3uZejRY0BpcCEXn9MOINeAK1NHQs6fycgJlH66A4="
+    }
+  },
+  "version": "1.26.0"
+}

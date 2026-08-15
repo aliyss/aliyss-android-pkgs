@@ -1,0 +1,18 @@
+{
+  "apkName": "org.kore.kolabnotes.android_107.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dpUrF0mh3CejByhh8xWus5/kE4EOe7/D8uMJqZuPe/A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dpUrF0mh3CejByhh8xWus5/kE4EOe7/D8uMJqZuPe/A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dpUrF0mh3CejByhh8xWus5/kE4EOe7/D8uMJqZuPe/A="
+    }
+  },
+  "version": "5.0.1"
+}

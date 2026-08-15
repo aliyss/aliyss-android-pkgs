@@ -1,0 +1,18 @@
+{
+  "apkName": "org.projectmaxs.module.smssend_2000506627.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aGTKQBI4k0fi+q4LzloDFxWnp0TgpgGD2PyI1mh0pFc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aGTKQBI4k0fi+q4LzloDFxWnp0TgpgGD2PyI1mh0pFc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aGTKQBI4k0fi+q4LzloDFxWnp0TgpgGD2PyI1mh0pFc="
+    }
+  },
+  "version": "0.5.19"
+}

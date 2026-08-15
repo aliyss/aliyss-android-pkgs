@@ -1,0 +1,8 @@
+{
+  "package": "com.cworld.notie",
+  "signerFingerprints": [
+    "28:47:0F:B8:8C:9F:3B:9D:29:6A:C3:D1:EB:97:46:8C:85:A1:0B:02:62:05:4D:1C:26:A3:A2:DA:35:95:36:1F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

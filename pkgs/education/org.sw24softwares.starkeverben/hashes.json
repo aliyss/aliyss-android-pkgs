@@ -1,0 +1,18 @@
+{
+  "apkName": "org.sw24softwares.starkeverben_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ALBbFL5uG86SuBRc+PANSUtnfKs/8ZYM2zhwkQqskjI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ALBbFL5uG86SuBRc+PANSUtnfKs/8ZYM2zhwkQqskjI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ALBbFL5uG86SuBRc+PANSUtnfKs/8ZYM2zhwkQqskjI="
+    }
+  },
+  "version": "4.1"
+}

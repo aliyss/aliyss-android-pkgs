@@ -1,0 +1,8 @@
+{
+  "package": "de.chaosdorf.meteroid",
+  "signerFingerprints": [
+    "FF:30:E7:52:71:CA:95:50:D3:B0:E1:E2:04:D7:25:FA:6D:56:21:03:9A:A7:5C:78:00:E7:2C:C0:D0:10:A6:01"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

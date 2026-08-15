@@ -1,0 +1,18 @@
+{
+  "apkName": "free.rm.skytube.oss_59.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/WjzaJtT5Wvflnz7bVh2+jUEmuNIMwOirK1s58/dd74="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/WjzaJtT5Wvflnz7bVh2+jUEmuNIMwOirK1s58/dd74="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/WjzaJtT5Wvflnz7bVh2+jUEmuNIMwOirK1s58/dd74="
+    }
+  },
+  "version": "2.999"
+}

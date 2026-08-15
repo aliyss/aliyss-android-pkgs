@@ -1,0 +1,18 @@
+{
+  "apkName": "org.librefit.app_40101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HmzAlXMbC+AI8T0s2EUTTxUApRIsFR0GFoFZnxKHBlw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HmzAlXMbC+AI8T0s2EUTTxUApRIsFR0GFoFZnxKHBlw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HmzAlXMbC+AI8T0s2EUTTxUApRIsFR0GFoFZnxKHBlw="
+    }
+  },
+  "version": "0.4.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "app.intra",
+  "signerFingerprints": [
+    "77:7D:6D:E4:16:1D:FD:FD:C4:28:7E:5D:FE:D8:33:55:71:4F:9A:32:27:E2:FD:81:11:18:31:F3:05:96:E4:07"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

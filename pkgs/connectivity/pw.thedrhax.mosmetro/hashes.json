@@ -1,0 +1,18 @@
+{
+  "apkName": "pw.thedrhax.mosmetro_77.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-99fofDwVG+jI2cm9+gLgUoxU6dpVcZpFKyO8UG/2Zp4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-99fofDwVG+jI2cm9+gLgUoxU6dpVcZpFKyO8UG/2Zp4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-99fofDwVG+jI2cm9+gLgUoxU6dpVcZpFKyO8UG/2Zp4="
+    }
+  },
+  "version": "2.3.2"
+}

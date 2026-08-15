@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gianlu.aria2app_231.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1aR/f8R3iJjaCr2irx+mDyR3Ga5TnLo60YHn3Nisju0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1aR/f8R3iJjaCr2irx+mDyR3Ga5TnLo60YHn3Nisju0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1aR/f8R3iJjaCr2irx+mDyR3Ga5TnLo60YHn3Nisju0="
+    }
+  },
+  "version": "5.10.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.bluecat.android.xposed.mods.appsettings_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WKqi/lmvkV8f6IpWDUcr2apo67da5/MERN2AgThO0TY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WKqi/lmvkV8f6IpWDUcr2apo67da5/MERN2AgThO0TY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WKqi/lmvkV8f6IpWDUcr2apo67da5/MERN2AgThO0TY="
+    }
+  },
+  "version": "1.7"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "miru.miaomint",
+  "signerFingerprints": [
+    "7D:89:9D:1A:6B:2B:55:57:0C:99:0C:06:26:02:6A:D0:07:AD:DF:80:30:CE:08:6E:5B:96:E8:F8:DF:C3:4A:5D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

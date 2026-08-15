@@ -1,0 +1,8 @@
+{
+  "package": "com.example.deeplviewer",
+  "signerFingerprints": [
+    "5E:74:B0:88:FD:FE:07:32:58:84:F4:12:4D:1C:D8:3C:A0:24:76:76:C9:08:CE:C5:60:1D:DB:7B:03:82:46:96"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

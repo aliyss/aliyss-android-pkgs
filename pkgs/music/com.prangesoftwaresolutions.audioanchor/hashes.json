@@ -1,0 +1,18 @@
+{
+  "apkName": "com.prangesoftwaresolutions.audioanchor_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Zn7x6pcUjF4XCQk76JfmAmw7o+j1ZKERdQeJEjydMPk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Zn7x6pcUjF4XCQk76JfmAmw7o+j1ZKERdQeJEjydMPk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Zn7x6pcUjF4XCQk76JfmAmw7o+j1ZKERdQeJEjydMPk="
+    }
+  },
+  "version": "2.5.0"
+}

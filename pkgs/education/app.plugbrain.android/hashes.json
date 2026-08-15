@@ -1,0 +1,18 @@
+{
+  "apkName": "app.plugbrain.android_154.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-W18XxTsDFAgmFHU1wMnpOpu3XPawmFbF4uyDR6IbfbQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W18XxTsDFAgmFHU1wMnpOpu3XPawmFbF4uyDR6IbfbQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W18XxTsDFAgmFHU1wMnpOpu3XPawmFbF4uyDR6IbfbQ="
+    }
+  },
+  "version": "1.5.4"
+}

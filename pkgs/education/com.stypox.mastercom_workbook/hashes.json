@@ -1,0 +1,18 @@
+{
+  "apkName": "com.stypox.mastercom_workbook_704.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9B+eiZJh9fEBzgH7LZq7hpuzgCT7JFMVFCDJwtTIq8M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9B+eiZJh9fEBzgH7LZq7hpuzgCT7JFMVFCDJwtTIq8M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9B+eiZJh9fEBzgH7LZq7hpuzgCT7JFMVFCDJwtTIq8M="
+    }
+  },
+  "version": "7.4"
+}

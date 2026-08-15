@@ -1,0 +1,8 @@
+{
+  "package": "com.knirirr.beecount",
+  "signerFingerprints": [
+    "B4:F3:31:6E:55:D2:FC:CB:4A:4A:9E:91:38:6E:FF:4E:1C:A2:9E:FE:AC:17:AA:9E:40:8A:15:47:AF:6A:41:0E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

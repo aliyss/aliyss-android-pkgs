@@ -1,0 +1,8 @@
+{
+  "package": "su.free.hiddensettings",
+  "signerFingerprints": [
+    "D0:68:5F:61:15:36:76:A4:02:1F:0C:DA:58:53:7C:1E:2C:FF:F7:01:A5:3C:94:F6:04:7E:7E:55:39:C3:F8:96"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

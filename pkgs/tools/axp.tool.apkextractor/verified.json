@@ -1,0 +1,8 @@
+{
+  "package": "axp.tool.apkextractor",
+  "signerFingerprints": [
+    "FB:62:16:93:EF:69:EB:43:10:C3:1C:20:95:F0:23:5E:B6:8F:28:82:A6:60:AF:CB:36:A3:1D:76:78:38:8B:B1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

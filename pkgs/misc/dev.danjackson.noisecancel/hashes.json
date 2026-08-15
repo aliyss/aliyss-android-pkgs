@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.danjackson.noisecancel_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eQ9ed425gQAMbl/qoBsr+1004JCse4BKwB1bHSo55sc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eQ9ed425gQAMbl/qoBsr+1004JCse4BKwB1bHSo55sc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eQ9ed425gQAMbl/qoBsr+1004JCse4BKwB1bHSo55sc="
+    }
+  },
+  "version": "1.5"
+}

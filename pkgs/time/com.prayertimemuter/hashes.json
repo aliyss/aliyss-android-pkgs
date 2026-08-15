@@ -1,0 +1,18 @@
+{
+  "apkName": "com.prayertimemuter_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DXt0NxyoblndWMmNMaG3w5Q+iovCFXs2eQHwXLEwWmc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DXt0NxyoblndWMmNMaG3w5Q+iovCFXs2eQHwXLEwWmc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DXt0NxyoblndWMmNMaG3w5Q+iovCFXs2eQHwXLEwWmc="
+    }
+  },
+  "version": "1.2.1"
+}

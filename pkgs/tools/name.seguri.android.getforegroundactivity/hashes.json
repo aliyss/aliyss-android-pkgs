@@ -1,0 +1,18 @@
+{
+  "apkName": "name.seguri.android.getforegroundactivity_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uLpHLqN6SB5JGTNc04A11Px25wfVf2g010x32wn8s3Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uLpHLqN6SB5JGTNc04A11Px25wfVf2g010x32wn8s3Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uLpHLqN6SB5JGTNc04A11Px25wfVf2g010x32wn8s3Y="
+    }
+  },
+  "version": "1.0.2"
+}

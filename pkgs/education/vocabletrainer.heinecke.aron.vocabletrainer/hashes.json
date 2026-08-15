@@ -1,0 +1,18 @@
+{
+  "apkName": "vocabletrainer.heinecke.aron.vocabletrainer_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qXhRdEK0DuBCOeSljjruNILGnjFuoC0aeJ3CoZhDAME="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qXhRdEK0DuBCOeSljjruNILGnjFuoC0aeJ3CoZhDAME="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qXhRdEK0DuBCOeSljjruNILGnjFuoC0aeJ3CoZhDAME="
+    }
+  },
+  "version": "0.8.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.gitlab.kreikenbaum.suntime.fdroid",
+  "signerFingerprints": [
+    "E9:97:CE:BD:08:AE:07:AF:23:C8:8F:D2:D3:75:9D:FB:7C:4D:37:0D:DE:77:EA:38:A3:B4:32:4A:E3:E1:E1:38"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

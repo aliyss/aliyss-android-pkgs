@@ -1,0 +1,18 @@
+{
+  "apkName": "com.seeker.seekprivacy_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DSnxf1KqL4aYk4yFGgywutrHnpRycNBQLN389JxEpdQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DSnxf1KqL4aYk4yFGgywutrHnpRycNBQLN389JxEpdQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DSnxf1KqL4aYk4yFGgywutrHnpRycNBQLN389JxEpdQ="
+    }
+  },
+  "version": "3.5.0"
+}

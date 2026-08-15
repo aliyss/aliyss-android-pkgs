@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.german_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-28tZWu/oHB667H+4d6syh67awBx/S6dGAIZP8FSApwk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-28tZWu/oHB667H+4d6syh67awBx/S6dGAIZP8FSApwk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-28tZWu/oHB667H+4d6syh67awBx/S6dGAIZP8FSApwk="
+    }
+  },
+  "version": "5.1.6158"
+}

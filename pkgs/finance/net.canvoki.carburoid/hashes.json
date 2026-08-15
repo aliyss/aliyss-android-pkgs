@@ -1,0 +1,18 @@
+{
+  "apkName": "net.canvoki.carburoid_1060500.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fb5obd0mWTUmt3Vi97sG3BIASkm9yVvP05miQbYYJ9Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fb5obd0mWTUmt3Vi97sG3BIASkm9yVvP05miQbYYJ9Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fb5obd0mWTUmt3Vi97sG3BIASkm9yVvP05miQbYYJ9Q="
+    }
+  },
+  "version": "1.6.5"
+}

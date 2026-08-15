@@ -1,0 +1,18 @@
+{
+  "apkName": "de.phrogg.bg2banglejs_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rUeAvRp2Qrs2o+S1t2DltqWLL3Kwm6DkRNpqyHO2zhU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rUeAvRp2Qrs2o+S1t2DltqWLL3Kwm6DkRNpqyHO2zhU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rUeAvRp2Qrs2o+S1t2DltqWLL3Kwm6DkRNpqyHO2zhU="
+    }
+  },
+  "version": "v1"
+}

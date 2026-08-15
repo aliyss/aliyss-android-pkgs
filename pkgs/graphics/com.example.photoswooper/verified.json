@@ -1,0 +1,8 @@
+{
+  "package": "com.example.photoswooper",
+  "signerFingerprints": [
+    "FA:90:94:0D:D5:A6:B6:C5:F7:29:EF:D0:2F:FC:A1:DA:24:13:F4:B3:00:63:F8:CF:D5:09:B4:46:30:53:14:B4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

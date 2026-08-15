@@ -1,0 +1,18 @@
+{
+  "apkName": "org.microg.nlp_20187.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vC888sx+2W6lmOdiXGoSJ6KElzSMhXIgnpiDWlT83AY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vC888sx+2W6lmOdiXGoSJ6KElzSMhXIgnpiDWlT83AY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vC888sx+2W6lmOdiXGoSJ6KElzSMhXIgnpiDWlT83AY="
+    }
+  },
+  "version": "1.6.8"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zinaro.cachecleanerwidget_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5lHX33LYI0OOr1Cv4c60KElmUHNLZhC7U51oqSWRUlk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5lHX33LYI0OOr1Cv4c60KElmUHNLZhC7U51oqSWRUlk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5lHX33LYI0OOr1Cv4c60KElmUHNLZhC7U51oqSWRUlk="
+    }
+  },
+  "version": "1.0"
+}

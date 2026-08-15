@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.TimeLapseCam_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-63znj3mEUKus5hMx7G2K1D4NQVb+85umwOTXlW6aiAM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-63znj3mEUKus5hMx7G2K1D4NQVb+85umwOTXlW6aiAM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-63znj3mEUKus5hMx7G2K1D4NQVb+85umwOTXlW6aiAM="
+    }
+  },
+  "version": "2.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "fr.gaulupeau.apps.InThePoche",
+  "signerFingerprints": [
+    "BA:DD:AC:6A:DD:87:66:CE:4D:29:2E:73:89:CA:E7:C5:26:73:87:02:C6:50:20:13:5C:99:54:7F:37:D3:06:FE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

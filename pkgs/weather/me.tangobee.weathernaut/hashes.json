@@ -1,0 +1,18 @@
+{
+  "apkName": "me.tangobee.weathernaut_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0RliblhgCZGNP13+sbcQMRHiHnjW9+khYIj9qKKsncU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0RliblhgCZGNP13+sbcQMRHiHnjW9+khYIj9qKKsncU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0RliblhgCZGNP13+sbcQMRHiHnjW9+khYIj9qKKsncU="
+    }
+  },
+  "version": "2.0"
+}

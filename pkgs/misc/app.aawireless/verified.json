@@ -1,0 +1,9 @@
+{
+  "package": "app.aawireless",
+  "signerFingerprints": [
+    "47:A3:74:83:9C:2A:EF:FC:3E:EB:F1:17:2B:8F:F7:D9:90:A9:84:E3:7B:FE:48:E6:8B:49:92:F8:65:B8:DF:DF"
+  ],
+  "source": "privacyguides/verified-apps",
+  "source-license": "CC-BY-4.0",
+  "source-license-url": "https://github.com/privacyguides/verified-apps/blob/main/LICENSE.txt"
+}

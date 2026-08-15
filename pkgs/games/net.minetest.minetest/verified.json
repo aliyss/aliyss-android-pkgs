@@ -1,0 +1,8 @@
+{
+  "package": "net.minetest.minetest",
+  "signerFingerprints": [
+    "E7:D6:04:7C:1D:75:71:98:11:B3:17:96:4A:4A:B1:C0:AD:3B:00:3B:C3:B8:B3:D7:29:25:B4:D6:05:CA:45:EE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

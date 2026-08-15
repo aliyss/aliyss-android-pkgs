@@ -1,0 +1,18 @@
+{
+  "apkName": "de.marmaro.krt.ffupdater_179_f4e642b.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sahUwkjKMzav0RL49iDFyMRMAt1qrFeEGZ+ZMcI3fOY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sahUwkjKMzav0RL49iDFyMRMAt1qrFeEGZ+ZMcI3fOY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sahUwkjKMzav0RL49iDFyMRMAt1qrFeEGZ+ZMcI3fOY="
+    }
+  },
+  "version": "81.0.0"
+}

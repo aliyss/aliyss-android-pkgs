@@ -1,0 +1,8 @@
+{
+  "package": "com.jtmcn.archwiki.viewer",
+  "signerFingerprints": [
+    "AF:BC:D1:3E:34:9C:79:20:12:4C:36:70:E3:FB:A9:F5:6B:9E:9E:44:E4:C1:3E:15:53:3B:D0:88:6B:1E:CE:27"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

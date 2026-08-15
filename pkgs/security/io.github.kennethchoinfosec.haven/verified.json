@@ -1,0 +1,8 @@
+{
+  "package": "io.github.kennethchoinfosec.haven",
+  "signerFingerprints": [
+    "23:27:F8:DC:CF:21:A2:1E:7D:40:C1:21:14:C9:FB:BA:92:5B:D7:E6:4D:56:F1:15:D5:44:B5:74:35:AD:DB:C1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.nima.taskmanager",
+  "signerFingerprints": [
+    "07:8C:F6:84:A4:A7:95:72:DC:CE:D6:A2:69:B6:68:41:7B:2A:6D:0F:1B:B8:57:CC:1E:78:DC:E4:5D:0B:82:F7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

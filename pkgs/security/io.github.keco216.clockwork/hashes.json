@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.keco216.clockwork_10503.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6PendaeLxwFqGm18KSq3aitL2l2el3oWPcE8xrdgmgs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6PendaeLxwFqGm18KSq3aitL2l2el3oWPcE8xrdgmgs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6PendaeLxwFqGm18KSq3aitL2l2el3oWPcE8xrdgmgs="
+    }
+  },
+  "version": "1.5.3"
+}

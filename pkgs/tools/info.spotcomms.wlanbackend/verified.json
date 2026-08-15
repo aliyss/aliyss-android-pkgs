@@ -1,0 +1,8 @@
+{
+  "package": "info.spotcomms.wlanbackend",
+  "signerFingerprints": [
+    "9E:81:F4:13:F4:9E:3D:71:C8:9D:26:72:E2:40:98:55:3D:3C:D1:52:03:35:50:3C:68:FD:40:65:9F:7D:50:A5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

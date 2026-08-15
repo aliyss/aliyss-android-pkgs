@@ -1,0 +1,18 @@
+{
+  "apkName": "org.kaqui_103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rgLzPol6eov1nknfnMn4sm8SXj5o3+XR6bvEOkWRukM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rgLzPol6eov1nknfnMn4sm8SXj5o3+XR6bvEOkWRukM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rgLzPol6eov1nknfnMn4sm8SXj5o3+XR6bvEOkWRukM="
+    }
+  },
+  "version": "1.45"
+}

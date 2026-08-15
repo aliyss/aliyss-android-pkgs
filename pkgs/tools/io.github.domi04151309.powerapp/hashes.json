@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.domi04151309.powerapp_190.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6Fj+EI9UqxY93wSPdDj39ff3mXMVIvvKujogFfmUpcA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6Fj+EI9UqxY93wSPdDj39ff3mXMVIvvKujogFfmUpcA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6Fj+EI9UqxY93wSPdDj39ff3mXMVIvvKujogFfmUpcA="
+    }
+  },
+  "version": "1.9.0"
+}

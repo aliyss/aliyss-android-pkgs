@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tmendes.birthdaydroid_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XKFEpRAxSFzAhzuw/0H0/sEaaVsB0pi9r+Yl2z961N4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XKFEpRAxSFzAhzuw/0H0/sEaaVsB0pi9r+Yl2z961N4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XKFEpRAxSFzAhzuw/0H0/sEaaVsB0pi9r+Yl2z961N4="
+    }
+  },
+  "version": "20211213_V53"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.connectbot_11009000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GR5pkKTblbBLbT2YkG4GKBhypZYxM6+1tG5NMkc2dC8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GR5pkKTblbBLbT2YkG4GKBhypZYxM6+1tG5NMkc2dC8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GR5pkKTblbBLbT2YkG4GKBhypZYxM6+1tG5NMkc2dC8="
+    }
+  },
+  "version": "1.10.9-oss"
+}

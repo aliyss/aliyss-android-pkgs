@@ -1,0 +1,18 @@
+{
+  "apkName": "de.morzo.realmscore_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ank/kmuvt/uHR5BZ6z7tRJR6Sjqk4YJcYRyyuJjrbiQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ank/kmuvt/uHR5BZ6z7tRJR6Sjqk4YJcYRyyuJjrbiQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ank/kmuvt/uHR5BZ6z7tRJR6Sjqk4YJcYRyyuJjrbiQ="
+    }
+  },
+  "version": "1.3.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.xcreen.restsms_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KoU66+PpaTvWRRNR4RWkAtLEwmxxUzPGc8iE384IKgs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KoU66+PpaTvWRRNR4RWkAtLEwmxxUzPGc8iE384IKgs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KoU66+PpaTvWRRNR4RWkAtLEwmxxUzPGc8iE384IKgs="
+    }
+  },
+  "version": "2.5.0"
+}

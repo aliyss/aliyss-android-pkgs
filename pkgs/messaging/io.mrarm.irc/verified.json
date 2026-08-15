@@ -1,0 +1,8 @@
+{
+  "package": "io.mrarm.irc",
+  "signerFingerprints": [
+    "AD:FA:84:20:86:6D:13:4E:4B:73:52:8A:16:6E:DD:DB:4A:3B:46:D3:2E:34:3E:E8:14:E0:C5:7C:BD:4E:6D:EE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.paladyn.mediclog_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Skjt0uKjeOo12PP6rVy7yfNn65zxF5TXXBRs0Ijc26Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Skjt0uKjeOo12PP6rVy7yfNn65zxF5TXXBRs0Ijc26Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Skjt0uKjeOo12PP6rVy7yfNn65zxF5TXXBRs0Ijc26Y="
+    }
+  },
+  "version": "0.2.19"
+}

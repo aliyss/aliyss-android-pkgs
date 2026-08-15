@@ -1,0 +1,8 @@
+{
+  "package": "ca.ramzan.virtuosity",
+  "signerFingerprints": [
+    "49:A3:FB:A9:CB:E1:E3:53:E3:4D:2E:45:23:F7:67:E4:0B:1B:C6:B9:94:8B:42:2C:A9:F4:17:DD:20:88:55:1D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

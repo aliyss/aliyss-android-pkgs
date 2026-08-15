@@ -1,0 +1,18 @@
+{
+  "apkName": "net.hyx.app.volumenotification_12820.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LAYeXQLYixfXOKZ6XaHyMTsVXUkjKdFpJ2qkG0iy3Zc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LAYeXQLYixfXOKZ6XaHyMTsVXUkjKdFpJ2qkG0iy3Zc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LAYeXQLYixfXOKZ6XaHyMTsVXUkjKdFpJ2qkG0iy3Zc="
+    }
+  },
+  "version": "1.2.8.2"
+}

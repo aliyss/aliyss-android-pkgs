@@ -1,0 +1,8 @@
+{
+  "package": "eu.darken.apl",
+  "signerFingerprints": [
+    "63:86:6B:8A:A6:9D:26:93:83:2A:2F:49:71:90:23:13:09:79:FE:30:1A:7F:53:11:F4:A1:29:CC:76:30:8A:9A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

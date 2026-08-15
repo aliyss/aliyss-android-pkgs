@@ -1,0 +1,8 @@
+{
+  "package": "org.openpetfoodfacts.scanner",
+  "signerFingerprints": [
+    "73:B8:8F:5F:14:4A:12:E5:1D:2B:6B:6C:F1:AF:7B:C1:2D:8F:DA:AE:19:87:48:52:C7:6B:50:1C:48:13:B9:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

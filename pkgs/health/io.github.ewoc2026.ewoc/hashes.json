@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.ewoc2026.ewoc_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l6a8r5cDazZg0EN3ch68igyR0sAUsFlJDXg01yuuzxY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l6a8r5cDazZg0EN3ch68igyR0sAUsFlJDXg01yuuzxY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l6a8r5cDazZg0EN3ch68igyR0sAUsFlJDXg01yuuzxY="
+    }
+  },
+  "version": "1.0.4"
+}

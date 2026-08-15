@@ -1,0 +1,8 @@
+{
+  "package": "io.github.rickymohk.opendefault",
+  "signerFingerprints": [
+    "CE:11:8D:E2:BD:4B:B7:EB:2D:B2:A4:6E:7B:2B:90:0B:75:30:AC:99:23:F7:AC:96:FD:D8:F1:9B:45:65:EA:FA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

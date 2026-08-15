@@ -1,0 +1,18 @@
+{
+  "apkName": "simbio.se.nheengare_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Vo8QHCQ8ZcjFqBxWsf+0itMU8lQF+w6SxDkwO55Qcp4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Vo8QHCQ8ZcjFqBxWsf+0itMU8lQF+w6SxDkwO55Qcp4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Vo8QHCQ8ZcjFqBxWsf+0itMU8lQF+w6SxDkwO55Qcp4="
+    }
+  },
+  "version": "3.0.2"
+}

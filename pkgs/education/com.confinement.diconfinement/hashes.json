@@ -1,0 +1,18 @@
+{
+  "apkName": "com.confinement.diconfinement_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6nS7zznbBYh0Z36jG8pNIda62tNb00ssVsHPDtwFk2Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6nS7zznbBYh0Z36jG8pNIda62tNb00ssVsHPDtwFk2Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6nS7zznbBYh0Z36jG8pNIda62tNb00ssVsHPDtwFk2Q="
+    }
+  },
+  "version": "8.0"
+}

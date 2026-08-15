@@ -1,0 +1,18 @@
+{
+  "apkName": "it.feio.android.omninotes.foss_331.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s5zmlC8ggZStR+QIMMbT9O+P6o8/V6FvPNctmKnw1f0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s5zmlC8ggZStR+QIMMbT9O+P6o8/V6FvPNctmKnw1f0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s5zmlC8ggZStR+QIMMbT9O+P6o8/V6FvPNctmKnw1f0="
+    }
+  },
+  "version": "6.3.1"
+}

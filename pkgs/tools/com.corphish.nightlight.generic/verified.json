@@ -1,0 +1,8 @@
+{
+  "package": "com.corphish.nightlight.generic",
+  "signerFingerprints": [
+    "3D:2C:7C:CD:95:D7:47:9E:C8:E4:C6:A7:1E:CC:73:58:06:50:2A:D1:AD:D0:5D:23:6A:E8:90:25:B9:FE:20:DF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

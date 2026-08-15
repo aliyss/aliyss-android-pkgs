@@ -1,0 +1,8 @@
+{
+  "package": "com.CasparvdBroek.bletomqtt",
+  "signerFingerprints": [
+    "5E:15:49:75:81:95:E8:72:D9:84:F9:F8:34:7A:52:6D:6A:92:2C:57:41:6D:FE:5E:CD:F3:5B:ED:79:98:B1:B9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

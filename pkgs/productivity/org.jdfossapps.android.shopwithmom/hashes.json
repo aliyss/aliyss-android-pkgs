@@ -1,0 +1,18 @@
+{
+  "apkName": "org.jdfossapps.android.shopwithmom_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eMcHLPJ8dJHO2hEOvRG9dUoPmENCTf4zvtR9uE9YDGo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eMcHLPJ8dJHO2hEOvRG9dUoPmENCTf4zvtR9uE9YDGo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eMcHLPJ8dJHO2hEOvRG9dUoPmENCTf4zvtR9uE9YDGo="
+    }
+  },
+  "version": "0.0.6"
+}

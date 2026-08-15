@@ -1,0 +1,18 @@
+{
+  "apkName": "com.saad_khan_rind.atmosphere_effect_300711.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iQER3v6K21F527cmLo2WIGUaOX8cinw75g/nlPwPpPU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iQER3v6K21F527cmLo2WIGUaOX8cinw75g/nlPwPpPU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iQER3v6K21F527cmLo2WIGUaOX8cinw75g/nlPwPpPU="
+    }
+  },
+  "version": "7.1.1"
+}

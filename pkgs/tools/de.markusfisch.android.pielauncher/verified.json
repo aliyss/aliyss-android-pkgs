@@ -1,0 +1,8 @@
+{
+  "package": "de.markusfisch.android.pielauncher",
+  "signerFingerprints": [
+    "23:85:E4:9F:F0:72:D9:0D:CE:F9:DB:28:90:B3:30:53:3C:E4:72:EF:EB:79:01:99:4E:0D:22:2D:52:00:97:8B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

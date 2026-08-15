@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.aleksandr.dccppthrottle_2022.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6bVXnw/oLTfklzEceIdEnTLKX4oFQJCP2b5sKZ89aYs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6bVXnw/oLTfklzEceIdEnTLKX4oFQJCP2b5sKZ89aYs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6bVXnw/oLTfklzEceIdEnTLKX4oFQJCP2b5sKZ89aYs="
+    }
+  },
+  "version": "1.4"
+}

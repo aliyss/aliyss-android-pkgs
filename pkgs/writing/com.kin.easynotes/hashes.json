@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kin.easynotes_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bWUr33xyEn+mUbWoNZS6KBDt7z4I+8Yt3v5KkrPeD9E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bWUr33xyEn+mUbWoNZS6KBDt7z4I+8Yt3v5KkrPeD9E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bWUr33xyEn+mUbWoNZS6KBDt7z4I+8Yt3v5KkrPeD9E="
+    }
+  },
+  "version": "1.7-fdroid"
+}

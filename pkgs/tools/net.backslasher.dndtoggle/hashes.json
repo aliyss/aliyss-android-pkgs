@@ -1,0 +1,18 @@
+{
+  "apkName": "net.backslasher.dndtoggle_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hGHrZbJCrd3Ck6yUXJsEL7UKQB1JJoLMRK5xs+3BA8g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hGHrZbJCrd3Ck6yUXJsEL7UKQB1JJoLMRK5xs+3BA8g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hGHrZbJCrd3Ck6yUXJsEL7UKQB1JJoLMRK5xs+3BA8g="
+    }
+  },
+  "version": "1.9"
+}

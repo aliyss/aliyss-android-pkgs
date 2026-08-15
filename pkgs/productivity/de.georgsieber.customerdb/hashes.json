@@ -1,0 +1,18 @@
+{
+  "apkName": "de.georgsieber.customerdb_99.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0gNdbrDVCJbbdlePfxEY3U509SkkxBcRmbr6y3a5ayk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0gNdbrDVCJbbdlePfxEY3U509SkkxBcRmbr6y3a5ayk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0gNdbrDVCJbbdlePfxEY3U509SkkxBcRmbr6y3a5ayk="
+    }
+  },
+  "version": "3.11.6"
+}

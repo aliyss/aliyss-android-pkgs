@@ -1,0 +1,18 @@
+{
+  "apkName": "app.pwhs.universalinstaller_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KqButxEF/2gioWgxZ5nUfVfQ/s5GXvVrPG6AurUUhv0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KqButxEF/2gioWgxZ5nUfVfQ/s5GXvVrPG6AurUUhv0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KqButxEF/2gioWgxZ5nUfVfQ/s5GXvVrPG6AurUUhv0="
+    }
+  },
+  "version": "1.9.11"
+}

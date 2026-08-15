@@ -1,0 +1,18 @@
+{
+  "apkName": "com.enjoyingfoss.om_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OxLnc2ngGAO4PEPMg5lFit2IA3a2VO5AaouB0EGjLJo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OxLnc2ngGAO4PEPMg5lFit2IA3a2VO5AaouB0EGjLJo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OxLnc2ngGAO4PEPMg5lFit2IA3a2VO5AaouB0EGjLJo="
+    }
+  },
+  "version": "1.0"
+}

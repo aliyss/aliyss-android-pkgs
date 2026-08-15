@@ -1,0 +1,18 @@
+{
+  "apkName": "org.client.scrcpy_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9sSNrNOTcsoEMq0XKwYr3NdosX8Mlz+RPMlNU+LVbHI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9sSNrNOTcsoEMq0XKwYr3NdosX8Mlz+RPMlNU+LVbHI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9sSNrNOTcsoEMq0XKwYr3NdosX8Mlz+RPMlNU+LVbHI="
+    }
+  },
+  "version": "1.5.1"
+}

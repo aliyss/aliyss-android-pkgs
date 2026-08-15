@@ -1,0 +1,18 @@
+{
+  "apkName": "jp.ddo.hotmist.unicodepad_79.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TnGGQYL4gaYQQzAylrKuEDCokuxnvWz1m9tmu3XRRVo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TnGGQYL4gaYQQzAylrKuEDCokuxnvWz1m9tmu3XRRVo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TnGGQYL4gaYQQzAylrKuEDCokuxnvWz1m9tmu3XRRVo="
+    }
+  },
+  "version": "2.19.3-fdroid"
+}

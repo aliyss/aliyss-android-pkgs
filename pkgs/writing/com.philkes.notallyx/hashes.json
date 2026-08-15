@@ -1,0 +1,18 @@
+{
+  "apkName": "com.philkes.notallyx_71120.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-D1IEiJ6G6csTDQe0vmCgCdQh0/TH+Ov8WvJNyyzuAwE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D1IEiJ6G6csTDQe0vmCgCdQh0/TH+Ov8WvJNyyzuAwE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D1IEiJ6G6csTDQe0vmCgCdQh0/TH+Ov8WvJNyyzuAwE="
+    }
+  },
+  "version": "7.11.2"
+}

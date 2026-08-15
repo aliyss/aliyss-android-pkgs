@@ -1,0 +1,8 @@
+{
+  "package": "xyz.philei.ddnsupdater",
+  "signerFingerprints": [
+    "F6:86:9C:A4:7C:BF:0C:34:15:57:AD:A4:0E:B9:B1:63:00:D5:2D:E6:F1:BC:51:7F:1B:8E:0F:4D:5F:8F:68:52"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

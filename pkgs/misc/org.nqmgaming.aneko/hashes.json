@@ -1,0 +1,18 @@
+{
+  "apkName": "org.nqmgaming.aneko_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MnChT90Uf86NRsJYoWTEBog2Tn0Bn/7j1fpKV2zj4jQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MnChT90Uf86NRsJYoWTEBog2Tn0Bn/7j1fpKV2zj4jQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MnChT90Uf86NRsJYoWTEBog2Tn0Bn/7j1fpKV2zj4jQ="
+    }
+  },
+  "version": "2.4.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "de.storchp.fdroidbuildstatus",
+  "signerFingerprints": [
+    "42:44:FB:47:5D:6B:30:FA:AF:A2:3E:30:EB:1A:B5:38:F3:17:73:66:38:B8:AC:15:61:A9:41:7A:6C:E4:EC:E3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "bruce.app_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SfhdxmzDuNpaG1x2UpWX36cJ6/t8xNgUfX68JVX8gkI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SfhdxmzDuNpaG1x2UpWX36cJ6/t8xNgUfX68JVX8gkI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SfhdxmzDuNpaG1x2UpWX36cJ6/t8xNgUfX68JVX8gkI="
+    }
+  },
+  "version": "1.0"
+}

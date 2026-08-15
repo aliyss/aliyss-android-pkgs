@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quaap.primary_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IPres8pbc6+mlL0YvgJ/DYx78Wn66n2Zpr/Z6PWIfJI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IPres8pbc6+mlL0YvgJ/DYx78Wn66n2Zpr/Z6PWIfJI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IPres8pbc6+mlL0YvgJ/DYx78Wn66n2Zpr/Z6PWIfJI="
+    }
+  },
+  "version": "0.3.3"
+}

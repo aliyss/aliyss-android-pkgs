@@ -1,0 +1,18 @@
+{
+  "apkName": "at.bitfire.davdroid_405190003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Hv1NYlHSVvlfEg0AxI2sdBkm14kPdnMil2IuloOW0sQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hv1NYlHSVvlfEg0AxI2sdBkm14kPdnMil2IuloOW0sQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hv1NYlHSVvlfEg0AxI2sdBkm14kPdnMil2IuloOW0sQ="
+    }
+  },
+  "version": "4.5.19-ose"
+}

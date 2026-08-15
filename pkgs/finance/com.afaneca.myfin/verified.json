@@ -1,0 +1,8 @@
+{
+  "package": "com.afaneca.myfin",
+  "signerFingerprints": [
+    "4D:B9:0E:24:08:0A:98:C3:7D:6D:0C:68:5D:84:20:B7:C8:9F:16:7F:73:81:73:FD:28:A7:13:D1:8F:0F:31:C9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.manichord.mgit_240.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ORIIQ9pIu2OsZl7vowIOqFxKW3gm9AMpW+Sfl+V+ALo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ORIIQ9pIu2OsZl7vowIOqFxKW3gm9AMpW+Sfl+V+ALo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ORIIQ9pIu2OsZl7vowIOqFxKW3gm9AMpW+Sfl+V+ALo="
+    }
+  },
+  "version": "1.7.0"
+}

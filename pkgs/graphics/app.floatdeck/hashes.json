@@ -1,0 +1,18 @@
+{
+  "apkName": "app.floatdeck_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0HGZIaBxyAFnn7ZIzv75nqqLHp8RL3rY0zMVQr5LiAU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0HGZIaBxyAFnn7ZIzv75nqqLHp8RL3rY0zMVQr5LiAU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0HGZIaBxyAFnn7ZIzv75nqqLHp8RL3rY0zMVQr5LiAU="
+    }
+  },
+  "version": "0.3.1"
+}

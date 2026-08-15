@@ -1,0 +1,8 @@
+{
+  "package": "com.mushotoku.app",
+  "signerFingerprints": [
+    "E4:FA:6E:51:69:A8:78:3D:06:4B:F3:95:B3:63:3D:20:09:9A:B1:92:0E:95:38:5F:E9:25:A2:9F:8F:93:D1:F9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

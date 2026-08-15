@@ -1,0 +1,18 @@
+{
+  "apkName": "news.androidtv.launchonboot_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-E8S+R39j0VB/p3Yi58Zeo2iNIUHbhf0eBpxZ7J6ieQo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E8S+R39j0VB/p3Yi58Zeo2iNIUHbhf0eBpxZ7J6ieQo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E8S+R39j0VB/p3Yi58Zeo2iNIUHbhf0eBpxZ7J6ieQo="
+    }
+  },
+  "version": "1.1.3"
+}

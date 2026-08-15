@@ -1,0 +1,18 @@
+{
+  "apkName": "de.k4ever.k4android_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JotztN1I+O8Cr50yhIJGA44L0WDsLUQeMPDdCfOcyv8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JotztN1I+O8Cr50yhIJGA44L0WDsLUQeMPDdCfOcyv8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JotztN1I+O8Cr50yhIJGA44L0WDsLUQeMPDdCfOcyv8="
+    }
+  },
+  "version": "1.3"
+}

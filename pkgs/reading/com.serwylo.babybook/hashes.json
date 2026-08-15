@@ -1,0 +1,18 @@
+{
+  "apkName": "com.serwylo.babybook_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ibTig8duJ0U+4M/NAFK60pKOpB5nRmFpAWL8hdvwNAM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ibTig8duJ0U+4M/NAFK60pKOpB5nRmFpAWL8hdvwNAM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ibTig8duJ0U+4M/NAFK60pKOpB5nRmFpAWL8hdvwNAM="
+    }
+  },
+  "version": "0.9.2"
+}

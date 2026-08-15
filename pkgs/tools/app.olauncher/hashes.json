@@ -1,0 +1,18 @@
+{
+  "apkName": "app.olauncher_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n3dJf2LwOnqa3nnBrU5x75x+fyEl80/YtKdpZOgmMFU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n3dJf2LwOnqa3nnBrU5x75x+fyEl80/YtKdpZOgmMFU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n3dJf2LwOnqa3nnBrU5x75x+fyEl80/YtKdpZOgmMFU="
+    }
+  },
+  "version": "v6.7.19"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.github.whitescent.engine",
+  "signerFingerprints": [
+    "2E:FD:94:52:9C:1B:16:E4:A2:16:A7:8F:55:25:DF:86:7A:18:EE:F0:6E:42:8C:48:7D:B1:5E:C4:04:F7:A5:60"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

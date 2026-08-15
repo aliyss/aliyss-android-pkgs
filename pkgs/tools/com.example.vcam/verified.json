@@ -1,0 +1,8 @@
+{
+  "package": "com.example.vcam",
+  "signerFingerprints": [
+    "C0:0A:74:43:CB:6B:02:F6:AE:84:33:B9:5D:91:97:66:13:1B:2B:EE:B8:68:49:A6:93:3F:C6:41:1D:B0:B3:98"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

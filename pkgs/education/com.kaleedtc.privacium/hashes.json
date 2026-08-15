@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kaleedtc.privacium_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ukLhrfKKRqIqaYRipxRTnH/G9OXJXLN4q5eTB9iXFO8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ukLhrfKKRqIqaYRipxRTnH/G9OXJXLN4q5eTB9iXFO8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ukLhrfKKRqIqaYRipxRTnH/G9OXJXLN4q5eTB9iXFO8="
+    }
+  },
+  "version": "2.1.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "background.work.around_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ymyIhTay77jY21J7QkeDxDZzcL+HYkuFnxtPYxrFQ/0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ymyIhTay77jY21J7QkeDxDZzcL+HYkuFnxtPYxrFQ/0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ymyIhTay77jY21J7QkeDxDZzcL+HYkuFnxtPYxrFQ/0="
+    }
+  },
+  "version": "33.0"
+}

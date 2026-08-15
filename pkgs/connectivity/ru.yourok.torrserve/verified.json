@@ -1,0 +1,8 @@
+{
+  "package": "ru.yourok.torrserve",
+  "signerFingerprints": [
+    "CE:16:66:43:E2:C6:AA:D3:F7:43:3A:9E:2C:8E:67:A3:4F:88:DC:D0:ED:EA:74:FD:24:4F:97:37:F0:1A:02:87"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

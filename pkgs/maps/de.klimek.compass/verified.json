@@ -1,0 +1,8 @@
+{
+  "package": "de.klimek.compass",
+  "signerFingerprints": [
+    "4C:58:B3:58:63:D6:FC:FE:D7:3A:B6:97:21:BC:7A:F5:22:89:61:9C:27:AF:6E:2D:6B:D6:22:91:1E:AF:C2:70"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

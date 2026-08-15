@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.zedler.patrick.doodle_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QRuBC+wU3snvwvkq2Qd14UUK4wOzQ++ndbVDp3f0b+8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QRuBC+wU3snvwvkq2Qd14UUK4wOzQ++ndbVDp3f0b+8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QRuBC+wU3snvwvkq2Qd14UUK4wOzQ++ndbVDp3f0b+8="
+    }
+  },
+  "version": "6.0.0"
+}

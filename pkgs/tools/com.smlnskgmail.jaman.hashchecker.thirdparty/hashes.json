@@ -1,0 +1,18 @@
+{
+  "apkName": "com.smlnskgmail.jaman.hashchecker.thirdparty_99.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0BZPbf4UsAuyITRE48ob3A9VMMsbBJP3noKSsrffelA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0BZPbf4UsAuyITRE48ob3A9VMMsbBJP3noKSsrffelA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0BZPbf4UsAuyITRE48ob3A9VMMsbBJP3noKSsrffelA="
+    }
+  },
+  "version": "3.7.3-thirdparty"
+}

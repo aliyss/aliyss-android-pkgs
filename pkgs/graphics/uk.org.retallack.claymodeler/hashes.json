@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.org.retallack.claymodeler_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rekTl39iGoL1Ke+1L7RF7oSBsA7zOB5uSibAhaqaQD8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rekTl39iGoL1Ke+1L7RF7oSBsA7zOB5uSibAhaqaQD8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rekTl39iGoL1Ke+1L7RF7oSBsA7zOB5uSibAhaqaQD8="
+    }
+  },
+  "version": "1.1.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "hr.dtakac.prognoza",
+  "signerFingerprints": [
+    "3A:33:0D:E2:83:8C:A6:C9:DC:F7:6E:B7:E5:02:78:6E:1E:7F:17:50:F9:04:54:30:4E:76:A5:FF:21:77:6E:FF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

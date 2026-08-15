@@ -1,0 +1,18 @@
+{
+  "apkName": "net.pgaskin.batterytile_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OPZXaGJT0XR047+qJjUCIk4ZP9HIe1sdbF9kGniwD88="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OPZXaGJT0XR047+qJjUCIk4ZP9HIe1sdbF9kGniwD88="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OPZXaGJT0XR047+qJjUCIk4ZP9HIe1sdbF9kGniwD88="
+    }
+  },
+  "version": "4"
+}

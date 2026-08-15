@@ -1,0 +1,18 @@
+{
+  "apkName": "de.lukaspieper.gcam.services_100000010.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wxoCrR5hJPkFyX3i2EpRFwSPacsEt5l7p94R6gJ7kMQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wxoCrR5hJPkFyX3i2EpRFwSPacsEt5l7p94R6gJ7kMQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wxoCrR5hJPkFyX3i2EpRFwSPacsEt5l7p94R6gJ7kMQ="
+    }
+  },
+  "version": "1.6.1"
+}

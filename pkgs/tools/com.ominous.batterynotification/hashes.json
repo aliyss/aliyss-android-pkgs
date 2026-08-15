@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ominous.batterynotification_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2xznbhuZQjySDK3T9Z5OLzQY9OykkC0HW7zWhjKmaZI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2xznbhuZQjySDK3T9Z5OLzQY9OykkC0HW7zWhjKmaZI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2xznbhuZQjySDK3T9Z5OLzQY9OykkC0HW7zWhjKmaZI="
+    }
+  },
+  "version": "1.4.7"
+}

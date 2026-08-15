@@ -1,0 +1,8 @@
+{
+  "package": "com.vincent_falzon.discreetlauncher",
+  "signerFingerprints": [
+    "02:EA:69:5B:7E:DD:A6:EC:B7:C6:CA:11:1E:AA:D7:03:08:43:E0:AA:F7:D0:40:A2:14:E2:32:E7:C3:E2:7B:2F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

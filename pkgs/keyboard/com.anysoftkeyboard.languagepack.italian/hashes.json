@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.italian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eVly0oEvNWJEOOqun5b74Z0kZSpYXjRMP41MXCfcri4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eVly0oEvNWJEOOqun5b74Z0kZSpYXjRMP41MXCfcri4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eVly0oEvNWJEOOqun5b74Z0kZSpYXjRMP41MXCfcri4="
+    }
+  },
+  "version": "5.1.6158"
+}

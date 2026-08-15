@@ -1,0 +1,8 @@
+{
+  "package": "app.usp",
+  "signerFingerprints": [
+    "77:55:6B:7E:98:89:FE:36:D6:3E:43:08:74:CC:2E:02:E5:61:57:88:BA:3A:C5:16:32:56:48:8C:D4:FB:4D:F0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

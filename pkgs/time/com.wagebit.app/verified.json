@@ -1,0 +1,8 @@
+{
+  "package": "com.wagebit.app",
+  "signerFingerprints": [
+    "3B:E8:00:23:39:3E:C5:71:4D:62:0C:84:BE:33:FB:B8:32:E3:3F:72:68:CD:1B:38:14:B4:40:65:27:2B:94:EF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

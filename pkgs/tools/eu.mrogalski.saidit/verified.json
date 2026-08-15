@@ -1,0 +1,8 @@
+{
+  "package": "eu.mrogalski.saidit",
+  "signerFingerprints": [
+    "CC:CD:BF:79:4B:50:2D:7F:B9:08:89:1C:A1:D6:07:67:17:50:BE:A3:F5:06:1C:30:30:A6:A7:D2:D9:41:1A:51"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

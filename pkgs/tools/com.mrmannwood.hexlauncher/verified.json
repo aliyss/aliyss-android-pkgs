@@ -1,0 +1,8 @@
+{
+  "package": "com.mrmannwood.hexlauncher",
+  "signerFingerprints": [
+    "6F:5E:73:D9:9C:94:50:9D:5C:5A:E7:3B:90:57:34:79:6B:89:84:B3:9C:5E:6A:F9:5F:6D:B6:60:3B:8A:53:C9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

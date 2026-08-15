@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.ralala.hexviewer_15909.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JlL+ujhybuHYaRfdoLNxCxTMkYJcoqOmOmSXlJPCqVA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JlL+ujhybuHYaRfdoLNxCxTMkYJcoqOmOmSXlJPCqVA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JlL+ujhybuHYaRfdoLNxCxTMkYJcoqOmOmSXlJPCqVA="
+    }
+  },
+  "version": "1.59.9"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.chessclock.android",
+  "signerFingerprints": [
+    "B5:D4:2F:D5:DF:73:FB:73:DF:6A:FD:42:71:12:4A:BE:33:91:3C:CE:AF:C3:48:82:61:6C:CD:9D:8C:D6:03:06"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

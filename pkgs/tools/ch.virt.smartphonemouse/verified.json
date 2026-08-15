@@ -1,0 +1,8 @@
+{
+  "package": "ch.virt.smartphonemouse",
+  "signerFingerprints": [
+    "17:71:9E:30:15:A8:A4:92:2C:31:E7:59:BF:DB:45:23:9F:B1:CD:AE:18:B1:13:DE:6C:0C:E6:CD:34:F8:C1:03"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

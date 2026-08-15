@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.sasikanth.rss.reader_2005.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2vDEXX4f7cZ9AxSz9gklRcsOF3wkntGnn9dbkRPmIVY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2vDEXX4f7cZ9AxSz9gklRcsOF3wkntGnn9dbkRPmIVY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2vDEXX4f7cZ9AxSz9gklRcsOF3wkntGnn9dbkRPmIVY="
+    }
+  },
+  "version": "v3.5.0-FOSS"
+}

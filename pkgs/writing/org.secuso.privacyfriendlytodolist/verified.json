@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlytodolist",
+  "signerFingerprints": [
+    "C1:EF:57:68:4F:78:C5:47:5D:FB:FA:FB:34:E9:61:E3:1D:3B:5F:FF:39:3B:F8:25:77:E1:FE:5F:A7:EA:C3:FE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

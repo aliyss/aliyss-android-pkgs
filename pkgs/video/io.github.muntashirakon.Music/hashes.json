@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.muntashirakon.Music_10603.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ivRKsnC5p12IsJM69dUIMRhY0Cx99BvznHyLUvWC9VY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ivRKsnC5p12IsJM69dUIMRhY0Cx99BvznHyLUvWC9VY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ivRKsnC5p12IsJM69dUIMRhY0Cx99BvznHyLUvWC9VY="
+    }
+  },
+  "version": "6.1.0"
+}

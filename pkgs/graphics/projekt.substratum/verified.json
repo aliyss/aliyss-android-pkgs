@@ -1,0 +1,8 @@
+{
+  "package": "projekt.substratum",
+  "signerFingerprints": [
+    "09:96:71:66:EB:B1:B4:50:3A:02:F9:C0:69:6E:AD:42:88:60:AA:E0:90:A0:42:5A:B3:E5:03:F6:06:BF:07:A7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

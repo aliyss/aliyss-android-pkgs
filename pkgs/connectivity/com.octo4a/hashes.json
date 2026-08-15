@@ -1,0 +1,18 @@
+{
+  "apkName": "com.octo4a_2001000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-09TNlCaekzRiO2OObQJx52Vm/0eZ82TVlqBwc3q1Abk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-09TNlCaekzRiO2OObQJx52Vm/0eZ82TVlqBwc3q1Abk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-09TNlCaekzRiO2OObQJx52Vm/0eZ82TVlqBwc3q1Abk="
+    }
+  },
+  "version": "2.1.0"
+}

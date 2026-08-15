@@ -1,0 +1,18 @@
+{
+  "apkName": "com.danni.happymoments_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YcqLhrotFWcUgI8sOGlwFEuRjgqYGx4CLfquwkkReAI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YcqLhrotFWcUgI8sOGlwFEuRjgqYGx4CLfquwkkReAI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YcqLhrotFWcUgI8sOGlwFEuRjgqYGx4CLfquwkkReAI="
+    }
+  },
+  "version": "1.0.3"
+}

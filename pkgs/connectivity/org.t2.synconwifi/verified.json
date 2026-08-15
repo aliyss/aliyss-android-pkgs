@@ -1,0 +1,8 @@
+{
+  "package": "org.t2.synconwifi",
+  "signerFingerprints": [
+    "C4:71:68:A4:2E:67:7F:26:D3:23:E5:52:AB:A3:F1:94:86:E4:FC:9D:B8:87:BA:49:E5:05:F3:9A:73:7F:87:BF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

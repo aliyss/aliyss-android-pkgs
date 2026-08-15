@@ -1,0 +1,18 @@
+{
+  "apkName": "geddit.buzl.uk_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/F3lMg01Smk+RD6mCe/jvGPnzCOBR+gSemmJ/hCIlMQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/F3lMg01Smk+RD6mCe/jvGPnzCOBR+gSemmJ/hCIlMQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/F3lMg01Smk+RD6mCe/jvGPnzCOBR+gSemmJ/hCIlMQ="
+    }
+  },
+  "version": "1.7"
+}

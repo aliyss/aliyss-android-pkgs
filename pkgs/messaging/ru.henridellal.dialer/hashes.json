@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.henridellal.dialer_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LBc12Su+u0w6VBTCJkKv0kDt00GDwI6PTXhLye5JNuA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LBc12Su+u0w6VBTCJkKv0kDt00GDwI6PTXhLye5JNuA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LBc12Su+u0w6VBTCJkKv0kDt00GDwI6PTXhLye5JNuA="
+    }
+  },
+  "version": "1.0.23"
+}

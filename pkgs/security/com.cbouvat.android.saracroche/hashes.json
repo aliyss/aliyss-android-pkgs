@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cbouvat.android.saracroche_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GLggYuClbvxl0qOs1Jnfyn0LI1N+msOapdjvvEZusiM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GLggYuClbvxl0qOs1Jnfyn0LI1N+msOapdjvvEZusiM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GLggYuClbvxl0qOs1Jnfyn0LI1N+msOapdjvvEZusiM="
+    }
+  },
+  "version": "5.1.1"
+}

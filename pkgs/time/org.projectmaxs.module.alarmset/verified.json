@@ -1,0 +1,8 @@
+{
+  "package": "org.projectmaxs.module.alarmset",
+  "signerFingerprints": [
+    "A8:66:36:E1:82:56:45:4D:3D:92:26:CA:96:79:CB:57:35:D1:66:B8:C1:3E:52:70:34:53:55:AF:3B:53:D4:00"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

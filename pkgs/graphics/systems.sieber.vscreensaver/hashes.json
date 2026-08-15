@@ -1,0 +1,18 @@
+{
+  "apkName": "systems.sieber.vscreensaver_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m9rBC5s/LaiwQrE08EPCuL8tK0/ssyyBMced2P23d4Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m9rBC5s/LaiwQrE08EPCuL8tK0/ssyyBMced2P23d4Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m9rBC5s/LaiwQrE08EPCuL8tK0/ssyyBMced2P23d4Q="
+    }
+  },
+  "version": "1.3.1"
+}

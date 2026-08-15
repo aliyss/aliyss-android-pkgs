@@ -1,0 +1,18 @@
+{
+  "apkName": "com.maksimowiczm.findmyip_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OHuUXr+2pK3DxJerNBbAV3/sD2wOCTVkHUS8Y1Kqyyg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OHuUXr+2pK3DxJerNBbAV3/sD2wOCTVkHUS8Y1Kqyyg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OHuUXr+2pK3DxJerNBbAV3/sD2wOCTVkHUS8Y1Kqyyg="
+    }
+  },
+  "version": "4.1.2"
+}

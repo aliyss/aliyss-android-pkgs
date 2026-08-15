@@ -1,0 +1,8 @@
+{
+  "package": "net.asceai.meritous",
+  "signerFingerprints": [
+    "FB:40:A3:4E:CB:B6:7D:51:C4:86:27:7F:7F:EE:3C:87:DF:6E:F6:EA:84:1E:23:8B:FE:E0:AB:54:FF:EA:F3:61"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mustafaali.sensorssandbox_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-o4AFuAK+1XAkEg3/LLuJbFRv7HtYWjLkvJVSSBY7R2Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o4AFuAK+1XAkEg3/LLuJbFRv7HtYWjLkvJVSSBY7R2Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o4AFuAK+1XAkEg3/LLuJbFRv7HtYWjLkvJVSSBY7R2Y="
+    }
+  },
+  "version": "1.8"
+}

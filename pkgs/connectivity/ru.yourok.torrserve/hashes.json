@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.yourok.torrserve_176.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Z/a7HXyFZI5EdkhInKz4n2rbGAOkg98odQU8h21n310="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z/a7HXyFZI5EdkhInKz4n2rbGAOkg98odQU8h21n310="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z/a7HXyFZI5EdkhInKz4n2rbGAOkg98odQU8h21n310="
+    }
+  },
+  "version": "MatriX.141.FOSS"
+}

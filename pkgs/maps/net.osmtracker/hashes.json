@@ -1,0 +1,18 @@
+{
+  "apkName": "net.osmtracker_73.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NjTfwE7Im7A74qHsOjOVbzxRg0QFrqOS42V8ZzNnYbw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NjTfwE7Im7A74qHsOjOVbzxRg0QFrqOS42V8ZzNnYbw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NjTfwE7Im7A74qHsOjOVbzxRg0QFrqOS42V8ZzNnYbw="
+    }
+  },
+  "version": "2026.02"
+}

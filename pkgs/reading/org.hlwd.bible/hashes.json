@@ -1,0 +1,18 @@
+{
+  "apkName": "org.hlwd.bible_20260612.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MYOPWc+OLaqo173hp7HzmZWnpnqiqfahGame3fQQE2w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MYOPWc+OLaqo173hp7HzmZWnpnqiqfahGame3fQQE2w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MYOPWc+OLaqo173hp7HzmZWnpnqiqfahGame3fQQE2w="
+    }
+  },
+  "version": "4.03"
+}

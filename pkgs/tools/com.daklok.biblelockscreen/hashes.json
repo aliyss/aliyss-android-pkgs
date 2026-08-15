@@ -1,0 +1,18 @@
+{
+  "apkName": "com.daklok.biblelockscreen_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kmyhwUOefoqOwlDo7528Nxx2eoO14znXxsCXdi2ehgM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kmyhwUOefoqOwlDo7528Nxx2eoO14znXxsCXdi2ehgM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kmyhwUOefoqOwlDo7528Nxx2eoO14znXxsCXdi2ehgM="
+    }
+  },
+  "version": "2.1"
+}

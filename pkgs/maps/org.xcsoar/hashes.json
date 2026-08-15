@@ -1,0 +1,18 @@
+{
+  "apkName": "org.xcsoar_182.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AVsM3AKyhfe1SaIbXAckLvcPIwIZeOsuWT+M+HxZTt0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AVsM3AKyhfe1SaIbXAckLvcPIwIZeOsuWT+M+HxZTt0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AVsM3AKyhfe1SaIbXAckLvcPIwIZeOsuWT+M+HxZTt0="
+    }
+  },
+  "version": "7.44"
+}

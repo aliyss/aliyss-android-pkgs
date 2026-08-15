@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.danjackson.speaker_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2UcSsh83K2gFTyCcDxbU0N9DRWTWxuMr3i/uAX2SIxU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2UcSsh83K2gFTyCcDxbU0N9DRWTWxuMr3i/uAX2SIxU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2UcSsh83K2gFTyCcDxbU0N9DRWTWxuMr3i/uAX2SIxU="
+    }
+  },
+  "version": "1.5"
+}

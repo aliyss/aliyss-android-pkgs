@@ -1,0 +1,18 @@
+{
+  "apkName": "player.efis.data.zar.aus_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SA4VcbLp1kDNynNzqTpnW3OIUI96JoXsDscnKAWanrQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SA4VcbLp1kDNynNzqTpnW3OIUI96JoXsDscnKAWanrQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SA4VcbLp1kDNynNzqTpnW3OIUI96JoXsDscnKAWanrQ="
+    }
+  },
+  "version": "1.11"
+}

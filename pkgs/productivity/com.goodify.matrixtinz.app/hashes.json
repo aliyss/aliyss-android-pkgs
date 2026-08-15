@@ -1,0 +1,18 @@
+{
+  "apkName": "com.goodify.matrixtinz.app_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-W9DI/Hd8H3gXCjFyy5N8c57f905E70aUZV8lVnQxsTo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W9DI/Hd8H3gXCjFyy5N8c57f905E70aUZV8lVnQxsTo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W9DI/Hd8H3gXCjFyy5N8c57f905E70aUZV8lVnQxsTo="
+    }
+  },
+  "version": "1.0.3"
+}

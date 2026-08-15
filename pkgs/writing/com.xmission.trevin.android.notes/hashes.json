@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xmission.trevin.android.notes_1070301.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1PipfoSzlOwTLrMCfiphWEs80LhjJtwHGCOEdlQ4X70="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1PipfoSzlOwTLrMCfiphWEs80LhjJtwHGCOEdlQ4X70="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1PipfoSzlOwTLrMCfiphWEs80LhjJtwHGCOEdlQ4X70="
+    }
+  },
+  "version": "1.7.3"
+}

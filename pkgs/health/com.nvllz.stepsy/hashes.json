@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nvllz.stepsy_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-c7FZZ9ZHxoW1krwD/EmDvufzAJ1Sb9abKnQ7s92WRCk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c7FZZ9ZHxoW1krwD/EmDvufzAJ1Sb9abKnQ7s92WRCk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c7FZZ9ZHxoW1krwD/EmDvufzAJ1Sb9abKnQ7s92WRCk="
+    }
+  },
+  "version": "1.6.2"
+}

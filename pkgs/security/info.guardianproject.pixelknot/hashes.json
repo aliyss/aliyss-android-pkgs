@@ -1,0 +1,18 @@
+{
+  "apkName": "info.guardianproject.pixelknot_1021.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-F+ZWr/9/1oZPQam/LWYan9FUVzHe9iP9f0VBG2oc09M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F+ZWr/9/1oZPQam/LWYan9FUVzHe9iP9f0VBG2oc09M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F+ZWr/9/1oZPQam/LWYan9FUVzHe9iP9f0VBG2oc09M="
+    }
+  },
+  "version": "1.0.2.1"
+}

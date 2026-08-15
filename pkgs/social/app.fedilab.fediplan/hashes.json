@@ -1,0 +1,18 @@
+{
+  "apkName": "app.fedilab.fediplan_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i+NhIWfWZgc3PnkvBdVs3Tkk8xytvEVp06z6KqUeeoA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i+NhIWfWZgc3PnkvBdVs3Tkk8xytvEVp06z6KqUeeoA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i+NhIWfWZgc3PnkvBdVs3Tkk8xytvEVp06z6KqUeeoA="
+    }
+  },
+  "version": "1.0.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "felixwiemuth.simplereminder_915700.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NQ2eIEv6zwTcCahW2vM6HjGx47wiuutVTND+mcEJUyI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NQ2eIEv6zwTcCahW2vM6HjGx47wiuutVTND+mcEJUyI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NQ2eIEv6zwTcCahW2vM6HjGx47wiuutVTND+mcEJUyI="
+    }
+  },
+  "version": "0.9.15"
+}

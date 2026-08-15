@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.blinkenlights.android.vanilla_13200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AVDwg4cDLtPVpZUtvhNka/8oePAcLJJn5twy7Lh0cAM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AVDwg4cDLtPVpZUtvhNka/8oePAcLJJn5twy7Lh0cAM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AVDwg4cDLtPVpZUtvhNka/8oePAcLJJn5twy7Lh0cAM="
+    }
+  },
+  "version": "1.3.2"
+}

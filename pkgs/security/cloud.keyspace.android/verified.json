@@ -1,0 +1,8 @@
+{
+  "package": "cloud.keyspace.android",
+  "signerFingerprints": [
+    "42:26:27:9C:DE:25:AD:A2:E2:D0:DB:11:E9:5F:52:56:D2:BA:29:52:53:C4:ED:56:3C:04:8A:66:BA:CD:ED:7B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "be.chvp.nanoledger_2026070402.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gixFxHK1NA00zGPzNX18Yy35Z+h3LXH0x3k5tnSL2rU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gixFxHK1NA00zGPzNX18Yy35Z+h3LXH0x3k5tnSL2rU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gixFxHK1NA00zGPzNX18Yy35Z+h3LXH0x3k5tnSL2rU="
+    }
+  },
+  "version": "1.4.4"
+}

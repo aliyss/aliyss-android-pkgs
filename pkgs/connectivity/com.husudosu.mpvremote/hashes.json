@@ -1,0 +1,18 @@
+{
+  "apkName": "com.husudosu.mpvremote_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UcLDgAwipL/8d8OIHN4nVlcXArL31DyNTyyh70jSCPo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UcLDgAwipL/8d8OIHN4nVlcXArL31DyNTyyh70jSCPo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UcLDgAwipL/8d8OIHN4nVlcXArL31DyNTyyh70jSCPo="
+    }
+  },
+  "version": "1.0.10"
+}

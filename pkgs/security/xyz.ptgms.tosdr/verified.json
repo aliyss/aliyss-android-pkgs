@@ -1,0 +1,8 @@
+{
+  "package": "xyz.ptgms.tosdr",
+  "signerFingerprints": [
+    "1F:DD:27:FE:6B:B7:7E:29:56:36:9C:36:DB:26:6F:4A:DA:F1:0A:2A:80:69:3E:4B:AC:55:F7:22:7F:05:B9:F0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

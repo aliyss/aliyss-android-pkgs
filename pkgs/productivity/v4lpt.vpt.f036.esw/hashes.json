@@ -1,0 +1,18 @@
+{
+  "apkName": "v4lpt.vpt.f036.esw_111.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MNE27CosNRZPAUsz7wend/UDmTVuuQ8mLD3KFceQ75U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MNE27CosNRZPAUsz7wend/UDmTVuuQ8mLD3KFceQ75U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MNE27CosNRZPAUsz7wend/UDmTVuuQ8mLD3KFceQ75U="
+    }
+  },
+  "version": "1.1.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.sztorm.notecalendar",
+  "signerFingerprints": [
+    "74:E0:55:A5:1A:BB:CB:06:1B:D8:A6:97:50:AD:B0:1A:6D:6F:7A:4E:9E:F1:64:50:5D:1C:6F:B0:38:1E:28:87"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "xyz.blorpblorp.app",
+  "signerFingerprints": [
+    "2F:34:3A:93:F3:C3:FE:7D:A2:EC:80:A9:4D:04:43:37:F5:79:9C:BC:0C:70:88:17:DB:AB:DD:5B:AB:CC:A6:3C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

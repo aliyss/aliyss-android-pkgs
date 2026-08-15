@@ -1,0 +1,8 @@
+{
+  "package": "com.strawing.fuckdevicepolicy",
+  "signerFingerprints": [
+    "0D:C4:8B:44:E4:2E:B4:98:AA:91:A2:FC:77:32:51:98:A0:9D:36:08:EE:2C:FB:CB:D6:9A:8E:52:FF:57:9E:DF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

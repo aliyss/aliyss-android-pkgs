@@ -1,0 +1,18 @@
+{
+  "apkName": "com.varuns2002.disable_flag_secure_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5OLRrECzHEvlgorB953Vt7GbsN5e1ICfP80s1a19G7A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5OLRrECzHEvlgorB953Vt7GbsN5e1ICfP80s1a19G7A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5OLRrECzHEvlgorB953Vt7GbsN5e1ICfP80s1a19G7A="
+    }
+  },
+  "version": "2.0.0"
+}

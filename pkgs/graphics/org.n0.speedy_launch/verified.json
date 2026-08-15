@@ -1,0 +1,8 @@
+{
+  "package": "org.n0.speedy_launch",
+  "signerFingerprints": [
+    "B8:99:09:F2:55:AA:01:DD:AD:F7:D1:6B:13:70:D2:4E:A6:4E:9A:0D:C7:6C:A2:BC:5B:F9:6B:75:27:6A:BB:AB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

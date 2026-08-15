@@ -1,0 +1,18 @@
+{
+  "apkName": "org.jarsi.devicewatch_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B7whCYMu0l474I1EqDGlYWOsK4jTZ2uM/r2EUrSQlj8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B7whCYMu0l474I1EqDGlYWOsK4jTZ2uM/r2EUrSQlj8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B7whCYMu0l474I1EqDGlYWOsK4jTZ2uM/r2EUrSQlj8="
+    }
+  },
+  "version": "1.4.1"
+}

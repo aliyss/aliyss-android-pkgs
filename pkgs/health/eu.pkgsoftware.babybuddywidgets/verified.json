@@ -1,0 +1,8 @@
+{
+  "package": "eu.pkgsoftware.babybuddywidgets",
+  "signerFingerprints": [
+    "0C:34:C4:31:6F:9B:0A:D0:7A:9E:24:D8:A1:B1:BC:FA:DB:0F:5E:72:D4:75:AA:A3:A1:C6:67:AC:DF:40:D3:C5"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

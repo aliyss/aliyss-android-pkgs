@@ -1,0 +1,18 @@
+{
+  "apkName": "me.murks.filmchecker_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hAiVa8hVeqZndcE/08ghfAxI+GQI2L9Y7gF39FYKNtA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hAiVa8hVeqZndcE/08ghfAxI+GQI2L9Y7gF39FYKNtA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hAiVa8hVeqZndcE/08ghfAxI+GQI2L9Y7gF39FYKNtA="
+    }
+  },
+  "version": "2.0.5"
+}

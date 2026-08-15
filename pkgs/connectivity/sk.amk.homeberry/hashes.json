@@ -1,0 +1,18 @@
+{
+  "apkName": "sk.amk.homeberry_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fXmmlM6x26O5zRO+eBLe7HI39icUzNB7hSoXn+9VjZo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fXmmlM6x26O5zRO+eBLe7HI39icUzNB7hSoXn+9VjZo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fXmmlM6x26O5zRO+eBLe7HI39icUzNB7hSoXn+9VjZo="
+    }
+  },
+  "version": "1.1"
+}

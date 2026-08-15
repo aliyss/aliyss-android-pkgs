@@ -1,0 +1,18 @@
+{
+  "apkName": "io.timelimit.android.open_217.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EA11Eps/xtDVsiDQpNx1NRCEvkQpQVKxvUEeWEfjLzA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EA11Eps/xtDVsiDQpNx1NRCEvkQpQVKxvUEeWEfjLzA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EA11Eps/xtDVsiDQpNx1NRCEvkQpQVKxvUEeWEfjLzA="
+    }
+  },
+  "version": "7.1.0"
+}

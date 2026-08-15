@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.pranav.reef_430.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-egdd+6/NpzUyh1v+4eCwezAlLYkQoLXwBIt5Ghak4S4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-egdd+6/NpzUyh1v+4eCwezAlLYkQoLXwBIt5Ghak4S4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-egdd+6/NpzUyh1v+4eCwezAlLYkQoLXwBIt5Ghak4S4="
+    }
+  },
+  "version": "4.3.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.glosdalen.app",
+  "signerFingerprints": [
+    "02:90:7B:D6:CC:40:41:89:FE:4C:17:D4:29:8A:BF:28:7F:02:05:7D:2E:B9:4E:A5:41:C2:76:3F:A3:D3:83:6A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

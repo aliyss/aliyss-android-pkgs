@@ -1,0 +1,8 @@
+{
+  "package": "com.armanmaurya.internetradio",
+  "signerFingerprints": [
+    "CE:A0:D7:86:39:36:FD:A4:48:46:D3:70:1F:47:07:6E:E5:B0:C7:FE:F3:37:71:2D:17:85:A9:87:95:FB:BA:95"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

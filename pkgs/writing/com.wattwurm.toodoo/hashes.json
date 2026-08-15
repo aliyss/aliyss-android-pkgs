@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wattwurm.toodoo_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xAJWqgOenDcIEFT+IxY75dXeea2f0iPdrO2MEmDOnqI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xAJWqgOenDcIEFT+IxY75dXeea2f0iPdrO2MEmDOnqI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xAJWqgOenDcIEFT+IxY75dXeea2f0iPdrO2MEmDOnqI="
+    }
+  },
+  "version": "1.7.1"
+}

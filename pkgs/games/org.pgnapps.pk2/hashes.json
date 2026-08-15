@@ -1,0 +1,18 @@
+{
+  "apkName": "org.pgnapps.pk2_1029.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tQgyBiXpWjKyyGPdr2nwT6nVSFzBdl44yEYNSs14hlk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tQgyBiXpWjKyyGPdr2nwT6nVSFzBdl44yEYNSs14hlk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tQgyBiXpWjKyyGPdr2nwT6nVSFzBdl44yEYNSs14hlk="
+    }
+  },
+  "version": "1.4.5"
+}

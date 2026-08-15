@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.pitonite.exch_cx_18000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/vCTwbct0P9kkubJRKlAO1U9dlSyl9WyjBlXAUORS6U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/vCTwbct0P9kkubJRKlAO1U9dlSyl9WyjBlXAUORS6U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/vCTwbct0P9kkubJRKlAO1U9dlSyl9WyjBlXAUORS6U="
+    }
+  },
+  "version": "1.4.0"
+}

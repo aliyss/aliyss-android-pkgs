@@ -1,0 +1,8 @@
+{
+  "package": "io.github.thachillera.cardsscorekeeper",
+  "signerFingerprints": [
+    "EB:7E:62:B1:BC:14:A3:3C:F1:B3:26:57:7F:62:D5:93:39:2C:84:F8:AD:8F:0B:44:A8:DC:15:F1:E3:A7:1A:09"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

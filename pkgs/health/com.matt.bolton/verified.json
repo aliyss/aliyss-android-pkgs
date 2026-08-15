@@ -1,0 +1,8 @@
+{
+  "package": "com.matt.bolton",
+  "signerFingerprints": [
+    "A5:FD:E6:BB:B0:50:03:A4:55:02:B5:6E:CE:30:9A:A3:EC:C5:27:4A:56:43:EF:F0:80:DE:22:96:E5:A6:41:57"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

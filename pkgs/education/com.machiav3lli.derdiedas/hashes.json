@@ -1,0 +1,18 @@
+{
+  "apkName": "com.machiav3lli.derdiedas_3000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8GaQGk8+Uw50pKyza2Glgg9c70WlVK2TigmZSRhz6Js="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8GaQGk8+Uw50pKyza2Glgg9c70WlVK2TigmZSRhz6Js="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8GaQGk8+Uw50pKyza2Glgg9c70WlVK2TigmZSRhz6Js="
+    }
+  },
+  "version": "3.0.0"
+}

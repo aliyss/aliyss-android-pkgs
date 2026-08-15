@@ -1,0 +1,8 @@
+{
+  "package": "app.hypostats",
+  "signerFingerprints": [
+    "5C:0B:0B:3C:9D:26:16:D7:D5:31:76:4B:50:FF:89:DE:7A:3F:CF:3E:A5:9D:D5:F8:13:52:AB:5F:7E:35:8D:D6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

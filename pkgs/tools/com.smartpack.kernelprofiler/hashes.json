@@ -1,0 +1,18 @@
+{
+  "apkName": "com.smartpack.kernelprofiler_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cLHUG6Qofo+Cx8ztIOwlrsxfPYzXXf+z9kEXQiGDUhg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cLHUG6Qofo+Cx8ztIOwlrsxfPYzXXf+z9kEXQiGDUhg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cLHUG6Qofo+Cx8ztIOwlrsxfPYzXXf+z9kEXQiGDUhg="
+    }
+  },
+  "version": "v0.13"
+}

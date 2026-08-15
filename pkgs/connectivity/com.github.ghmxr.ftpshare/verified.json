@@ -1,0 +1,8 @@
+{
+  "package": "com.github.ghmxr.ftpshare",
+  "signerFingerprints": [
+    "B4:29:ED:9E:3B:C2:58:3D:4C:3F:70:E9:A2:D6:A2:A4:27:C8:E6:B0:B2:92:F3:DD:BA:E9:23:7A:ED:01:1D:84"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

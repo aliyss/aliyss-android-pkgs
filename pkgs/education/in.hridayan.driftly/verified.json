@@ -1,0 +1,8 @@
+{
+  "package": "in.hridayan.driftly",
+  "signerFingerprints": [
+    "4E:37:14:4E:A0:80:99:7D:D0:78:F0:95:DF:C8:02:1B:42:CC:51:93:FB:83:15:E6:80:4C:BC:0A:2E:F8:A4:73"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

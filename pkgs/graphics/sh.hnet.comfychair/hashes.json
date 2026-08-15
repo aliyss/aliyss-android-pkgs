@@ -1,0 +1,18 @@
+{
+  "apkName": "sh.hnet.comfychair_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hOWT5paXHlFuPoIoDBxFD5XQmhsD8jVi9tC50TzsBPA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hOWT5paXHlFuPoIoDBxFD5XQmhsD8jVi9tC50TzsBPA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hOWT5paXHlFuPoIoDBxFD5XQmhsD8jVi9tC50TzsBPA="
+    }
+  },
+  "version": "v0.8.12"
+}

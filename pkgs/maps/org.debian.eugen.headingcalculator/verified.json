@@ -1,0 +1,8 @@
+{
+  "package": "org.debian.eugen.headingcalculator",
+  "signerFingerprints": [
+    "5F:4E:1B:61:7B:1B:98:8D:CD:43:4D:2A:DA:EA:B0:91:EE:E1:45:EF:40:BF:93:26:5E:01:87:06:45:76:38:38"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

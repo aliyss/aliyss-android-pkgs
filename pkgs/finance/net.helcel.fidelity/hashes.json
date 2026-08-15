@@ -1,0 +1,18 @@
+{
+  "apkName": "net.helcel.fidelity_474.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GZ73vY6+ANp6hUg8gJ2Dv9aBBxU1C6oXev0kK09ZmMQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GZ73vY6+ANp6hUg8gJ2Dv9aBBxU1C6oXev0kK09ZmMQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GZ73vY6+ANp6hUg8gJ2Dv9aBBxU1C6oXev0kK09ZmMQ="
+    }
+  },
+  "version": "1.3b"
+}

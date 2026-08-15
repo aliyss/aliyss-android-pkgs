@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.mrrar.gps_locker_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iLExDJTV6MDpmSOIeJvOjQL6cbpWEEh3SeqTrzIHH+w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iLExDJTV6MDpmSOIeJvOjQL6cbpWEEh3SeqTrzIHH+w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iLExDJTV6MDpmSOIeJvOjQL6cbpWEEh3SeqTrzIHH+w="
+    }
+  },
+  "version": "0.1.1"
+}

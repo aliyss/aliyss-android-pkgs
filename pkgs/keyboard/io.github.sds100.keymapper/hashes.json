@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.sds100.keymapper_259.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1FWTm5iupTDtzHoTAaa/ZBI1BTP5enchfS0T4b9EH+A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1FWTm5iupTDtzHoTAaa/ZBI1BTP5enchfS0T4b9EH+A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1FWTm5iupTDtzHoTAaa/ZBI1BTP5enchfS0T4b9EH+A="
+    }
+  },
+  "version": "4.3.1-foss"
+}

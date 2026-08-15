@@ -1,0 +1,8 @@
+{
+  "package": "sexy.lyrics",
+  "signerFingerprints": [
+    "FA:C8:99:A6:14:90:C1:D5:87:43:1F:85:F5:83:BF:2B:31:D9:F1:0D:6E:50:74:DE:CF:71:53:A3:83:C7:1D:B6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

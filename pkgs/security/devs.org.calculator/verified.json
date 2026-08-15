@@ -1,0 +1,8 @@
+{
+  "package": "devs.org.calculator",
+  "signerFingerprints": [
+    "1B:6A:72:F8:E4:C7:3A:7E:FD:E0:23:FE:9D:9F:77:40:CC:00:53:43:75:71:3D:66:23:2D:7E:43:52:99:9B:7F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

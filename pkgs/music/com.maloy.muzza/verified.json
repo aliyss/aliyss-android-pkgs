@@ -1,0 +1,8 @@
+{
+  "package": "com.maloy.muzza",
+  "signerFingerprints": [
+    "32:72:D0:46:D6:C8:C1:5D:09:BA:1B:FE:26:47:56:F8:17:A0:A9:AF:D1:80:84:3A:9D:F6:E0:23:E8:BC:89:77"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

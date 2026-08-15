@@ -1,0 +1,18 @@
+{
+  "apkName": "de.gabbo.forro_lyrics_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uJyxB0AROsX9H5Psc3jfj/LLP1/jD1Qw1GMfCLw9pPA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uJyxB0AROsX9H5Psc3jfj/LLP1/jD1Qw1GMfCLw9pPA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uJyxB0AROsX9H5Psc3jfj/LLP1/jD1Qw1GMfCLw9pPA="
+    }
+  },
+  "version": "1.3.1"
+}

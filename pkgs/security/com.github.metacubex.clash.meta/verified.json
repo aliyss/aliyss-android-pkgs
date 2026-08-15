@@ -1,0 +1,8 @@
+{
+  "package": "com.github.metacubex.clash.meta",
+  "signerFingerprints": [
+    "B3:91:08:43:CF:3C:45:14:71:5D:8E:86:73:7C:3B:B6:4B:ED:D1:32:E0:D4:D0:51:18:62:3E:7B:DC:54:1A:51"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

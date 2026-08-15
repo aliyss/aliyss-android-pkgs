@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dasp.worldcup2026_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jHtgyc71pjQ/AA8S/woHFLxvPecs7RfFfxzkoUe8Smc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jHtgyc71pjQ/AA8S/woHFLxvPecs7RfFfxzkoUe8Smc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jHtgyc71pjQ/AA8S/woHFLxvPecs7RfFfxzkoUe8Smc="
+    }
+  },
+  "version": "0.1.0"
+}

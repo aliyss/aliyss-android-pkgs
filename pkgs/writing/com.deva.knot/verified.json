@@ -1,0 +1,8 @@
+{
+  "package": "com.deva.knot",
+  "signerFingerprints": [
+    "FF:19:45:15:90:15:52:83:58:A6:86:85:6F:59:8C:8D:D1:9A:5A:27:1A:52:E7:85:3E:34:58:DB:4F:3F:79:2F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

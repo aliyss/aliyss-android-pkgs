@@ -1,0 +1,8 @@
+{
+  "package": "io.atticusc.atmosweather",
+  "signerFingerprints": [
+    "30:08:EE:87:7A:1F:FA:5A:45:6C:C9:53:FE:E1:DC:14:DA:D2:76:9C:15:10:81:5E:BB:D2:B2:33:0B:6C:1A:6A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

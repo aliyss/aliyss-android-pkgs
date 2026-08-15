@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ah.taplock_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XuKxcpAJfcLW604vM8IXDcUGHIkp8qKmM8qsSrc1sjY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XuKxcpAJfcLW604vM8IXDcUGHIkp8qKmM8qsSrc1sjY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XuKxcpAJfcLW604vM8IXDcUGHIkp8qKmM8qsSrc1sjY="
+    }
+  },
+  "version": "1.15"
+}

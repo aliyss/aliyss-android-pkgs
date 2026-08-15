@@ -1,0 +1,18 @@
+{
+  "apkName": "es.wolfi.app.passman_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NVA+TyarBzyMhkcFRG3Zwb6qF4EpUksfn7AWnYh3FMM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NVA+TyarBzyMhkcFRG3Zwb6qF4EpUksfn7AWnYh3FMM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NVA+TyarBzyMhkcFRG3Zwb6qF4EpUksfn7AWnYh3FMM="
+    }
+  },
+  "version": "1.6.0"
+}

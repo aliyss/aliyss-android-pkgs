@@ -1,0 +1,8 @@
+{
+  "package": "net.markuspetermann.roamingguard",
+  "signerFingerprints": [
+    "82:FE:0A:86:FE:1A:BC:A0:A8:E0:E1:DF:E9:B3:2C:7D:AA:9C:6F:87:66:9C:F0:B4:F4:BF:2E:EE:3C:D6:9A:41"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

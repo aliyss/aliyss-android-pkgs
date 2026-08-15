@@ -1,0 +1,18 @@
+{
+  "apkName": "com.seiko.keystoreviewer_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i1HRkeDb3Kr1ncsVZUhWhuHPNsGyJZtfHViTiPYel0g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i1HRkeDb3Kr1ncsVZUhWhuHPNsGyJZtfHViTiPYel0g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i1HRkeDb3Kr1ncsVZUhWhuHPNsGyJZtfHViTiPYel0g="
+    }
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "app.fedilab.fediplan",
+  "signerFingerprints": [
+    "E9:FE:F9:D1:96:A1:78:9B:BC:62:5D:27:CA:58:E6:98:D7:2B:FD:52:AC:D2:CD:D1:36:E1:7F:0C:07:CE:A2:87"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

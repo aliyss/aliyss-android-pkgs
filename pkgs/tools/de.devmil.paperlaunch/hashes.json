@@ -1,0 +1,18 @@
+{
+  "apkName": "de.devmil.paperlaunch_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mpMy539F96NK0+DPhSXUJ8y3PDS8Ryvio6MuYjC2oFE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mpMy539F96NK0+DPhSXUJ8y3PDS8Ryvio6MuYjC2oFE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mpMy539F96NK0+DPhSXUJ8y3PDS8Ryvio6MuYjC2oFE="
+    }
+  },
+  "version": "2.1.1"
+}

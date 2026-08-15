@@ -1,0 +1,8 @@
+{
+  "package": "com.mendhak.conscryptprovider",
+  "signerFingerprints": [
+    "33:96:E1:FE:3E:BE:FE:1E:34:4D:74:77:22:A2:1A:70:90:2A:73:C6:EA:C3:1F:BE:1C:5C:B0:84:3C:38:4D:4B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

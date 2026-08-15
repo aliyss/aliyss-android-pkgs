@@ -1,0 +1,8 @@
+{
+  "package": "org.purplei2p.i2pd",
+  "signerFingerprints": [
+    "12:F9:A5:80:1B:C2:3C:D1:E1:01:1F:E3:EF:13:0F:9D:11:97:F1:8B:FD:60:73:0A:D2:27:CF:C2:0E:73:D0:A8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

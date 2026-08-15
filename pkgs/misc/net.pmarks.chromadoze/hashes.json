@@ -1,0 +1,18 @@
+{
+  "apkName": "net.pmarks.chromadoze_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eYI5Ic/rgjp1CvFW2QKgZ/oBPrQE3ee6RAWKx26PDh8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eYI5Ic/rgjp1CvFW2QKgZ/oBPrQE3ee6RAWKx26PDh8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eYI5Ic/rgjp1CvFW2QKgZ/oBPrQE3ee6RAWKx26PDh8="
+    }
+  },
+  "version": "4.4"
+}

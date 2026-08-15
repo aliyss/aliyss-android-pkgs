@@ -1,0 +1,8 @@
+{
+  "package": "org.scid.android",
+  "signerFingerprints": [
+    "20:DC:45:F6:B0:C7:15:52:14:5D:BC:A2:27:7F:F8:04:BB:78:5E:43:7F:D9:04:97:A2:79:76:78:39:DA:63:B5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

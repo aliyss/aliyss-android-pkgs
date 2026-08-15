@@ -1,0 +1,8 @@
+{
+  "package": "dev.cipher.notes",
+  "signerFingerprints": [
+    "61:EE:36:FF:08:A3:55:5B:B2:D4:E5:31:47:AD:15:06:3B:9A:2E:05:FA:0B:47:D3:77:4C:62:AD:92:D6:7B:8C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

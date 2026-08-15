@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gitlab.giwiniswut.rwremount_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-U9x7v/mcuD40bAMdOXTjkTLNaPhQUEeMoPu4Of9gSGM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-U9x7v/mcuD40bAMdOXTjkTLNaPhQUEeMoPu4Of9gSGM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-U9x7v/mcuD40bAMdOXTjkTLNaPhQUEeMoPu4Of9gSGM="
+    }
+  },
+  "version": "1.2.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.linkedcamera.app",
+  "signerFingerprints": [
+    "95:B4:C9:F2:C5:12:05:CB:67:5A:A7:38:0A:22:49:62:D4:16:E1:F3:08:07:7B:8F:F8:CC:B9:5B:0E:6C:61:0E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hhvvg.ecm_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ruL/3SHviG/ZIGP+lDP6NumrtUBbDHP9toRBS1gdlLo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ruL/3SHviG/ZIGP+lDP6NumrtUBbDHP9toRBS1gdlLo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ruL/3SHviG/ZIGP+lDP6NumrtUBbDHP9toRBS1gdlLo="
+    }
+  },
+  "version": "1.0.1"
+}

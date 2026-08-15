@@ -1,0 +1,18 @@
+{
+  "apkName": "com.alxgnon.postwriter_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-46Z2weyER9edXoAUYwCEbRfg+wmvX24tfcXQfN2uUjs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-46Z2weyER9edXoAUYwCEbRfg+wmvX24tfcXQfN2uUjs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-46Z2weyER9edXoAUYwCEbRfg+wmvX24tfcXQfN2uUjs="
+    }
+  },
+  "version": "1.1"
+}

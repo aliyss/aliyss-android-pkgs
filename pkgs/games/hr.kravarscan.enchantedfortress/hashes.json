@@ -1,0 +1,18 @@
+{
+  "apkName": "hr.kravarscan.enchantedfortress_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3sQy0Na+x1q9lqFBwmuVugNvlboWLmzgsjTvlYqKfHs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3sQy0Na+x1q9lqFBwmuVugNvlboWLmzgsjTvlYqKfHs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3sQy0Na+x1q9lqFBwmuVugNvlboWLmzgsjTvlYqKfHs="
+    }
+  },
+  "version": "1.15"
+}

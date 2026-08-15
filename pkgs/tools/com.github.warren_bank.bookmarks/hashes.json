@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.bookmarks_2000509.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ee8Ov2hH8c+SVCQHsy+xVu79OFL3IKxEMCR5+vsXk8Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ee8Ov2hH8c+SVCQHsy+xVu79OFL3IKxEMCR5+vsXk8Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ee8Ov2hH8c+SVCQHsy+xVu79OFL3IKxEMCR5+vsXk8Y="
+    }
+  },
+  "version": "002.00.05-09API"
+}

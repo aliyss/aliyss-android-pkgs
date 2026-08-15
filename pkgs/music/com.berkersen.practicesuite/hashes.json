@@ -1,0 +1,18 @@
+{
+  "apkName": "com.berkersen.practicesuite_130.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AwtH9LDXBep/IFDOprz7WY7ufYwmV39IMDMo0YqFkIE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AwtH9LDXBep/IFDOprz7WY7ufYwmV39IMDMo0YqFkIE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AwtH9LDXBep/IFDOprz7WY7ufYwmV39IMDMo0YqFkIE="
+    }
+  },
+  "version": "2.1.3"
+}

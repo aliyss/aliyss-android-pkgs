@@ -1,0 +1,8 @@
+{
+  "package": "info.plateaukao.quickrotate",
+  "signerFingerprints": [
+    "85:CA:92:9B:A5:B7:09:F9:10:B7:51:3F:D5:BE:10:45:F0:CE:BF:1A:D0:91:AB:71:23:ED:E3:38:09:05:BA:65"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

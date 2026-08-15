@@ -1,0 +1,8 @@
+{
+  "package": "com.example.barcodescanner",
+  "signerFingerprints": [
+    "B0:D0:83:C9:51:9C:6D:A5:33:DC:13:09:6A:EC:27:E3:49:16:82:94:65:6A:92:8F:FC:E6:46:C2:AD:CC:A6:E0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

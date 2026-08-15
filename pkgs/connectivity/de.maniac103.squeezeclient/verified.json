@@ -1,0 +1,8 @@
+{
+  "package": "de.maniac103.squeezeclient",
+  "signerFingerprints": [
+    "8F:89:C3:9D:81:5A:A8:47:6D:60:F2:92:57:3B:A7:08:C7:B0:DA:6D:4D:AF:82:E0:AE:FB:63:39:8A:54:BB:A9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

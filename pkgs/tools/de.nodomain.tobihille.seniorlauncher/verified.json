@@ -1,0 +1,8 @@
+{
+  "package": "de.nodomain.tobihille.seniorlauncher",
+  "signerFingerprints": [
+    "C6:B4:E8:DB:CA:4E:0F:72:25:56:1C:A0:77:72:78:7A:CE:07:F2:D6:C4:11:C4:CD:B4:CA:1B:AB:C5:8B:0A:6A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

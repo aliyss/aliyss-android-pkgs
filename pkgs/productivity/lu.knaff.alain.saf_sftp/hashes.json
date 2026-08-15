@@ -1,0 +1,18 @@
+{
+  "apkName": "lu.knaff.alain.saf_sftp_222.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-v84R85qGNYPcslJcWeJgz9TuoDncPXa5x6N4eY+xun0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v84R85qGNYPcslJcWeJgz9TuoDncPXa5x6N4eY+xun0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v84R85qGNYPcslJcWeJgz9TuoDncPXa5x6N4eY+xun0="
+    }
+  },
+  "version": "0.2.22"
+}

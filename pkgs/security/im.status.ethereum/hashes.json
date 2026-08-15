@@ -1,0 +1,18 @@
+{
+  "apkName": "im.status.ethereum_2025102415.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jFQBszCkHb7NANFpT9weoc6N2fHajzvmeC+o0WAs3lY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jFQBszCkHb7NANFpT9weoc6N2fHajzvmeC+o0WAs3lY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jFQBszCkHb7NANFpT9weoc6N2fHajzvmeC+o0WAs3lY="
+    }
+  },
+  "version": "2.34.4"
+}

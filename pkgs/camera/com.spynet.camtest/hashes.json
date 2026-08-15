@@ -1,0 +1,18 @@
+{
+  "apkName": "com.spynet.camtest_g2h_46.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r4c0iqFgxD703Rd9uxevHoqQfmFl6nt0BQ6obml8peg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r4c0iqFgxD703Rd9uxevHoqQfmFl6nt0BQ6obml8peg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r4c0iqFgxD703Rd9uxevHoqQfmFl6nt0BQ6obml8peg="
+    }
+  },
+  "version": "2.5.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.yukigasai.obsidiantodowidget_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gklkUwz9RFLgm0M7dWoAbMH2jFhsUXeVcquBhAt1uuY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gklkUwz9RFLgm0M7dWoAbMH2jFhsUXeVcquBhAt1uuY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gklkUwz9RFLgm0M7dWoAbMH2jFhsUXeVcquBhAt1uuY="
+    }
+  },
+  "version": "0.0.10"
+}

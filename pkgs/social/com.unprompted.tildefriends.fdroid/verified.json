@@ -1,0 +1,8 @@
+{
+  "package": "com.unprompted.tildefriends.fdroid",
+  "signerFingerprints": [
+    "5A:42:7D:88:31:EB:FE:12:9F:2A:0C:1E:8A:6D:32:4A:2D:7D:6F:58:73:AB:3E:7D:88:34:2C:A7:AF:CC:C1:47"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

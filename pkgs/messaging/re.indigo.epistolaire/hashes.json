@@ -1,0 +1,18 @@
+{
+  "apkName": "re.indigo.epistolaire_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pCU3Bw9/QDg0teedhmGaLeqo79vqXlmFIBQq6W5VIEc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pCU3Bw9/QDg0teedhmGaLeqo79vqXlmFIBQq6W5VIEc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pCU3Bw9/QDg0teedhmGaLeqo79vqXlmFIBQq6W5VIEc="
+    }
+  },
+  "version": "0.5.1"
+}

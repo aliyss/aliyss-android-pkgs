@@ -1,0 +1,18 @@
+{
+  "apkName": "at.manuelbichler.octalsuntime_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/ke694eQCoQCjngQCqN2mVl65+VVxcF6KXnfQs7XE3s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/ke694eQCoQCjngQCqN2mVl65+VVxcF6KXnfQs7XE3s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/ke694eQCoQCjngQCqN2mVl65+VVxcF6KXnfQs7XE3s="
+    }
+  },
+  "version": "0.2.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.droogers.smsmatrix_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cow1tocxbvrsIEUJRE/zew8UovsRVu9lcyZkJ6dhi9Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cow1tocxbvrsIEUJRE/zew8UovsRVu9lcyZkJ6dhi9Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cow1tocxbvrsIEUJRE/zew8UovsRVu9lcyZkJ6dhi9Q="
+    }
+  },
+  "version": "0.0.16"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "jl.musicalnotes_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cZfMbOnXofA7HaByA2CWgrldsPcBOLBdhJr2OtD4uJY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cZfMbOnXofA7HaByA2CWgrldsPcBOLBdhJr2OtD4uJY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cZfMbOnXofA7HaByA2CWgrldsPcBOLBdhJr2OtD4uJY="
+    }
+  },
+  "version": "2.2.2"
+}

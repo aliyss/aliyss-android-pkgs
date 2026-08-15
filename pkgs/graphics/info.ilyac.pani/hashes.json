@@ -1,0 +1,18 @@
+{
+  "apkName": "info.ilyac.pani_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EIWvNVRnSIuYJ/Y9+dJ4FdiDvAgjhw0Rp2aM7kwbj84="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EIWvNVRnSIuYJ/Y9+dJ4FdiDvAgjhw0Rp2aM7kwbj84="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EIWvNVRnSIuYJ/Y9+dJ4FdiDvAgjhw0Rp2aM7kwbj84="
+    }
+  },
+  "version": "2.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "truewatcher.tower",
+  "signerFingerprints": [
+    "6C:08:C8:99:83:52:83:8C:48:DB:DA:63:81:04:FA:60:68:39:75:26:34:FD:51:CB:8F:E2:7E:A0:69:1A:70:E0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

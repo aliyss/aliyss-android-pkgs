@@ -1,0 +1,18 @@
+{
+  "apkName": "net.aliasvault.app_3003900.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ez6NsNvz3gRpiA5Ws1/qHL45im7307MJvOrkUw+OSRg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ez6NsNvz3gRpiA5Ws1/qHL45im7307MJvOrkUw+OSRg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ez6NsNvz3gRpiA5Ws1/qHL45im7307MJvOrkUw+OSRg="
+    }
+  },
+  "version": "0.30.3"
+}

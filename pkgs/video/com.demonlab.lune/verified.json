@@ -1,0 +1,8 @@
+{
+  "package": "com.demonlab.lune",
+  "signerFingerprints": [
+    "CC:08:5C:B3:FE:94:02:FF:03:DF:0A:62:2A:4A:5F:A4:8E:5A:8B:36:E0:7C:1F:3C:BD:42:03:3E:F2:4C:E3:F8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

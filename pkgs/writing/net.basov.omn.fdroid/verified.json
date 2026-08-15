@@ -1,0 +1,8 @@
+{
+  "package": "net.basov.omn.fdroid",
+  "signerFingerprints": [
+    "EC:4F:99:3E:13:96:D8:4B:89:A9:F4:00:DA:60:3D:C0:B1:14:19:82:E1:D1:03:B5:4D:83:5B:BD:8D:B2:B8:26"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

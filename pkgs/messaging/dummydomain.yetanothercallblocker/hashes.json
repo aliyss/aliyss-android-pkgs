@@ -1,0 +1,18 @@
+{
+  "apkName": "dummydomain.yetanothercallblocker_5170.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-amuCSdd3xpsaMTOPx0rkimtH39h0xAqJNYfBepMrrqM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-amuCSdd3xpsaMTOPx0rkimtH39h0xAqJNYfBepMrrqM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-amuCSdd3xpsaMTOPx0rkimtH39h0xAqJNYfBepMrrqM="
+    }
+  },
+  "version": "0.5.17"
+}

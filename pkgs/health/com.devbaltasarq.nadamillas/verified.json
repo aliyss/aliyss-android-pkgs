@@ -1,0 +1,8 @@
+{
+  "package": "com.devbaltasarq.nadamillas",
+  "signerFingerprints": [
+    "92:48:EC:3C:E6:77:A3:16:50:A1:7D:80:00:4A:26:0A:6D:9D:6A:56:D5:8E:0D:22:F5:31:A2:36:DA:CA:9F:E0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.dustinhendriks.andme",
+  "signerFingerprints": [
+    "FB:73:FA:D3:CA:80:86:1C:44:A5:E9:93:CE:13:14:DB:E0:20:86:6B:7A:82:BE:73:87:F0:58:0E:77:1D:DC:8B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

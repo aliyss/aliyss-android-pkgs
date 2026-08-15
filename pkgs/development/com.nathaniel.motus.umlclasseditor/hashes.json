@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nathaniel.motus.umlclasseditor_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ns86L+mFy4htWJXp6Q08d0dmlO6+4+Fr2uri0QbDgbY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ns86L+mFy4htWJXp6Q08d0dmlO6+4+Fr2uri0QbDgbY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ns86L+mFy4htWJXp6Q08d0dmlO6+4+Fr2uri0QbDgbY="
+    }
+  },
+  "version": "1.1"
+}

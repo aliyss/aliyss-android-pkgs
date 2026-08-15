@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.teamclouday.AndroidMic_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SWscXznc2FD9TmQFZKw62wKB3BZh4jtj3xdGCDvxmoA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SWscXznc2FD9TmQFZKw62wKB3BZh4jtj3xdGCDvxmoA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SWscXznc2FD9TmQFZKw62wKB3BZh4jtj3xdGCDvxmoA="
+    }
+  },
+  "version": "2.2.8"
+}

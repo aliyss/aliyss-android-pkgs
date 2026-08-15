@@ -1,0 +1,8 @@
+{
+  "package": "com.dynamite.heaterrc",
+  "signerFingerprints": [
+    "31:88:90:2A:6C:E1:59:8D:08:29:B2:35:9E:E5:23:00:89:5A:35:56:3B:31:A9:71:48:0C:7B:6A:76:22:BD:33"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "net.gaast.giggity",
+  "signerFingerprints": [
+    "AB:A8:80:1A:7F:C3:F9:97:6D:9D:B3:9A:C5:F4:16:27:C1:D5:FF:57:72:97:BD:58:9E:0A:97:0F:4C:71:EB:82"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

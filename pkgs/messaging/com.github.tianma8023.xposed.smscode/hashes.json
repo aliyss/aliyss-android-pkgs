@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.tianma8023.xposed.smscode_52.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0W8A6CZU1dIuegqU6uyCrmF7871x8CqsjqU2TSfuelE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0W8A6CZU1dIuegqU6uyCrmF7871x8CqsjqU2TSfuelE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0W8A6CZU1dIuegqU6uyCrmF7871x8CqsjqU2TSfuelE="
+    }
+  },
+  "version": "2.5.1"
+}

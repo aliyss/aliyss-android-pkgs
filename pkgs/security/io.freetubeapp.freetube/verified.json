@@ -1,0 +1,8 @@
+{
+  "package": "io.freetubeapp.freetube",
+  "signerFingerprints": [
+    "4D:96:64:DA:AE:8A:83:53:27:56:AD:C8:77:7E:96:A6:DE:9F:84:97:BB:60:AD:1C:78:2A:DB:71:FA:E8:0F:C1"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

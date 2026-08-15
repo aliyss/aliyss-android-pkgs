@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mathi_amorim.emmanuel.metrictime_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uTBlujsG/V0Vm0Vc3x8muiXiJITqHTHr/iVTRmQOBFM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uTBlujsG/V0Vm0Vc3x8muiXiJITqHTHr/iVTRmQOBFM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uTBlujsG/V0Vm0Vc3x8muiXiJITqHTHr/iVTRmQOBFM="
+    }
+  },
+  "version": "0.1.1"
+}

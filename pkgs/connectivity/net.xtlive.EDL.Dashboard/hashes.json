@@ -1,0 +1,18 @@
+{
+  "apkName": "net.xtlive.EDL.Dashboard_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ofogOst+u1eKyClYMonrnJyty5zkpeQ14p6UtnMDEwc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ofogOst+u1eKyClYMonrnJyty5zkpeQ14p6UtnMDEwc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ofogOst+u1eKyClYMonrnJyty5zkpeQ14p6UtnMDEwc="
+    }
+  },
+  "version": "1.7"
+}

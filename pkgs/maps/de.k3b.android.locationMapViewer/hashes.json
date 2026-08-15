@@ -1,0 +1,18 @@
+{
+  "apkName": "de.k3b.android.locationMapViewer_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TuAZ2Mze3KwEEF5w6tLf7JzaQzpfZAOdXPzxlqLGjXQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TuAZ2Mze3KwEEF5w6tLf7JzaQzpfZAOdXPzxlqLGjXQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TuAZ2Mze3KwEEF5w6tLf7JzaQzpfZAOdXPzxlqLGjXQ="
+    }
+  },
+  "version": "0.3.8.210702"
+}

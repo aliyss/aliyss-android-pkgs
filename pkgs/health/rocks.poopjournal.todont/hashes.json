@@ -1,0 +1,18 @@
+{
+  "apkName": "rocks.poopjournal.todont_420.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iaEiWbL3FKQYzzQ6W61CgF/I66e9+h+X/3wCh0AqT3I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iaEiWbL3FKQYzzQ6W61CgF/I66e9+h+X/3wCh0AqT3I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iaEiWbL3FKQYzzQ6W61CgF/I66e9+h+X/3wCh0AqT3I="
+    }
+  },
+  "version": "4.2.0"
+}

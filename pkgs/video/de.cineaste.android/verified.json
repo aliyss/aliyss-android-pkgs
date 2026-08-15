@@ -1,0 +1,8 @@
+{
+  "package": "de.cineaste.android",
+  "signerFingerprints": [
+    "8E:8E:88:93:9C:48:26:4B:D4:92:04:E1:D1:2B:52:64:66:88:F1:D2:4F:96:56:12:44:4D:47:BF:3A:03:00:ED"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "dev.mage.age",
+  "signerFingerprints": [
+    "B7:2B:A7:C9:B6:FE:10:C0:AA:CC:14:1C:DE:5E:B1:FF:E3:E4:7D:74:73:CA:68:B9:CC:33:9D:D0:D4:FD:CF:A3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

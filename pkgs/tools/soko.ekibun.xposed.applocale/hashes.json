@@ -1,0 +1,18 @@
+{
+  "apkName": "soko.ekibun.xposed.applocale_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RRvDE5NfWrBySq29HN+nDNqbWfK6IveDMlOqhEZ1Aig="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RRvDE5NfWrBySq29HN+nDNqbWfK6IveDMlOqhEZ1Aig="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RRvDE5NfWrBySq29HN+nDNqbWfK6IveDMlOqhEZ1Aig="
+    }
+  },
+  "version": "3.1.0"
+}

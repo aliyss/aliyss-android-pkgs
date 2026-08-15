@@ -1,0 +1,8 @@
+{
+  "package": "com.fazziclay.opentoday",
+  "signerFingerprints": [
+    "8B:54:1C:47:F0:73:87:3A:F1:FD:21:AA:83:23:88:F5:47:4A:FE:89:99:4E:AD:10:19:14:2D:82:1F:9C:EE:9B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

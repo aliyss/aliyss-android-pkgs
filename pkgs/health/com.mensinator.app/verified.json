@@ -1,0 +1,8 @@
+{
+  "package": "com.mensinator.app",
+  "signerFingerprints": [
+    "27:44:C7:E7:00:29:93:21:B9:2A:47:48:48:3A:03:12:6E:FC:E8:28:4E:2A:DF:33:8E:DB:8A:69:EE:58:BB:67"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

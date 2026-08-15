@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bintianqi.owndroid_45.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5yuL4n5TaqINjMkF7QMf6gs+vdp20FsORvyxWGrhCyc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5yuL4n5TaqINjMkF7QMf6gs+vdp20FsORvyxWGrhCyc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5yuL4n5TaqINjMkF7QMf6gs+vdp20FsORvyxWGrhCyc="
+    }
+  },
+  "version": "8.2"
+}

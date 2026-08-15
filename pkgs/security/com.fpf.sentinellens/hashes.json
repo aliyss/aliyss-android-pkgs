@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fpf.sentinellens_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zz03WcioqHkb545XRRI9BpU8eMb7YgRgKlkInbovwIg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zz03WcioqHkb545XRRI9BpU8eMb7YgRgKlkInbovwIg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zz03WcioqHkb545XRRI9BpU8eMb7YgRgKlkInbovwIg="
+    }
+  },
+  "version": "1.0.2"
+}

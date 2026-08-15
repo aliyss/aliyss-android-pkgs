@@ -1,0 +1,8 @@
+{
+  "package": "superfreeze.tool.android",
+  "signerFingerprints": [
+    "06:74:BB:FC:6D:3C:52:7C:18:9E:C0:ED:53:84:CB:3F:F4:8B:C4:2D:DC:93:19:00:CF:51:E7:A0:5F:25:A4:77"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

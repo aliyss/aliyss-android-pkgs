@@ -1,0 +1,18 @@
+{
+  "apkName": "agrigolo.chubbyclick_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9eAa/HRlauPRiXOydKus9O+2O3lAYnhVQkdNh0t/44M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9eAa/HRlauPRiXOydKus9O+2O3lAYnhVQkdNh0t/44M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9eAa/HRlauPRiXOydKus9O+2O3lAYnhVQkdNh0t/44M="
+    }
+  },
+  "version": "v2.7.1"
+}

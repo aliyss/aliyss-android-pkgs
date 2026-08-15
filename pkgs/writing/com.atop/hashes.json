@@ -1,0 +1,18 @@
+{
+  "apkName": "com.atop_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7kl/5SpzCXvmLpKonNa+sWCeghiVID6+U6bf5i5andQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7kl/5SpzCXvmLpKonNa+sWCeghiVID6+U6bf5i5andQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7kl/5SpzCXvmLpKonNa+sWCeghiVID6+U6bf5i5andQ="
+    }
+  },
+  "version": "1.0.0"
+}

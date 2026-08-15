@@ -1,0 +1,18 @@
+{
+  "apkName": "io.rebble.charon_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eGj2j6lq5DpSWOTNhcTlYPmdXFU1+33i8rNAmnjUdHE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eGj2j6lq5DpSWOTNhcTlYPmdXFU1+33i8rNAmnjUdHE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eGj2j6lq5DpSWOTNhcTlYPmdXFU1+33i8rNAmnjUdHE="
+    }
+  },
+  "version": "1.4"
+}

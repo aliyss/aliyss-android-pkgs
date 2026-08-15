@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wardellbagby.lyricistant_70.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eesxSVMIeHL9D8RQ284e2uYxob3azZq3szPMqwDymIU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eesxSVMIeHL9D8RQ284e2uYxob3azZq3szPMqwDymIU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eesxSVMIeHL9D8RQ284e2uYxob3azZq3szPMqwDymIU="
+    }
+  },
+  "version": "3.4.7"
+}

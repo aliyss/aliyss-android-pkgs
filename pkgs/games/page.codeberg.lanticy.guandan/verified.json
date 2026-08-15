@@ -1,0 +1,8 @@
+{
+  "package": "page.codeberg.lanticy.guandan",
+  "signerFingerprints": [
+    "16:7A:1F:18:15:87:A3:D6:7E:87:1A:FA:7C:01:FC:C9:D6:32:1E:27:73:96:50:AD:64:F9:50:08:43:92:DF:FB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

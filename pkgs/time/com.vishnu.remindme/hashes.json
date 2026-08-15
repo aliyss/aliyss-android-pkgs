@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vishnu.remindme_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FsKpsq8yk58e4DsYtS2Ds5WisL7GrGtzjOeJg2fiCT4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FsKpsq8yk58e4DsYtS2Ds5WisL7GrGtzjOeJg2fiCT4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FsKpsq8yk58e4DsYtS2Ds5WisL7GrGtzjOeJg2fiCT4="
+    }
+  },
+  "version": "v1.3.0"
+}

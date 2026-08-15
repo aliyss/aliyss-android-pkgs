@@ -1,0 +1,8 @@
+{
+  "package": "com.tomer.draw",
+  "signerFingerprints": [
+    "12:1F:4E:EF:A8:8D:D6:2D:F6:5E:8B:F7:01:39:3C:AC:35:1B:ED:2A:A2:2B:6A:FC:CE:73:30:BE:18:45:19:98"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

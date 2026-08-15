@@ -1,0 +1,8 @@
+{
+  "package": "jp.redmine.redmineclient",
+  "signerFingerprints": [
+    "E1:AC:F2:5B:E2:8E:DB:8B:A6:DC:6A:BF:FE:39:75:C3:6A:8D:4F:1A:64:78:03:5B:74:4A:19:9A:08:1D:00:17"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

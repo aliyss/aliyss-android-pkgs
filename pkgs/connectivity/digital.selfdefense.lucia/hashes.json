@@ -1,0 +1,18 @@
+{
+  "apkName": "digital.selfdefense.lucia_20001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1ZkXo1puuIEZwuoR7cYJl880FPTsVJwGVDlA9hb2nBw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1ZkXo1puuIEZwuoR7cYJl880FPTsVJwGVDlA9hb2nBw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1ZkXo1puuIEZwuoR7cYJl880FPTsVJwGVDlA9hb2nBw="
+    }
+  },
+  "version": "0.2.0-rc1"
+}

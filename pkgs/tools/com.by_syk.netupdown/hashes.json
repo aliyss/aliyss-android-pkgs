@@ -1,0 +1,18 @@
+{
+  "apkName": "com.by_syk.netupdown_171201010.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-C9roULjWVgpYOnkH1DPBsY+YZ5Xp+6lKA3P/wobcBks="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C9roULjWVgpYOnkH1DPBsY+YZ5Xp+6lKA3P/wobcBks="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C9roULjWVgpYOnkH1DPBsY+YZ5Xp+6lKA3P/wobcBks="
+    }
+  },
+  "version": "1.1.4"
+}

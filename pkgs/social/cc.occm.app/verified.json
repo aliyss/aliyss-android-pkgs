@@ -1,0 +1,8 @@
+{
+  "package": "cc.occm.app",
+  "signerFingerprints": [
+    "2B:17:6E:C7:C6:AC:3C:81:58:CA:F4:B0:0E:97:94:29:1A:2A:F2:87:98:5B:FB:2B:8E:5E:9E:E8:E1:06:6A:94"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quaap.audiometer_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/JyUmnB9emcEhMZlJHgbldhQnje+nqJJumOySutsJQY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/JyUmnB9emcEhMZlJHgbldhQnje+nqJJumOySutsJQY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/JyUmnB9emcEhMZlJHgbldhQnje+nqJJumOySutsJQY="
+    }
+  },
+  "version": "1.2"
+}

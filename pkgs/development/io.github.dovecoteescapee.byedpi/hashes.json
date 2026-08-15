@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.dovecoteescapee.byedpi_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fZPvmgIfpPeNaOYD5QF7r+wgPbH1ieusjT5oofOn+SM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fZPvmgIfpPeNaOYD5QF7r+wgPbH1ieusjT5oofOn+SM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fZPvmgIfpPeNaOYD5QF7r+wgPbH1ieusjT5oofOn+SM="
+    }
+  },
+  "version": "1.2.0"
+}

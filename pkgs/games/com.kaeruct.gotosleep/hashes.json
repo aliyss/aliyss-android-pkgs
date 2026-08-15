@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kaeruct.gotosleep_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4abac9AqWgLRs8v74kd5hTV/CWvQfH3vOm6kCQDMI2I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4abac9AqWgLRs8v74kd5hTV/CWvQfH3vOm6kCQDMI2I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4abac9AqWgLRs8v74kd5hTV/CWvQfH3vOm6kCQDMI2I="
+    }
+  },
+  "version": "1.4"
+}

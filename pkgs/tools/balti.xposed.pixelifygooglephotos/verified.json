@@ -1,0 +1,8 @@
+{
+  "package": "balti.xposed.pixelifygooglephotos",
+  "signerFingerprints": [
+    "68:BB:9E:5F:23:BD:7B:32:BA:8F:45:4B:C7:6C:FD:5A:FD:DA:3F:52:FE:7B:28:CA:C1:A0:86:50:F4:12:7B:0D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

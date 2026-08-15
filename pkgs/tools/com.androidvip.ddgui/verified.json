@@ -1,0 +1,8 @@
+{
+  "package": "com.androidvip.ddgui",
+  "signerFingerprints": [
+    "C3:8F:5D:4A:1F:10:A2:D9:DD:1A:C4:A2:A9:F8:E9:0B:92:C3:78:11:AF:F3:75:48:E2:45:4A:9B:67:0F:9F:DF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

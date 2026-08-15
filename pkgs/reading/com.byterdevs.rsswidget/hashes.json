@@ -1,0 +1,18 @@
+{
+  "apkName": "com.byterdevs.rsswidget_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/+xE1IrGsUF/Mfyd6lc0OidE0ucsGsEya9UU+FTWziU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/+xE1IrGsUF/Mfyd6lc0OidE0ucsGsEya9UU+FTWziU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/+xE1IrGsUF/Mfyd6lc0OidE0ucsGsEya9UU+FTWziU="
+    }
+  },
+  "version": "1.7.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.lepisma.harp_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-a/q79mqZLRbv4mP5YJeMUdxxLjLnA1EfVUi3GZvsavg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a/q79mqZLRbv4mP5YJeMUdxxLjLnA1EfVUi3GZvsavg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a/q79mqZLRbv4mP5YJeMUdxxLjLnA1EfVUi3GZvsavg="
+    }
+  },
+  "version": "1.6.13"
+}

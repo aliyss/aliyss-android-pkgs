@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.jrichter24.moldqueen_10200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gj5lSB+mi+H0/2eTeWhCz8xDtJ9QqgawswSufXl2nmE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gj5lSB+mi+H0/2eTeWhCz8xDtJ9QqgawswSufXl2nmE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gj5lSB+mi+H0/2eTeWhCz8xDtJ9QqgawswSufXl2nmE="
+    }
+  },
+  "version": "0.1.2"
+}

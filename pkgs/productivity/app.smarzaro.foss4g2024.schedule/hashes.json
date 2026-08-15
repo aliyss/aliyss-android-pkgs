@@ -1,0 +1,18 @@
+{
+  "apkName": "app.smarzaro.foss4g2024.schedule_105.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nRmkOSoXavbH53FS4Z4XVSTCr1ceh+s41iSEPYZFk1U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nRmkOSoXavbH53FS4Z4XVSTCr1ceh+s41iSEPYZFk1U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nRmkOSoXavbH53FS4Z4XVSTCr1ceh+s41iSEPYZFk1U="
+    }
+  },
+  "version": "1.67.0-FOSS4G2024-Edition"
+}

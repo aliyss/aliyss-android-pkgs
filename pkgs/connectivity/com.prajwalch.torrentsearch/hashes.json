@@ -1,0 +1,18 @@
+{
+  "apkName": "com.prajwalch.torrentsearch_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OzmAyd8X2RBtZywzS2ona0FEumAhj3285Tcu5TL0Ojw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OzmAyd8X2RBtZywzS2ona0FEumAhj3285Tcu5TL0Ojw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OzmAyd8X2RBtZywzS2ona0FEumAhj3285Tcu5TL0Ojw="
+    }
+  },
+  "version": "0.5.0"
+}

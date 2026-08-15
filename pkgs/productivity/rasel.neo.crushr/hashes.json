@@ -1,0 +1,18 @@
+{
+  "apkName": "rasel.neo.crushr_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wpw7f84tg0N0DOfUixMWpPghTuL0uyV3vY5W+iKD6xc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wpw7f84tg0N0DOfUixMWpPghTuL0uyV3vY5W+iKD6xc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wpw7f84tg0N0DOfUixMWpPghTuL0uyV3vY5W+iKD6xc="
+    }
+  },
+  "version": "24.07.2022"
+}

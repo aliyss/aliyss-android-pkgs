@@ -1,0 +1,18 @@
+{
+  "apkName": "org.itxtech.daedalus_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HUAUvVvXOhLL4z0rYQq/5oLEAFKutoFcmSpwUKSit+I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HUAUvVvXOhLL4z0rYQq/5oLEAFKutoFcmSpwUKSit+I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HUAUvVvXOhLL4z0rYQq/5oLEAFKutoFcmSpwUKSit+I="
+    }
+  },
+  "version": "1.15.0"
+}

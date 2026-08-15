@@ -1,0 +1,18 @@
+{
+  "apkName": "net.helcel.beans_945.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+zKg9F+h9G5hLrQj0kV644RBK6hI7oeboFNGc/yHsKk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+zKg9F+h9G5hLrQj0kV644RBK6hI7oeboFNGc/yHsKk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+zKg9F+h9G5hLrQj0kV644RBK6hI7oeboFNGc/yHsKk="
+    }
+  },
+  "version": "1.5"
+}

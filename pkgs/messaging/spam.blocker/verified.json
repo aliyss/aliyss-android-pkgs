@@ -1,0 +1,8 @@
+{
+  "package": "spam.blocker",
+  "signerFingerprints": [
+    "7B:1C:E7:27:85:6F:34:27:EA:B1:FA:DF:AD:6C:97:30:CD:4E:6B:A2:01:66:15:47:F0:09:20:63:77:DF:FB:58"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

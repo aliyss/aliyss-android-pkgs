@@ -1,0 +1,8 @@
+{
+  "package": "espero.jiofibatterynotifier",
+  "signerFingerprints": [
+    "D3:2E:66:26:90:C3:68:57:51:9F:3C:74:6B:AD:58:ED:4A:45:EA:13:03:C6:EB:12:86:26:9C:40:93:0A:7C:CF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "fe.linksheet_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qohy844DtLAmKTW/Nw6arD4hwRC74Ad4rPfWNPKrM58="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qohy844DtLAmKTW/Nw6arD4hwRC74Ad4rPfWNPKrM58="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qohy844DtLAmKTW/Nw6arD4hwRC74Ad4rPfWNPKrM58="
+    }
+  },
+  "version": "0.0.33"
+}

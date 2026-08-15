@@ -1,0 +1,8 @@
+{
+  "package": "com.sweak.unlockmaster",
+  "signerFingerprints": [
+    "AF:A1:56:FC:E4:C4:28:C5:D0:87:66:A9:5E:05:D4:40:6E:01:B2:0B:35:7C:FE:D5:C1:60:AD:39:4D:9B:E9:5A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ua.syt0r.kanji.fdroid_2210.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YOg4MYZcwafMl86f54Mkz+0iyxRd68SGqPsSlUWHZoQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YOg4MYZcwafMl86f54Mkz+0iyxRd68SGqPsSlUWHZoQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YOg4MYZcwafMl86f54Mkz+0iyxRd68SGqPsSlUWHZoQ="
+    }
+  },
+  "version": "2.2.1"
+}

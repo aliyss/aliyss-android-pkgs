@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sinxn.mydiary_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NlDNDfQ8Mff6SWtsDJxSXIVo4LmiXKPNnHKWbA8Iwxg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NlDNDfQ8Mff6SWtsDJxSXIVo4LmiXKPNnHKWbA8Iwxg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NlDNDfQ8Mff6SWtsDJxSXIVo4LmiXKPNnHKWbA8Iwxg="
+    }
+  },
+  "version": "1.0.3"
+}

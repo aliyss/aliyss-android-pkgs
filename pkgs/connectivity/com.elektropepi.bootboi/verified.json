@@ -1,0 +1,8 @@
+{
+  "package": "com.elektropepi.bootboi",
+  "signerFingerprints": [
+    "92:C8:FA:FC:45:F9:C0:82:BE:A2:FA:DC:CB:9D:D9:3B:2D:7A:66:3F:13:05:1A:48:3C:AB:4E:9D:7E:90:18:EA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

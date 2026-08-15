@@ -1,0 +1,18 @@
+{
+  "apkName": "cz.mendelu.xmarik.train_manager_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-A3O66zXrFfka7NocjrePsxetYpSyPPHxbZVxJXjlDXY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A3O66zXrFfka7NocjrePsxetYpSyPPHxbZVxJXjlDXY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A3O66zXrFfka7NocjrePsxetYpSyPPHxbZVxJXjlDXY="
+    }
+  },
+  "version": "2.5"
+}

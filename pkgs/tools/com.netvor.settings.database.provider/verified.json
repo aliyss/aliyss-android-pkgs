@@ -1,0 +1,8 @@
+{
+  "package": "com.netvor.settings.database.provider",
+  "signerFingerprints": [
+    "8C:B7:D0:15:B1:DE:3B:74:E6:6D:F7:9F:E3:72:10:A3:87:35:11:C7:94:AD:BA:AD:1E:D9:1D:9A:9E:CB:42:34"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.perflyst.twire",
+  "signerFingerprints": [
+    "3A:0E:0A:2D:AA:B8:81:6E:02:7C:5F:18:7A:22:70:68:E1:A6:B3:1F:50:11:B3:4D:50:A0:02:3F:A0:5F:7A:F9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

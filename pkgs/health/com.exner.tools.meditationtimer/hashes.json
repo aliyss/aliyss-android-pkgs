@@ -1,0 +1,18 @@
+{
+  "apkName": "com.exner.tools.meditationtimer_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UKRj8bSG3ZE2hBRFt6XgPE5txbO3LLmuFdRFtSrZCyE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UKRj8bSG3ZE2hBRFt6XgPE5txbO3LLmuFdRFtSrZCyE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UKRj8bSG3ZE2hBRFt6XgPE5txbO3LLmuFdRFtSrZCyE="
+    }
+  },
+  "version": "1.2.0"
+}

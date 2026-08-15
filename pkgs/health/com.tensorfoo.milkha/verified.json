@@ -1,0 +1,8 @@
+{
+  "package": "com.tensorfoo.milkha",
+  "signerFingerprints": [
+    "85:5A:B7:96:0B:E3:3D:60:B6:3E:1A:1D:27:83:93:71:A6:72:F9:26:14:CC:7B:75:91:3A:DD:D0:CA:5C:C7:1A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

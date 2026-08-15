@@ -1,0 +1,18 @@
+{
+  "apkName": "app.halma_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uZQzckTiE2tU+W91A4/nDZViY1zOUK9jh9kG7gSNDsA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uZQzckTiE2tU+W91A4/nDZViY1zOUK9jh9kG7gSNDsA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uZQzckTiE2tU+W91A4/nDZViY1zOUK9jh9kG7gSNDsA="
+    }
+  },
+  "version": "15.0"
+}

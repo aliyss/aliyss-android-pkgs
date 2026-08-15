@@ -1,0 +1,8 @@
+{
+  "package": "cz.antecky.netswitch",
+  "signerFingerprints": [
+    "6E:E6:56:F5:B9:EE:32:06:AC:61:F9:0C:99:81:51:53:86:6D:4E:B8:4A:26:EF:B5:1A:E4:7E:16:A0:62:6A:B1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

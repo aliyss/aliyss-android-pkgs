@@ -1,0 +1,18 @@
+{
+  "apkName": "org.lineageos.eleven_410.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zt/WHHjVY1vAaZT33lGQ03Llvg8benLm8BZWIeE9vFc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zt/WHHjVY1vAaZT33lGQ03Llvg8benLm8BZWIeE9vFc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zt/WHHjVY1vAaZT33lGQ03Llvg8benLm8BZWIeE9vFc="
+    }
+  },
+  "version": "4.1.0"
+}

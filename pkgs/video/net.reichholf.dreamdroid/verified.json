@@ -1,0 +1,8 @@
+{
+  "package": "net.reichholf.dreamdroid",
+  "signerFingerprints": [
+    "D2:BC:0F:D5:10:6B:68:A3:15:A0:05:E6:F8:AD:79:4B:6A:2F:C6:33:1B:98:CB:DB:CE:1D:B4:7B:11:8E:98:38"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

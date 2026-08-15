@@ -1,0 +1,8 @@
+{
+  "package": "com.google.android.diskusage",
+  "signerFingerprints": [
+    "EE:8C:CE:6A:77:2B:03:95:2F:B4:8D:20:F3:2F:6C:EA:83:49:AE:ED:8E:F6:B5:4E:A7:94:14:38:73:13:64:08"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

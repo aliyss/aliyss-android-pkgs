@@ -1,0 +1,8 @@
+{
+  "package": "com.piapps.flashcardpro",
+  "signerFingerprints": [
+    "F4:E0:5A:5D:13:C3:DA:E6:14:11:5A:46:E7:D6:08:76:E2:68:9A:44:04:F8:13:36:08:B5:7B:9E:CE:ED:42:E3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

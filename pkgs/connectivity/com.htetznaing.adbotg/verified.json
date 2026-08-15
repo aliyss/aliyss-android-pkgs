@@ -1,0 +1,8 @@
+{
+  "package": "com.htetznaing.adbotg",
+  "signerFingerprints": [
+    "43:4B:6E:20:72:71:9A:25:68:0C:8C:BD:F7:F2:0D:27:AA:E0:5E:C7:D0:27:E8:9D:C5:4F:DB:B1:13:14:50:EE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

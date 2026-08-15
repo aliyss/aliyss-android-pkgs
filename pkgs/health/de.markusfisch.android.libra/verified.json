@@ -1,0 +1,8 @@
+{
+  "package": "de.markusfisch.android.libra",
+  "signerFingerprints": [
+    "C0:72:22:DC:6E:C0:63:B4:37:59:2E:0C:0B:54:9B:F4:8F:9B:84:AC:7E:73:91:D4:14:F5:38:75:9F:CD:DF:80"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

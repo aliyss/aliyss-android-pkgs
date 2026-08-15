@@ -1,0 +1,18 @@
+{
+  "apkName": "horse.amazin.my.stratum0.statuswidget_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IFeGzF5GVOUc0Oy4UCEYe3UyNwfB2+uyl7np5cNP/LI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IFeGzF5GVOUc0Oy4UCEYe3UyNwfB2+uyl7np5cNP/LI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IFeGzF5GVOUc0Oy4UCEYe3UyNwfB2+uyl7np5cNP/LI="
+    }
+  },
+  "version": "8.1.0-foss"
+}

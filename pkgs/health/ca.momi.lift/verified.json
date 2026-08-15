@@ -1,0 +1,8 @@
+{
+  "package": "ca.momi.lift",
+  "signerFingerprints": [
+    "7C:EB:62:9A:8D:62:98:C5:F9:67:52:C6:2E:09:80:3D:B0:F0:A4:8C:6A:64:40:AB:21:EC:F1:CC:3D:0C:80:1A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

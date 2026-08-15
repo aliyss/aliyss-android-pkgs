@@ -1,0 +1,18 @@
+{
+  "apkName": "com.health.openscale.sync_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tL7u1RpgztRzwhHG2MlI6mXOeRD5R/NCYfXbUhHX+Ak="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tL7u1RpgztRzwhHG2MlI6mXOeRD5R/NCYfXbUhHX+Ak="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tL7u1RpgztRzwhHG2MlI6mXOeRD5R/NCYfXbUhHX+Ak="
+    }
+  },
+  "version": "0.6"
+}

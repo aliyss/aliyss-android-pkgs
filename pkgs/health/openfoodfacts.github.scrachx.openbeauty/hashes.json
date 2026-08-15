@@ -1,0 +1,18 @@
+{
+  "apkName": "openfoodfacts.github.scrachx.openbeauty_582.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yejpAog/HoimsD7/WZfM9buoAsyKF/JIz1ftsZXKUrc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yejpAog/HoimsD7/WZfM9buoAsyKF/JIz1ftsZXKUrc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yejpAog/HoimsD7/WZfM9buoAsyKF/JIz1ftsZXKUrc="
+    }
+  },
+  "version": "3.9.0"
+}

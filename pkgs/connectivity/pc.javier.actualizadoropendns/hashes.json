@@ -1,0 +1,18 @@
+{
+  "apkName": "pc.javier.actualizadoropendns_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mw0WoTTh/MdajxA8TYDDn6+I8KsQWaC+sOiO4fx2Nzs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mw0WoTTh/MdajxA8TYDDn6+I8KsQWaC+sOiO4fx2Nzs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mw0WoTTh/MdajxA8TYDDn6+I8KsQWaC+sOiO4fx2Nzs="
+    }
+  },
+  "version": "0.5"
+}

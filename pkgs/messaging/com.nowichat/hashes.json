@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nowichat_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AVA1XFD7aurnsrbAQLW35lz+VZ+0/2YRM0KtCPE/lxU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AVA1XFD7aurnsrbAQLW35lz+VZ+0/2YRM0KtCPE/lxU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AVA1XFD7aurnsrbAQLW35lz+VZ+0/2YRM0KtCPE/lxU="
+    }
+  },
+  "version": "0.1.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mufradat.africaquiz_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZJKC02vVwjes/HNU0dOvZvrBmHBogM9zU5A91HJgrRI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZJKC02vVwjes/HNU0dOvZvrBmHBogM9zU5A91HJgrRI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZJKC02vVwjes/HNU0dOvZvrBmHBogM9zU5A91HJgrRI="
+    }
+  },
+  "version": "1.0"
+}

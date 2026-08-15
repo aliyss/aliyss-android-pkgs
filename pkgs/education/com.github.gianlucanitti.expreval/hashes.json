@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.gianlucanitti.expreval_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OdaBypWfe4tNLBTd38WBgWmml0+DuGke/8lntMoNS6k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OdaBypWfe4tNLBTd38WBgWmml0+DuGke/8lntMoNS6k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OdaBypWfe4tNLBTd38WBgWmml0+DuGke/8lntMoNS6k="
+    }
+  },
+  "version": "1.2"
+}

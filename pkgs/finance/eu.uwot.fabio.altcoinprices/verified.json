@@ -1,0 +1,8 @@
+{
+  "package": "eu.uwot.fabio.altcoinprices",
+  "signerFingerprints": [
+    "2B:E7:1D:E9:CF:D2:92:6B:9F:14:D0:94:BA:E8:2D:B6:68:5B:C6:30:1B:D6:B0:93:C7:25:A4:64:C8:37:DA:4D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

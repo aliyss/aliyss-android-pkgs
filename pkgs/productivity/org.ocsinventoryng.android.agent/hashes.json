@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ocsinventoryng.android.agent_270.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-w4ojdg/SD7S0kWkAV2YhIOOM3ZJt5KfvX9zmcK5rNY4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w4ojdg/SD7S0kWkAV2YhIOOM3ZJt5KfvX9zmcK5rNY4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w4ojdg/SD7S0kWkAV2YhIOOM3ZJt5KfvX9zmcK5rNY4="
+    }
+  },
+  "version": "2.7"
+}

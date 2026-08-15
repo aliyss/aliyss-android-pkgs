@@ -1,0 +1,8 @@
+{
+  "package": "com.zola.bmi",
+  "signerFingerprints": [
+    "49:F0:38:65:13:44:C2:7C:73:52:0E:CD:79:C9:0F:52:26:D2:BB:42:4D:09:2D:5F:70:4C:BE:18:4F:0D:66:8E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

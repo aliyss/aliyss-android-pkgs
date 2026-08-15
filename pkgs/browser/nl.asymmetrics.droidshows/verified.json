@@ -1,0 +1,8 @@
+{
+  "package": "nl.asymmetrics.droidshows",
+  "signerFingerprints": [
+    "DC:5B:71:10:FB:18:FD:4D:3C:B6:30:9F:0A:99:9C:06:3A:82:A8:47:45:62:4B:F6:C4:16:8B:1B:BC:69:8B:ED"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

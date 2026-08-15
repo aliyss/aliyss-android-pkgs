@@ -1,0 +1,8 @@
+{
+  "package": "com.novadial.phone",
+  "signerFingerprints": [
+    "FA:F2:7F:E0:B3:7E:52:05:74:C1:AC:A0:7B:82:10:98:20:96:F0:78:09:A9:E5:CC:79:57:10:40:75:18:46:AE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

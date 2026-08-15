@@ -1,0 +1,8 @@
+{
+  "package": "io.mesalabs.knoxpatch",
+  "signerFingerprints": [
+    "33:9F:B6:4D:24:A6:A8:C1:C7:AB:85:B6:05:9F:F8:10:EA:E3:BD:14:81:A3:AF:51:A0:8F:08:D6:58:E9:17:2D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

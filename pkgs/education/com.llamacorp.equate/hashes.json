@@ -1,0 +1,18 @@
+{
+  "apkName": "com.llamacorp.equate_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gDPnRuUyVRNIcJsWGo4LG2PRPUQGdSGgvRMCTTYeht0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gDPnRuUyVRNIcJsWGo4LG2PRPUQGdSGgvRMCTTYeht0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gDPnRuUyVRNIcJsWGo4LG2PRPUQGdSGgvRMCTTYeht0="
+    }
+  },
+  "version": "2.0"
+}

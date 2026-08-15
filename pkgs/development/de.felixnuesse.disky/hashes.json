@@ -1,0 +1,18 @@
+{
+  "apkName": "de.felixnuesse.disky_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Hy0oQHtbXIeKh5Xc2Qgrw3iOS9qLUFXuKr3ID2lD+0Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hy0oQHtbXIeKh5Xc2Qgrw3iOS9qLUFXuKr3ID2lD+0Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hy0oQHtbXIeKh5Xc2Qgrw3iOS9qLUFXuKr3ID2lD+0Q="
+    }
+  },
+  "version": "2.2.0"
+}

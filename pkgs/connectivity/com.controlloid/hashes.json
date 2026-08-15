@@ -1,0 +1,18 @@
+{
+  "apkName": "com.controlloid_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kZxFAac1FdMcuMSgw3J0bSYIxGnXSMZcn29Nr8nyPhw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kZxFAac1FdMcuMSgw3J0bSYIxGnXSMZcn29Nr8nyPhw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kZxFAac1FdMcuMSgw3J0bSYIxGnXSMZcn29Nr8nyPhw="
+    }
+  },
+  "version": "1.2.0"
+}

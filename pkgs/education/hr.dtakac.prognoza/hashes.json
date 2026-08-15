@@ -1,0 +1,18 @@
+{
+  "apkName": "hr.dtakac.prognoza_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JPVXMACSdbCx/KU2zv0OUx18efyUN25UkNb94BcSYF4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JPVXMACSdbCx/KU2zv0OUx18efyUN25UkNb94BcSYF4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JPVXMACSdbCx/KU2zv0OUx18efyUN25UkNb94BcSYF4="
+    }
+  },
+  "version": "3.5.0"
+}

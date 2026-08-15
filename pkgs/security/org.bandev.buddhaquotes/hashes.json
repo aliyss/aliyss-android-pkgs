@@ -1,0 +1,18 @@
+{
+  "apkName": "org.bandev.buddhaquotes_1014.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QImKAaRkpsV5J3lagX2SVjY0Y1Cuz/2SrGca+AA2dLg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QImKAaRkpsV5J3lagX2SVjY0Y1Cuz/2SrGca+AA2dLg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QImKAaRkpsV5J3lagX2SVjY0Y1Cuz/2SrGca+AA2dLg="
+    }
+  },
+  "version": "v2.2.0"
+}

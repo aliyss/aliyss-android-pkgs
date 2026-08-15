@@ -1,0 +1,18 @@
+{
+  "apkName": "app.shosetsu.android.fdroid_50.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-C2wuAjIeDnFTFwUizLW4A0ZN/a0/igOfpKW156by/wo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C2wuAjIeDnFTFwUizLW4A0ZN/a0/igOfpKW156by/wo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C2wuAjIeDnFTFwUizLW4A0ZN/a0/igOfpKW156by/wo="
+    }
+  },
+  "version": "2.5.3-fdroid"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.ziadoua.zcalc",
+  "signerFingerprints": [
+    "41:95:B3:5E:B1:6A:EE:82:7D:89:83:9B:5E:8A:89:9B:7C:27:3F:C0:93:00:C4:04:5E:99:53:6D:35:CB:06:E8"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

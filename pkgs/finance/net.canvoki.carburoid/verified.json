@@ -1,0 +1,8 @@
+{
+  "package": "net.canvoki.carburoid",
+  "signerFingerprints": [
+    "8C:DF:D3:89:B1:A7:97:99:43:20:13:21:18:8A:41:6E:D5:4D:BD:F1:C4:32:ED:07:E2:BB:44:B5:B3:CE:A7:22"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

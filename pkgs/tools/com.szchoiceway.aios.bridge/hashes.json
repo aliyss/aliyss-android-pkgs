@@ -1,0 +1,18 @@
+{
+  "apkName": "com.szchoiceway.aios.bridge_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LTS/gLNM8TwFscXHGVkWia7/0K0KH18LoXJhstAZ+7w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LTS/gLNM8TwFscXHGVkWia7/0K0KH18LoXJhstAZ+7w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LTS/gLNM8TwFscXHGVkWia7/0K0KH18LoXJhstAZ+7w="
+    }
+  },
+  "version": "1.0.6"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.microg.nlp.backend.nominatim",
+  "signerFingerprints": [
+    "44:22:6A:A6:B4:FF:69:62:72:83:A2:83:48:97:63:71:55:8F:03:95:61:F7:76:20:8D:A0:8C:29:42:86:D5:D2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

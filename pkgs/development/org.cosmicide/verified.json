@@ -1,0 +1,8 @@
+{
+  "package": "org.cosmicide",
+  "signerFingerprints": [
+    "2C:AF:58:73:78:46:E5:83:12:99:16:E7:22:4F:A5:CD:EC:7B:5D:B7:24:F1:76:3C:27:CD:80:B4:E5:34:71:61"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

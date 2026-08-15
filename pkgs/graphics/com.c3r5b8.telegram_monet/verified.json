@@ -1,0 +1,8 @@
+{
+  "package": "com.c3r5b8.telegram_monet",
+  "signerFingerprints": [
+    "5A:B8:FB:14:2E:CF:82:59:75:13:AA:77:45:A1:E8:5C:86:87:DB:84:0E:DC:A1:3E:59:BC:76:F2:B0:BC:9C:80"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

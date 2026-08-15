@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gatheringhallstudios.mhworlddatabase_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ISwShCNUxKSp5xYut1ObB7K1r+fU6OpuMbJC68WOY0A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ISwShCNUxKSp5xYut1ObB7K1r+fU6OpuMbJC68WOY0A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ISwShCNUxKSp5xYut1ObB7K1r+fU6OpuMbJC68WOY0A="
+    }
+  },
+  "version": "2.1.3"
+}

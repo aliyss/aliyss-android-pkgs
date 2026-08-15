@@ -1,0 +1,8 @@
+{
+  "package": "com.dobby.vpn",
+  "signerFingerprints": [
+    "C3:F0:41:4A:74:01:20:60:D7:C6:AA:3A:3D:9D:AC:0A:A1:3C:1B:D2:3B:75:12:EE:FD:86:0F:B8:65:E6:79:33"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.vakarux.instadownload",
+  "signerFingerprints": [
+    "E1:A5:67:FC:CC:F9:80:D5:85:19:95:78:06:00:0C:24:33:C6:8A:BF:2F:B4:D1:C2:F6:80:47:FA:DB:3A:5A:FA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

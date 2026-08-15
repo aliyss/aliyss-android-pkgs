@@ -1,0 +1,18 @@
+{
+  "apkName": "com.infomaniak.sync_404120001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JWlz4AxfFqXk0plk4MVBnEzb1BG5Hi4EWNA424Bb1hQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JWlz4AxfFqXk0plk4MVBnEzb1BG5Hi4EWNA424Bb1hQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JWlz4AxfFqXk0plk4MVBnEzb1BG5Hi4EWNA424Bb1hQ="
+    }
+  },
+  "version": "4.4.12"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.minar.birday",
+  "signerFingerprints": [
+    "AB:4E:35:A0:33:AD:C5:A1:53:7A:5C:CB:6F:1F:01:7C:3D:C5:34:A7:4A:2A:D9:A8:B2:FF:18:59:85:0A:00:50"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

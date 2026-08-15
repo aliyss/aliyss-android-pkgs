@@ -1,0 +1,8 @@
+{
+  "package": "ac.mdiq.Podcini.A",
+  "signerFingerprints": [
+    "CD:13:28:FB:5C:2C:CF:50:CB:99:E3:FF:07:6E:B5:FE:88:29:8F:E2:83:66:98:9D:CF:9D:98:99:D5:EB:69:40"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

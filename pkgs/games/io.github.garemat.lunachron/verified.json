@@ -1,0 +1,8 @@
+{
+  "package": "io.github.garemat.lunachron",
+  "signerFingerprints": [
+    "4A:F0:04:73:9A:F2:90:02:0D:76:C6:27:80:61:23:2E:42:6A:1F:CA:E9:7E:40:A1:3C:CB:CD:A4:50:19:61:74"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

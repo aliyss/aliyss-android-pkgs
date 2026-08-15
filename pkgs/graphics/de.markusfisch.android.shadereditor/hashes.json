@@ -1,0 +1,18 @@
+{
+  "apkName": "de.markusfisch.android.shadereditor_93.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xdF5hE4EbQEj4+9x8HEaGx3EnDNR2C4fYI9Q73e9Jw4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xdF5hE4EbQEj4+9x8HEaGx3EnDNR2C4fYI9Q73e9Jw4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xdF5hE4EbQEj4+9x8HEaGx3EnDNR2C4fYI9Q73e9Jw4="
+    }
+  },
+  "version": "2.36.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.retroarch",
+  "signerFingerprints": [
+    "F2:B1:EA:BC:DE:44:D6:2B:96:92:C5:28:01:07:7C:93:1D:CB:86:29:3C:2B:39:67:BD:C6:44:A1:C8:D8:37:EB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "tw.com.daxia.virtualsoftkeys_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kG2nsZUl25QkEYoFe+070my7w9DRTl/c/B0zafhU3+c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kG2nsZUl25QkEYoFe+070my7w9DRTl/c/B0zafhU3+c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kG2nsZUl25QkEYoFe+070my7w9DRTl/c/B0zafhU3+c="
+    }
+  },
+  "version": "0.2.0.180212.1"
+}

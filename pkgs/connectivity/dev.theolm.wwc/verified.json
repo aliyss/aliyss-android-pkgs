@@ -1,0 +1,8 @@
+{
+  "package": "dev.theolm.wwc",
+  "signerFingerprints": [
+    "A5:1B:CF:44:92:E8:1E:B4:D5:22:C0:6C:A9:A0:D9:0A:B6:0B:E7:0A:13:76:DA:7B:16:9F:23:D3:84:31:B2:CD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.mardous.booming",
+  "signerFingerprints": [
+    "97:1E:4E:A0:1B:40:12:0D:F0:23:D0:0E:72:11:13:25:DC:D8:02:DE:F7:A1:E5:E5:DB:DD:19:2F:3C:60:D7:D7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

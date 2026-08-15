@@ -1,0 +1,18 @@
+{
+  "apkName": "net.opendasharchive.openarchive.release_30022.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kDt0fXELjd6XyovZ0o33WyrlM6ObeeWn/i7+/WKtT/A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kDt0fXELjd6XyovZ0o33WyrlM6ObeeWn/i7+/WKtT/A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kDt0fXELjd6XyovZ0o33WyrlM6ObeeWn/i7+/WKtT/A="
+    }
+  },
+  "version": "4.0.4"
+}

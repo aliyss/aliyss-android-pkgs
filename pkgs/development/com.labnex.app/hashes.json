@@ -1,0 +1,18 @@
+{
+  "apkName": "com.labnex.app_801.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SnvRgA5+QvyQOojX0DWxKFIcN6G91xpAHUIJ1OdpzRw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SnvRgA5+QvyQOojX0DWxKFIcN6G91xpAHUIJ1OdpzRw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SnvRgA5+QvyQOojX0DWxKFIcN6G91xpAHUIJ1OdpzRw="
+    }
+  },
+  "version": "8.0.1"
+}

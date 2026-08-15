@@ -1,0 +1,8 @@
+{
+  "package": "org.flare.app",
+  "signerFingerprints": [
+    "59:31:88:F2:FF:67:02:69:28:CC:6F:D2:A4:C2:43:62:75:54:4A:F0:95:F5:AF:E7:14:C4:AF:29:DF:DF:68:7D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

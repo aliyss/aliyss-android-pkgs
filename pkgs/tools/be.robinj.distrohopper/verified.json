@@ -1,0 +1,8 @@
+{
+  "package": "be.robinj.distrohopper",
+  "signerFingerprints": [
+    "6D:80:55:B5:08:C9:42:6B:5F:9D:0F:F4:83:BE:C3:C1:60:C0:A2:A8:75:3D:FE:E7:20:CE:BE:A3:64:BB:D9:97"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

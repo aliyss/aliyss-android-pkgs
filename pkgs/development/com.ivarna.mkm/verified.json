@@ -1,0 +1,8 @@
+{
+  "package": "com.ivarna.mkm",
+  "signerFingerprints": [
+    "75:C5:02:9D:1D:74:2B:48:0B:B6:EC:F4:45:C2:68:12:4D:C3:06:99:A7:36:51:4C:C6:4A:3D:58:03:8F:8D:67"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.ofalvai.habittracker",
+  "signerFingerprints": [
+    "BF:46:27:B1:88:11:51:2B:D8:CB:26:35:D8:47:95:EB:84:18:73:20:A8:22:4C:AE:4D:91:84:65:52:4D:17:32"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

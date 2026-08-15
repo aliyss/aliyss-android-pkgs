@@ -1,0 +1,8 @@
+{
+  "package": "shortcut.healthconnect",
+  "signerFingerprints": [
+    "6F:A0:00:5C:75:D6:1A:D3:52:AF:36:D2:28:4B:45:A1:03:1A:DF:C2:74:DF:AA:D9:AE:E9:6D:38:18:25:8F:B4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "app.suhasdissa.karaoke_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-P4G0Tvm2O/XwW3Co9KqURJkbeiSKWr/Z/czOeJkf09s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P4G0Tvm2O/XwW3Co9KqURJkbeiSKWr/Z/czOeJkf09s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P4G0Tvm2O/XwW3Co9KqURJkbeiSKWr/Z/czOeJkf09s="
+    }
+  },
+  "version": "3.0"
+}

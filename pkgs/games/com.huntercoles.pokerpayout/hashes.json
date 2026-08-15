@@ -1,0 +1,18 @@
+{
+  "apkName": "com.huntercoles.pokerpayout_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mk8DEpwK+JiD7OEAWUn2UVRFwLgDJAR0rHdnDRel9KQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mk8DEpwK+JiD7OEAWUn2UVRFwLgDJAR0rHdnDRel9KQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mk8DEpwK+JiD7OEAWUn2UVRFwLgDJAR0rHdnDRel9KQ="
+    }
+  },
+  "version": "1.1.12"
+}

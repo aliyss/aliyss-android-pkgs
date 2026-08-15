@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lembra.app_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0rFN2PKImWQIzmXGafZjiDDbw4NsN/Re8PwdLlxSyZo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0rFN2PKImWQIzmXGafZjiDDbw4NsN/Re8PwdLlxSyZo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0rFN2PKImWQIzmXGafZjiDDbw4NsN/Re8PwdLlxSyZo="
+    }
+  },
+  "version": "1.14"
+}

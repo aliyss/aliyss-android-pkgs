@@ -1,0 +1,18 @@
+{
+  "apkName": "org.cleverfox.bluegate_20260105.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-umBNF+FjSIQ8h8QqJKda2CpBllll7aitt8GILHha2lI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-umBNF+FjSIQ8h8QqJKda2CpBllll7aitt8GILHha2lI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-umBNF+FjSIQ8h8QqJKda2CpBllll7aitt8GILHha2lI="
+    }
+  },
+  "version": "0.3"
+}

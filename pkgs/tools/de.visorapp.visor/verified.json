@@ -1,0 +1,8 @@
+{
+  "package": "de.visorapp.visor",
+  "signerFingerprints": [
+    "95:D0:8C:22:8C:85:AB:65:3A:A9:62:0E:14:E8:2D:0D:DF:AE:F6:5B:37:CC:5C:73:DF:9D:B0:9D:BF:EA:8B:C0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

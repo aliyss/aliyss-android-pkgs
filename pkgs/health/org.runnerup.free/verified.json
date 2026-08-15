@@ -1,0 +1,8 @@
+{
+  "package": "org.runnerup.free",
+  "signerFingerprints": [
+    "6B:1B:9B:F6:3D:84:17:36:C7:72:DB:C1:0B:25:65:83:22:59:83:65:EC:15:A5:F9:2D:38:77:1F:5C:65:8F:6C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

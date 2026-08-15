@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.ldev.gpsicon_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Kt+sK0VKy6aXEHML8Mzj/HNo2QGnW4euXYqs1Tjtl1E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Kt+sK0VKy6aXEHML8Mzj/HNo2QGnW4euXYqs1Tjtl1E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Kt+sK0VKy6aXEHML8Mzj/HNo2QGnW4euXYqs1Tjtl1E="
+    }
+  },
+  "version": "1.4.6"
+}

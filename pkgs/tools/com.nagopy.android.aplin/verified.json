@@ -1,0 +1,8 @@
+{
+  "package": "com.nagopy.android.aplin",
+  "signerFingerprints": [
+    "15:58:2B:FD:97:99:D9:F8:F7:59:A2:DE:C6:27:7A:F2:E3:EF:EF:D0:1A:7E:4D:A3:36:89:E1:8A:7B:A1:D7:98"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

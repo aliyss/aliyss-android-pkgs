@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.notificationalerter_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dPdLBHmhFkKRdkPSuor1DtjpH/M94ueQuFSyMgZNfTU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dPdLBHmhFkKRdkPSuor1DtjpH/M94ueQuFSyMgZNfTU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dPdLBHmhFkKRdkPSuor1DtjpH/M94ueQuFSyMgZNfTU="
+    }
+  },
+  "version": "1.2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.adb_over_wifi_1000101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-x+FVp40RhMbg/1/0+s9mT1yFU1nperaAUp1Oz8ew/Yg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x+FVp40RhMbg/1/0+s9mT1yFU1nperaAUp1Oz8ew/Yg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x+FVp40RhMbg/1/0+s9mT1yFU1nperaAUp1Oz8ew/Yg="
+    }
+  },
+  "version": "001.00.01-01API"
+}

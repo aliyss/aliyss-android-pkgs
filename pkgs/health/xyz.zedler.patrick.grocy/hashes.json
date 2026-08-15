@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.zedler.patrick.grocy_64.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YMm+Ym2yAu3800ie4shV0Ghw7kZyZj77pbB8OHy7THM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YMm+Ym2yAu3800ie4shV0Ghw7kZyZj77pbB8OHy7THM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YMm+Ym2yAu3800ie4shV0Ghw7kZyZj77pbB8OHy7THM="
+    }
+  },
+  "version": "3.8.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.nikashitsa.polar_alert_android",
+  "signerFingerprints": [
+    "9B:0C:71:A9:D2:9C:18:DB:07:67:23:7C:FB:7F:C7:DC:C6:68:E1:29:91:F1:A1:71:47:2C:01:1D:C9:3E:0B:3D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "eu.lastviking.app.vgtd",
+  "signerFingerprints": [
+    "C6:66:13:85:D4:BD:92:0C:F3:91:A2:15:DE:63:06:F0:D7:55:38:B0:B1:16:56:4D:23:21:EE:9C:D6:62:A0:E4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

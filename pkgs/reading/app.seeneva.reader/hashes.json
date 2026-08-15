@@ -1,0 +1,18 @@
+{
+  "apkName": "app.seeneva.reader_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-X94UbUIz+l8f0JwegQpdvXeS7Vma22kdeMYlnYS91S4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X94UbUIz+l8f0JwegQpdvXeS7Vma22kdeMYlnYS91S4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X94UbUIz+l8f0JwegQpdvXeS7Vma22kdeMYlnYS91S4="
+    }
+  },
+  "version": "0.1.2-fdroid"
+}

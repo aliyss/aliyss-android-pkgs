@@ -1,0 +1,18 @@
+{
+  "apkName": "com.droidvim_360.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BLHNQRae+jo2aI4le2cibpjnLHnM5uOWkj0H/6NLIZM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BLHNQRae+jo2aI4le2cibpjnLHnM5uOWkj0H/6NLIZM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BLHNQRae+jo2aI4le2cibpjnLHnM5uOWkj0H/6NLIZM="
+    }
+  },
+  "version": "2.5.0"
+}

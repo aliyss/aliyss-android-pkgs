@@ -1,0 +1,8 @@
+{
+  "package": "io.github.pitonite.exch_cx",
+  "signerFingerprints": [
+    "A1:64:29:D6:EF:0F:9B:21:71:EF:E0:15:10:82:E1:7E:10:FD:B0:8E:03:2D:C1:3D:9C:84:A7:75:8A:EB:5B:68"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

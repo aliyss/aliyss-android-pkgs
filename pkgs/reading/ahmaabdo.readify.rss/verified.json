@@ -1,0 +1,8 @@
+{
+  "package": "ahmaabdo.readify.rss",
+  "signerFingerprints": [
+    "6E:13:31:68:E7:3E:98:66:0E:4A:2B:0C:20:29:82:E7:E6:C3:38:F7:B0:26:E6:82:30:0D:54:2C:9C:EC:E5:61"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

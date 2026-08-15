@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ecos.logic.flip_a_coin_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Y3MOwqwyDssxAEwH5gww83SrIK2AQRR3IKlnuyqv1fs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y3MOwqwyDssxAEwH5gww83SrIK2AQRR3IKlnuyqv1fs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y3MOwqwyDssxAEwH5gww83SrIK2AQRR3IKlnuyqv1fs="
+    }
+  },
+  "version": "DVNE"
+}

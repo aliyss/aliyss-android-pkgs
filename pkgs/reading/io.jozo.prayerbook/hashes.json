@@ -1,0 +1,18 @@
+{
+  "apkName": "io.jozo.prayerbook_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1NeMf7hJLXkEdkfXp0wOWpTgdxFCRZXHDvSWdw8coEA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1NeMf7hJLXkEdkfXp0wOWpTgdxFCRZXHDvSWdw8coEA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1NeMf7hJLXkEdkfXp0wOWpTgdxFCRZXHDvSWdw8coEA="
+    }
+  },
+  "version": "0.10.3"
+}

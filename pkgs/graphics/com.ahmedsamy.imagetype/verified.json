@@ -1,0 +1,8 @@
+{
+  "package": "com.ahmedsamy.imagetype",
+  "signerFingerprints": [
+    "1C:0C:BA:AF:A9:19:C2:49:DC:6B:55:72:08:84:AC:4F:FB:0E:D5:71:3B:35:D3:EC:6F:E3:48:E2:32:74:31:AE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

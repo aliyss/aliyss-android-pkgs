@@ -1,0 +1,18 @@
+{
+  "apkName": "com.darkrockstudios.apps.hammer.android_308030000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6VCMZZAQc9IiO7Ou/NjvS4G5KaX75NdqFQQ+FJR/7s4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6VCMZZAQc9IiO7Ou/NjvS4G5KaX75NdqFQQ+FJR/7s4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6VCMZZAQc9IiO7Ou/NjvS4G5KaX75NdqFQQ+FJR/7s4="
+    }
+  },
+  "version": "3.8.2"
+}

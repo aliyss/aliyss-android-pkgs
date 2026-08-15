@@ -1,0 +1,8 @@
+{
+  "package": "com.thinkdifferent.anywebview",
+  "signerFingerprints": [
+    "1F:9E:FB:5B:A6:B9:7F:7E:34:AD:A3:02:51:52:44:FF:90:E4:D8:E4:80:24:53:FB:24:2D:59:3D:AA:56:56:40"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

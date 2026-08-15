@@ -1,0 +1,18 @@
+{
+  "apkName": "com.machiav3lli.fdroid_1209.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zU+4aqy1Uz+6gVR5m5OgcHGKcbXxVg2+ebTes13PSMg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zU+4aqy1Uz+6gVR5m5OgcHGKcbXxVg2+ebTes13PSMg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zU+4aqy1Uz+6gVR5m5OgcHGKcbXxVg2+ebTes13PSMg="
+    }
+  },
+  "version": "1.2.6"
+}

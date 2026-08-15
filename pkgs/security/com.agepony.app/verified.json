@@ -1,0 +1,8 @@
+{
+  "package": "com.agepony.app",
+  "signerFingerprints": [
+    "2E:5F:EB:F6:2F:D7:91:5A:7D:77:10:B4:53:9C:7A:02:37:A8:4C:22:FB:E5:A8:31:7B:CB:BC:68:F1:E4:71:9F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.rhaz.ipfs.sweet_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LvXNJSDLiQoFS67dVngC6ifrO5Nd/JKsqzCg/urPJVo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LvXNJSDLiQoFS67dVngC6ifrO5Nd/JKsqzCg/urPJVo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LvXNJSDLiQoFS67dVngC6ifrO5Nd/JKsqzCg/urPJVo="
+    }
+  },
+  "version": "0.2"
+}

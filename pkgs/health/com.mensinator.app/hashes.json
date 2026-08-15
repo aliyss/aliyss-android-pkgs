@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mensinator.app_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TMXgfC6N764AGjEqDI6prQ8i5rbghSpEcVWWQWFJal8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TMXgfC6N764AGjEqDI6prQ8i5rbghSpEcVWWQWFJal8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TMXgfC6N764AGjEqDI6prQ8i5rbghSpEcVWWQWFJal8="
+    }
+  },
+  "version": "2.1"
+}

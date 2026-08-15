@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.faircode.netguard_2026080101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FYtDCNoABimNIu1Vetv/JLKC/d6xvAs0aIKaYPQFqMQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FYtDCNoABimNIu1Vetv/JLKC/d6xvAs0aIKaYPQFqMQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FYtDCNoABimNIu1Vetv/JLKC/d6xvAs0aIKaYPQFqMQ="
+    }
+  },
+  "version": "2.337"
+}

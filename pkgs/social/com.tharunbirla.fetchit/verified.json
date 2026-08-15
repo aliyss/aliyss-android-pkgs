@@ -1,0 +1,8 @@
+{
+  "package": "com.tharunbirla.fetchit",
+  "signerFingerprints": [
+    "5E:D4:CB:8F:82:EF:DC:24:CD:48:2A:16:5B:85:A6:E4:74:15:98:E2:3B:01:66:EB:E2:A1:12:1D:55:3A:0F:33"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

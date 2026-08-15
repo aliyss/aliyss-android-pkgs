@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.gouravkhunger.quotesapp_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZwSAVWpxat0dq2CCJKZsB9LBaLu1OPxglENh0cxWQxM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZwSAVWpxat0dq2CCJKZsB9LBaLu1OPxglENh0cxWQxM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZwSAVWpxat0dq2CCJKZsB9LBaLu1OPxglENh0cxWQxM="
+    }
+  },
+  "version": "2.1.3"
+}

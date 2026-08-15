@@ -1,0 +1,8 @@
+{
+  "package": "com.kin.athena",
+  "signerFingerprints": [
+    "B4:9F:6E:E0:AC:81:A0:67:88:17:CE:68:64:56:7B:0D:1C:0A:28:23:CB:29:99:F2:A4:AB:0C:17:ED:BD:29:81"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

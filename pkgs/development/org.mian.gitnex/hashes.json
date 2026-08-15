@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mian.gitnex_1400.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0v4ReuRojJrgV1aS0+zMdyD2ijqPZ0IpLp+MRj3SvX4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0v4ReuRojJrgV1aS0+zMdyD2ijqPZ0IpLp+MRj3SvX4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0v4ReuRojJrgV1aS0+zMdyD2ijqPZ0IpLp+MRj3SvX4="
+    }
+  },
+  "version": "14.0.0"
+}

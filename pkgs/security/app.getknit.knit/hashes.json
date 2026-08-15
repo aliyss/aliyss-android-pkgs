@@ -1,0 +1,18 @@
+{
+  "apkName": "app.getknit.knit_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TZ4sy/sAFk/PWGv7/S9n5/6NgWiq0NppucvUj4EL9VA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TZ4sy/sAFk/PWGv7/S9n5/6NgWiq0NppucvUj4EL9VA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TZ4sy/sAFk/PWGv7/S9n5/6NgWiq0NppucvUj4EL9VA="
+    }
+  },
+  "version": "2.2.2"
+}

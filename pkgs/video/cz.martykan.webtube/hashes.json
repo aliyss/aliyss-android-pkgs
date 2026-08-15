@@ -1,0 +1,18 @@
+{
+  "apkName": "cz.martykan.webtube_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hudhkwaatRLB215kY7xVBkyCfRRBmSo2+R9qoCnlbg8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hudhkwaatRLB215kY7xVBkyCfRRBmSo2+R9qoCnlbg8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hudhkwaatRLB215kY7xVBkyCfRRBmSo2+R9qoCnlbg8="
+    }
+  },
+  "version": "1.2"
+}

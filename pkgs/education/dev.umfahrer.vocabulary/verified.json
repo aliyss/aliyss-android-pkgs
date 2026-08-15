@@ -1,0 +1,8 @@
+{
+  "package": "dev.umfahrer.vocabulary",
+  "signerFingerprints": [
+    "C0:F3:CA:15:E1:8F:09:94:0C:84:47:8A:A2:08:54:55:F6:79:89:2E:79:B3:C0:C3:70:E8:94:3A:E5:FA:88:AA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.nlckysolutions.privacystats",
+  "signerFingerprints": [
+    "6C:04:C9:A1:AC:E7:C2:DA:8A:C9:C1:92:43:EF:43:05:61:BA:98:CF:9A:55:95:8F:C8:79:7A:9A:9F:A8:FF:37"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

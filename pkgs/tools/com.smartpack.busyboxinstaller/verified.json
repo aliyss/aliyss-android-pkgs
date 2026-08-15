@@ -1,0 +1,8 @@
+{
+  "package": "com.smartpack.busyboxinstaller",
+  "signerFingerprints": [
+    "68:27:C4:74:D1:1A:F4:08:F4:9B:F9:61:4F:FC:4F:E3:55:15:F9:F6:BE:8B:85:C1:99:CB:42:A3:9D:ED:FE:98"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

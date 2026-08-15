@@ -1,0 +1,8 @@
+{
+  "package": "eu.roggstar.getmitokens",
+  "signerFingerprints": [
+    "78:BB:7F:E8:D2:A4:DE:CC:D4:F1:0B:C0:ED:19:E9:48:F2:BB:F5:7D:E0:36:3E:C8:6E:7C:C8:F1:0C:23:36:DE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

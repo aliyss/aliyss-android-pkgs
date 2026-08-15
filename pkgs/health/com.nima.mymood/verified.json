@@ -1,0 +1,8 @@
+{
+  "package": "com.nima.mymood",
+  "signerFingerprints": [
+    "99:9A:BF:5C:90:3A:2B:77:A6:1F:DE:9D:F4:95:D1:87:F9:74:A6:2D:01:82:F3:3D:0C:C3:1F:D1:CD:64:76:B1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.abizer_r.quickedit",
+  "signerFingerprints": [
+    "77:47:26:BB:BC:C5:ED:40:BB:47:6A:F8:F9:42:90:E0:19:B5:EB:82:62:95:49:57:CD:E9:C2:D8:D1:62:DF:19"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

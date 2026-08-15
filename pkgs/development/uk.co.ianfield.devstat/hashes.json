@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.co.ianfield.devstat_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dFqfW/Ns+XFpN9l+uofUOf9xzUAwcM911bj5n9dyi+8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dFqfW/Ns+XFpN9l+uofUOf9xzUAwcM911bj5n9dyi+8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dFqfW/Ns+XFpN9l+uofUOf9xzUAwcM911bj5n9dyi+8="
+    }
+  },
+  "version": "2.4.8"
+}

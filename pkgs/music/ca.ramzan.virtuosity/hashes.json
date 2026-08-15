@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.ramzan.virtuosity_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZT9HKSXMsMVqWlfI8MAAvHjC8w7IyhxeRb2mhWBHEpg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZT9HKSXMsMVqWlfI8MAAvHjC8w7IyhxeRb2mhWBHEpg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZT9HKSXMsMVqWlfI8MAAvHjC8w7IyhxeRb2mhWBHEpg="
+    }
+  },
+  "version": "1.0.1"
+}

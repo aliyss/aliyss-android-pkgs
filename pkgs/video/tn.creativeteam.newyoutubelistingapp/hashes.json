@@ -1,0 +1,18 @@
+{
+  "apkName": "tn.creativeteam.newyoutubelistingapp_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jAftUvYpP/dS+L84Keas4iSIgsmLscX7TIgRjGuLyRg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jAftUvYpP/dS+L84Keas4iSIgsmLscX7TIgRjGuLyRg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jAftUvYpP/dS+L84Keas4iSIgsmLscX7TIgRjGuLyRg="
+    }
+  },
+  "version": "1.6"
+}

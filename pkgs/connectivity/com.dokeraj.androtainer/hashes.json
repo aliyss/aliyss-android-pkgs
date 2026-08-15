@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dokeraj.androtainer_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5pmT6ftwvmoMZ3MdLv99YQ6qfcu2tKeSYB+I6RwfdO8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5pmT6ftwvmoMZ3MdLv99YQ6qfcu2tKeSYB+I6RwfdO8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5pmT6ftwvmoMZ3MdLv99YQ6qfcu2tKeSYB+I6RwfdO8="
+    }
+  },
+  "version": "2.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "souch.smp_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PfMj/69w0pGK8a4X5VcsDJja9CCUCyWIEgZxiujZAU8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PfMj/69w0pGK8a4X5VcsDJja9CCUCyWIEgZxiujZAU8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PfMj/69w0pGK8a4X5VcsDJja9CCUCyWIEgZxiujZAU8="
+    }
+  },
+  "version": "2.4"
+}

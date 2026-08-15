@@ -1,0 +1,18 @@
+{
+  "apkName": "com.akshayaap.touchdroid_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iq7xzgvqRQBgmLpUwVFl0aSQIZ9KqkGvrPJxpQuE4ls="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iq7xzgvqRQBgmLpUwVFl0aSQIZ9KqkGvrPJxpQuE4ls="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iq7xzgvqRQBgmLpUwVFl0aSQIZ9KqkGvrPJxpQuE4ls="
+    }
+  },
+  "version": "2.0.1"
+}

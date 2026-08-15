@@ -1,0 +1,8 @@
+{
+  "package": "dev.mariinkys.OpenPillReminder",
+  "signerFingerprints": [
+    "B6:74:1E:7C:D2:DA:45:9E:0D:55:FC:FF:C5:4F:98:14:B1:9B:84:55:66:6A:D1:1E:D0:5E:6F:2A:B3:BF:60:BD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.stypox.dicio_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bdhx8wxBFkiBCy2W8t4rxKKPVyMua05xzeZphx7dxIE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bdhx8wxBFkiBCy2W8t4rxKKPVyMua05xzeZphx7dxIE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bdhx8wxBFkiBCy2W8t4rxKKPVyMua05xzeZphx7dxIE="
+    }
+  },
+  "version": "4.0"
+}

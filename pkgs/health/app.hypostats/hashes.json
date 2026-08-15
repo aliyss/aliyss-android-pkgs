@@ -1,0 +1,18 @@
+{
+  "apkName": "app.hypostats_58.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VroJ4/18IDBEUz9P6WkcQQde8eHDwjqrpuz97qQNw8k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VroJ4/18IDBEUz9P6WkcQQde8eHDwjqrpuz97qQNw8k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VroJ4/18IDBEUz9P6WkcQQde8eHDwjqrpuz97qQNw8k="
+    }
+  },
+  "version": "0.5.8"
+}

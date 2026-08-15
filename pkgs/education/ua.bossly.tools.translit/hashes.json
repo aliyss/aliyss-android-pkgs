@@ -1,0 +1,18 @@
+{
+  "apkName": "ua.bossly.tools.translit_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hZnywKI9NnnZ0EhdmBmJI2su7dGxKL2OAIqSnrS9gA8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hZnywKI9NnnZ0EhdmBmJI2su7dGxKL2OAIqSnrS9gA8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hZnywKI9NnnZ0EhdmBmJI2su7dGxKL2OAIqSnrS9gA8="
+    }
+  },
+  "version": "1.6.0"
+}

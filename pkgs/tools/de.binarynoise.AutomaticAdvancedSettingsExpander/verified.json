@@ -1,0 +1,8 @@
+{
+  "package": "de.binarynoise.AutomaticAdvancedSettingsExpander",
+  "signerFingerprints": [
+    "6D:47:9A:65:E4:F2:AE:91:32:12:74:3B:80:AF:2E:4B:A0:82:EE:10:10:18:C5:CF:18:83:1C:BF:A2:18:D6:F2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "kiwi.root.an2linuxclient",
+  "signerFingerprints": [
+    "CC:D5:FC:28:26:D7:F8:63:45:D8:EE:8E:B0:7D:25:E7:B9:85:CE:25:E3:8B:E5:57:83:04:83:3A:8D:05:61:0E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

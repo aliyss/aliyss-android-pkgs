@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.nilsgrob.android.bluemoon_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KPUm8eLiaGYuGFnDpfQMYthB942+dyCsPv/YD2tDZEw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KPUm8eLiaGYuGFnDpfQMYthB942+dyCsPv/YD2tDZEw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KPUm8eLiaGYuGFnDpfQMYthB942+dyCsPv/YD2tDZEw="
+    }
+  },
+  "version": "1.2.0"
+}

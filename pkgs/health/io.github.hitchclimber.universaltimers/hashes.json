@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.hitchclimber.universaltimers_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Rd30Z5Sqg4Rkq3ybtOAOyz0uLrEGwOtamZsSC7JTXJQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Rd30Z5Sqg4Rkq3ybtOAOyz0uLrEGwOtamZsSC7JTXJQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Rd30Z5Sqg4Rkq3ybtOAOyz0uLrEGwOtamZsSC7JTXJQ="
+    }
+  },
+  "version": "0.3.0"
+}

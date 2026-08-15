@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kieronquinn.app.simnumbersetter_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KXVCB6pSuk6A3uwjvVeaTUU8umPTWnvAZJRU1yuL7f8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KXVCB6pSuk6A3uwjvVeaTUU8umPTWnvAZJRU1yuL7f8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KXVCB6pSuk6A3uwjvVeaTUU8umPTWnvAZJRU1yuL7f8="
+    }
+  },
+  "version": "1.0"
+}

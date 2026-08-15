@@ -1,0 +1,18 @@
+{
+  "apkName": "bus.chio.wishmaster_1003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OfgR8HwjiGLxAOBFFUpvINmVdf4RYMXGEobO425fycc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OfgR8HwjiGLxAOBFFUpvINmVdf4RYMXGEobO425fycc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OfgR8HwjiGLxAOBFFUpvINmVdf4RYMXGEobO425fycc="
+    }
+  },
+  "version": "1.0.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fdroid.nearby_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5VlSDFy008+SpccptBZrgFzgb5YEOchcIxv2BWsHmDY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5VlSDFy008+SpccptBZrgFzgb5YEOchcIxv2BWsHmDY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5VlSDFy008+SpccptBZrgFzgb5YEOchcIxv2BWsHmDY="
+    }
+  },
+  "version": "0.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.gptassist_240.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ufYBFR7Z/5n+XHp29yE7LAdLIVXwMAlBacoIGe+nL4I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ufYBFR7Z/5n+XHp29yE7LAdLIVXwMAlBacoIGe+nL4I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ufYBFR7Z/5n+XHp29yE7LAdLIVXwMAlBacoIGe+nL4I="
+    }
+  },
+  "version": "2.40"
+}

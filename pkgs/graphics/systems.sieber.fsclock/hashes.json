@@ -1,0 +1,18 @@
+{
+  "apkName": "systems.sieber.fsclock_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-grV23LQrGdt/1YPJLXdDZvOhG7ahT19GM/gqCAMZ5+U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-grV23LQrGdt/1YPJLXdDZvOhG7ahT19GM/gqCAMZ5+U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-grV23LQrGdt/1YPJLXdDZvOhG7ahT19GM/gqCAMZ5+U="
+    }
+  },
+  "version": "2.2"
+}

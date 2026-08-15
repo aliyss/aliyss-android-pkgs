@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nikashitsa.polar_alert_android_77.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uGhSEyZL1kITyd1lL2Kxxp+BUPYjU3HXjIgtwyQDOIM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uGhSEyZL1kITyd1lL2Kxxp+BUPYjU3HXjIgtwyQDOIM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uGhSEyZL1kITyd1lL2Kxxp+BUPYjU3HXjIgtwyQDOIM="
+    }
+  },
+  "version": "2.0.1"
+}

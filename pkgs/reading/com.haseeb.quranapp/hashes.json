@@ -1,0 +1,18 @@
+{
+  "apkName": "com.haseeb.quranapp_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yDmLRvztZBd4lJF85EVx9hHfu42w/OyTiK5s4aAQ7po="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yDmLRvztZBd4lJF85EVx9hHfu42w/OyTiK5s4aAQ7po="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yDmLRvztZBd4lJF85EVx9hHfu42w/OyTiK5s4aAQ7po="
+    }
+  },
+  "version": "1.2.0"
+}

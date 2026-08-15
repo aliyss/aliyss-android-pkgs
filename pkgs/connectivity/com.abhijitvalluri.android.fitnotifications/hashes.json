@@ -1,0 +1,18 @@
+{
+  "apkName": "com.abhijitvalluri.android.fitnotifications_46.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bFnBQRGBfS6VpwX30HzPj0yt4Fj3jaqc5qmxvhcD+OI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bFnBQRGBfS6VpwX30HzPj0yt4Fj3jaqc5qmxvhcD+OI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bFnBQRGBfS6VpwX30HzPj0yt4Fj3jaqc5qmxvhcD+OI="
+    }
+  },
+  "version": "2.12"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.paperterm.app",
+  "signerFingerprints": [
+    "A7:39:8F:BD:4C:39:D9:AB:DD:AB:06:E5:B3:B6:3D:A0:7E:AB:B0:24:68:A7:28:31:99:68:D4:31:D5:3D:8F:3E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

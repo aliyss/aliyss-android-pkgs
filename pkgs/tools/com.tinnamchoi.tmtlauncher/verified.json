@@ -1,0 +1,8 @@
+{
+  "package": "com.tinnamchoi.tmtlauncher",
+  "signerFingerprints": [
+    "4E:E7:85:B5:02:B4:CB:25:A1:3A:B7:2D:7D:7A:73:DE:D0:E8:91:CA:35:D7:B3:86:68:C0:15:5A:77:0E:21:D7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

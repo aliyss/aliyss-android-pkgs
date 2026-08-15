@@ -1,0 +1,18 @@
+{
+  "apkName": "com.greenart7c3.nostrsigner_198.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UplXV/eshFlqlAZ2ztGUpYOV+GWh06DkHHJx+kEingc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UplXV/eshFlqlAZ2ztGUpYOV+GWh06DkHHJx+kEingc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UplXV/eshFlqlAZ2ztGUpYOV+GWh06DkHHJx+kEingc="
+    }
+  },
+  "version": "6.4.0"
+}

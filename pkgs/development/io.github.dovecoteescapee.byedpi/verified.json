@@ -1,0 +1,8 @@
+{
+  "package": "io.github.dovecoteescapee.byedpi",
+  "signerFingerprints": [
+    "92:8A:CC:EE:6D:7C:E3:87:D3:9F:69:23:CC:7E:88:BE:04:EB:45:94:81:C9:87:96:06:39:6E:96:30:1C:EB:5D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

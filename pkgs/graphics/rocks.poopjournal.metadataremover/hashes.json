@@ -1,0 +1,18 @@
+{
+  "apkName": "rocks.poopjournal.metadataremover_20020.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-U0w2A7muSBZi3thfjPgqaTrA4pqBOIEzNO4kyfYnxiM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-U0w2A7muSBZi3thfjPgqaTrA4pqBOIEzNO4kyfYnxiM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-U0w2A7muSBZi3thfjPgqaTrA4pqBOIEzNO4kyfYnxiM="
+    }
+  },
+  "version": "2.0.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.iyps_161.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rxM01ghSQnqpU7oRhQTXBTf9aTI2fhZ0pWJSkHxSo3Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rxM01ghSQnqpU7oRhQTXBTf9aTI2fhZ0pWJSkHxSo3Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rxM01ghSQnqpU7oRhQTXBTf9aTI2fhZ0pWJSkHxSo3Y="
+    }
+  },
+  "version": "1.6.1"
+}

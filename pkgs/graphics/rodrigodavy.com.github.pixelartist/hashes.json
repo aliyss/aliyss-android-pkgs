@@ -1,0 +1,18 @@
+{
+  "apkName": "rodrigodavy.com.github.pixelartist_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tCwoGV6a5Ejs/1MFFsAj2jKy396NiJL/du6ph9Nd1F8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tCwoGV6a5Ejs/1MFFsAj2jKy396NiJL/du6ph9Nd1F8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tCwoGV6a5Ejs/1MFFsAj2jKy396NiJL/du6ph9Nd1F8="
+    }
+  },
+  "version": "3.1"
+}

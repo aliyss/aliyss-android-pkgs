@@ -1,0 +1,8 @@
+{
+  "package": "org.microg.nlp.backend.apple",
+  "signerFingerprints": [
+    "C9:D1:00:A7:D0:77:75:16:3D:01:31:AF:DD:A1:C6:B0:1B:DE:B9:B1:E3:9D:DA:D8:A3:D9:ED:72:FB:26:63:19"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

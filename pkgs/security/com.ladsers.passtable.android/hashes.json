@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ladsers.passtable.android_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lRQ5w09Jgc6AfQwPDjhIQAnKoj5HbYCWSFaTpYzsnDw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lRQ5w09Jgc6AfQwPDjhIQAnKoj5HbYCWSFaTpYzsnDw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lRQ5w09Jgc6AfQwPDjhIQAnKoj5HbYCWSFaTpYzsnDw="
+    }
+  },
+  "version": "25.2.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "s1m.hwfido2provider",
+  "signerFingerprints": [
+    "94:BD:36:BA:46:48:D3:86:97:CD:FC:F3:38:5B:6C:00:88:FF:3D:55:1C:E9:FC:16:05:0E:E0:80:B9:55:3E:C5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

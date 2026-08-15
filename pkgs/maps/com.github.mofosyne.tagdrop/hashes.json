@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.mofosyne.tagdrop_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AUWQ3V4UjVEdulks1LpHtTatvQNWukLNu2f7iYFHS50="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AUWQ3V4UjVEdulks1LpHtTatvQNWukLNu2f7iYFHS50="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AUWQ3V4UjVEdulks1LpHtTatvQNWukLNu2f7iYFHS50="
+    }
+  },
+  "version": "2.6.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.chaidarun.chronofile",
+  "signerFingerprints": [
+    "BB:AC:31:1E:25:A9:43:8D:94:80:C9:84:B5:DD:47:8A:51:ED:00:BD:38:2F:05:8D:16:52:40:01:F6:7E:23:71"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

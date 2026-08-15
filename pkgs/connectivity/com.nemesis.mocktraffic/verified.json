@@ -1,0 +1,8 @@
+{
+  "package": "com.nemesis.mocktraffic",
+  "signerFingerprints": [
+    "95:17:B2:B8:E6:0F:CF:33:99:37:95:16:69:FF:18:A4:7D:24:DF:B9:FF:6C:FC:91:5D:2A:EE:80:16:67:94:8A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

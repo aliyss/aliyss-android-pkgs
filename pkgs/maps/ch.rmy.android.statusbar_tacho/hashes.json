@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.rmy.android.statusbar_tacho_2003150100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7hq82fkh45Hnvmo4/QbGPgWIaHEsluqTik7KDFtEPAQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7hq82fkh45Hnvmo4/QbGPgWIaHEsluqTik7KDFtEPAQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7hq82fkh45Hnvmo4/QbGPgWIaHEsluqTik7KDFtEPAQ="
+    }
+  },
+  "version": "3.15.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lostf1sh.pixelplayeross_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-R7Wsud2PDFmZP8rxxaTol/UiY7VQyT/I4q9d/6mS3rU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R7Wsud2PDFmZP8rxxaTol/UiY7VQyT/I4q9d/6mS3rU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R7Wsud2PDFmZP8rxxaTol/UiY7VQyT/I4q9d/6mS3rU="
+    }
+  },
+  "version": "0.2.0"
+}

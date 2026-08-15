@@ -1,0 +1,18 @@
+{
+  "apkName": "nodomain.freeyourgadget.gadgetbridge_252_01cce93.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-02B16ZnQcIeutNHF1jW0IqrPbo33cefxlv9tJXPWqLQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-02B16ZnQcIeutNHF1jW0IqrPbo33cefxlv9tJXPWqLQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-02B16ZnQcIeutNHF1jW0IqrPbo33cefxlv9tJXPWqLQ="
+    }
+  },
+  "version": "0.93.0"
+}

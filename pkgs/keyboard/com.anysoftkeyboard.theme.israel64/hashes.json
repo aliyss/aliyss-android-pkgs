@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.theme.israel64_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vDClPzlDFI6TIJ9nxYIIJ4fvNtU26p98OOyxdqNGeQs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vDClPzlDFI6TIJ9nxYIIJ4fvNtU26p98OOyxdqNGeQs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vDClPzlDFI6TIJ9nxYIIJ4fvNtU26p98OOyxdqNGeQs="
+    }
+  },
+  "version": "5.1.6158"
+}

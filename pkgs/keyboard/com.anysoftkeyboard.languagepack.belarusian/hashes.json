@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.belarusian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LWylH7QEPHnSosyiUs+R5bOCcUw2h6oxW4XYISMnCK0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LWylH7QEPHnSosyiUs+R5bOCcUw2h6oxW4XYISMnCK0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LWylH7QEPHnSosyiUs+R5bOCcUw2h6oxW4XYISMnCK0="
+    }
+  },
+  "version": "5.1.6158"
+}

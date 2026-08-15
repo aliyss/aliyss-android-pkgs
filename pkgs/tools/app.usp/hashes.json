@@ -1,0 +1,18 @@
+{
+  "apkName": "app.usp_84.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i9LwgEsPRKNECDifTFrB7Jvl2OgkIrOnS0jiWNsgZcQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i9LwgEsPRKNECDifTFrB7Jvl2OgkIrOnS0jiWNsgZcQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i9LwgEsPRKNECDifTFrB7Jvl2OgkIrOnS0jiWNsgZcQ="
+    }
+  },
+  "version": "0.0.86.29"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mzhang.cleantimer_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ciCs9VHoxymg344YCSCfLf+O7A7HfMiEVvIRsFo3XOw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ciCs9VHoxymg344YCSCfLf+O7A7HfMiEVvIRsFo3XOw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ciCs9VHoxymg344YCSCfLf+O7A7HfMiEVvIRsFo3XOw="
+    }
+  },
+  "version": "1.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wordgame.nian_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vxngabox7wV3Bl+DPo+m6S8CXl2RK+U47L5pbxVVfDs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vxngabox7wV3Bl+DPo+m6S8CXl2RK+U47L5pbxVVfDs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vxngabox7wV3Bl+DPo+m6S8CXl2RK+U47L5pbxVVfDs="
+    }
+  },
+  "version": "1.6"
+}

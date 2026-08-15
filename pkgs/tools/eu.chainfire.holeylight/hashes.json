@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.chainfire.holeylight_102.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q9fceWEDs9G0pDBxRQw3ZQ+QvK7d9qY4ZHKh1D8+oKw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q9fceWEDs9G0pDBxRQw3ZQ+QvK7d9qY4ZHKh1D8+oKw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q9fceWEDs9G0pDBxRQw3ZQ+QvK7d9qY4ZHKh1D8+oKw="
+    }
+  },
+  "version": "1.02"
+}

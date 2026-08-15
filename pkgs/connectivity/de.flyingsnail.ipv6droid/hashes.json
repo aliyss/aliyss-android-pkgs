@@ -1,0 +1,18 @@
+{
+  "apkName": "de.flyingsnail.ipv6droid_304.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mudtICnGdzqyHBsF1pyt8ISbjHAkfiWh5F/L+qIfOUs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mudtICnGdzqyHBsF1pyt8ISbjHAkfiWh5F/L+qIfOUs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mudtICnGdzqyHBsF1pyt8ISbjHAkfiWh5F/L+qIfOUs="
+    }
+  },
+  "version": "v3.0.4"
+}

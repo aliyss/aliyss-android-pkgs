@@ -1,0 +1,8 @@
+{
+  "package": "com.redcoracle.episodes",
+  "signerFingerprints": [
+    "32:91:1D:83:FB:63:0A:F1:A3:19:2E:35:9F:71:18:D7:1E:B2:44:D2:BA:F8:E2:43:C8:7A:C2:77:A3:CA:EB:74"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

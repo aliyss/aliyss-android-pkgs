@@ -1,0 +1,8 @@
+{
+  "package": "net.seqular.network",
+  "signerFingerprints": [
+    "EF:8D:BB:3B:86:10:2B:29:CE:81:95:01:C7:D4:8D:C4:2F:49:4C:CE:E2:05:E8:81:A5:1A:56:5B:EA:19:B4:CD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

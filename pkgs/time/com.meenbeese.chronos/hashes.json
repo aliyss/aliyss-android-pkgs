@@ -1,0 +1,18 @@
+{
+  "apkName": "com.meenbeese.chronos_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B0hcSce51A617Nvy9sw/A3lxvK791OPrHesbFEEw/JA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B0hcSce51A617Nvy9sw/A3lxvK791OPrHesbFEEw/JA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B0hcSce51A617Nvy9sw/A3lxvK791OPrHesbFEEw/JA="
+    }
+  },
+  "version": "2026.1.0"
+}

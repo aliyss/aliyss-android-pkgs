@@ -1,0 +1,18 @@
+{
+  "apkName": "de.mymiggi.tankblick_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mjit9BHtreGD7ey3zAD11CePcldXaRnrQQI/7PVR1T0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mjit9BHtreGD7ey3zAD11CePcldXaRnrQQI/7PVR1T0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mjit9BHtreGD7ey3zAD11CePcldXaRnrQQI/7PVR1T0="
+    }
+  },
+  "version": "0.2.1"
+}

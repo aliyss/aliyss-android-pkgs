@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fastaccess.github.revival_477.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+mmEbmL3LrffeWnWzppkZfTOkCyYKPKGCrsoICsXuGw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+mmEbmL3LrffeWnWzppkZfTOkCyYKPKGCrsoICsXuGw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+mmEbmL3LrffeWnWzppkZfTOkCyYKPKGCrsoICsXuGw="
+    }
+  },
+  "version": "4.7.7"
+}

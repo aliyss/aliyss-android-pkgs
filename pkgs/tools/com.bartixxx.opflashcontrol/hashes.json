@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bartixxx.opflashcontrol_50.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aBzyHMqB29nS5bL9WdyLukzSz6tY1WOcr4D2LJHJU4g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aBzyHMqB29nS5bL9WdyLukzSz6tY1WOcr4D2LJHJU4g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aBzyHMqB29nS5bL9WdyLukzSz6tY1WOcr4D2LJHJU4g="
+    }
+  },
+  "version": "1.6.2"
+}

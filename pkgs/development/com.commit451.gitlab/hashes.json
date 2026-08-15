@@ -1,0 +1,18 @@
+{
+  "apkName": "com.commit451.gitlab_2080000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vQy42DPuf0k20LzlcniuC+SMyFgxeA8WKrvO33GkRWY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vQy42DPuf0k20LzlcniuC+SMyFgxeA8WKrvO33GkRWY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vQy42DPuf0k20LzlcniuC+SMyFgxeA8WKrvO33GkRWY="
+    }
+  },
+  "version": "2.8.0"
+}

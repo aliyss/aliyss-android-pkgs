@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mehrphilalethes.claytablet_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Tj1V5ZBj8Vf6dkQtDQ5GrJp0mdNBfq0Ch3jtrAAgHgE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Tj1V5ZBj8Vf6dkQtDQ5GrJp0mdNBfq0Ch3jtrAAgHgE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Tj1V5ZBj8Vf6dkQtDQ5GrJp0mdNBfq0Ch3jtrAAgHgE="
+    }
+  },
+  "version": "1.0"
+}

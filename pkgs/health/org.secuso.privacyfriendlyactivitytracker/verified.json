@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlyactivitytracker",
+  "signerFingerprints": [
+    "E2:62:1C:CE:3C:A2:A9:5B:79:05:D3:6D:8B:43:C5:0B:71:15:76:6E:16:45:D4:27:79:A5:6E:AC:EF:16:33:F4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

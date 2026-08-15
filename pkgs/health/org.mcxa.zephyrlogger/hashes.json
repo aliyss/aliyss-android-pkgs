@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mcxa.zephyrlogger_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-k1nWV16kv6qcfS71ZSLj+YGj6jkDrD/n5th75capUIU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k1nWV16kv6qcfS71ZSLj+YGj6jkDrD/n5th75capUIU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k1nWV16kv6qcfS71ZSLj+YGj6jkDrD/n5th75capUIU="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.sirekanyan.outline_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zuNMWQy7c7BINjgQzdgDgsE3G83c5RMVeApYdMIpqdc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zuNMWQy7c7BINjgQzdgDgsE3G83c5RMVeApYdMIpqdc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zuNMWQy7c7BINjgQzdgDgsE3G83c5RMVeApYdMIpqdc="
+    }
+  },
+  "version": "0.1.25"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.w2sv.filenavigator_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JIUb5unlDbe2RsK4CWmBfAcOEcuEGoHtV8SnQn0sVGQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JIUb5unlDbe2RsK4CWmBfAcOEcuEGoHtV8SnQn0sVGQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JIUb5unlDbe2RsK4CWmBfAcOEcuEGoHtV8SnQn0sVGQ="
+    }
+  },
+  "version": "0.3.3"
+}

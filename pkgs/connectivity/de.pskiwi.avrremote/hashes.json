@@ -1,0 +1,18 @@
+{
+  "apkName": "de.pskiwi.avrremote_124.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-h+yW1dyiNMoT4t2Zy6AIrYQ6l4C4QpXCSD5qhcrOYUI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h+yW1dyiNMoT4t2Zy6AIrYQ6l4C4QpXCSD5qhcrOYUI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h+yW1dyiNMoT4t2Zy6AIrYQ6l4C4QpXCSD5qhcrOYUI="
+    }
+  },
+  "version": "1.5.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.nemui.ailin.uclock_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hIy560jrVgveV5cMudSfNay2fSsx7cUX6cAjiPd8DiA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hIy560jrVgveV5cMudSfNay2fSsx7cUX6cAjiPd8DiA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hIy560jrVgveV5cMudSfNay2fSsx7cUX6cAjiPd8DiA="
+    }
+  },
+  "version": "1.02j"
+}

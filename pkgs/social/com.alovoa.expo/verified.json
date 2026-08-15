@@ -1,0 +1,8 @@
+{
+  "package": "com.alovoa.expo",
+  "signerFingerprints": [
+    "FE:C3:42:F5:CC:F7:3E:C3:A9:E0:EC:7C:DB:CD:14:DA:44:2D:12:73:52:8B:6C:65:F9:10:D8:8E:84:A6:74:51"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "ca.classicdiy.classic",
+  "signerFingerprints": [
+    "54:48:6B:0D:5A:F9:8F:32:82:64:DD:DB:6E:03:E4:D4:87:A8:AA:2A:80:66:27:6D:35:F9:5E:85:56:E9:AC:0E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

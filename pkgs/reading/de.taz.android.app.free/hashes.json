@@ -1,0 +1,18 @@
+{
+  "apkName": "de.taz.android.app.free_20101900.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hLWh3T7d9AReuqdvMgwodLxfaEjifGPunhV1Pp17y2k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hLWh3T7d9AReuqdvMgwodLxfaEjifGPunhV1Pp17y2k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hLWh3T7d9AReuqdvMgwodLxfaEjifGPunhV1Pp17y2k="
+    }
+  },
+  "version": "2.1.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.fcitx.fcitx5.android.plugin.clipboard_filter",
+  "signerFingerprints": [
+    "E4:DB:1E:9E:DF:F1:36:29:D0:7D:E4:BB:F8:16:5F:E9:BD:85:57:AB:55:09:26:72:DA:8E:40:DB:E4:84:EC:D7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

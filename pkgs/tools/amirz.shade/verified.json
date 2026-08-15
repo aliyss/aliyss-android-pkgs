@@ -1,0 +1,8 @@
+{
+  "package": "amirz.shade",
+  "signerFingerprints": [
+    "C8:68:DB:47:9D:6B:92:D6:60:D5:F9:43:DD:43:EC:47:D5:6B:0C:60:AA:EA:AD:EE:30:96:07:4A:F7:5D:A5:20"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

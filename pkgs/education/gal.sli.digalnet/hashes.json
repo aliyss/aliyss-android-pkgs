@@ -1,0 +1,18 @@
+{
+  "apkName": "gal.sli.digalnet_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-P8v2MRVzB7AG4Zz/hGumOKgEdVXRrkpZfBRtBwM2pV0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P8v2MRVzB7AG4Zz/hGumOKgEdVXRrkpZfBRtBwM2pV0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P8v2MRVzB7AG4Zz/hGumOKgEdVXRrkpZfBRtBwM2pV0="
+    }
+  },
+  "version": "2.3"
+}

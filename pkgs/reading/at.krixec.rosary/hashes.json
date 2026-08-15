@@ -1,0 +1,18 @@
+{
+  "apkName": "at.krixec.rosary_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CqL2atS8OvJCYPXh0fwDfN7OJf027M+Im2r5avJS+sU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CqL2atS8OvJCYPXh0fwDfN7OJf027M+Im2r5avJS+sU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CqL2atS8OvJCYPXh0fwDfN7OJf027M+Im2r5avJS+sU="
+    }
+  },
+  "version": "Ruth"
+}

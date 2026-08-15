@@ -1,0 +1,18 @@
+{
+  "apkName": "com.simpol.permissionssummary_130.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8dQ7ERNGw7s5zKl9z6TdrKd43Z8kInFhlu1OZARLNH4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8dQ7ERNGw7s5zKl9z6TdrKd43Z8kInFhlu1OZARLNH4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8dQ7ERNGw7s5zKl9z6TdrKd43Z8kInFhlu1OZARLNH4="
+    }
+  },
+  "version": "1.3.0"
+}

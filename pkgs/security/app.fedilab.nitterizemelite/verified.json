@@ -1,0 +1,8 @@
+{
+  "package": "app.fedilab.nitterizemelite",
+  "signerFingerprints": [
+    "65:82:A3:D5:8D:16:9A:61:2C:E9:39:8F:61:28:47:D8:18:4D:4C:2B:7A:43:E8:6A:35:49:F9:17:4B:90:3F:E7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

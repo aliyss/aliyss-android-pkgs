@@ -1,0 +1,18 @@
+{
+  "apkName": "com.adgad.kboard_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DEGhRQY76Stq90CVLN67CKiD7/gF6fi+zdmBAfOwttg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DEGhRQY76Stq90CVLN67CKiD7/gF6fi+zdmBAfOwttg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DEGhRQY76Stq90CVLN67CKiD7/gF6fi+zdmBAfOwttg="
+    }
+  },
+  "version": "5.0.1"
+}

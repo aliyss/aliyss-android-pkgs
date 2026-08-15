@@ -1,0 +1,18 @@
+{
+  "apkName": "com.iatfei.tsconverter_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DCb7XitM2ry75F7pBkdAGhWaue+aT9htTYE8QKVUSe8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DCb7XitM2ry75F7pBkdAGhWaue+aT9htTYE8QKVUSe8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DCb7XitM2ry75F7pBkdAGhWaue+aT9htTYE8QKVUSe8="
+    }
+  },
+  "version": "3.1.0"
+}

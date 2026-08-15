@@ -1,0 +1,8 @@
+{
+  "package": "de.tcrass.minos",
+  "signerFingerprints": [
+    "EB:07:A1:B3:91:A2:93:16:C5:D2:23:33:BB:70:A3:11:2F:84:9D:9A:24:A0:66:58:92:46:73:F3:F8:B7:23:54"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.tuty.fruty.slot_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FOQtMVpNG8xlL/miLJOQ3M9SQoCOUefxLBnFqQO7VWA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FOQtMVpNG8xlL/miLJOQ3M9SQoCOUefxLBnFqQO7VWA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FOQtMVpNG8xlL/miLJOQ3M9SQoCOUefxLBnFqQO7VWA="
+    }
+  },
+  "version": "1.12.1"
+}

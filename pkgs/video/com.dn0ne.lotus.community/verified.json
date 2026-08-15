@@ -1,0 +1,8 @@
+{
+  "package": "com.dn0ne.lotus.community",
+  "signerFingerprints": [
+    "B3:F4:D2:EB:16:0B:B5:BE:3A:AD:B0:5A:5D:C5:E0:84:29:D9:2F:1F:64:5E:21:A1:9A:EF:22:E0:03:A8:89:EE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

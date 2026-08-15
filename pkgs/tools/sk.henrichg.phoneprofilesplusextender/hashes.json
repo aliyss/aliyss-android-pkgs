@@ -1,0 +1,18 @@
+{
+  "apkName": "sk.henrichg.phoneprofilesplusextender_935.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2LcqeZ9Webzti1z96eBNW865dya/PB9z2C7pCPqXU/E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2LcqeZ9Webzti1z96eBNW865dya/PB9z2C7pCPqXU/E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2LcqeZ9Webzti1z96eBNW865dya/PB9z2C7pCPqXU/E="
+    }
+  },
+  "version": "9.0.1.3"
+}

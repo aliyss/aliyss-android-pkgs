@@ -1,0 +1,18 @@
+{
+  "apkName": "com.viktorholk.apipushnotifications_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kHT5S9Su13k5a3zCn/WJtg3m9a64OElo1vlAYltS+BQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kHT5S9Su13k5a3zCn/WJtg3m9a64OElo1vlAYltS+BQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kHT5S9Su13k5a3zCn/WJtg3m9a64OElo1vlAYltS+BQ="
+    }
+  },
+  "version": "1.3.0"
+}

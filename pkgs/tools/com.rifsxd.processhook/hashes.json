@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rifsxd.processhook_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jfp6eBJ8G/ac0hv6CSpckgPO1tUujqQff3lBi8xy/EM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jfp6eBJ8G/ac0hv6CSpckgPO1tUujqQff3lBi8xy/EM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jfp6eBJ8G/ac0hv6CSpckgPO1tUujqQff3lBi8xy/EM="
+    }
+  },
+  "version": "1.3.1"
+}

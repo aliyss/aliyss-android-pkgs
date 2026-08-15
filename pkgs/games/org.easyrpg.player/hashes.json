@@ -1,0 +1,18 @@
+{
+  "apkName": "org.easyrpg.player_6699.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O4Ejx4Ll3ejjpGtKYQdp+yI3Iqt4TlptiNHp3umTrb8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O4Ejx4Ll3ejjpGtKYQdp+yI3Iqt4TlptiNHp3umTrb8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O4Ejx4Ll3ejjpGtKYQdp+yI3Iqt4TlptiNHp3umTrb8="
+    }
+  },
+  "version": "0.6.2.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.example.rosary",
+  "signerFingerprints": [
+    "AB:C6:CD:77:AD:A9:4E:20:7A:D6:28:6C:F5:E0:22:05:96:2A:E2:DE:31:EF:23:86:9C:3C:47:04:EE:F4:38:63"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.politrics_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xqwm7SWQ+sItH2qGM166un/wDJ+DTI81JGbLmHbMif8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xqwm7SWQ+sItH2qGM166un/wDJ+DTI81JGbLmHbMif8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xqwm7SWQ+sItH2qGM166un/wDJ+DTI81JGbLmHbMif8="
+    }
+  },
+  "version": "1.0.1"
+}

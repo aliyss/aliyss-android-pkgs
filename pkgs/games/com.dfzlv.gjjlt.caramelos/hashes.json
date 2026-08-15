@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dfzlv.gjjlt.caramelos_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8gLzrptEGQc9JW4bPz1vwEZQd53ZuL2dgVwJWgxk8gE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8gLzrptEGQc9JW4bPz1vwEZQd53ZuL2dgVwJWgxk8gE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8gLzrptEGQc9JW4bPz1vwEZQd53ZuL2dgVwJWgxk8gE="
+    }
+  },
+  "version": "1.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vsmartcard.acardemulator_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VNCkRCTp/1k4/2wyltgSZGD+lGKdiEbykWt9tWhcFCE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VNCkRCTp/1k4/2wyltgSZGD+lGKdiEbykWt9tWhcFCE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VNCkRCTp/1k4/2wyltgSZGD+lGKdiEbykWt9tWhcFCE="
+    }
+  },
+  "version": "3.5"
+}

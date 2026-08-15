@@ -1,0 +1,18 @@
+{
+  "apkName": "de.dennisguse.opentracks_6733.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m0jUVIK2SvUQWiDreFw+5eRHVstP6mnoE9XDVv6rsxs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m0jUVIK2SvUQWiDreFw+5eRHVstP6mnoE9XDVv6rsxs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m0jUVIK2SvUQWiDreFw+5eRHVstP6mnoE9XDVv6rsxs="
+    }
+  },
+  "version": "v4.28.1irreproducible"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.jjewuz.justweather",
+  "signerFingerprints": [
+    "3B:BE:C4:6C:2E:06:5B:88:7E:73:30:DA:CA:62:DA:57:89:A0:65:75:D1:34:BD:1C:41:48:90:61:50:0D:1A:78"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

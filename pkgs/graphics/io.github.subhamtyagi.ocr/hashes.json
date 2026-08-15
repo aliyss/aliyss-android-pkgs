@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.subhamtyagi.ocr_61.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-j+SW+9ka1Xu6aXAn+G+ULSF2h/mN9jog0/O+j/Wrp5w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-j+SW+9ka1Xu6aXAn+G+ULSF2h/mN9jog0/O+j/Wrp5w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-j+SW+9ka1Xu6aXAn+G+ULSF2h/mN9jog0/O+j/Wrp5w="
+    }
+  },
+  "version": "6.1"
+}

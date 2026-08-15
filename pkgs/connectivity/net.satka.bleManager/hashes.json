@@ -1,0 +1,18 @@
+{
+  "apkName": "net.satka.bleManager_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VTH5Qt1YPK33+tDukL5haUPyNZKXXlP3m8bK8HBNmMk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VTH5Qt1YPK33+tDukL5haUPyNZKXXlP3m8bK8HBNmMk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VTH5Qt1YPK33+tDukL5haUPyNZKXXlP3m8bK8HBNmMk="
+    }
+  },
+  "version": "19"
+}

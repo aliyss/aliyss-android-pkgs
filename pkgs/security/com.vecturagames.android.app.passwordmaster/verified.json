@@ -1,0 +1,8 @@
+{
+  "package": "com.vecturagames.android.app.passwordmaster",
+  "signerFingerprints": [
+    "4F:52:48:FD:73:22:7B:DA:F9:A6:94:22:E5:73:EF:51:BA:E4:D4:98:8D:23:BA:E5:32:D0:0F:59:07:BF:03:A9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

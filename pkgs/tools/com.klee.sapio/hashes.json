@@ -1,0 +1,18 @@
+{
+  "apkName": "com.klee.sapio_98.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7wGRDMdVeE4jETNUmV8S1bKDTErn+bUOneBjgvaDeew="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7wGRDMdVeE4jETNUmV8S1bKDTErn+bUOneBjgvaDeew="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7wGRDMdVeE4jETNUmV8S1bKDTErn+bUOneBjgvaDeew="
+    }
+  },
+  "version": "2.8.0"
+}

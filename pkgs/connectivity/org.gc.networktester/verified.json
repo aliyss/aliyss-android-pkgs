@@ -1,0 +1,8 @@
+{
+  "package": "org.gc.networktester",
+  "signerFingerprints": [
+    "C0:18:1A:51:4B:39:60:58:A1:0A:F8:E7:9C:60:F8:60:B2:B5:1C:BD:4B:94:6B:4C:12:52:20:A8:EA:50:16:AB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

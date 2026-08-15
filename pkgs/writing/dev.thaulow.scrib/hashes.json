@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.thaulow.scrib_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9piDyEgLe2TSKhaOwruCfG4YW0YNUkrDyV+JRTaLDLc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9piDyEgLe2TSKhaOwruCfG4YW0YNUkrDyV+JRTaLDLc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9piDyEgLe2TSKhaOwruCfG4YW0YNUkrDyV+JRTaLDLc="
+    }
+  },
+  "version": "0.1.9"
+}

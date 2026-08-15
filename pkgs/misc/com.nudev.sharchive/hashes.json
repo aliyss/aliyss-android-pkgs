@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nudev.sharchive_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CknWAeLln4fNYLvWjSEeAoDuJve0jrNbENXxIGAMMsQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CknWAeLln4fNYLvWjSEeAoDuJve0jrNbENXxIGAMMsQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CknWAeLln4fNYLvWjSEeAoDuJve0jrNbENXxIGAMMsQ="
+    }
+  },
+  "version": "1.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lithium.leona.openstud_190.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NFKrcQ/oWClxlwfQRpf90MB8j2Df+nyspJe5562nUAg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NFKrcQ/oWClxlwfQRpf90MB8j2Df+nyspJe5562nUAg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NFKrcQ/oWClxlwfQRpf90MB8j2Df+nyspJe5562nUAg="
+    }
+  },
+  "version": "1.29.2"
+}

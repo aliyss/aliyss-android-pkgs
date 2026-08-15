@@ -1,0 +1,8 @@
+{
+  "package": "de.jrpie.android.launcher",
+  "signerFingerprints": [
+    "0B:5E:E0:40:00:B2:AB:F0:B2:C3:F8:2C:DA:9D:9A:3F:61:5F:36:43:BB:91:7F:F4:E5:16:27:0A:B5:DC:AF:12"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

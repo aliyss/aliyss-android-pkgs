@@ -1,0 +1,18 @@
+{
+  "apkName": "vegabobo.languageselector_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lbZqEuQpT0mOswpF3hSat7A5+qhGzl+5cy/Gd1n5vgs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lbZqEuQpT0mOswpF3hSat7A5+qhGzl+5cy/Gd1n5vgs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lbZqEuQpT0mOswpF3hSat7A5+qhGzl+5cy/Gd1n5vgs="
+    }
+  },
+  "version": "1.04"
+}

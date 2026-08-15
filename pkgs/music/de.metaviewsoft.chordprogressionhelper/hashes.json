@@ -1,0 +1,18 @@
+{
+  "apkName": "de.metaviewsoft.chordprogressionhelper_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TuIXBybDV9o3SB9HMyGLEVIE2QP1ivF+pOYlwNEP3QM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TuIXBybDV9o3SB9HMyGLEVIE2QP1ivF+pOYlwNEP3QM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TuIXBybDV9o3SB9HMyGLEVIE2QP1ivF+pOYlwNEP3QM="
+    }
+  },
+  "version": "0.95"
+}

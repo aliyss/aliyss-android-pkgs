@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vladrip.drgassistant_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FseULO4RHSUeIvuwkq95m0XeqgNXfZut4s7HnPfAhAQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FseULO4RHSUeIvuwkq95m0XeqgNXfZut4s7HnPfAhAQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FseULO4RHSUeIvuwkq95m0XeqgNXfZut4s7HnPfAhAQ="
+    }
+  },
+  "version": "1.1"
+}

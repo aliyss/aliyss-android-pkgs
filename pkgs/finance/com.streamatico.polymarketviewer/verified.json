@@ -1,0 +1,8 @@
+{
+  "package": "com.streamatico.polymarketviewer",
+  "signerFingerprints": [
+    "F7:C7:BB:57:A3:B8:61:7B:B2:92:07:1D:2A:D5:05:C5:D9:5C:08:5E:9C:AA:19:F3:6B:4B:12:D0:20:37:FB:EE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

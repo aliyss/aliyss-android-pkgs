@@ -1,0 +1,18 @@
+{
+  "apkName": "net.marcellozaniboni.sonqui_910.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fhQAQOqPXaxiRhSqtIx9Fc/anA90jflUOAUeGssepRM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fhQAQOqPXaxiRhSqtIx9Fc/anA90jflUOAUeGssepRM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fhQAQOqPXaxiRhSqtIx9Fc/anA90jflUOAUeGssepRM="
+    }
+  },
+  "version": "0.9.10"
+}

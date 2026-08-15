@@ -1,0 +1,8 @@
+{
+  "package": "de.micmun.android.nextcloudcookbook",
+  "signerFingerprints": [
+    "2D:FC:07:59:1E:D3:BC:A8:26:1A:9E:BC:14:E8:B9:5D:80:8F:40:55:C1:78:1F:B0:93:A1:6C:79:E1:B5:79:C8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

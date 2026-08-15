@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.basicairdata.clinometer_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VtO3kAgTwP5rWBr9uLDKKKWTK1L8qtcvnCI726ujT10="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VtO3kAgTwP5rWBr9uLDKKKWTK1L8qtcvnCI726ujT10="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VtO3kAgTwP5rWBr9uLDKKKWTK1L8qtcvnCI726ujT10="
+    }
+  },
+  "version": "1.2.4"
+}

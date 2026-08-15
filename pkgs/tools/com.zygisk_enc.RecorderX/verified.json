@@ -1,0 +1,8 @@
+{
+  "package": "com.zygisk_enc.RecorderX",
+  "signerFingerprints": [
+    "E3:A4:8D:62:65:8A:10:46:71:08:12:6D:D5:F8:88:98:D1:CA:5B:9F:94:BB:EE:CF:F7:08:F8:0D:BD:1C:BC:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

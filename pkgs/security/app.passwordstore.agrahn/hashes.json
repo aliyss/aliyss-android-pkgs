@@ -1,0 +1,18 @@
+{
+  "apkName": "app.passwordstore.agrahn_20001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FFOVPfKdBgeAOKbMQR+SukEsWwJQ3/UN3jPqiU6thBw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FFOVPfKdBgeAOKbMQR+SukEsWwJQ3/UN3jPqiU6thBw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FFOVPfKdBgeAOKbMQR+SukEsWwJQ3/UN3jPqiU6thBw="
+    }
+  },
+  "version": "2.0.1"
+}

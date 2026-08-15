@@ -1,0 +1,18 @@
+{
+  "apkName": "com.biketrackd.app_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jpIDhDDlGjs/w7LBwKhOebjDx2BpdEoJhYB8strq7DA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jpIDhDDlGjs/w7LBwKhOebjDx2BpdEoJhYB8strq7DA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jpIDhDDlGjs/w7LBwKhOebjDx2BpdEoJhYB8strq7DA="
+    }
+  },
+  "version": "0.7.2"
+}

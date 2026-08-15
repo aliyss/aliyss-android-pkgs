@@ -1,0 +1,8 @@
+{
+  "package": "info.metadude.android.rc3.schedule",
+  "signerFingerprints": [
+    "D5:B0:D0:D5:E3:A7:12:B5:72:16:20:7E:93:EE:B5:AD:AD:01:93:D9:6A:5C:B2:12:6C:E2:13:E0:DE:A9:9D:0E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

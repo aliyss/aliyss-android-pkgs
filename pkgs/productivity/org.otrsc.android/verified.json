@@ -1,0 +1,8 @@
+{
+  "package": "org.otrsc.android",
+  "signerFingerprints": [
+    "70:90:AB:22:89:3D:A4:17:35:E5:F5:68:6A:BA:D2:5E:44:80:FF:11:62:D4:56:C0:05:19:E8:4F:A9:FB:28:53"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

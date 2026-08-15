@@ -1,0 +1,8 @@
+{
+  "package": "net.typeblog.socks",
+  "signerFingerprints": [
+    "D6:71:A5:16:D6:FC:8A:A0:2A:6C:94:55:C8:E2:F4:B0:BB:04:0A:71:B9:87:DF:93:64:05:7F:B1:31:E7:AD:76"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.swatian.oceannex.free_200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-w0e8RXyQlgb0aJSBZCsADherB7zNPQNBB/LFhTXb6PU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w0e8RXyQlgb0aJSBZCsADherB7zNPQNBB/LFhTXb6PU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w0e8RXyQlgb0aJSBZCsADherB7zNPQNBB/LFhTXb6PU="
+    }
+  },
+  "version": "2.0.0"
+}

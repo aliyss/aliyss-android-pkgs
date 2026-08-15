@@ -1,0 +1,8 @@
+{
+  "package": "com.memetro.android",
+  "signerFingerprints": [
+    "5C:76:BE:A8:BE:95:4B:0F:2C:D0:CF:EA:C0:38:ED:B3:C3:F2:7A:39:26:99:AA:8F:43:F7:52:D7:F0:1A:33:AF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

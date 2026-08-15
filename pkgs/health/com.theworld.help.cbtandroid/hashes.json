@@ -1,0 +1,18 @@
+{
+  "apkName": "com.theworld.help.cbtandroid_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xyJQPI67Y1tmu/djNlAwQJhWfbS0I8bkNeDEtTigvPk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xyJQPI67Y1tmu/djNlAwQJhWfbS0I8bkNeDEtTigvPk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xyJQPI67Y1tmu/djNlAwQJhWfbS0I8bkNeDEtTigvPk="
+    }
+  },
+  "version": "0.0.5"
+}

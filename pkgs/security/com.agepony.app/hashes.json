@@ -1,0 +1,18 @@
+{
+  "apkName": "com.agepony.app_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uOnAP7zr8qLIeNXNWcCIAoulnXMFRm+EFaxy+y4pxCk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uOnAP7zr8qLIeNXNWcCIAoulnXMFRm+EFaxy+y4pxCk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uOnAP7zr8qLIeNXNWcCIAoulnXMFRm+EFaxy+y4pxCk="
+    }
+  },
+  "version": "3.2.0"
+}

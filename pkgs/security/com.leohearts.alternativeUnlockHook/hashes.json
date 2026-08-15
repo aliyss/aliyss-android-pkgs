@@ -1,0 +1,18 @@
+{
+  "apkName": "com.leohearts.alternativeUnlockHook_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1ShfK4YTVthYrz99TWfUVMrMH/aeSVZgVKmL+nkXXLU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1ShfK4YTVthYrz99TWfUVMrMH/aeSVZgVKmL+nkXXLU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1ShfK4YTVthYrz99TWfUVMrMH/aeSVZgVKmL+nkXXLU="
+    }
+  },
+  "version": "1.6"
+}

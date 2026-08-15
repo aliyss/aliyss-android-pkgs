@@ -1,0 +1,18 @@
+{
+  "apkName": "net.vonforst.evmap_276.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0FKrWjO8e+76iTPeXw7IPz5S0v3pGzaLkeadsruPV2Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0FKrWjO8e+76iTPeXw7IPz5S0v3pGzaLkeadsruPV2Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0FKrWjO8e+76iTPeXw7IPz5S0v3pGzaLkeadsruPV2Q="
+    }
+  },
+  "version": "2.1.3"
+}

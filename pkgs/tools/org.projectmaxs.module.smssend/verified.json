@@ -1,0 +1,8 @@
+{
+  "package": "org.projectmaxs.module.smssend",
+  "signerFingerprints": [
+    "A2:9D:27:E9:28:54:DC:61:A3:C1:65:E0:61:EF:92:2E:74:C3:60:CF:04:EC:D5:7E:9E:B5:75:94:37:AE:00:B6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

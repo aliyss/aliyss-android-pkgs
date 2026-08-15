@@ -1,0 +1,8 @@
+{
+  "package": "org.kde.bettercounter",
+  "signerFingerprints": [
+    "AE:2F:69:6C:56:61:89:58:8A:43:4A:B2:E1:4F:24:31:64:2C:C3:A4:3B:EE:53:9D:19:1C:E1:CB:3B:A8:19:CB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

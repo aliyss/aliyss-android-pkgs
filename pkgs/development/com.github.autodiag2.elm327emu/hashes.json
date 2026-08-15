@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.autodiag2.elm327emu_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-igyLnB1U6Fsu77Hmk1LbNu+HEET3YiOmga+XXV0Np2M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-igyLnB1U6Fsu77Hmk1LbNu+HEET3YiOmga+XXV0Np2M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-igyLnB1U6Fsu77Hmk1LbNu+HEET3YiOmga+XXV0Np2M="
+    }
+  },
+  "version": "29"
+}

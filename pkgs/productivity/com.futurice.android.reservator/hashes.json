@@ -1,0 +1,18 @@
+{
+  "apkName": "com.futurice.android.reservator_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TKdaq2/jA9dfD+gahIMtOziKB5cpNFczVU6hNUDNVKg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TKdaq2/jA9dfD+gahIMtOziKB5cpNFczVU6hNUDNVKg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TKdaq2/jA9dfD+gahIMtOziKB5cpNFczVU6hNUDNVKg="
+    }
+  },
+  "version": "5.1.2-RELEASE"
+}

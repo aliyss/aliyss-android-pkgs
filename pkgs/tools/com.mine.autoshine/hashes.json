@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mine.autoshine_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tXh6XAe5S3yH4aP599Zd33KtJY/9Ns+jNx4fc/GaMGI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tXh6XAe5S3yH4aP599Zd33KtJY/9Ns+jNx4fc/GaMGI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tXh6XAe5S3yH4aP599Zd33KtJY/9Ns+jNx4fc/GaMGI="
+    }
+  },
+  "version": "1.4"
+}

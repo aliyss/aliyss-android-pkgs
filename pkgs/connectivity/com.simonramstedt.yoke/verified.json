@@ -1,0 +1,8 @@
+{
+  "package": "com.simonramstedt.yoke",
+  "signerFingerprints": [
+    "A5:C1:96:91:3A:24:DE:64:26:A0:01:97:51:AB:C3:3F:D6:F2:CA:57:20:6A:91:84:A7:7B:D0:D4:D4:D8:26:E7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

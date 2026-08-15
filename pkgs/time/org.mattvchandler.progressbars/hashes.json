@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mattvchandler.progressbars_190020102.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NiQV3sN55kuvpp/k3U32LXMiJpk+pillxUllBBNUzks="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NiQV3sN55kuvpp/k3U32LXMiJpk+pillxUllBBNUzks="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NiQV3sN55kuvpp/k3U32LXMiJpk+pillxUllBBNUzks="
+    }
+  },
+  "version": "2.1.2"
+}

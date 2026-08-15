@@ -1,0 +1,8 @@
+{
+  "package": "com.aaronjwood.portauthority.free",
+  "signerFingerprints": [
+    "C1:6B:5F:10:B1:2B:16:AE:C3:4B:A0:C1:BA:99:B1:2F:E5:49:E0:A6:11:ED:10:DB:75:75:D1:B7:3C:4B:C2:B4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

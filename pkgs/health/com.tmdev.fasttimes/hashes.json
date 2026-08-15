@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tmdev.fasttimes_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xn3Fs3joGkcbQQeFSIbTOHr5ie93C/V9dVHN2Wtm55g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xn3Fs3joGkcbQQeFSIbTOHr5ie93C/V9dVHN2Wtm55g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xn3Fs3joGkcbQQeFSIbTOHr5ie93C/V9dVHN2Wtm55g="
+    }
+  },
+  "version": "1.0.4"
+}

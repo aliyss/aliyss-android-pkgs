@@ -1,0 +1,18 @@
+{
+  "apkName": "com.agateau.tinywheels.android_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YaUJNucoUYzpDnGR+EVKmP8kqAuGb6WCkqC0dNLavNE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YaUJNucoUYzpDnGR+EVKmP8kqAuGb6WCkqC0dNLavNE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YaUJNucoUYzpDnGR+EVKmP8kqAuGb6WCkqC0dNLavNE="
+    }
+  },
+  "version": "1.0.1"
+}

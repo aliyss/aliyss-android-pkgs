@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.appstract.iconpack_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-39rgEegFfzRzgYvrHXnwAXZsoQG3qqtUgIPx+ICEBUE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-39rgEegFfzRzgYvrHXnwAXZsoQG3qqtUgIPx+ICEBUE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-39rgEegFfzRzgYvrHXnwAXZsoQG3qqtUgIPx+ICEBUE="
+    }
+  },
+  "version": "5.0.6"
+}

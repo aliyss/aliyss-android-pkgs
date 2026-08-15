@@ -1,0 +1,18 @@
+{
+  "apkName": "hans.b.skewy1_0_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uuiuV2k5YhbQWp1JnegLtSdgxpeUcZvXDZ/EjYJkYyw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uuiuV2k5YhbQWp1JnegLtSdgxpeUcZvXDZ/EjYJkYyw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uuiuV2k5YhbQWp1JnegLtSdgxpeUcZvXDZ/EjYJkYyw="
+    }
+  },
+  "version": "1.0"
+}

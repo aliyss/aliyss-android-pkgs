@@ -1,0 +1,8 @@
+{
+  "package": "com.polar.mirror",
+  "signerFingerprints": [
+    "7F:B3:CF:ED:96:4A:4E:F5:57:52:25:D5:58:68:70:86:A7:F8:8E:8C:8E:B2:7C:FE:0B:57:A8:C9:18:D9:FA:03"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

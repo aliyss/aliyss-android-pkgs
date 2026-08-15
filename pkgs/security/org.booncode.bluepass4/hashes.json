@@ -1,0 +1,18 @@
+{
+  "apkName": "org.booncode.bluepass4_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7Y5Q/khz8b7RzLW9c2i02q3E9FX24uYcPpYtbDs3Y54="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7Y5Q/khz8b7RzLW9c2i02q3E9FX24uYcPpYtbDs3Y54="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7Y5Q/khz8b7RzLW9c2i02q3E9FX24uYcPpYtbDs3Y54="
+    }
+  },
+  "version": "0.3.0"
+}

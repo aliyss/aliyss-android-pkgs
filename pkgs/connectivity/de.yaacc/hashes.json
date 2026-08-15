@@ -1,0 +1,18 @@
+{
+  "apkName": "de.yaacc_50200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hJ0tqc5LlB5s5LG476j7T4jJKZQSwFRqQIPAY2sLrM8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hJ0tqc5LlB5s5LG476j7T4jJKZQSwFRqQIPAY2sLrM8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hJ0tqc5LlB5s5LG476j7T4jJKZQSwFRqQIPAY2sLrM8="
+    }
+  },
+  "version": "5.2.0"
+}

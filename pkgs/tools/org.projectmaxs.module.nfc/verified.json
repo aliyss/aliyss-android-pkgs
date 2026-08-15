@@ -1,0 +1,8 @@
+{
+  "package": "org.projectmaxs.module.nfc",
+  "signerFingerprints": [
+    "3A:F3:CF:C4:9B:53:AB:8C:00:E9:57:EB:29:50:DC:5B:91:63:99:91:3E:62:AA:64:4A:E0:F5:5E:64:21:63:32"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlybattleship",
+  "signerFingerprints": [
+    "46:6D:66:DC:05:8F:73:04:3E:5E:9B:DD:56:06:FD:AE:C1:9D:8F:80:C4:7F:44:C1:80:7D:65:77:5D:73:5C:3F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

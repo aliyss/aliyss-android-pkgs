@@ -1,0 +1,8 @@
+{
+  "package": "de.nulide.findmydevice.edge",
+  "signerFingerprints": [
+    "4E:E6:5F:83:8F:4D:B4:15:3A:4C:E9:34:47:02:22:03:5F:05:C5:B9:7A:30:13:3A:B5:C0:A9:99:E2:74:7D:A4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

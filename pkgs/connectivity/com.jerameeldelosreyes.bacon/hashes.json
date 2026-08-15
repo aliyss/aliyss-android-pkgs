@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jerameeldelosreyes.bacon_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NZD4sq5KqdDyJTh+8iNHFcCtUYxZI+0DIeIYaJKS4bo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NZD4sq5KqdDyJTh+8iNHFcCtUYxZI+0DIeIYaJKS4bo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NZD4sq5KqdDyJTh+8iNHFcCtUYxZI+0DIeIYaJKS4bo="
+    }
+  },
+  "version": "1.6.1"
+}

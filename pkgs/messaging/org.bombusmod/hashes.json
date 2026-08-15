@@ -1,0 +1,18 @@
+{
+  "apkName": "org.bombusmod_1430.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l+lM09qGvakY8YO1wGnHFf99wVSwg+uWRPhTcS/TfyQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l+lM09qGvakY8YO1wGnHFf99wVSwg+uWRPhTcS/TfyQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l+lM09qGvakY8YO1wGnHFf99wVSwg+uWRPhTcS/TfyQ="
+    }
+  },
+  "version": "0.9.1430"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "app.sudroid.raagadb",
+  "signerFingerprints": [
+    "4A:B6:98:56:14:74:89:D8:4D:47:08:3E:9F:39:3A:FF:B7:A9:D5:E2:62:6D:AD:57:3E:1C:E2:8C:05:71:F0:99"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

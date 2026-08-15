@@ -1,0 +1,18 @@
+{
+  "apkName": "com.odnovolov.forgetmenot_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-t1nyS1UFQBVYJU4P5oyJTBS83iyYm/5iC4g9nXY7J2I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t1nyS1UFQBVYJU4P5oyJTBS83iyYm/5iC4g9nXY7J2I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t1nyS1UFQBVYJU4P5oyJTBS83iyYm/5iC4g9nXY7J2I="
+    }
+  },
+  "version": "1.9.0"
+}

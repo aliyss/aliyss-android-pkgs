@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mcsnowflake.worktimer_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6i2gjtSRPBkj0Jw6wFFZokqjuDw3NavJNfkE1ImXhc8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6i2gjtSRPBkj0Jw6wFFZokqjuDw3NavJNfkE1ImXhc8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6i2gjtSRPBkj0Jw6wFFZokqjuDw3NavJNfkE1ImXhc8="
+    }
+  },
+  "version": "1.5"
+}

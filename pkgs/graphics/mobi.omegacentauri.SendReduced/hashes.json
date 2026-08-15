@@ -1,0 +1,18 @@
+{
+  "apkName": "mobi.omegacentauri.SendReduced_2800.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xGVJTocLHXcj3U0bjZewld8ZKiN6FFM8g2N1fsQT0Ts="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xGVJTocLHXcj3U0bjZewld8ZKiN6FFM8g2N1fsQT0Ts="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xGVJTocLHXcj3U0bjZewld8ZKiN6FFM8g2N1fsQT0Ts="
+    }
+  },
+  "version": "0.28"
+}

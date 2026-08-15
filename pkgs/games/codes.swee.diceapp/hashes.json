@@ -1,0 +1,18 @@
+{
+  "apkName": "codes.swee.diceapp_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OI4Y1cQqneU69LWmO6LyZA6BJcsebdZOGNkZ7WH4Z8Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OI4Y1cQqneU69LWmO6LyZA6BJcsebdZOGNkZ7WH4Z8Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OI4Y1cQqneU69LWmO6LyZA6BJcsebdZOGNkZ7WH4Z8Q="
+    }
+  },
+  "version": "1.3.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.devbaltasarq.nadamillas_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BqkgxC82LXVw6BnM4pOO4UkQqfZ24o5VWiQaTPFRAng="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BqkgxC82LXVw6BnM4pOO4UkQqfZ24o5VWiQaTPFRAng="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BqkgxC82LXVw6BnM4pOO4UkQqfZ24o5VWiQaTPFRAng="
+    }
+  },
+  "version": "1.4.1.20260711"
+}

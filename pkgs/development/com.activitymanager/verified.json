@@ -1,0 +1,8 @@
+{
+  "package": "com.activitymanager",
+  "signerFingerprints": [
+    "2C:A6:2F:D3:5E:B4:7E:4A:59:C6:2C:5F:7D:70:5F:96:70:57:D5:51:90:08:8A:A5:1D:46:B5:98:3D:F8:20:0E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

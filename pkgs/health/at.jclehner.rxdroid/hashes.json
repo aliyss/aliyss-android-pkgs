@@ -1,0 +1,18 @@
+{
+  "apkName": "at.jclehner.rxdroid_9380.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6LMvCxmYESDK2/FxosKtOk0QhTJwaeq7lJhBMga3P+I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6LMvCxmYESDK2/FxosKtOk0QhTJwaeq7lJhBMga3P+I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6LMvCxmYESDK2/FxosKtOk0QhTJwaeq7lJhBMga3P+I="
+    }
+  },
+  "version": "0.9.38"
+}

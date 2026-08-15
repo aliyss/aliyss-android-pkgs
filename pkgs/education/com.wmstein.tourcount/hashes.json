@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wmstein.tourcount_383.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1T+r8Riktvtr19SuUOQIoeWLw2PFTsRb5M9xOttMIfM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1T+r8Riktvtr19SuUOQIoeWLw2PFTsRb5M9xOttMIfM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1T+r8Riktvtr19SuUOQIoeWLw2PFTsRb5M9xOttMIfM="
+    }
+  },
+  "version": "3.8.3"
+}

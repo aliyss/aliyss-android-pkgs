@@ -1,0 +1,18 @@
+{
+  "apkName": "org.bienvenidoainternet.app_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WfhorLEgRyLouLHTcSGySeZyrjKJM8F9/UnrIb7rOEk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WfhorLEgRyLouLHTcSGySeZyrjKJM8F9/UnrIb7rOEk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WfhorLEgRyLouLHTcSGySeZyrjKJM8F9/UnrIb7rOEk="
+    }
+  },
+  "version": "1.9.1"
+}

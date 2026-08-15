@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.xgouchet.packageexplorer_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OXWY92tgknHXONwSVZ5CcA0q1RvrofMYgeRnB7ZB7mo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OXWY92tgknHXONwSVZ5CcA0q1RvrofMYgeRnB7ZB7mo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OXWY92tgknHXONwSVZ5CcA0q1RvrofMYgeRnB7ZB7mo="
+    }
+  },
+  "version": "2.7"
+}

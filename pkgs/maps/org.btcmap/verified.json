@@ -1,0 +1,8 @@
+{
+  "package": "org.btcmap",
+  "signerFingerprints": [
+    "B0:EE:D8:21:79:EF:F1:79:8D:CE:73:5E:C4:39:47:DC:88:D0:AD:FA:58:22:ED:E3:D2:25:31:DD:0A:68:6B:5C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

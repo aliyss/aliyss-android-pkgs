@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.dlbeswick.kreuungching_11900.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+SWFBEZVaC+y1BOrhvj0nVded5fH4IZwQhKRNcgBdZQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+SWFBEZVaC+y1BOrhvj0nVded5fH4IZwQhKRNcgBdZQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+SWFBEZVaC+y1BOrhvj0nVded5fH4IZwQhKRNcgBdZQ="
+    }
+  },
+  "version": "1.19"
+}

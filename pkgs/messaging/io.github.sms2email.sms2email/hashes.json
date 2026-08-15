@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.sms2email.sms2email_45.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6/XC3am3OZC0pWO8Bq6AwYVZPm+uXmQHqazxYXkDGzg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6/XC3am3OZC0pWO8Bq6AwYVZPm+uXmQHqazxYXkDGzg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6/XC3am3OZC0pWO8Bq6AwYVZPm+uXmQHqazxYXkDGzg="
+    }
+  },
+  "version": "1.1.32"
+}

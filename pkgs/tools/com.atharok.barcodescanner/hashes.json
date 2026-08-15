@@ -1,0 +1,18 @@
+{
+  "apkName": "com.atharok.barcodescanner_52.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-92wDPEe/LXmqG0CqiGni1lm4LUzkEEjgprHHDEgwnLY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-92wDPEe/LXmqG0CqiGni1lm4LUzkEEjgprHHDEgwnLY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-92wDPEe/LXmqG0CqiGni1lm4LUzkEEjgprHHDEgwnLY="
+    }
+  },
+  "version": "1.26.3"
+}

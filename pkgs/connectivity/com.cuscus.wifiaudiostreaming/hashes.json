@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cuscus.wifiaudiostreaming_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OqgIHW7Vimo9MjiTKyovY+T5RBNBokZnCHKyDUwLmGY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OqgIHW7Vimo9MjiTKyovY+T5RBNBokZnCHKyDUwLmGY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OqgIHW7Vimo9MjiTKyovY+T5RBNBokZnCHKyDUwLmGY="
+    }
+  },
+  "version": "1.1.0"
+}

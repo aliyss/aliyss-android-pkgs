@@ -1,0 +1,8 @@
+{
+  "package": "se.leap.bitmaskclient",
+  "signerFingerprints": [
+    "16:42:69:D3:EE:C9:69:47:C9:2C:F9:79:7B:76:5F:73:FA:F2:D1:82:2E:6D:B4:1F:1B:3D:AB:29:14:DC:8B:C0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

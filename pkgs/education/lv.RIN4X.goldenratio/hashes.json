@@ -1,0 +1,18 @@
+{
+  "apkName": "lv.RIN4X.goldenratio_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UOTEOcF/m22+KBN2dqonDsr3R5tTPiNrSBb/wZsglW4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UOTEOcF/m22+KBN2dqonDsr3R5tTPiNrSBb/wZsglW4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UOTEOcF/m22+KBN2dqonDsr3R5tTPiNrSBb/wZsglW4="
+    }
+  },
+  "version": "1.2.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.mcdz.seeip",
+  "signerFingerprints": [
+    "E8:C0:BF:4B:77:14:AB:93:4A:82:6E:31:EF:3C:0F:49:37:9B:1B:79:D4:7C:A5:16:63:D8:9B:09:6C:71:18:D4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

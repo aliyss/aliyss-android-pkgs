@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.wohlsoft.adlmidiplayer_1060100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O+5LZ96j6T/TN+/ZVuGfWYwYh0pndNUxARbx2d0BT5k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O+5LZ96j6T/TN+/ZVuGfWYwYh0pndNUxARbx2d0BT5k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O+5LZ96j6T/TN+/ZVuGfWYwYh0pndNUxARbx2d0BT5k="
+    }
+  },
+  "version": "1.6.1"
+}

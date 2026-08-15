@@ -1,0 +1,18 @@
+{
+  "apkName": "org.vinaygopinath.launchchat_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xf4YSYN11oqi8u7x18sv9WXCNdAxIw/Y6ucwoN95XyY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xf4YSYN11oqi8u7x18sv9WXCNdAxIw/Y6ucwoN95XyY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xf4YSYN11oqi8u7x18sv9WXCNdAxIw/Y6ucwoN95XyY="
+    }
+  },
+  "version": "1.6.0"
+}

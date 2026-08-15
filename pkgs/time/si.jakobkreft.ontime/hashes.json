@@ -1,0 +1,18 @@
+{
+  "apkName": "si.jakobkreft.ontime_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-btQYs9SRx7/tt4JmMIDPprJR1Djuskb4D/j8x03LEok="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-btQYs9SRx7/tt4JmMIDPprJR1Djuskb4D/j8x03LEok="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-btQYs9SRx7/tt4JmMIDPprJR1Djuskb4D/j8x03LEok="
+    }
+  },
+  "version": "2.6"
+}

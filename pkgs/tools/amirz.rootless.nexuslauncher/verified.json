@@ -1,0 +1,8 @@
+{
+  "package": "amirz.rootless.nexuslauncher",
+  "signerFingerprints": [
+    "DC:6D:52:35:D3:6F:29:D7:9E:6A:59:65:11:63:23:D2:7C:26:FA:D3:8B:97:F9:88:E9:36:50:66:A1:30:9A:44"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

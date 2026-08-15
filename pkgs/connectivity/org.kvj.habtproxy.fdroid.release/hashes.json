@@ -1,0 +1,18 @@
+{
+  "apkName": "org.kvj.habtproxy.fdroid.release_1001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gn2nEMYHa+RdB3KNlWxhTiJcHsXpWCTjc3+tsOT0mIA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gn2nEMYHa+RdB3KNlWxhTiJcHsXpWCTjc3+tsOT0mIA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gn2nEMYHa+RdB3KNlWxhTiJcHsXpWCTjc3+tsOT0mIA="
+    }
+  },
+  "version": "0.1.1"
+}

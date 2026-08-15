@@ -1,0 +1,8 @@
+{
+  "package": "org.disroot.disrootapp",
+  "signerFingerprints": [
+    "25:AD:0D:7C:16:B4:22:31:15:8D:2E:36:E8:C1:80:88:52:5B:CC:4F:95:0F:2C:C7:B5:E3:B2:F6:7F:E7:E7:3F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

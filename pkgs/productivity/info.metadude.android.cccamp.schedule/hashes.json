@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.cccamp.schedule_96.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xXQ2OQ6N/hUyQBmCUnbr11T0ZhO86EozaGMYD4MYCOU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xXQ2OQ6N/hUyQBmCUnbr11T0ZhO86EozaGMYD4MYCOU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xXQ2OQ6N/hUyQBmCUnbr11T0ZhO86EozaGMYD4MYCOU="
+    }
+  },
+  "version": "1.61.0-CCCamp-Edition"
+}

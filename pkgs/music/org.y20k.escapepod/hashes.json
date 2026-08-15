@@ -1,0 +1,18 @@
+{
+  "apkName": "org.y20k.escapepod_52.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2ym95AHKLzU5VzlEE12ndyTaxDWl9tCuTU0yNwY5gTI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2ym95AHKLzU5VzlEE12ndyTaxDWl9tCuTU0yNwY5gTI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2ym95AHKLzU5VzlEE12ndyTaxDWl9tCuTU0yNwY5gTI="
+    }
+  },
+  "version": "1.6.6"
+}

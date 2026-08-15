@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zoffcc.applications.toloshare_10028.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Gjj+WdjZuc9BypMRlHF5W3Ss/etJR54+6uVn0e5slJQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gjj+WdjZuc9BypMRlHF5W3Ss/etJR54+6uVn0e5slJQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gjj+WdjZuc9BypMRlHF5W3Ss/etJR54+6uVn0e5slJQ="
+    }
+  },
+  "version": "1.0.28"
+}

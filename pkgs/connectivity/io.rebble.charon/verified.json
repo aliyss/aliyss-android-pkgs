@@ -1,0 +1,8 @@
+{
+  "package": "io.rebble.charon",
+  "signerFingerprints": [
+    "DA:5C:0B:49:7B:42:D1:C2:C7:BA:5F:4F:15:88:D8:38:63:70:BD:00:06:EE:4D:03:5C:DE:76:47:26:1D:D5:72"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

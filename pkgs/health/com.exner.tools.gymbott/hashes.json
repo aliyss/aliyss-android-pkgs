@@ -1,0 +1,18 @@
+{
+  "apkName": "com.exner.tools.gymbott_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DmwLWpLE8u6A6BPlBSYeGLVI2u0CBRtgvwicR3NEIn0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DmwLWpLE8u6A6BPlBSYeGLVI2u0CBRtgvwicR3NEIn0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DmwLWpLE8u6A6BPlBSYeGLVI2u0CBRtgvwicR3NEIn0="
+    }
+  },
+  "version": "1.1.4"
+}

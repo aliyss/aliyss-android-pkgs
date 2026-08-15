@@ -1,0 +1,18 @@
+{
+  "apkName": "page.ooooo.geoshare_45.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fzANtx02iKuUVmhw7h86r2pRQq6rBd2KdmLA00ID0Ac="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fzANtx02iKuUVmhw7h86r2pRQq6rBd2KdmLA00ID0Ac="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fzANtx02iKuUVmhw7h86r2pRQq6rBd2KdmLA00ID0Ac="
+    }
+  },
+  "version": "6.5.0"
+}

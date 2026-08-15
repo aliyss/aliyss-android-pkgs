@@ -1,0 +1,18 @@
+{
+  "apkName": "moe.reimu.catshare_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CrJUCogmSEui+owYj/ohdxxD+yH7IPjfa/jpfkd6Vvs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CrJUCogmSEui+owYj/ohdxxD+yH7IPjfa/jpfkd6Vvs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CrJUCogmSEui+owYj/ohdxxD+yH7IPjfa/jpfkd6Vvs="
+    }
+  },
+  "version": "1.6"
+}

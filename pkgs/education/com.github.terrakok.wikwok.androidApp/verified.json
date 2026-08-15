@@ -1,0 +1,8 @@
+{
+  "package": "com.github.terrakok.wikwok.androidApp",
+  "signerFingerprints": [
+    "B0:5B:AE:32:AE:1D:09:A0:2F:B9:7B:41:BD:D1:65:4C:A5:E3:3E:DC:39:62:0D:8F:4D:A2:F0:5C:10:12:1D:91"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

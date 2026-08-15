@@ -1,0 +1,18 @@
+{
+  "apkName": "com.strawing.fuckdevicepolicy_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-w5mrbSQ+5h11m8hmGDGIukniLYsIU8gEW3DNsIpqMBw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w5mrbSQ+5h11m8hmGDGIukniLYsIU8gEW3DNsIpqMBw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w5mrbSQ+5h11m8hmGDGIukniLYsIU8gEW3DNsIpqMBw="
+    }
+  },
+  "version": "1.0"
+}

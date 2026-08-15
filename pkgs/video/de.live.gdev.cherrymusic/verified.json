@@ -1,0 +1,8 @@
+{
+  "package": "de.live.gdev.cherrymusic",
+  "signerFingerprints": [
+    "78:12:98:CF:D5:56:13:94:B8:7D:D2:41:7D:62:B8:76:B1:36:1F:14:50:46:1D:6C:B3:93:F3:88:23:19:D2:73"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

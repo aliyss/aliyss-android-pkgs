@@ -1,0 +1,8 @@
+{
+  "package": "io.github.yoshi1123.adbio",
+  "signerFingerprints": [
+    "3C:87:1F:AC:4F:D0:8C:E3:79:39:F0:AC:9E:DD:50:20:60:46:1F:46:1C:F3:EF:90:FE:9E:D0:40:49:1B:1F:7E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.co.alt236.floatinginfo_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-c1DIdtI8gu7h1jS5Gy88FZ2gZOpPjCMRm2gofPLLx1A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c1DIdtI8gu7h1jS5Gy88FZ2gZOpPjCMRm2gofPLLx1A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c1DIdtI8gu7h1jS5Gy88FZ2gZOpPjCMRm2gofPLLx1A="
+    }
+  },
+  "version": "2.1"
+}

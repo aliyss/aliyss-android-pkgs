@@ -1,0 +1,8 @@
+{
+  "package": "com.my.kizzy",
+  "signerFingerprints": [
+    "00:6C:F5:70:63:D2:FC:28:A0:F3:51:E0:EE:31:31:42:DF:C9:65:04:14:70:F6:65:E2:A2:04:79:24:26:E6:6D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.documentsui.shortcut_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WF5afoDsJi1CsoNqLXix44SFIbdGIqLvIQNR50EFvHk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WF5afoDsJi1CsoNqLXix44SFIbdGIqLvIQNR50EFvHk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WF5afoDsJi1CsoNqLXix44SFIbdGIqLvIQNR50EFvHk="
+    }
+  },
+  "version": "1.0.8"
+}

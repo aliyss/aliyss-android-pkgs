@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.ioanm.fissh_71.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mtkY14DjuV4EPgZNTrngFc7qKchGMlUNSsx969lZjls="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mtkY14DjuV4EPgZNTrngFc7qKchGMlUNSsx969lZjls="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mtkY14DjuV4EPgZNTrngFc7qKchGMlUNSsx969lZjls="
+    }
+  },
+  "version": "7.1"
+}

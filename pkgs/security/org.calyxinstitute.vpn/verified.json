@@ -1,0 +1,8 @@
+{
+  "package": "org.calyxinstitute.vpn",
+  "signerFingerprints": [
+    "23:6F:68:27:A5:BE:E2:B1:B7:E5:21:5B:1C:77:22:E6:72:80:FF:A2:A8:87:22:B0:EE:64:61:4D:38:73:72:76"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

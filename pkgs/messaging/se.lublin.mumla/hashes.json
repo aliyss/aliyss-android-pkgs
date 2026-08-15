@@ -1,0 +1,18 @@
+{
+  "apkName": "se.lublin.mumla_3070300.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1sZQqWiXcJzazCxx28+B1X2NStoXmUZmBv2nLNollfA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1sZQqWiXcJzazCxx28+B1X2NStoXmUZmBv2nLNollfA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1sZQqWiXcJzazCxx28+B1X2NStoXmUZmBv2nLNollfA="
+    }
+  },
+  "version": "3.7.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bl4ckswordsman.cerberustiles_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-W694vzqI13e69V2ozS9q1HWuoY1Cl2lV5m5YWMyFa48="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W694vzqI13e69V2ozS9q1HWuoY1Cl2lV5m5YWMyFa48="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W694vzqI13e69V2ozS9q1HWuoY1Cl2lV5m5YWMyFa48="
+    }
+  },
+  "version": "0.5.0"
+}

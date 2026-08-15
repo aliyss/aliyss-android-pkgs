@@ -1,0 +1,8 @@
+{
+  "package": "com.bmco.cratesiounofficial",
+  "signerFingerprints": [
+    "50:AD:F8:CE:36:C8:3A:E8:26:72:31:83:ED:9B:0C:B2:64:51:AF:DC:26:9A:AA:B8:F9:3C:07:73:C5:D5:43:0E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

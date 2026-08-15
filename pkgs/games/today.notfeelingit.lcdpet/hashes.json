@@ -1,0 +1,18 @@
+{
+  "apkName": "today.notfeelingit.lcdpet_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B886qY6crbfj4OGpI0MstfbQCsWwLoqd5SnP6+6uYRA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B886qY6crbfj4OGpI0MstfbQCsWwLoqd5SnP6+6uYRA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B886qY6crbfj4OGpI0MstfbQCsWwLoqd5SnP6+6uYRA="
+    }
+  },
+  "version": "1.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "eu.fulldisclosure.android.luks",
+  "signerFingerprints": [
+    "CA:A3:C5:3F:C6:3E:9B:D7:B4:11:78:BC:55:68:17:A0:82:99:F7:D1:4B:D9:94:BE:35:06:D0:63:01:C8:93:D2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

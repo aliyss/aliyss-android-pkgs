@@ -1,0 +1,18 @@
+{
+  "apkName": "com.thinkdifferent.anywebview_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AAhpIdklUyloqVdvOSf6JcHRqX7MN3IJhg0UC5Da/lI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AAhpIdklUyloqVdvOSf6JcHRqX7MN3IJhg0UC5Da/lI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AAhpIdklUyloqVdvOSf6JcHRqX7MN3IJhg0UC5Da/lI="
+    }
+  },
+  "version": "1.4.1"
+}

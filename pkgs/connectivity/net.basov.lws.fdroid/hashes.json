@@ -1,0 +1,18 @@
+{
+  "apkName": "net.basov.lws.fdroid_70000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0reGgG87KUzt//SD1iXuFj4+3uBH/EVJI2hamTbsK1A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0reGgG87KUzt//SD1iXuFj4+3uBH/EVJI2hamTbsK1A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0reGgG87KUzt//SD1iXuFj4+3uBH/EVJI2hamTbsK1A="
+    }
+  },
+  "version": "07.00.00"
+}

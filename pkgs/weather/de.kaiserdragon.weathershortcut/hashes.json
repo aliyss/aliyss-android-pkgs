@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kaiserdragon.weathershortcut_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EJ4qQ0z4qf1+TjGRPjGEcS8hy0B6Jm/IjLROivLgPrE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EJ4qQ0z4qf1+TjGRPjGEcS8hy0B6Jm/IjLROivLgPrE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EJ4qQ0z4qf1+TjGRPjGEcS8hy0B6Jm/IjLROivLgPrE="
+    }
+  },
+  "version": "1.5"
+}

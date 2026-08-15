@@ -1,0 +1,8 @@
+{
+  "package": "com.geovnn.vapetools",
+  "signerFingerprints": [
+    "1E:A7:8B:8F:B0:93:6A:02:CF:1F:2E:01:16:F6:A9:B6:7C:46:16:35:F8:24:FE:F2:44:4C:DD:C4:3D:7C:41:37"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

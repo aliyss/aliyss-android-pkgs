@@ -1,0 +1,18 @@
+{
+  "apkName": "com.google.android.stardroid_1704.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ncY6hRA/L4vg1Rswf0d/UNPA2A4XgrnsiQv1WtOb0nM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ncY6hRA/L4vg1Rswf0d/UNPA2A4XgrnsiQv1WtOb0nM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ncY6hRA/L4vg1Rswf0d/UNPA2A4XgrnsiQv1WtOb0nM="
+    }
+  },
+  "version": "1.18.0:Eclipse"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.samolego.canta_225.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WmRtNmkFwL4gM6onCwCLPvef2pn7yVmIRFsPQwKDoe0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WmRtNmkFwL4gM6onCwCLPvef2pn7yVmIRFsPQwKDoe0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WmRtNmkFwL4gM6onCwCLPvef2pn7yVmIRFsPQwKDoe0="
+    }
+  },
+  "version": "3.2.2"
+}

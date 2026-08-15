@@ -1,0 +1,8 @@
+{
+  "package": "com.npes87184.s2tdroid.donate",
+  "signerFingerprints": [
+    "C8:56:0F:12:BB:61:C6:BB:A6:CB:AB:01:D7:CE:C7:C6:EA:49:F5:F8:EF:22:77:87:77:CF:40:EA:81:61:35:C4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

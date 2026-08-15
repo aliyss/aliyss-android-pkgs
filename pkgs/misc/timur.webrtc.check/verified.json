@@ -1,0 +1,8 @@
+{
+  "package": "timur.webrtc.check",
+  "signerFingerprints": [
+    "60:79:79:0C:DE:6A:83:39:58:36:DD:5B:6B:15:5C:29:B2:AB:19:EA:AC:40:3E:10:CB:E0:78:B9:F4:86:6B:BC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

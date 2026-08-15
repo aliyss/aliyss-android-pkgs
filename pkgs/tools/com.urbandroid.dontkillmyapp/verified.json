@@ -1,0 +1,8 @@
+{
+  "package": "com.urbandroid.dontkillmyapp",
+  "signerFingerprints": [
+    "C8:CA:FB:E2:E0:8B:AB:00:F9:BF:A7:FF:5F:59:82:86:4B:70:6A:7E:AF:26:C5:E5:7C:26:60:59:06:E7:EE:E9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.haykh.zham",
+  "signerFingerprints": [
+    "9D:B8:3C:91:E8:23:94:77:2E:F3:D7:76:BB:30:3B:26:AF:12:D9:8D:6A:48:87:6B:AB:DB:02:50:86:86:7B:30"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

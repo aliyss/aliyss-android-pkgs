@@ -1,0 +1,18 @@
+{
+  "apkName": "com.physphil.android.unitconverterultimate_50703.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JWmST8tx2WaZ9Iy8BmILtXCLiLNmJN9yxLrbeixuu8s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JWmST8tx2WaZ9Iy8BmILtXCLiLNmJN9yxLrbeixuu8s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JWmST8tx2WaZ9Iy8BmILtXCLiLNmJN9yxLrbeixuu8s="
+    }
+  },
+  "version": "5.7.3"
+}

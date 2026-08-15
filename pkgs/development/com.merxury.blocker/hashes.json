@@ -1,0 +1,18 @@
+{
+  "apkName": "com.merxury.blocker_6339.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WZ1soPyskmconW6YxEK8X9kg75UDo9Oz2wv95DlLKvU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WZ1soPyskmconW6YxEK8X9kg75UDo9Oz2wv95DlLKvU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WZ1soPyskmconW6YxEK8X9kg75UDo9Oz2wv95DlLKvU="
+    }
+  },
+  "version": "2.0.6339"
+}

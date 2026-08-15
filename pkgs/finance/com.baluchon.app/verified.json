@@ -1,0 +1,8 @@
+{
+  "package": "com.baluchon.app",
+  "signerFingerprints": [
+    "12:7F:80:7D:D5:3B:0B:44:26:34:60:D4:5B:B4:AB:F0:10:C9:9E:93:E8:FD:D4:03:9C:4A:41:5A:98:D5:70:E4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

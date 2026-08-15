@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.buses_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1p7anJ6UAcIrE4FxSNWzVuIWGLRfN5Nt6TfZLb5Uouo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1p7anJ6UAcIrE4FxSNWzVuIWGLRfN5Nt6TfZLb5Uouo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1p7anJ6UAcIrE4FxSNWzVuIWGLRfN5Nt6TfZLb5Uouo="
+    }
+  },
+  "version": "1.10"
+}

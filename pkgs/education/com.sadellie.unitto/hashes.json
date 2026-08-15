@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sadellie.unitto_76.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hIZ9mSFBcEdY3ST2qJ4blkKqRlXIKtpWE+1WJCb6k2w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hIZ9mSFBcEdY3ST2qJ4blkKqRlXIKtpWE+1WJCb6k2w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hIZ9mSFBcEdY3ST2qJ4blkKqRlXIKtpWE+1WJCb6k2w="
+    }
+  },
+  "version": "Titanium yellow"
+}

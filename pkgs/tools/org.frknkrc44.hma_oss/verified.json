@@ -1,0 +1,8 @@
+{
+  "package": "org.frknkrc44.hma_oss",
+  "signerFingerprints": [
+    "35:CA:F9:C5:E4:85:9A:36:A7:5A:06:45:B5:E8:FA:F1:6A:DB:DC:48:E2:8A:E3:93:67:1E:6B:85:9E:DF:3D:43"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

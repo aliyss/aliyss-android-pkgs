@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gaurav.avnc_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nwb78ocH9t/bjgLklUmnJ3IJMOjNg99U0LruL46JSXI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nwb78ocH9t/bjgLklUmnJ3IJMOjNg99U0LruL46JSXI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nwb78ocH9t/bjgLklUmnJ3IJMOjNg99U0LruL46JSXI="
+    }
+  },
+  "version": "3.3.1"
+}

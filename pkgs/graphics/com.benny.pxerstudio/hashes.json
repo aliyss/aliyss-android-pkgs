@@ -1,0 +1,18 @@
+{
+  "apkName": "com.benny.pxerstudio_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mQufr5ZsjWyS3t62U8DquvU6iHzjqzKGMml9lKGEtoI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mQufr5ZsjWyS3t62U8DquvU6iHzjqzKGMml9lKGEtoI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mQufr5ZsjWyS3t62U8DquvU6iHzjqzKGMml9lKGEtoI="
+    }
+  },
+  "version": "1.2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "au.com.wallaceit.reddinator_68.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-w3Ud5GehOOJ9bTTG8kkDOxpvnKMHsnFcFo6cFGyFEAM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w3Ud5GehOOJ9bTTG8kkDOxpvnKMHsnFcFo6cFGyFEAM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w3Ud5GehOOJ9bTTG8kkDOxpvnKMHsnFcFo6cFGyFEAM="
+    }
+  },
+  "version": "3.22.4"
+}

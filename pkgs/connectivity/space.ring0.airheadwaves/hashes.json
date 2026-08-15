@@ -1,0 +1,18 @@
+{
+  "apkName": "space.ring0.airheadwaves_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0qXnteW8GHYhUGUhNFB5vAkmb78G7Og5yYFrYzyCNKo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0qXnteW8GHYhUGUhNFB5vAkmb78G7Og5yYFrYzyCNKo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0qXnteW8GHYhUGUhNFB5vAkmb78G7Og5yYFrYzyCNKo="
+    }
+  },
+  "version": "2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.dogeo.osmgo_1720187380.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B6NmnCNepD1MraEDt5ngcPDV1TDN4IU83aCKe5cfvL4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B6NmnCNepD1MraEDt5ngcPDV1TDN4IU83aCKe5cfvL4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B6NmnCNepD1MraEDt5ngcPDV1TDN4IU83aCKe5cfvL4="
+    }
+  },
+  "version": "1.7.0"
+}

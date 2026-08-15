@@ -1,0 +1,8 @@
+{
+  "package": "io.spaceapi.community.myhackerspace",
+  "signerFingerprints": [
+    "4F:16:23:D9:5C:A5:A1:5C:9D:24:73:8A:F6:E2:24:7A:B3:A5:AF:C7:1F:58:EC:0E:42:68:85:FD:F6:13:33:3C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

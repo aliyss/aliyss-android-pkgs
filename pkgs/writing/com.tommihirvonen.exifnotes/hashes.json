@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tommihirvonen.exifnotes_50.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OcxwIIWXJ7NlM84fjdRMdZvC8pWVh+96OFB9yCR0XVQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OcxwIIWXJ7NlM84fjdRMdZvC8pWVh+96OFB9yCR0XVQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OcxwIIWXJ7NlM84fjdRMdZvC8pWVh+96OFB9yCR0XVQ="
+    }
+  },
+  "version": "1.22.2"
+}

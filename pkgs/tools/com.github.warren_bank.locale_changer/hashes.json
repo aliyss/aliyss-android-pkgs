@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.locale_changer_1010003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7AgdHTeLLsx4oxDNK2K3YRiKg6k9DvqLZ7PvImmugc4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7AgdHTeLLsx4oxDNK2K3YRiKg6k9DvqLZ7PvImmugc4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7AgdHTeLLsx4oxDNK2K3YRiKg6k9DvqLZ7PvImmugc4="
+    }
+  },
+  "version": "001.01.00-03API"
+}

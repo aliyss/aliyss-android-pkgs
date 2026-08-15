@@ -1,0 +1,8 @@
+{
+  "package": "org.emunix.unipatcher",
+  "signerFingerprints": [
+    "FE:BC:BE:D6:9A:1F:01:7F:79:A1:7A:1C:1F:E3:0A:46:BA:4F:9F:9E:0A:91:D6:B5:BE:2E:2C:2C:D8:69:5B:F6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

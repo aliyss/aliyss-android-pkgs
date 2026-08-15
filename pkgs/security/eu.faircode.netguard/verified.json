@@ -1,0 +1,8 @@
+{
+  "package": "eu.faircode.netguard",
+  "signerFingerprints": [
+    "CD:77:5F:59:EE:5A:EB:BA:18:D9:F2:0A:A5:D6:9C:7B:69:52:95:82:24:B7:C9:3F:59:7E:17:4B:57:B4:DD:8F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

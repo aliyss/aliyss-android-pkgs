@@ -1,0 +1,18 @@
+{
+  "apkName": "com.yacgroup.yacguide_9005.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TRp+bHolURD2Q+iUlV6tP3/qTY+EnniJVEsY4gt2oXU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TRp+bHolURD2Q+iUlV6tP3/qTY+EnniJVEsY4gt2oXU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TRp+bHolURD2Q+iUlV6tP3/qTY+EnniJVEsY4gt2oXU="
+    }
+  },
+  "version": "0.9.5"
+}

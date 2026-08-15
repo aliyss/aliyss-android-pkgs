@@ -1,0 +1,18 @@
+{
+  "apkName": "net.slions.fulguris.full.fdroid_261.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zBUeRgjWj6MqugtbgMnImihgUNewcQoIHne8Hd28yLY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zBUeRgjWj6MqugtbgMnImihgUNewcQoIHne8Hd28yLY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zBUeRgjWj6MqugtbgMnImihgUNewcQoIHne8Hd28yLY="
+    }
+  },
+  "version": "2.0.10"
+}

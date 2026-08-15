@@ -1,0 +1,8 @@
+{
+  "package": "com.jecelyin.editor.v2",
+  "signerFingerprints": [
+    "47:2A:48:E8:E2:A4:A1:61:6D:0A:12:3F:88:AF:E8:29:99:3E:72:35:A3:66:DC:B4:28:FD:DD:D4:71:2E:40:C7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

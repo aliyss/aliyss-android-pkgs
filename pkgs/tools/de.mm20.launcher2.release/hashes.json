@@ -1,0 +1,18 @@
+{
+  "apkName": "de.mm20.launcher2.release_2026053100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UCHKFpOkbsDps+x5+QDwKuPOzV9Q8F68tSspqLgyl0I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UCHKFpOkbsDps+x5+QDwKuPOzV9Q8F68tSspqLgyl0I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UCHKFpOkbsDps+x5+QDwKuPOzV9Q8F68tSspqLgyl0I="
+    }
+  },
+  "version": "1.40.2-fdroid"
+}

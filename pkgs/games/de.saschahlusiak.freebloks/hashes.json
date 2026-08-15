@@ -1,0 +1,18 @@
+{
+  "apkName": "de.saschahlusiak.freebloks_183.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6Ao8SiIeT1PjtPu41Wo2S9MttUBMp8adSTZzx5ry1NE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6Ao8SiIeT1PjtPu41Wo2S9MttUBMp8adSTZzx5ry1NE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6Ao8SiIeT1PjtPu41Wo2S9MttUBMp8adSTZzx5ry1NE="
+    }
+  },
+  "version": "1.8.3"
+}

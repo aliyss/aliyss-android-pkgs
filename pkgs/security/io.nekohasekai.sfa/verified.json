@@ -1,0 +1,8 @@
+{
+  "package": "io.nekohasekai.sfa",
+  "signerFingerprints": [
+    "32:25:0A:4B:5F:3A:67:33:DF:57:A3:B9:EC:16:C3:8D:2C:7F:C5:F2:F6:93:A9:63:6F:8F:7B:3B:E3:54:96:41"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

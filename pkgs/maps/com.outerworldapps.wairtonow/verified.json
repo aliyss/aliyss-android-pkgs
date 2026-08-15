@@ -1,0 +1,8 @@
+{
+  "package": "com.outerworldapps.wairtonow",
+  "signerFingerprints": [
+    "CE:5C:9B:86:1E:6E:DC:C1:D8:42:90:97:7D:85:AA:0A:75:37:FC:5C:EB:21:89:D6:2E:7C:D4:3B:C0:15:58:E1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

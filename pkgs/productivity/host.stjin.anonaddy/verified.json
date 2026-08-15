@@ -1,0 +1,8 @@
+{
+  "package": "host.stjin.anonaddy",
+  "signerFingerprints": [
+    "16:6B:31:4E:E0:AD:E8:EB:D9:55:B0:9B:63:31:2C:1D:CA:A6:2C:C9:DA:32:B6:AA:34:1D:FD:20:26:FD:20:F7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

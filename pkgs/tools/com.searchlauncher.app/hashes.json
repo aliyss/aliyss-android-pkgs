@@ -1,0 +1,18 @@
+{
+  "apkName": "com.searchlauncher.app_252.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-M+bVU9OXvQQI7ou8XiPlgC8ax4SopCH6aeDh0C6JAd8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M+bVU9OXvQQI7ou8XiPlgC8ax4SopCH6aeDh0C6JAd8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M+bVU9OXvQQI7ou8XiPlgC8ax4SopCH6aeDh0C6JAd8="
+    }
+  },
+  "version": "0.0.14"
+}

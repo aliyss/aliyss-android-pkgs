@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quantum_prof.phantalandwaittimes_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HZjn/xGgmJBV9sf5GsajtbFXntMdgLSQWW+hzFchSDQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HZjn/xGgmJBV9sf5GsajtbFXntMdgLSQWW+hzFchSDQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HZjn/xGgmJBV9sf5GsajtbFXntMdgLSQWW+hzFchSDQ="
+    }
+  },
+  "version": "2.0.0"
+}

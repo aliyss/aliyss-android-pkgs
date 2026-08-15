@@ -1,0 +1,18 @@
+{
+  "apkName": "de.z11.roboyard_140.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZQof7ZyzOkKezc1P+hVr0HU4KjJcm94bYbT45VY0o10="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZQof7ZyzOkKezc1P+hVr0HU4KjJcm94bYbT45VY0o10="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZQof7ZyzOkKezc1P+hVr0HU4KjJcm94bYbT45VY0o10="
+    }
+  },
+  "version": "52"
+}

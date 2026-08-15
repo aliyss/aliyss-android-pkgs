@@ -1,0 +1,8 @@
+{
+  "package": "org.tengel.planisphere",
+  "signerFingerprints": [
+    "EB:D0:AF:08:18:D7:B2:6E:19:E7:40:3A:BB:7C:B7:E7:77:E4:33:CA:1E:D2:B3:9B:F4:B4:47:5F:D4:27:F2:8D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

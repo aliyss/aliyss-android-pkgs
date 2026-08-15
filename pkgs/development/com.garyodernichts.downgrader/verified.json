@@ -1,0 +1,8 @@
+{
+  "package": "com.garyodernichts.downgrader",
+  "signerFingerprints": [
+    "D8:21:CD:CB:9E:49:6F:6A:B8:22:E7:B8:D1:73:B8:7C:DE:2D:D0:A7:41:7A:36:11:C9:0C:61:E4:C8:AD:75:C9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

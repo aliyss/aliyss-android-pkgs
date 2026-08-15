@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.no.thanks_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Dejm4EWz2PZjUnDRugzvZeX7bbiBVFLwK8pDULhe4kQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dejm4EWz2PZjUnDRugzvZeX7bbiBVFLwK8pDULhe4kQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dejm4EWz2PZjUnDRugzvZeX7bbiBVFLwK8pDULhe4kQ="
+    }
+  },
+  "version": "1.00"
+}

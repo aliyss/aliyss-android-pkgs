@@ -1,0 +1,18 @@
+{
+  "apkName": "com.portscanner.superredstone_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-frAunv1TnER+GBnI+oAscgKV2skhCrwkC10nWjsFRDo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-frAunv1TnER+GBnI+oAscgKV2skhCrwkC10nWjsFRDo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-frAunv1TnER+GBnI+oAscgKV2skhCrwkC10nWjsFRDo="
+    }
+  },
+  "version": "1.0.4"
+}

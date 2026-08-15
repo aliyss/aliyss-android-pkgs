@@ -1,0 +1,8 @@
+{
+  "package": "ru.mark99.appsearcher",
+  "signerFingerprints": [
+    "A4:5C:1A:88:0B:FF:2C:1B:54:80:3E:C0:D5:37:7E:66:A2:07:7E:26:F9:F5:97:7D:08:86:54:38:42:B6:D9:4C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

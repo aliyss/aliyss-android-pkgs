@@ -1,0 +1,18 @@
+{
+  "apkName": "io.gitlab.listentogether_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lvznPDxLa48CY3hSpIpUND+akfi31ycV0TrG/2JdlUA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lvznPDxLa48CY3hSpIpUND+akfi31ycV0TrG/2JdlUA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lvznPDxLa48CY3hSpIpUND+akfi31ycV0TrG/2JdlUA="
+    }
+  },
+  "version": "1.1.2"
+}

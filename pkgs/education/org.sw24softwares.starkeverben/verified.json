@@ -1,0 +1,8 @@
+{
+  "package": "org.sw24softwares.starkeverben",
+  "signerFingerprints": [
+    "20:8A:61:F3:2C:CF:B4:C0:F2:AA:1A:8A:65:62:20:CF:51:2B:75:18:33:99:C8:F7:15:A7:D3:A4:F1:54:21:BE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

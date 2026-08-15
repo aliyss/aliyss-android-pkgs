@@ -1,0 +1,8 @@
+{
+  "package": "us.spotco.extirpater",
+  "signerFingerprints": [
+    "27:DB:30:76:ED:1F:A9:A1:C5:0D:6A:A8:CB:47:FD:42:9E:C7:6F:E6:5A:14:78:39:98:29:2C:9D:12:33:16:74"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

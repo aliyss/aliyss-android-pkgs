@@ -1,0 +1,8 @@
+{
+  "package": "cz.lastaapps.menza",
+  "signerFingerprints": [
+    "0C:BC:A6:7F:7F:52:45:16:73:F7:EE:23:FE:A1:F7:35:3F:4C:F4:CA:F5:1C:E2:C9:DD:09:80:EF:B3:CB:B3:4E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

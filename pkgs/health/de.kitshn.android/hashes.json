@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kitshn.android_20100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6fAcuebk7YFSlgbQoRWV+VgcFnzrdkYfbu1Gqwttrlo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6fAcuebk7YFSlgbQoRWV+VgcFnzrdkYfbu1Gqwttrlo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6fAcuebk7YFSlgbQoRWV+VgcFnzrdkYfbu1Gqwttrlo="
+    }
+  },
+  "version": "2.1.0"
+}

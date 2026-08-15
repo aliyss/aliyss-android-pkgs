@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.mobdev.blooddonation_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eXTok++C5R5q/KB2vY6fvLNBoDat3fcmogvp7oXRItk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eXTok++C5R5q/KB2vY6fvLNBoDat3fcmogvp7oXRItk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eXTok++C5R5q/KB2vY6fvLNBoDat3fcmogvp7oXRItk="
+    }
+  },
+  "version": "3.5"
+}

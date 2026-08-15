@@ -1,0 +1,8 @@
+{
+  "package": "sh.looker.plainer",
+  "signerFingerprints": [
+    "0F:F8:9D:1F:35:96:D2:A2:FD:5B:25:72:3A:DE:77:1B:5E:2D:9C:C5:AA:FD:5E:0B:52:EA:11:E2:D5:79:D1:E3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

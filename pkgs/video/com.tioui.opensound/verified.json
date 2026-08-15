@@ -1,0 +1,8 @@
+{
+  "package": "com.tioui.opensound",
+  "signerFingerprints": [
+    "3F:93:CF:2E:E3:86:4B:D1:B6:AE:DF:EC:1C:43:1C:F6:39:90:A8:C6:9F:0C:7F:28:13:C2:0F:47:A8:C3:E0:99"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

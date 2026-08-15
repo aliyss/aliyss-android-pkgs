@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bri1.soundbored2_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UdfR2yv4uFk/Q+t0QuEgfTevaMW3Ara7nVE7pJyMneA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UdfR2yv4uFk/Q+t0QuEgfTevaMW3Ara7nVE7pJyMneA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UdfR2yv4uFk/Q+t0QuEgfTevaMW3Ara7nVE7pJyMneA="
+    }
+  },
+  "version": "2.3"
+}

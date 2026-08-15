@@ -1,0 +1,8 @@
+{
+  "package": "io.codespoof.univpassm",
+  "signerFingerprints": [
+    "6B:78:3F:D3:FA:C3:E4:16:DA:73:9A:6B:4C:C8:5E:C0:19:7A:02:C4:6F:83:45:5D:31:E5:12:BA:E6:8E:7E:9B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

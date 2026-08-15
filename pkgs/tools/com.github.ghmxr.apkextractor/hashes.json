@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.ghmxr.apkextractor_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lhdKV83E1iEfRDq0fjZ1uscrOBl1OGqyJgqx1KcVgqY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lhdKV83E1iEfRDq0fjZ1uscrOBl1OGqyJgqx1KcVgqY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lhdKV83E1iEfRDq0fjZ1uscrOBl1OGqyJgqx1KcVgqY="
+    }
+  },
+  "version": "Build 16"
+}

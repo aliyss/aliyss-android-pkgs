@@ -1,0 +1,8 @@
+{
+  "package": "evil.spin",
+  "signerFingerprints": [
+    "1D:60:B2:62:4A:A9:1D:3A:FB:9E:B4:F6:12:23:76:A8:40:EA:02:F7:17:46:C6:50:64:BA:D1:FB:C9:66:21:D7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

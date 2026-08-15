@@ -1,0 +1,18 @@
+{
+  "apkName": "app.easy.launcher_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1dUGUvzJYinl/chVQZcW1uaLpQRFk3Zz9903EqPYcxs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1dUGUvzJYinl/chVQZcW1uaLpQRFk3Zz9903EqPYcxs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1dUGUvzJYinl/chVQZcW1uaLpQRFk3Zz9903EqPYcxs="
+    }
+  },
+  "version": "0.3.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.binarynoise.betterVerboseWiFiLogging_80.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/xm3yQ1uNfhvithab/xjhMdeyetnpwuxGXq+jKvBTpQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/xm3yQ1uNfhvithab/xjhMdeyetnpwuxGXq+jKvBTpQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/xm3yQ1uNfhvithab/xjhMdeyetnpwuxGXq+jKvBTpQ="
+    }
+  },
+  "version": "80-baae36a-20260404"
+}

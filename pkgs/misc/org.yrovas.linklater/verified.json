@@ -1,0 +1,8 @@
+{
+  "package": "org.yrovas.linklater",
+  "signerFingerprints": [
+    "51:26:BB:0A:02:DD:A4:83:A1:71:B6:FC:22:57:8B:39:02:42:7F:73:21:3D:76:22:5A:99:B5:63:48:62:AF:CA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

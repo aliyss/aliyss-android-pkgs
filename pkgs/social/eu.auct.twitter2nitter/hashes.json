@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.auct.twitter2nitter_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tZS8GsCYyc64sBr9TGjTp5YNU5vcdPUsmfvqtJ8KzyY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tZS8GsCYyc64sBr9TGjTp5YNU5vcdPUsmfvqtJ8KzyY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tZS8GsCYyc64sBr9TGjTp5YNU5vcdPUsmfvqtJ8KzyY="
+    }
+  },
+  "version": "1.9"
+}

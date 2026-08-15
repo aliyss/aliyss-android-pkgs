@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.gpscockpit_290.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6P5h69GsxmxSmY+eAg/r8DH3KXCL0eSonao65MQkPek="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6P5h69GsxmxSmY+eAg/r8DH3KXCL0eSonao65MQkPek="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6P5h69GsxmxSmY+eAg/r8DH3KXCL0eSonao65MQkPek="
+    }
+  },
+  "version": "2.9"
+}

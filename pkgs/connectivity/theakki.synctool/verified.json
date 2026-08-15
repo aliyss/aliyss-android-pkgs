@@ -1,0 +1,8 @@
+{
+  "package": "theakki.synctool",
+  "signerFingerprints": [
+    "AB:00:07:09:D9:27:9F:6A:FC:C6:EA:EB:60:5E:86:47:9D:2A:9C:95:63:63:3C:CF:C0:C0:DF:CF:B4:A9:70:18"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

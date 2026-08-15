@@ -1,0 +1,18 @@
+{
+  "apkName": "v4lpt.vpt.c016.TPC_104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ONcsFmdKiomwvQ4tcuiQydVIo1FAYr8+G5cUgdOlEBw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ONcsFmdKiomwvQ4tcuiQydVIo1FAYr8+G5cUgdOlEBw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ONcsFmdKiomwvQ4tcuiQydVIo1FAYr8+G5cUgdOlEBw="
+    }
+  },
+  "version": "1.0.4"
+}

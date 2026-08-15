@@ -1,0 +1,8 @@
+{
+  "package": "com.android.geto",
+  "signerFingerprints": [
+    "94:A9:D8:7C:C8:F0:C3:31:91:A2:33:AC:74:ED:5C:9E:4E:1A:FD:55:6A:9D:91:6A:C5:33:BC:50:08:3A:8D:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jlindemann.science_90.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KIHmfihsTU4+fiDMPc6mI3dobjApv3HNEezobs1gMBc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KIHmfihsTU4+fiDMPc6mI3dobjApv3HNEezobs1gMBc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KIHmfihsTU4+fiDMPc6mI3dobjApv3HNEezobs1gMBc="
+    }
+  },
+  "version": "2.5.1-noBilling"
+}

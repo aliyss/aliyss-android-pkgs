@@ -1,0 +1,18 @@
+{
+  "apkName": "io.cardijey.schulrechner_11500.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uwUiGQRyO3wfxfD4zWZFIx/d/EK6ZMEoFbC0GKHWLiI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uwUiGQRyO3wfxfD4zWZFIx/d/EK6ZMEoFbC0GKHWLiI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uwUiGQRyO3wfxfD4zWZFIx/d/EK6ZMEoFbC0GKHWLiI="
+    }
+  },
+  "version": "1.15.0"
+}

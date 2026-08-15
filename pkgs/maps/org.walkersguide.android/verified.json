@@ -1,0 +1,8 @@
+{
+  "package": "org.walkersguide.android",
+  "signerFingerprints": [
+    "74:E6:8A:CD:BC:BE:56:36:0D:27:4E:D0:04:30:C4:A0:A4:F0:6C:A7:00:A3:01:39:74:57:63:B8:BD:1E:A5:98"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

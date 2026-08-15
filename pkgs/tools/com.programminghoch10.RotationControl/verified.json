@@ -1,0 +1,8 @@
+{
+  "package": "com.programminghoch10.RotationControl",
+  "signerFingerprints": [
+    "70:69:2B:AC:87:7F:AD:44:81:F0:1C:18:11:25:EB:B6:6D:0E:23:4F:45:F7:E8:8E:42:00:FB:56:6C:72:07:C9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

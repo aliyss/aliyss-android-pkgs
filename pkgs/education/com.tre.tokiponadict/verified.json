@@ -1,0 +1,8 @@
+{
+  "package": "com.tre.tokiponadict",
+  "signerFingerprints": [
+    "9A:6F:05:C6:54:5C:8F:13:B9:D1:EF:E0:CF:CC:AD:31:77:2C:14:6C:D2:29:51:10:F4:0A:71:C5:47:5D:D5:2B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

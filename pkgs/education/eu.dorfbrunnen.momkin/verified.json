@@ -1,0 +1,8 @@
+{
+  "package": "eu.dorfbrunnen.momkin",
+  "signerFingerprints": [
+    "18:4F:6E:F5:CD:A7:9F:11:5A:4D:ED:84:08:A3:CC:90:C5:23:1A:FE:6B:A1:09:A3:7A:88:EF:55:0F:AD:FC:5A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

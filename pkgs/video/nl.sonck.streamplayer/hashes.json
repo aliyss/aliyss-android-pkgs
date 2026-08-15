@@ -1,0 +1,18 @@
+{
+  "apkName": "nl.sonck.streamplayer_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pB31+JxyQa3VhFy53udaBwI6U/I9Fd73EmYDd2rfk88="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pB31+JxyQa3VhFy53udaBwI6U/I9Fd73EmYDd2rfk88="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pB31+JxyQa3VhFy53udaBwI6U/I9Fd73EmYDd2rfk88="
+    }
+  },
+  "version": "1.2.4"
+}

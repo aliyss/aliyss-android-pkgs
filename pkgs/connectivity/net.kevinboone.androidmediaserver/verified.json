@@ -1,0 +1,8 @@
+{
+  "package": "net.kevinboone.androidmediaserver",
+  "signerFingerprints": [
+    "02:9F:DC:48:93:34:3F:9C:9E:E3:36:94:3D:7F:F4:5D:73:01:62:57:D1:30:B3:95:2F:AC:33:9D:DF:3A:C1:B1"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

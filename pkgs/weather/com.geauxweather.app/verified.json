@@ -1,0 +1,8 @@
+{
+  "package": "com.geauxweather.app",
+  "signerFingerprints": [
+    "2D:0D:E5:B9:18:CA:85:BB:42:2C:C4:5D:E5:5D:6C:4B:8C:84:60:7E:8E:0A:C7:3D:DF:67:67:6B:80:57:8C:42"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

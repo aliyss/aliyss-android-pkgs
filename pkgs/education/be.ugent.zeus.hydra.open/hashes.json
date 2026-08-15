@@ -1,0 +1,18 @@
+{
+  "apkName": "be.ugent.zeus.hydra.open_37400.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hzmQWWRRkSP0oYFVf1DHy7OwTTUnd+hysJIGlAHQxvI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hzmQWWRRkSP0oYFVf1DHy7OwTTUnd+hysJIGlAHQxvI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hzmQWWRRkSP0oYFVf1DHy7OwTTUnd+hysJIGlAHQxvI="
+    }
+  },
+  "version": "3.7.4-open"
+}

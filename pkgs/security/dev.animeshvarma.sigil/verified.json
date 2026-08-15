@@ -1,0 +1,8 @@
+{
+  "package": "dev.animeshvarma.sigil",
+  "signerFingerprints": [
+    "46:BC:64:A5:2B:F6:5A:BA:A1:B7:EA:25:52:6B:E2:5E:DD:8C:52:4C:9D:08:AD:71:CC:64:2A:63:66:18:90:DC"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.kokkle.gamevirusattack",
+  "signerFingerprints": [
+    "65:AA:53:17:10:43:4F:4D:A4:23:CA:D5:77:15:9D:C2:F3:05:45:44:C1:39:5A:94:5A:19:91:A1:67:08:34:C1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

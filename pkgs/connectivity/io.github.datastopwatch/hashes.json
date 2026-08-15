@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.datastopwatch_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-N6AL+INzkg/Ka1OYX8SCX+nWslhxZFEI5Nq0mCbFQtk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-N6AL+INzkg/Ka1OYX8SCX+nWslhxZFEI5Nq0mCbFQtk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-N6AL+INzkg/Ka1OYX8SCX+nWslhxZFEI5Nq0mCbFQtk="
+    }
+  },
+  "version": "1.0"
+}

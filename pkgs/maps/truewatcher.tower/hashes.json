@@ -1,0 +1,18 @@
+{
+  "apkName": "truewatcher.tower_82.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zLeRMn/Md8rsN2AHvU0meeX0KQjQB1XHguyMDHy7MrM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zLeRMn/Md8rsN2AHvU0meeX0KQjQB1XHguyMDHy7MrM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zLeRMn/Md8rsN2AHvU0meeX0KQjQB1XHguyMDHy7MrM="
+    }
+  },
+  "version": "2.11.1"
+}

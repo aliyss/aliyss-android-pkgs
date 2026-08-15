@@ -1,0 +1,8 @@
+{
+  "package": "org.onekash.kashcal",
+  "signerFingerprints": [
+    "72:0A:06:F7:97:D3:9F:66:69:F2:07:4A:C5:2D:6E:0C:FD:8D:99:BF:0B:59:E5:EA:1F:74:BB:B3:21:7F:55:95"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

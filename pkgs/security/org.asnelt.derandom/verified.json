@@ -1,0 +1,8 @@
+{
+  "package": "org.asnelt.derandom",
+  "signerFingerprints": [
+    "1D:FC:DE:78:BF:44:CD:8B:6F:1A:4E:B7:1C:21:6F:01:41:A6:1A:1D:BE:92:DB:AE:22:70:39:9A:34:6F:AF:90"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

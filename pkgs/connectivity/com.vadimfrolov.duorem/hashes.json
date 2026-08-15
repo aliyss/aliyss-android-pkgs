@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vadimfrolov.duorem_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vbpAbCtlc/ysoY61oCunsXKDOPgbQw5EIUuJm3FVYC8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vbpAbCtlc/ysoY61oCunsXKDOPgbQw5EIUuJm3FVYC8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vbpAbCtlc/ysoY61oCunsXKDOPgbQw5EIUuJm3FVYC8="
+    }
+  },
+  "version": "1.1.4"
+}

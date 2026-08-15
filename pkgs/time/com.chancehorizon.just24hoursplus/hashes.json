@@ -1,0 +1,18 @@
+{
+  "apkName": "com.chancehorizon.just24hoursplus_10401.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Qw1yAV3MnEE30v3Noz3w6++4/ETARS870rkIGq6tmmo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qw1yAV3MnEE30v3Noz3w6++4/ETARS870rkIGq6tmmo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qw1yAV3MnEE30v3Noz3w6++4/ETARS870rkIGq6tmmo="
+    }
+  },
+  "version": "1.4.1"
+}

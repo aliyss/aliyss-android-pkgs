@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlynotes",
+  "signerFingerprints": [
+    "9B:E7:5E:46:FA:FA:2D:66:E9:B8:DB:B7:EA:6A:34:CC:09:6A:96:B2:D9:39:65:69:CF:F5:A7:F9:8F:6D:09:3D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

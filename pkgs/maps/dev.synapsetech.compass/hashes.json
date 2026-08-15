@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.synapsetech.compass_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hweceZ9FR6gm/adJpcFoaoMsklvjZ2F4qW0ya9aPJUQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hweceZ9FR6gm/adJpcFoaoMsklvjZ2F4qW0ya9aPJUQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hweceZ9FR6gm/adJpcFoaoMsklvjZ2F4qW0ya9aPJUQ="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.tommygeenexus.usbdonglecontrol",
+  "signerFingerprints": [
+    "E9:3B:0B:2E:AF:EE:95:0D:EF:8B:E0:48:98:D3:45:25:22:13:41:57:B0:35:ED:EC:7E:84:F4:2E:F5:F9:38:E6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

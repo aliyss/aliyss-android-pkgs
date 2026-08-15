@@ -1,0 +1,8 @@
+{
+  "package": "com.mde.potdroid",
+  "signerFingerprints": [
+    "20:59:55:7F:A5:F5:6A:6D:3E:B9:76:13:06:96:39:7B:0B:77:7B:9F:3D:84:3C:6E:2C:85:91:41:7A:3E:A6:C9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

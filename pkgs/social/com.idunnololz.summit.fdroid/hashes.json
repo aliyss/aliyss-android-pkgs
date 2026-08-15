@@ -1,0 +1,18 @@
+{
+  "apkName": "com.idunnololz.summit.fdroid_347.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oy+YUVSV8A1mSpbve580I1VRoJ4q9kiP0VbmSRG3n4w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oy+YUVSV8A1mSpbve580I1VRoJ4q9kiP0VbmSRG3n4w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oy+YUVSV8A1mSpbve580I1VRoJ4q9kiP0VbmSRG3n4w="
+    }
+  },
+  "version": "1.83.3-fdroid"
+}

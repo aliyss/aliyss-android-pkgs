@@ -1,0 +1,18 @@
+{
+  "apkName": "lu.knaff.alain.share_to_folder_105.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-f4p7TzDscaTn/b/Te9D2bVqK0XH2LF7no6DV5wal9Bg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f4p7TzDscaTn/b/Te9D2bVqK0XH2LF7no6DV5wal9Bg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f4p7TzDscaTn/b/Te9D2bVqK0XH2LF7no6DV5wal9Bg="
+    }
+  },
+  "version": "0.1.5"
+}

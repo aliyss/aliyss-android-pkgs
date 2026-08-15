@@ -1,0 +1,18 @@
+{
+  "apkName": "de.mwarning.memento_211.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-x7EwWcM+CCQrZGFaSqReE/B5VsR7rvv7oY0+8sANrR8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x7EwWcM+CCQrZGFaSqReE/B5VsR7rvv7oY0+8sANrR8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x7EwWcM+CCQrZGFaSqReE/B5VsR7rvv7oY0+8sANrR8="
+    }
+  },
+  "version": "2.1.1"
+}

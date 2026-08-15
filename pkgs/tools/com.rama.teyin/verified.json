@@ -1,0 +1,8 @@
+{
+  "package": "com.rama.teyin",
+  "signerFingerprints": [
+    "31:64:6A:BF:4D:69:E7:DE:E2:9F:AA:63:2E:6B:87:3B:EF:38:28:28:5F:DA:AA:A8:1A:E5:92:1B:F9:E5:B4:1E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.tomer.poke.notifier",
+  "signerFingerprints": [
+    "86:26:85:A6:2F:14:9C:D5:17:65:DA:BF:DE:87:AC:AE:62:52:B4:CB:A9:41:5A:49:EB:22:3D:C3:03:47:78:25"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

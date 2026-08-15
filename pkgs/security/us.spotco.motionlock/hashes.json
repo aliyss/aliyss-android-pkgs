@@ -1,0 +1,18 @@
+{
+  "apkName": "us.spotco.motionlock_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aTbYzD4dDqOApXh4ohxUVgr5aE7m09N8QQgBhkcXGXk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aTbYzD4dDqOApXh4ohxUVgr5aE7m09N8QQgBhkcXGXk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aTbYzD4dDqOApXh4ohxUVgr5aE7m09N8QQgBhkcXGXk="
+    }
+  },
+  "version": "1.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bojko108.mobiletileserver_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZFbrgpw+3kC7pxf2WbuaZRweRvRQk9F0pSQGWAG/NKM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZFbrgpw+3kC7pxf2WbuaZRweRvRQk9F0pSQGWAG/NKM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZFbrgpw+3kC7pxf2WbuaZRweRvRQk9F0pSQGWAG/NKM="
+    }
+  },
+  "version": "5.4"
+}

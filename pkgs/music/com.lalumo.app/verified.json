@@ -1,0 +1,8 @@
+{
+  "package": "com.lalumo.app",
+  "signerFingerprints": [
+    "80:B9:67:80:78:C0:DF:0A:9A:B0:6D:22:DA:04:A7:E3:6A:70:0F:88:1E:17:D2:61:CF:66:D1:EB:21:45:27:45"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

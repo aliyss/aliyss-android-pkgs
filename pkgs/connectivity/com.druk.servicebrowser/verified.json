@@ -1,0 +1,8 @@
+{
+  "package": "com.druk.servicebrowser",
+  "signerFingerprints": [
+    "86:E0:54:D8:64:80:57:D1:69:8C:EF:24:CB:55:2C:CA:CC:81:3E:3B:75:79:4A:70:F8:CB:A7:E9:CE:75:E4:ED"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

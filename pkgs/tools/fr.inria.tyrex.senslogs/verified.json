@@ -1,0 +1,8 @@
+{
+  "package": "fr.inria.tyrex.senslogs",
+  "signerFingerprints": [
+    "A5:5F:C7:C7:17:67:33:5B:9B:1F:D6:C3:3B:D6:5D:37:8B:E5:2D:BD:02:19:84:23:03:F6:ED:24:FF:39:90:B7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

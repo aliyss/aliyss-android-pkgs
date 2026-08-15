@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.sms_automatic_reply_gps_2010711.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ygKC57q6SmIFxdQMth4NmBsmUTuFKTQJRNUmFWqX02w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ygKC57q6SmIFxdQMth4NmBsmUTuFKTQJRNUmFWqX02w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ygKC57q6SmIFxdQMth4NmBsmUTuFKTQJRNUmFWqX02w="
+    }
+  },
+  "version": "002.01.07-11API"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ianhanniballake.localstorage_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PPVJEdCI1DcGlQssZ5HhWXXdIbFeI+LowfF8C1of7Es="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PPVJEdCI1DcGlQssZ5HhWXXdIbFeI+LowfF8C1of7Es="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PPVJEdCI1DcGlQssZ5HhWXXdIbFeI+LowfF8C1of7Es="
+    }
+  },
+  "version": "2.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.evgeniy.dpitunnelcli_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-k8BLfPG9Ap4l+tSSGB7TjTpai0YB78BRyN/s4E9pLrc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k8BLfPG9Ap4l+tSSGB7TjTpai0YB78BRyN/s4E9pLrc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k8BLfPG9Ap4l+tSSGB7TjTpai0YB78BRyN/s4E9pLrc="
+    }
+  },
+  "version": "1.2"
+}

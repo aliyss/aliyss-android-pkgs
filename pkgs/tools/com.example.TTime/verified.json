@@ -1,0 +1,8 @@
+{
+  "package": "com.example.TTime",
+  "signerFingerprints": [
+    "2B:B0:22:8A:A1:C3:CC:3B:A5:56:AB:92:8A:04:75:68:23:58:DC:A3:81:E7:DD:93:53:B1:08:54:24:37:72:9C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

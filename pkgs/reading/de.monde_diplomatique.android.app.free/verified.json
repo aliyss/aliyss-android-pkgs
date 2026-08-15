@@ -1,0 +1,8 @@
+{
+  "package": "de.monde_diplomatique.android.app.free",
+  "signerFingerprints": [
+    "92:F0:C8:D9:D4:20:FC:F6:78:A9:3F:21:69:8E:4B:F7:63:AC:60:36:72:4D:1F:25:04:D3:DB:5D:13:16:46:7B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

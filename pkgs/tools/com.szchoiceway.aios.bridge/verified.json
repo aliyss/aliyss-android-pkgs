@@ -1,0 +1,8 @@
+{
+  "package": "com.szchoiceway.aios.bridge",
+  "signerFingerprints": [
+    "B4:9D:10:E8:C5:F5:68:72:75:6C:EA:D3:70:8D:48:97:FF:9C:81:B2:1A:C7:34:A4:AD:FA:69:90:A7:26:19:66"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.binarynoise.betterBluetoothDeviceSort_77.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XhfjSvEW/4bXyRolcjozOViuB3ss2Xr05XQ1Mm0SVCI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XhfjSvEW/4bXyRolcjozOViuB3ss2Xr05XQ1Mm0SVCI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XhfjSvEW/4bXyRolcjozOViuB3ss2Xr05XQ1Mm0SVCI="
+    }
+  },
+  "version": "77-4646c57-20260525"
+}

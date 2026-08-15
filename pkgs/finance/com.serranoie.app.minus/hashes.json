@@ -1,0 +1,18 @@
+{
+  "apkName": "com.serranoie.app.minus_10503.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9vTjyyjOOvqSM5GueQriR/Az9qGSoUArFyUckJGfWFY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9vTjyyjOOvqSM5GueQriR/Az9qGSoUArFyUckJGfWFY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9vTjyyjOOvqSM5GueQriR/Az9qGSoUArFyUckJGfWFY="
+    }
+  },
+  "version": "1.5.3"
+}

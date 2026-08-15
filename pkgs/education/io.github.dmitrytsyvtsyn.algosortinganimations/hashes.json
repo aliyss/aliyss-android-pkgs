@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.dmitrytsyvtsyn.algosortinganimations_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rzItKUuXt+oBL/4MI+S2jaXFycxBMtZHTX0ScOn8mhA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rzItKUuXt+oBL/4MI+S2jaXFycxBMtZHTX0ScOn8mhA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rzItKUuXt+oBL/4MI+S2jaXFycxBMtZHTX0ScOn8mhA="
+    }
+  },
+  "version": "1.0"
+}

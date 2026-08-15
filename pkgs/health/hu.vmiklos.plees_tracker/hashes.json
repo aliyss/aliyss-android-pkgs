@@ -1,0 +1,18 @@
+{
+  "apkName": "hu.vmiklos.plees_tracker_66.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tQrPP8fjoE+kY3zG7Gs2tZ2q5uZgfhVLXUzKHHjctg4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tQrPP8fjoE+kY3zG7Gs2tZ2q5uZgfhVLXUzKHHjctg4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tQrPP8fjoE+kY3zG7Gs2tZ2q5uZgfhVLXUzKHHjctg4="
+    }
+  },
+  "version": "26.8"
+}

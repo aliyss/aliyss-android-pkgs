@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.hxreborn.cleanshare_314.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i+g1g0+S2UGlj3U37VcbgfArCdJC2SewSfHMzpDoA4E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i+g1g0+S2UGlj3U37VcbgfArCdJC2SewSfHMzpDoA4E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i+g1g0+S2UGlj3U37VcbgfArCdJC2SewSfHMzpDoA4E="
+    }
+  },
+  "version": "3.1.4"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.sykoram.sis_10900.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PACsGLpccbT9alV2XNtjo0XBClIBZO10cSqkwAJjyME="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PACsGLpccbT9alV2XNtjo0XBClIBZO10cSqkwAJjyME="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PACsGLpccbT9alV2XNtjo0XBClIBZO10cSqkwAJjyME="
+    }
+  },
+  "version": "1.9.0"
+}

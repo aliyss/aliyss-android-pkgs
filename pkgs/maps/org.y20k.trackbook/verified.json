@@ -1,0 +1,8 @@
+{
+  "package": "org.y20k.trackbook",
+  "signerFingerprints": [
+    "EE:00:B5:5E:7F:15:62:A5:AE:52:57:4A:75:5C:09:4A:88:78:6F:EC:EE:1E:B1:DA:99:63:4D:56:9A:4E:6F:54"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.android.keepass",
+  "signerFingerprints": [
+    "9F:76:2B:7F:26:F4:5C:57:60:53:FA:54:0B:49:7D:D3:CF:BA:D6:46:AA:8A:5D:61:DF:CF:31:DB:E0:C6:9B:46"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

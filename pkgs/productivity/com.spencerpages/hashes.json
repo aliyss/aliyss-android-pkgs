@@ -1,0 +1,18 @@
+{
+  "apkName": "com.spencerpages_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nXRxasYpED8oaJdyLvM6AsNyisouw/YbLJ7VBmvgmvs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nXRxasYpED8oaJdyLvM6AsNyisouw/YbLJ7VBmvgmvs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nXRxasYpED8oaJdyLvM6AsNyisouw/YbLJ7VBmvgmvs="
+    }
+  },
+  "version": "3.8.4"
+}

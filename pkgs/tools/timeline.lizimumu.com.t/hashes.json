@@ -1,0 +1,18 @@
+{
+  "apkName": "timeline.lizimumu.com.t_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uVAT20OVAwrDNThkqss1AEOJipnYYed/RbaDZ6EBGCU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uVAT20OVAwrDNThkqss1AEOJipnYYed/RbaDZ6EBGCU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uVAT20OVAwrDNThkqss1AEOJipnYYed/RbaDZ6EBGCU="
+    }
+  },
+  "version": "1.9.0"
+}

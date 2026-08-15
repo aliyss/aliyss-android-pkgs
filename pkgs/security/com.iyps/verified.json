@@ -1,0 +1,8 @@
+{
+  "package": "com.iyps",
+  "signerFingerprints": [
+    "25:B1:52:A7:01:B3:70:8B:BF:03:D9:CF:92:25:70:D8:86:4B:16:64:6E:C4:1E:AE:72:37:C3:63:14:09:32:2F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

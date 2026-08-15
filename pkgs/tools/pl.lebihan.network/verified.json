@@ -1,0 +1,8 @@
+{
+  "package": "pl.lebihan.network",
+  "signerFingerprints": [
+    "BA:C3:D3:82:01:1C:F8:E1:00:16:2C:38:D8:84:A2:11:B5:D6:6F:B0:AB:2E:99:F6:8D:98:A9:AD:8A:56:42:E3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

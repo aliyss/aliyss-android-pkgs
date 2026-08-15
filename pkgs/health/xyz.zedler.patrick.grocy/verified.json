@@ -1,0 +1,8 @@
+{
+  "package": "xyz.zedler.patrick.grocy",
+  "signerFingerprints": [
+    "4B:65:6A:D4:85:A0:D6:44:51:4A:02:81:53:C6:45:11:6C:D8:94:8E:00:F9:C4:3F:0E:7C:88:79:34:99:A0:64"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

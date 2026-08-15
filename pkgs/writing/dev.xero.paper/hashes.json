@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.xero.paper_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ei8hJ3arlT0RrNtMZjNrobHBV9Rs5KkiFDEAhDZZkJg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ei8hJ3arlT0RrNtMZjNrobHBV9Rs5KkiFDEAhDZZkJg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ei8hJ3arlT0RrNtMZjNrobHBV9Rs5KkiFDEAhDZZkJg="
+    }
+  },
+  "version": "1.0"
+}

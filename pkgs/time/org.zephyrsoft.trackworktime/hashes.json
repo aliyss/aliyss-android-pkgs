@@ -1,0 +1,18 @@
+{
+  "apkName": "org.zephyrsoft.trackworktime_72.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5wrkpd/0ZN+SduIrytK856t/ojhTDBunaWTtSVQ3mx8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5wrkpd/0ZN+SduIrytK856t/ojhTDBunaWTtSVQ3mx8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5wrkpd/0ZN+SduIrytK856t/ojhTDBunaWTtSVQ3mx8="
+    }
+  },
+  "version": "1.1.27"
+}

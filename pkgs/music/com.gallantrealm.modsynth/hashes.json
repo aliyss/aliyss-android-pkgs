@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gallantrealm.modsynth_609.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1Kxd3oX9WAuhUmiQbAPYTsBAG0J6WGLJ4+PtUwP047M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1Kxd3oX9WAuhUmiQbAPYTsBAG0J6WGLJ4+PtUwP047M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1Kxd3oX9WAuhUmiQbAPYTsBAG0J6WGLJ4+PtUwP047M="
+    }
+  },
+  "version": "6.09"
+}

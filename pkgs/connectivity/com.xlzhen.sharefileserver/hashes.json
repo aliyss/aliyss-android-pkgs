@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xlzhen.sharefileserver_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zzAarbe4Ce95f8taYLy7EXi/OIjaeNXz/R3Z5AAK3oc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zzAarbe4Ce95f8taYLy7EXi/OIjaeNXz/R3Z5AAK3oc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zzAarbe4Ce95f8taYLy7EXi/OIjaeNXz/R3Z5AAK3oc="
+    }
+  },
+  "version": "1.6.2"
+}

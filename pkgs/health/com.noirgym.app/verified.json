@@ -1,0 +1,8 @@
+{
+  "package": "com.noirgym.app",
+  "signerFingerprints": [
+    "09:F0:A3:8F:EF:78:6F:E0:79:BF:FD:72:BE:10:A7:2D:E8:1C:D9:CA:44:52:28:A0:6F:6C:14:73:C6:A8:24:9E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.cry.otp_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GAzOzrbA10+i7Ue1Zr7ep5RrcAZUoe/4LGGsn6HJIlQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GAzOzrbA10+i7Ue1Zr7ep5RrcAZUoe/4LGGsn6HJIlQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GAzOzrbA10+i7Ue1Zr7ep5RrcAZUoe/4LGGsn6HJIlQ="
+    }
+  },
+  "version": "4"
+}

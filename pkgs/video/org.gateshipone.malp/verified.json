@@ -1,0 +1,8 @@
+{
+  "package": "org.gateshipone.malp",
+  "signerFingerprints": [
+    "3E:4D:D2:86:54:22:DC:9E:78:69:D2:59:A2:46:73:5E:D7:9C:BF:DA:9C:89:71:66:A9:7C:3C:77:D0:BC:AB:98"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

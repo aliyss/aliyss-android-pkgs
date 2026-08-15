@@ -1,0 +1,8 @@
+{
+  "package": "app.michaelwuensch.bitbanana",
+  "signerFingerprints": [
+    "59:03:4F:46:AE:31:A6:98:97:93:D9:1C:AD:C3:34:42:53:42:C2:72:41:53:12:6E:D5:F7:E2:12:CA:D6:BA:1F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.terminator.app",
+  "signerFingerprints": [
+    "2C:EC:CB:E5:71:E7:6D:60:D4:67:76:D5:9C:58:15:8D:BF:46:34:9E:81:EB:3B:0D:70:0F:37:EA:2F:9E:34:34"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

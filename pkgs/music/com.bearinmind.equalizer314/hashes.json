@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bearinmind.equalizer314_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fc98kqUBvGXhFC/ML9APBtZCn+1ilcuwDdp7waRHkzo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fc98kqUBvGXhFC/ML9APBtZCn+1ilcuwDdp7waRHkzo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fc98kqUBvGXhFC/ML9APBtZCn+1ilcuwDdp7waRHkzo="
+    }
+  },
+  "version": "0.0.16-beta"
+}

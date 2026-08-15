@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.rmen.nounours_358.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Dn2nsXtj1yf7Kjp14FduGkLihuvI+3OzaNpVGKcoxoI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dn2nsXtj1yf7Kjp14FduGkLihuvI+3OzaNpVGKcoxoI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dn2nsXtj1yf7Kjp14FduGkLihuvI+3OzaNpVGKcoxoI="
+    }
+  },
+  "version": "3.5.8"
+}

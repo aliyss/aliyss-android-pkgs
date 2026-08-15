@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.bitsundbaeume.schedule_90.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pjbaLp/S7nxKdpI//JNDOSZNJDHnfhK8uTsy8ZSv0pQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pjbaLp/S7nxKdpI//JNDOSZNJDHnfhK8uTsy8ZSv0pQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pjbaLp/S7nxKdpI//JNDOSZNJDHnfhK8uTsy8ZSv0pQ="
+    }
+  },
+  "version": "1.55.1-Bits-und-Baeume-Edition"
+}

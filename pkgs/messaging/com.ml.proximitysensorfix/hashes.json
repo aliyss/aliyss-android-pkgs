@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ml.proximitysensorfix_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VegbXaSg1QBAyl5ZIvFR3eMux3ludbNQl81LL76jQms="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VegbXaSg1QBAyl5ZIvFR3eMux3ludbNQl81LL76jQms="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VegbXaSg1QBAyl5ZIvFR3eMux3ludbNQl81LL76jQms="
+    }
+  },
+  "version": "1.1.0"
+}

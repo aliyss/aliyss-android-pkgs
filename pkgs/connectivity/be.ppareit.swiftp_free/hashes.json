@@ -1,0 +1,18 @@
+{
+  "apkName": "be.ppareit.swiftp_free_30100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SbiXfz0EqaGEEUreTHyL8i45VCl0r5COicYIuLN0zpI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SbiXfz0EqaGEEUreTHyL8i45VCl0r5COicYIuLN0zpI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SbiXfz0EqaGEEUreTHyL8i45VCl0r5COicYIuLN0zpI="
+    }
+  },
+  "version": "3.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.sbv.linkdroid",
+  "signerFingerprints": [
+    "F9:FD:D3:56:1B:63:E8:97:EC:F4:0F:CB:0E:FD:0F:53:04:33:B4:52:A0:49:2E:07:7B:09:DE:B9:7D:C3:87:23"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "net.canvoki.vokibot",
+  "signerFingerprints": [
+    "97:54:03:3F:7E:40:DA:57:54:0F:9B:C2:3E:A5:A3:59:36:8F:50:25:01:FA:7D:12:25:44:89:9B:C8:D3:C1:F1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

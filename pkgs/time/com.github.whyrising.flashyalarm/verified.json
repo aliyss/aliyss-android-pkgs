@@ -1,0 +1,8 @@
+{
+  "package": "com.github.whyrising.flashyalarm",
+  "signerFingerprints": [
+    "9B:AF:12:B6:D1:5F:6C:F8:DB:CC:43:DB:86:C3:EF:D3:F1:6E:9D:63:B0:B8:48:3D:3F:EE:EB:90:61:F1:F0:51"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

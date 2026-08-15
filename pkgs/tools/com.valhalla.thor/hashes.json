@@ -1,0 +1,18 @@
+{
+  "apkName": "com.valhalla.thor_1940.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yuJ2TwdNvDzS2iT3z+/rzMfZvEG6bT82RHb1T39gd0k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yuJ2TwdNvDzS2iT3z+/rzMfZvEG6bT82RHb1T39gd0k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yuJ2TwdNvDzS2iT3z+/rzMfZvEG6bT82RHb1T39gd0k="
+    }
+  },
+  "version": "1.94.0-foss"
+}

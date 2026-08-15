@@ -1,0 +1,8 @@
+{
+  "package": "net.ktnx.mobileledger",
+  "signerFingerprints": [
+    "10:9F:44:9E:10:EE:16:2F:0B:D3:C1:BB:2D:55:7A:DD:12:CB:73:85:D8:B0:5A:39:85:EF:0B:CF:86:1D:DB:3A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

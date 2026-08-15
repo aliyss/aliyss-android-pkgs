@@ -1,0 +1,8 @@
+{
+  "package": "io.gitlab.meckez.concertdiary",
+  "signerFingerprints": [
+    "B7:38:E2:E9:F6:4B:84:3F:62:F8:EF:1B:82:60:4B:6D:E1:60:30:F9:CC:49:E7:36:D4:B6:1F:40:4A:EF:D6:7D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

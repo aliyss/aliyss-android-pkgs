@@ -1,0 +1,8 @@
+{
+  "package": "com.saha.batchuninstaller",
+  "signerFingerprints": [
+    "1D:7A:9F:34:E8:8E:66:D6:F8:BF:1C:FF:9C:4E:E7:1A:DA:11:25:2F:E1:93:9D:2F:68:C2:A6:77:73:D5:D3:67"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

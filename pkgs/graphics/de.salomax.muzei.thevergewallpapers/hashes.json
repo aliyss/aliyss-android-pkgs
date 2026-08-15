@@ -1,0 +1,18 @@
+{
+  "apkName": "de.salomax.muzei.thevergewallpapers_10005.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gyoc96ySK77tBW4WyioUBHhrj3XheOc+dbYTw+LA0mQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gyoc96ySK77tBW4WyioUBHhrj3XheOc+dbYTw+LA0mQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gyoc96ySK77tBW4WyioUBHhrj3XheOc+dbYTw+LA0mQ="
+    }
+  },
+  "version": "1.0.5"
+}

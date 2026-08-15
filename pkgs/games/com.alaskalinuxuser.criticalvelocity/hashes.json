@@ -1,0 +1,18 @@
+{
+  "apkName": "com.alaskalinuxuser.criticalvelocity_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BlZ/d7C+PVxz5POHBgB4B8pU3p3MColY82GRX0i9Uls="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BlZ/d7C+PVxz5POHBgB4B8pU3p3MColY82GRX0i9Uls="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BlZ/d7C+PVxz5POHBgB4B8pU3p3MColY82GRX0i9Uls="
+    }
+  },
+  "version": "2.0"
+}

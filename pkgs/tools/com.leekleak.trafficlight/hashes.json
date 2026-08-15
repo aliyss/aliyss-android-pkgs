@@ -1,0 +1,18 @@
+{
+  "apkName": "com.leekleak.trafficlight_49.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-evXolvnwnvBH+/qy5cZZB5UkRoGJnXfLMOuSBVSOORI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-evXolvnwnvBH+/qy5cZZB5UkRoGJnXfLMOuSBVSOORI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-evXolvnwnvBH+/qy5cZZB5UkRoGJnXfLMOuSBVSOORI="
+    }
+  },
+  "version": "3.1"
+}

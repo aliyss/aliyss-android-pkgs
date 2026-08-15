@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dozingcatsoftware.dodge_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pWh9G617KSd0ClW3sd8R78ge3K0D8GM6tcLlxYsSBUE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pWh9G617KSd0ClW3sd8R78ge3K0D8GM6tcLlxYsSBUE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pWh9G617KSd0ClW3sd8R78ge3K0D8GM6tcLlxYsSBUE="
+    }
+  },
+  "version": "1.5.1"
+}

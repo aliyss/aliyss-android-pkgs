@@ -1,0 +1,9 @@
+{
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i4/3mKpNlRXsEkQbpvhfw4Qs4CsmqQ9Iq5F/MOdyFYg="
+    }
+  },
+  "version": "8.22.2"
+}

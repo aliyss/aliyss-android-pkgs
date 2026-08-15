@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jarsilio.android.scrambledeggsif_84.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MZ0SATotpTDSKremvXb/wUcvEtF+JDgkcikHcd20OlM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MZ0SATotpTDSKremvXb/wUcvEtF+JDgkcikHcd20OlM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MZ0SATotpTDSKremvXb/wUcvEtF+JDgkcikHcd20OlM="
+    }
+  },
+  "version": "1.7.21"
+}

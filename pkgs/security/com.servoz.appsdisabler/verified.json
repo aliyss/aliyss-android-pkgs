@@ -1,0 +1,8 @@
+{
+  "package": "com.servoz.appsdisabler",
+  "signerFingerprints": [
+    "95:96:47:A1:78:EC:DA:D7:2C:9E:A5:1E:F6:CC:B8:AF:C7:22:FE:93:CB:D5:BC:F8:3B:27:80:8D:1B:9C:19:DD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

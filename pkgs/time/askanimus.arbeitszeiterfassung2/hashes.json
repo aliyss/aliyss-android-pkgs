@@ -1,0 +1,18 @@
+{
+  "apkName": "askanimus.arbeitszeiterfassung2_211012.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-C9r7gj3wz5p9EkAfL9hyNyfEBHg4pemniQ9itPI7wSo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C9r7gj3wz5p9EkAfL9hyNyfEBHg4pemniQ9itPI7wSo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C9r7gj3wz5p9EkAfL9hyNyfEBHg4pemniQ9itPI7wSo="
+    }
+  },
+  "version": "2.11.012"
+}

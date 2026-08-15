@@ -1,0 +1,8 @@
+{
+  "package": "com.folio.reader",
+  "signerFingerprints": [
+    "51:F8:A3:A0:E3:45:27:25:BE:73:23:15:8C:15:F1:C3:34:29:B3:F6:07:68:3E:E3:10:C9:DA:40:CC:A0:00:56"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

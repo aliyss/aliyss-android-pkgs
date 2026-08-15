@@ -1,0 +1,18 @@
+{
+  "apkName": "net.kollnig.greasemilkyway_26033101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qkdJBoIb9EwSihEY1/8EN85ljlJg0+zZWFUQCBt5h7g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qkdJBoIb9EwSihEY1/8EN85ljlJg0+zZWFUQCBt5h7g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qkdJBoIb9EwSihEY1/8EN85ljlJg0+zZWFUQCBt5h7g="
+    }
+  },
+  "version": "0.9.1"
+}

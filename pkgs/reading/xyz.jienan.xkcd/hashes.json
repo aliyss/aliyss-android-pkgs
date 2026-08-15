@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.jienan.xkcd_77.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vy/iOAsqn2ZtP+IRDYm2FSYtf7UpD/kDlZp5/+9gw9Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vy/iOAsqn2ZtP+IRDYm2FSYtf7UpD/kDlZp5/+9gw9Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vy/iOAsqn2ZtP+IRDYm2FSYtf7UpD/kDlZp5/+9gw9Y="
+    }
+  },
+  "version": "2.8.3"
+}

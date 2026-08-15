@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dosse.airpods_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H4pve48Jqv3itktJu8TgTndQG29o/TcVl7GHK5+MVxc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H4pve48Jqv3itktJu8TgTndQG29o/TcVl7GHK5+MVxc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H4pve48Jqv3itktJu8TgTndQG29o/TcVl7GHK5+MVxc="
+    }
+  },
+  "version": "1.11"
+}

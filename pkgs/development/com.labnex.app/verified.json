@@ -1,0 +1,8 @@
+{
+  "package": "com.labnex.app",
+  "signerFingerprints": [
+    "83:67:35:87:6C:49:7D:40:C8:12:67:34:2A:59:61:BE:0A:60:40:F5:4F:6A:28:9B:B3:C8:45:C3:97:24:B4:05"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

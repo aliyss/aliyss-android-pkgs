@@ -1,0 +1,8 @@
+{
+  "package": "com.starry.myne",
+  "signerFingerprints": [
+    "5D:FE:06:DA:0F:E3:B0:81:3F:3F:3D:C5:30:56:99:C2:DB:B9:DF:DB:AB:13:49:DA:7C:41:C5:9D:2F:CF:31:9C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

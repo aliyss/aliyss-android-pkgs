@@ -1,0 +1,18 @@
+{
+  "apkName": "io.oopquizz.oopquiz_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BuiasRH383ZRrhqQKyv8ksFmQnk99d57TOYBBpc6FDQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BuiasRH383ZRrhqQKyv8ksFmQnk99d57TOYBBpc6FDQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BuiasRH383ZRrhqQKyv8ksFmQnk99d57TOYBBpc6FDQ="
+    }
+  },
+  "version": "1.0.0"
+}

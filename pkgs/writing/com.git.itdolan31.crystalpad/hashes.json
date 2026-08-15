@@ -1,0 +1,18 @@
+{
+  "apkName": "com.git.itdolan31.crystalpad_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+AE0VfTlNtdMz7W6XrV7A/vRbPj5ZmTSONnGnGbkZdc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+AE0VfTlNtdMz7W6XrV7A/vRbPj5ZmTSONnGnGbkZdc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+AE0VfTlNtdMz7W6XrV7A/vRbPj5ZmTSONnGnGbkZdc="
+    }
+  },
+  "version": "1.6.1"
+}

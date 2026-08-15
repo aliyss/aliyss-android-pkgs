@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.shorty_116.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-D7Anw7Q28LM11sc5dTn8vyX9aDaIyJOp1JT/Q+DB9LM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D7Anw7Q28LM11sc5dTn8vyX9aDaIyJOp1JT/Q+DB9LM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D7Anw7Q28LM11sc5dTn8vyX9aDaIyJOp1JT/Q+DB9LM="
+    }
+  },
+  "version": "1.16"
+}

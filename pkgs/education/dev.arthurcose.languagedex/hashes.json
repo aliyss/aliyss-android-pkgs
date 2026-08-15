@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.arthurcose.languagedex_58.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6OGlxnrQQ+IEZjj7icOO52/rJM9AWxYSdApIr8E5b9g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6OGlxnrQQ+IEZjj7icOO52/rJM9AWxYSdApIr8E5b9g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6OGlxnrQQ+IEZjj7icOO52/rJM9AWxYSdApIr8E5b9g="
+    }
+  },
+  "version": "0.29.6"
+}

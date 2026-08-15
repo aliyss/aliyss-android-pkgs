@@ -1,0 +1,8 @@
+{
+  "package": "com.hzy.p7zip.app",
+  "signerFingerprints": [
+    "5F:6B:AF:10:35:7E:43:73:9E:56:60:92:DB:E0:01:FD:9A:DA:B8:C7:D7:EB:D0:4E:1D:FC:76:5D:FD:FE:6B:03"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

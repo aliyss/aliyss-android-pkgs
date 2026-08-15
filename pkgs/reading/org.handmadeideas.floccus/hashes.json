@@ -1,0 +1,18 @@
+{
+  "apkName": "org.handmadeideas.floccus_5010002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hGqow7hy7PQdkxyVrh1e5hEoAEuLP2Iq/2g6ger4Ud4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hGqow7hy7PQdkxyVrh1e5hEoAEuLP2Iq/2g6ger4Ud4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hGqow7hy7PQdkxyVrh1e5hEoAEuLP2Iq/2g6ger4Ud4="
+    }
+  },
+  "version": "5.10.2"
+}

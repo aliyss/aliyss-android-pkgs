@@ -1,0 +1,8 @@
+{
+  "package": "eu.basicairdata.graziano.gpslogger",
+  "signerFingerprints": [
+    "7C:4D:9C:5E:07:97:1E:62:C3:F5:60:A7:B2:65:ED:39:9C:F6:D7:00:17:FC:96:FF:22:86:C7:99:5E:C9:E3:64"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

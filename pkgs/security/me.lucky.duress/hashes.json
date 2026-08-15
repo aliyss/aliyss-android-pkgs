@@ -1,0 +1,18 @@
+{
+  "apkName": "me.lucky.duress_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3AQebmL6CmxHYVwyk1zg9be/zLCJBoXGbKRKhNaUVxI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3AQebmL6CmxHYVwyk1zg9be/zLCJBoXGbKRKhNaUVxI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3AQebmL6CmxHYVwyk1zg9be/zLCJBoXGbKRKhNaUVxI="
+    }
+  },
+  "version": "1.0.11"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "helium314.localbackend",
+  "signerFingerprints": [
+    "AD:64:E1:02:82:EF:43:8F:23:A9:16:61:58:2A:A7:13:FC:47:84:11:B7:8A:77:2C:B5:C0:B3:9E:76:91:00:EB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

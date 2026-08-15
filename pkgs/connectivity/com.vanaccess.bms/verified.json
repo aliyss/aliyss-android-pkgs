@@ -1,0 +1,8 @@
+{
+  "package": "com.vanaccess.bms",
+  "signerFingerprints": [
+    "9E:27:B7:B3:72:1A:D0:B1:0C:3B:BC:9F:55:64:65:3B:FC:8B:15:68:64:DA:6C:17:99:31:4C:79:7D:4B:D4:BC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

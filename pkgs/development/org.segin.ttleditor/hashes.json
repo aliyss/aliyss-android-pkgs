@@ -1,0 +1,18 @@
+{
+  "apkName": "org.segin.ttleditor_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H70ct7/jqnQLbfdrCI+wL7U6XTHNBOAUixXau64pw78="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H70ct7/jqnQLbfdrCI+wL7U6XTHNBOAUixXau64pw78="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H70ct7/jqnQLbfdrCI+wL7U6XTHNBOAUixXau64pw78="
+    }
+  },
+  "version": "1.0.15"
+}

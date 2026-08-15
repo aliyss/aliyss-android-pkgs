@@ -1,0 +1,8 @@
+{
+  "package": "com.alexkang.loopboard",
+  "signerFingerprints": [
+    "E8:FA:0F:97:1E:29:57:A0:B1:93:EA:A9:6F:C5:98:AA:13:B2:9F:DD:62:69:CD:A8:F9:47:C6:76:E7:F5:10:B4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.tadris.fitness_1620.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bZe9S47onx+xJb9sAXDbyL+LU1b7DD+USuqu5CYhy3E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bZe9S47onx+xJb9sAXDbyL+LU1b7DD+USuqu5CYhy3E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bZe9S47onx+xJb9sAXDbyL+LU1b7DD+USuqu5CYhy3E="
+    }
+  },
+  "version": "16.2"
+}

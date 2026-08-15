@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.anilbeesetti.nextplayer_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VG6RYuGv1AxJA1n5T9StsFgpfuTWF/YXNWRfwLWK99Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VG6RYuGv1AxJA1n5T9StsFgpfuTWF/YXNWRfwLWK99Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VG6RYuGv1AxJA1n5T9StsFgpfuTWF/YXNWRfwLWK99Y="
+    }
+  },
+  "version": "0.14.1"
+}

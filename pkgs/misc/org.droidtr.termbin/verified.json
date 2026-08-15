@@ -1,0 +1,8 @@
+{
+  "package": "org.droidtr.termbin",
+  "signerFingerprints": [
+    "79:0A:51:4B:80:21:EA:25:F0:8E:8A:7D:01:4C:96:E1:E7:A3:CF:6D:01:6C:51:13:E3:E8:C5:9A:AE:A8:11:46"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

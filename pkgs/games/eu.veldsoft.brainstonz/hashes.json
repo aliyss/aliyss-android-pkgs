@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.brainstonz_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qHxmLghrLg0pfwCY62ANNcNs3JMkJECHhwJZJiOGSzw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qHxmLghrLg0pfwCY62ANNcNs3JMkJECHhwJZJiOGSzw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qHxmLghrLg0pfwCY62ANNcNs3JMkJECHhwJZJiOGSzw="
+    }
+  },
+  "version": "v2.0.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.deepanjanxyz.notepad",
+  "signerFingerprints": [
+    "E4:99:5A:CE:98:1E:95:53:C4:93:A7:68:B1:9D:BC:E4:4D:66:BC:F2:75:A9:40:50:27:E3:CF:34:32:4C:AC:FD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

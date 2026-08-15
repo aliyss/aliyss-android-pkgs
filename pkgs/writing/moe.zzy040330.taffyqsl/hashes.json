@@ -1,0 +1,18 @@
+{
+  "apkName": "moe.zzy040330.taffyqsl_20260302.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Pz3+Wnd5CGG9Z3r9YTbcDvZD3X/c0PCVhGI70k+icWw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pz3+Wnd5CGG9Z3r9YTbcDvZD3X/c0PCVhGI70k+icWw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pz3+Wnd5CGG9Z3r9YTbcDvZD3X/c0PCVhGI70k+icWw="
+    }
+  },
+  "version": "2026-SpringBlossom-b"
+}

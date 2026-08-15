@@ -1,0 +1,18 @@
+{
+  "apkName": "com.blazecode.tsviewer_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JNycdurSo/jWAQufFnfhxerzfycrHmgTV9+Hxlo7fWM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JNycdurSo/jWAQufFnfhxerzfycrHmgTV9+Hxlo7fWM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JNycdurSo/jWAQufFnfhxerzfycrHmgTV9+Hxlo7fWM="
+    }
+  },
+  "version": "2.1.0-foss"
+}

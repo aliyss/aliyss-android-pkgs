@@ -1,0 +1,18 @@
+{
+  "apkName": "com.perflyst.twire_538.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZEnXqXYCJONBDnUTpmnP6FPhuH+rdsodG6+JhpCfBP4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZEnXqXYCJONBDnUTpmnP6FPhuH+rdsodG6+JhpCfBP4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZEnXqXYCJONBDnUTpmnP6FPhuH+rdsodG6+JhpCfBP4="
+    }
+  },
+  "version": "2.12.3"
+}

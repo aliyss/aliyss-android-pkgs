@@ -1,0 +1,18 @@
+{
+  "apkName": "info.schnatterer.nusic_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DILKFzU6TCFS9AwIIWlECAbIxlHKnsY6EEw1BT5wB0k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DILKFzU6TCFS9AwIIWlECAbIxlHKnsY6EEw1BT5wB0k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DILKFzU6TCFS9AwIIWlECAbIxlHKnsY6EEw1BT5wB0k="
+    }
+  },
+  "version": "3.3.3"
+}

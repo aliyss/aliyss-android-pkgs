@@ -1,0 +1,8 @@
+{
+  "package": "org.solovyev.android.calculator",
+  "signerFingerprints": [
+    "62:A8:A1:40:41:EA:1C:7A:77:60:61:7C:37:82:AD:E6:51:DD:F4:41:4F:63:E8:FD:4B:D2:78:DF:0E:6B:A2:10"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

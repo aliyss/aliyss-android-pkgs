@@ -1,0 +1,8 @@
+{
+  "package": "com.clicc",
+  "signerFingerprints": [
+    "35:CE:DD:9F:22:EE:44:58:7D:9D:25:3F:28:4B:48:7A:81:F9:B8:A7:2F:0F:57:B4:FC:2C:13:CB:00:8C:BB:BF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

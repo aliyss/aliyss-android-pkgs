@@ -1,0 +1,8 @@
+{
+  "package": "org.exbin.bined.editor.android",
+  "signerFingerprints": [
+    "82:CF:99:8B:AE:CB:F6:BA:C9:2C:47:62:7B:06:C3:52:A7:26:1C:C0:84:0F:DC:BD:E1:39:49:44:E9:4B:A9:46"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

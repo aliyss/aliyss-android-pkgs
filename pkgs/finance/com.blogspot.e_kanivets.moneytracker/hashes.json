@@ -1,0 +1,18 @@
+{
+  "apkName": "com.blogspot.e_kanivets.moneytracker_46.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+vaJGTr189uUAJETLwY5EzMRROY8JY3KbSchanOuUMM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+vaJGTr189uUAJETLwY5EzMRROY8JY3KbSchanOuUMM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+vaJGTr189uUAJETLwY5EzMRROY8JY3KbSchanOuUMM="
+    }
+  },
+  "version": "2.3.0"
+}

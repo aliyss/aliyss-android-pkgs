@@ -1,0 +1,8 @@
+{
+  "package": "com.github.saikcaskey.pokertracker",
+  "signerFingerprints": [
+    "BE:A3:D1:6B:26:EE:64:F0:FF:51:B2:C2:A6:19:C9:77:6D:5E:59:05:D8:34:83:2E:0D:F2:66:EF:B6:25:24:67"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "de.c3nav.droid",
+  "signerFingerprints": [
+    "DB:5C:28:58:00:64:5C:EE:47:8E:4E:D0:F7:F7:6C:D5:4F:A8:01:94:9B:63:DB:BA:E2:2D:7B:4E:57:48:3E:F4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

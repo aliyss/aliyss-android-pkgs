@@ -1,0 +1,18 @@
+{
+  "apkName": "saschpe.poker_170127.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gfdC0E2Tw4YUgv4E1x+Mwd7IQalP11tr2qVvyQhW/vs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gfdC0E2Tw4YUgv4E1x+Mwd7IQalP11tr2qVvyQhW/vs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gfdC0E2Tw4YUgv4E1x+Mwd7IQalP11tr2qVvyQhW/vs="
+    }
+  },
+  "version": "1.2.7"
+}

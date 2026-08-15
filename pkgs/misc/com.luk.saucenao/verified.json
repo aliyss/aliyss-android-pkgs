@@ -1,0 +1,8 @@
+{
+  "package": "com.luk.saucenao",
+  "signerFingerprints": [
+    "90:37:7D:AD:DC:0C:B3:01:4A:12:DF:0F:E3:02:13:BB:69:E1:22:37:59:D3:A8:BE:31:3D:F4:CD:33:FE:B8:8D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

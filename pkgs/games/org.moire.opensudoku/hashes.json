@@ -1,0 +1,18 @@
+{
+  "apkName": "org.moire.opensudoku_20260625.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O+CSWLOn2M6jKufgSUTQnkYD6y/zQPUnuvHNaImbbsk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O+CSWLOn2M6jKufgSUTQnkYD6y/zQPUnuvHNaImbbsk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O+CSWLOn2M6jKufgSUTQnkYD6y/zQPUnuvHNaImbbsk="
+    }
+  },
+  "version": "4.7.0"
+}

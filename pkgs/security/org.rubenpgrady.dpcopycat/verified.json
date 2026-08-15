@@ -1,0 +1,8 @@
+{
+  "package": "org.rubenpgrady.dpcopycat",
+  "signerFingerprints": [
+    "0A:1B:6C:FC:79:8C:B5:41:27:7E:88:1F:E9:F8:84:D8:F6:8F:EB:67:B8:D7:28:AF:67:FE:6D:BC:32:A3:95:35"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

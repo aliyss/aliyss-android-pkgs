@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rama.teyin_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jSacyWLh9qftRUQHt2s13sAS998tvj2Rrg4uulS1uiQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jSacyWLh9qftRUQHt2s13sAS998tvj2Rrg4uulS1uiQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jSacyWLh9qftRUQHt2s13sAS998tvj2Rrg4uulS1uiQ="
+    }
+  },
+  "version": "2026.6"
+}

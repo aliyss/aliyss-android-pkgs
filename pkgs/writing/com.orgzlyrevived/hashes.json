@@ -1,0 +1,18 @@
+{
+  "apkName": "com.orgzlyrevived_288.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hhMmfVng+DZpXKG/PsXjeHy3TXa7liN1E9RHMXdgvD0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hhMmfVng+DZpXKG/PsXjeHy3TXa7liN1E9RHMXdgvD0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hhMmfVng+DZpXKG/PsXjeHy3TXa7liN1E9RHMXdgvD0="
+    }
+  },
+  "version": "1.22.0"
+}

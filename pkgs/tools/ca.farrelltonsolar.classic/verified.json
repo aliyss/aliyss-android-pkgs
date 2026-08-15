@@ -1,0 +1,8 @@
+{
+  "package": "ca.farrelltonsolar.classic",
+  "signerFingerprints": [
+    "93:84:F6:EA:BF:DD:86:63:7C:B6:98:80:E4:39:AD:7D:97:AF:A4:08:49:79:B0:D4:79:15:53:20:83:7F:36:CD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

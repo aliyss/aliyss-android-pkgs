@@ -1,0 +1,8 @@
+{
+  "package": "com.bote.app",
+  "signerFingerprints": [
+    "B7:42:13:89:0F:52:E8:16:AD:6A:67:34:88:75:29:B7:F2:C8:ED:B7:DA:09:E1:10:F6:20:36:9A:5A:CF:A9:63"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

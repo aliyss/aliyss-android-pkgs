@@ -1,0 +1,18 @@
+{
+  "apkName": "green_green_avk.anothertermshellplugin_android10essentials_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8zazPz5nJ/iOJ9LB2sjazq4Ds2x14SAbfn5/9LaHGhI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8zazPz5nJ/iOJ9LB2sjazq4Ds2x14SAbfn5/9LaHGhI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8zazPz5nJ/iOJ9LB2sjazq4Ds2x14SAbfn5/9LaHGhI="
+    }
+  },
+  "version": "1.10"
+}

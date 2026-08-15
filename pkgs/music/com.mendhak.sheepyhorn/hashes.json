@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mendhak.sheepyhorn_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QzDv09r4uiLkYdyq4O0BdBgyMEX0PHFTe4XAO3dC0Rg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QzDv09r4uiLkYdyq4O0BdBgyMEX0PHFTe4XAO3dC0Rg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QzDv09r4uiLkYdyq4O0BdBgyMEX0PHFTe4XAO3dC0Rg="
+    }
+  },
+  "version": "5"
+}

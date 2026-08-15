@@ -1,0 +1,8 @@
+{
+  "package": "org.schabi.terminightor",
+  "signerFingerprints": [
+    "01:6E:CA:37:0E:DB:51:D3:13:EE:F6:08:1B:D8:D5:39:26:80:B0:31:72:3F:0D:AA:A1:FD:50:2E:FA:43:97:94"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

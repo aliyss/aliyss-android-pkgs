@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.rc3.schedule_91.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Sw7sYJjGZBPZlRTggdKJLlNReT5P6KOSIVHmmxuORJQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Sw7sYJjGZBPZlRTggdKJLlNReT5P6KOSIVHmmxuORJQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Sw7sYJjGZBPZlRTggdKJLlNReT5P6KOSIVHmmxuORJQ="
+    }
+  },
+  "version": "1.56.1-JEV-Edition"
+}

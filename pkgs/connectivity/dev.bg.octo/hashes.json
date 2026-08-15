@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.bg.octo_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DzkdUS5EHp6ebihJXSsum+b/t33fzChTyaxnys+pQds="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DzkdUS5EHp6ebihJXSsum+b/t33fzChTyaxnys+pQds="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DzkdUS5EHp6ebihJXSsum+b/t33fzChTyaxnys+pQds="
+    }
+  },
+  "version": "1.2.1"
+}

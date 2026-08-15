@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.rafareborn.biometricbypass_201.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ycF2Ap61YuxoxltlaC5Ly9WlbuVbO5Hu5h2ltAfhwr4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ycF2Ap61YuxoxltlaC5Ly9WlbuVbO5Hu5h2ltAfhwr4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ycF2Ap61YuxoxltlaC5Ly9WlbuVbO5Hu5h2ltAfhwr4="
+    }
+  },
+  "version": "2.0.1"
+}

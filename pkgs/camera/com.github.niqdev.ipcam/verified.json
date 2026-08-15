@@ -1,0 +1,8 @@
+{
+  "package": "com.github.niqdev.ipcam",
+  "signerFingerprints": [
+    "E2:AC:22:81:49:A5:87:8C:57:36:93:E7:EF:0D:F4:C1:F8:3B:EA:F7:06:20:47:71:7A:10:C6:94:43:48:73:2D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "dev.leonlatsch.photok",
+  "signerFingerprints": [
+    "80:66:F8:E4:D1:C6:51:D2:6E:A6:0D:47:79:E0:CC:CE:90:B6:6B:CD:1B:47:95:85:2A:8E:FE:E2:32:F0:17:4A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

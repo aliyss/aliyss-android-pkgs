@@ -1,0 +1,18 @@
+{
+  "apkName": "app.areada_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4WPlsA+gna4zly2y4nd3OuygA6u6KZz7rA4elEWH190="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4WPlsA+gna4zly2y4nd3OuygA6u6KZz7rA4elEWH190="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4WPlsA+gna4zly2y4nd3OuygA6u6KZz7rA4elEWH190="
+    }
+  },
+  "version": "1.1.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.nowipass",
+  "signerFingerprints": [
+    "D7:DD:17:AC:DB:3A:2D:8B:57:D3:70:47:5F:E0:2E:79:01:FA:AF:3E:4D:24:C1:9B:A2:14:C0:F9:F0:68:F7:7B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

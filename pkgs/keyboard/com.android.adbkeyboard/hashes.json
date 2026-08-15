@@ -1,0 +1,18 @@
+{
+  "apkName": "com.android.adbkeyboard_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+URv09f3dadk6w32lraBmn86Tqhb0XhxhVhI73LWuyE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+URv09f3dadk6w32lraBmn86Tqhb0XhxhVhI73LWuyE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+URv09f3dadk6w32lraBmn86Tqhb0XhxhVhI73LWuyE="
+    }
+  },
+  "version": "2.0"
+}

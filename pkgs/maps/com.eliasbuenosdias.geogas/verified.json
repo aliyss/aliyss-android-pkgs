@@ -1,0 +1,8 @@
+{
+  "package": "com.eliasbuenosdias.geogas",
+  "signerFingerprints": [
+    "1D:D1:C0:AC:17:D1:90:6D:8F:77:02:49:81:BC:5C:D8:19:2F:76:41:C9:B8:8C:9C:1C:24:55:ED:30:B5:94:2B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "net.tigr.soulcalc",
+  "signerFingerprints": [
+    "20:F7:60:AC:98:CB:3E:CC:6B:6C:2B:3B:B7:47:F3:D9:82:05:8E:59:1D:53:01:C2:6D:D7:11:1F:B7:4F:03:8C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

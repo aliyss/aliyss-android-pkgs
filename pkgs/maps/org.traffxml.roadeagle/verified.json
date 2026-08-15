@@ -1,0 +1,8 @@
+{
+  "package": "org.traffxml.roadeagle",
+  "signerFingerprints": [
+    "E8:DC:28:C6:53:8A:33:96:E5:5B:F2:C4:67:42:14:8D:38:A5:70:ED:5B:D7:EF:27:B5:37:98:29:E1:84:5D:0B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

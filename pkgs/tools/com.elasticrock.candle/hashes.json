@@ -1,0 +1,18 @@
+{
+  "apkName": "com.elasticrock.candle_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0M9S1pMRziujkcgVCGz13ekd5ZbQ6HLFSmdcCNMU+0Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0M9S1pMRziujkcgVCGz13ekd5ZbQ6HLFSmdcCNMU+0Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0M9S1pMRziujkcgVCGz13ekd5ZbQ6HLFSmdcCNMU+0Q="
+    }
+  },
+  "version": "1.7.1"
+}

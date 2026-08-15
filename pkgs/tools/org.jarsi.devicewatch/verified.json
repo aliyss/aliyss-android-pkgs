@@ -1,0 +1,8 @@
+{
+  "package": "org.jarsi.devicewatch",
+  "signerFingerprints": [
+    "A7:87:D3:BE:1F:A4:D5:87:51:E2:46:DB:A9:B8:F1:DE:D5:B6:A0:0A:B2:67:53:67:BF:49:42:09:28:E1:A5:1A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

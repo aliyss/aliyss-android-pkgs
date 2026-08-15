@@ -1,0 +1,8 @@
+{
+  "package": "fr.jnda.android.flashalert",
+  "signerFingerprints": [
+    "C2:99:EB:21:3C:CD:7D:D4:54:FD:6F:C2:36:95:70:FC:D3:5E:24:FE:2D:A8:DF:3E:C2:89:14:00:40:2A:9A:83"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

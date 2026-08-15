@@ -1,0 +1,8 @@
+{
+  "package": "com.github.ktsr42.rsyncserver",
+  "signerFingerprints": [
+    "9F:B4:CB:05:D1:67:88:46:5D:06:F4:A3:10:99:A0:6E:F1:2F:91:01:7E:77:38:99:FB:1B:52:E5:C2:E1:76:7E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

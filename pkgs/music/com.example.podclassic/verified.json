@@ -1,0 +1,8 @@
+{
+  "package": "com.example.podclassic",
+  "signerFingerprints": [
+    "A9:28:B6:AE:A6:29:D0:3A:5E:F8:43:BC:E1:49:41:BA:32:50:43:19:B7:8E:81:B3:34:4E:9E:59:7A:7A:92:93"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

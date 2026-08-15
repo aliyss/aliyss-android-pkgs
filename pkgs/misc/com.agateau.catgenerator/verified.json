@@ -1,0 +1,8 @@
+{
+  "package": "com.agateau.catgenerator",
+  "signerFingerprints": [
+    "BD:48:F9:03:D6:6D:66:3F:63:DA:3E:2A:F5:0F:B4:F6:B9:47:5B:F7:AF:EA:F0:86:5C:29:D1:7E:76:25:E9:BD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

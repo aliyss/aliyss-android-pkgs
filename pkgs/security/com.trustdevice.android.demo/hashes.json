@@ -1,0 +1,18 @@
+{
+  "apkName": "com.trustdevice.android.demo_115.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-x3zA25wUiQxrY9YwOOmG+sVVvLKPzE95g8DHoFKORp0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x3zA25wUiQxrY9YwOOmG+sVVvLKPzE95g8DHoFKORp0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x3zA25wUiQxrY9YwOOmG+sVVvLKPzE95g8DHoFKORp0="
+    }
+  },
+  "version": "1.1.5"
+}

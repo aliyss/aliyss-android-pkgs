@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.quillpad_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/UsbOBSYPaKuRPLR8OKFVZJnCUX2SFwEpVEKULtdiME="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/UsbOBSYPaKuRPLR8OKFVZJnCUX2SFwEpVEKULtdiME="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/UsbOBSYPaKuRPLR8OKFVZJnCUX2SFwEpVEKULtdiME="
+    }
+  },
+  "version": "1.5.12"
+}

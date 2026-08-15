@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hmdm.launcher_15360.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vYVWcqougUpU87670Rs/X7M8Z+6wBfkVMpZh5XrmxUM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vYVWcqougUpU87670Rs/X7M8Z+6wBfkVMpZh5XrmxUM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vYVWcqougUpU87670Rs/X7M8Z+6wBfkVMpZh5XrmxUM="
+    }
+  },
+  "version": "6.36"
+}

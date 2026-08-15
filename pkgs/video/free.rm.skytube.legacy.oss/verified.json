@@ -1,0 +1,8 @@
+{
+  "package": "free.rm.skytube.legacy.oss",
+  "signerFingerprints": [
+    "7E:CB:69:BA:3D:F4:2E:9E:83:26:4A:E0:E7:38:0A:F1:9D:A8:95:18:8B:FB:3C:75:8E:11:81:A3:CD:CF:42:21"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

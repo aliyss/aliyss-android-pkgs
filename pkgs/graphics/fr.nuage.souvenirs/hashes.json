@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.nuage.souvenirs_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/qCVXt8C9n7JZfCSPfnJzsrBBM4XfN3DF7Bfm3ecm7I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/qCVXt8C9n7JZfCSPfnJzsrBBM4XfN3DF7Bfm3ecm7I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/qCVXt8C9n7JZfCSPfnJzsrBBM4XfN3DF7Bfm3ecm7I="
+    }
+  },
+  "version": "3.0.1"
+}

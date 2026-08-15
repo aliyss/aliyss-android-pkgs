@@ -1,0 +1,18 @@
+{
+  "apkName": "com.smartpack.kernelmanager_177.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AQPEDGClZa1twAuPcANkezlxanzmQ8KqhfQ6f6gMm+o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AQPEDGClZa1twAuPcANkezlxanzmQ8KqhfQ6f6gMm+o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AQPEDGClZa1twAuPcANkezlxanzmQ8KqhfQ6f6gMm+o="
+    }
+  },
+  "version": "v17.7"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "net.i2p.android.router",
+  "signerFingerprints": [
+    "2A:05:7A:72:D5:6C:E0:11:3A:FC:63:EF:86:E6:6F:A4:06:A2:5C:00:DF:FE:35:BD:AD:83:CE:60:70:A7:1A:B6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

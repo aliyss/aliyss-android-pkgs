@@ -1,0 +1,8 @@
+{
+  "package": "com.mahmoudrh.roomxml",
+  "signerFingerprints": [
+    "B9:38:39:FB:30:60:38:98:F8:F0:77:5E:39:4E:F9:57:B3:2F:46:E0:84:44:2F:06:31:21:CA:45:57:0A:EE:D6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kromke.andreas.opus1musicplayer_77.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RA88myYKRmbErAJ5R7++TGc3OaqTMBemVmxySChV6iw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RA88myYKRmbErAJ5R7++TGc3OaqTMBemVmxySChV6iw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RA88myYKRmbErAJ5R7++TGc3OaqTMBemVmxySChV6iw="
+    }
+  },
+  "version": "2.66"
+}

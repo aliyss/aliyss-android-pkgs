@@ -1,0 +1,8 @@
+{
+  "package": "com.thirtydegreesray.openhub",
+  "signerFingerprints": [
+    "61:E6:C2:6A:74:62:E6:50:A5:BB:8D:1B:16:49:42:96:3A:51:D0:84:E2:8B:8F:01:30:6D:D4:F3:A9:0B:9B:D6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

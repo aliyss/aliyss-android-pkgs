@@ -1,0 +1,18 @@
+{
+  "apkName": "yetzio.yetcalc_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-azK/c9rFRAVYAm4CLkHoGp/s2sUiFbCWbtScnJ4CdM4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-azK/c9rFRAVYAm4CLkHoGp/s2sUiFbCWbtScnJ4CdM4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-azK/c9rFRAVYAm4CLkHoGp/s2sUiFbCWbtScnJ4CdM4="
+    }
+  },
+  "version": "2.0.8"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "me.murks.feedwatcher_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VnlTvh15viFugPPMKo/Cq4xIJD+FG0oCbRxqOE8C31Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VnlTvh15viFugPPMKo/Cq4xIJD+FG0oCbRxqOE8C31Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VnlTvh15viFugPPMKo/Cq4xIJD+FG0oCbRxqOE8C31Q="
+    }
+  },
+  "version": "0.0.27-alpha"
+}

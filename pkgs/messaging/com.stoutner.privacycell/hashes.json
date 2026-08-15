@@ -1,0 +1,18 @@
+{
+  "apkName": "com.stoutner.privacycell_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mUT1KAr5ZHCDdYVLoTIgeI7KaJgcYxdVIihjmXzfLMU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mUT1KAr5ZHCDdYVLoTIgeI7KaJgcYxdVIihjmXzfLMU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mUT1KAr5ZHCDdYVLoTIgeI7KaJgcYxdVIihjmXzfLMU="
+    }
+  },
+  "version": "1.12.2"
+}

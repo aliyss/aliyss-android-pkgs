@@ -1,0 +1,8 @@
+{
+  "package": "org.therapiefinder",
+  "signerFingerprints": [
+    "48:61:1A:D2:5F:85:FD:90:15:A8:2C:CB:B8:A7:13:0C:5A:99:08:E4:91:1F:EB:6E:CC:EE:4C:B9:07:B0:5C:53"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

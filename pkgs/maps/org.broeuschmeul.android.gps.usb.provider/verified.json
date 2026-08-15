@@ -1,0 +1,8 @@
+{
+  "package": "org.broeuschmeul.android.gps.usb.provider",
+  "signerFingerprints": [
+    "02:B9:91:69:1F:57:70:39:49:B2:18:92:A4:4B:C2:47:C9:A6:18:EB:AF:DC:91:88:3D:3A:3A:1C:44:0D:D6:C3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

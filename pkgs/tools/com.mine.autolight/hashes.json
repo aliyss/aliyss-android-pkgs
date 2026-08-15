@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mine.autolight_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H/mwP5o0l5yDs3qnV35ZENkCeORCIQFcsOXmAPNVv64="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H/mwP5o0l5yDs3qnV35ZENkCeORCIQFcsOXmAPNVv64="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H/mwP5o0l5yDs3qnV35ZENkCeORCIQFcsOXmAPNVv64="
+    }
+  },
+  "version": "2.15"
+}

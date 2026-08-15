@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlypasswordgenerator",
+  "signerFingerprints": [
+    "A3:79:CC:64:D5:E9:0D:88:A6:9C:58:11:3B:F9:67:32:B3:E1:38:9D:A6:23:E5:74:70:42:22:31:06:53:A9:94"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

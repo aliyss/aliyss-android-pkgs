@@ -1,0 +1,8 @@
+{
+  "package": "com.k3.psaux",
+  "signerFingerprints": [
+    "63:08:76:A1:59:82:AC:3C:5A:A2:F9:EE:9B:49:82:46:F9:F5:5D:29:CD:0E:7C:7C:E4:65:04:D8:20:BA:6E:78"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

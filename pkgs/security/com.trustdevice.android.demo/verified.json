@@ -1,0 +1,8 @@
+{
+  "package": "com.trustdevice.android.demo",
+  "signerFingerprints": [
+    "31:EF:11:B9:CB:3B:56:EA:0F:CC:47:B4:ED:4F:91:58:1B:73:8B:4F:17:C0:74:BF:4D:71:60:31:88:B8:D3:72"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

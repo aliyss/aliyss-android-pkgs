@@ -1,0 +1,18 @@
+{
+  "apkName": "de.baumann.browser_158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XR/cwVxZGWRfVfEPad2xdV5u8hh/L4KefJGa3yToKpo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XR/cwVxZGWRfVfEPad2xdV5u8hh/L4KefJGa3yToKpo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XR/cwVxZGWRfVfEPad2xdV5u8hh/L4KefJGa3yToKpo="
+    }
+  },
+  "version": "23"
+}

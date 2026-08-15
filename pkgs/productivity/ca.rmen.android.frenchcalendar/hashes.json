@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.rmen.android.frenchcalendar_1182.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xnb5fQQlH0TY5o6cRurLyUiDxhqycfhdMRWNtuOqnOk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xnb5fQQlH0TY5o6cRurLyUiDxhqycfhdMRWNtuOqnOk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xnb5fQQlH0TY5o6cRurLyUiDxhqycfhdMRWNtuOqnOk="
+    }
+  },
+  "version": "1.18.2"
+}

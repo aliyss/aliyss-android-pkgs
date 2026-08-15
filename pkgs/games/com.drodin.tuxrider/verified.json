@@ -1,0 +1,8 @@
+{
+  "package": "com.drodin.tuxrider",
+  "signerFingerprints": [
+    "07:F4:56:D1:20:14:F4:B6:68:99:4D:2F:1D:A1:0C:F4:91:0D:19:D8:AF:20:CD:15:7C:19:E2:CD:7C:5A:5E:BD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

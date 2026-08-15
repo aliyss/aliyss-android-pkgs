@@ -1,0 +1,18 @@
+{
+  "apkName": "com.iatfei.streakalarm_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xzbxd++lLY9SR5RA3JiDk15687mR7qGjif6GYW45M1A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xzbxd++lLY9SR5RA3JiDk15687mR7qGjif6GYW45M1A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xzbxd++lLY9SR5RA3JiDk15687mR7qGjif6GYW45M1A="
+    }
+  },
+  "version": "1.5.0"
+}

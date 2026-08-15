@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tre.openseptamap_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SdVeOPWi3/rgHvlysB8j51+Cq2tQHVa5Hzph0j1JxPQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SdVeOPWi3/rgHvlysB8j51+Cq2tQHVa5Hzph0j1JxPQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SdVeOPWi3/rgHvlysB8j51+Cq2tQHVa5Hzph0j1JxPQ="
+    }
+  },
+  "version": "1.1"
+}

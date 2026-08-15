@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.samotari.paynoway_20100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oevIjs4aMT/8qltriAoxbRpLzU7hvwBzMGtQkzy/wZ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oevIjs4aMT/8qltriAoxbRpLzU7hvwBzMGtQkzy/wZ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oevIjs4aMT/8qltriAoxbRpLzU7hvwBzMGtQkzy/wZ0="
+    }
+  },
+  "version": "2.1.0"
+}

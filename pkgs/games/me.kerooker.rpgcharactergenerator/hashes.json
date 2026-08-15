@@ -1,0 +1,18 @@
+{
+  "apkName": "me.kerooker.rpgcharactergenerator_51103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SSQjJ0Z79l1zXZ1vXmHVkBsmyoJOTDlFnY8iqxaw1QU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SSQjJ0Z79l1zXZ1vXmHVkBsmyoJOTDlFnY8iqxaw1QU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SSQjJ0Z79l1zXZ1vXmHVkBsmyoJOTDlFnY8iqxaw1QU="
+    }
+  },
+  "version": "5.11.3"
+}

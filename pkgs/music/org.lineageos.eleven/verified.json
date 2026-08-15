@@ -1,0 +1,8 @@
+{
+  "package": "org.lineageos.eleven",
+  "signerFingerprints": [
+    "84:34:EB:BE:C1:5E:6B:C6:8B:87:44:B2:50:48:13:7B:A8:AE:26:F4:4C:DF:B9:13:E3:63:D1:C5:4E:FC:6D:12"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

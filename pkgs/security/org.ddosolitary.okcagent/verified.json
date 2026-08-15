@@ -1,0 +1,8 @@
+{
+  "package": "org.ddosolitary.okcagent",
+  "signerFingerprints": [
+    "93:C1:52:51:B2:D4:38:1D:E0:AE:AA:00:0A:A7:26:AE:3F:DC:03:5A:6D:C8:DF:F8:93:4A:67:4F:C0:1E:EA:B5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

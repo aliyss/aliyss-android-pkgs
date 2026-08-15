@@ -1,0 +1,18 @@
+{
+  "apkName": "org.poul.bits.android_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GINkhVAZVdOemlpEMwbhY8BXnxfIGVz5oQiYjM2Wqn8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GINkhVAZVdOemlpEMwbhY8BXnxfIGVz5oQiYjM2Wqn8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GINkhVAZVdOemlpEMwbhY8BXnxfIGVz5oQiYjM2Wqn8="
+    }
+  },
+  "version": "1.3"
+}

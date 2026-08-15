@@ -1,0 +1,18 @@
+{
+  "apkName": "io.davidar.fabularium_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BDsiRGDb9NHkt/e/9tEahhE4QA4N4bDBX+/QZw9yrlk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BDsiRGDb9NHkt/e/9tEahhE4QA4N4bDBX+/QZw9yrlk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BDsiRGDb9NHkt/e/9tEahhE4QA4N4bDBX+/QZw9yrlk="
+    }
+  },
+  "version": "1.5.1"
+}

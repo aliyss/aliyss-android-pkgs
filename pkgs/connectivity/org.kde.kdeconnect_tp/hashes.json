@@ -1,0 +1,18 @@
+{
+  "apkName": "org.kde.kdeconnect_tp_13513.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-h5SccqIrrpfgGc6BzbQUlpmSVMqaU8xmR+qALD1VBvQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h5SccqIrrpfgGc6BzbQUlpmSVMqaU8xmR+qALD1VBvQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h5SccqIrrpfgGc6BzbQUlpmSVMqaU8xmR+qALD1VBvQ="
+    }
+  },
+  "version": "1.35.13"
+}

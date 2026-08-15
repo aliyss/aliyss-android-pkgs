@@ -1,0 +1,18 @@
+{
+  "apkName": "org.softcatala.traductor_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XMCYfIwwr90RIhQt8MLuilWB6jqzK7uFhMXTJqsE/EQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XMCYfIwwr90RIhQt8MLuilWB6jqzK7uFhMXTJqsE/EQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XMCYfIwwr90RIhQt8MLuilWB6jqzK7uFhMXTJqsE/EQ="
+    }
+  },
+  "version": "0.92.2"
+}

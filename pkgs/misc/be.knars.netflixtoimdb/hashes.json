@@ -1,0 +1,18 @@
+{
+  "apkName": "be.knars.netflixtoimdb_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-asgkY96aFR9VZvrZFyA+cE/lVXIdsfK1ewiBZSgN4ZU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-asgkY96aFR9VZvrZFyA+cE/lVXIdsfK1ewiBZSgN4ZU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-asgkY96aFR9VZvrZFyA+cE/lVXIdsfK1ewiBZSgN4ZU="
+    }
+  },
+  "version": "5.1"
+}

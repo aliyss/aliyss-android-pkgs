@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.devhyper.openvideoeditor_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ceM6PM4QSJ9waW0SpSOMN7V2vBqayzrJCLAyMmKAJlQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ceM6PM4QSJ9waW0SpSOMN7V2vBqayzrJCLAyMmKAJlQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ceM6PM4QSJ9waW0SpSOMN7V2vBqayzrJCLAyMmKAJlQ="
+    }
+  },
+  "version": "1.1.3"
+}

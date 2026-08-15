@@ -1,0 +1,18 @@
+{
+  "apkName": "pl.suve.colorful.android_20200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-58z2l44SAiTb1bK/cMYcmV3m4mma8To1fjkOgYVWdd8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-58z2l44SAiTb1bK/cMYcmV3m4mma8To1fjkOgYVWdd8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-58z2l44SAiTb1bK/cMYcmV3m4mma8To1fjkOgYVWdd8="
+    }
+  },
+  "version": "2.2"
+}

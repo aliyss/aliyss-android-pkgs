@@ -1,0 +1,18 @@
+{
+  "apkName": "com.firebirdberlin.nightdream.noGms_348.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ds11kQGhm6NOhP/pIK4t1ya1OylS3aSX9KUzzxCn1mk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ds11kQGhm6NOhP/pIK4t1ya1OylS3aSX9KUzzxCn1mk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ds11kQGhm6NOhP/pIK4t1ya1OylS3aSX9KUzzxCn1mk="
+    }
+  },
+  "version": "2.11.26"
+}

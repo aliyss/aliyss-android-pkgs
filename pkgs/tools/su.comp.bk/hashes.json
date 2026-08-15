@@ -1,0 +1,18 @@
+{
+  "apkName": "su.comp.bk_1002002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RxJAuzb9AYe/H3XUKqE/Upba5iqDpIxhCLaQaA+Q7oA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RxJAuzb9AYe/H3XUKqE/Upba5iqDpIxhCLaQaA+Q7oA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RxJAuzb9AYe/H3XUKqE/Upba5iqDpIxhCLaQaA+Q7oA="
+    }
+  },
+  "version": "1.2.2"
+}

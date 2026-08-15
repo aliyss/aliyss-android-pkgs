@@ -1,0 +1,18 @@
+{
+  "apkName": "org.develz.crawl_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GwdF1nVey6/ocI+hO4u36f/cBZ2cs1cwrqYRtQyMmFA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GwdF1nVey6/ocI+hO4u36f/cBZ2cs1cwrqYRtQyMmFA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GwdF1nVey6/ocI+hO4u36f/cBZ2cs1cwrqYRtQyMmFA="
+    }
+  },
+  "version": "0.34.1-3-ga2c7840dd7"
+}

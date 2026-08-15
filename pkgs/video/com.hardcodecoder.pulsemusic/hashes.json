@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hardcodecoder.pulsemusic_210040201.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l0wnao9llxp31jxLdXCjR2KrKKrNkrC8hsPjgtfzIxw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l0wnao9llxp31jxLdXCjR2KrKKrNkrC8hsPjgtfzIxw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l0wnao9llxp31jxLdXCjR2KrKKrNkrC8hsPjgtfzIxw="
+    }
+  },
+  "version": "4.2.1"
+}

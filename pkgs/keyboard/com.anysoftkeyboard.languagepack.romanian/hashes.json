@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.romanian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SObg9bgb5lYPuYuUZMX9+4u7YRSVWVtN3OyvPI2yuNs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SObg9bgb5lYPuYuUZMX9+4u7YRSVWVtN3OyvPI2yuNs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SObg9bgb5lYPuYuUZMX9+4u7YRSVWVtN3OyvPI2yuNs="
+    }
+  },
+  "version": "5.1.6158"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.inria.tyrex.senslogs_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CGhV1qC7rlpbvv6+TM9k1NoxCavYXtHA5gxsAjXMCGg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CGhV1qC7rlpbvv6+TM9k1NoxCavYXtHA5gxsAjXMCGg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CGhV1qC7rlpbvv6+TM9k1NoxCavYXtHA5gxsAjXMCGg="
+    }
+  },
+  "version": "2.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.sakethh.otic",
+  "signerFingerprints": [
+    "62:84:84:4F:6A:14:B0:A8:7F:3A:82:01:AC:DE:23:64:F2:F2:49:FD:14:2A:79:DE:5A:B0:64:D6:58:17:CB:1B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

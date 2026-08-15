@@ -1,0 +1,18 @@
+{
+  "apkName": "org.voidsink.anewjkuapp_140087.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vGLCaR2bS187Ultdd/2hwnzYo3M3KSmdT01W8v30EVw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vGLCaR2bS187Ultdd/2hwnzYo3M3KSmdT01W8v30EVw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vGLCaR2bS187Ultdd/2hwnzYo3M3KSmdT01W8v30EVw="
+    }
+  },
+  "version": "0.55.0-fdroid"
+}

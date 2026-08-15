@@ -1,0 +1,18 @@
+{
+  "apkName": "simple.reboot.com_1803261732.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lrJLslKANt1/kc6/NfNxxyyXF44hXuZByw+hFl/ua1Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lrJLslKANt1/kc6/NfNxxyyXF44hXuZByw+hFl/ua1Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lrJLslKANt1/kc6/NfNxxyyXF44hXuZByw+hFl/ua1Q="
+    }
+  },
+  "version": "9.0"
+}

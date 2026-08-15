@@ -1,0 +1,18 @@
+{
+  "apkName": "com.practicalapps.hamtrainer_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FFnS/paS9fj39Rw6DitumSQDoYDENjA/3m3b7JsLRQs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FFnS/paS9fj39Rw6DitumSQDoYDENjA/3m3b7JsLRQs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FFnS/paS9fj39Rw6DitumSQDoYDENjA/3m3b7JsLRQs="
+    }
+  },
+  "version": "1.0.8"
+}

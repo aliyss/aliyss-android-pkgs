@@ -1,0 +1,8 @@
+{
+  "package": "jorgeff99.keymyinfo",
+  "signerFingerprints": [
+    "2B:25:61:21:9E:D3:27:1B:29:DE:3B:C3:E8:85:06:11:4E:EE:85:C5:D7:30:92:70:82:16:21:C0:B3:9F:15:48"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

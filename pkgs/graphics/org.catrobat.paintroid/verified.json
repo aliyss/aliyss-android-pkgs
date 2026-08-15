@@ -1,0 +1,8 @@
+{
+  "package": "org.catrobat.paintroid",
+  "signerFingerprints": [
+    "0C:22:B2:2A:AD:88:95:DF:C4:2E:B9:93:F4:06:2B:1C:87:93:3B:F3:8B:66:9E:A3:3B:1A:F4:05:03:2B:58:2B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

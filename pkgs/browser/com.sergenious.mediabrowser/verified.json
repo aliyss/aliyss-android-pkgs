@@ -1,0 +1,8 @@
+{
+  "package": "com.sergenious.mediabrowser",
+  "signerFingerprints": [
+    "97:83:95:3C:BA:75:69:47:19:09:B6:85:8A:14:8D:E4:62:71:13:AB:FE:C1:3E:BA:3C:4B:27:02:DE:7B:26:71"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

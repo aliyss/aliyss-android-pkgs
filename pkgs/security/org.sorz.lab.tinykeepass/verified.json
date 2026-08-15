@@ -1,0 +1,8 @@
+{
+  "package": "org.sorz.lab.tinykeepass",
+  "signerFingerprints": [
+    "F5:BD:39:A4:8B:B6:9F:AD:9F:73:0E:EE:A6:01:9F:74:09:96:3F:2C:3C:E6:76:FA:82:47:02:3C:35:F8:FE:B3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

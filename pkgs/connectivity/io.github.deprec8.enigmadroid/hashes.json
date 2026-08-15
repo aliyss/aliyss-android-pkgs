@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.deprec8.enigmadroid_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gFcZnVgNRcFltDILZVABJ2/gDgWOLyckzT29Q4vlwaM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gFcZnVgNRcFltDILZVABJ2/gDgWOLyckzT29Q4vlwaM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gFcZnVgNRcFltDILZVABJ2/gDgWOLyckzT29Q4vlwaM="
+    }
+  },
+  "version": "1.9.2"
+}

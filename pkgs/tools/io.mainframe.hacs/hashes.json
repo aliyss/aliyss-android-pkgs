@@ -1,0 +1,18 @@
+{
+  "apkName": "io.mainframe.hacs_88.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-D3BH4z+gaeKl/hXiG71WLQ1VNVZo7uk3CaxWIIhZDow="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D3BH4z+gaeKl/hXiG71WLQ1VNVZo7uk3CaxWIIhZDow="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D3BH4z+gaeKl/hXiG71WLQ1VNVZo7uk3CaxWIIhZDow="
+    }
+  },
+  "version": "2.25.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.xzos.upgradeall_104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IaGXYIOWM+OOjveae0bjKVybtHHmWV1lXr3M7kIO/A8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IaGXYIOWM+OOjveae0bjKVybtHHmWV1lXr3M7kIO/A8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IaGXYIOWM+OOjveae0bjKVybtHHmWV1lXr3M7kIO/A8="
+    }
+  },
+  "version": "0.13-beta.4"
+}

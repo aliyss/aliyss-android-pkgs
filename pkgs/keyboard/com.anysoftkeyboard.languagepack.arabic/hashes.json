@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.arabic_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rDxB+JAzseIECj0dvVMtFRJlkR83cYWry589oVWlMls="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rDxB+JAzseIECj0dvVMtFRJlkR83cYWry589oVWlMls="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rDxB+JAzseIECj0dvVMtFRJlkR83cYWry589oVWlMls="
+    }
+  },
+  "version": "5.1.6158"
+}

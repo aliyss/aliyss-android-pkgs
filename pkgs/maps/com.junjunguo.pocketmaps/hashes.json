@@ -1,0 +1,18 @@
+{
+  "apkName": "com.junjunguo.pocketmaps_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VAp7mfmLO4withqr4hf6298GCWbKDlBJHYHcMELL6lQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VAp7mfmLO4withqr4hf6298GCWbKDlBJHYHcMELL6lQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VAp7mfmLO4withqr4hf6298GCWbKDlBJHYHcMELL6lQ="
+    }
+  },
+  "version": "4.0"
+}

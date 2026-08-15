@@ -1,0 +1,18 @@
+{
+  "apkName": "org.courville.nova_6040003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yLBsLVqXw+p7Ewnlc2XvnZISRLrzYCO2N6H/SOSATlw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yLBsLVqXw+p7Ewnlc2XvnZISRLrzYCO2N6H/SOSATlw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yLBsLVqXw+p7Ewnlc2XvnZISRLrzYCO2N6H/SOSATlw="
+    }
+  },
+  "version": "6.4.3"
+}

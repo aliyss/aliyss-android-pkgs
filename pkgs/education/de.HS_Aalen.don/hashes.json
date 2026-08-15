@@ -1,0 +1,18 @@
+{
+  "apkName": "de.HS_Aalen.don_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-utb4hkeOuOPHUFm23IXo/dzKaujRPXZ9eVTRPQdHcDk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-utb4hkeOuOPHUFm23IXo/dzKaujRPXZ9eVTRPQdHcDk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-utb4hkeOuOPHUFm23IXo/dzKaujRPXZ9eVTRPQdHcDk="
+    }
+  },
+  "version": "1.12"
+}

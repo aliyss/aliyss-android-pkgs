@@ -1,0 +1,18 @@
+{
+  "apkName": "com.juliencardoux.openwol_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Pik6Kd4zVYl2VEg2UndPQhx54ry7j+zzsQ+c0F4FCHA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pik6Kd4zVYl2VEg2UndPQhx54ry7j+zzsQ+c0F4FCHA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pik6Kd4zVYl2VEg2UndPQhx54ry7j+zzsQ+c0F4FCHA="
+    }
+  },
+  "version": "1.0.3"
+}

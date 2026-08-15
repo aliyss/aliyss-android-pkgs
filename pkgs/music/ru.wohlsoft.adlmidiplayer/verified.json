@@ -1,0 +1,8 @@
+{
+  "package": "ru.wohlsoft.adlmidiplayer",
+  "signerFingerprints": [
+    "16:74:71:BD:11:1C:86:B0:15:A6:E1:9F:F7:A8:52:68:41:EE:48:75:0F:E5:AB:14:E3:94:5C:6F:69:E4:5A:3A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

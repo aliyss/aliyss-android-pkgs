@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlyfinancemanager_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hZfQdmb7gB7o2ACCT8/j5APAbgOHABMJd066apKJmco="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hZfQdmb7gB7o2ACCT8/j5APAbgOHABMJd066apKJmco="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hZfQdmb7gB7o2ACCT8/j5APAbgOHABMJd066apKJmco="
+    }
+  },
+  "version": "2.3.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.quaddyservices.dynamicnightlight_2110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-o0RT2MGGvdi8XlavWmtwj9F48OtCOZthXV7WcAi73wE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o0RT2MGGvdi8XlavWmtwj9F48OtCOZthXV7WcAi73wE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o0RT2MGGvdi8XlavWmtwj9F48OtCOZthXV7WcAi73wE="
+    }
+  },
+  "version": "2.0.2110"
+}

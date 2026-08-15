@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.me.paraskos.pdfrenderer_1010600.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Dgr5trqUKWPxqm6Ce78Gm2La7W01nuRss66i3+jRH8w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dgr5trqUKWPxqm6Ce78Gm2La7W01nuRss66i3+jRH8w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dgr5trqUKWPxqm6Ce78Gm2La7W01nuRss66i3+jRH8w="
+    }
+  },
+  "version": "1.1.6"
+}

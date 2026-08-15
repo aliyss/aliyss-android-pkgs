@@ -1,0 +1,18 @@
+{
+  "apkName": "app.gps_video_logger_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uOt41uBc4VtJXJUk4AvrCNb6noq4LlIsv8tk4U6kgfI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uOt41uBc4VtJXJUk4AvrCNb6noq4LlIsv8tk4U6kgfI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uOt41uBc4VtJXJUk4AvrCNb6noq4LlIsv8tk4U6kgfI="
+    }
+  },
+  "version": "2.0.1"
+}

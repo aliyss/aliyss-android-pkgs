@@ -1,0 +1,18 @@
+{
+  "apkName": "app.myzel394.numberhub_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JrKALpXyD0TGXhS7xlg6aOT7pX9EnUwiF278hgmlOuM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JrKALpXyD0TGXhS7xlg6aOT7pX9EnUwiF278hgmlOuM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JrKALpXyD0TGXhS7xlg6aOT7pX9EnUwiF278hgmlOuM="
+    }
+  },
+  "version": "0.2.2"
+}

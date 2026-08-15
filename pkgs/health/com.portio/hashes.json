@@ -1,0 +1,18 @@
+{
+  "apkName": "com.portio_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-taWY8K7aqNCFJ/47TqI5bfgdD8i7WQlbOmOLTz45hM8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-taWY8K7aqNCFJ/47TqI5bfgdD8i7WQlbOmOLTz45hM8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-taWY8K7aqNCFJ/47TqI5bfgdD8i7WQlbOmOLTz45hM8="
+    }
+  },
+  "version": "1.10"
+}

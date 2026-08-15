@@ -1,0 +1,8 @@
+{
+  "package": "nl.privacydragon.bookwyrm",
+  "signerFingerprints": [
+    "05:51:27:4D:D6:23:7A:90:36:52:27:8C:C0:74:4C:CA:35:D7:5A:41:4A:0A:4E:F1:AC:8F:40:5A:F4:D5:60:0C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

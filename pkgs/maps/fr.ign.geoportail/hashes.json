@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.ign.geoportail_30511.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5BjZ734oeby8drdtY8nN5bpFmFJAK8ji0X8uYGFcLOc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5BjZ734oeby8drdtY8nN5bpFmFJAK8ji0X8uYGFcLOc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5BjZ734oeby8drdtY8nN5bpFmFJAK8ji0X8uYGFcLOc="
+    }
+  },
+  "version": "3.5.11"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gitlab.terrakok.gitfox_609.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EdWGo9AumSv0Ldwz9CgdUZEeVprw2ACp0BlAJiQhLo4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EdWGo9AumSv0Ldwz9CgdUZEeVprw2ACp0BlAJiQhLo4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EdWGo9AumSv0Ldwz9CgdUZEeVprw2ACp0BlAJiQhLo4="
+    }
+  },
+  "version": "1.7.3"
+}

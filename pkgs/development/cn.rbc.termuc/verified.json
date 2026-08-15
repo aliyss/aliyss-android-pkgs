@@ -1,0 +1,8 @@
+{
+  "package": "cn.rbc.termuc",
+  "signerFingerprints": [
+    "99:CF:29:47:08:88:48:60:2A:FF:6A:49:4B:00:C3:7C:33:AA:83:31:99:80:84:8B:2C:F0:29:E5:11:C9:14:A2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

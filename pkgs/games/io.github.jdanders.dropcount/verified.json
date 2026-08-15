@@ -1,0 +1,8 @@
+{
+  "package": "io.github.jdanders.dropcount",
+  "signerFingerprints": [
+    "D9:CE:80:8D:68:A9:93:FE:B4:06:17:54:F5:AC:91:57:D3:22:35:FA:AF:BD:77:9D:7D:44:67:8A:8E:ED:DA:8F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

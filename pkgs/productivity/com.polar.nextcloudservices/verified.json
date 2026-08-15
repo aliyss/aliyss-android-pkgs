@@ -1,0 +1,8 @@
+{
+  "package": "com.polar.nextcloudservices",
+  "signerFingerprints": [
+    "F4:26:90:E3:96:37:D3:3C:F6:03:83:83:57:90:BA:59:AD:D0:97:BE:95:80:44:6A:D3:FB:F2:70:C7:A4:99:6D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

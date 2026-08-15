@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.johnathan.minesweeper_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hUWCkUnYJpV90+z4TGnVAU/GWVqqVKLh4xUDXFw4sh0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hUWCkUnYJpV90+z4TGnVAU/GWVqqVKLh4xUDXFw4sh0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hUWCkUnYJpV90+z4TGnVAU/GWVqqVKLh4xUDXFw4sh0="
+    }
+  },
+  "version": "1.3"
+}

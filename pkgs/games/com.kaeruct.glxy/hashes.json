@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kaeruct.glxy_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BYOCmMnXDt/yLcw1kMKHo2v5zWL8c7ZL6yu8JLooG8o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BYOCmMnXDt/yLcw1kMKHo2v5zWL8c7ZL6yu8JLooG8o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BYOCmMnXDt/yLcw1kMKHo2v5zWL8c7ZL6yu8JLooG8o="
+    }
+  },
+  "version": "2.3"
+}

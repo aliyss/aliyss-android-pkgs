@@ -1,0 +1,18 @@
+{
+  "apkName": "it.kapfer.digitalesamt.liberator_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OyZY+q5i2MG+uUbP8bn74SwKqhNrlxkf8ek4djKPGog="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OyZY+q5i2MG+uUbP8bn74SwKqhNrlxkf8ek4djKPGog="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OyZY+q5i2MG+uUbP8bn74SwKqhNrlxkf8ek4djKPGog="
+    }
+  },
+  "version": "2.3"
+}

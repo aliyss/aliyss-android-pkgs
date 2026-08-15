@@ -1,0 +1,8 @@
+{
+  "package": "com.vishnu.whatsappcleaner",
+  "signerFingerprints": [
+    "0E:72:F4:1A:F2:0D:4B:04:07:02:09:90:61:B4:E3:17:8D:95:3F:2B:DA:94:54:85:32:8C:2C:FB:6C:4F:CC:62"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

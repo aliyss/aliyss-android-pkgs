@@ -1,0 +1,18 @@
+{
+  "apkName": "com.clicc_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ogjDGMDlrhr3wPl9yGZI46pVqVVt04Ygq0mUgXAxocQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ogjDGMDlrhr3wPl9yGZI46pVqVVt04Ygq0mUgXAxocQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ogjDGMDlrhr3wPl9yGZI46pVqVVt04Ygq0mUgXAxocQ="
+    }
+  },
+  "version": "8.7.6"
+}

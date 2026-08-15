@@ -1,0 +1,8 @@
+{
+  "package": "org.kalinisa.diatronome",
+  "signerFingerprints": [
+    "13:DD:C0:6F:EB:35:A2:18:FF:0D:2C:F8:37:4F:E8:AB:29:B9:7A:3C:D6:63:05:EE:D4:20:F4:C1:B5:32:95:8E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

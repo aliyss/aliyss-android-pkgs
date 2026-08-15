@@ -1,0 +1,18 @@
+{
+  "apkName": "exe.bbllw8.anemo_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+7/05EOpzKET8P15gIkDU4CmqnImuLoHcgnjICUZW7U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+7/05EOpzKET8P15gIkDU4CmqnImuLoHcgnjICUZW7U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+7/05EOpzKET8P15gIkDU4CmqnImuLoHcgnjICUZW7U="
+    }
+  },
+  "version": "2.7.1"
+}

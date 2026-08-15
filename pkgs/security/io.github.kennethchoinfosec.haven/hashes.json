@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.kennethchoinfosec.haven_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SvP8czsLBJYPnmOjMiX9236oxLBhfBFSbg87+LU+5/g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SvP8czsLBJYPnmOjMiX9236oxLBhfBFSbg87+LU+5/g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SvP8czsLBJYPnmOjMiX9236oxLBhfBFSbg87+LU+5/g="
+    }
+  },
+  "version": "0.1.4"
+}

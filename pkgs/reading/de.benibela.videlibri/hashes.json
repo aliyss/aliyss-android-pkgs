@@ -1,0 +1,18 @@
+{
+  "apkName": "de.benibela.videlibri_2960.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4QH8glaZelWHXcjdYqw/qzy8Dh0ygi2l73Oni+qp5zU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4QH8glaZelWHXcjdYqw/qzy8Dh0ygi2l73Oni+qp5zU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4QH8glaZelWHXcjdYqw/qzy8Dh0ygi2l73Oni+qp5zU="
+    }
+  },
+  "version": "2.960"
+}

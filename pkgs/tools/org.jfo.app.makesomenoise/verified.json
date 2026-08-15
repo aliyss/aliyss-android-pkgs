@@ -1,0 +1,8 @@
+{
+  "package": "org.jfo.app.makesomenoise",
+  "signerFingerprints": [
+    "8A:17:40:84:0B:3E:30:D1:DD:B0:1A:B3:C4:73:56:32:47:A0:01:20:75:85:D7:F7:A0:83:58:97:C3:C7:3E:06"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

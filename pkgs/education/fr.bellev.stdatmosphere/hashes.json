@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.bellev.stdatmosphere_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iw6O2e3nmfrBwDeBptT81qPoAUagIelISd24Ri4hbJA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iw6O2e3nmfrBwDeBptT81qPoAUagIelISd24Ri4hbJA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iw6O2e3nmfrBwDeBptT81qPoAUagIelISd24Ri4hbJA="
+    }
+  },
+  "version": "2.0"
+}

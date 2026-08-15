@@ -1,0 +1,18 @@
+{
+  "apkName": "de.bulling.barcodebuddyscanner_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-am6crkdEWaYerkDgJ4UofDrmpQudF13igbFRzMxjiS4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-am6crkdEWaYerkDgJ4UofDrmpQudF13igbFRzMxjiS4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-am6crkdEWaYerkDgJ4UofDrmpQudF13igbFRzMxjiS4="
+    }
+  },
+  "version": "0.4.1"
+}

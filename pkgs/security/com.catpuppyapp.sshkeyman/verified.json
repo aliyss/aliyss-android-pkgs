@@ -1,0 +1,8 @@
+{
+  "package": "com.catpuppyapp.sshkeyman",
+  "signerFingerprints": [
+    "48:A2:3E:C0:89:CB:F1:A5:0A:42:78:9D:D0:CC:44:E1:13:99:B3:C1:3B:50:6C:09:55:1B:CE:BF:00:BE:DB:E9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

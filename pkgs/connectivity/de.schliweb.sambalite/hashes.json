@@ -1,0 +1,18 @@
+{
+  "apkName": "de.schliweb.sambalite_20504.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lFZSaQcYpBShc4CzCa6iRHRctL/qoidlIZgne8ewicw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lFZSaQcYpBShc4CzCa6iRHRctL/qoidlIZgne8ewicw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lFZSaQcYpBShc4CzCa6iRHRctL/qoidlIZgne8ewicw="
+    }
+  },
+  "version": "2.5.4"
+}

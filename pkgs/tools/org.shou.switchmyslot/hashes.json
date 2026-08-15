@@ -1,0 +1,18 @@
+{
+  "apkName": "org.shou.switchmyslot_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nVJFM6WQ/VLO9fuye3E1tMWuKFIssguIvR6kHelBTvQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nVJFM6WQ/VLO9fuye3E1tMWuKFIssguIvR6kHelBTvQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nVJFM6WQ/VLO9fuye3E1tMWuKFIssguIvR6kHelBTvQ="
+    }
+  },
+  "version": "0.7.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "eu.jonahbauer.qed.fdroid",
+  "signerFingerprints": [
+    "D0:36:CA:E6:D1:1A:7C:B5:E8:1A:CC:CE:63:B6:2F:BD:4E:15:1C:1B:D3:CE:49:6E:18:D9:B7:0C:48:18:FE:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.shadowsocks.tv_5030550.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xz6Q9N5ZcZjV5ODuQfPfABpIqc9rwY/8CTQjz4Jnb4Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xz6Q9N5ZcZjV5ODuQfPfABpIqc9rwY/8CTQjz4Jnb4Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xz6Q9N5ZcZjV5ODuQfPfABpIqc9rwY/8CTQjz4Jnb4Y="
+    }
+  },
+  "version": "5.3.5-nightly"
+}

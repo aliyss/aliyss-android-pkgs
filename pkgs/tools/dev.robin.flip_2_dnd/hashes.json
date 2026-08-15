@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.robin.flip_2_dnd_1211.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-U75X4y+5jhDDXYUCA5MQ/ZEgUa0qqcYdQkglIlttcSg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-U75X4y+5jhDDXYUCA5MQ/ZEgUa0qqcYdQkglIlttcSg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-U75X4y+5jhDDXYUCA5MQ/ZEgUa0qqcYdQkglIlttcSg="
+    }
+  },
+  "version": "12.1.1-free"
+}

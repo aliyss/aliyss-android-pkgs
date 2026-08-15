@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.iridiumion.plucklockex_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nadHQFJ8zU1HEpOSk1Laksfe1yJ8azgtEbcVleAj1q4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nadHQFJ8zU1HEpOSk1Laksfe1yJ8azgtEbcVleAj1q4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nadHQFJ8zU1HEpOSk1Laksfe1yJ8azgtEbcVleAj1q4="
+    }
+  },
+  "version": "1.2.0"
+}

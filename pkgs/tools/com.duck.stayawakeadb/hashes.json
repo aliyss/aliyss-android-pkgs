@@ -1,0 +1,18 @@
+{
+  "apkName": "com.duck.stayawakeadb_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LkWBpUgk74WJnFHTk+uw6M1YNa6iXuHUPTnXISTy/4Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LkWBpUgk74WJnFHTk+uw6M1YNa6iXuHUPTnXISTy/4Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LkWBpUgk74WJnFHTk+uw6M1YNa6iXuHUPTnXISTy/4Q="
+    }
+  },
+  "version": "0.11"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.mrchandler.disableprox",
+  "signerFingerprints": [
+    "33:41:28:C5:54:FA:DD:3D:BD:65:8D:7F:B1:20:71:A7:6F:69:6E:BC:72:D3:77:24:69:5A:65:EE:02:CE:E2:AB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

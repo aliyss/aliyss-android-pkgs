@@ -1,0 +1,8 @@
+{
+  "package": "eu.laderchi.ncalc",
+  "signerFingerprints": [
+    "44:6D:C7:18:6D:A6:45:42:5E:8E:87:1A:04:80:00:24:0A:E2:DD:C6:DF:6D:B6:AD:F6:A5:D0:C8:BD:0E:ED:2B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.robin.privacify_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ut8zHt9n63sdyOV7AvCAgV4uvjwGSdtyHsoCly0Cvps="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ut8zHt9n63sdyOV7AvCAgV4uvjwGSdtyHsoCly0Cvps="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ut8zHt9n63sdyOV7AvCAgV4uvjwGSdtyHsoCly0Cvps="
+    }
+  },
+  "version": "2.7"
+}

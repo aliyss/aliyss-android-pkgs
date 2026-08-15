@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlypausinghealthily_101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ovo4mGMdR3IEAxvUSyhdmD+PwBJLd+i/0MT8uVsSyUQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ovo4mGMdR3IEAxvUSyhdmD+PwBJLd+i/0MT8uVsSyUQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ovo4mGMdR3IEAxvUSyhdmD+PwBJLd+i/0MT8uVsSyUQ="
+    }
+  },
+  "version": "1.4.4"
+}

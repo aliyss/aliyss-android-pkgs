@@ -1,0 +1,18 @@
+{
+  "apkName": "whl.trending.ai_10200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UFV35RiwGshQsir7oKueWcWqmLwIboJ9wzk/+1JoEW8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UFV35RiwGshQsir7oKueWcWqmLwIboJ9wzk/+1JoEW8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UFV35RiwGshQsir7oKueWcWqmLwIboJ9wzk/+1JoEW8="
+    }
+  },
+  "version": "1.2.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.ronynn.karui",
+  "signerFingerprints": [
+    "13:1B:38:99:E1:16:09:41:01:8C:6A:D7:17:FA:CA:2A:60:87:29:01:3E:85:AF:4A:E8:70:27:3B:DA:C1:91:9A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "allen.town.focus.mastodon",
+  "signerFingerprints": [
+    "7C:0D:71:21:EA:04:08:4C:1E:E6:A2:F6:D3:4F:39:3A:9F:C8:BA:12:82:32:B1:A3:AC:66:FD:26:AF:A8:A6:6E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

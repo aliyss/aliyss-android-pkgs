@@ -1,0 +1,8 @@
+{
+  "package": "com.xinto.mauth",
+  "signerFingerprints": [
+    "2B:CE:A6:51:0A:D9:28:DA:A0:82:2D:4D:E5:9F:55:D5:55:7B:B2:CF:D0:A4:44:18:92:4E:A5:B7:EA:E6:23:03"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

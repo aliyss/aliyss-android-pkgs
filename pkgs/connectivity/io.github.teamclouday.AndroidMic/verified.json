@@ -1,0 +1,8 @@
+{
+  "package": "io.github.teamclouday.AndroidMic",
+  "signerFingerprints": [
+    "34:B2:B2:DC:77:73:B5:4F:C1:77:DF:C0:83:39:41:DC:B7:4C:94:3F:28:0C:AE:ED:CC:DB:61:8A:00:DC:DA:A9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

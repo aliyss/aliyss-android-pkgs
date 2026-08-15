@@ -1,0 +1,8 @@
+{
+  "package": "xzr.perfmon",
+  "signerFingerprints": [
+    "92:22:B2:EE:45:80:35:BC:BB:A4:71:F2:60:E7:19:FB:F2:F1:BB:D5:DA:E9:DA:5D:CF:1A:E8:73:8C:8D:77:3D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "name.bresciani.marco.tkcompanionapp_700.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xHwyFboRZ3CrUheKDOzi5xtCMPRHk278TzfLSlOQF28="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xHwyFboRZ3CrUheKDOzi5xtCMPRHk278TzfLSlOQF28="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xHwyFboRZ3CrUheKDOzi5xtCMPRHk278TzfLSlOQF28="
+    }
+  },
+  "version": "7.0.0"
+}

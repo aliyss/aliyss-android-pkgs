@@ -1,0 +1,18 @@
+{
+  "apkName": "de.jbservices.nc_passwords_app_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CRhSTJ7g0A1AF9YjM3ZJqgqGd3ePbukd333QGvn5tb8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CRhSTJ7g0A1AF9YjM3ZJqgqGd3ePbukd333QGvn5tb8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CRhSTJ7g0A1AF9YjM3ZJqgqGd3ePbukd333QGvn5tb8="
+    }
+  },
+  "version": "23.2.2"
+}

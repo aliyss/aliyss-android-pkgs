@@ -1,0 +1,8 @@
+{
+  "package": "ch.cryptobit.letterbox",
+  "signerFingerprints": [
+    "DA:27:0C:F5:73:A3:96:C9:46:2C:BC:46:C4:AD:9E:A8:FD:74:33:35:B1:35:5C:08:B8:D3:27:AA:28:1B:24:6C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

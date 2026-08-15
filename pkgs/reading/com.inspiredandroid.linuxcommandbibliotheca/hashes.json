@@ -1,0 +1,18 @@
+{
+  "apkName": "com.inspiredandroid.linuxcommandbibliotheca_170.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ck2LqveREMAgtTSmutA1LADheJ5eLGbE+uFCDdfTE/A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ck2LqveREMAgtTSmutA1LADheJ5eLGbE+uFCDdfTE/A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ck2LqveREMAgtTSmutA1LADheJ5eLGbE+uFCDdfTE/A="
+    }
+  },
+  "version": "4.5.0"
+}

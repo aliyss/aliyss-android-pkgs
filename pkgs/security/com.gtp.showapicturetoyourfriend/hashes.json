@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gtp.showapicturetoyourfriend_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ftGPqTEldXKCIj+1eqzsMVseV94LquTghIvYPnwzI3s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ftGPqTEldXKCIj+1eqzsMVseV94LquTghIvYPnwzI3s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ftGPqTEldXKCIj+1eqzsMVseV94LquTghIvYPnwzI3s="
+    }
+  },
+  "version": "1.4"
+}

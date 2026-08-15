@@ -1,0 +1,18 @@
+{
+  "apkName": "com.noahjutz.gymroutines_49.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pNdixyzsb5/PiY3177wnvef7AIF8HUVLKibZ2+pOE/c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pNdixyzsb5/PiY3177wnvef7AIF8HUVLKibZ2+pOE/c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pNdixyzsb5/PiY3177wnvef7AIF8HUVLKibZ2+pOE/c="
+    }
+  },
+  "version": "0.1.1"
+}

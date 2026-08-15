@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mahmoudrh.roomxml_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Zy3Jh6NWJ9ZvWAAqvlSVlUMsROSDgJ3a/p22dLPrDuY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Zy3Jh6NWJ9ZvWAAqvlSVlUMsROSDgJ3a/p22dLPrDuY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Zy3Jh6NWJ9ZvWAAqvlSVlUMsROSDgJ3a/p22dLPrDuY="
+    }
+  },
+  "version": "2.0.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "nl.asymmetrics.droidshows_71110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6W+IZw056l+u4hYT1RbFpjp4LmnhhAMhm+71LKOIZSM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6W+IZw056l+u4hYT1RbFpjp4LmnhhAMhm+71LKOIZSM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6W+IZw056l+u4hYT1RbFpjp4LmnhhAMhm+71LKOIZSM="
+    }
+  },
+  "version": "7.11.10"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.mrogalski.saidit_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rGTPz9jdxibk6VgBGrdI99JKDgdBEiPYMvoo2jGai9E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rGTPz9jdxibk6VgBGrdI99JKDgdBEiPYMvoo2jGai9E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rGTPz9jdxibk6VgBGrdI99JKDgdBEiPYMvoo2jGai9E="
+    }
+  },
+  "version": "2.0.0"
+}

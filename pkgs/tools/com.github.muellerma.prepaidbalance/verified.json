@@ -1,0 +1,8 @@
+{
+  "package": "com.github.muellerma.prepaidbalance",
+  "signerFingerprints": [
+    "F9:88:C2:4D:62:16:1D:4F:58:6E:A5:6A:3F:7A:BB:47:7F:C3:01:40:E9:08:2F:D3:92:7F:53:BA:FE:6C:ED:3E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

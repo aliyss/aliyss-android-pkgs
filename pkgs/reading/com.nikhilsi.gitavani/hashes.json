@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nikhilsi.gitavani_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HuTUbo4ewz9PkYiVsfzqvcoH+t6aHHMZ5Blo8QH9R5I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HuTUbo4ewz9PkYiVsfzqvcoH+t6aHHMZ5Blo8QH9R5I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HuTUbo4ewz9PkYiVsfzqvcoH+t6aHHMZ5Blo8QH9R5I="
+    }
+  },
+  "version": "1.0.0"
+}

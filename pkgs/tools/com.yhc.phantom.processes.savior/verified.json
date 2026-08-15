@@ -1,0 +1,8 @@
+{
+  "package": "com.yhc.phantom.processes.savior",
+  "signerFingerprints": [
+    "AA:4E:19:10:1E:9D:F2:9C:68:BA:3F:39:92:BB:04:22:98:20:8A:A1:66:AD:DC:A4:9F:56:43:DA:C5:A9:06:E3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

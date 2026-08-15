@@ -1,0 +1,8 @@
+{
+  "package": "com.adonai.manman",
+  "signerFingerprints": [
+    "6E:1F:E2:BC:82:80:BE:A3:9C:84:5C:A7:86:89:D4:B9:5C:A9:C5:12:54:73:0A:20:FB:B6:9C:C9:63:77:57:25"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

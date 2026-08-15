@@ -1,0 +1,8 @@
+{
+  "package": "com.github.dan.NoStorageRestrict",
+  "signerFingerprints": [
+    "55:13:53:D4:E0:96:D5:D1:17:FC:32:2D:BF:ED:42:C5:AE:7C:8F:26:AC:10:09:A1:3E:DC:0F:39:F8:0B:4C:8C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

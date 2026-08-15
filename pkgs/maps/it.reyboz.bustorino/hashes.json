@@ -1,0 +1,18 @@
+{
+  "apkName": "it.reyboz.bustorino_76.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+kQAAg1+cAWRFnclp5cRFdlxRxOjxceubYeP0O2iTaI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+kQAAg1+cAWRFnclp5cRFdlxRxOjxceubYeP0O2iTaI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+kQAAg1+cAWRFnclp5cRFdlxRxOjxceubYeP0O2iTaI="
+    }
+  },
+  "version": "2.6.46"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nizarmah.igatha_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1h1dwR3CsyExmYe8cttRBGJeFzIfyTQ1QJlyZkH14/E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1h1dwR3CsyExmYe8cttRBGJeFzIfyTQ1QJlyZkH14/E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1h1dwR3CsyExmYe8cttRBGJeFzIfyTQ1QJlyZkH14/E="
+    }
+  },
+  "version": "1.1.0"
+}

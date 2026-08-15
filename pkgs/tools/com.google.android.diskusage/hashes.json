@@ -1,0 +1,18 @@
+{
+  "apkName": "com.google.android.diskusage_5001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5yFQ4YPddoJzeoKOm4DVwc65q/KJHgfJfNNpP50G+cI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5yFQ4YPddoJzeoKOm4DVwc65q/KJHgfJfNNpP50G+cI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5yFQ4YPddoJzeoKOm4DVwc65q/KJHgfJfNNpP50G+cI="
+    }
+  },
+  "version": "5.0-alpha1"
+}

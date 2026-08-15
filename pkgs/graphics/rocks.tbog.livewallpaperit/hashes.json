@@ -1,0 +1,18 @@
+{
+  "apkName": "rocks.tbog.livewallpaperit_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tcB7MzymPqnBnZ+0+TzVOdUsoMRXIwOjXxi8M26efBk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tcB7MzymPqnBnZ+0+TzVOdUsoMRXIwOjXxi8M26efBk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tcB7MzymPqnBnZ+0+TzVOdUsoMRXIwOjXxi8M26efBk="
+    }
+  },
+  "version": "2.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.stefansundin.sshremote",
+  "signerFingerprints": [
+    "BF:8F:E8:56:55:C4:AF:24:8B:E8:E2:D2:10:59:CB:30:14:66:0C:B4:B1:6E:20:40:A4:C8:35:CE:51:E0:A4:25"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

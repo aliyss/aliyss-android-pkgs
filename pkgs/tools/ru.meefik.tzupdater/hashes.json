@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.meefik.tzupdater_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4DSY0674AvZGAulXYLqNOqm5ST1LpiVv4yN0ma/zmRo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4DSY0674AvZGAulXYLqNOqm5ST1LpiVv4yN0ma/zmRo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4DSY0674AvZGAulXYLqNOqm5ST1LpiVv4yN0ma/zmRo="
+    }
+  },
+  "version": "1.3.0"
+}

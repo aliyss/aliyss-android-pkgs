@@ -1,0 +1,8 @@
+{
+  "package": "com.eipna.centsation",
+  "signerFingerprints": [
+    "56:1F:3F:EC:72:E1:F9:87:8C:27:49:D0:79:F8:B2:17:5D:02:13:1C:84:29:55:71:4E:63:36:5D:A5:30:1B:AA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

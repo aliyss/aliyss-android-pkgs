@@ -1,0 +1,18 @@
+{
+  "apkName": "de.php_tech.piggybudget_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HJz5NmMoGGMJnCqF5dIqMg5YgnJsdriuOTijQ7n/tvs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HJz5NmMoGGMJnCqF5dIqMg5YgnJsdriuOTijQ7n/tvs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HJz5NmMoGGMJnCqF5dIqMg5YgnJsdriuOTijQ7n/tvs="
+    }
+  },
+  "version": "2.5"
+}

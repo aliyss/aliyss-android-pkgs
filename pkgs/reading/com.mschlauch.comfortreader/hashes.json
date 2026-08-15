@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mschlauch.comfortreader_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9DaiASLKtJushnp6eos3vPwvwMwibQH0XdoVR9R9hpY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9DaiASLKtJushnp6eos3vPwvwMwibQH0XdoVR9R9hpY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9DaiASLKtJushnp6eos3vPwvwMwibQH0XdoVR9R9hpY="
+    }
+  },
+  "version": "1.9.6"
+}

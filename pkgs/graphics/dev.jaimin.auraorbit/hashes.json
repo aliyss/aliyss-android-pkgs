@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.jaimin.auraorbit_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HQk7sfCOPKJ0ozolfn5EEPuS8m/MDWZjh26d3+TXHFY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HQk7sfCOPKJ0ozolfn5EEPuS8m/MDWZjh26d3+TXHFY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HQk7sfCOPKJ0ozolfn5EEPuS8m/MDWZjh26d3+TXHFY="
+    }
+  },
+  "version": "3.0.0"
+}

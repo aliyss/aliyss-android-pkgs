@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlysketching_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zf1XXbynb6PB15Fr04wu0+19x8DV/Yze+wzxbqoV4mE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zf1XXbynb6PB15Fr04wu0+19x8DV/Yze+wzxbqoV4mE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zf1XXbynb6PB15Fr04wu0+19x8DV/Yze+wzxbqoV4mE="
+    }
+  },
+  "version": "1.1.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.ryuu.screeps_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0LvDJEyEDRfuBorHtrS/45JMCi/jXX3O04VXy84hMu4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0LvDJEyEDRfuBorHtrS/45JMCi/jXX3O04VXy84hMu4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0LvDJEyEDRfuBorHtrS/45JMCi/jXX3O04VXy84hMu4="
+    }
+  },
+  "version": "0.0.3"
+}

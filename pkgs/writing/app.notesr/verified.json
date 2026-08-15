@@ -1,0 +1,8 @@
+{
+  "package": "app.notesr",
+  "signerFingerprints": [
+    "34:AD:32:41:0D:DC:B2:D1:38:76:57:7F:E1:56:E7:CD:4A:24:0C:08:9B:5A:E9:A2:A0:51:CD:15:1D:CE:DE:58"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

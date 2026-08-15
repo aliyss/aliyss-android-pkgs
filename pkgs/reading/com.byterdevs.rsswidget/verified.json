@@ -1,0 +1,8 @@
+{
+  "package": "com.byterdevs.rsswidget",
+  "signerFingerprints": [
+    "88:AF:73:48:F7:0B:91:60:B3:44:4E:D8:FA:27:09:48:BF:70:1C:E1:68:0E:CE:BD:A8:D9:A3:14:20:F3:71:B4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

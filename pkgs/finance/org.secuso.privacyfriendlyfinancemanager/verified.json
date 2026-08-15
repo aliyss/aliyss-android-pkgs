@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlyfinancemanager",
+  "signerFingerprints": [
+    "8F:BB:64:54:B1:15:50:2E:2B:5B:18:A5:A7:40:12:C3:AF:4D:8F:53:61:45:3A:C4:08:62:1E:0F:38:75:B2:47"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

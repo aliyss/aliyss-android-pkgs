@@ -1,0 +1,8 @@
+{
+  "package": "org.gdroid.gdroid",
+  "signerFingerprints": [
+    "61:A1:2C:24:21:AB:88:3C:24:CC:E3:DF:00:7F:5D:8A:8C:2F:2E:27:B9:B8:C5:0A:8E:65:84:1F:CB:8F:67:1F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

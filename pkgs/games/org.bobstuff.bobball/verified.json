@@ -1,0 +1,8 @@
+{
+  "package": "org.bobstuff.bobball",
+  "signerFingerprints": [
+    "41:7E:2B:14:84:7E:9B:15:44:2C:18:CD:39:1D:88:86:91:B5:77:0E:34:7B:AD:62:7C:81:A7:18:07:93:93:6E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

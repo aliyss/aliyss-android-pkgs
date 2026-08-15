@@ -1,0 +1,8 @@
+{
+  "package": "com.pyu.koremd",
+  "signerFingerprints": [
+    "3F:30:3C:4A:CE:C7:4C:A8:23:CB:E6:E0:CE:5D:7C:4C:B7:00:A8:B6:CE:38:98:CB:E9:49:20:BD:3D:BB:41:B0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

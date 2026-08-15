@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cyb3rko.flashdim_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bzSHZ8rKb9pAbt3PvwI5lbYe4Rgr+PYkEj6VoPaQ0dk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bzSHZ8rKb9pAbt3PvwI5lbYe4Rgr+PYkEj6VoPaQ0dk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bzSHZ8rKb9pAbt3PvwI5lbYe4Rgr+PYkEj6VoPaQ0dk="
+    }
+  },
+  "version": "2.4.3"
+}

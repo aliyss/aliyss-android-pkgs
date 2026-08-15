@@ -1,0 +1,8 @@
+{
+  "package": "ca.cmetcalfe.locationshare",
+  "signerFingerprints": [
+    "AF:BE:44:48:05:EF:95:59:8D:56:8B:A9:D2:4F:93:89:10:9F:8B:29:32:27:A7:A3:8A:9F:BE:60:F0:C3:DB:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

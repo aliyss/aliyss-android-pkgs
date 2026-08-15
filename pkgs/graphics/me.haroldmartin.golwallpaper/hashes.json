@@ -1,0 +1,18 @@
+{
+  "apkName": "me.haroldmartin.golwallpaper_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Oxkw8VBFLBbeMNlZItDnhdrnRWipLGm3HLUuC2NtQWE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Oxkw8VBFLBbeMNlZItDnhdrnRWipLGm3HLUuC2NtQWE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Oxkw8VBFLBbeMNlZItDnhdrnRWipLGm3HLUuC2NtQWE="
+    }
+  },
+  "version": "1.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ds.pulsar_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NSvxBcjMZ3AN+UzgO6YbO3nth0AF92ZuShtO8JIaJjo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NSvxBcjMZ3AN+UzgO6YbO3nth0AF92ZuShtO8JIaJjo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NSvxBcjMZ3AN+UzgO6YbO3nth0AF92ZuShtO8JIaJjo="
+    }
+  },
+  "version": "7"
+}

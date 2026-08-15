@@ -1,0 +1,8 @@
+{
+  "package": "io.github.muntashirakon.unapkm",
+  "signerFingerprints": [
+    "CA:E2:32:6B:08:06:CB:EC:EB:E4:80:B7:29:01:02:3E:2E:85:30:C6:BA:C2:5C:56:A3:46:23:CD:05:CE:0E:F6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

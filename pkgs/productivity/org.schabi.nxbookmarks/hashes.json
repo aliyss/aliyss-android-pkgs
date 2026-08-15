@@ -1,0 +1,18 @@
+{
+  "apkName": "org.schabi.nxbookmarks_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YZj4Z/ap/x8J1NlVd+bD7b6KtTKDFbc3nh9XS27bw7U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YZj4Z/ap/x8J1NlVd+bD7b6KtTKDFbc3nh9XS27bw7U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YZj4Z/ap/x8J1NlVd+bD7b6KtTKDFbc3nh9XS27bw7U="
+    }
+  },
+  "version": "1.24"
+}

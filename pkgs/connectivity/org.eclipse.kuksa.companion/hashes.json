@@ -1,0 +1,18 @@
+{
+  "apkName": "org.eclipse.kuksa.companion_10000103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zFcWExIWgqOcA/a4EKQswJqzaEwUD1XVDqQOfINDY3Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zFcWExIWgqOcA/a4EKQswJqzaEwUD1XVDqQOfINDY3Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zFcWExIWgqOcA/a4EKQswJqzaEwUD1XVDqQOfINDY3Q="
+    }
+  },
+  "version": "0.1.3"
+}

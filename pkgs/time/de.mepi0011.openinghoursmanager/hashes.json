@@ -1,0 +1,18 @@
+{
+  "apkName": "de.mepi0011.openinghoursmanager_10002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vxryco0qEYiQ7/2nEFP4LCq4g497N384LYU9v5WoVuA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vxryco0qEYiQ7/2nEFP4LCq4g497N384LYU9v5WoVuA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vxryco0qEYiQ7/2nEFP4LCq4g497N384LYU9v5WoVuA="
+    }
+  },
+  "version": "1.2"
+}

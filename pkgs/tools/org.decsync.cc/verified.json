@@ -1,0 +1,8 @@
+{
+  "package": "org.decsync.cc",
+  "signerFingerprints": [
+    "17:FE:07:62:58:EE:F2:C8:F7:4B:41:3B:97:9A:09:7A:E3:99:03:7D:DB:EC:DE:E8:70:FE:71:C1:19:21:C9:94"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

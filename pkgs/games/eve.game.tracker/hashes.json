@@ -1,0 +1,18 @@
+{
+  "apkName": "eve.game.tracker_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OKb3qjh0vazU4PKhZzhsM4w0vx/MTVfrcMIiwicvUlA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OKb3qjh0vazU4PKhZzhsM4w0vx/MTVfrcMIiwicvUlA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OKb3qjh0vazU4PKhZzhsM4w0vx/MTVfrcMIiwicvUlA="
+    }
+  },
+  "version": "0.1.1"
+}

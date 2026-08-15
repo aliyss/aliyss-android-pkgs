@@ -1,0 +1,18 @@
+{
+  "apkName": "net.yukh.xui_100600.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pf5McLtb1FTDsC9OzKG/aCXg2nBCnN37LAF9GRQB+gM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pf5McLtb1FTDsC9OzKG/aCXg2nBCnN37LAF9GRQB+gM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pf5McLtb1FTDsC9OzKG/aCXg2nBCnN37LAF9GRQB+gM="
+    }
+  },
+  "version": "0.10.6"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.jerameeldelosreyes.bacon",
+  "signerFingerprints": [
+    "02:A0:C4:E8:0D:9A:38:1E:74:01:B4:9C:9C:FB:F7:83:DB:95:78:86:F7:8A:C2:8D:F0:66:85:F9:AB:BD:AA:A4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

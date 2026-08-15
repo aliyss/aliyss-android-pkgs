@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fossify.home_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pgPT1RBIL+r9c9Uqk6Hqm679LKCq4ymhTL8OIfQ2OOM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pgPT1RBIL+r9c9Uqk6Hqm679LKCq4ymhTL8OIfQ2OOM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pgPT1RBIL+r9c9Uqk6Hqm679LKCq4ymhTL8OIfQ2OOM="
+    }
+  },
+  "version": "1.10.0"
+}

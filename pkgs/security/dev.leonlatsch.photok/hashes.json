@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.leonlatsch.photok_66.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JFbmtz+hPuqgO5Av5Ju3pURxbHB9petDGwsMIgYz9Vw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JFbmtz+hPuqgO5Av5Ju3pURxbHB9petDGwsMIgYz9Vw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JFbmtz+hPuqgO5Av5Ju3pURxbHB9petDGwsMIgYz9Vw="
+    }
+  },
+  "version": "3.1.3"
+}

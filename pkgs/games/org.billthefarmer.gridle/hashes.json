@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.gridle_123.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-esUqb5O1jXuCg8Byca2j8kUhBdTluHAAVcmA+hcuvT4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-esUqb5O1jXuCg8Byca2j8kUhBdTluHAAVcmA+hcuvT4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-esUqb5O1jXuCg8Byca2j8kUhBdTluHAAVcmA+hcuvT4="
+    }
+  },
+  "version": "1.23"
+}

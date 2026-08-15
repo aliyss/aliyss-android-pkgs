@@ -1,0 +1,8 @@
+{
+  "package": "dev.abhaycloud.fdtracker",
+  "signerFingerprints": [
+    "1A:78:38:65:2F:89:7B:0F:83:25:62:B2:B8:29:F0:8B:CD:5B:AA:EB:2A:77:A2:CE:3D:97:3F:62:AC:E6:1D:4F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

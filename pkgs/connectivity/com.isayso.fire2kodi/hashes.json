@@ -1,0 +1,18 @@
+{
+  "apkName": "com.isayso.fire2kodi_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AxRi4vTFQAHwkFgY0zVjE3g1uhcmuPgre/DLyYqlgUw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AxRi4vTFQAHwkFgY0zVjE3g1uhcmuPgre/DLyYqlgUw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AxRi4vTFQAHwkFgY0zVjE3g1uhcmuPgre/DLyYqlgUw="
+    }
+  },
+  "version": "0.82"
+}

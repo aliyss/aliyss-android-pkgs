@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wkovacs64.mtorch_210.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9hIskvrmiXPbmObvf7Df0+AgRC7WxYqR3agqu2FAJCk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9hIskvrmiXPbmObvf7Df0+AgRC7WxYqR3agqu2FAJCk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9hIskvrmiXPbmObvf7Df0+AgRC7WxYqR3agqu2FAJCk="
+    }
+  },
+  "version": "2.1.0"
+}

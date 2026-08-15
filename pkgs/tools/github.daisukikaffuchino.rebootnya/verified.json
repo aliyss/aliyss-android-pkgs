@@ -1,0 +1,8 @@
+{
+  "package": "github.daisukikaffuchino.rebootnya",
+  "signerFingerprints": [
+    "F2:8A:4E:14:D2:A2:C5:01:4B:E5:46:CB:1A:FF:7A:AF:0B:DC:F8:EA:85:34:A2:9F:9C:35:C2:0A:4A:A8:CF:E7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

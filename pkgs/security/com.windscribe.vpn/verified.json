@@ -1,0 +1,8 @@
+{
+  "package": "com.windscribe.vpn",
+  "signerFingerprints": [
+    "93:2D:D4:E6:FC:65:A0:76:FD:FA:37:E9:2A:47:26:9F:34:75:3E:0B:D5:D8:FE:7F:FE:0A:D0:74:3C:0B:C5:FE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

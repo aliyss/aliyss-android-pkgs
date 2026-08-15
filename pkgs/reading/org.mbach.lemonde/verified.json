@@ -1,0 +1,8 @@
+{
+  "package": "org.mbach.lemonde",
+  "signerFingerprints": [
+    "AC:BF:D6:B3:42:34:0A:1B:A7:DD:78:6D:2D:30:90:54:9F:05:41:16:4B:35:6D:CE:87:6E:40:81:31:67:81:23"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

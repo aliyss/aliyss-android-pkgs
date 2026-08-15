@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.co.busydoingnothing.anagrams_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kkfCq/oNjlteZl28fN8+tVnex/wZY5s64P1n+Jp3lm0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kkfCq/oNjlteZl28fN8+tVnex/wZY5s64P1n+Jp3lm0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kkfCq/oNjlteZl28fN8+tVnex/wZY5s64P1n+Jp3lm0="
+    }
+  },
+  "version": "14"
+}

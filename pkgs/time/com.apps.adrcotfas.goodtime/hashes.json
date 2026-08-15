@@ -1,0 +1,18 @@
+{
+  "apkName": "com.apps.adrcotfas.goodtime_364.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TreXwt1WXShB1EV7ZrCCCvpfz+c/mclGFbx59Am4B6M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TreXwt1WXShB1EV7ZrCCCvpfz+c/mclGFbx59Am4B6M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TreXwt1WXShB1EV7ZrCCCvpfz+c/mclGFbx59Am4B6M="
+    }
+  },
+  "version": "3.2.6"
+}

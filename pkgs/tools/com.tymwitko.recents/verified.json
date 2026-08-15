@@ -1,0 +1,8 @@
+{
+  "package": "com.tymwitko.recents",
+  "signerFingerprints": [
+    "46:7D:C8:17:2D:D5:E5:2E:CD:B9:87:40:A8:89:8E:F9:6B:DF:8D:38:4A:58:FE:7D:A5:BF:D9:71:32:EA:3B:B0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

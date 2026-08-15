@@ -1,0 +1,18 @@
+{
+  "apkName": "app.intra_74.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FD4MnbtN2QHeFxjhWHJWkvL3E/dof99LimdkHaAKBzk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FD4MnbtN2QHeFxjhWHJWkvL3E/dof99LimdkHaAKBzk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FD4MnbtN2QHeFxjhWHJWkvL3E/dof99LimdkHaAKBzk="
+    }
+  },
+  "version": "1.5.0"
+}

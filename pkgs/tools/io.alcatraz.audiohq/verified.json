@@ -1,0 +1,8 @@
+{
+  "package": "io.alcatraz.audiohq",
+  "signerFingerprints": [
+    "BE:83:74:A9:34:E4:B9:BD:3D:94:F4:22:1C:30:64:80:81:C5:8F:EF:21:22:9E:1D:CD:47:F6:F3:DA:AA:AB:E7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

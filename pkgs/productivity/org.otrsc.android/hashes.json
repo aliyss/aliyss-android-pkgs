@@ -1,0 +1,18 @@
+{
+  "apkName": "org.otrsc.android_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rhhwrIxHJ0Q18m9uT+XlRhPcG01sZd5gBnWQbYzDsIQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rhhwrIxHJ0Q18m9uT+XlRhPcG01sZd5gBnWQbYzDsIQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rhhwrIxHJ0Q18m9uT+XlRhPcG01sZd5gBnWQbYzDsIQ="
+    }
+  },
+  "version": "2.0"
+}

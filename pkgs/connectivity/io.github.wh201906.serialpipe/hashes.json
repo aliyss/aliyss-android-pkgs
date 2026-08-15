@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.wh201906.serialpipe_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tPymUYgriEQSkWr5VTETyc+HDCPo40F9KDVY4vg+njY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tPymUYgriEQSkWr5VTETyc+HDCPo40F9KDVY4vg+njY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tPymUYgriEQSkWr5VTETyc+HDCPo40F9KDVY4vg+njY="
+    }
+  },
+  "version": "v0.0.3"
+}

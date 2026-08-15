@@ -1,0 +1,18 @@
+{
+  "apkName": "S.N.A.K.E_1000001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2LPbb5EsZ77Brp3sWxtP/ZlYAEvXxe/siM7EjCO/yoY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2LPbb5EsZ77Brp3sWxtP/ZlYAEvXxe/siM7EjCO/yoY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2LPbb5EsZ77Brp3sWxtP/ZlYAEvXxe/siM7EjCO/yoY="
+    }
+  },
+  "version": "1000001.0-OPTIMIZED"
+}

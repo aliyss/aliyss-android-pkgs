@@ -1,0 +1,8 @@
+{
+  "package": "com.kolktech.linxshare",
+  "signerFingerprints": [
+    "A1:04:2B:08:37:FA:BB:15:6E:6A:6A:D3:CE:AE:8F:06:B6:3F:EE:C9:74:76:72:95:14:E9:98:0B:54:0F:73:00"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

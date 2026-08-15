@@ -1,0 +1,8 @@
+{
+  "package": "pl.sanszo.pcis",
+  "signerFingerprints": [
+    "F5:98:1C:F8:91:70:92:8C:D1:34:A8:F1:70:4D:2C:AD:A6:C0:3F:E3:87:90:6A:94:AA:CF:EC:40:E6:4C:F5:C1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

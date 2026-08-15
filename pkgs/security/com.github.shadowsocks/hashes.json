@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.shadowsocks_5030550.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-A3/vBic1vQKYIht7KafvfM0k3DRJ/A+8K/zN2K4TtOo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A3/vBic1vQKYIht7KafvfM0k3DRJ/A+8K/zN2K4TtOo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A3/vBic1vQKYIht7KafvfM0k3DRJ/A+8K/zN2K4TtOo="
+    }
+  },
+  "version": "5.3.5-nightly"
+}

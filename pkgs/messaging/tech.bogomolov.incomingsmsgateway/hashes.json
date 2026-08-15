@@ -1,0 +1,18 @@
+{
+  "apkName": "tech.bogomolov.incomingsmsgateway_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DAqAIiofbCfY52lS/2Z9yo+BMiOXmAIqRPJG+wqfx+Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DAqAIiofbCfY52lS/2Z9yo+BMiOXmAIqRPJG+wqfx+Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DAqAIiofbCfY52lS/2Z9yo+BMiOXmAIqRPJG+wqfx+Y="
+    }
+  },
+  "version": "2.4.0"
+}

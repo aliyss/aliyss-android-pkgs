@@ -1,0 +1,8 @@
+{
+  "package": "systems.nik.anthology",
+  "signerFingerprints": [
+    "E1:BD:86:06:68:30:49:30:52:88:1C:6C:4C:88:0B:9C:89:C5:89:58:6C:06:11:67:97:08:9F:2A:A7:73:4E:D3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

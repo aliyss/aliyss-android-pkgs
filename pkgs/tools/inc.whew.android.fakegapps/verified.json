@@ -1,0 +1,8 @@
+{
+  "package": "inc.whew.android.fakegapps",
+  "signerFingerprints": [
+    "16:4B:80:31:90:8C:41:AB:6D:AE:31:D9:E6:1C:7D:B2:49:08:EB:02:1E:8D:22:A9:5E:DB:9B:61:6D:A2:79:1B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "link.standen.michael.phonesaver_37.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kSGszRx7tKWdW+wKXqzyj8LzqGaZeotY4oQF+oMHhFc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kSGszRx7tKWdW+wKXqzyj8LzqGaZeotY4oQF+oMHhFc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kSGszRx7tKWdW+wKXqzyj8LzqGaZeotY4oQF+oMHhFc="
+    }
+  },
+  "version": "5.2.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.husseinfo.interfast",
+  "signerFingerprints": [
+    "16:75:40:8F:93:99:15:7D:62:15:F8:07:7B:97:9C:D0:20:74:AF:E0:19:F5:13:F9:29:C6:A4:EA:A5:CF:8F:F4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

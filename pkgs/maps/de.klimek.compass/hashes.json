@@ -1,0 +1,18 @@
+{
+  "apkName": "de.klimek.compass_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hrrs/Qserr8lfVq1fpRbyM3XdrfZlcD/iDfRKJzgqN8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hrrs/Qserr8lfVq1fpRbyM3XdrfZlcD/iDfRKJzgqN8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hrrs/Qserr8lfVq1fpRbyM3XdrfZlcD/iDfRKJzgqN8="
+    }
+  },
+  "version": "1.5.0"
+}

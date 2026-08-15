@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.schmidt.systems.opensyncedlists_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-o1TRs9YQk8vQQE8bey/Fc/2W8ggqell02aTuo9ZUuT0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o1TRs9YQk8vQQE8bey/Fc/2W8ggqell02aTuo9ZUuT0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o1TRs9YQk8vQQE8bey/Fc/2W8ggqell02aTuo9ZUuT0="
+    }
+  },
+  "version": "1.3.0"
+}

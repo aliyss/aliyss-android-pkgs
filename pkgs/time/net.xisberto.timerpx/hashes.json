@@ -1,0 +1,18 @@
+{
+  "apkName": "net.xisberto.timerpx_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dkO1vzN2wfX/kH+m6MqonyLbY64vD6R07IB70FYc/u0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dkO1vzN2wfX/kH+m6MqonyLbY64vD6R07IB70FYc/u0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dkO1vzN2wfX/kH+m6MqonyLbY64vD6R07IB70FYc/u0="
+    }
+  },
+  "version": "1.4.2"
+}

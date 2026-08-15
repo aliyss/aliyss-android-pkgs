@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ligi.survivalmanual_500.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bbyUPOVrNKUx+34Na2aPmAVEOJ20DaDefKRA+fC6MXQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bbyUPOVrNKUx+34Na2aPmAVEOJ20DaDefKRA+fC6MXQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bbyUPOVrNKUx+34Na2aPmAVEOJ20DaDefKRA+fC6MXQ="
+    }
+  },
+  "version": "5.0.0"
+}

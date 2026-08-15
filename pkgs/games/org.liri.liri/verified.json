@@ -1,0 +1,8 @@
+{
+  "package": "org.liri.liri",
+  "signerFingerprints": [
+    "80:20:33:2A:46:0F:38:A4:22:60:54:1D:E7:01:BE:9D:F7:F4:AC:6D:F1:E4:3D:A8:60:78:40:4E:F5:08:5E:9F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

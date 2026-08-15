@@ -1,0 +1,18 @@
+{
+  "apkName": "org.vi_server.red_screen_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cOm4SQ5TAyELk8dQXgX2sEck8gpCb1rCDF1ne5FH0IU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cOm4SQ5TAyELk8dQXgX2sEck8gpCb1rCDF1ne5FH0IU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cOm4SQ5TAyELk8dQXgX2sEck8gpCb1rCDF1ne5FH0IU="
+    }
+  },
+  "version": "1.2"
+}

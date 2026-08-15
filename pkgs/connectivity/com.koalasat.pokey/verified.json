@@ -1,0 +1,8 @@
+{
+  "package": "com.koalasat.pokey",
+  "signerFingerprints": [
+    "D5:1D:9E:3E:C1:EF:B3:28:09:2D:CE:8B:BC:3E:3E:1E:F4:44:FC:19:AF:8D:D8:5F:EA:97:6E:95:81:85:60:05"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.openavisio.app_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-emIC9sfgQQyVSbXP/OPDDid7p7VRhq0mGFWHWhnlgnU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-emIC9sfgQQyVSbXP/OPDDid7p7VRhq0mGFWHWhnlgnU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-emIC9sfgQQyVSbXP/OPDDid7p7VRhq0mGFWHWhnlgnU="
+    }
+  },
+  "version": "0.1.0-beta"
+}

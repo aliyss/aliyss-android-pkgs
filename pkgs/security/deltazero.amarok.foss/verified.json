@@ -1,0 +1,8 @@
+{
+  "package": "deltazero.amarok.foss",
+  "signerFingerprints": [
+    "89:22:83:81:6C:4D:FF:AE:83:75:A5:3A:BA:E3:49:D4:A5:74:32:C9:FC:CF:C0:61:E0:6D:37:A7:39:67:94:E6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

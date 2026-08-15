@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.duniter.cesium_107160.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QRduCgdmmF3d7/AUKQTerH5E8B1fe4h9AjUeaOluALc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QRduCgdmmF3d7/AUKQTerH5E8B1fe4h9AjUeaOluALc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QRduCgdmmF3d7/AUKQTerH5E8B1fe4h9AjUeaOluALc="
+    }
+  },
+  "version": "1.7.16"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kidozh.discuzhub.fdroid_48.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Cds5woH7R6RHUWAPzmADnAxHZGevToDO/jVDkYzA3Lw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cds5woH7R6RHUWAPzmADnAxHZGevToDO/jVDkYzA3Lw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cds5woH7R6RHUWAPzmADnAxHZGevToDO/jVDkYzA3Lw="
+    }
+  },
+  "version": "5.5"
+}

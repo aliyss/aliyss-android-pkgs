@@ -1,0 +1,8 @@
+{
+  "package": "org.getdisconnected.libreipsum",
+  "signerFingerprints": [
+    "40:F1:17:A7:1E:51:19:6A:BA:E6:2A:A7:FA:0F:BA:67:48:B2:2E:CB:FF:AA:DC:73:0A:1E:DB:92:88:7E:AF:68"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

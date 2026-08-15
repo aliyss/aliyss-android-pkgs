@@ -1,0 +1,18 @@
+{
+  "apkName": "org.nutritionfacts.dailydozen_95.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bx6uXc5YYmB/mIAK+yXcDzhS4F4LraR+FWnvnueJGAY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bx6uXc5YYmB/mIAK+yXcDzhS4F4LraR+FWnvnueJGAY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bx6uXc5YYmB/mIAK+yXcDzhS4F4LraR+FWnvnueJGAY="
+    }
+  },
+  "version": "30"
+}

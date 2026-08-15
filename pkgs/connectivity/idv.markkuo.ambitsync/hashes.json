@@ -1,0 +1,18 @@
+{
+  "apkName": "idv.markkuo.ambitsync_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NBRWjinUDsjCIyK1PkboO/OCvMoY0/j/xPSzWEDVuNQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NBRWjinUDsjCIyK1PkboO/OCvMoY0/j/xPSzWEDVuNQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NBRWjinUDsjCIyK1PkboO/OCvMoY0/j/xPSzWEDVuNQ="
+    }
+  },
+  "version": "1.4.1"
+}

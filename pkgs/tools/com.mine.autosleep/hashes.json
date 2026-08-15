@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mine.autosleep_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nzB0n3ZGzuDqKtCFW4XNpUlAkuXHjr50gV8tBfaUtFA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nzB0n3ZGzuDqKtCFW4XNpUlAkuXHjr50gV8tBfaUtFA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nzB0n3ZGzuDqKtCFW4XNpUlAkuXHjr50gV8tBfaUtFA="
+    }
+  },
+  "version": "3.1"
+}

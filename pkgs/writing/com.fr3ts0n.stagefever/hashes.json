@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fr3ts0n.stagefever_10200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ri2HrJYuNuMQ29JK+S412woWYgLOnHZfpahtNGXPnFs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ri2HrJYuNuMQ29JK+S412woWYgLOnHZfpahtNGXPnFs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ri2HrJYuNuMQ29JK+S412woWYgLOnHZfpahtNGXPnFs="
+    }
+  },
+  "version": "V1.2.0"
+}

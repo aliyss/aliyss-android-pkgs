@@ -1,0 +1,18 @@
+{
+  "apkName": "com.asdoi.mebis_150.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-w6O02KFka3HjgoaMfrg2OEXAD2DbddjJ8dQOQ785Jm0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w6O02KFka3HjgoaMfrg2OEXAD2DbddjJ8dQOQ785Jm0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w6O02KFka3HjgoaMfrg2OEXAD2DbddjJ8dQOQ785Jm0="
+    }
+  },
+  "version": "1.5"
+}

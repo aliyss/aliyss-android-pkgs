@@ -1,0 +1,8 @@
+{
+  "package": "org.amoradi.syncopoli",
+  "signerFingerprints": [
+    "49:8A:49:1C:7D:54:E7:6B:71:FD:CE:CB:5F:BD:51:F0:0B:B6:6E:C2:F0:F1:53:0E:5B:A1:2C:0C:D2:18:71:90"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

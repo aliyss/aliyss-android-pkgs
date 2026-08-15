@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.yamin8000.owl_57.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3eiQ1M8QDpRVT7vp8Hzk3j8Y6GVx3hKU4DCrFV7wEYU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3eiQ1M8QDpRVT7vp8Hzk3j8Y6GVx3hKU4DCrFV7wEYU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3eiQ1M8QDpRVT7vp8Hzk3j8Y6GVx3hKU4DCrFV7wEYU="
+    }
+  },
+  "version": "1.8.3"
+}

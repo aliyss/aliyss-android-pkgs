@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bitcoin.sharedhaven.testnet_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-X6wOvNnHG2SS4vc6yj7geNBE5dqLRI6hZltSoV3GQnM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X6wOvNnHG2SS4vc6yj7geNBE5dqLRI6hZltSoV3GQnM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X6wOvNnHG2SS4vc6yj7geNBE5dqLRI6hZltSoV3GQnM="
+    }
+  },
+  "version": "1.6.7"
+}

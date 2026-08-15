@@ -1,0 +1,18 @@
+{
+  "apkName": "de.democracydeutschland.app_103580.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-quTFVaDLOIRyDOXQP8G2QKDx468MRSuuq8Mh8PY4izk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-quTFVaDLOIRyDOXQP8G2QKDx468MRSuuq8Mh8PY4izk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-quTFVaDLOIRyDOXQP8G2QKDx468MRSuuq8Mh8PY4izk="
+    }
+  },
+  "version": "1.5.13"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.artsoft.rocksndiamonds_4020200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hVDXHrNe5ijWpS8UVr7LdlVZi8WFxafexBH5++Zmw04="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hVDXHrNe5ijWpS8UVr7LdlVZi8WFxafexBH5++Zmw04="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hVDXHrNe5ijWpS8UVr7LdlVZi8WFxafexBH5++Zmw04="
+    }
+  },
+  "version": "4.2.2.0"
+}

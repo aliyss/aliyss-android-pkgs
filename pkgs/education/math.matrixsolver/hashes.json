@@ -1,0 +1,18 @@
+{
+  "apkName": "math.matrixsolver_37.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GzNrC5H50zIfxsAGC6TaSksk6507tZKqLwinHkMyUO4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GzNrC5H50zIfxsAGC6TaSksk6507tZKqLwinHkMyUO4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GzNrC5H50zIfxsAGC6TaSksk6507tZKqLwinHkMyUO4="
+    }
+  },
+  "version": "2.0"
+}

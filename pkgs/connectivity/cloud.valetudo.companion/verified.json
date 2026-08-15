@@ -1,0 +1,8 @@
+{
+  "package": "cloud.valetudo.companion",
+  "signerFingerprints": [
+    "CE:B1:03:75:1A:92:79:3F:5E:0C:31:4C:46:D7:12:D4:FA:49:54:49:DB:AE:18:9B:5D:2D:7B:98:1B:AA:8F:54"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bobek.compass_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6VL2/jqdf0Wcn3by0D/cjOu+dZDAX3xMG3nYtwZocsY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6VL2/jqdf0Wcn3by0D/cjOu+dZDAX3xMG3nYtwZocsY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6VL2/jqdf0Wcn3by0D/cjOu+dZDAX3xMG3nYtwZocsY="
+    }
+  },
+  "version": "2.1.1"
+}

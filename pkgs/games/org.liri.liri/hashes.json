@@ -1,0 +1,18 @@
+{
+  "apkName": "org.liri.liri_30106.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nJGYhCJrFyKLqyr/WkquBdzUe3RSK+SU3a8A4x3BdTE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nJGYhCJrFyKLqyr/WkquBdzUe3RSK+SU3a8A4x3BdTE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nJGYhCJrFyKLqyr/WkquBdzUe3RSK+SU3a8A4x3BdTE="
+    }
+  },
+  "version": "3.1.6"
+}

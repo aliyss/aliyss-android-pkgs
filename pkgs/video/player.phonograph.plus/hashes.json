@@ -1,0 +1,18 @@
+{
+  "apkName": "player.phonograph.plus_1121.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VNnjlpTY4+plpAwhG38x9SdCYwB9dX0/NR0s1QYKWP8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VNnjlpTY4+plpAwhG38x9SdCYwB9dX0/NR0s1QYKWP8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VNnjlpTY4+plpAwhG38x9SdCYwB9dX0/NR0s1QYKWP8="
+    }
+  },
+  "version": "1.12.1"
+}

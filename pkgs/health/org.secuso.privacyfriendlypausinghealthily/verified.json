@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlypausinghealthily",
+  "signerFingerprints": [
+    "3C:C2:8D:41:03:00:8F:43:19:92:97:B5:56:72:4B:B2:71:D7:8E:A6:13:C1:2A:9A:DF:CA:D9:10:E3:5D:17:6B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

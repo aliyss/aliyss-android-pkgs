@@ -1,0 +1,8 @@
+{
+  "package": "com.cromstudio.redlinuxclick",
+  "signerFingerprints": [
+    "BB:F4:26:11:54:85:F3:8A:E0:B9:24:07:F0:C2:E8:4F:FF:F4:72:66:D0:0F:C9:C5:FA:6F:D3:72:A2:57:7E:04"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "amirz.shade_26649280.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5u79AP84Ahdn3AhJrcJf3WphAy04rF9p4CDLN281q5g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5u79AP84Ahdn3AhJrcJf3WphAy04rF9p4CDLN281q5g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5u79AP84Ahdn3AhJrcJf3WphAy04rF9p4CDLN281q5g="
+    }
+  },
+  "version": "2020-09-01 12:40"
+}

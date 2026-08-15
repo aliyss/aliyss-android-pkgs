@@ -1,0 +1,18 @@
+{
+  "apkName": "com.martinmimigames.tinymusicplayer_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-17yyTRAbBL6zOUtpWyS+Tiw9btcC8dDga8TdcH9k2Go="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-17yyTRAbBL6zOUtpWyS+Tiw9btcC8dDga8TdcH9k2Go="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-17yyTRAbBL6zOUtpWyS+Tiw9btcC8dDga8TdcH9k2Go="
+    }
+  },
+  "version": "1.3"
+}

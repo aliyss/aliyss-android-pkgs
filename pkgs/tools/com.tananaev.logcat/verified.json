@@ -1,0 +1,8 @@
+{
+  "package": "com.tananaev.logcat",
+  "signerFingerprints": [
+    "0D:E2:DA:C4:FC:12:7B:7E:44:3A:8A:66:28:82:F2:95:49:9F:F3:C5:22:61:43:C4:41:0B:57:B7:AA:F2:B7:1C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

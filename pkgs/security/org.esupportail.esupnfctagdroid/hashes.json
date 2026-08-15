@@ -1,0 +1,18 @@
+{
+  "apkName": "org.esupportail.esupnfctagdroid_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Pe83XsHtvadzJOVKQQB81pJcTkJx7ktDKysSEdU7CWw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pe83XsHtvadzJOVKQQB81pJcTkJx7ktDKysSEdU7CWw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pe83XsHtvadzJOVKQQB81pJcTkJx7ktDKysSEdU7CWw="
+    }
+  },
+  "version": "1.2.7"
+}

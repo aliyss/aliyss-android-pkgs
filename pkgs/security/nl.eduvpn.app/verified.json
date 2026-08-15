@@ -1,0 +1,8 @@
+{
+  "package": "nl.eduvpn.app",
+  "signerFingerprints": [
+    "DA:69:38:CA:B6:10:84:20:FA:65:6D:14:B4:E5:73:19:89:F1:43:B4:73:DB:62:85:B5:70:F9:F7:BA:B0:52:C3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

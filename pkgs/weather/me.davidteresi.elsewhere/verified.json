@@ -1,0 +1,8 @@
+{
+  "package": "me.davidteresi.elsewhere",
+  "signerFingerprints": [
+    "B1:AA:B8:25:E8:27:D9:48:6E:BF:1C:15:B2:E0:22:1A:C5:07:52:F5:89:BC:0E:45:6D:94:10:C1:0F:73:C2:45"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

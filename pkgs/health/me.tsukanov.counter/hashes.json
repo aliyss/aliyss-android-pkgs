@@ -1,0 +1,18 @@
+{
+  "apkName": "me.tsukanov.counter_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0Kp5i67KuXIu0p3vVSa3jAY4c8Z1M1Puh79wH0CbR0M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0Kp5i67KuXIu0p3vVSa3jAY4c8Z1M1Puh79wH0CbR0M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0Kp5i67KuXIu0p3vVSa3jAY4c8Z1M1Puh79wH0CbR0M="
+    }
+  },
+  "version": "35"
+}

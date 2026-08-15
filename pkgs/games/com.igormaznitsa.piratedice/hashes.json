@@ -1,0 +1,18 @@
+{
+  "apkName": "com.igormaznitsa.piratedice_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lBZnNHmW2ivZiF+BtY1oSrx+yFbv8tyFmIFEVC+Jwlk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lBZnNHmW2ivZiF+BtY1oSrx+yFbv8tyFmIFEVC+Jwlk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lBZnNHmW2ivZiF+BtY1oSrx+yFbv8tyFmIFEVC+Jwlk="
+    }
+  },
+  "version": "1.0.3"
+}

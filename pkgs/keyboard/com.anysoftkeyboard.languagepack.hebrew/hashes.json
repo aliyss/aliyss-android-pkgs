@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.hebrew_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sP/G5YR6otuWRnmTBx0EbbnAA0fhlFcTAdk6UJ4xTD8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sP/G5YR6otuWRnmTBx0EbbnAA0fhlFcTAdk6UJ4xTD8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sP/G5YR6otuWRnmTBx0EbbnAA0fhlFcTAdk6UJ4xTD8="
+    }
+  },
+  "version": "5.1.6158"
+}

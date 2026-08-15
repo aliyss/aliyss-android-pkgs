@@ -1,0 +1,8 @@
+{
+  "package": "io.nandandesai.privacybreacher",
+  "signerFingerprints": [
+    "57:8B:A7:AC:D7:8B:07:EF:C1:30:F0:9E:50:87:D8:84:58:01:50:5E:08:74:8F:FA:D6:50:D6:C4:CD:84:6F:CA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

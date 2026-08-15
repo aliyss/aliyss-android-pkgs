@@ -1,0 +1,8 @@
+{
+  "package": "fr.rhaz.ipfs.sweet",
+  "signerFingerprints": [
+    "6F:F0:6F:8E:DC:C4:EB:E5:B2:70:59:F2:F7:AA:D2:B9:11:EF:12:A3:B4:B5:85:BE:F4:40:9A:87:8E:1F:1E:A7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

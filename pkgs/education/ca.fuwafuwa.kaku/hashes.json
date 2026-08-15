@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.fuwafuwa.kaku_78.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-54DLdhYaiBo/Z6o74jGSg5exzx8mmA+fL83RL3sxvus="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-54DLdhYaiBo/Z6o74jGSg5exzx8mmA+fL83RL3sxvus="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-54DLdhYaiBo/Z6o74jGSg5exzx8mmA+fL83RL3sxvus="
+    }
+  },
+  "version": "1.3.78"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fiveseven.tabataxtreme_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Pmxz/QrNDu6yOUwq0guVJm9v8VKcf4f9imgZRoJ0+pY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pmxz/QrNDu6yOUwq0guVJm9v8VKcf4f9imgZRoJ0+pY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pmxz/QrNDu6yOUwq0guVJm9v8VKcf4f9imgZRoJ0+pY="
+    }
+  },
+  "version": "1.6.1"
+}

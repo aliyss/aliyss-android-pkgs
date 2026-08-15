@@ -1,0 +1,18 @@
+{
+  "apkName": "de.tuberlin.mcc.simra.app_101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bTLw6TbtrGdzwWOFL9oZf5O+2KMa9YEdTQwcU4bxVJI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bTLw6TbtrGdzwWOFL9oZf5O+2KMa9YEdTQwcU4bxVJI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bTLw6TbtrGdzwWOFL9oZf5O+2KMa9YEdTQwcU4bxVJI="
+    }
+  },
+  "version": "101.0"
+}

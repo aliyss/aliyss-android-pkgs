@@ -1,0 +1,8 @@
+{
+  "package": "com.markobl.calllogsync",
+  "signerFingerprints": [
+    "B1:28:F0:D4:4F:8F:04:ED:25:0D:7A:6C:96:12:E3:1A:B3:74:17:66:74:AB:37:52:99:51:37:2B:3B:E1:BE:C9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

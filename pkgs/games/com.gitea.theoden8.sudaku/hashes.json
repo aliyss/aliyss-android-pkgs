@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gitea.theoden8.sudaku_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OF6iEWL3CCp/83xwrmkXC5YTqiYk2G26I5cL9OXoEJU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OF6iEWL3CCp/83xwrmkXC5YTqiYk2G26I5cL9OXoEJU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OF6iEWL3CCp/83xwrmkXC5YTqiYk2G26I5cL9OXoEJU="
+    }
+  },
+  "version": "0.1.1"
+}

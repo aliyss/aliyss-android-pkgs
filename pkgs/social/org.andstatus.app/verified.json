@@ -1,0 +1,8 @@
+{
+  "package": "org.andstatus.app",
+  "signerFingerprints": [
+    "20:C3:6D:5F:4B:D3:04:A6:1E:A2:DF:4A:E3:78:87:F6:27:91:AF:3D:26:ED:A1:D4:7A:7F:E6:82:3E:B6:EE:60"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

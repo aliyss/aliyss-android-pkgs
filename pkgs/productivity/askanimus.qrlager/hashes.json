@@ -1,0 +1,18 @@
+{
+  "apkName": "askanimus.qrlager_10104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XV89rkPoxxu3wR5auN2jz5GcFiYsp0mnNFnfStVEOAM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XV89rkPoxxu3wR5auN2jz5GcFiYsp0mnNFnfStVEOAM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XV89rkPoxxu3wR5auN2jz5GcFiYsp0mnNFnfStVEOAM="
+    }
+  },
+  "version": "1.1.4"
+}

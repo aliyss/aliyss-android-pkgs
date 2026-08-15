@@ -1,0 +1,8 @@
+{
+  "package": "com.github.tianma8023.xposed.smscode",
+  "signerFingerprints": [
+    "46:99:74:13:54:DB:18:3E:C6:CD:BB:FB:AB:17:7B:13:52:60:A5:AF:52:B6:ED:BE:B4:D3:61:AB:28:AA:C1:BF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.cozic.joplin_2097809.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-I0MnRImu+tHwoQqlrr53mGMaRw4AA89EoLf8hwpVPDY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I0MnRImu+tHwoQqlrr53mGMaRw4AA89EoLf8hwpVPDY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I0MnRImu+tHwoQqlrr53mGMaRw4AA89EoLf8hwpVPDY="
+    }
+  },
+  "version": "3.6.21"
+}

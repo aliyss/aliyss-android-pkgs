@@ -1,0 +1,18 @@
+{
+  "apkName": "net.cacheux.nvp.app_10301.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tg/BtIM4qfKJMoE4NfONe9Cv38o3PFKC2OV0gohPc+U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tg/BtIM4qfKJMoE4NfONe9Cv38o3PFKC2OV0gohPc+U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tg/BtIM4qfKJMoE4NfONe9Cv38o3PFKC2OV0gohPc+U="
+    }
+  },
+  "version": "1.3.1"
+}

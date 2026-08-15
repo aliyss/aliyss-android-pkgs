@@ -1,0 +1,18 @@
+{
+  "apkName": "de.szalkowski.activitylauncher_20500.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DHMfAcs1nhM7PC0dVlXOIamd6eRKMk/LTcZODcGVxkQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DHMfAcs1nhM7PC0dVlXOIamd6eRKMk/LTcZODcGVxkQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DHMfAcs1nhM7PC0dVlXOIamd6eRKMk/LTcZODcGVxkQ="
+    }
+  },
+  "version": "2.5.0-dev"
+}

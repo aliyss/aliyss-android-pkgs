@@ -1,0 +1,18 @@
+{
+  "apkName": "hev.sockstun_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wNdsBCl06coTM9E1Vi11lgS2Kkrire3Bd6rx84qOTSU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wNdsBCl06coTM9E1Vi11lgS2Kkrire3Bd6rx84qOTSU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wNdsBCl06coTM9E1Vi11lgS2Kkrire3Bd6rx84qOTSU="
+    }
+  },
+  "version": "8.0"
+}

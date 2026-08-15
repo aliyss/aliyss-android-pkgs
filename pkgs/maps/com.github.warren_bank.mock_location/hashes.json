@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.mock_location_2050204.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SuvkwBaVzaufy7SoOZ6W8ETlh2NbEkoa7k4eaf/9rkA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SuvkwBaVzaufy7SoOZ6W8ETlh2NbEkoa7k4eaf/9rkA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SuvkwBaVzaufy7SoOZ6W8ETlh2NbEkoa7k4eaf/9rkA="
+    }
+  },
+  "version": "002.05.02-04API"
+}

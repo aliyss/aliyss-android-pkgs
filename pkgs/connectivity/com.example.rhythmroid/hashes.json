@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.rhythmroid_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sFJ4/3r5T0OfrL3SHMEqxi0Y1728Vt/862UnixpRtZQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sFJ4/3r5T0OfrL3SHMEqxi0Y1728Vt/862UnixpRtZQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sFJ4/3r5T0OfrL3SHMEqxi0Y1728Vt/862UnixpRtZQ="
+    }
+  },
+  "version": "1.0"
+}

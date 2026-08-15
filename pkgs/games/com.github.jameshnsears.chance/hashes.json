@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.jameshnsears.chance_243137.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aEOaFqmUOE83Nk1AAR/btN/hVrFB9fbiylJpa2gICfg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aEOaFqmUOE83Nk1AAR/btN/hVrFB9fbiylJpa2gICfg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aEOaFqmUOE83Nk1AAR/btN/hVrFB9fbiylJpa2gICfg="
+    }
+  },
+  "version": "2.5.2"
+}

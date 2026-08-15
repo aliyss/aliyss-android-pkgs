@@ -1,0 +1,18 @@
+{
+  "apkName": "org.kknickkk.spider_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YIFJGi2ZewRFd3ZfNy7SGp0FRBgwBxId5LuJV6h600Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YIFJGi2ZewRFd3ZfNy7SGp0FRBgwBxId5LuJV6h600Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YIFJGi2ZewRFd3ZfNy7SGp0FRBgwBxId5LuJV6h600Q="
+    }
+  },
+  "version": "0.2.2"
+}

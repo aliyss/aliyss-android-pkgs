@@ -1,0 +1,18 @@
+{
+  "apkName": "ie.defo.ech_apps_1014052.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-z8KTtqEUf4jsHAXkDvObqq29eDg+j9DMSe9jHkUHuSE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z8KTtqEUf4jsHAXkDvObqq29eDg+j9DMSe9jHkUHuSE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z8KTtqEUf4jsHAXkDvObqq29eDg+j9DMSe9jHkUHuSE="
+    }
+  },
+  "version": "0.3"
+}

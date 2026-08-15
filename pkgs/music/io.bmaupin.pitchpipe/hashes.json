@@ -1,0 +1,18 @@
+{
+  "apkName": "io.bmaupin.pitchpipe_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qiqKv/Abdo+IZPFZnLAQ465jMCcjvggNWW/zckg8v50="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qiqKv/Abdo+IZPFZnLAQ465jMCcjvggNWW/zckg8v50="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qiqKv/Abdo+IZPFZnLAQ465jMCcjvggNWW/zckg8v50="
+    }
+  },
+  "version": "0.7.0"
+}

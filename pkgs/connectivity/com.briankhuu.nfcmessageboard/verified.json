@@ -1,0 +1,8 @@
+{
+  "package": "com.briankhuu.nfcmessageboard",
+  "signerFingerprints": [
+    "22:9E:A9:F9:AF:E1:20:6D:F0:74:00:5C:E7:E1:91:01:BE:F5:2E:04:E6:A1:31:DC:E3:67:9F:EF:53:68:20:70"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

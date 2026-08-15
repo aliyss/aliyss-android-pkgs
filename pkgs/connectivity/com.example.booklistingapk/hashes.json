@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.booklistingapk_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bJ0rAdWZZu9kwcbFhZVlBQmlX2vLrgWJIivgJMGuSmo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bJ0rAdWZZu9kwcbFhZVlBQmlX2vLrgWJIivgJMGuSmo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bJ0rAdWZZu9kwcbFhZVlBQmlX2vLrgWJIivgJMGuSmo="
+    }
+  },
+  "version": "1.1"
+}

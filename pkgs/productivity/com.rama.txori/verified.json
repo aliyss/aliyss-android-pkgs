@@ -1,0 +1,8 @@
+{
+  "package": "com.rama.txori",
+  "signerFingerprints": [
+    "1A:D0:F6:AA:B2:65:49:57:6A:93:7D:50:E8:80:65:15:CD:15:FC:31:60:0A:2D:23:E1:56:B2:72:C3:D3:8D:09"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

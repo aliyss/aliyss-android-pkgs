@@ -1,0 +1,18 @@
+{
+  "apkName": "me.lucky.silence_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ag9+s1QcV0ceMk/aqWpObdwelRfoYbvKt2LSdARKIg4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ag9+s1QcV0ceMk/aqWpObdwelRfoYbvKt2LSdARKIg4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ag9+s1QcV0ceMk/aqWpObdwelRfoYbvKt2LSdARKIg4="
+    }
+  },
+  "version": "1.13.1"
+}

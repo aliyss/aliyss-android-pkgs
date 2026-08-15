@@ -1,0 +1,18 @@
+{
+  "apkName": "com.CasparvdBroek.bletomqtt_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FgBNZmv+Yy8jr1CXvpEcc+KlhNHd/+P2LMU6rzliGgg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FgBNZmv+Yy8jr1CXvpEcc+KlhNHd/+P2LMU6rzliGgg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FgBNZmv+Yy8jr1CXvpEcc+KlhNHd/+P2LMU6rzliGgg="
+    }
+  },
+  "version": "1.03.01"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "ru.bluecat.android.xposed.mods.appsettings",
+  "signerFingerprints": [
+    "0D:0D:BE:F2:3B:28:69:29:E2:8F:97:CC:E3:9D:79:65:A9:FE:31:AF:F4:BC:43:4E:39:6B:9F:E5:14:28:92:93"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

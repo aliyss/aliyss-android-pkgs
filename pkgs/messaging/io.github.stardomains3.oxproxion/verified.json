@@ -1,0 +1,8 @@
+{
+  "package": "io.github.stardomains3.oxproxion",
+  "signerFingerprints": [
+    "3F:3A:F0:C2:B7:24:C4:91:84:58:C2:23:50:8A:61:17:8E:27:D1:92:CA:F9:42:AA:2D:58:25:30:1B:B1:07:8E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

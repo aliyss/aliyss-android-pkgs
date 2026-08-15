@@ -1,0 +1,8 @@
+{
+  "package": "uk.me.paraskos.pdfrenderer",
+  "signerFingerprints": [
+    "E2:BF:47:C0:B8:F0:77:16:54:A5:25:C5:2A:32:6D:09:FB:DE:1B:19:F5:E9:C8:B1:EB:B0:90:E9:7A:E5:91:A6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

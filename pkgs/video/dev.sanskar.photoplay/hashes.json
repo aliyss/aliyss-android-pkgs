@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.sanskar.photoplay_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zpfCJzZBWLE3D/7lVmPUVBMB7kyVDdwaw7051Xz+JmM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zpfCJzZBWLE3D/7lVmPUVBMB7kyVDdwaw7051Xz+JmM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zpfCJzZBWLE3D/7lVmPUVBMB7kyVDdwaw7051Xz+JmM="
+    }
+  },
+  "version": "0.3.1"
+}

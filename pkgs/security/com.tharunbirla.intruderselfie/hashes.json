@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tharunbirla.intruderselfie_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VPuI9hquXQKh+nuNGQLdXrfMXrK6bb2v6QaFEGQvWpw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VPuI9hquXQKh+nuNGQLdXrfMXrK6bb2v6QaFEGQvWpw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VPuI9hquXQKh+nuNGQLdXrfMXrK6bb2v6QaFEGQvWpw="
+    }
+  },
+  "version": "1.1"
+}

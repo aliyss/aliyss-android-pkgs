@@ -1,0 +1,18 @@
+{
+  "apkName": "com.uragiristereo.reversepixelify_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-18aflYv97BP4097VzzRwXPN0NkWq1xOBP0Y676udlxo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-18aflYv97BP4097VzzRwXPN0NkWq1xOBP0Y676udlxo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-18aflYv97BP4097VzzRwXPN0NkWq1xOBP0Y676udlxo="
+    }
+  },
+  "version": "1.0"
+}

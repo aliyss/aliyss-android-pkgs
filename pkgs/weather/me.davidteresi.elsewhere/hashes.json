@@ -1,0 +1,18 @@
+{
+  "apkName": "me.davidteresi.elsewhere_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-////YXWrJAiaDeCkR46uR8/FXNyuuwJvH85LM6CTxO4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-////YXWrJAiaDeCkR46uR8/FXNyuuwJvH85LM6CTxO4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-////YXWrJAiaDeCkR46uR8/FXNyuuwJvH85LM6CTxO4="
+    }
+  },
+  "version": "1.1"
+}

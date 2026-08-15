@@ -1,0 +1,18 @@
+{
+  "apkName": "com.manimarank.websitemonitor_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Tcyo8haYCXjSdRJK9vxYJyVrBGknUP6z7zYcGVz01ug="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Tcyo8haYCXjSdRJK9vxYJyVrBGknUP6z7zYcGVz01ug="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Tcyo8haYCXjSdRJK9vxYJyVrBGknUP6z7zYcGVz01ug="
+    }
+  },
+  "version": "5.0.0"
+}

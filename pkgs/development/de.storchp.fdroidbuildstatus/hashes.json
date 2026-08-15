@@ -1,0 +1,18 @@
+{
+  "apkName": "de.storchp.fdroidbuildstatus_119.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dGXfVaxoPM8qjHDwLO+ppwcH0myJajKQs+c/KjvUvz0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dGXfVaxoPM8qjHDwLO+ppwcH0myJajKQs+c/KjvUvz0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dGXfVaxoPM8qjHDwLO+ppwcH0myJajKQs+c/KjvUvz0="
+    }
+  },
+  "version": "5.15.0"
+}

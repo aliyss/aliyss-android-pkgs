@@ -1,0 +1,8 @@
+{
+  "package": "de.theiling.neatlauncher",
+  "signerFingerprints": [
+    "33:B4:18:2A:20:C0:CC:89:6D:B8:C2:5C:94:9B:72:AE:96:6C:BE:D5:7B:08:EC:C1:A4:63:D2:C4:F5:D2:22:38"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

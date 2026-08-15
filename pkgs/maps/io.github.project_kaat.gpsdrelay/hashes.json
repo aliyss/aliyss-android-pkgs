@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.project_kaat.gpsdrelay_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-scl8HkKhoZGrVWfKZPCZvpohMDYsobHDsojrvwJnQ5o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-scl8HkKhoZGrVWfKZPCZvpohMDYsobHDsojrvwJnQ5o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-scl8HkKhoZGrVWfKZPCZvpohMDYsobHDsojrvwJnQ5o="
+    }
+  },
+  "version": "2.2"
+}

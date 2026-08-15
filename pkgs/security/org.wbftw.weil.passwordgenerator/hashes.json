@@ -1,0 +1,18 @@
+{
+  "apkName": "org.wbftw.weil.passwordgenerator_10001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YfZjjmzLS3Fqt35IUk704erJKUUP9K3lQ5aeRz+FIY0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YfZjjmzLS3Fqt35IUk704erJKUUP9K3lQ5aeRz+FIY0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YfZjjmzLS3Fqt35IUk704erJKUUP9K3lQ5aeRz+FIY0="
+    }
+  },
+  "version": "1.0.0.01"
+}

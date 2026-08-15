@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kasumic.vpndetector_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gVTyuBoj8BO91B0Tp7PEcbSu/AROCA1z404lKaWrhwY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gVTyuBoj8BO91B0Tp7PEcbSu/AROCA1z404lKaWrhwY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gVTyuBoj8BO91B0Tp7PEcbSu/AROCA1z404lKaWrhwY="
+    }
+  },
+  "version": "1.6.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.cryptosafe.app",
+  "signerFingerprints": [
+    "06:03:20:01:F6:BC:A9:24:AD:00:70:C6:2E:00:57:00:97:5F:AA:09:43:5B:E9:EC:86:4E:B5:02:84:66:1C:62"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

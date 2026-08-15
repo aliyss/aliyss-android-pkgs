@@ -1,0 +1,18 @@
+{
+  "apkName": "de.k3b.android.intentintercept_408.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mwPApE0+b1VYDgNauz+QhsefGZIIASz1HAsf9RL7iQc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mwPApE0+b1VYDgNauz+QhsefGZIIASz1HAsf9RL7iQc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mwPApE0+b1VYDgNauz+QhsefGZIIASz1HAsf9RL7iQc="
+    }
+  },
+  "version": "4.1.0"
+}

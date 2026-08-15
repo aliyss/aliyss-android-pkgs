@@ -1,0 +1,8 @@
+{
+  "package": "com.destructo.botox",
+  "signerFingerprints": [
+    "E4:1F:77:A2:63:8C:85:29:C4:31:1C:74:C5:B4:1B:40:4F:D7:FA:3C:56:74:CA:74:F7:C4:F1:B8:8F:0C:C7:33"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

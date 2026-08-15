@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fdroid.basic_2000040.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EVXY9GlQtQqHavie4pgjUlEtUaz00/ODWLGwJu4pBWA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EVXY9GlQtQqHavie4pgjUlEtUaz00/ODWLGwJu4pBWA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EVXY9GlQtQqHavie4pgjUlEtUaz00/ODWLGwJu4pBWA="
+    }
+  },
+  "version": "2.0-rc0"
+}

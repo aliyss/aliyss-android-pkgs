@@ -1,0 +1,18 @@
+{
+  "apkName": "com.oF2pks.adbungfu_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-v3gHVzE/UiGBRbJC8pr5aNqPYG/2H1xaZ0VCOeaaNUs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v3gHVzE/UiGBRbJC8pr5aNqPYG/2H1xaZ0VCOeaaNUs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v3gHVzE/UiGBRbJC8pr5aNqPYG/2H1xaZ0VCOeaaNUs="
+    }
+  },
+  "version": "4.0-17"
+}

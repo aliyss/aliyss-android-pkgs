@@ -1,0 +1,8 @@
+{
+  "package": "org.pgnapps.pk2",
+  "signerFingerprints": [
+    "C9:8D:8F:8E:FC:AE:D7:4E:D6:42:8D:B9:DC:F1:6E:B2:0D:C2:17:EA:F3:6F:C5:5E:38:99:7B:58:92:CF:05:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

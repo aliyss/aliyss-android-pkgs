@@ -1,0 +1,18 @@
+{
+  "apkName": "net.kaltner.LoanPro_10002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-++ag6vwkWXyoK33i5H/g1mbhVWTcrN1i7omRRG9C8iY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-++ag6vwkWXyoK33i5H/g1mbhVWTcrN1i7omRRG9C8iY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-++ag6vwkWXyoK33i5H/g1mbhVWTcrN1i7omRRG9C8iY="
+    }
+  },
+  "version": "1.0.2"
+}

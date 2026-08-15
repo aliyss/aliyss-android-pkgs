@@ -1,0 +1,8 @@
+{
+  "package": "io.perfice.app",
+  "signerFingerprints": [
+    "81:0A:72:62:11:EF:04:1C:81:6C:BE:18:7B:E1:19:38:EA:6B:73:CC:9B:77:AB:69:9E:9A:5F:91:F4:E2:82:22"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

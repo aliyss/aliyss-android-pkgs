@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.cgagnier.wlednativeandroid_52.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-V0qTkSDM41UOvZJyBk460rq8DNZeJikWKUBVA7Ki9cY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V0qTkSDM41UOvZJyBk460rq8DNZeJikWKUBVA7Ki9cY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V0qTkSDM41UOvZJyBk460rq8DNZeJikWKUBVA7Ki9cY="
+    }
+  },
+  "version": "7.0.1"
+}

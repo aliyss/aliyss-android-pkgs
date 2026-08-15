@@ -1,0 +1,8 @@
+{
+  "package": "com.aefyr.sai.fdroid",
+  "signerFingerprints": [
+    "B8:F6:FA:A6:9E:3B:3F:9F:A6:25:43:24:35:82:E0:3E:35:D2:F2:D8:4E:62:D8:D0:86:E8:83:84:9D:CE:00:6D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

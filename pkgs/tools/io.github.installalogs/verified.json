@@ -1,0 +1,8 @@
+{
+  "package": "io.github.installalogs",
+  "signerFingerprints": [
+    "ED:F9:B1:44:42:C0:2F:DC:4F:48:47:5C:91:7F:F9:2E:99:7D:F9:F9:E6:D1:6E:B1:C0:ED:96:DF:5D:BB:F7:B5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

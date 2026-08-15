@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zorinos.zorin_connect_13304.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tTIPuSMALry47578u+z4vLN8tEIZDMxtlivP0dK11HE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tTIPuSMALry47578u+z4vLN8tEIZDMxtlivP0dK11HE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tTIPuSMALry47578u+z4vLN8tEIZDMxtlivP0dK11HE="
+    }
+  },
+  "version": "1.33.4"
+}

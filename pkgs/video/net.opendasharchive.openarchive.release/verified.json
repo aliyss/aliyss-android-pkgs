@@ -1,0 +1,8 @@
+{
+  "package": "net.opendasharchive.openarchive.release",
+  "signerFingerprints": [
+    "3C:1B:8A:16:28:D0:8D:98:26:A7:F6:EB:AB:84:45:16:A1:F4:38:48:D6:F7:53:AA:B6:35:3C:F1:FD:85:D6:C5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

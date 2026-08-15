@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tymwitko.recents_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dsJF+UyP88GZxBN5cNzFSTwBwFDOuip5iIuZMP3u17g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dsJF+UyP88GZxBN5cNzFSTwBwFDOuip5iIuZMP3u17g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dsJF+UyP88GZxBN5cNzFSTwBwFDOuip5iIuZMP3u17g="
+    }
+  },
+  "version": "1.7.3"
+}

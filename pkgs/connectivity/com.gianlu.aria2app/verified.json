@@ -1,0 +1,8 @@
+{
+  "package": "com.gianlu.aria2app",
+  "signerFingerprints": [
+    "7F:99:97:20:3B:81:64:74:37:FC:52:F5:9F:28:73:3F:F7:F3:BC:A2:FA:F8:1F:61:AE:ED:D4:76:E2:F5:DC:1A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

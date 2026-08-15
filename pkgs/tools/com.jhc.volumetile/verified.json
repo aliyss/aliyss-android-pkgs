@@ -1,0 +1,8 @@
+{
+  "package": "com.jhc.volumetile",
+  "signerFingerprints": [
+    "16:AE:B5:C4:90:E0:B8:54:80:7A:78:2B:D1:7A:20:73:40:E8:28:AD:56:29:24:66:44:3D:46:47:E9:56:6B:B1"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

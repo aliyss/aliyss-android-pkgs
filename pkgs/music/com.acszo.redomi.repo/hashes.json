@@ -1,0 +1,18 @@
+{
+  "apkName": "com.acszo.redomi.repo_10402.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KDoaOl9VFL/1iJCRmg80oa+7+7dkZQ/k5HGmmSF3gho="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KDoaOl9VFL/1iJCRmg80oa+7+7dkZQ/k5HGmmSF3gho="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KDoaOl9VFL/1iJCRmg80oa+7+7dkZQ/k5HGmmSF3gho="
+    }
+  },
+  "version": "1.4.2"
+}

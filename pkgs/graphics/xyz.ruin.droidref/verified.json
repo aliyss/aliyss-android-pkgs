@@ -1,0 +1,8 @@
+{
+  "package": "xyz.ruin.droidref",
+  "signerFingerprints": [
+    "CC:A9:0A:F4:57:CB:FC:92:E2:43:83:6B:76:2B:7A:EE:80:F4:AC:EB:32:0C:5C:48:48:A3:8B:5A:66:8E:D3:7F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

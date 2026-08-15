@@ -1,0 +1,8 @@
+{
+  "package": "android.jonas.fakestandby",
+  "signerFingerprints": [
+    "66:C3:72:70:9C:E5:78:22:F0:FD:66:F3:DE:7D:11:9B:70:C6:43:3D:CE:FD:48:E9:67:51:3B:6E:D8:6C:15:4A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

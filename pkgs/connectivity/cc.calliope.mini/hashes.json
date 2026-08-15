@@ -1,0 +1,18 @@
+{
+  "apkName": "cc.calliope.mini_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OdoDk/X7/HLr9RRS9MVAj5kK8FqMm0g+8se+4Fb7MJo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OdoDk/X7/HLr9RRS9MVAj5kK8FqMm0g+8se+4Fb7MJo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OdoDk/X7/HLr9RRS9MVAj5kK8FqMm0g+8se+4Fb7MJo="
+    }
+  },
+  "version": "2.0.9"
+}

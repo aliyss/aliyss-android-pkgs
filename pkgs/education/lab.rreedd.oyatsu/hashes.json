@@ -1,0 +1,18 @@
+{
+  "apkName": "lab.rreedd.oyatsu_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-J3eG7Pjsj3OlyzcQ4LjKPSvdKNZpqR9l9l+zB7rYXKk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J3eG7Pjsj3OlyzcQ4LjKPSvdKNZpqR9l9l+zB7rYXKk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J3eG7Pjsj3OlyzcQ4LjKPSvdKNZpqR9l9l+zB7rYXKk="
+    }
+  },
+  "version": "7.2"
+}

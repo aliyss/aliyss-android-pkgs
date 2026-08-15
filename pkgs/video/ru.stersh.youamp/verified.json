@@ -1,0 +1,8 @@
+{
+  "package": "ru.stersh.youamp",
+  "signerFingerprints": [
+    "AA:6C:B0:5A:34:73:62:DB:4E:F2:A5:E7:B7:70:84:50:39:A7:58:D0:F0:C9:91:AD:8A:1B:9A:0A:A0:41:4C:42"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

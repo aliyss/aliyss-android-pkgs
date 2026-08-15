@@ -1,0 +1,8 @@
+{
+  "package": "com.tiendnm.zukulock",
+  "signerFingerprints": [
+    "99:B0:FB:14:AC:8F:4A:0E:E3:C9:4E:42:83:A7:04:9C:60:E5:3C:E2:47:75:61:83:D4:14:2A:E0:3F:1D:0C:8C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

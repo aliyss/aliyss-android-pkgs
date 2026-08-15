@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nospeak.app_1010030.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zMiYlxfsnXozln/48V6i4iOewPIp/itO1HCO0lUrirw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zMiYlxfsnXozln/48V6i4iOewPIp/itO1HCO0lUrirw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zMiYlxfsnXozln/48V6i4iOewPIp/itO1HCO0lUrirw="
+    }
+  },
+  "version": "v1.1.3"
+}

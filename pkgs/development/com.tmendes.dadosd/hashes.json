@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tmendes.dadosd_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/Fsnhdq647gkvzCXZNmUQeojZdsAtmTu0l1+ubUa0vc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Fsnhdq647gkvzCXZNmUQeojZdsAtmTu0l1+ubUa0vc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Fsnhdq647gkvzCXZNmUQeojZdsAtmTu0l1+ubUa0vc="
+    }
+  },
+  "version": "20160914_V4"
+}

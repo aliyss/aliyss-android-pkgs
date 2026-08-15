@@ -1,0 +1,18 @@
+{
+  "apkName": "com.codelv.solar_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xGzKs6B1YYZ60C8GSYXCV2Nkry46I5Iesaoga387Uzo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xGzKs6B1YYZ60C8GSYXCV2Nkry46I5Iesaoga387Uzo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xGzKs6B1YYZ60C8GSYXCV2Nkry46I5Iesaoga387Uzo="
+    }
+  },
+  "version": "1.0.5"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "finance.valet_105.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-15YTpHn0tg5fwquhadOMqal+SCqu8wXXeShMEEx2epo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-15YTpHn0tg5fwquhadOMqal+SCqu8wXXeShMEEx2epo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-15YTpHn0tg5fwquhadOMqal+SCqu8wXXeShMEEx2epo="
+    }
+  },
+  "version": "4.4.4"
+}

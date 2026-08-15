@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.cvzi.screenshottile_149.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VvgnZe8Rs7t3180OtL7croLugjtSQyxNQfOFZxRBHBI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VvgnZe8Rs7t3180OtL7croLugjtSQyxNQfOFZxRBHBI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VvgnZe8Rs7t3180OtL7croLugjtSQyxNQfOFZxRBHBI="
+    }
+  },
+  "version": "2.21.3"
+}

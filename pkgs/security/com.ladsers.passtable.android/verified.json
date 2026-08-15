@@ -1,0 +1,8 @@
+{
+  "package": "com.ladsers.passtable.android",
+  "signerFingerprints": [
+    "2B:35:68:03:DD:45:93:71:E7:6E:98:9B:8B:F6:36:99:3C:74:A2:6C:1E:16:9F:B3:48:FB:66:06:1B:4F:6C:41"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

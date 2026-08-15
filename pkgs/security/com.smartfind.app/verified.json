@@ -1,0 +1,8 @@
+{
+  "package": "com.smartfind.app",
+  "signerFingerprints": [
+    "43:82:0A:E8:A7:0D:FA:EB:11:EC:86:D3:FB:72:0D:1E:67:22:4B:EE:2B:C0:B2:C6:23:4E:FB:10:21:63:9C:2D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "is.zi.huewidgets_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1hurjYL25XdoOrvhdJ8Z8ksUkg5qvJmtxG4/heYH39A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1hurjYL25XdoOrvhdJ8Z8ksUkg5qvJmtxG4/heYH39A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1hurjYL25XdoOrvhdJ8Z8ksUkg5qvJmtxG4/heYH39A="
+    }
+  },
+  "version": "0.0.4"
+}

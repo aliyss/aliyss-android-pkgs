@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.bribri_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kEk2wODbwaTX/cVKvQ0b96KqS4rIzUo7/IdxAtz9FmU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kEk2wODbwaTX/cVKvQ0b96KqS4rIzUo7/IdxAtz9FmU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kEk2wODbwaTX/cVKvQ0b96KqS4rIzUo7/IdxAtz9FmU="
+    }
+  },
+  "version": "5.1.6158"
+}

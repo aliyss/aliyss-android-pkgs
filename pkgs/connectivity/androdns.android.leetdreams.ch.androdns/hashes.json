@@ -1,0 +1,18 @@
+{
+  "apkName": "androdns.android.leetdreams.ch.androdns_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Dyja8ERxlxolottRNwEms6FZl4pdpp4FSOR4+SDTMWE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dyja8ERxlxolottRNwEms6FZl4pdpp4FSOR4+SDTMWE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dyja8ERxlxolottRNwEms6FZl4pdpp4FSOR4+SDTMWE="
+    }
+  },
+  "version": "1.8"
+}

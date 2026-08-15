@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quaap.dodatheexploda_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dBWNDd2h6SgwcfGAjKtUGTkvYxPl3Hvob+9VisqhzZk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dBWNDd2h6SgwcfGAjKtUGTkvYxPl3Hvob+9VisqhzZk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dBWNDd2h6SgwcfGAjKtUGTkvYxPl3Hvob+9VisqhzZk="
+    }
+  },
+  "version": "0.3"
+}

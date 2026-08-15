@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlytapemeasure",
+  "signerFingerprints": [
+    "E1:3F:A6:3F:67:68:6A:8E:30:36:8F:F2:5E:8C:3E:90:6E:BE:1F:DD:7A:5B:42:D5:8D:03:21:EE:12:B6:A8:3D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

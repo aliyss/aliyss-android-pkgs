@@ -1,0 +1,8 @@
+{
+  "package": "com.porter.tvremote",
+  "signerFingerprints": [
+    "4E:23:35:AF:A6:5E:6A:6F:0B:42:A3:0E:F9:1F:32:FC:AD:61:C9:5D:8A:E1:53:69:6F:32:93:FD:F8:CB:F5:63"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "nl.patrickkostjens.kandroid",
+  "signerFingerprints": [
+    "D6:26:83:F6:70:08:A9:18:D6:FE:EB:4B:D9:C6:70:D3:8B:EB:46:10:BB:06:F3:92:25:3C:EF:8C:E2:07:93:EA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

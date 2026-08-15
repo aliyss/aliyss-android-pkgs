@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tiwa.pl_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EZujrdwVAbAinlL458sLAp7TJ2CFH6ehjPyME9uqTAI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EZujrdwVAbAinlL458sLAp7TJ2CFH6ehjPyME9uqTAI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EZujrdwVAbAinlL458sLAp7TJ2CFH6ehjPyME9uqTAI="
+    }
+  },
+  "version": "1.6"
+}

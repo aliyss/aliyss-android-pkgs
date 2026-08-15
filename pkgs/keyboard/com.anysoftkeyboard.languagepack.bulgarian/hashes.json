@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.bulgarian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pAFSo9Mr2AVZeTjLo+hJlc4feOyMhlz5cN6eqkY0Csg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pAFSo9Mr2AVZeTjLo+hJlc4feOyMhlz5cN6eqkY0Csg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pAFSo9Mr2AVZeTjLo+hJlc4feOyMhlz5cN6eqkY0Csg="
+    }
+  },
+  "version": "5.1.6158"
+}

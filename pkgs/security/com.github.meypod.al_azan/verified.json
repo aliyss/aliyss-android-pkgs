@@ -1,0 +1,8 @@
+{
+  "package": "com.github.meypod.al_azan",
+  "signerFingerprints": [
+    "49:21:C7:15:2A:29:85:6F:DB:AB:D9:15:E2:DC:2F:1D:DC:F1:24:4F:F1:90:36:A8:C3:D2:1D:54:0D:18:03:C3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

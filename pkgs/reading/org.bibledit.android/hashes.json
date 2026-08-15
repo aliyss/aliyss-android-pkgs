@@ -1,0 +1,18 @@
+{
+  "apkName": "org.bibledit.android_181.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QICRkX06a+fwKGqrz+0iUYk5aPWA1Hy2rg9/7rSLZfU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QICRkX06a+fwKGqrz+0iUYk5aPWA1Hy2rg9/7rSLZfU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QICRkX06a+fwKGqrz+0iUYk5aPWA1Hy2rg9/7rSLZfU="
+    }
+  },
+  "version": "5.1.046"
+}

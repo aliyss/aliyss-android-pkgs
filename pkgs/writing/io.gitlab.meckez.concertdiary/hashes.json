@@ -1,0 +1,18 @@
+{
+  "apkName": "io.gitlab.meckez.concertdiary_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BAPEo7bhVlo1rwZo1uEcAYYJ+n/aKvQPgRN6BZuJqms="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BAPEo7bhVlo1rwZo1uEcAYYJ+n/aKvQPgRN6BZuJqms="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BAPEo7bhVlo1rwZo1uEcAYYJ+n/aKvQPgRN6BZuJqms="
+    }
+  },
+  "version": "1.0.5"
+}

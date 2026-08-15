@@ -1,0 +1,18 @@
+{
+  "apkName": "threads.thor_200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+o/q10dwyar+S4o3kvWL/jbelEUVkot/AzVAHI63pGE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+o/q10dwyar+S4o3kvWL/jbelEUVkot/AzVAHI63pGE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+o/q10dwyar+S4o3kvWL/jbelEUVkot/AzVAHI63pGE="
+    }
+  },
+  "version": "2.0.0"
+}

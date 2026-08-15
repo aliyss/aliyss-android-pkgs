@@ -1,0 +1,8 @@
+{
+  "package": "com.addev.listaspam",
+  "signerFingerprints": [
+    "71:84:EC:EA:2F:16:A4:1A:C1:1F:E5:E7:DD:8F:4A:8E:91:1F:F0:7E:2E:08:88:73:B9:85:24:F9:8D:72:D0:51"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

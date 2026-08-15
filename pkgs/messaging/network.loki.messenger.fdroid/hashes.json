@@ -1,0 +1,18 @@
+{
+  "apkName": "network.loki.messenger.fdroid_4525.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UEsQ3RrmBmZv/Nr+VJd28doSn+HoaxBP3gyh84+cTeI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UEsQ3RrmBmZv/Nr+VJd28doSn+HoaxBP3gyh84+cTeI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UEsQ3RrmBmZv/Nr+VJd28doSn+HoaxBP3gyh84+cTeI="
+    }
+  },
+  "version": "1.33.5"
+}

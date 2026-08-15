@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ligi.gobandroid_hd_259.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rKgAZNxcvaNJwysTflIcPthbpnxXmi+6LrL32c6JHHE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rKgAZNxcvaNJwysTflIcPthbpnxXmi+6LrL32c6JHHE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rKgAZNxcvaNJwysTflIcPthbpnxXmi+6LrL32c6JHHE="
+    }
+  },
+  "version": "2.5.9"
+}

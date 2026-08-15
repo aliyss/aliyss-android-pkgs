@@ -1,0 +1,8 @@
+{
+  "package": "org.strongswan.android",
+  "signerFingerprints": [
+    "FB:ED:B4:83:53:70:C8:0D:55:3C:B4:8E:EC:B3:29:F5:12:72:87:D8:3A:B0:F5:DD:BB:A3:B0:84:C5:FC:DE:91"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlyruler_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qk8QlqQTH9dnP5/qiJdZjDS5NXA6eLG3U8OhBFeeo1E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qk8QlqQTH9dnP5/qiJdZjDS5NXA6eLG3U8OhBFeeo1E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qk8QlqQTH9dnP5/qiJdZjDS5NXA6eLG3U8OhBFeeo1E="
+    }
+  },
+  "version": "1.1.4"
+}

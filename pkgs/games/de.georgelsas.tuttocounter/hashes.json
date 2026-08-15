@@ -1,0 +1,18 @@
+{
+  "apkName": "de.georgelsas.tuttocounter_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FU6W3HzpJIM5tzud3vJzEQgyH2BtebnL2W9KzQXDXXM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FU6W3HzpJIM5tzud3vJzEQgyH2BtebnL2W9KzQXDXXM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FU6W3HzpJIM5tzud3vJzEQgyH2BtebnL2W9KzQXDXXM="
+    }
+  },
+  "version": "0.8.7"
+}

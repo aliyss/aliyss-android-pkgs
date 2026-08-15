@@ -1,0 +1,18 @@
+{
+  "apkName": "me.zhanghai.android.files_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-68UTi29xPw9ztUZ6GopKw8z8sughNTcmZbaBGolHZB8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-68UTi29xPw9ztUZ6GopKw8z8sughNTcmZbaBGolHZB8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-68UTi29xPw9ztUZ6GopKw8z8sughNTcmZbaBGolHZB8="
+    }
+  },
+  "version": "1.7.4"
+}

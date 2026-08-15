@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.obfusk.jiten_webview_202108010_e3603f6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IxYec2sHVyxWJenrofSFYR+qgOCVX14PXG+eIN4nmyc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IxYec2sHVyxWJenrofSFYR+qgOCVX14PXG+eIN4nmyc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IxYec2sHVyxWJenrofSFYR+qgOCVX14PXG+eIN4nmyc="
+    }
+  },
+  "version": "1.0.3"
+}

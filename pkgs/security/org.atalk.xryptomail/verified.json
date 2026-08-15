@@ -1,0 +1,8 @@
+{
+  "package": "org.atalk.xryptomail",
+  "signerFingerprints": [
+    "33:2F:BF:54:5A:49:03:D5:D7:60:3A:48:F4:DF:23:6E:6C:D4:F9:47:41:5C:52:E4:8A:9C:77:85:09:0E:20:5D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

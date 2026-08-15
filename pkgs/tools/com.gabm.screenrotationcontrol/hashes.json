@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gabm.screenrotationcontrol_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ovGemQtqr/GNk1mGkMtcNnbfDo3YaRumXb/8VXbO4I0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ovGemQtqr/GNk1mGkMtcNnbfDo3YaRumXb/8VXbO4I0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ovGemQtqr/GNk1mGkMtcNnbfDo3YaRumXb/8VXbO4I0="
+    }
+  },
+  "version": "2.8.0"
+}

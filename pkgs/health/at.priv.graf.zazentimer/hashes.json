@@ -1,0 +1,18 @@
+{
+  "apkName": "at.priv.graf.zazentimer_3020200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q9xM7WDJ3zKB/9z1mG8JyMO2UMudDYdQg2Om7v0O86Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q9xM7WDJ3zKB/9z1mG8JyMO2UMudDYdQg2Om7v0O86Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q9xM7WDJ3zKB/9z1mG8JyMO2UMudDYdQg2Om7v0O86Q="
+    }
+  },
+  "version": "3.2.2"
+}

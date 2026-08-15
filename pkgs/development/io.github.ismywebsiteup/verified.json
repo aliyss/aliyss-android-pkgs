@@ -1,0 +1,8 @@
+{
+  "package": "io.github.ismywebsiteup",
+  "signerFingerprints": [
+    "CB:A0:59:E7:6C:FD:D4:75:DD:0C:DF:20:AB:07:8E:E6:0C:D3:0F:9A:8A:29:72:75:28:69:09:62:8E:5B:D4:A3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

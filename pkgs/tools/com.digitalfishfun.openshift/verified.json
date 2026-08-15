@@ -1,0 +1,8 @@
+{
+  "package": "com.digitalfishfun.openshift",
+  "signerFingerprints": [
+    "D7:E7:D2:CA:65:3A:3D:18:24:91:B6:DA:F9:31:B5:29:1F:CC:37:10:7A:13:2E:66:18:A1:D4:CA:37:06:41:80"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

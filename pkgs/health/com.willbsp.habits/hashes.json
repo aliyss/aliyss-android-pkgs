@@ -1,0 +1,18 @@
+{
+  "apkName": "com.willbsp.habits_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WMWIq647h+82cVntO72IodSq8q2M8G+0vudeuuRpzdA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WMWIq647h+82cVntO72IodSq8q2M8G+0vudeuuRpzdA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WMWIq647h+82cVntO72IodSq8q2M8G+0vudeuuRpzdA="
+    }
+  },
+  "version": "1.2.0"
+}

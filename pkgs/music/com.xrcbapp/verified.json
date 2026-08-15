@@ -1,0 +1,8 @@
+{
+  "package": "com.xrcbapp",
+  "signerFingerprints": [
+    "65:58:20:6B:A6:9E:54:B9:F9:15:A0:1E:55:2C:92:6D:A1:7D:08:CE:C8:CE:96:5A:06:98:86:69:DE:1F:AD:15"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

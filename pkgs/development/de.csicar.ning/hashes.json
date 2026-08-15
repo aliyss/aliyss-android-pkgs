@@ -1,0 +1,18 @@
+{
+  "apkName": "de.csicar.ning_303.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YHPW1+n4UoXqMzDu0cIZ6Ll2k3T041YhqQJbFQWSGMI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YHPW1+n4UoXqMzDu0cIZ6Ll2k3T041YhqQJbFQWSGMI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YHPW1+n4UoXqMzDu0cIZ6Ll2k3T041YhqQJbFQWSGMI="
+    }
+  },
+  "version": "3.0.3"
+}

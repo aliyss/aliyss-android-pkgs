@@ -1,0 +1,8 @@
+{
+  "package": "jp.juggler.subwaytooter.noFcm",
+  "signerFingerprints": [
+    "3C:59:73:ED:02:3C:34:66:EE:EB:15:8C:2F:14:14:FC:3F:42:6C:91:72:01:C8:54:86:6F:52:94:0C:81:2F:39"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

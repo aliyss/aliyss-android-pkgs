@@ -1,0 +1,8 @@
+{
+  "package": "ru.evgeniy.dpitunnelcli",
+  "signerFingerprints": [
+    "44:F4:46:92:78:4E:FE:E5:7C:DE:C3:35:55:43:A8:39:A2:E1:0C:06:86:14:DE:44:A9:E4:22:A2:D9:D1:45:DF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

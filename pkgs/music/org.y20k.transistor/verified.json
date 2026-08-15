@@ -1,0 +1,8 @@
+{
+  "package": "org.y20k.transistor",
+  "signerFingerprints": [
+    "7F:24:3D:A1:29:3C:36:80:6E:8C:D3:7D:1F:61:A0:E3:17:32:2D:55:DC:49:55:4A:38:B9:7E:B2:CC:AE:C8:DC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

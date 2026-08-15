@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tristinbaker.idlefantasy_130.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sBmmnui1wIpGsxlngalwGv2eqpVrSiNtFg4x03w0lSc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sBmmnui1wIpGsxlngalwGv2eqpVrSiNtFg4x03w0lSc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sBmmnui1wIpGsxlngalwGv2eqpVrSiNtFg4x03w0lSc="
+    }
+  },
+  "version": "1.13.3"
+}

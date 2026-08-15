@@ -1,0 +1,18 @@
+{
+  "apkName": "negativedensity.techahashi_70001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LiqsM9vXv+z6wdgk793MH0VW6Pj2kt2FT2roB3voIzs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LiqsM9vXv+z6wdgk793MH0VW6Pj2kt2FT2roB3voIzs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LiqsM9vXv+z6wdgk793MH0VW6Pj2kt2FT2roB3voIzs="
+    }
+  },
+  "version": "7.0.1"
+}

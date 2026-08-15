@@ -1,0 +1,8 @@
+{
+  "package": "io.phonk.extended",
+  "signerFingerprints": [
+    "1B:24:D1:18:4D:FF:87:F1:9C:90:76:95:EE:8B:D8:A8:DE:6D:42:4E:62:9F:6E:40:FA:4F:E5:02:EC:C0:02:23"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

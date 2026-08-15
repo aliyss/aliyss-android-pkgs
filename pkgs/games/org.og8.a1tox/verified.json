@@ -1,0 +1,8 @@
+{
+  "package": "org.og8.a1tox",
+  "signerFingerprints": [
+    "30:74:68:55:3E:F0:3A:A5:C7:83:80:92:27:48:41:52:5F:C2:72:27:1D:C5:2D:A4:93:4D:15:60:23:1E:86:D7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

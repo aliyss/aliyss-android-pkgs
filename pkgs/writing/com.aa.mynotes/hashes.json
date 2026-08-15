@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aa.mynotes_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tzuY4l2HFNArrTFHnTlPt7hMIylBOvc768Z6qkcmeDk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tzuY4l2HFNArrTFHnTlPt7hMIylBOvc768Z6qkcmeDk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tzuY4l2HFNArrTFHnTlPt7hMIylBOvc768Z6qkcmeDk="
+    }
+  },
+  "version": "1.6.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.matrix.chromext_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LjpZBQcbG7eN0ESZ6cYX6wFfzRDFr8Nz5QBOjT9N70I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LjpZBQcbG7eN0ESZ6cYX6wFfzRDFr8Nz5QBOjT9N70I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LjpZBQcbG7eN0ESZ6cYX6wFfzRDFr8Nz5QBOjT9N70I="
+    }
+  },
+  "version": "3.8.2"
+}

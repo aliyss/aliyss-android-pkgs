@@ -1,0 +1,18 @@
+{
+  "apkName": "landau.sweb_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qy0dlVteNLUL3cp1ShnCOR+RyvmDL6cwYE6POUqUTzI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qy0dlVteNLUL3cp1ShnCOR+RyvmDL6cwYE6POUqUTzI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qy0dlVteNLUL3cp1ShnCOR+RyvmDL6cwYE6POUqUTzI="
+    }
+  },
+  "version": "1.8"
+}

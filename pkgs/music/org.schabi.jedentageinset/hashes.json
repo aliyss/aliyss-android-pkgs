@@ -1,0 +1,18 @@
+{
+  "apkName": "org.schabi.jedentageinset_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HUunDsTbfwqLjepaowsajOk5Mg2Eb1y6PH/jVN6klxY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HUunDsTbfwqLjepaowsajOk5Mg2Eb1y6PH/jVN6klxY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HUunDsTbfwqLjepaowsajOk5Mg2Eb1y6PH/jVN6klxY="
+    }
+  },
+  "version": "1.2"
+}

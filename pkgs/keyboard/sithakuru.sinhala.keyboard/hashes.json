@@ -1,0 +1,18 @@
+{
+  "apkName": "sithakuru.sinhala.keyboard_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zZlNma1AthEb6blhqSY3D/imfmAFowo+js17+zI2+58="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zZlNma1AthEb6blhqSY3D/imfmAFowo+js17+zI2+58="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zZlNma1AthEb6blhqSY3D/imfmAFowo+js17+zI2+58="
+    }
+  },
+  "version": "1.2.0"
+}

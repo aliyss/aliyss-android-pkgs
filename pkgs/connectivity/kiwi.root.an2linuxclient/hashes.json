@@ -1,0 +1,18 @@
+{
+  "apkName": "kiwi.root.an2linuxclient_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SiSQ2G/wtlzwAAG1/vVvxNIgMvEDbh3jkgyF/PTGD9Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SiSQ2G/wtlzwAAG1/vVvxNIgMvEDbh3jkgyF/PTGD9Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SiSQ2G/wtlzwAAG1/vVvxNIgMvEDbh3jkgyF/PTGD9Q="
+    }
+  },
+  "version": "0.13.1"
+}

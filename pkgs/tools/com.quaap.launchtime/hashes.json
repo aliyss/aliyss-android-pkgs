@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quaap.launchtime_860.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JW36fUBB2qVS3BBNYRRObqRJRfdADZSwdvhVXDT1U7I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JW36fUBB2qVS3BBNYRRObqRJRfdADZSwdvhVXDT1U7I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JW36fUBB2qVS3BBNYRRObqRJRfdADZSwdvhVXDT1U7I="
+    }
+  },
+  "version": "0.8.6"
+}

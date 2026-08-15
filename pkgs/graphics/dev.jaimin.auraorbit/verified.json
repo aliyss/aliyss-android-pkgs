@@ -1,0 +1,8 @@
+{
+  "package": "dev.jaimin.auraorbit",
+  "signerFingerprints": [
+    "32:6F:B8:05:88:1A:2C:89:46:62:9D:F3:D5:F5:5C:76:E8:9C:8D:1E:2D:FA:DB:F8:86:9D:CE:8B:02:CC:AE:2A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

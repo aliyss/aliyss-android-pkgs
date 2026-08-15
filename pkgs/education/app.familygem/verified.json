@@ -1,0 +1,8 @@
+{
+  "package": "app.familygem",
+  "signerFingerprints": [
+    "06:31:31:95:3D:EA:4E:D2:76:23:D5:D5:E7:E4:7C:D9:9A:0C:90:D1:F5:46:1D:0F:09:B7:4D:08:F1:5E:34:96"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.andreacioccarelli.androoster",
+  "signerFingerprints": [
+    "C0:7F:28:E9:82:C2:53:6F:63:CF:48:17:3E:9E:A9:CA:8C:2C:E8:DB:C1:9B:0F:50:91:C1:14:AA:DF:40:D5:82"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

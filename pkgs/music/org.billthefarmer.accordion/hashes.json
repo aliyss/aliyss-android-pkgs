@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.accordion_122.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AV8a3PrXn9hY3n9mZjTZgRcUqyUfZYaM4Sgu0KA0BiQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AV8a3PrXn9hY3n9mZjTZgRcUqyUfZYaM4Sgu0KA0BiQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AV8a3PrXn9hY3n9mZjTZgRcUqyUfZYaM4Sgu0KA0BiQ="
+    }
+  },
+  "version": "1.22"
+}

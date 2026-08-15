@@ -1,0 +1,18 @@
+{
+  "apkName": "net.glsk.wpgen_134.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6EFBE/noIbUtdmeB4W6HN2KdSl4wqbU1JEL7RbshB10="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6EFBE/noIbUtdmeB4W6HN2KdSl4wqbU1JEL7RbshB10="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6EFBE/noIbUtdmeB4W6HN2KdSl4wqbU1JEL7RbshB10="
+    }
+  },
+  "version": "1.3.4"
+}

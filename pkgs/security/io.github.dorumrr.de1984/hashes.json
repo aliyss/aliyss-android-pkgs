@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.dorumrr.de1984_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rAZKSN7pAsM/35vFulF+W77X6ck2r/ga+l5rt8GAf/Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rAZKSN7pAsM/35vFulF+W77X6ck2r/ga+l5rt8GAf/Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rAZKSN7pAsM/35vFulF+W77X6ck2r/ga+l5rt8GAf/Y="
+    }
+  },
+  "version": "2.6.2"
+}

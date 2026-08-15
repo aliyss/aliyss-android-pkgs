@@ -1,0 +1,18 @@
+{
+  "apkName": "de.cyberit.wasgeht_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-z1Bu/ZLCWcudlOpyPkof7xgjBgF5wud9OByTRhBtkvw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z1Bu/ZLCWcudlOpyPkof7xgjBgF5wud9OByTRhBtkvw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z1Bu/ZLCWcudlOpyPkof7xgjBgF5wud9OByTRhBtkvw="
+    }
+  },
+  "version": "1.17"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.leekleak.trafficlight",
+  "signerFingerprints": [
+    "5D:C0:01:06:C7:7C:B2:85:C0:B2:C5:18:81:EE:E9:50:73:E5:DD:0C:5F:6D:9F:09:98:07:D7:A3:D7:AC:CF:37"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

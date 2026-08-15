@@ -1,0 +1,18 @@
+{
+  "apkName": "com.flasskamp.subz_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IME4HBUM4shN29EGe+D1+uR3okHbYFw/ndvYPNTBVKQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IME4HBUM4shN29EGe+D1+uR3okHbYFw/ndvYPNTBVKQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IME4HBUM4shN29EGe+D1+uR3okHbYFw/ndvYPNTBVKQ="
+    }
+  },
+  "version": "1.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.ephemera42.tapjackingbypass",
+  "signerFingerprints": [
+    "C9:E1:C5:BE:05:D5:7C:7F:20:EB:F6:82:64:DF:5D:A3:00:97:D4:F9:CC:1A:7A:BD:46:04:85:96:73:1F:CE:96"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

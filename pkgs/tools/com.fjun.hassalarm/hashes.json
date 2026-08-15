@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fjun.hassalarm_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jCCqmERGhDxZ7wlMxRyRbaDKWAgJQRxBx4T0jN/OZJk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jCCqmERGhDxZ7wlMxRyRbaDKWAgJQRxBx4T0jN/OZJk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jCCqmERGhDxZ7wlMxRyRbaDKWAgJQRxBx4T0jN/OZJk="
+    }
+  },
+  "version": "1.36"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.porter.tvremote_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7uTsjEWRO1RhtIgaGwtgVQyczrHUYb8r6ZPCUgCpnnY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7uTsjEWRO1RhtIgaGwtgVQyczrHUYb8r6ZPCUgCpnnY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7uTsjEWRO1RhtIgaGwtgVQyczrHUYb8r6ZPCUgCpnnY="
+    }
+  },
+  "version": "1.4"
+}

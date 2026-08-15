@@ -1,0 +1,8 @@
+{
+  "package": "at.krixec.rosary",
+  "signerFingerprints": [
+    "42:40:B3:61:79:8A:B0:66:52:43:4A:FF:00:68:50:39:B5:D4:54:A7:23:C4:A5:1B:DF:D5:2E:F3:0F:02:8A:BF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

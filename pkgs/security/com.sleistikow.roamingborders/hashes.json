@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sleistikow.roamingborders_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5FMxsLBODJcS1S+N6FRBuXbFdEN2G68fag2Bp1Go5yA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5FMxsLBODJcS1S+N6FRBuXbFdEN2G68fag2Bp1Go5yA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5FMxsLBODJcS1S+N6FRBuXbFdEN2G68fag2Bp1Go5yA="
+    }
+  },
+  "version": "1.0.0"
+}

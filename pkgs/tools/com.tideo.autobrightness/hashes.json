@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tideo.autobrightness_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yOCw8bWGzHfD9NkvE0+qzwJAyato3Or+lCKS8G9zAIc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yOCw8bWGzHfD9NkvE0+qzwJAyato3Or+lCKS8G9zAIc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yOCw8bWGzHfD9NkvE0+qzwJAyato3Or+lCKS8G9zAIc="
+    }
+  },
+  "version": "1.8.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "acab.naiveha.subrosa_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HjgLv5JhbUlcRfe0JG6kIatLKMfshPnIQ8r1Jh9qWok="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HjgLv5JhbUlcRfe0JG6kIatLKMfshPnIQ8r1Jh9qWok="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HjgLv5JhbUlcRfe0JG6kIatLKMfshPnIQ8r1Jh9qWok="
+    }
+  },
+  "version": "2.3.1"
+}

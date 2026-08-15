@@ -1,0 +1,18 @@
+{
+  "apkName": "inc.flide.vi8_170500.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6mnKZ2LhUMBIzi++wqgZja08pGI0JZQaDp5nN3YkK0A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6mnKZ2LhUMBIzi++wqgZja08pGI0JZQaDp5nN3YkK0A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6mnKZ2LhUMBIzi++wqgZja08pGI0JZQaDp5nN3YkK0A="
+    }
+  },
+  "version": "0.17.5"
+}

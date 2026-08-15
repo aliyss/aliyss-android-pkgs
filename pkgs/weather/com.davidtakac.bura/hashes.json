@@ -1,0 +1,18 @@
+{
+  "apkName": "com.davidtakac.bura_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-48W9zEYWIn8+FCVjyhdQV2HvNOcrelXZciwjb0o29GE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-48W9zEYWIn8+FCVjyhdQV2HvNOcrelXZciwjb0o29GE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-48W9zEYWIn8+FCVjyhdQV2HvNOcrelXZciwjb0o29GE="
+    }
+  },
+  "version": "1.8.1"
+}

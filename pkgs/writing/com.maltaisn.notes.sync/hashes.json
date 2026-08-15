@@ -1,0 +1,18 @@
+{
+  "apkName": "com.maltaisn.notes.sync_10602.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-F23v8RiXNNAUqAeNgiGuiySe8bBCvRKDcGcmXx+0fUY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F23v8RiXNNAUqAeNgiGuiySe8bBCvRKDcGcmXx+0fUY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F23v8RiXNNAUqAeNgiGuiySe8bBCvRKDcGcmXx+0fUY="
+    }
+  },
+  "version": "1.6.2"
+}

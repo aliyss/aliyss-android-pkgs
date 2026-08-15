@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.timboode.statefulspeedometer_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-avjla/TvY1uK7/e9YTmOpG4fcokRpfXHtjRAOfC6kK8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-avjla/TvY1uK7/e9YTmOpG4fcokRpfXHtjRAOfC6kK8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-avjla/TvY1uK7/e9YTmOpG4fcokRpfXHtjRAOfC6kK8="
+    }
+  },
+  "version": "0.2.0"
+}

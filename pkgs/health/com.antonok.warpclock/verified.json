@@ -1,0 +1,8 @@
+{
+  "package": "com.antonok.warpclock",
+  "signerFingerprints": [
+    "66:14:09:84:84:5B:99:55:F9:A2:89:31:68:1D:AC:F9:D1:3D:2E:74:CD:FC:46:A8:A5:F3:00:28:5F:02:EE:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

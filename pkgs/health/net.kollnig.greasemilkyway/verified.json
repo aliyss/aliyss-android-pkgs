@@ -1,0 +1,8 @@
+{
+  "package": "net.kollnig.greasemilkyway",
+  "signerFingerprints": [
+    "68:D8:43:DE:49:06:9D:3B:8B:C6:5C:0C:A2:69:01:5F:02:BD:2F:16:0A:2F:74:C0:69:0E:65:69:33:E1:F9:9E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

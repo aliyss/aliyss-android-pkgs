@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.cryptobit.letterbox_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dr4KWcwgd8svnfSzHoazjIAkP+yOVD9Km438efo6218="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dr4KWcwgd8svnfSzHoazjIAkP+yOVD9Km438efo6218="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dr4KWcwgd8svnfSzHoazjIAkP+yOVD9Km438efo6218="
+    }
+  },
+  "version": "0.0.3"
+}

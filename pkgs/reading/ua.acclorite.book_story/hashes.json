@@ -1,0 +1,18 @@
+{
+  "apkName": "ua.acclorite.book_story_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sLas4SS+ZGHIP09BJIM7E/5CtM10YarvRl9nuqS0cZ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sLas4SS+ZGHIP09BJIM7E/5CtM10YarvRl9nuqS0cZ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sLas4SS+ZGHIP09BJIM7E/5CtM10YarvRl9nuqS0cZ0="
+    }
+  },
+  "version": "1.8.0"
+}

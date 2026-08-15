@@ -1,0 +1,8 @@
+{
+  "package": "souch.smp",
+  "signerFingerprints": [
+    "9C:A9:D4:B9:25:79:89:0C:89:62:71:4E:DE:00:1D:1B:8E:C5:06:97:E7:C3:B0:A0:D3:E9:1C:12:9C:03:E8:FD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

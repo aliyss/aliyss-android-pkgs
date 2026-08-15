@@ -1,0 +1,8 @@
+{
+  "package": "com.offlinecurrencyconverter.app",
+  "signerFingerprints": [
+    "8E:B5:01:85:85:CD:59:6A:94:74:21:72:9A:D6:08:F6:61:E6:E6:B0:76:18:D2:FF:14:34:98:0A:FC:4F:69:F9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.apkupdater.ci",
+  "signerFingerprints": [
+    "72:94:A1:5B:12:EF:B0:FF:E7:D6:F2:9F:9A:03:23:29:A6:81:A0:5A:57:30:30:9C:C6:F9:BF:38:77:64:B5:59"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

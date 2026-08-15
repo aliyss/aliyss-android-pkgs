@@ -1,0 +1,18 @@
+{
+  "apkName": "com.growse.android.io.github.hidroh.materialistic_4004.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-niPpdv01xB9nSV1EVs3ci58QL6FIdatCUXdF9us2Ogc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-niPpdv01xB9nSV1EVs3ci58QL6FIdatCUXdF9us2Ogc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-niPpdv01xB9nSV1EVs3ci58QL6FIdatCUXdF9us2Ogc="
+    }
+  },
+  "version": "v4.0.4"
+}

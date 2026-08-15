@@ -1,0 +1,8 @@
+{
+  "package": "net.foucry.pilldroid",
+  "signerFingerprints": [
+    "7E:F4:C2:73:A1:AF:EF:9E:19:BE:C8:BC:2F:DC:AB:B1:8D:52:24:8A:2C:49:A0:F0:EB:15:66:71:02:84:4E:61"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

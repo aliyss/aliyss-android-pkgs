@@ -1,0 +1,8 @@
+{
+  "package": "io.github.jqssun.maceditor",
+  "signerFingerprints": [
+    "64:CA:1F:A3:9D:DF:9E:0E:89:C5:7D:73:FB:68:1D:2A:5B:35:AE:20:F0:71:77:1E:2E:B4:01:B5:03:2E:F1:A9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

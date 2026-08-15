@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ahmedsamy.purelink_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tdRKbtKv2NWby/8j7VeOJeHO5FR0rbR8+wxQIEkgqh0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tdRKbtKv2NWby/8j7VeOJeHO5FR0rbR8+wxQIEkgqh0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tdRKbtKv2NWby/8j7VeOJeHO5FR0rbR8+wxQIEkgqh0="
+    }
+  },
+  "version": "3.0.0"
+}

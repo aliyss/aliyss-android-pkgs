@@ -1,0 +1,18 @@
+{
+  "apkName": "org.briarproject.briar.android_10519.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SwrRaqyRKr76lfJyQateeVijBnScgRunEDTmwYJMwTY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SwrRaqyRKr76lfJyQateeVijBnScgRunEDTmwYJMwTY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SwrRaqyRKr76lfJyQateeVijBnScgRunEDTmwYJMwTY="
+    }
+  },
+  "version": "1.5.19"
+}

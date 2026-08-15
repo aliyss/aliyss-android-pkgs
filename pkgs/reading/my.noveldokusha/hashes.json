@@ -1,0 +1,18 @@
+{
+  "apkName": "my.noveldokusha_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-A7t8VTC1jXNCeKjNoolYWXdaqdbWcPGsxvkpX41jS0w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A7t8VTC1jXNCeKjNoolYWXdaqdbWcPGsxvkpX41jS0w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A7t8VTC1jXNCeKjNoolYWXdaqdbWcPGsxvkpX41jS0w="
+    }
+  },
+  "version": "2.2.0"
+}

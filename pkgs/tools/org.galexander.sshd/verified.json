@@ -1,0 +1,8 @@
+{
+  "package": "org.galexander.sshd",
+  "signerFingerprints": [
+    "2D:57:A8:94:BC:33:4E:A0:70:FC:7E:7A:FC:D1:65:87:2B:71:57:C1:BF:C8:AD:05:13:CF:69:B5:74:C9:D6:B8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

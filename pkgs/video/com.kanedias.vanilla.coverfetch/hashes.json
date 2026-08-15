@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kanedias.vanilla.coverfetch_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H8j7WZf6QjB5shzg7dSKp4f3/buEATOM4jbQNGMfRYE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H8j7WZf6QjB5shzg7dSKp4f3/buEATOM4jbQNGMfRYE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H8j7WZf6QjB5shzg7dSKp4f3/buEATOM4jbQNGMfRYE="
+    }
+  },
+  "version": "1.4.9"
+}

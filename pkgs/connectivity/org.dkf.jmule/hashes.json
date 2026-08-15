@@ -1,0 +1,18 @@
+{
+  "apkName": "org.dkf.jmule_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-k2pAo/i4scP3UJ6zu0+KhnHS6z0/Z7QfqS+/PCY6dJM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k2pAo/i4scP3UJ6zu0+KhnHS6z0/Z7QfqS+/PCY6dJM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k2pAo/i4scP3UJ6zu0+KhnHS6z0/Z7QfqS+/PCY6dJM="
+    }
+  },
+  "version": "38"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kaffeemitkoffein.tinyweatherforecastgermany_63.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vbD2FlCWyZ3Iyvr+OAIbItmF69gnDQwI97XUPMffsGY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vbD2FlCWyZ3Iyvr+OAIbItmF69gnDQwI97XUPMffsGY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vbD2FlCWyZ3Iyvr+OAIbItmF69gnDQwI97XUPMffsGY="
+    }
+  },
+  "version": "0.63.4"
+}

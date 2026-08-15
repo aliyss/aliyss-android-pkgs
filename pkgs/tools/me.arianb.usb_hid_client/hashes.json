@@ -1,0 +1,18 @@
+{
+  "apkName": "me.arianb.usb_hid_client_301.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lm3R7p4rg+X4hUwFIPeUeIrfRhqRi/1OVF/9eUGJRqw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lm3R7p4rg+X4hUwFIPeUeIrfRhqRi/1OVF/9eUGJRqw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lm3R7p4rg+X4hUwFIPeUeIrfRhqRi/1OVF/9eUGJRqw="
+    }
+  },
+  "version": "v3.0.1"
+}

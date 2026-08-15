@@ -1,0 +1,18 @@
+{
+  "apkName": "timur.webrtc.check_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yMsRif0hf6Rfh2YNdG+ZUg+Lo8SI8MzssJS95C9feG0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yMsRif0hf6Rfh2YNdG+ZUg+Lo8SI8MzssJS95C9feG0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yMsRif0hf6Rfh2YNdG+ZUg+Lo8SI8MzssJS95C9feG0="
+    }
+  },
+  "version": "1.0.10"
+}

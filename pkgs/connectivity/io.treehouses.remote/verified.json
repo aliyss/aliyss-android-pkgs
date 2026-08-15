@@ -1,0 +1,8 @@
+{
+  "package": "io.treehouses.remote",
+  "signerFingerprints": [
+    "28:9B:40:9F:CC:BC:12:91:01:EE:19:C9:98:18:07:B4:7F:81:A6:C6:2A:B9:96:79:5B:9D:F0:3B:E3:34:29:1B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.librelynx.lite_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-e0OTXF2LF9cUr2sdksfBaOgrHj1+dYRg5BCLgKai35s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e0OTXF2LF9cUr2sdksfBaOgrHj1+dYRg5BCLgKai35s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e0OTXF2LF9cUr2sdksfBaOgrHj1+dYRg5BCLgKai35s="
+    }
+  },
+  "version": "1.0"
+}

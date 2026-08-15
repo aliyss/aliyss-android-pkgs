@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.samcrow.jrbpsurvey_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YTOfTaeCavspgmnjk3fDJ89dnqdwnbI+dMAc7/X8/mQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YTOfTaeCavspgmnjk3fDJ89dnqdwnbI+dMAc7/X8/mQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YTOfTaeCavspgmnjk3fDJ89dnqdwnbI+dMAc7/X8/mQ="
+    }
+  },
+  "version": "1.9.1"
+}

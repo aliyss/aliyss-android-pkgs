@@ -1,0 +1,8 @@
+{
+  "package": "xyz.iridiumion.plucklockex",
+  "signerFingerprints": [
+    "9A:F9:22:58:4B:79:69:A9:29:AE:0E:53:C6:49:A2:4D:25:B4:62:1F:5A:CA:33:CA:45:3C:3E:B6:8E:A4:65:0F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

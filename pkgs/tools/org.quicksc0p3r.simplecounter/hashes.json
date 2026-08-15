@@ -1,0 +1,18 @@
+{
+  "apkName": "org.quicksc0p3r.simplecounter_1003000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fZKZivBrcoiAzQVB5x3PF2q6KOnfM4Jcwu1eF09fiQw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fZKZivBrcoiAzQVB5x3PF2q6KOnfM4Jcwu1eF09fiQw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fZKZivBrcoiAzQVB5x3PF2q6KOnfM4Jcwu1eF09fiQw="
+    }
+  },
+  "version": "1.3"
+}

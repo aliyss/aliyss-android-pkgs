@@ -1,0 +1,8 @@
+{
+  "package": "corewala.gemini.buran",
+  "signerFingerprints": [
+    "4B:67:32:C4:69:1F:A9:CC:F0:9C:92:59:57:75:56:33:B9:D0:0E:BC:EF:FF:4F:01:4E:20:B6:93:AB:BC:4D:B9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

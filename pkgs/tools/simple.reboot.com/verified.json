@@ -1,0 +1,8 @@
+{
+  "package": "simple.reboot.com",
+  "signerFingerprints": [
+    "24:A9:F6:B3:C6:72:71:B8:F7:A5:52:CC:EE:8D:9E:3D:9C:17:51:28:38:AF:82:C4:5C:10:58:EA:7F:F5:8D:B4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

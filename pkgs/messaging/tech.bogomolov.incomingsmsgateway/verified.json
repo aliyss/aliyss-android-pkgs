@@ -1,0 +1,8 @@
+{
+  "package": "tech.bogomolov.incomingsmsgateway",
+  "signerFingerprints": [
+    "FF:CB:1F:77:9C:7F:30:CF:74:41:C4:53:3E:96:31:77:1E:B4:57:02:45:70:39:C2:5F:64:F9:FB:2F:DA:84:CA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

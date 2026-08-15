@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mooneva.app_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0IjpsNGreWteSmY7YaqaPG0Up3dsS9Ou6xUJR1BeBYw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0IjpsNGreWteSmY7YaqaPG0Up3dsS9Ou6xUJR1BeBYw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0IjpsNGreWteSmY7YaqaPG0Up3dsS9Ou6xUJR1BeBYw="
+    }
+  },
+  "version": "2.0.8"
+}

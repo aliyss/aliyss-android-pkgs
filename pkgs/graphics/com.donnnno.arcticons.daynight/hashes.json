@@ -1,0 +1,18 @@
+{
+  "apkName": "com.donnnno.arcticons.daynight_1550.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KFJuVBo9lmxL7R+4isH1bZRJPBFAr/skh+c7q5AhGo0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KFJuVBo9lmxL7R+4isH1bZRJPBFAr/skh+c7q5AhGo0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KFJuVBo9lmxL7R+4isH1bZRJPBFAr/skh+c7q5AhGo0="
+    }
+  },
+  "version": "14.9.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "dnsfilter.android",
+  "signerFingerprints": [
+    "D7:D9:8D:C2:2D:A6:24:E1:BB:36:81:5B:3C:42:6D:35:55:C2:3C:53:AC:D3:E6:58:5A:B3:83:DE:87:4C:9F:35"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

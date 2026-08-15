@@ -1,0 +1,18 @@
+{
+  "apkName": "me.gloeckl.fallasleep_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5KpnQRFkr44Hkjr0DH630KWNzyQFqLf1DFvUEBOeVkc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5KpnQRFkr44Hkjr0DH630KWNzyQFqLf1DFvUEBOeVkc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5KpnQRFkr44Hkjr0DH630KWNzyQFqLf1DFvUEBOeVkc="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.spaceapi.community.myhackerspace_109.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NnpnpIf7QLNDJElpAQbsDqIMsTDqCiUrwVvAr5jZG+4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NnpnpIf7QLNDJElpAQbsDqIMsTDqCiUrwVvAr5jZG+4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NnpnpIf7QLNDJElpAQbsDqIMsTDqCiUrwVvAr5jZG+4="
+    }
+  },
+  "version": "2.3.1"
+}

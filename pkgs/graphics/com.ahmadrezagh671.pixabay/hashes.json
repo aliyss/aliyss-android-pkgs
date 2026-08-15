@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ahmadrezagh671.pixabay_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oLSZdIwcljfbq/l7j5R51XK24qGMdaYDWF5eQifJslg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oLSZdIwcljfbq/l7j5R51XK24qGMdaYDWF5eQifJslg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oLSZdIwcljfbq/l7j5R51XK24qGMdaYDWF5eQifJslg="
+    }
+  },
+  "version": "1.2"
+}

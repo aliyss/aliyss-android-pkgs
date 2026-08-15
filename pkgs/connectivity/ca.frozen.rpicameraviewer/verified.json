@@ -1,0 +1,8 @@
+{
+  "package": "ca.frozen.rpicameraviewer",
+  "signerFingerprints": [
+    "77:94:01:E2:D9:16:70:4B:E4:F8:EE:3B:86:F1:BF:FC:AC:32:9D:54:6D:A1:60:EF:EB:8A:9A:41:89:E0:2B:C3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

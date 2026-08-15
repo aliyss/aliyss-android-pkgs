@@ -1,0 +1,18 @@
+{
+  "apkName": "audio.omgsoundboard_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yJHRSHVwJcLp6KleRyWzmQ13LhIQvxfJDaEwR9qJyWk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yJHRSHVwJcLp6KleRyWzmQ13LhIQvxfJDaEwR9qJyWk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yJHRSHVwJcLp6KleRyWzmQ13LhIQvxfJDaEwR9qJyWk="
+    }
+  },
+  "version": "23.0"
+}

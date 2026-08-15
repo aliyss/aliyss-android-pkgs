@@ -1,0 +1,8 @@
+{
+  "package": "com.matanh.transfer",
+  "signerFingerprints": [
+    "C4:37:51:8A:BB:C8:F2:A3:6F:B3:80:4C:5B:06:56:F2:D4:06:9C:E7:D4:B3:37:BC:38:F6:33:73:10:19:33:06"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

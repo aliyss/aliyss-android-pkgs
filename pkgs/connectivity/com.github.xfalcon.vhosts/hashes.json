@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.xfalcon.vhosts_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uY3R27nWuuDIz2cFSbCqcf1hihx8Fs3J9sY29pvelB0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uY3R27nWuuDIz2cFSbCqcf1hihx8Fs3J9sY29pvelB0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uY3R27nWuuDIz2cFSbCqcf1hihx8Fs3J9sY29pvelB0="
+    }
+  },
+  "version": "2.2.2"
+}

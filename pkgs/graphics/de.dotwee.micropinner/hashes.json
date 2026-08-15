@@ -1,0 +1,18 @@
+{
+  "apkName": "de.dotwee.micropinner_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+XPpprz0Swvd/wz3QBKa5aknryL1j1hIWXNAIehvc/g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+XPpprz0Swvd/wz3QBKa5aknryL1j1hIWXNAIehvc/g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+XPpprz0Swvd/wz3QBKa5aknryL1j1hIWXNAIehvc/g="
+    }
+  },
+  "version": "v2.2.0"
+}

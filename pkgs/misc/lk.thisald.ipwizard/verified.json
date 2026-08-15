@@ -1,0 +1,8 @@
+{
+  "package": "lk.thisald.ipwizard",
+  "signerFingerprints": [
+    "4C:01:F1:54:5A:AB:5D:FD:B9:59:60:E8:18:80:F9:9F:82:47:BC:74:6C:0D:60:A5:54:03:7F:60:C4:40:A0:24"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

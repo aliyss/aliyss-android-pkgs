@@ -1,0 +1,18 @@
+{
+  "apkName": "de.varengold.activeTAN_69.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FkgeLWrRsuwu+QPnjFWdMww+1ci0ozXU9ijgAirR2Mc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FkgeLWrRsuwu+QPnjFWdMww+1ci0ozXU9ijgAirR2Mc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FkgeLWrRsuwu+QPnjFWdMww+1ci0ozXU9ijgAirR2Mc="
+    }
+  },
+  "version": "1.2.0"
+}

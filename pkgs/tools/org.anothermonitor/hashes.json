@@ -1,0 +1,18 @@
+{
+  "apkName": "org.anothermonitor_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lfqQKzMiFIizp2lQu+QCzU/lA3J9zVSl0/o4uYjDv7M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lfqQKzMiFIizp2lQu+QCzU/lA3J9zVSl0/o4uYjDv7M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lfqQKzMiFIizp2lQu+QCzU/lA3J9zVSl0/o4uYjDv7M="
+    }
+  },
+  "version": "3.1.1"
+}

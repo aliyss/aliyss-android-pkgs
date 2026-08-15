@@ -1,0 +1,8 @@
+{
+  "package": "com.juliansparber.captiveportallogin",
+  "signerFingerprints": [
+    "0E:CA:EB:A7:40:1B:B4:E4:F9:6A:2D:E3:6E:80:92:97:84:FC:CC:AA:28:E8:BA:1A:CD:AE:A8:D0:DF:18:9C:3B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "me.lucky.vibe_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aAQHr55gcFH9Qyd8tuagnNxHvnu/aqlLB53atoF7WLU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aAQHr55gcFH9Qyd8tuagnNxHvnu/aqlLB53atoF7WLU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aAQHr55gcFH9Qyd8tuagnNxHvnu/aqlLB53atoF7WLU="
+    }
+  },
+  "version": "1.2.0"
+}

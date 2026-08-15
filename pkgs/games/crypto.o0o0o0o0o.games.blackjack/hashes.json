@@ -1,0 +1,18 @@
+{
+  "apkName": "crypto.o0o0o0o0o.games.blackjack_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cOmXnS/XMcu5QfkfkwjeuZP3zIyDm76UlHqpLy03EwM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cOmXnS/XMcu5QfkfkwjeuZP3zIyDm76UlHqpLy03EwM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cOmXnS/XMcu5QfkfkwjeuZP3zIyDm76UlHqpLy03EwM="
+    }
+  },
+  "version": "0.29.1"
+}

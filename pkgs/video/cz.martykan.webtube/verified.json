@@ -1,0 +1,8 @@
+{
+  "package": "cz.martykan.webtube",
+  "signerFingerprints": [
+    "D4:5C:3A:EC:98:21:95:0A:FC:BA:16:C2:E7:B5:EA:A6:7B:B3:2E:46:C3:68:5C:91:17:56:2A:A2:99:19:FE:85"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

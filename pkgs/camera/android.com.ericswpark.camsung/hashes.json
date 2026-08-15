@@ -1,0 +1,18 @@
+{
+  "apkName": "android.com.ericswpark.camsung_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xuAIfuLlr4meMkWQKiGniNim3c6hN4JbHiXDiHG+OPU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xuAIfuLlr4meMkWQKiGniNim3c6hN4JbHiXDiHG+OPU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xuAIfuLlr4meMkWQKiGniNim3c6hN4JbHiXDiHG+OPU="
+    }
+  },
+  "version": "1.2.1"
+}

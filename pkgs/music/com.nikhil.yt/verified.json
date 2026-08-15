@@ -1,0 +1,8 @@
+{
+  "package": "com.nikhil.yt",
+  "signerFingerprints": [
+    "EF:B0:96:03:A4:55:10:7F:4A:4C:3B:31:36:FB:CA:6D:6A:83:98:4E:29:F5:40:D6:FA:DF:F0:EF:00:BE:6D:C5"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

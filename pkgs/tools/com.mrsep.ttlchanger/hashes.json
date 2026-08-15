@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mrsep.ttlchanger_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6hf5ATacBR6gJNhP+MGGQHUgmspq3yKoB/c4FPTYi4I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6hf5ATacBR6gJNhP+MGGQHUgmspq3yKoB/c4FPTYi4I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6hf5ATacBR6gJNhP+MGGQHUgmspq3yKoB/c4FPTYi4I="
+    }
+  },
+  "version": "1.2.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "dev.jahidhasanco.bmicalculator",
+  "signerFingerprints": [
+    "4B:CB:93:85:7C:18:B5:36:5C:7E:4E:4C:3A:44:B7:9D:BE:5C:BE:CD:93:A3:D1:7D:95:BE:4C:46:0C:BA:AC:D3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

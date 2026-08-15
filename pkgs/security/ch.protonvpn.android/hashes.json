@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.protonvpn.android_605197800.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B1gsmXoHt2uGka0SEtteDmL/fUkCym0nfOX96r4ES8U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B1gsmXoHt2uGka0SEtteDmL/fUkCym0nfOX96r4ES8U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B1gsmXoHt2uGka0SEtteDmL/fUkCym0nfOX96r4ES8U="
+    }
+  },
+  "version": "5.19.78.0"
+}

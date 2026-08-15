@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.colors.overflow_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-k3nVncLOceFR0djndyHjhBHQdRZOgIr/+8pzDJC7TFI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k3nVncLOceFR0djndyHjhBHQdRZOgIr/+8pzDJC7TFI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k3nVncLOceFR0djndyHjhBHQdRZOgIr/+8pzDJC7TFI="
+    }
+  },
+  "version": "1.0.1"
+}

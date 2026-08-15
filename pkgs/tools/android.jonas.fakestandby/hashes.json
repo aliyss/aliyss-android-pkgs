@@ -1,0 +1,18 @@
+{
+  "apkName": "android.jonas.fakestandby_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iElab6BQCi0OI7YypN/uG/uJ/ErWVgLU5HMBCOioEn8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iElab6BQCi0OI7YypN/uG/uJ/ErWVgLU5HMBCOioEn8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iElab6BQCi0OI7YypN/uG/uJ/ErWVgLU5HMBCOioEn8="
+    }
+  },
+  "version": "1.4.0"
+}

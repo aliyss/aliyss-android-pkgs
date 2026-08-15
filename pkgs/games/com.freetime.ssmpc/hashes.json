@@ -1,0 +1,18 @@
+{
+  "apkName": "com.freetime.ssmpc_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IDv6885Mc/808RGoQ3/mfdFnF8ZyPnghl56hQuWSs2Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IDv6885Mc/808RGoQ3/mfdFnF8ZyPnghl56hQuWSs2Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IDv6885Mc/808RGoQ3/mfdFnF8ZyPnghl56hQuWSs2Y="
+    }
+  },
+  "version": "1.5.0"
+}

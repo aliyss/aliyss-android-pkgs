@@ -1,0 +1,18 @@
+{
+  "apkName": "zatrit.skinbread_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BWB8yLT2PH78kDte6Q3zvLnM9vvprcG/SgFeqTmnFhk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BWB8yLT2PH78kDte6Q3zvLnM9vvprcG/SgFeqTmnFhk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BWB8yLT2PH78kDte6Q3zvLnM9vvprcG/SgFeqTmnFhk="
+    }
+  },
+  "version": "1.5"
+}

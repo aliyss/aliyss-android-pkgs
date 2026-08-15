@@ -1,0 +1,8 @@
+{
+  "package": "com.hifnawy.caffeinate",
+  "signerFingerprints": [
+    "95:0A:5B:F9:8A:6C:43:76:9D:80:0A:AC:37:1E:83:B8:A6:32:B5:5D:E9:83:49:C0:1D:C5:41:9E:90:ED:B1:AB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

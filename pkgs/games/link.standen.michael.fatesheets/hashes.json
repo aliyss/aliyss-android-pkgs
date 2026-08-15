@@ -1,0 +1,18 @@
+{
+  "apkName": "link.standen.michael.fatesheets_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GMmE5/4sLOwIKi2CceUg3U+gUwvLuYeBEeQRUpRLo44="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GMmE5/4sLOwIKi2CceUg3U+gUwvLuYeBEeQRUpRLo44="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GMmE5/4sLOwIKi2CceUg3U+gUwvLuYeBEeQRUpRLo44="
+    }
+  },
+  "version": "1.2"
+}

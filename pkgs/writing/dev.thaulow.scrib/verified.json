@@ -1,0 +1,8 @@
+{
+  "package": "dev.thaulow.scrib",
+  "signerFingerprints": [
+    "B4:23:73:D1:5D:01:4A:C7:88:4B:CC:F9:E1:1A:2F:2D:7F:FD:F3:A5:7A:6E:0F:3A:BB:43:3F:F9:82:A3:94:C2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

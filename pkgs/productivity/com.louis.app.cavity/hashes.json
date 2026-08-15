@@ -1,0 +1,18 @@
+{
+  "apkName": "com.louis.app.cavity_43.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ooaD6sd0e96Bo2GGhCxFqfWcIDzT3WNw0D9A6+8q4Fs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ooaD6sd0e96Bo2GGhCxFqfWcIDzT3WNw0D9A6+8q4Fs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ooaD6sd0e96Bo2GGhCxFqfWcIDzT3WNw0D9A6+8q4Fs="
+    }
+  },
+  "version": "1.11.1"
+}

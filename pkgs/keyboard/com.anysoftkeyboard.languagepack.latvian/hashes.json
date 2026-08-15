@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.latvian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XfJqGNoCXZpt3aiMJ38cUrvEmuzDvbBFI+9lg8Z5p7c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XfJqGNoCXZpt3aiMJ38cUrvEmuzDvbBFI+9lg8Z5p7c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XfJqGNoCXZpt3aiMJ38cUrvEmuzDvbBFI+9lg8Z5p7c="
+    }
+  },
+  "version": "5.1.6158"
+}

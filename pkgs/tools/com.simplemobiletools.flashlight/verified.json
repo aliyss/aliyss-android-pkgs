@@ -1,0 +1,8 @@
+{
+  "package": "com.simplemobiletools.flashlight",
+  "signerFingerprints": [
+    "AA:91:D6:0A:9F:96:81:2D:A5:D5:57:F2:F0:ED:CD:40:DC:3E:48:86:19:FF:1B:5C:9F:FC:CA:16:FE:1B:DF:8D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

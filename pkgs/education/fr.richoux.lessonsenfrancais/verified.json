@@ -1,0 +1,8 @@
+{
+  "package": "fr.richoux.lessonsenfrancais",
+  "signerFingerprints": [
+    "1E:12:26:B6:DE:9F:1E:28:42:8E:F0:E1:1A:25:F3:0B:D7:6C:C5:91:04:4A:E1:3F:8E:90:9D:6C:49:17:84:3F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zoffcc.applications.tofshare_10022.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xjN673dvQeWX1fVL2/33UbSbhCCRJhzy2dJnYLoW+go="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xjN673dvQeWX1fVL2/33UbSbhCCRJhzy2dJnYLoW+go="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xjN673dvQeWX1fVL2/33UbSbhCCRJhzy2dJnYLoW+go="
+    }
+  },
+  "version": "1.0.22"
+}

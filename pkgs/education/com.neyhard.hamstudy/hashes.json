@@ -1,0 +1,18 @@
+{
+  "apkName": "com.neyhard.hamstudy_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KkoK/FUYeMNrjNjdJFMDxRFMsMZ6sjpKLFZfiOCgOqY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KkoK/FUYeMNrjNjdJFMDxRFMsMZ6sjpKLFZfiOCgOqY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KkoK/FUYeMNrjNjdJFMDxRFMsMZ6sjpKLFZfiOCgOqY="
+    }
+  },
+  "version": "1.0.1"
+}

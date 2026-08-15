@@ -1,0 +1,18 @@
+{
+  "apkName": "org.herrlado.ask.languagepack.czech_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vksv3bhhiR7PE4Kr+GonUSeFmCofR/oA0GEXzR7Dx5E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vksv3bhhiR7PE4Kr+GonUSeFmCofR/oA0GEXzR7Dx5E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vksv3bhhiR7PE4Kr+GonUSeFmCofR/oA0GEXzR7Dx5E="
+    }
+  },
+  "version": "5.1.6158"
+}

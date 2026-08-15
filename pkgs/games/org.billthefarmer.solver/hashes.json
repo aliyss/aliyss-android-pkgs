@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.solver_113.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qqHMDOkb8eArHd4UOWdkz5z9qLG/pSLOGmLUdgI3mXk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qqHMDOkb8eArHd4UOWdkz5z9qLG/pSLOGmLUdgI3mXk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qqHMDOkb8eArHd4UOWdkz5z9qLG/pSLOGmLUdgI3mXk="
+    }
+  },
+  "version": "1.13"
+}

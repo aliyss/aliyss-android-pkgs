@@ -1,0 +1,18 @@
+{
+  "apkName": "com.metalshard.hyperion_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Nfu1TFLv8GUAg2SLLfTSG7iSgqfWtNFqal6FuxYAF+E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nfu1TFLv8GUAg2SLLfTSG7iSgqfWtNFqal6FuxYAF+E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nfu1TFLv8GUAg2SLLfTSG7iSgqfWtNFqal6FuxYAF+E="
+    }
+  },
+  "version": "1.3"
+}

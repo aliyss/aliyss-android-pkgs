@@ -1,0 +1,8 @@
+{
+  "package": "com.pierreduchemin.smsforward",
+  "signerFingerprints": [
+    "F3:39:C6:CC:C6:16:D7:10:13:0B:F5:0F:E5:1A:6B:EA:7C:B2:FF:C1:39:7C:A2:DA:24:E5:3C:27:F1:5A:65:31"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

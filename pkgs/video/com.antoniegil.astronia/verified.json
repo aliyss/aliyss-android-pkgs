@@ -1,0 +1,8 @@
+{
+  "package": "com.antoniegil.astronia",
+  "signerFingerprints": [
+    "5D:68:C1:4F:1E:FD:95:D2:F7:CA:46:E2:44:B4:B7:CF:06:52:E9:29:AD:C6:CD:10:26:F8:C2:50:73:1B:22:B0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

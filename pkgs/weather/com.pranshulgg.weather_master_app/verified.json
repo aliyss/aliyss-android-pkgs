@@ -1,0 +1,8 @@
+{
+  "package": "com.pranshulgg.weather_master_app",
+  "signerFingerprints": [
+    "C9:7F:59:2A:D5:A4:26:EF:17:AA:4B:11:3A:A8:F9:C1:BC:3C:2F:26:75:C8:57:AD:86:BD:AC:C0:5F:BE:EE:01"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

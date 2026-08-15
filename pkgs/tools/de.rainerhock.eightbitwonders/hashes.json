@@ -1,0 +1,18 @@
+{
+  "apkName": "de.rainerhock.eightbitwonders_100091.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7ae/Jwg4CuFlsivoXzNCOPcDru5kRbaphuRAuccTnLA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7ae/Jwg4CuFlsivoXzNCOPcDru5kRbaphuRAuccTnLA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7ae/Jwg4CuFlsivoXzNCOPcDru5kRbaphuRAuccTnLA="
+    }
+  },
+  "version": "0.8.10"
+}

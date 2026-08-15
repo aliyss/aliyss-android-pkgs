@@ -1,0 +1,8 @@
+{
+  "package": "k4ustu3h.monocons.izzy",
+  "signerFingerprints": [
+    "B6:6A:31:AB:0F:86:57:96:64:A1:42:97:8A:CA:59:29:26:CC:01:F4:75:0C:F7:1A:55:2B:31:0F:F9:AD:34:36"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

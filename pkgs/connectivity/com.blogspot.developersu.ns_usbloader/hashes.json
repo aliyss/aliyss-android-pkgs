@@ -1,0 +1,18 @@
+{
+  "apkName": "com.blogspot.developersu.ns_usbloader_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cAa5VSH3xcYgdIwpd8+u9bzfLPSpRkVbbM82fWtNXsA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cAa5VSH3xcYgdIwpd8+u9bzfLPSpRkVbbM82fWtNXsA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cAa5VSH3xcYgdIwpd8+u9bzfLPSpRkVbbM82fWtNXsA="
+    }
+  },
+  "version": "5.0"
+}

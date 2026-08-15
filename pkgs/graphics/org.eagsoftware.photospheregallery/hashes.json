@@ -1,0 +1,18 @@
+{
+  "apkName": "org.eagsoftware.photospheregallery_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WL6gOBS9memHbO9th+NgZwIXOE4qXTrNQevsBReImts="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WL6gOBS9memHbO9th+NgZwIXOE4qXTrNQevsBReImts="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WL6gOBS9memHbO9th+NgZwIXOE4qXTrNQevsBReImts="
+    }
+  },
+  "version": "2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlynotes_105.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ceh09F+kZV8UKW/OE3kagvmU6pvCZpn0Mzg/C00zQDc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ceh09F+kZV8UKW/OE3kagvmU6pvCZpn0Mzg/C00zQDc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ceh09F+kZV8UKW/OE3kagvmU6pvCZpn0Mzg/C00zQDc="
+    }
+  },
+  "version": "2.2.2"
+}

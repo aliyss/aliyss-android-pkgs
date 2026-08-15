@@ -1,0 +1,8 @@
+{
+  "package": "info.guardianproject.pixelknot",
+  "signerFingerprints": [
+    "AF:0D:13:A1:D2:36:A1:F8:D2:32:E9:16:CB:C0:1F:AF:E2:30:5E:54:D9:EB:66:96:1D:F8:03:74:C0:1E:14:6E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

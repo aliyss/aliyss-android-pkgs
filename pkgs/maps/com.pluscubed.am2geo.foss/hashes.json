@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pluscubed.am2geo.foss_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SzWyYIkLLRUuW2CgAdsMyvN09gY4kAPiaB3++/b5hRE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SzWyYIkLLRUuW2CgAdsMyvN09gY4kAPiaB3++/b5hRE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SzWyYIkLLRUuW2CgAdsMyvN09gY4kAPiaB3++/b5hRE="
+    }
+  },
+  "version": "1.0.3"
+}

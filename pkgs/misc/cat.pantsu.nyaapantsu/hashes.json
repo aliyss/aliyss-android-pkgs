@@ -1,0 +1,18 @@
+{
+  "apkName": "cat.pantsu.nyaapantsu_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JfuUiGuqtQNuzonsknusKht/svYpSxKgdXgQ3/pxjuI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JfuUiGuqtQNuzonsknusKht/svYpSxKgdXgQ3/pxjuI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JfuUiGuqtQNuzonsknusKht/svYpSxKgdXgQ3/pxjuI="
+    }
+  },
+  "version": "Iroppoi Pantsu (1.2)"
+}

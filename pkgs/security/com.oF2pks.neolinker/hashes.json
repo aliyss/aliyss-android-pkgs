@@ -1,0 +1,18 @@
+{
+  "apkName": "com.oF2pks.neolinker_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WKfUs+Ja98MJH7wkUCJ98qNBVCPE8XbyWpb3aHpazcw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WKfUs+Ja98MJH7wkUCJ98qNBVCPE8XbyWpb3aHpazcw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WKfUs+Ja98MJH7wkUCJ98qNBVCPE8XbyWpb3aHpazcw="
+    }
+  },
+  "version": "2.2-7"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.jpwolfso.privdnsqt",
+  "signerFingerprints": [
+    "65:C1:65:98:1B:66:45:97:66:4C:8A:D1:19:9E:2F:4C:EA:F2:6F:31:87:84:3E:10:A1:1A:4D:95:F2:14:5D:CA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

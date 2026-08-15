@@ -1,0 +1,8 @@
+{
+  "package": "app.maskan.chat",
+  "signerFingerprints": [
+    "C8:29:F0:FC:88:5A:D4:A3:2F:80:F7:50:72:74:97:2A:0B:88:A8:89:26:D5:51:D9:6D:18:1E:EE:D8:D4:96:E3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

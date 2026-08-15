@@ -1,0 +1,8 @@
+{
+  "package": "com.tacticmaster",
+  "signerFingerprints": [
+    "7D:FE:73:96:00:29:74:A2:D4:D7:EC:50:FB:A9:73:66:E3:87:2D:52:E4:B2:A7:C9:87:2A:97:9D:77:3B:62:57"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

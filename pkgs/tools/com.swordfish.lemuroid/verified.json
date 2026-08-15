@@ -1,0 +1,8 @@
+{
+  "package": "com.swordfish.lemuroid",
+  "signerFingerprints": [
+    "36:E9:85:3F:48:84:E5:5C:35:80:3D:BF:67:1E:14:93:E8:B0:B4:D3:3E:63:5E:D8:4D:BA:A8:3B:CA:D8:30:3C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

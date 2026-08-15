@@ -1,0 +1,8 @@
+{
+  "package": "fe.linksheet",
+  "signerFingerprints": [
+    "C2:A8:B1:8C:32:8D:FB:39:C8:96:49:17:57:ED:11:C1:45:D3:AC:CA:43:21:2F:A3:DE:36:24:33:C4:16:AA:A9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

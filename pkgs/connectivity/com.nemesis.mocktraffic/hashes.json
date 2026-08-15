@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nemesis.mocktraffic_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JzcVG1le8xYk9yO6Hgbn+NIot+URd7iF4lH6JsTef30="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JzcVG1le8xYk9yO6Hgbn+NIot+URd7iF4lH6JsTef30="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JzcVG1le8xYk9yO6Hgbn+NIot+URd7iF4lH6JsTef30="
+    }
+  },
+  "version": "1.1"
+}

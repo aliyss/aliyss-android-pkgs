@@ -1,0 +1,18 @@
+{
+  "apkName": "com.byarchitect.operator_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EUND+40xPjeeCKO7g3OpBOxTATRnjxe3TnvXOPTHgjw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EUND+40xPjeeCKO7g3OpBOxTATRnjxe3TnvXOPTHgjw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EUND+40xPjeeCKO7g3OpBOxTATRnjxe3TnvXOPTHgjw="
+    }
+  },
+  "version": "0.0.7"
+}

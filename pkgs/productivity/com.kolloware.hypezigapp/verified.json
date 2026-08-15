@@ -1,0 +1,8 @@
+{
+  "package": "com.kolloware.hypezigapp",
+  "signerFingerprints": [
+    "E8:94:98:36:DE:62:50:FB:BA:AB:05:76:BE:03:B0:AA:7E:4C:A9:3D:5D:C4:40:BA:89:73:5E:7E:22:31:3D:72"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

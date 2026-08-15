@@ -1,0 +1,8 @@
+{
+  "package": "com.rascarlo.aurdroid",
+  "signerFingerprints": [
+    "40:BE:BE:7C:60:1A:44:2B:C6:53:BB:25:97:E1:12:F8:95:5D:E4:A8:D6:09:B9:CC:F7:6F:9F:70:DE:CA:EE:92"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

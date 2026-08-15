@@ -1,0 +1,8 @@
+{
+  "package": "lcukerd.com.stufflist",
+  "signerFingerprints": [
+    "C1:0B:0D:91:D4:6D:50:D4:C9:DF:3D:0B:F9:C3:40:01:C4:38:FC:BF:F8:45:68:0B:CB:6B:69:39:27:5D:04:49"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

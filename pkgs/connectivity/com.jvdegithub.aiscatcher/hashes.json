@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jvdegithub.aiscatcher_118.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/qbINtLfspWKBahdRBl1NlFS3n/scSE8JVMZi3cxu94="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/qbINtLfspWKBahdRBl1NlFS3n/scSE8JVMZi3cxu94="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/qbINtLfspWKBahdRBl1NlFS3n/scSE8JVMZi3cxu94="
+    }
+  },
+  "version": "1.18"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.anothermonitor",
+  "signerFingerprints": [
+    "CA:14:55:86:3C:39:8A:66:87:EC:7F:62:CC:E8:5D:09:5C:75:F7:33:1E:FC:31:8B:D4:A5:AD:36:22:CD:77:A2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

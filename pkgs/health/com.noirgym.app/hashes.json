@@ -1,0 +1,18 @@
+{
+  "apkName": "com.noirgym.app_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LXtU0o0dHP4yU9bMDCiCygwLX8XzWNJSEk6ACeM9fnQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LXtU0o0dHP4yU9bMDCiCygwLX8XzWNJSEk6ACeM9fnQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LXtU0o0dHP4yU9bMDCiCygwLX8XzWNJSEk6ACeM9fnQ="
+    }
+  },
+  "version": "1.2"
+}

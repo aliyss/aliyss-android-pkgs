@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.hufrea.keysh_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qXzElH7yjlTP/jH7JoKni4wD301/XHaVzP7W95UUZio="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qXzElH7yjlTP/jH7JoKni4wD301/XHaVzP7W95UUZio="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qXzElH7yjlTP/jH7JoKni4wD301/XHaVzP7W95UUZio="
+    }
+  },
+  "version": "0.1.10"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.nofuturekid.nova",
+  "signerFingerprints": [
+    "A5:66:F7:60:C4:63:2E:29:28:B9:50:B2:C3:97:6E:EC:05:52:05:4F:C8:7D:53:4F:D2:CC:22:85:EB:05:0D:1B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.designlife.justdo_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nfgtz7Bm1YxszevybNvMrcLcWb11WsSyVCtrZyLiodY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nfgtz7Bm1YxszevybNvMrcLcWb11WsSyVCtrZyLiodY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nfgtz7Bm1YxszevybNvMrcLcWb11WsSyVCtrZyLiodY="
+    }
+  },
+  "version": "1.0.1"
+}

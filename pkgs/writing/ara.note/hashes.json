@@ -1,0 +1,18 @@
+{
+  "apkName": "ara.note_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BIsrQV6My4ZAkfbqSUtPciaw2uRtiOBvvvemUFWAhqE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BIsrQV6My4ZAkfbqSUtPciaw2uRtiOBvvvemUFWAhqE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BIsrQV6My4ZAkfbqSUtPciaw2uRtiOBvvvemUFWAhqE="
+    }
+  },
+  "version": "1.0.0"
+}

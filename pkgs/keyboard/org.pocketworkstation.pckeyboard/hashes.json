@@ -1,0 +1,18 @@
+{
+  "apkName": "org.pocketworkstation.pckeyboard_1041001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZBq4phT0lnZbuEFmWqiU/bnR+QjCL/sBryBZx2AO0NM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZBq4phT0lnZbuEFmWqiU/bnR+QjCL/sBryBZx2AO0NM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZBq4phT0lnZbuEFmWqiU/bnR+QjCL/sBryBZx2AO0NM="
+    }
+  },
+  "version": "v1.41.1"
+}

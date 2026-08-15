@@ -1,0 +1,18 @@
+{
+  "apkName": "com.memetro.android_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SoeZtuSyh4IWj1iW3gJqmKtaZtCYndfxzJNrcxLn7Rw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SoeZtuSyh4IWj1iW3gJqmKtaZtCYndfxzJNrcxLn7Rw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SoeZtuSyh4IWj1iW3gJqmKtaZtCYndfxzJNrcxLn7Rw="
+    }
+  },
+  "version": "1.3"
+}

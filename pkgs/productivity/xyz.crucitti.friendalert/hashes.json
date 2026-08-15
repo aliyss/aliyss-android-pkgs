@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.crucitti.friendalert_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TdKiu2kIdNJYyjd3cixSszHejFYFFYpLrBAk6N//mkM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TdKiu2kIdNJYyjd3cixSszHejFYFFYpLrBAk6N//mkM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TdKiu2kIdNJYyjd3cixSszHejFYFFYpLrBAk6N//mkM="
+    }
+  },
+  "version": "1.2.0"
+}

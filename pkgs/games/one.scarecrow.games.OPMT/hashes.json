@@ -1,0 +1,18 @@
+{
+  "apkName": "one.scarecrow.games.OPMT_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7vjx0S1XAKvXtUCps+u/NaNqltljvZsjCs3zBSfNVpI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7vjx0S1XAKvXtUCps+u/NaNqltljvZsjCs3zBSfNVpI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7vjx0S1XAKvXtUCps+u/NaNqltljvZsjCs3zBSfNVpI="
+    }
+  },
+  "version": "0.1.2"
+}

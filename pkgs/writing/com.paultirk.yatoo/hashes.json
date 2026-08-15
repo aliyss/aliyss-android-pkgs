@@ -1,0 +1,18 @@
+{
+  "apkName": "com.paultirk.yatoo_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qRMCX4hGe+4c7LSDyA4WPLZk0XOp/6BC0TRjLtTc+bs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qRMCX4hGe+4c7LSDyA4WPLZk0XOp/6BC0TRjLtTc+bs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qRMCX4hGe+4c7LSDyA4WPLZk0XOp/6BC0TRjLtTc+bs="
+    }
+  },
+  "version": "0.12.1"
+}

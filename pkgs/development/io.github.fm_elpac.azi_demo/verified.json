@@ -1,0 +1,8 @@
+{
+  "package": "io.github.fm_elpac.azi_demo",
+  "signerFingerprints": [
+    "53:99:77:FF:44:FE:49:BB:36:54:EF:E3:A5:59:3E:AC:7A:B2:ED:6B:48:DE:2F:27:71:D6:FA:B9:DC:C1:8D:3A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

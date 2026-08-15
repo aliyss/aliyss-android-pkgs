@@ -1,0 +1,18 @@
+{
+  "apkName": "de.felixnuesse.timedsilence_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-snsmy2MB8taNMc5tDUYMWP/RxV3L2qTbBAjWLWdO1zk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-snsmy2MB8taNMc5tDUYMWP/RxV3L2qTbBAjWLWdO1zk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-snsmy2MB8taNMc5tDUYMWP/RxV3L2qTbBAjWLWdO1zk="
+    }
+  },
+  "version": "3.1.3"
+}

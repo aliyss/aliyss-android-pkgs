@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.subhamtyagi.quickcalculation_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KlA7y0n6Ruci/ciT/Rt2+jTkJB6VolV4OcNucgMUnoE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KlA7y0n6Ruci/ciT/Rt2+jTkJB6VolV4OcNucgMUnoE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KlA7y0n6Ruci/ciT/Rt2+jTkJB6VolV4OcNucgMUnoE="
+    }
+  },
+  "version": "1.4"
+}

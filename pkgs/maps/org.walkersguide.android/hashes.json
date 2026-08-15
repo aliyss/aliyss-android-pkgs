@@ -1,0 +1,18 @@
+{
+  "apkName": "org.walkersguide.android_68.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Z2LLkmC0C1WC6JYQEJFLiEHRHHCA1BKl+kS8TkRe2P0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z2LLkmC0C1WC6JYQEJFLiEHRHHCA1BKl+kS8TkRe2P0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z2LLkmC0C1WC6JYQEJFLiEHRHHCA1BKl+kS8TkRe2P0="
+    }
+  },
+  "version": "3.4.0"
+}

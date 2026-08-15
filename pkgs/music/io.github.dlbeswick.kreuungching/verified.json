@@ -1,0 +1,8 @@
+{
+  "package": "io.github.dlbeswick.kreuungching",
+  "signerFingerprints": [
+    "CE:C2:C3:D6:17:27:D6:FB:40:64:B1:BC:8F:BB:E6:56:E8:5C:F9:BD:4D:6A:95:BA:C8:5A:90:32:CD:75:7C:39"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

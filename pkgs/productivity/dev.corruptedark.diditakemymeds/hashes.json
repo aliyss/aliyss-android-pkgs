@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.corruptedark.diditakemymeds_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wmNKf1BA38RK58rDExJCpi9omoPZdYm3R/5Gcxbhwlw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wmNKf1BA38RK58rDExJCpi9omoPZdYm3R/5Gcxbhwlw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wmNKf1BA38RK58rDExJCpi9omoPZdYm3R/5Gcxbhwlw="
+    }
+  },
+  "version": "1.6.6"
+}

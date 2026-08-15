@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.printn.humanbenchmark_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hlqXcvUoID1IdhDypTybNOX+ZbTCRBjGA/v9yiKgnYc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hlqXcvUoID1IdhDypTybNOX+ZbTCRBjGA/v9yiKgnYc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hlqXcvUoID1IdhDypTybNOX+ZbTCRBjGA/v9yiKgnYc="
+    }
+  },
+  "version": "1.1.2"
+}

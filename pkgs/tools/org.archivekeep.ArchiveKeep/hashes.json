@@ -1,0 +1,18 @@
+{
+  "apkName": "org.archivekeep.ArchiveKeep_62.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hpHhd4Pi6/KPCtJH9hdK2c2xQcPOFHiSM22Dlg/a/pE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hpHhd4Pi6/KPCtJH9hdK2c2xQcPOFHiSM22Dlg/a/pE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hpHhd4Pi6/KPCtJH9hdK2c2xQcPOFHiSM22Dlg/a/pE="
+    }
+  },
+  "version": "0.6.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.siggen_137.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4srRiEBH2AhWFBQyFpuq+TE3IhiO9YgenCoV14sdNgE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4srRiEBH2AhWFBQyFpuq+TE3IhiO9YgenCoV14sdNgE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4srRiEBH2AhWFBQyFpuq+TE3IhiO9YgenCoV14sdNgE="
+    }
+  },
+  "version": "1.37"
+}

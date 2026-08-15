@@ -1,0 +1,18 @@
+{
+  "apkName": "name.seguri.android.isphoneencrypted_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bLOQ4hLcJ3d2qpQBnp0oxhlFSeGweVsbI4Rfjr1lPhY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bLOQ4hLcJ3d2qpQBnp0oxhlFSeGweVsbI4Rfjr1lPhY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bLOQ4hLcJ3d2qpQBnp0oxhlFSeGweVsbI4Rfjr1lPhY="
+    }
+  },
+  "version": "1.0.0"
+}

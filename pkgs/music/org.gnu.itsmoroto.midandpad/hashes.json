@@ -1,0 +1,18 @@
+{
+  "apkName": "org.gnu.itsmoroto.midandpad_10301.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oNTLfgaakrj59ATT/VVj+fhOpddNViQ88kaCveOo958="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oNTLfgaakrj59ATT/VVj+fhOpddNViQ88kaCveOo958="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oNTLfgaakrj59ATT/VVj+fhOpddNViQ88kaCveOo958="
+    }
+  },
+  "version": "1.3.1"
+}

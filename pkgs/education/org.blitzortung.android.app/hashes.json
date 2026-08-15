@@ -1,0 +1,18 @@
+{
+  "apkName": "org.blitzortung.android.app_352.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xfICrmdvCcaoxC1yQLUc2unGIYyjkZa9NBvrBG18XDo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xfICrmdvCcaoxC1yQLUc2unGIYyjkZa9NBvrBG18XDo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xfICrmdvCcaoxC1yQLUc2unGIYyjkZa9NBvrBG18XDo="
+    }
+  },
+  "version": "2.5.2"
+}

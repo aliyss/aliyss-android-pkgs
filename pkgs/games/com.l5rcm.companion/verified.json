@@ -1,0 +1,8 @@
+{
+  "package": "com.l5rcm.companion",
+  "signerFingerprints": [
+    "08:0E:A9:11:F6:15:20:30:ED:39:8D:6D:2C:50:01:50:CF:C9:72:38:CD:AF:78:69:0A:8A:3D:B0:43:12:63:4A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

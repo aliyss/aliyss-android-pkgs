@@ -1,0 +1,18 @@
+{
+  "apkName": "com.afkanerd.sw0b_81.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oPR86F3rVgpjJASGJrLCHn1rTFRZMZjw+lWo+OGNSkE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oPR86F3rVgpjJASGJrLCHn1rTFRZMZjw+lWo+OGNSkE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oPR86F3rVgpjJASGJrLCHn1rTFRZMZjw+lWo+OGNSkE="
+    }
+  },
+  "version": "0.40.0"
+}

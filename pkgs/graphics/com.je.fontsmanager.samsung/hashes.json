@@ -1,0 +1,18 @@
+{
+  "apkName": "com.je.fontsmanager.samsung_150.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bsWOuFrF1y/BTbs55XDuRbnyp8DsNpVDyznvnTGS/pc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bsWOuFrF1y/BTbs55XDuRbnyp8DsNpVDyznvnTGS/pc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bsWOuFrF1y/BTbs55XDuRbnyp8DsNpVDyznvnTGS/pc="
+    }
+  },
+  "version": "1.5"
+}

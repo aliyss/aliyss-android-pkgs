@@ -1,0 +1,18 @@
+{
+  "apkName": "io.oversec.one_1005015.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SH2kfrPM16k66zl+bkNa8L6Pa3nP96OmDq8gUXYsIPI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SH2kfrPM16k66zl+bkNa8L6Pa3nP96OmDq8gUXYsIPI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SH2kfrPM16k66zl+bkNa8L6Pa3nP96OmDq8gUXYsIPI="
+    }
+  },
+  "version": "1.5.15"
+}

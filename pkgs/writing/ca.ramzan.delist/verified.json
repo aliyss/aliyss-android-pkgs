@@ -1,0 +1,8 @@
+{
+  "package": "ca.ramzan.delist",
+  "signerFingerprints": [
+    "1F:A5:E7:2D:E4:46:09:10:60:5C:02:75:4D:A4:A2:D6:3B:2B:9E:26:47:AB:BE:D8:B9:F8:DC:C4:E1:85:76:DD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.asdtm.fas_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Go/Y5uvkuOPbQI/1uuMsdWFvozi9PYK4rNyUwsMBYOY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Go/Y5uvkuOPbQI/1uuMsdWFvozi9PYK4rNyUwsMBYOY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Go/Y5uvkuOPbQI/1uuMsdWFvozi9PYK4rNyUwsMBYOY="
+    }
+  },
+  "version": "0.3"
+}

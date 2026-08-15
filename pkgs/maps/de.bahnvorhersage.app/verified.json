@@ -1,0 +1,8 @@
+{
+  "package": "de.bahnvorhersage.app",
+  "signerFingerprints": [
+    "B3:15:51:00:55:4B:98:99:9F:8B:A4:68:9D:AD:6F:5D:21:A4:69:06:4C:40:55:B2:03:95:E8:4C:FD:8A:C8:04"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.giacomomensio.ricevapp_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3Op3tDcvKDY/bBteXFLdM/T9a/f+QwY+6WuxWcRXiz0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3Op3tDcvKDY/bBteXFLdM/T9a/f+QwY+6WuxWcRXiz0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3Op3tDcvKDY/bBteXFLdM/T9a/f+QwY+6WuxWcRXiz0="
+    }
+  },
+  "version": "1.9.3"
+}

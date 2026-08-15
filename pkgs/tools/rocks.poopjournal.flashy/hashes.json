@@ -1,0 +1,18 @@
+{
+  "apkName": "rocks.poopjournal.flashy_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xrAvqpRF8LTFw6lySDwLFwEHaxwDXU88sHPsZXN12JI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xrAvqpRF8LTFw6lySDwLFwEHaxwDXU88sHPsZXN12JI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xrAvqpRF8LTFw6lySDwLFwEHaxwDXU88sHPsZXN12JI="
+    }
+  },
+  "version": "3.3"
+}

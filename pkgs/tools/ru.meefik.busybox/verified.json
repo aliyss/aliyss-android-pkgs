@@ -1,0 +1,8 @@
+{
+  "package": "ru.meefik.busybox",
+  "signerFingerprints": [
+    "0C:9C:65:DC:C4:88:1D:9E:C4:B7:D3:6E:E9:37:16:79:9F:3F:14:78:E9:29:EA:37:D4:34:C3:B7:38:E8:59:4F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.acamol.qbit_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HR2Ar4HvV7/V7S3CkPdpKLZ1o72lEN61nwavrPs8ETQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HR2Ar4HvV7/V7S3CkPdpKLZ1o72lEN61nwavrPs8ETQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HR2Ar4HvV7/V7S3CkPdpKLZ1o72lEN61nwavrPs8ETQ="
+    }
+  },
+  "version": "1.2.0"
+}

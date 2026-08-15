@@ -1,0 +1,8 @@
+{
+  "package": "com.xmrchat.xmrpod",
+  "signerFingerprints": [
+    "92:74:4D:DA:05:9C:EE:0D:25:8B:18:65:37:6E:57:F3:3D:67:D4:B2:F9:2A:E7:85:70:74:E9:B3:90:C3:A6:1C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

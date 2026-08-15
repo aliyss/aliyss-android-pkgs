@@ -1,0 +1,18 @@
+{
+  "apkName": "me.danb.retherm_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XG1+2iaNm1zEdwv0SeQIvhhlwLyHFxQl5KO9RprbAYg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XG1+2iaNm1zEdwv0SeQIvhhlwLyHFxQl5KO9RprbAYg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XG1+2iaNm1zEdwv0SeQIvhhlwLyHFxQl5KO9RprbAYg="
+    }
+  },
+  "version": "2.0.3"
+}

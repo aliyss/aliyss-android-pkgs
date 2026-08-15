@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jerameeldelosreyes.sushi_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hl70+9wYNuShUixbYFnnPZE/1v43Y1aHeclNxRayajM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hl70+9wYNuShUixbYFnnPZE/1v43Y1aHeclNxRayajM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hl70+9wYNuShUixbYFnnPZE/1v43Y1aHeclNxRayajM="
+    }
+  },
+  "version": "1.15"
+}

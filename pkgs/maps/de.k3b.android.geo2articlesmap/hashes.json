@@ -1,0 +1,18 @@
+{
+  "apkName": "de.k3b.android.geo2articlesmap_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uqRnpKocr3O3LCkCoNhbv9mNRBRuNl76TU4EtvftRJ8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uqRnpKocr3O3LCkCoNhbv9mNRBRuNl76TU4EtvftRJ8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uqRnpKocr3O3LCkCoNhbv9mNRBRuNl76TU4EtvftRJ8="
+    }
+  },
+  "version": "v1.6"
+}

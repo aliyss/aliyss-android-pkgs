@@ -1,0 +1,8 @@
+{
+  "package": "sh.unlimi.x2vx",
+  "signerFingerprints": [
+    "08:4A:E6:E9:80:4E:71:5F:82:86:29:DF:9C:BC:39:96:CE:A8:A9:99:B6:10:20:EA:0E:FB:FA:6E:7A:FA:21:E1"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

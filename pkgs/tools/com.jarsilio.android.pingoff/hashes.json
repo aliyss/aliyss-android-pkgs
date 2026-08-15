@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jarsilio.android.pingoff_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TPGGPQzaSa8VhlPLkwhOoF+J3VVlD1bTUn+v3a5KeKA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TPGGPQzaSa8VhlPLkwhOoF+J3VVlD1bTUn+v3a5KeKA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TPGGPQzaSa8VhlPLkwhOoF+J3VVlD1bTUn+v3a5KeKA="
+    }
+  },
+  "version": "0.4.6"
+}

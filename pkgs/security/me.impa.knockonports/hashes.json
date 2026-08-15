@@ -1,0 +1,18 @@
+{
+  "apkName": "me.impa.knockonports_370012200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aHw46uKYUuFUQmm+KBYFCqyDmO0I6OCNxqcF813yWSw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aHw46uKYUuFUQmm+KBYFCqyDmO0I6OCNxqcF813yWSw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aHw46uKYUuFUQmm+KBYFCqyDmO0I6OCNxqcF813yWSw="
+    }
+  },
+  "version": "2.1.10"
+}

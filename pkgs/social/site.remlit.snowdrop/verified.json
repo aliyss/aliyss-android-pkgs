@@ -1,0 +1,8 @@
+{
+  "package": "site.remlit.snowdrop",
+  "signerFingerprints": [
+    "0E:1C:87:18:E3:B5:FE:D7:43:4A:B9:97:00:E8:B9:3E:FE:99:9A:E7:65:CC:ED:14:43:88:A8:4E:3C:6A:58:48"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

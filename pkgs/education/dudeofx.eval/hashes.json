@@ -1,0 +1,18 @@
+{
+  "apkName": "dudeofx.eval_102.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9rshMAKl+g2Rf6QFj36pCGOZrArC9dkbJIgpTn+8jXM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9rshMAKl+g2Rf6QFj36pCGOZrArC9dkbJIgpTn+8jXM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9rshMAKl+g2Rf6QFj36pCGOZrArC9dkbJIgpTn+8jXM="
+    }
+  },
+  "version": "1.2"
+}

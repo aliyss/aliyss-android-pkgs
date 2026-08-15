@@ -1,0 +1,8 @@
+{
+  "package": "org.freeminer.freeminer",
+  "signerFingerprints": [
+    "C5:F6:62:36:59:F2:32:7A:D8:79:49:DB:7B:08:D4:03:4D:3C:B0:30:12:9B:45:5E:33:A9:5E:2F:ED:F5:7D:FC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mbach.lemonde_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UfPHvTYfgmmVaI+IcZLakrDLhyT0PUqu7zAgayQB7co="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UfPHvTYfgmmVaI+IcZLakrDLhyT0PUqu7zAgayQB7co="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UfPHvTYfgmmVaI+IcZLakrDLhyT0PUqu7zAgayQB7co="
+    }
+  },
+  "version": "4.0.2"
+}

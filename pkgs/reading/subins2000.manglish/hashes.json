@@ -1,0 +1,18 @@
+{
+  "apkName": "subins2000.manglish_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AfP4kSXamBAVujxl7HMYBuDPxfTb1kvTAC1VOGEUAdc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AfP4kSXamBAVujxl7HMYBuDPxfTb1kvTAC1VOGEUAdc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AfP4kSXamBAVujxl7HMYBuDPxfTb1kvTAC1VOGEUAdc="
+    }
+  },
+  "version": "7.0"
+}

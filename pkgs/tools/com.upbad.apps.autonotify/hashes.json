@@ -1,0 +1,18 @@
+{
+  "apkName": "com.upbad.apps.autonotify_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-swLpqvHbSiKiA79qvTnXsNH8xnktm1wtNmdWZwAWcAw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-swLpqvHbSiKiA79qvTnXsNH8xnktm1wtNmdWZwAWcAw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-swLpqvHbSiKiA79qvTnXsNH8xnktm1wtNmdWZwAWcAw="
+    }
+  },
+  "version": "2.4"
+}

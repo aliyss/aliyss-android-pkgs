@@ -1,0 +1,18 @@
+{
+  "apkName": "app.pwhs.blockads_51.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DDyVBjy5qf0XNt+V1KoesqJFoCsmhe+8OVjh5l8DS7c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DDyVBjy5qf0XNt+V1KoesqJFoCsmhe+8OVjh5l8DS7c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DDyVBjy5qf0XNt+V1KoesqJFoCsmhe+8OVjh5l8DS7c="
+    }
+  },
+  "version": "6.5.2"
+}

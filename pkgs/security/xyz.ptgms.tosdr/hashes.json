@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.ptgms.tosdr_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XnheKKeeIZPKik2WpmOPHifO4XLE1kDdNA0HsUzpkjI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XnheKKeeIZPKik2WpmOPHifO4XLE1kDdNA0HsUzpkjI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XnheKKeeIZPKik2WpmOPHifO4XLE1kDdNA0HsUzpkjI="
+    }
+  },
+  "version": "2.1.2"
+}

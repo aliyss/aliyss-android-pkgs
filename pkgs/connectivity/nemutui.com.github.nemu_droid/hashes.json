@@ -1,0 +1,18 @@
+{
+  "apkName": "nemutui.com.github.nemu_droid_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RQPsKULxJrjGaxWYvx3oEi7GYfvqqGvDESTq6zbKyWg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RQPsKULxJrjGaxWYvx3oEi7GYfvqqGvDESTq6zbKyWg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RQPsKULxJrjGaxWYvx3oEi7GYfvqqGvDESTq6zbKyWg="
+    }
+  },
+  "version": "0.2.0"
+}

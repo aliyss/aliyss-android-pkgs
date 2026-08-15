@@ -1,0 +1,8 @@
+{
+  "package": "lsposed.orange",
+  "signerFingerprints": [
+    "97:1B:39:BE:62:45:CB:93:0D:E2:CD:39:1F:D0:82:8A:19:4F:35:68:1E:6E:7E:38:14:62:BB:5B:CD:A3:B1:6E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

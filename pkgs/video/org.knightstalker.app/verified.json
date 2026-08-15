@@ -1,0 +1,8 @@
+{
+  "package": "org.knightstalker.app",
+  "signerFingerprints": [
+    "B1:1F:E3:C4:7B:09:C0:08:8E:D3:51:DB:9A:20:12:99:1E:90:FE:A0:E9:FF:AA:53:F6:E2:7F:8A:68:23:11:AA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

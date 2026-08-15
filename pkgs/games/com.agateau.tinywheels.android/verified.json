@@ -1,0 +1,8 @@
+{
+  "package": "com.agateau.tinywheels.android",
+  "signerFingerprints": [
+    "D2:49:12:99:2E:85:D9:9D:AA:17:5D:BD:C1:45:61:D2:28:7B:25:3D:D6:56:FB:BB:14:BD:8F:D4:A8:61:38:CC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

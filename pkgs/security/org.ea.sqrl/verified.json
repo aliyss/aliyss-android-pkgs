@@ -1,0 +1,8 @@
+{
+  "package": "org.ea.sqrl",
+  "signerFingerprints": [
+    "21:2E:C0:E3:E0:D7:84:75:D2:4A:12:71:B4:8C:AF:EA:9E:75:A0:D5:85:B0:00:19:4A:7A:7F:3D:A9:8D:02:E5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

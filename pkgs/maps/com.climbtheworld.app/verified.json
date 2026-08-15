@@ -1,0 +1,8 @@
+{
+  "package": "com.climbtheworld.app",
+  "signerFingerprints": [
+    "09:99:D7:B5:1F:F9:9F:D9:71:D3:D1:BA:E7:FB:A0:09:19:DD:81:A1:AE:4F:BF:75:E1:F7:96:AE:0D:4F:41:76"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

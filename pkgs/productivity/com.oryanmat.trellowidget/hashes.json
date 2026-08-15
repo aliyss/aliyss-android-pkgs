@@ -1,0 +1,18 @@
+{
+  "apkName": "com.oryanmat.trellowidget_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sx3XkzZ1hpVNKmMC2K2N49BPTznqGy6xospNRjpxGTs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sx3XkzZ1hpVNKmMC2K2N49BPTznqGy6xospNRjpxGTs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sx3XkzZ1hpVNKmMC2K2N49BPTznqGy6xospNRjpxGTs="
+    }
+  },
+  "version": "1.10"
+}

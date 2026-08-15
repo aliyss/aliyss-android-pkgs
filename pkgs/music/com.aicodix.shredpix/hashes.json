@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aicodix.shredpix_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sbyrq6WuI1tr+WqCOPTkQHJXWLN0w5kbPHYgXkoVxKA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sbyrq6WuI1tr+WqCOPTkQHJXWLN0w5kbPHYgXkoVxKA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sbyrq6WuI1tr+WqCOPTkQHJXWLN0w5kbPHYgXkoVxKA="
+    }
+  },
+  "version": "1.21"
+}

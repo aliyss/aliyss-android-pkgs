@@ -1,0 +1,8 @@
+{
+  "package": "com.geekorum.ttrss.free",
+  "signerFingerprints": [
+    "3E:E6:07:C1:A6:1B:33:40:20:27:58:9A:62:70:BB:5F:66:17:95:0D:15:30:82:6D:1C:3D:1F:50:31:39:43:20"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

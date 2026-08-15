@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.garemat.lunachron_23701.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gIkVlzM3FtKILxhMxMdj8Supwq/LmHq3MHBkVBFceYU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gIkVlzM3FtKILxhMxMdj8Supwq/LmHq3MHBkVBFceYU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gIkVlzM3FtKILxhMxMdj8Supwq/LmHq3MHBkVBFceYU="
+    }
+  },
+  "version": "2.37.1"
+}

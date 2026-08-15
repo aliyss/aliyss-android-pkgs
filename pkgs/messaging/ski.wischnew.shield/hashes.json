@@ -1,0 +1,18 @@
+{
+  "apkName": "ski.wischnew.shield_146.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WLfdMmvI9rTSr03DFsLNV8g7+zLoeTY6j8A08Gf/rnE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WLfdMmvI9rTSr03DFsLNV8g7+zLoeTY6j8A08Gf/rnE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WLfdMmvI9rTSr03DFsLNV8g7+zLoeTY6j8A08Gf/rnE="
+    }
+  },
+  "version": "1.46"
+}

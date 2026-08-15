@@ -1,0 +1,8 @@
+{
+  "package": "ca.toadlybroodle.minimalist",
+  "signerFingerprints": [
+    "E0:4D:38:54:FC:12:45:E2:7B:82:6F:EA:A3:02:98:BD:A8:9A:4C:05:28:A2:A0:B7:DD:BC:23:AD:60:A7:2F:D4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

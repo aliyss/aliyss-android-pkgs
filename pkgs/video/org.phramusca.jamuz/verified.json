@@ -1,0 +1,8 @@
+{
+  "package": "org.phramusca.jamuz",
+  "signerFingerprints": [
+    "CC:EA:F5:59:B8:27:1D:37:D7:98:51:EB:A7:DC:30:89:E5:F6:F2:49:E3:5B:1D:89:D6:C0:2C:D2:51:98:91:18"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

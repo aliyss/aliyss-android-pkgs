@@ -1,0 +1,18 @@
+{
+  "apkName": "com.leestarb.fourthtools_341.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TvpgXQYV2Mg/2nJwBDbdHZv1ogMHA0SKmiAh/QSFjXA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TvpgXQYV2Mg/2nJwBDbdHZv1ogMHA0SKmiAh/QSFjXA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TvpgXQYV2Mg/2nJwBDbdHZv1ogMHA0SKmiAh/QSFjXA="
+    }
+  },
+  "version": "3.4.1"
+}

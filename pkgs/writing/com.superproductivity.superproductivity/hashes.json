@@ -1,0 +1,18 @@
+{
+  "apkName": "com.superproductivity.superproductivity_1819009000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cgIFqecvtmElJuQyiwdhd2VYzifbBrZEq3Z+VF2E7lM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cgIFqecvtmElJuQyiwdhd2VYzifbBrZEq3Z+VF2E7lM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cgIFqecvtmElJuQyiwdhd2VYzifbBrZEq3Z+VF2E7lM="
+    }
+  },
+  "version": "18.19.0"
+}

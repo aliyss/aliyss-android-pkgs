@@ -1,0 +1,8 @@
+{
+  "package": "org.kvj.habtproxy.fdroid.release",
+  "signerFingerprints": [
+    "79:4F:EC:40:66:4C:DC:26:1A:07:44:9C:1F:6A:93:84:38:9F:99:25:0D:D4:69:B2:BB:E6:DC:AE:A7:96:B3:5F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

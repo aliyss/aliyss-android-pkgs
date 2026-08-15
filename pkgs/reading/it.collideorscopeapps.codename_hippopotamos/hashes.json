@@ -1,0 +1,18 @@
+{
+  "apkName": "it.collideorscopeapps.codename_hippopotamos_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MD+lM2C5NC3fjBFv+ITBS6g6fpDg7fhFGkzjqgBhrLg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MD+lM2C5NC3fjBFv+ITBS6g6fpDg7fhFGkzjqgBhrLg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MD+lM2C5NC3fjBFv+ITBS6g6fpDg7fhFGkzjqgBhrLg="
+    }
+  },
+  "version": "0.5.14-pre-alpha"
+}

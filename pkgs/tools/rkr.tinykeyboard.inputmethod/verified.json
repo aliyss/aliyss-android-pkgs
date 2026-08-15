@@ -1,0 +1,8 @@
+{
+  "package": "rkr.tinykeyboard.inputmethod",
+  "signerFingerprints": [
+    "12:F0:75:0B:F1:60:74:69:76:4F:8A:CF:0D:B6:7A:E1:CE:F3:A6:A5:E1:F0:97:50:4E:64:2E:6E:DB:D1:0E:4E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

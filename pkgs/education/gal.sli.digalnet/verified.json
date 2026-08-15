@@ -1,0 +1,8 @@
+{
+  "package": "gal.sli.digalnet",
+  "signerFingerprints": [
+    "FA:12:37:A7:40:F9:58:42:1A:92:A9:A7:27:B3:35:CD:5E:90:D1:70:00:08:C3:B1:B0:0C:33:E8:61:D9:E8:8E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

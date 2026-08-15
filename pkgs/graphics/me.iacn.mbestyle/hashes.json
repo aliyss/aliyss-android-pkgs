@@ -1,0 +1,18 @@
+{
+  "apkName": "me.iacn.mbestyle_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TcHYXep/KL/DZxtLzkkuct2Pke3u/H8txzuLWY8FZQ4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TcHYXep/KL/DZxtLzkkuct2Pke3u/H8txzuLWY8FZQ4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TcHYXep/KL/DZxtLzkkuct2Pke3u/H8txzuLWY8FZQ4="
+    }
+  },
+  "version": "1.7.6"
+}

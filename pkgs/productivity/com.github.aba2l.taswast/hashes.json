@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.aba2l.taswast_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-M0rcZzG78G6XkO7plTMuzK5dTLhFURt42YJqAjoE1EY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M0rcZzG78G6XkO7plTMuzK5dTLhFURt42YJqAjoE1EY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M0rcZzG78G6XkO7plTMuzK5dTLhFURt42YJqAjoE1EY="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "k4ustu3h.monocons.izzy_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9M8O52C/v3oWocvzPeEk4TNHa3PwwbVgRSoTLm40SFI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9M8O52C/v3oWocvzPeEk4TNHa3PwwbVgRSoTLm40SFI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9M8O52C/v3oWocvzPeEk4TNHa3PwwbVgRSoTLm40SFI="
+    }
+  },
+  "version": "1.2.0"
+}

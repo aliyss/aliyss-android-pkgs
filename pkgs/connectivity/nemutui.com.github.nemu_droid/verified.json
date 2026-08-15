@@ -1,0 +1,8 @@
+{
+  "package": "nemutui.com.github.nemu_droid",
+  "signerFingerprints": [
+    "B9:23:1E:75:0E:9F:60:9A:7E:AD:83:BB:8D:17:07:5F:24:95:01:3F:17:92:DA:D3:9A:F3:2C:A1:39:C9:00:2E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

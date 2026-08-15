@@ -1,0 +1,8 @@
+{
+  "package": "sk.amk.homeberry",
+  "signerFingerprints": [
+    "78:8F:F3:22:97:3E:EF:13:D7:5A:BD:31:98:D7:67:B7:16:BB:69:C3:DA:8E:3F:74:2A:AC:DB:14:11:A8:2F:2D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

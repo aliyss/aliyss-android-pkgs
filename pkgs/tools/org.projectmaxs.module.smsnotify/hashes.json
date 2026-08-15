@@ -1,0 +1,18 @@
+{
+  "apkName": "org.projectmaxs.module.smsnotify_2000506627.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nykrLVHLws4nILXhI7H4E6N6fcmLqR67OycT43043hQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nykrLVHLws4nILXhI7H4E6N6fcmLqR67OycT43043hQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nykrLVHLws4nILXhI7H4E6N6fcmLqR67OycT43043hQ="
+    }
+  },
+  "version": "0.5.19"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.droidupnp",
+  "signerFingerprints": [
+    "F9:25:A2:F6:FB:11:9F:8B:39:4E:93:4F:F3:E4:C6:D0:CE:FE:6A:AC:0A:8B:05:DC:60:92:48:C0:93:D8:F0:35"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.jdanders.dropcount_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/UvehAAwMtBwvsoEkpPZLMa3sOkmIdSMge5z24m3cUU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/UvehAAwMtBwvsoEkpPZLMa3sOkmIdSMge5z24m3cUU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/UvehAAwMtBwvsoEkpPZLMa3sOkmIdSMge5z24m3cUU="
+    }
+  },
+  "version": "1.0"
+}

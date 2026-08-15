@@ -1,0 +1,18 @@
+{
+  "apkName": "com.w2sv.wifiwidget_71.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+Yv8grOBoFHRccVkMEoqPFYj9oZxTPDc0pIJm7dJjOg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+Yv8grOBoFHRccVkMEoqPFYj9oZxTPDc0pIJm7dJjOg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+Yv8grOBoFHRccVkMEoqPFYj9oZxTPDc0pIJm7dJjOg="
+    }
+  },
+  "version": "1.8.1"
+}

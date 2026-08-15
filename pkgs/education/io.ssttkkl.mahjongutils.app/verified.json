@@ -1,0 +1,8 @@
+{
+  "package": "io.ssttkkl.mahjongutils.app",
+  "signerFingerprints": [
+    "5C:39:F2:2E:D1:19:29:33:88:44:26:CC:8C:D1:4F:33:02:F0:D4:81:57:3C:05:6A:66:F0:A5:BE:C1:1E:71:86"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

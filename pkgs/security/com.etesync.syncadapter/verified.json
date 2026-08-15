@@ -1,0 +1,8 @@
+{
+  "package": "com.etesync.syncadapter",
+  "signerFingerprints": [
+    "E3:A0:65:E5:4A:E1:D2:00:2D:31:0B:37:54:D0:0D:4E:66:CB:B7:1C:47:52:8A:08:9C:14:54:E1:70:69:17:80"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

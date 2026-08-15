@@ -1,0 +1,8 @@
+{
+  "package": "org.androidlabs.applistbackup",
+  "signerFingerprints": [
+    "6B:54:49:21:42:85:BC:0E:98:9C:82:FE:F9:E2:76:EA:68:A0:61:9C:58:FC:6A:B2:FE:EF:1B:10:22:D8:1B:64"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

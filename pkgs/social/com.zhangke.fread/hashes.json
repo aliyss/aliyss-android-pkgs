@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zhangke.fread_109000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oTgTCTHWnJRkF/tFsaA2ooNQh/GoBgUQuLyFZPWz240="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oTgTCTHWnJRkF/tFsaA2ooNQh/GoBgUQuLyFZPWz240="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oTgTCTHWnJRkF/tFsaA2ooNQh/GoBgUQuLyFZPWz240="
+    }
+  },
+  "version": "1.9.0"
+}

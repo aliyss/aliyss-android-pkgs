@@ -1,0 +1,8 @@
+{
+  "package": "com.pgpmailer",
+  "signerFingerprints": [
+    "D8:85:9D:A8:6B:7A:84:DD:9F:7C:49:9A:63:75:DD:3B:E6:DC:0E:53:86:C1:05:11:E4:9A:FC:27:48:DB:5C:B7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

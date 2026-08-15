@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.edeso.bubble2_39.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Di/pCIz5rsqXW6MSGo66lINYmaNf21V/matGZa63beE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Di/pCIz5rsqXW6MSGo66lINYmaNf21V/matGZa63beE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Di/pCIz5rsqXW6MSGo66lINYmaNf21V/matGZa63beE="
+    }
+  },
+  "version": "v2.12.0-Fortunately_I've_been_adhering_to_a_pretty_strict__uh__drug_regimen_to_keep_my_mind__you_know__limber-0-gc7b307a"
+}

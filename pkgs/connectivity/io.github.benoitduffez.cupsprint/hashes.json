@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.benoitduffez.cupsprint_1050099.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xk0NJrck6b7fjqkvRVd4sVZjtnKVabEuy345XSGXXyU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xk0NJrck6b7fjqkvRVd4sVZjtnKVabEuy345XSGXXyU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xk0NJrck6b7fjqkvRVd4sVZjtnKVabEuy345XSGXXyU="
+    }
+  },
+  "version": "1.5.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.commonvoice.saverio_183.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-irs1J7eXeY9KAgEumxNGgrRntcph2LulOrMapQLcGZg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-irs1J7eXeY9KAgEumxNGgrRntcph2LulOrMapQLcGZg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-irs1J7eXeY9KAgEumxNGgrRntcph2LulOrMapQLcGZg="
+    }
+  },
+  "version": "2.5.1"
+}

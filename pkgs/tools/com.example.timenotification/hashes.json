@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.timenotification_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mJ6oHxZuSkyqlm5Hxg8v65lzVlL5nmKnTUEmqlgu0Po="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mJ6oHxZuSkyqlm5Hxg8v65lzVlL5nmKnTUEmqlgu0Po="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mJ6oHxZuSkyqlm5Hxg8v65lzVlL5nmKnTUEmqlgu0Po="
+    }
+  },
+  "version": "1.3"
+}

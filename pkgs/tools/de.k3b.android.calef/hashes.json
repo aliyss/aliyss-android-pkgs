@@ -1,0 +1,18 @@
+{
+  "apkName": "de.k3b.android.calef_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1haSAa0W0wJUlNZv/mnjhLTfB5TdezOyY77EV3T2JXc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1haSAa0W0wJUlNZv/mnjhLTfB5TdezOyY77EV3T2JXc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1haSAa0W0wJUlNZv/mnjhLTfB5TdezOyY77EV3T2JXc="
+    }
+  },
+  "version": "1.1.2.1"
+}

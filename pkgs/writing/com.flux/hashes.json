@@ -1,0 +1,18 @@
+{
+  "apkName": "com.flux_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nlaVlfIdd56ACDemqj9YoAAgxT2uF9vSnNUOPXaW4yw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nlaVlfIdd56ACDemqj9YoAAgxT2uF9vSnNUOPXaW4yw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nlaVlfIdd56ACDemqj9YoAAgxT2uF9vSnNUOPXaW4yw="
+    }
+  },
+  "version": "3.2.1"
+}

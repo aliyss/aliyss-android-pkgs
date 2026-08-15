@@ -1,0 +1,8 @@
+{
+  "package": "com.aurora.adroid",
+  "signerFingerprints": [
+    "B5:31:5C:B1:90:6A:87:02:0F:B7:F2:C3:44:CE:AF:21:06:8F:0A:AD:E0:B3:8A:DA:32:E7:F6:5B:62:4F:0A:3B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.smoothie.monetcolors",
+  "signerFingerprints": [
+    "E2:23:D3:95:00:74:A8:C6:0C:60:E1:33:9A:DF:26:07:39:C8:13:81:E5:46:B0:F0:C7:4B:0F:E9:95:CC:3D:E6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

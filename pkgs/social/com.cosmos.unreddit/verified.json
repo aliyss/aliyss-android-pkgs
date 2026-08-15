@@ -1,0 +1,8 @@
+{
+  "package": "com.cosmos.unreddit",
+  "signerFingerprints": [
+    "35:F2:EB:F5:B3:6B:DF:00:E6:CB:EE:16:61:A9:D7:8F:58:4B:FD:AA:D9:4E:9E:EF:2C:43:9D:EF:D0:C4:A3:B9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

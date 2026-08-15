@@ -1,0 +1,18 @@
+{
+  "apkName": "org.sensorkraken_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rFrF+RxC9iIH8ugBlFlvcSAn8I06EcPqMO2D+YZ6GTc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rFrF+RxC9iIH8ugBlFlvcSAn8I06EcPqMO2D+YZ6GTc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rFrF+RxC9iIH8ugBlFlvcSAn8I06EcPqMO2D+YZ6GTc="
+    }
+  },
+  "version": "1.1.0"
+}

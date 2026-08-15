@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rama.txori_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2wCMfYuVCk8rvSa5EFFnG4ylBUk+Y+KSo/eL2t3KoC4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2wCMfYuVCk8rvSa5EFFnG4ylBUk+Y+KSo/eL2t3KoC4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2wCMfYuVCk8rvSa5EFFnG4ylBUk+Y+KSo/eL2t3KoC4="
+    }
+  },
+  "version": "2026.15"
+}

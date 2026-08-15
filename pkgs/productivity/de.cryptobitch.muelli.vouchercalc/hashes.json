@@ -1,0 +1,18 @@
+{
+  "apkName": "de.cryptobitch.muelli.vouchercalc_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-V4x6wgG4Ilhxo0RhSGWf3MT7E8KMyb2l4Sc/ydJ6obQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V4x6wgG4Ilhxo0RhSGWf3MT7E8KMyb2l4Sc/ydJ6obQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V4x6wgG4Ilhxo0RhSGWf3MT7E8KMyb2l4Sc/ydJ6obQ="
+    }
+  },
+  "version": "0.3"
+}

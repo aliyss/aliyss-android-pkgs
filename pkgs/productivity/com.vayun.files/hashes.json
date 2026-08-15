@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vayun.files_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sN2germlrfTIk7anNQKdYAFbmizIcHbQT24kyVfWKo8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sN2germlrfTIk7anNQKdYAFbmizIcHbQT24kyVfWKo8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sN2germlrfTIk7anNQKdYAFbmizIcHbQT24kyVfWKo8="
+    }
+  },
+  "version": "1.0"
+}

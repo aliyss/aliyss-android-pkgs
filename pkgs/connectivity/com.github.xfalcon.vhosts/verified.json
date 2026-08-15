@@ -1,0 +1,8 @@
+{
+  "package": "com.github.xfalcon.vhosts",
+  "signerFingerprints": [
+    "13:A1:2E:D3:E7:2F:59:F5:59:07:31:73:2D:43:F8:A4:C0:0B:69:D8:AA:DD:5B:C6:3F:33:3B:A1:17:D9:22:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

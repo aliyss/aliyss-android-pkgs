@@ -1,0 +1,8 @@
+{
+  "package": "com.techtrest.privamatic",
+  "signerFingerprints": [
+    "45:82:01:6F:7F:C5:EF:35:59:7B:CF:0F:8B:72:ED:93:AF:02:10:8E:4A:2F:A5:8B:F7:B1:50:96:06:CE:67:C7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

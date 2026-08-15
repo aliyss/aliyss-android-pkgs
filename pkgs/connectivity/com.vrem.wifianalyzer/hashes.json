@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vrem.wifianalyzer_72.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KCoG/MXOXYiXmRE6HG7fXkCLCQKsxUIwitIQUaKnzCs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KCoG/MXOXYiXmRE6HG7fXkCLCQKsxUIwitIQUaKnzCs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KCoG/MXOXYiXmRE6HG7fXkCLCQKsxUIwitIQUaKnzCs="
+    }
+  },
+  "version": "3.3.1"
+}

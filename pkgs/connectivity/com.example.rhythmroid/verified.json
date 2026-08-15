@@ -1,0 +1,8 @@
+{
+  "package": "com.example.rhythmroid",
+  "signerFingerprints": [
+    "67:AE:DC:BB:EB:94:E3:02:BF:1A:64:F9:CB:98:65:7A:03:A8:9A:C3:6C:AD:23:AD:3A:E2:E3:89:04:52:B2:3F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

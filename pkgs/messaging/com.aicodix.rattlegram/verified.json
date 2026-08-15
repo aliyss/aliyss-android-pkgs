@@ -1,0 +1,8 @@
+{
+  "package": "com.aicodix.rattlegram",
+  "signerFingerprints": [
+    "B6:8F:F5:24:82:73:A1:D8:61:6C:64:F6:B9:6C:18:9A:06:2A:1F:6E:2E:29:66:AA:C7:1E:9D:19:18:A2:ED:74"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

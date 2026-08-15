@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vovagorodok.blidraughts_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9/RYL6JGB9h8MEw6ysoMwVD6MR2iLkac0VFQxz0gui0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9/RYL6JGB9h8MEw6ysoMwVD6MR2iLkac0VFQxz0gui0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9/RYL6JGB9h8MEw6ysoMwVD6MR2iLkac0VFQxz0gui0="
+    }
+  },
+  "version": "2.3.0+ble2.5.1"
+}

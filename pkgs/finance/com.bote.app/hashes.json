@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bote.app_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rz0LN6tXmdbxPY4ASfoeZNwRiOQA1HFMGi3BM7qKy4U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rz0LN6tXmdbxPY4ASfoeZNwRiOQA1HFMGi3BM7qKy4U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rz0LN6tXmdbxPY4ASfoeZNwRiOQA1HFMGi3BM7qKy4U="
+    }
+  },
+  "version": "3.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "cz.jancejka.spayddecoder_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZtKpL1aQ7qMXuT7BKlBo/pUACmwRWHZEt0ZrGuTtG8g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZtKpL1aQ7qMXuT7BKlBo/pUACmwRWHZEt0ZrGuTtG8g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZtKpL1aQ7qMXuT7BKlBo/pUACmwRWHZEt0ZrGuTtG8g="
+    }
+  },
+  "version": "1.1.2"
+}

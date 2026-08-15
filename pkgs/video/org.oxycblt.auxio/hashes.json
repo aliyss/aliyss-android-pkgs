@@ -1,0 +1,18 @@
+{
+  "apkName": "org.oxycblt.auxio_75.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wgU9NsKNvnTeQOrc2JeOyHTEZe0zUrumVdSys2R4C0U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wgU9NsKNvnTeQOrc2JeOyHTEZe0zUrumVdSys2R4C0U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wgU9NsKNvnTeQOrc2JeOyHTEZe0zUrumVdSys2R4C0U="
+    }
+  },
+  "version": "4.1.5"
+}

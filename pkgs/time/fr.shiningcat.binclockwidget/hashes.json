@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.shiningcat.binclockwidget_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5UyL6bq05YQP3dgccEgBh61rtkBR1XDzUmtTM9iqcDg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5UyL6bq05YQP3dgccEgBh61rtkBR1XDzUmtTM9iqcDg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5UyL6bq05YQP3dgccEgBh61rtkBR1XDzUmtTM9iqcDg="
+    }
+  },
+  "version": "1.0.0"
+}

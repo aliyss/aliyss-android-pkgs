@@ -1,0 +1,8 @@
+{
+  "package": "io.github.quillpad",
+  "signerFingerprints": [
+    "3C:2B:48:EE:CE:ED:98:E7:0A:33:D2:1D:3E:9F:F6:19:33:43:A1:DD:DC:BB:9C:C0:76:B8:59:D3:6C:DE:AE:6A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

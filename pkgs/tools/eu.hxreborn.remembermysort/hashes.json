@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.hxreborn.remembermysort_300.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7tBE+A6M2UBlZgCGwoTWo4zZq4ogqAHe8ns5DLMb7DQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7tBE+A6M2UBlZgCGwoTWo4zZq4ogqAHe8ns5DLMb7DQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7tBE+A6M2UBlZgCGwoTWo4zZq4ogqAHe8ns5DLMb7DQ="
+    }
+  },
+  "version": "3.0.0"
+}

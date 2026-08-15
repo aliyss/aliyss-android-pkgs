@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rfidresearchgroup.rfidtools_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iRfwbqkWrHJ0H3i8aEkPn33anj9c3iRKlJbnXxjkOUk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iRfwbqkWrHJ0H3i8aEkPn33anj9c3iRKlJbnXxjkOUk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iRfwbqkWrHJ0H3i8aEkPn33anj9c3iRKlJbnXxjkOUk="
+    }
+  },
+  "version": "1.4.9"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.umfahrer.vocabulary_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rGiOgQrDGB7ZEu6GlSdH5KISxlbGhpV9Cla/Sl4o+IE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rGiOgQrDGB7ZEu6GlSdH5KISxlbGhpV9Cla/Sl4o+IE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rGiOgQrDGB7ZEu6GlSdH5KISxlbGhpV9Cla/Sl4o+IE="
+    }
+  },
+  "version": "1.0"
+}

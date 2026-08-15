@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kaffeemitkoffein.imagepipe_57.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eWe8MiEFCNxqcUlMgPBP2UelMX17GOAbkgUD1ZpKTXw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eWe8MiEFCNxqcUlMgPBP2UelMX17GOAbkgUD1ZpKTXw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eWe8MiEFCNxqcUlMgPBP2UelMX17GOAbkgUD1ZpKTXw="
+    }
+  },
+  "version": "0.78"
+}

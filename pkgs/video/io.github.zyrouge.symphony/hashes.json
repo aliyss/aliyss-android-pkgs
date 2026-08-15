@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.zyrouge.symphony_115.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NiRYYkpLDsOn1jx0+MGLhuCEb6RvLab9gEOpoodJ+yo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NiRYYkpLDsOn1jx0+MGLhuCEb6RvLab9gEOpoodJ+yo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NiRYYkpLDsOn1jx0+MGLhuCEb6RvLab9gEOpoodJ+yo="
+    }
+  },
+  "version": "2024.12.115"
+}

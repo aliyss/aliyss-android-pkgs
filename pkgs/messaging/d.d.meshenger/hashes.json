@@ -1,0 +1,18 @@
+{
+  "apkName": "d.d.meshenger_448.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vAV01f1eFtFCFy26VOSO7VEQaulRw0IQ+y20KswZq7g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vAV01f1eFtFCFy26VOSO7VEQaulRw0IQ+y20KswZq7g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vAV01f1eFtFCFy26VOSO7VEQaulRw0IQ+y20KswZq7g="
+    }
+  },
+  "version": "4.4.8"
+}

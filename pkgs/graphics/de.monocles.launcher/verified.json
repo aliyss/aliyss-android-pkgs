@@ -1,0 +1,8 @@
+{
+  "package": "de.monocles.launcher",
+  "signerFingerprints": [
+    "40:96:18:A9:D6:D5:B3:4D:12:A5:3B:86:34:E2:D8:E5:94:A1:D9:6D:07:0E:C9:CA:62:C2:E5:AB:1C:6F:0A:B2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

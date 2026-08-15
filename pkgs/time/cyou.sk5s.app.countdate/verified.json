@@ -1,0 +1,8 @@
+{
+  "package": "cyou.sk5s.app.countdate",
+  "signerFingerprints": [
+    "B0:15:35:E0:4A:A7:18:8F:84:23:B0:67:ED:6D:2C:08:CB:A2:98:E1:3C:86:F6:B6:F2:CE:C1:61:FB:59:74:65"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

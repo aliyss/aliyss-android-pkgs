@@ -1,0 +1,8 @@
+{
+  "package": "com.bera.whitehole",
+  "signerFingerprints": [
+    "F1:EE:BF:CE:C5:C0:34:4E:78:F4:E3:AD:F7:20:B4:E8:BE:B0:AE:E0:B1:12:EA:D6:71:56:EA:F8:18:2B:FC:97"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "duress.keyboard_70.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AU0qwpELN3YpIrCvqo1fMEQ1WD6QMccgg/RcFRkgqEI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AU0qwpELN3YpIrCvqo1fMEQ1WD6QMccgg/RcFRkgqEI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AU0qwpELN3YpIrCvqo1fMEQ1WD6QMccgg/RcFRkgqEI="
+    }
+  },
+  "version": "7.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.bugprogEnterprise.mygarden_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RwISkdt9FuWpgUb0X7vO4cLRf/QpsmnZfGH3oTjJDPc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RwISkdt9FuWpgUb0X7vO4cLRf/QpsmnZfGH3oTjJDPc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RwISkdt9FuWpgUb0X7vO4cLRf/QpsmnZfGH3oTjJDPc="
+    }
+  },
+  "version": "2.0"
+}

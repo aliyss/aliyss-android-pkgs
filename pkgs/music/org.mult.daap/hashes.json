@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mult.daap_56.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RlFszRa0rfA/TwHTh5pmGc3a7zOj4CUsZiehpGgc7L4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RlFszRa0rfA/TwHTh5pmGc3a7zOj4CUsZiehpGgc7L4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RlFszRa0rfA/TwHTh5pmGc3a7zOj4CUsZiehpGgc7L4="
+    }
+  },
+  "version": "1.0.5"
+}

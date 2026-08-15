@@ -1,0 +1,18 @@
+{
+  "apkName": "de.csicar.mensaplan_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xV6arbGv3DiVUs1Y2ZV2EgvlOFhG2qKOlN147KHZaVk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xV6arbGv3DiVUs1Y2ZV2EgvlOFhG2qKOlN147KHZaVk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xV6arbGv3DiVUs1Y2ZV2EgvlOFhG2qKOlN147KHZaVk="
+    }
+  },
+  "version": "v0.4.1"
+}

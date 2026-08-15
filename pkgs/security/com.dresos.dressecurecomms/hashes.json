@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dresos.dressecurecomms_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OAR/2qaL66VfdcJXJqSZqz/B4E2W89DkOM/BFWPwy4E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OAR/2qaL66VfdcJXJqSZqz/B4E2W89DkOM/BFWPwy4E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OAR/2qaL66VfdcJXJqSZqz/B4E2W89DkOM/BFWPwy4E="
+    }
+  },
+  "version": "1.8.5"
+}

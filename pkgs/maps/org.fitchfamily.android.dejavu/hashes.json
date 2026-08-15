@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fitchfamily.android.dejavu_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ElSws5s0Rvk07JepIpI9PRNc6cjxJDxt6xKTedULscc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ElSws5s0Rvk07JepIpI9PRNc6cjxJDxt6xKTedULscc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ElSws5s0Rvk07JepIpI9PRNc6cjxJDxt6xKTedULscc="
+    }
+  },
+  "version": "1.1.12"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sleroy.transmissionic_37.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lB1nge1y+egZNHQx0v82QGsDKxKnKmL7rFDQb5sqC08="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lB1nge1y+egZNHQx0v82QGsDKxKnKmL7rFDQb5sqC08="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lB1nge1y+egZNHQx0v82QGsDKxKnKmL7rFDQb5sqC08="
+    }
+  },
+  "version": "1.8.0"
+}

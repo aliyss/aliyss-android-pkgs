@@ -1,0 +1,18 @@
+{
+  "apkName": "tkj.android.homecontrol.mythmote_3014.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0GV5g0TAggLmNNQStqnmU3Bo+jEIc1T1o974iKjznB0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0GV5g0TAggLmNNQStqnmU3Bo+jEIc1T1o974iKjznB0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0GV5g0TAggLmNNQStqnmU3Bo+jEIc1T1o974iKjznB0="
+    }
+  },
+  "version": "1.11.0.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.limecore.nexus_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Gk/4csCZxvU0iCRwc4hSxqxJeJ0+DHMDrxugj7GRsqo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gk/4csCZxvU0iCRwc4hSxqxJeJ0+DHMDrxugj7GRsqo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gk/4csCZxvU0iCRwc4hSxqxJeJ0+DHMDrxugj7GRsqo="
+    }
+  },
+  "version": "1.9.0"
+}

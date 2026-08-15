@@ -1,0 +1,8 @@
+{
+  "package": "at.bitfire.icsdroid",
+  "signerFingerprints": [
+    "6F:A7:7C:06:FF:23:D1:7C:01:88:6F:DF:4B:28:93:67:B6:3E:E5:FA:32:7B:93:B9:B0:8C:D6:58:CE:83:F5:68"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

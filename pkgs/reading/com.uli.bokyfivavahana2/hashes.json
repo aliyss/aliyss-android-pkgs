@@ -1,0 +1,18 @@
+{
+  "apkName": "com.uli.bokyfivavahana2_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Gisu7l7gqopiIRtikPSdCxfg/V2sHnbvwqXrYrNlAFw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gisu7l7gqopiIRtikPSdCxfg/V2sHnbvwqXrYrNlAFw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gisu7l7gqopiIRtikPSdCxfg/V2sHnbvwqXrYrNlAFw="
+    }
+  },
+  "version": "2.4.0"
+}

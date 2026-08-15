@@ -1,0 +1,8 @@
+{
+  "package": "com.tachibana.downloader",
+  "signerFingerprints": [
+    "D5:86:07:D4:CF:D4:25:AA:D1:C0:2E:8A:61:16:8A:72:4D:EC:82:7A:53:4F:1D:A8:15:52:CB:45:15:C5:71:EA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

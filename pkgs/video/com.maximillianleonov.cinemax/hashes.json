@@ -1,0 +1,18 @@
+{
+  "apkName": "com.maximillianleonov.cinemax_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VD2nM2Q+2WtNxk5NtWRvjXZOqGJd5ssG2PfBQjNvqcw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VD2nM2Q+2WtNxk5NtWRvjXZOqGJd5ssG2PfBQjNvqcw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VD2nM2Q+2WtNxk5NtWRvjXZOqGJd5ssG2PfBQjNvqcw="
+    }
+  },
+  "version": "1.0.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.viggers.zade.wallpaper_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5wCdRd+rnsG1xlj6BO97waPwael4BoGp3Jhr8+vCp0A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5wCdRd+rnsG1xlj6BO97waPwael4BoGp3Jhr8+vCp0A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5wCdRd+rnsG1xlj6BO97waPwael4BoGp3Jhr8+vCp0A="
+    }
+  },
+  "version": "15.9"
+}

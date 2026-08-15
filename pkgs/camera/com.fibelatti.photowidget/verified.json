@@ -1,0 +1,8 @@
+{
+  "package": "com.fibelatti.photowidget",
+  "signerFingerprints": [
+    "3A:36:30:F5:EB:47:82:43:49:46:9F:11:53:D7:2E:02:3A:15:29:39:50:60:44:A2:DB:EF:63:76:08:76:E4:5B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

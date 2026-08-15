@@ -1,0 +1,8 @@
+{
+  "package": "com.eblan.launcher",
+  "signerFingerprints": [
+    "1E:AE:A3:5C:AA:E6:83:79:F7:D4:61:7F:28:3A:33:80:5A:FE:CE:C3:6A:B4:84:17:45:62:73:1F:75:6D:5D:49"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

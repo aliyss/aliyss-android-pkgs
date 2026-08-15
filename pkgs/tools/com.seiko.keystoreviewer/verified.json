@@ -1,0 +1,8 @@
+{
+  "package": "com.seiko.keystoreviewer",
+  "signerFingerprints": [
+    "6B:9A:F3:CE:20:90:C6:54:BB:AE:B4:19:87:14:F7:BF:38:08:50:96:24:D1:B3:B3:55:1A:0C:E9:64:E5:43:53"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

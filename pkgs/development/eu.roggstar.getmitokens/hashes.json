@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.roggstar.getmitokens_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GpKp254KZjUIZcR4XgP/0ypm+WRnHxHs9ypnWSC1k9w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GpKp254KZjUIZcR4XgP/0ypm+WRnHxHs9ypnWSC1k9w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GpKp254KZjUIZcR4XgP/0ypm+WRnHxHs9ypnWSC1k9w="
+    }
+  },
+  "version": "Shakal"
+}

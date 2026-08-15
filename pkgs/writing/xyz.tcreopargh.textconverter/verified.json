@@ -1,0 +1,8 @@
+{
+  "package": "xyz.tcreopargh.textconverter",
+  "signerFingerprints": [
+    "2B:06:2A:56:E5:B6:6B:D1:88:0A:89:A9:C6:23:78:CA:36:9F:16:A2:89:48:68:BD:B7:5B:D9:5C:AD:A3:44:D7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.stargw.applist_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ak/KCPscTXyyU3o3TVIwPyhhOIB2qZ2GYr35nCW40z0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ak/KCPscTXyyU3o3TVIwPyhhOIB2qZ2GYr35nCW40z0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ak/KCPscTXyyU3o3TVIwPyhhOIB2qZ2GYr35nCW40z0="
+    }
+  },
+  "version": "17"
+}

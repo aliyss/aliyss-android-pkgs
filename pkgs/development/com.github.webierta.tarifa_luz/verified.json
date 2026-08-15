@@ -1,0 +1,8 @@
+{
+  "package": "com.github.webierta.tarifa_luz",
+  "signerFingerprints": [
+    "B5:67:F4:18:81:14:26:21:55:29:A5:FB:4B:33:89:4E:C9:9E:1E:DB:7E:48:EA:B1:12:A4:C0:38:98:51:F8:E2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

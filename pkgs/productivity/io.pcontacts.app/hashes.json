@@ -1,0 +1,18 @@
+{
+  "apkName": "io.pcontacts.app_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7lUCZvLISZxYKMvmE3pGTYmH+2E58abmdB3gi0i3YSo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7lUCZvLISZxYKMvmE3pGTYmH+2E58abmdB3gi0i3YSo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7lUCZvLISZxYKMvmE3pGTYmH+2E58abmdB3gi0i3YSo="
+    }
+  },
+  "version": "1.5.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.criticalay.neer",
+  "signerFingerprints": [
+    "62:48:65:7A:9F:29:2D:32:F4:08:6F:35:80:A6:B9:45:C0:6D:0A:7A:41:08:D6:D3:72:54:AF:E3:DC:1A:EA:3E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

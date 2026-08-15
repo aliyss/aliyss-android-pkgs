@@ -1,0 +1,8 @@
+{
+  "package": "org.onedroid.radiowave",
+  "signerFingerprints": [
+    "07:0F:77:7B:83:CD:4C:AA:42:4D:26:7D:07:EE:19:FF:FD:B5:E5:43:9B:9E:CA:18:CD:E4:D4:03:BB:98:2A:75"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

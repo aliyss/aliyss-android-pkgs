@@ -1,0 +1,8 @@
+{
+  "package": "me.hexian000.masstransfer",
+  "signerFingerprints": [
+    "4F:B0:B6:7F:AD:81:F8:70:E5:1A:47:8D:31:6E:B2:E3:8D:88:22:E0:C9:3C:7C:98:AD:55:B5:8F:FC:3D:0E:B3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

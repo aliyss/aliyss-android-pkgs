@@ -1,0 +1,18 @@
+{
+  "apkName": "de.k3b.android.lossless_jpg_crop_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-213R0UyBaHRWGBkgAczkRfdbQ0StVXdnW7p0BETnM0U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-213R0UyBaHRWGBkgAczkRfdbQ0StVXdnW7p0BETnM0U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-213R0UyBaHRWGBkgAczkRfdbQ0StVXdnW7p0BETnM0U="
+    }
+  },
+  "version": "1.3.0.230218"
+}

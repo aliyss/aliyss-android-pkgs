@@ -1,0 +1,8 @@
+{
+  "package": "com.app.dailylog",
+  "signerFingerprints": [
+    "34:9D:41:F2:2F:72:1C:6F:AA:F8:DD:70:BE:38:7F:F2:96:EF:FD:33:15:6B:AA:BC:AE:79:B3:D0:68:AF:F7:E6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

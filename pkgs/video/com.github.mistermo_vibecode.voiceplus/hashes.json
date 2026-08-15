@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.mistermo_vibecode.voiceplus_5408001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-toXS0eKJ+j0lbTC1zVTUInbS71Mv9lDdkrI+frYZYBc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-toXS0eKJ+j0lbTC1zVTUInbS71Mv9lDdkrI+frYZYBc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-toXS0eKJ+j0lbTC1zVTUInbS71Mv9lDdkrI+frYZYBc="
+    }
+  },
+  "version": "1.24"
+}

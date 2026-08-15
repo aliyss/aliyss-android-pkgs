@@ -1,0 +1,8 @@
+{
+  "package": "com.studio4plus.homerplayer",
+  "signerFingerprints": [
+    "BA:1A:80:61:C6:01:F7:ED:23:7D:1B:31:6C:07:FC:AF:1E:74:71:41:70:BB:B6:35:8F:C1:D3:23:59:0C:95:F1"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.ciluvien.mensen_55.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oXK1CZ/BHxsGGuBfpnkAoIiWttQ5YNTupjNpWJ/ssyE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oXK1CZ/BHxsGGuBfpnkAoIiWttQ5YNTupjNpWJ/ssyE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oXK1CZ/BHxsGGuBfpnkAoIiWttQ5YNTupjNpWJ/ssyE="
+    }
+  },
+  "version": "1.5.5"
+}

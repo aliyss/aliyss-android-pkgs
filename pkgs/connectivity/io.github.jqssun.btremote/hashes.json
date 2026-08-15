@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.jqssun.btremote_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HJB5gGNCPw9mRzoeNvC1+1i9md3mT7DgwfkLTiKYDq4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HJB5gGNCPw9mRzoeNvC1+1i9md3mT7DgwfkLTiKYDq4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HJB5gGNCPw9mRzoeNvC1+1i9md3mT7DgwfkLTiKYDq4="
+    }
+  },
+  "version": "0.0.7"
+}

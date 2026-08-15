@@ -1,0 +1,18 @@
+{
+  "apkName": "org.chickenhook.binderfuzzy_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HSG4Bous0gZ9NZ2/KyIVCsNALuRb7lj1wXKlGboswrE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HSG4Bous0gZ9NZ2/KyIVCsNALuRb7lj1wXKlGboswrE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HSG4Bous0gZ9NZ2/KyIVCsNALuRb7lj1wXKlGboswrE="
+    }
+  },
+  "version": "1.0"
+}

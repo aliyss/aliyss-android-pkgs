@@ -1,0 +1,18 @@
+{
+  "apkName": "de.micmun.android.nextcloudcookbook_302.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5u7JxlJ3A8oh7JggrevL3TSGp7FEOUKv845MY7pl94U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5u7JxlJ3A8oh7JggrevL3TSGp7FEOUKv845MY7pl94U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5u7JxlJ3A8oh7JggrevL3TSGp7FEOUKv845MY7pl94U="
+    }
+  },
+  "version": "3.0.2"
+}

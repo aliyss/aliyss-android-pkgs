@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vivi.vivimusic_74.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ur68NUstwK+bQZoxoIA0nK5W+QE+h0p2ZqBwyb33HkQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ur68NUstwK+bQZoxoIA0nK5W+QE+h0p2ZqBwyb33HkQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ur68NUstwK+bQZoxoIA0nK5W+QE+h0p2ZqBwyb33HkQ="
+    }
+  },
+  "version": "6.0.5"
+}

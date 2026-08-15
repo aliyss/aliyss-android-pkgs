@@ -1,0 +1,18 @@
+{
+  "apkName": "net.alexbarry.calc_android_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sTg7yVDOhINgL2CsCSpjqqsbHHOUlOH9qSCFlGVLQio="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sTg7yVDOhINgL2CsCSpjqqsbHHOUlOH9qSCFlGVLQio="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sTg7yVDOhINgL2CsCSpjqqsbHHOUlOH9qSCFlGVLQio="
+    }
+  },
+  "version": "1.0.16"
+}

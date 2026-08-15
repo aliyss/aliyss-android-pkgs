@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tachibana.downloader_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rwBtWOu8uzZfhLclCJ25DPhEMk/cnjkXTetJL1N+pHI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rwBtWOu8uzZfhLclCJ25DPhEMk/cnjkXTetJL1N+pHI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rwBtWOu8uzZfhLclCJ25DPhEMk/cnjkXTetJL1N+pHI="
+    }
+  },
+  "version": "1.6.2"
+}

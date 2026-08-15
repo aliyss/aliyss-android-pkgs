@@ -1,0 +1,8 @@
+{
+  "package": "org.codeberg.quecomet.oshi",
+  "signerFingerprints": [
+    "77:35:07:98:22:51:40:83:8E:D5:DC:A8:09:1C:3A:DC:8E:8C:5C:FC:A7:2D:B8:C6:78:5C:43:D5:48:3A:62:26"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

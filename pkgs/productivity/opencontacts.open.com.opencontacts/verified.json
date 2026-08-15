@@ -1,0 +1,8 @@
+{
+  "package": "opencontacts.open.com.opencontacts",
+  "signerFingerprints": [
+    "B9:AB:2D:78:61:CD:40:B9:8C:A4:1A:1F:E0:AA:22:0D:53:13:58:29:FF:EA:F6:B6:C6:4B:3B:36:B2:DF:95:05"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

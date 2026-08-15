@@ -1,0 +1,18 @@
+{
+  "apkName": "com.machiav3lli.backup_8331.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FIXJZLpStFwQV8LW9ymShuRWxhEJ84HYQsCUq17H6cY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FIXJZLpStFwQV8LW9ymShuRWxhEJ84HYQsCUq17H6cY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FIXJZLpStFwQV8LW9ymShuRWxhEJ84HYQsCUq17H6cY="
+    }
+  },
+  "version": "8.3.18"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.sekreto_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3CA5TzG7WQJTmbjNXlT0z43fDIwP81TcfOciD2vsPUU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3CA5TzG7WQJTmbjNXlT0z43fDIwP81TcfOciD2vsPUU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3CA5TzG7WQJTmbjNXlT0z43fDIwP81TcfOciD2vsPUU="
+    }
+  },
+  "version": "1.0.2"
+}

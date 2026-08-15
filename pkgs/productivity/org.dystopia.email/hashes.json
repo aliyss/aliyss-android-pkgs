@@ -1,0 +1,18 @@
+{
+  "apkName": "org.dystopia.email_121.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4VRaLy06q0s2x/bvasCKBv6jesLeEUFQc89whZFwdbM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4VRaLy06q0s2x/bvasCKBv6jesLeEUFQc89whZFwdbM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4VRaLy06q0s2x/bvasCKBv6jesLeEUFQc89whZFwdbM="
+    }
+  },
+  "version": "1.5.4"
+}

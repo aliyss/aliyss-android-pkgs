@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rtneg.foxappmemo_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tHDCvuAaR/HNbX82ywRzzoN301Q4Bk5KXwyHSPlI5Z8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tHDCvuAaR/HNbX82ywRzzoN301Q4Bk5KXwyHSPlI5Z8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tHDCvuAaR/HNbX82ywRzzoN301Q4Bk5KXwyHSPlI5Z8="
+    }
+  },
+  "version": "1.2.2"
+}

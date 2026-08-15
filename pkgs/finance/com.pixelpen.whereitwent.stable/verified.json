@@ -1,0 +1,8 @@
+{
+  "package": "com.pixelpen.whereitwent.stable",
+  "signerFingerprints": [
+    "8D:E3:3A:3E:28:5B:25:03:CB:98:11:67:CB:26:9C:CF:70:77:96:2F:BB:8E:4A:13:9D:41:F4:AF:15:ED:61:C1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

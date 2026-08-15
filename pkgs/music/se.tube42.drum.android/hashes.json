@@ -1,0 +1,18 @@
+{
+  "apkName": "se.tube42.drum.android_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6gssOLbudCmvkg0a7RbhO4fN3IMvjtZ7sZO8wscARwc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6gssOLbudCmvkg0a7RbhO4fN3IMvjtZ7sZO8wscARwc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6gssOLbudCmvkg0a7RbhO4fN3IMvjtZ7sZO8wscARwc="
+    }
+  },
+  "version": "0.3.4"
+}

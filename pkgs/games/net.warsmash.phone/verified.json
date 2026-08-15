@@ -1,0 +1,8 @@
+{
+  "package": "net.warsmash.phone",
+  "signerFingerprints": [
+    "21:9D:1F:84:1F:68:4B:F1:B6:60:40:AF:95:8A:3B:90:2E:AF:53:D2:86:4A:55:33:7E:0B:65:AE:98:DE:DB:72"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.mark99.appsearcher_24011303.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4/0kaUO3Umf+tjMDk8xiySSiY5y33/6QHMo0elLsKIs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4/0kaUO3Umf+tjMDk8xiySSiY5y33/6QHMo0elLsKIs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4/0kaUO3Umf+tjMDk8xiySSiY5y33/6QHMo0elLsKIs="
+    }
+  },
+  "version": "24.01.13.03"
+}

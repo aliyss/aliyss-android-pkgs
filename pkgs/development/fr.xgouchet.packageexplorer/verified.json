@@ -1,0 +1,8 @@
+{
+  "package": "fr.xgouchet.packageexplorer",
+  "signerFingerprints": [
+    "FF:8A:E0:17:8F:75:5D:B0:BF:44:87:BC:39:60:1B:93:DE:17:7F:37:47:28:4D:16:1C:3E:06:99:01:94:75:11"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

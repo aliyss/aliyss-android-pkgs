@@ -1,0 +1,8 @@
+{
+  "package": "io.github.chrisimx.scanbridge",
+  "signerFingerprints": [
+    "7D:86:5E:A1:BF:4E:AD:70:55:90:6B:E7:7A:C7:5D:CE:55:8F:5F:32:89:CB:FA:DB:93:B0:25:EA:B8:74:66:CC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

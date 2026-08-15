@@ -1,0 +1,18 @@
+{
+  "apkName": "atm.nasaimages_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KWjqL5noi681FioYd4D6YAui7ofkHecpAc4tPjpa3ts="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KWjqL5noi681FioYd4D6YAui7ofkHecpAc4tPjpa3ts="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KWjqL5noi681FioYd4D6YAui7ofkHecpAc4tPjpa3ts="
+    }
+  },
+  "version": "1.1.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lorenzovainigli.foodexpirationdates.foss_61.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i/E1M1Skau6NCqZPirJAaqP2WgZV0gA8dveZvyfLS+8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i/E1M1Skau6NCqZPirJAaqP2WgZV0gA8dveZvyfLS+8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i/E1M1Skau6NCqZPirJAaqP2WgZV0gA8dveZvyfLS+8="
+    }
+  },
+  "version": "2.11-foss"
+}

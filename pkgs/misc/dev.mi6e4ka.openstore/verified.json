@@ -1,0 +1,8 @@
+{
+  "package": "dev.mi6e4ka.openstore",
+  "signerFingerprints": [
+    "57:F7:EA:8B:41:B7:2E:6E:CF:C5:08:46:AF:ED:12:01:47:1A:8D:37:8E:18:D7:6A:AD:AC:BD:9F:B2:19:DF:98"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

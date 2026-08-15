@@ -1,0 +1,8 @@
+{
+  "package": "com.binauralbeat",
+  "signerFingerprints": [
+    "83:6B:E3:72:8E:FF:E4:62:6C:25:3C:59:56:F3:DC:D4:E4:E1:6F:4A:29:6F:80:FB:7D:3B:8A:92:E0:5F:A9:29"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

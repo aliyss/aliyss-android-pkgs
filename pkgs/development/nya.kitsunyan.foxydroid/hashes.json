@@ -1,0 +1,18 @@
+{
+  "apkName": "nya.kitsunyan.foxydroid_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CSBbEJzaw0hFOF4HOHMfJ+ryvsivKRkermZYf8/Embw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CSBbEJzaw0hFOF4HOHMfJ+ryvsivKRkermZYf8/Embw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CSBbEJzaw0hFOF4HOHMfJ+ryvsivKRkermZYf8/Embw="
+    }
+  },
+  "version": "1.3"
+}

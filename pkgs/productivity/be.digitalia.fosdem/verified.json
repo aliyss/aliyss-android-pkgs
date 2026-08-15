@@ -1,0 +1,8 @@
+{
+  "package": "be.digitalia.fosdem",
+  "signerFingerprints": [
+    "07:19:76:A3:19:88:6E:26:10:56:0D:19:1C:F2:E5:A4:2E:04:51:CF:93:BA:1D:42:C3:6A:FB:85:B7:B5:2C:E8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

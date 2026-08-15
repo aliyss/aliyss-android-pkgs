@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.zoomhundred_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2XkG+jdbKgtMNnF53DgERIy6t3bKNqfOff7bM+luypk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2XkG+jdbKgtMNnF53DgERIy6t3bKNqfOff7bM+luypk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2XkG+jdbKgtMNnF53DgERIy6t3bKNqfOff7bM+luypk="
+    }
+  },
+  "version": "1.0.1"
+}

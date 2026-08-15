@@ -1,0 +1,8 @@
+{
+  "package": "com.chooloo.www.koler",
+  "signerFingerprints": [
+    "0C:C7:0C:53:45:20:C0:E9:93:7A:FA:7F:FE:1B:DE:58:6C:32:F9:EB:B6:61:26:E6:A1:DE:A3:D8:F4:7D:B7:6E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

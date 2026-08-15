@@ -1,0 +1,18 @@
+{
+  "apkName": "com.svenjacobs.app.leon_280.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-twiYd/NN7p+8OWWfytNZtql4U1X4W0zRUuukwb8q3mg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-twiYd/NN7p+8OWWfytNZtql4U1X4W0zRUuukwb8q3mg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-twiYd/NN7p+8OWWfytNZtql4U1X4W0zRUuukwb8q3mg="
+    }
+  },
+  "version": "59"
+}

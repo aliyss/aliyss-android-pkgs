@@ -1,0 +1,8 @@
+{
+  "package": "com.github.thepiemonster.hidemocklocation",
+  "signerFingerprints": [
+    "7C:44:9C:CA:0D:D5:EE:D0:37:9D:0E:E6:DE:0C:1E:F4:DF:62:80:FD:AF:DF:EE:63:40:BB:A2:BE:3B:82:16:6B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

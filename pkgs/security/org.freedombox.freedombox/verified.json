@@ -1,0 +1,8 @@
+{
+  "package": "org.freedombox.freedombox",
+  "signerFingerprints": [
+    "3E:5A:34:8F:B0:31:0A:4D:29:A2:F7:E2:54:B0:77:F6:DF:E8:F7:96:E9:5B:DB:CD:4B:6A:C7:9E:26:9C:16:04"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

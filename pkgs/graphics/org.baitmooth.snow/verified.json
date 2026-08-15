@@ -1,0 +1,8 @@
+{
+  "package": "org.baitmooth.snow",
+  "signerFingerprints": [
+    "B0:0A:39:6E:AC:FE:28:50:51:89:51:68:28:C1:B7:25:4C:2E:42:4A:8B:0D:A2:00:FC:8E:D7:20:AD:EA:2E:75"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

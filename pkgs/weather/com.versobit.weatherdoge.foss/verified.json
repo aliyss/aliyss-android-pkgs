@@ -1,0 +1,8 @@
+{
+  "package": "com.versobit.weatherdoge.foss",
+  "signerFingerprints": [
+    "A6:A9:B0:2F:57:C4:39:7E:5B:5E:85:8F:B5:06:89:94:0F:8F:F3:A8:A4:D2:1D:0A:82:AD:A0:BA:D3:1E:68:B8"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

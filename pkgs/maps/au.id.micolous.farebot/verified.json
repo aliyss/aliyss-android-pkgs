@@ -1,0 +1,8 @@
+{
+  "package": "au.id.micolous.farebot",
+  "signerFingerprints": [
+    "B4:94:29:AD:65:8C:7B:DB:6E:56:8C:53:A5:A0:A7:2B:45:A4:7A:11:31:6B:68:DB:55:C3:28:68:C9:CA:1D:80"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

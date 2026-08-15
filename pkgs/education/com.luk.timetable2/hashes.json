@@ -1,0 +1,18 @@
+{
+  "apkName": "com.luk.timetable2_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Px6Uf6gPK5pz/+E/jL5xTI+/SvLAPy4BRDEUukKQpAs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Px6Uf6gPK5pz/+E/jL5xTI+/SvLAPy4BRDEUukKQpAs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Px6Uf6gPK5pz/+E/jL5xTI+/SvLAPy4BRDEUukKQpAs="
+    }
+  },
+  "version": "6.0.4"
+}

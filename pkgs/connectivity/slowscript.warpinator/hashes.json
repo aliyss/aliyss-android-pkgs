@@ -1,0 +1,18 @@
+{
+  "apkName": "slowscript.warpinator_1090.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BVS2mgHdMlGAADJhdyrn6X43hAm5i7gkJTSgZM555OQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BVS2mgHdMlGAADJhdyrn6X43hAm5i7gkJTSgZM555OQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BVS2mgHdMlGAADJhdyrn6X43hAm5i7gkJTSgZM555OQ="
+    }
+  },
+  "version": "1.9"
+}

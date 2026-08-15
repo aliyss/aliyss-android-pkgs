@@ -1,0 +1,8 @@
+{
+  "package": "com.securescreen.app",
+  "signerFingerprints": [
+    "56:15:25:45:0E:FD:4C:74:12:DD:47:47:80:FC:A4:E7:0C:84:B0:0E:5A:A2:61:A7:FB:13:DF:08:BB:CD:06:59"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

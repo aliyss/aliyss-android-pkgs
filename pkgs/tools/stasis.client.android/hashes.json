@@ -1,0 +1,18 @@
+{
+  "apkName": "stasis.client.android_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OAfMu6aLPG4qLCgNPZOm3tGoZTEB1h5uelhitym0Kaw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OAfMu6aLPG4qLCgNPZOm3tGoZTEB1h5uelhitym0Kaw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OAfMu6aLPG4qLCgNPZOm3tGoZTEB1h5uelhitym0Kaw="
+    }
+  },
+  "version": "1.7.5"
+}

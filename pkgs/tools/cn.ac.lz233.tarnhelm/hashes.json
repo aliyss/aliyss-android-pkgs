@@ -1,0 +1,18 @@
+{
+  "apkName": "cn.ac.lz233.tarnhelm_20250630.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CcklRG5aPyh41fiIVjsfVeGohcdDoSlIPHhrSutGm88="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CcklRG5aPyh41fiIVjsfVeGohcdDoSlIPHhrSutGm88="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CcklRG5aPyh41fiIVjsfVeGohcdDoSlIPHhrSutGm88="
+    }
+  },
+  "version": "1.8.2"
+}

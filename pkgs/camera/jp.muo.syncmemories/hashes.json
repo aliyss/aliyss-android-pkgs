@@ -1,0 +1,18 @@
+{
+  "apkName": "jp.muo.syncmemories_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aL+v+3PXU6ZoJA7sjTpH8Lr6Z9d6Y+sB3iNEn+hvAAU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aL+v+3PXU6ZoJA7sjTpH8Lr6Z9d6Y+sB3iNEn+hvAAU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aL+v+3PXU6ZoJA7sjTpH8Lr6Z9d6Y+sB3iNEn+hvAAU="
+    }
+  },
+  "version": "1.0.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "fr.mobdev.peertubelive",
+  "signerFingerprints": [
+    "9C:97:48:C2:AC:4E:6C:EA:CE:E7:EC:DE:C7:09:D7:F2:C3:07:00:2D:B8:FA:2F:76:86:6D:15:89:84:AE:9A:8D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

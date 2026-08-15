@@ -1,0 +1,18 @@
+{
+  "apkName": "com.log28_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cpVh0J3cs7ERaay29ClJvoN/Z7DERIlUgWLDvLtVEY4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cpVh0J3cs7ERaay29ClJvoN/Z7DERIlUgWLDvLtVEY4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cpVh0J3cs7ERaay29ClJvoN/Z7DERIlUgWLDvLtVEY4="
+    }
+  },
+  "version": "0.6.2"
+}

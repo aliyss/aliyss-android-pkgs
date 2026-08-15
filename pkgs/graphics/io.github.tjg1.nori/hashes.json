@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.tjg1.nori_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fADGi9cMIfgFgZvu48OIrz3wIfBMllIO0QWu/cBCiwE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fADGi9cMIfgFgZvu48OIrz3wIfBMllIO0QWu/cBCiwE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fADGi9cMIfgFgZvu48OIrz3wIfBMllIO0QWu/cBCiwE="
+    }
+  },
+  "version": "2019.08"
+}

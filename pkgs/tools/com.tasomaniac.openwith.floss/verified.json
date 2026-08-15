@@ -1,0 +1,8 @@
+{
+  "package": "com.tasomaniac.openwith.floss",
+  "signerFingerprints": [
+    "9C:76:DA:47:18:2D:9E:37:4D:27:1D:B5:D9:90:B1:4B:6A:0E:8D:BB:88:A9:99:21:FB:32:46:83:E0:93:59:61"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

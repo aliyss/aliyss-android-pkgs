@@ -1,0 +1,18 @@
+{
+  "apkName": "me.d3sox.betternetworktiles.libre_3000003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9ZOXRiHhlyY9V160sbL1oqVa7IQZz2if96L0E6tVqSc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9ZOXRiHhlyY9V160sbL1oqVa7IQZz2if96L0E6tVqSc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9ZOXRiHhlyY9V160sbL1oqVa7IQZz2if96L0E6tVqSc="
+    }
+  },
+  "version": "3.0.3"
+}

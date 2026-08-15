@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vulnerabbity.geoperion_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T4yj/9b2yqreKSBcaC6PV589n0iCVmj2lQL2Qdq3DBU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T4yj/9b2yqreKSBcaC6PV589n0iCVmj2lQL2Qdq3DBU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T4yj/9b2yqreKSBcaC6PV589n0iCVmj2lQL2Qdq3DBU="
+    }
+  },
+  "version": "1.0.0"
+}

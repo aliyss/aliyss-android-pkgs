@@ -1,0 +1,8 @@
+{
+  "package": "net.usikkert.kouchat.android",
+  "signerFingerprints": [
+    "31:44:C8:4C:3D:92:7F:DC:70:6E:C6:51:AE:B7:93:6F:CF:02:92:1A:AF:B2:44:91:9A:9B:41:00:EA:61:7C:DB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

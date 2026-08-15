@@ -1,0 +1,18 @@
+{
+  "apkName": "com.foxek.simpletimer_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JkGWz7pYCrD0FTpsP/9E/57YJ3FyPaKLmrmb6/Caz44="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JkGWz7pYCrD0FTpsP/9E/57YJ3FyPaKLmrmb6/Caz44="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JkGWz7pYCrD0FTpsP/9E/57YJ3FyPaKLmrmb6/Caz44="
+    }
+  },
+  "version": "2.1.3"
+}

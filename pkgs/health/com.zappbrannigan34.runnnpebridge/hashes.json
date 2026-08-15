@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zappbrannigan34.runnnpebridge_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H8aNTXdKSq4+R8k6unJtZo+ZcT+U3RvvpE66y5gwZV0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H8aNTXdKSq4+R8k6unJtZo+ZcT+U3RvvpE66y5gwZV0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H8aNTXdKSq4+R8k6unJtZo+ZcT+U3RvvpE66y5gwZV0="
+    }
+  },
+  "version": "0.1.6"
+}

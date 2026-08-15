@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tomfong.simpleqr_4020100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sErjCBFdbYHHc6UO+28mITN/ESzVgin/rXjcCXQC28c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sErjCBFdbYHHc6UO+28mITN/ESzVgin/rXjcCXQC28c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sErjCBFdbYHHc6UO+28mITN/ESzVgin/rXjcCXQC28c="
+    }
+  },
+  "version": "4.2.1"
+}

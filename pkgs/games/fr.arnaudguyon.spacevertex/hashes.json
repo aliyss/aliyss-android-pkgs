@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.arnaudguyon.spacevertex_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WR8V7HYYO9UOKwSFyYyo8Hh0RcSq3XFcZNB6oqVvhgA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WR8V7HYYO9UOKwSFyYyo8Hh0RcSq3XFcZNB6oqVvhgA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WR8V7HYYO9UOKwSFyYyo8Hh0RcSq3XFcZNB6oqVvhgA="
+    }
+  },
+  "version": "1.1.7-29"
+}

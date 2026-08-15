@@ -1,0 +1,18 @@
+{
+  "apkName": "com.polyalerts_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gYBQwfATc0lXY6gxL1DMf0in8yVeM1QsNEBIWNLJdGE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gYBQwfATc0lXY6gxL1DMf0in8yVeM1QsNEBIWNLJdGE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gYBQwfATc0lXY6gxL1DMf0in8yVeM1QsNEBIWNLJdGE="
+    }
+  },
+  "version": "0.2.8"
+}

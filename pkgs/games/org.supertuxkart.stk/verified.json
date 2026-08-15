@@ -1,0 +1,8 @@
+{
+  "package": "org.supertuxkart.stk",
+  "signerFingerprints": [
+    "E9:14:7D:44:6F:91:33:A2:BE:90:0B:30:D0:A7:FB:EC:5F:70:2D:EF:FF:F3:DE:07:93:3B:6B:A9:0A:2E:C0:F7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

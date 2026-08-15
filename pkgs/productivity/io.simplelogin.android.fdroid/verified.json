@@ -1,0 +1,8 @@
+{
+  "package": "io.simplelogin.android.fdroid",
+  "signerFingerprints": [
+    "C9:FB:E0:95:83:03:D6:B9:6C:3F:C8:A1:FA:0A:78:21:1C:71:85:18:97:BC:07:86:33:93:E7:6B:D8:4C:3B:F7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

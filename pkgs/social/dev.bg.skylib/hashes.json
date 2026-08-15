@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.bg.skylib_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TJeI8ZLdYs1XXjPeuFGqGzj0EXaB0qxlZ6HBibzDpX4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TJeI8ZLdYs1XXjPeuFGqGzj0EXaB0qxlZ6HBibzDpX4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TJeI8ZLdYs1XXjPeuFGqGzj0EXaB0qxlZ6HBibzDpX4="
+    }
+  },
+  "version": "1.1.0"
+}

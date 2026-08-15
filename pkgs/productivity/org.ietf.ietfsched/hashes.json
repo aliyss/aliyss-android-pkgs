@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ietf.ietfsched_73.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eevK+KdMq4ZoLBsD0VmEbmyDn2eoi0+lq1z+bY4C9h8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eevK+KdMq4ZoLBsD0VmEbmyDn2eoi0+lq1z+bY4C9h8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eevK+KdMq4ZoLBsD0VmEbmyDn2eoi0+lq1z+bY4C9h8="
+    }
+  },
+  "version": "0.1.73"
+}

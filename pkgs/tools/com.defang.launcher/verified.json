@@ -1,0 +1,8 @@
+{
+  "package": "com.defang.launcher",
+  "signerFingerprints": [
+    "7F:3C:FF:B2:D5:84:FF:DB:19:D6:66:7B:33:51:29:C4:46:6D:8D:08:84:AA:96:6C:AC:F0:16:BB:2B:51:23:B0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

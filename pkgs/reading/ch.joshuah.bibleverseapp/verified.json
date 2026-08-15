@@ -1,0 +1,8 @@
+{
+  "package": "ch.joshuah.bibleverseapp",
+  "signerFingerprints": [
+    "9D:F1:EB:74:7A:F4:A1:CA:93:41:9E:26:E8:9A:42:4D:5D:8F:D8:ED:B0:11:C0:49:33:95:CC:EE:18:DA:DA:E4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cookiegames.smartcookie_152.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Mq3u26GHWg/U2u90KarbzovTJC7IEdUfx/YWCiBw1aU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mq3u26GHWg/U2u90KarbzovTJC7IEdUfx/YWCiBw1aU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mq3u26GHWg/U2u90KarbzovTJC7IEdUfx/YWCiBw1aU="
+    }
+  },
+  "version": "16.3"
+}

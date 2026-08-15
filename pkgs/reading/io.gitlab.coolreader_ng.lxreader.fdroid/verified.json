@@ -1,0 +1,8 @@
+{
+  "package": "io.gitlab.coolreader_ng.lxreader.fdroid",
+  "signerFingerprints": [
+    "83:41:31:31:CD:14:87:FD:05:A7:7E:12:A7:B8:2C:B8:A5:CC:EB:8A:17:A6:ED:C7:5A:A5:CD:F2:1E:84:ED:D6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

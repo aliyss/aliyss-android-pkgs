@@ -1,0 +1,8 @@
+{
+  "package": "prz.rutedu.app",
+  "signerFingerprints": [
+    "CC:2F:91:6F:E9:FF:5D:C5:19:1A:FB:5B:C3:86:3C:69:CD:A6:8C:B4:03:07:6A:C1:D2:56:C7:B6:9F:87:BD:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

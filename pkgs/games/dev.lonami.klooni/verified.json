@@ -1,0 +1,8 @@
+{
+  "package": "dev.lonami.klooni",
+  "signerFingerprints": [
+    "FF:D3:FD:DF:93:A8:7E:5C:66:1B:FC:C5:DF:41:16:E6:72:F1:F5:F9:E6:85:C3:DE:B5:20:69:1C:04:5F:A6:0C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

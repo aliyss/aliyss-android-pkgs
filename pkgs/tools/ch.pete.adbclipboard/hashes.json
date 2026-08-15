@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.pete.adbclipboard_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DQzM90cf/FZtiYhu5QgT7DVR66ezbTfE29v1QHhtqHg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DQzM90cf/FZtiYhu5QgT7DVR66ezbTfE29v1QHhtqHg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DQzM90cf/FZtiYhu5QgT7DVR66ezbTfE29v1QHhtqHg="
+    }
+  },
+  "version": "3.2"
+}

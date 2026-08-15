@@ -1,0 +1,18 @@
+{
+  "apkName": "danielmeek32.compass_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tVcqSeCLTVAZTx9qCFHl8qdRRsHNUA0/Sh+/bPXtdHU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tVcqSeCLTVAZTx9qCFHl8qdRRsHNUA0/Sh+/bPXtdHU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tVcqSeCLTVAZTx9qCFHl8qdRRsHNUA0/Sh+/bPXtdHU="
+    }
+  },
+  "version": "1.1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.sasikanth.pinnit_469.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mzRe5Z+x/3o4YcflJiOfcXZSg3h2o1LNKr2fDR+D4s0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mzRe5Z+x/3o4YcflJiOfcXZSg3h2o1LNKr2fDR+D4s0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mzRe5Z+x/3o4YcflJiOfcXZSg3h2o1LNKr2fDR+D4s0="
+    }
+  },
+  "version": "1.2.6"
+}

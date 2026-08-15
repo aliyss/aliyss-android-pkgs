@@ -1,0 +1,8 @@
+{
+  "package": "com.onemoresecret",
+  "signerFingerprints": [
+    "A2:72:4F:D0:B5:49:90:4A:9B:61:41:24:61:B3:F8:86:02:9E:A1:97:B7:38:C1:B4:6C:2E:9A:81:32:57:67:0F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

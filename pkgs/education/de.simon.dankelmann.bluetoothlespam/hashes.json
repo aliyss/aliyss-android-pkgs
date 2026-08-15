@@ -1,0 +1,18 @@
+{
+  "apkName": "de.simon.dankelmann.bluetoothlespam_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SGf3wW7obGjCxcPNN4iN/jyzXswqt0grl3X9Voowfyo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SGf3wW7obGjCxcPNN4iN/jyzXswqt0grl3X9Voowfyo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SGf3wW7obGjCxcPNN4iN/jyzXswqt0grl3X9Voowfyo="
+    }
+  },
+  "version": "1.0.9"
+}

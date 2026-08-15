@@ -1,0 +1,18 @@
+{
+  "apkName": "moe.shizuku.privileged.api_1086.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bic6sOmRxOebyLG7ubndc5zKwahxKlQaIUB4iGt7eQ8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bic6sOmRxOebyLG7ubndc5zKwahxKlQaIUB4iGt7eQ8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bic6sOmRxOebyLG7ubndc5zKwahxKlQaIUB4iGt7eQ8="
+    }
+  },
+  "version": "13.6.0.r1086.2650830c"
+}

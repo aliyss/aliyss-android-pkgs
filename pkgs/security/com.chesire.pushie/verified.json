@@ -1,0 +1,8 @@
+{
+  "package": "com.chesire.pushie",
+  "signerFingerprints": [
+    "DB:59:D1:4C:EB:97:E6:5A:99:B6:41:25:E3:CF:93:EB:B7:63:65:47:D6:07:C5:10:C0:47:31:D7:CB:0D:E5:60"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

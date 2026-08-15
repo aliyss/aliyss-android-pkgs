@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.quelltext.mundraub_237.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OvfAE3yFLIecDYHn8apuvzwSoWei36b6elUqqIbcS/k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OvfAE3yFLIecDYHn8apuvzwSoWei36b6elUqqIbcS/k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OvfAE3yFLIecDYHn8apuvzwSoWei36b6elUqqIbcS/k="
+    }
+  },
+  "version": "v1.236"
+}

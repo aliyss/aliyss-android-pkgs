@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlyboardgameclock",
+  "signerFingerprints": [
+    "D8:3E:E8:57:2D:40:9C:3D:29:EE:94:30:FC:D2:D3:14:4A:FF:B9:64:50:4F:1D:9A:EC:A0:9C:CE:BD:F5:6C:06"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

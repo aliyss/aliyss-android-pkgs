@@ -1,0 +1,8 @@
+{
+  "package": "ch.betzengineering.openvine",
+  "signerFingerprints": [
+    "5B:0D:D5:35:94:BA:F3:DC:4D:CA:6A:EB:21:59:6E:AC:D5:99:74:F0:00:FA:F6:D8:2A:15:6E:A3:08:5A:B0:CF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

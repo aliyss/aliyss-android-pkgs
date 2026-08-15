@@ -1,0 +1,18 @@
+{
+  "apkName": "lk.thisald.ipwizard_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-X7XnaRPC+b4x7Pe4w+Yjne8q/veNUJ2J1ZSX1d39M+0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X7XnaRPC+b4x7Pe4w+Yjne8q/veNUJ2J1ZSX1d39M+0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X7XnaRPC+b4x7Pe4w+Yjne8q/veNUJ2J1ZSX1d39M+0="
+    }
+  },
+  "version": "0.0.1"
+}

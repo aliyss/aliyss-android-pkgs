@@ -1,0 +1,18 @@
+{
+  "apkName": "se.constructions.andraw_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RIqmdXotQLuL9W7b8IEM9zu9MOYQIUaYdpCDrvV5EEg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RIqmdXotQLuL9W7b8IEM9zu9MOYQIUaYdpCDrvV5EEg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RIqmdXotQLuL9W7b8IEM9zu9MOYQIUaYdpCDrvV5EEg="
+    }
+  },
+  "version": "1.0.0"
+}

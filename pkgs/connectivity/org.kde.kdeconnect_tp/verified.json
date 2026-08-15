@@ -1,0 +1,8 @@
+{
+  "package": "org.kde.kdeconnect_tp",
+  "signerFingerprints": [
+    "79:B5:00:31:48:67:46:DF:FB:C7:46:F4:8F:B0:EB:62:FC:7B:B0:AE:7B:97:6E:7D:65:07:B2:C0:78:84:0D:92"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

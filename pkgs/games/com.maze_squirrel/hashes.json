@@ -1,0 +1,18 @@
+{
+  "apkName": "com.maze_squirrel_124.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5gHVJxHWM/6rRBKFvouD//suJjsyqbi6m6xbxiY2zSc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5gHVJxHWM/6rRBKFvouD//suJjsyqbi6m6xbxiY2zSc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5gHVJxHWM/6rRBKFvouD//suJjsyqbi6m6xbxiY2zSc="
+    }
+  },
+  "version": "1.2.4"
+}

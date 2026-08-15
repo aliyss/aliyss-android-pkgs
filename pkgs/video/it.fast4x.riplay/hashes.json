@@ -1,0 +1,18 @@
+{
+  "apkName": "it.fast4x.riplay_88.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gssEkvKCugvYOw0LYvdNncGe25BD7AvTmhpce/6NV+Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gssEkvKCugvYOw0LYvdNncGe25BD7AvTmhpce/6NV+Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gssEkvKCugvYOw0LYvdNncGe25BD7AvTmhpce/6NV+Q="
+    }
+  },
+  "version": "0.7.87"
+}

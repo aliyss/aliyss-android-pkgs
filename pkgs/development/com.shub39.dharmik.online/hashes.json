@@ -1,0 +1,18 @@
+{
+  "apkName": "com.shub39.dharmik.online_2200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VJtMGp2mX9eIZq/blh0zZwcqAqMl88t1B7yFXWgYiRE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VJtMGp2mX9eIZq/blh0zZwcqAqMl88t1B7yFXWgYiRE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VJtMGp2mX9eIZq/blh0zZwcqAqMl88t1B7yFXWgYiRE="
+    }
+  },
+  "version": "2.2.0"
+}

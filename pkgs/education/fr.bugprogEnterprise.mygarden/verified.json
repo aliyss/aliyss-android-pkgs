@@ -1,0 +1,8 @@
+{
+  "package": "fr.bugprogEnterprise.mygarden",
+  "signerFingerprints": [
+    "03:E1:73:8E:F4:B0:84:92:08:79:05:1C:49:6C:E3:1C:4D:E1:E9:08:35:9B:DD:45:30:1D:90:86:28:FB:FB:27"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

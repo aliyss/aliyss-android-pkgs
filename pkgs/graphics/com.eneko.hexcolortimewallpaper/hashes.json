@@ -1,0 +1,18 @@
+{
+  "apkName": "com.eneko.hexcolortimewallpaper_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Iu33IGVcARvlfDdjNquO2kmB9KzczGaBJWIT6YP0MaQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Iu33IGVcARvlfDdjNquO2kmB9KzczGaBJWIT6YP0MaQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Iu33IGVcARvlfDdjNquO2kmB9KzczGaBJWIT6YP0MaQ="
+    }
+  },
+  "version": "1.1"
+}

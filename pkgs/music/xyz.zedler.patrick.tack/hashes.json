@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.zedler.patrick.tack_410.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-McpriZdDdycbALAbYcaYpUuDj5Ea3loRuet6Jz0se5U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-McpriZdDdycbALAbYcaYpUuDj5Ea3loRuet6Jz0se5U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-McpriZdDdycbALAbYcaYpUuDj5Ea3loRuet6Jz0se5U="
+    }
+  },
+  "version": "6.3.1"
+}

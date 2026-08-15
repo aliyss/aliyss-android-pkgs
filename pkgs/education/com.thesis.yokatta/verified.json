@@ -1,0 +1,8 @@
+{
+  "package": "com.thesis.yokatta",
+  "signerFingerprints": [
+    "29:EF:08:58:8B:5B:32:B2:0C:AC:CA:03:40:5E:37:35:64:9B:9D:1A:EA:93:84:D8:4B:D7:53:FC:5D:26:F2:32"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

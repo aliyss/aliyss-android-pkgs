@@ -1,0 +1,18 @@
+{
+  "apkName": "com.asdoi.gymwen_145.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kF98+KTt1EFeSiVT51E2+G1lD06zmHk6JThrgX0/DoI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kF98+KTt1EFeSiVT51E2+G1lD06zmHk6JThrgX0/DoI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kF98+KTt1EFeSiVT51E2+G1lD06zmHk6JThrgX0/DoI="
+    }
+  },
+  "version": "1.4.5"
+}

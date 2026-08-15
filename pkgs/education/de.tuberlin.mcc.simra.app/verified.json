@@ -1,0 +1,8 @@
+{
+  "package": "de.tuberlin.mcc.simra.app",
+  "signerFingerprints": [
+    "7D:5B:30:D1:98:21:5F:64:CA:B3:91:A0:D7:9A:10:C6:D4:37:77:FE:6D:1E:72:8F:28:F2:8E:BE:F9:35:7A:BC"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

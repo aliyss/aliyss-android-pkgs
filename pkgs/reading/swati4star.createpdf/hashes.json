@@ -1,0 +1,18 @@
+{
+  "apkName": "swati4star.createpdf_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aX6qRay7KWMfnZPXP6BAWYxxb/g6pSEJE3ja2npJgiw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aX6qRay7KWMfnZPXP6BAWYxxb/g6pSEJE3ja2npJgiw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aX6qRay7KWMfnZPXP6BAWYxxb/g6pSEJE3ja2npJgiw="
+    }
+  },
+  "version": "9.0.1"
+}

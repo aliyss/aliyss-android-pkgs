@@ -1,0 +1,18 @@
+{
+  "apkName": "com.keshav.capturesposed_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UXr5k+Hj9wYFjFmkQ10GXZElQi9J/9tBTsmXwT/GD4o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UXr5k+Hj9wYFjFmkQ10GXZElQi9J/9tBTsmXwT/GD4o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UXr5k+Hj9wYFjFmkQ10GXZElQi9J/9tBTsmXwT/GD4o="
+    }
+  },
+  "version": "1.1.0"
+}

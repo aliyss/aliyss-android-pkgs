@@ -1,0 +1,18 @@
+{
+  "apkName": "net.markuspetermann.roamingguard_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-t0ftIUoypkYZW64MnnDyAHuFC2UWJpvQlLFXUzEiWpg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t0ftIUoypkYZW64MnnDyAHuFC2UWJpvQlLFXUzEiWpg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t0ftIUoypkYZW64MnnDyAHuFC2UWJpvQlLFXUzEiWpg="
+    }
+  },
+  "version": "1.1.1"
+}

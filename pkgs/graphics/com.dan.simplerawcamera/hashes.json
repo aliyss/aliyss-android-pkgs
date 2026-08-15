@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dan.simplerawcamera_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1gCyLr9ZYclG64XyI+Jy72gMAEwdRGXpraABqzKAFiY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1gCyLr9ZYclG64XyI+Jy72gMAEwdRGXpraABqzKAFiY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1gCyLr9ZYclG64XyI+Jy72gMAEwdRGXpraABqzKAFiY="
+    }
+  },
+  "version": "2.15"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gitlab.fasheng.nlp.baidu_45.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hKFzMMTvkd0VWO3R3UsLHJ2Vv7Qw88zNQGhbMAAthgQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hKFzMMTvkd0VWO3R3UsLHJ2Vv7Qw88zNQGhbMAAthgQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hKFzMMTvkd0VWO3R3UsLHJ2Vv7Qw88zNQGhbMAAthgQ="
+    }
+  },
+  "version": "0.9.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.unifiedpush.distributor.fcm",
+  "signerFingerprints": [
+    "DF:11:17:64:06:C6:3A:78:76:10:3C:E6:CC:1A:8F:CA:23:9D:F7:6A:A5:F6:DE:5C:DB:AF:E7:3E:CD:BF:18:75"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

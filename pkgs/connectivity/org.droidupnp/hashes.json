@@ -1,0 +1,18 @@
+{
+  "apkName": "org.droidupnp_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MAehEtTvgnE9MtdDRbT4Vz4Z5pDbDMv7sLrQgg25Q6Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MAehEtTvgnE9MtdDRbT4Vz4Z5pDbDMv7sLrQgg25Q6Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MAehEtTvgnE9MtdDRbT4Vz4Z5pDbDMv7sLrQgg25Q6Q="
+    }
+  },
+  "version": "2.4.1"
+}

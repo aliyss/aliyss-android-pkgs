@@ -1,0 +1,8 @@
+{
+  "package": "kapoue.hestia",
+  "signerFingerprints": [
+    "4A:DC:28:B1:A3:F4:EE:BA:7C:E1:25:F0:22:27:B0:53:0E:52:2B:F3:D1:64:D2:AB:84:90:2F:A2:75:C0:EE:15"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

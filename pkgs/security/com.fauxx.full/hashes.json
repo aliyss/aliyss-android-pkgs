@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fauxx.full_601.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8h7Y4zb0upZph9TBj1XWwcaFgcx7/hNtRY9vexcL0d8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8h7Y4zb0upZph9TBj1XWwcaFgcx7/hNtRY9vexcL0d8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8h7Y4zb0upZph9TBj1XWwcaFgcx7/hNtRY9vexcL0d8="
+    }
+  },
+  "version": "0.6.1"
+}

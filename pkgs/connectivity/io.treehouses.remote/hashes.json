@@ -1,0 +1,18 @@
+{
+  "apkName": "io.treehouses.remote_6098.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i/BfGWh8adH63HQwbSF0yfzhcVrr2FGrNDzAORkGzNU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i/BfGWh8adH63HQwbSF0yfzhcVrr2FGrNDzAORkGzNU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i/BfGWh8adH63HQwbSF0yfzhcVrr2FGrNDzAORkGzNU="
+    }
+  },
+  "version": "6098"
+}

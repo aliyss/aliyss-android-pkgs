@@ -1,0 +1,18 @@
+{
+  "apkName": "de.spiritcroc.syncsettings_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n69O4ZpLcTHN5rmJVshQ6jbskFuYKS8XYeW8a/6Atl4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n69O4ZpLcTHN5rmJVshQ6jbskFuYKS8XYeW8a/6Atl4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n69O4ZpLcTHN5rmJVshQ6jbskFuYKS8XYeW8a/6Atl4="
+    }
+  },
+  "version": "3.0.1"
+}

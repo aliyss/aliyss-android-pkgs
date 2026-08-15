@@ -1,0 +1,8 @@
+{
+  "package": "eu.berdosi.app.heartbeat",
+  "signerFingerprints": [
+    "C8:31:97:DD:15:57:1B:01:BB:52:3D:14:3A:21:8E:1F:EE:55:A3:EA:DB:6A:3C:A8:47:7C:04:C2:45:54:EC:BE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

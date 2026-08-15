@@ -1,0 +1,8 @@
+{
+  "package": "info.metadude.android.fosdem.schedule",
+  "signerFingerprints": [
+    "FF:A0:BD:6F:43:2A:A8:B4:43:00:24:87:BC:73:27:70:7F:A4:E6:71:FC:8E:F4:51:59:C5:B6:AD:8B:9D:0F:E6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

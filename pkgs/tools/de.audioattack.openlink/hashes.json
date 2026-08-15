@@ -1,0 +1,18 @@
+{
+  "apkName": "de.audioattack.openlink_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PSiSPwi9cXOICnHtLJlQVTSeqkO+T6wptToAaANezu0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PSiSPwi9cXOICnHtLJlQVTSeqkO+T6wptToAaANezu0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PSiSPwi9cXOICnHtLJlQVTSeqkO+T6wptToAaANezu0="
+    }
+  },
+  "version": "1.5.11"
+}

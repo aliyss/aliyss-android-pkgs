@@ -1,0 +1,18 @@
+{
+  "apkName": "net.nhiroki.bluelineconsole_44.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ePV5pn7RBWqc/igKHv3BcLxzryiojo/aqt17SEjz2b8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ePV5pn7RBWqc/igKHv3BcLxzryiojo/aqt17SEjz2b8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ePV5pn7RBWqc/igKHv3BcLxzryiojo/aqt17SEjz2b8="
+    }
+  },
+  "version": "1.2.25"
+}

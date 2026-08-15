@@ -1,0 +1,18 @@
+{
+  "apkName": "com.oliverszabo.tcrbdetector_300000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-akLm50AR3HYFRjP6qjFCnM/4TUyEMUuQlobzXDxo22I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-akLm50AR3HYFRjP6qjFCnM/4TUyEMUuQlobzXDxo22I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-akLm50AR3HYFRjP6qjFCnM/4TUyEMUuQlobzXDxo22I="
+    }
+  },
+  "version": "3.0"
+}

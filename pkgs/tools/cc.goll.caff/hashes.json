@@ -1,0 +1,18 @@
+{
+  "apkName": "cc.goll.caff_101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QbDixb7oQRf4WnXUCZoAMNL4m90VjlABFjTw+RxgjhI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QbDixb7oQRf4WnXUCZoAMNL4m90VjlABFjTw+RxgjhI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QbDixb7oQRf4WnXUCZoAMNL4m90VjlABFjTw+RxgjhI="
+    }
+  },
+  "version": "1.1"
+}

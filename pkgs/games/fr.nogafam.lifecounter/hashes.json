@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.nogafam.lifecounter_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rfVrphkHHRzsSgpqJy/XYVKdh7wOYq0lDphooXpZX2o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rfVrphkHHRzsSgpqJy/XYVKdh7wOYq0lDphooXpZX2o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rfVrphkHHRzsSgpqJy/XYVKdh7wOYq0lDphooXpZX2o="
+    }
+  },
+  "version": "1.0"
+}

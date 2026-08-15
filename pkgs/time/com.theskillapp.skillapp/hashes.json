@@ -1,0 +1,18 @@
+{
+  "apkName": "com.theskillapp.skillapp_357.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-e/odcnW2rmorjkVon/klJ4hiQpFTIXNvbHQD688d5Ns="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e/odcnW2rmorjkVon/klJ4hiQpFTIXNvbHQD688d5Ns="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e/odcnW2rmorjkVon/klJ4hiQpFTIXNvbHQD688d5Ns="
+    }
+  },
+  "version": "4.1.0"
+}

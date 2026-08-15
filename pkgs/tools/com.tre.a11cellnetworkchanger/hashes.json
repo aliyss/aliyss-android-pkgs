@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tre.a11cellnetworkchanger_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xqg7lgXa/g2rf7ao8ThkTY7Uv0tpwiKD0J0GO1CMTUg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xqg7lgXa/g2rf7ao8ThkTY7Uv0tpwiKD0J0GO1CMTUg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xqg7lgXa/g2rf7ao8ThkTY7Uv0tpwiKD0J0GO1CMTUg="
+    }
+  },
+  "version": "1.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.akane.omni_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-10UzSYAPzVA9eDjrWKcrZHCFmnM769TlcXy7c/oZcys="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-10UzSYAPzVA9eDjrWKcrZHCFmnM769TlcXy7c/oZcys="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-10UzSYAPzVA9eDjrWKcrZHCFmnM769TlcXy7c/oZcys="
+    }
+  },
+  "version": "1.3"
+}

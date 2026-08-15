@@ -1,0 +1,8 @@
+{
+  "package": "sh.ftp.rocketninelabs.meditationassistant.opensource",
+  "signerFingerprints": [
+    "B6:34:FF:85:FE:8C:19:E6:F8:77:8F:1E:6A:7A:07:B7:38:94:AB:60:4E:F3:4F:D4:E0:FF:4D:ED:64:AF:8F:DE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

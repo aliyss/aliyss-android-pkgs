@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wchung.qrshare_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-39sJt+7hwSmq1U6IgC8b7TLe0aJj9u1lHnWuLl6fCL0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-39sJt+7hwSmq1U6IgC8b7TLe0aJj9u1lHnWuLl6fCL0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-39sJt+7hwSmq1U6IgC8b7TLe0aJj9u1lHnWuLl6fCL0="
+    }
+  },
+  "version": "1.0.22"
+}

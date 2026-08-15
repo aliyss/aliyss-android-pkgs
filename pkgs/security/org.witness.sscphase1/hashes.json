@@ -1,0 +1,18 @@
+{
+  "apkName": "org.witness.sscphase1_5021.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cQBearNk5l0q2MePcRZgIHPGXZAfouYkysdosVPx4aU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cQBearNk5l0q2MePcRZgIHPGXZAfouYkysdosVPx4aU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cQBearNk5l0q2MePcRZgIHPGXZAfouYkysdosVPx4aU="
+    }
+  },
+  "version": "5.0.0-RC-1"
+}

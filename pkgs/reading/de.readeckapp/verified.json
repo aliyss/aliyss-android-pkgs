@@ -1,0 +1,8 @@
+{
+  "package": "de.readeckapp",
+  "signerFingerprints": [
+    "53:4F:1F:1C:83:9A:17:92:58:A2:EB:41:3C:75:6A:A6:01:A6:9E:79:E1:35:47:83:B6:81:C5:10:76:E8:10:60"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

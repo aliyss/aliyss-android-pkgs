@@ -1,0 +1,18 @@
+{
+  "apkName": "com.twoeightnine.root.xvii_194.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-neTwar9uOgN9yqOuZX4FS/ijs7EMP7I6IwBE/6WA7a0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-neTwar9uOgN9yqOuZX4FS/ijs7EMP7I6IwBE/6WA7a0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-neTwar9uOgN9yqOuZX4FS/ijs7EMP7I6IwBE/6WA7a0="
+    }
+  },
+  "version": "6.1.9"
+}

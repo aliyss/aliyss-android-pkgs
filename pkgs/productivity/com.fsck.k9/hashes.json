@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fsck.k9_39043.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oI9PGBaXfZltzkq5FzLZGKE+nAK+1ggKwrNyw3C52oA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oI9PGBaXfZltzkq5FzLZGKE+nAK+1ggKwrNyw3C52oA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oI9PGBaXfZltzkq5FzLZGKE+nAK+1ggKwrNyw3C52oA="
+    }
+  },
+  "version": "22.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.rumcajs.offlinewebsearch",
+  "signerFingerprints": [
+    "42:EC:CC:9B:71:7A:05:01:3F:3B:E1:22:2D:C5:76:F6:0F:25:5D:69:9D:EE:79:A8:BF:24:5F:86:4E:AE:A2:FC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

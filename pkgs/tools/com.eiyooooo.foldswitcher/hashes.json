@@ -1,0 +1,18 @@
+{
+  "apkName": "com.eiyooooo.foldswitcher_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JfhGjwAsIPUZh2OY81IBDprOfwbvv0JKbL9IpoldW4E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JfhGjwAsIPUZh2OY81IBDprOfwbvv0JKbL9IpoldW4E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JfhGjwAsIPUZh2OY81IBDprOfwbvv0JKbL9IpoldW4E="
+    }
+  },
+  "version": "1.2.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "app.slauncher_104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AeWl6C/BG6WNx+FNYrKdNuSS02uA1snD56KLCyB5ZWc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AeWl6C/BG6WNx+FNYrKdNuSS02uA1snD56KLCyB5ZWc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AeWl6C/BG6WNx+FNYrKdNuSS02uA1snD56KLCyB5ZWc="
+    }
+  },
+  "version": "v0.1.4"
+}

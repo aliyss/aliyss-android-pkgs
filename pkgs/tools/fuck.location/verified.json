@@ -1,0 +1,8 @@
+{
+  "package": "fuck.location",
+  "signerFingerprints": [
+    "7B:D5:7B:96:67:03:0F:DC:D2:B1:19:67:FD:84:6E:1C:14:5B:F1:CC:61:E9:B2:94:DE:E9:E0:49:42:E3:03:80"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ulicae.cinelog_45.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TwL7j1D1yRBlnGXFbBYSlU/GY2eMCR9U66rKcnUQYRM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TwL7j1D1yRBlnGXFbBYSlU/GY2eMCR9U66rKcnUQYRM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TwL7j1D1yRBlnGXFbBYSlU/GY2eMCR9U66rKcnUQYRM="
+    }
+  },
+  "version": "3.0.0"
+}

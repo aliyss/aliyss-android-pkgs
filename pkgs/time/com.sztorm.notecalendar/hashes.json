@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sztorm.notecalendar_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pxKWtkRxdlU67gkISaZsu/18bDv3/GPupZupdvtTuPg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pxKWtkRxdlU67gkISaZsu/18bDv3/GPupZupdvtTuPg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pxKWtkRxdlU67gkISaZsu/18bDv3/GPupZupdvtTuPg="
+    }
+  },
+  "version": "1.0.11"
+}

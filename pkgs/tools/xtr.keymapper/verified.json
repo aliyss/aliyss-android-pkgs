@@ -1,0 +1,8 @@
+{
+  "package": "xtr.keymapper",
+  "signerFingerprints": [
+    "38:7D:EF:27:F3:81:5A:C2:A6:7D:37:4C:57:9B:FF:96:06:F9:3C:86:D9:54:3A:7B:49:14:AF:43:84:0C:48:9D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

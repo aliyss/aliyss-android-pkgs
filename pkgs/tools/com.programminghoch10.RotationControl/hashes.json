@@ -1,0 +1,18 @@
+{
+  "apkName": "com.programminghoch10.RotationControl_63.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-W7usOZfQ22sk8FIgarnGzxL48ERCBo2pnkHB2avKzHc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W7usOZfQ22sk8FIgarnGzxL48ERCBo2pnkHB2avKzHc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W7usOZfQ22sk8FIgarnGzxL48ERCBo2pnkHB2avKzHc="
+    }
+  },
+  "version": "63-ca313a9-20251015"
+}

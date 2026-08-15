@@ -1,0 +1,8 @@
+{
+  "package": "com.odweta.solon",
+  "signerFingerprints": [
+    "10:EE:B5:E4:5C:41:DF:32:F9:BF:3A:45:4D:51:51:A3:F9:58:7A:DA:42:C1:B9:69:5F:89:E5:88:DD:07:97:6C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

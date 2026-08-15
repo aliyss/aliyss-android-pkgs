@@ -1,0 +1,18 @@
+{
+  "apkName": "net.christianbeier.droidvnc_ng_63.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XG0PihaquLnd+Dtw1aknjjrgR66Y83TMQw7XYx8MCtE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XG0PihaquLnd+Dtw1aknjjrgR66Y83TMQw7XYx8MCtE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XG0PihaquLnd+Dtw1aknjjrgR66Y83TMQw7XYx8MCtE="
+    }
+  },
+  "version": "2.20.3"
+}

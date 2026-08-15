@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.rubec.otoscope_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rxm/zta9naWh8T+hCW7fnxaXYH421tdTaPrSDN+/98E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rxm/zta9naWh8T+hCW7fnxaXYH421tdTaPrSDN+/98E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rxm/zta9naWh8T+hCW7fnxaXYH421tdTaPrSDN+/98E="
+    }
+  },
+  "version": "0.6.0"
+}

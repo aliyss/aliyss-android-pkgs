@@ -1,0 +1,18 @@
+{
+  "apkName": "be.casperverswijvelt.unifiedinternetqs_3010200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/kRhTkPGYM2u8tXY/X8/2ZoAJqDhLmdwvQqjOEZ/ZdY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/kRhTkPGYM2u8tXY/X8/2ZoAJqDhLmdwvQqjOEZ/ZdY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/kRhTkPGYM2u8tXY/X8/2ZoAJqDhLmdwvQqjOEZ/ZdY="
+    }
+  },
+  "version": "3.1.2-fdroid"
+}

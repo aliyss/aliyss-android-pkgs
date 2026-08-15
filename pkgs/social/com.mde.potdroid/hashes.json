@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mde.potdroid_94.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4D+TpZNLQDwFGoIUNWD6lnH+HWlqDTRLgB0GqR1oLus="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4D+TpZNLQDwFGoIUNWD6lnH+HWlqDTRLgB0GqR1oLus="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4D+TpZNLQDwFGoIUNWD6lnH+HWlqDTRLgB0GqR1oLus="
+    }
+  },
+  "version": "5.6.0"
+}

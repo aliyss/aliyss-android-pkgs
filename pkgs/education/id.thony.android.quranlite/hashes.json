@@ -1,0 +1,18 @@
+{
+  "apkName": "id.thony.android.quranlite_10050000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FDvsAV6Z2iWccD0L5LbVk2gbeKU8QzZnCGIAMgKdSeA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FDvsAV6Z2iWccD0L5LbVk2gbeKU8QzZnCGIAMgKdSeA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FDvsAV6Z2iWccD0L5LbVk2gbeKU8QzZnCGIAMgKdSeA="
+    }
+  },
+  "version": "1.5.0"
+}

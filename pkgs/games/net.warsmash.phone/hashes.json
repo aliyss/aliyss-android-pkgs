@@ -1,0 +1,18 @@
+{
+  "apkName": "net.warsmash.phone_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-76Emkjm8CQkXqyK2tD/HNEvvaYBR9p/Hc8anKDHpJlM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-76Emkjm8CQkXqyK2tD/HNEvvaYBR9p/Hc8anKDHpJlM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-76Emkjm8CQkXqyK2tD/HNEvvaYBR9p/Hc8anKDHpJlM="
+    }
+  },
+  "version": "1.0.4"
+}

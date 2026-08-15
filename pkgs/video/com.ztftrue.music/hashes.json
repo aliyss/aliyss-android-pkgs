@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ztftrue.music_71.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XXJksZP3YH44S0lsVeKXv2nDg+YpkNldivsV2xRgOXk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XXJksZP3YH44S0lsVeKXv2nDg+YpkNldivsV2xRgOXk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XXJksZP3YH44S0lsVeKXv2nDg+YpkNldivsV2xRgOXk="
+    }
+  },
+  "version": "0.1.71"
+}

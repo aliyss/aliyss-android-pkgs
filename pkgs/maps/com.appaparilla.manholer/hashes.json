@@ -1,0 +1,18 @@
+{
+  "apkName": "com.appaparilla.manholer_78.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JlokvyFM5DxMbby9zmkCbNBpOhGNVA2bd2j48VJwZq8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JlokvyFM5DxMbby9zmkCbNBpOhGNVA2bd2j48VJwZq8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JlokvyFM5DxMbby9zmkCbNBpOhGNVA2bd2j48VJwZq8="
+    }
+  },
+  "version": "2026-08-10-79eebf6d81"
+}

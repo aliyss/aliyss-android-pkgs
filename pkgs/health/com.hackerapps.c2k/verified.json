@@ -1,0 +1,8 @@
+{
+  "package": "com.hackerapps.c2k",
+  "signerFingerprints": [
+    "A4:D8:F5:1C:09:62:0C:0B:CB:E2:C3:ED:97:95:8D:17:85:C6:C2:AC:7A:B9:FB:F5:04:65:0F:69:45:40:78:96"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

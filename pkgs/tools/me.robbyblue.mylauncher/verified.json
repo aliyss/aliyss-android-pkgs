@@ -1,0 +1,8 @@
+{
+  "package": "me.robbyblue.mylauncher",
+  "signerFingerprints": [
+    "82:01:F7:77:B8:3F:59:DE:A8:CA:41:67:9C:79:93:A8:98:70:D3:89:98:C6:69:24:F0:9C:62:5C:93:01:34:6A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

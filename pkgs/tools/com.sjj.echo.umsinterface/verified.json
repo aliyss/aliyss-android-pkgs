@@ -1,0 +1,8 @@
+{
+  "package": "com.sjj.echo.umsinterface",
+  "signerFingerprints": [
+    "04:79:BB:7C:4A:69:38:9E:B3:FE:23:8D:C4:10:FD:42:9D:22:17:8E:1A:87:D3:E0:EA:E0:44:AA:19:76:A8:DB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

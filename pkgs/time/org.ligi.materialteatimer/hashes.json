@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ligi.materialteatimer_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-b2QqSfrZdQiKcKv9MLnNxRLQRDuiRqXbPg2aT3cK1v0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b2QqSfrZdQiKcKv9MLnNxRLQRDuiRqXbPg2aT3cK1v0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b2QqSfrZdQiKcKv9MLnNxRLQRDuiRqXbPg2aT3cK1v0="
+    }
+  },
+  "version": "1.4"
+}

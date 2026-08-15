@@ -1,0 +1,18 @@
+{
+  "apkName": "de.markusfisch.android.libra_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZY7w1dNqyFHUsUgEssGdnE4bILjqKr2FFQM3cTRPBwg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZY7w1dNqyFHUsUgEssGdnE4bILjqKr2FFQM3cTRPBwg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZY7w1dNqyFHUsUgEssGdnE4bILjqKr2FFQM3cTRPBwg="
+    }
+  },
+  "version": "1.13.2"
+}

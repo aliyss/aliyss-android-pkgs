@@ -1,0 +1,18 @@
+{
+  "apkName": "net.helcel.cowspent_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HOvl5Ri9zIc5BPVVfhhZ4Wcawm8btbNj+7z0WonObrc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HOvl5Ri9zIc5BPVVfhhZ4Wcawm8btbNj+7z0WonObrc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HOvl5Ri9zIc5BPVVfhhZ4Wcawm8btbNj+7z0WonObrc="
+    }
+  },
+  "version": "1.4"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "info.altimeter.variometer_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YksiqodBrYVYPpkI6RC+Fo6K7MEV+/b36DjeYV+Ell4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YksiqodBrYVYPpkI6RC+Fo6K7MEV+/b36DjeYV+Ell4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YksiqodBrYVYPpkI6RC+Fo6K7MEV+/b36DjeYV+Ell4="
+    }
+  },
+  "version": "3.3"
+}

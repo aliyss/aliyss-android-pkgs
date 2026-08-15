@@ -1,0 +1,8 @@
+{
+  "package": "com.example.sekreto",
+  "signerFingerprints": [
+    "66:B6:BE:16:75:B6:B1:13:10:93:E4:BA:CD:51:01:87:C7:5D:D3:8B:B1:34:AE:39:FA:C4:38:16:3D:47:C1:47"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

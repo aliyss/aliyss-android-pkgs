@@ -1,0 +1,8 @@
+{
+  "package": "com.abast.homebot",
+  "signerFingerprints": [
+    "8D:44:47:7D:D8:AD:62:D3:1E:CC:4E:3D:A6:12:AA:18:E0:5F:D6:83:07:D9:79:1F:D8:E0:40:ED:F7:C2:DC:4D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

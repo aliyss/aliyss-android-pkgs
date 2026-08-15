@@ -1,0 +1,18 @@
+{
+  "apkName": "cz.vitskalicky.lepsirozvrh_48.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fz1veCOBh6l31AKq01Z120cR75kZLI9+yTcQ0XH0IMI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fz1veCOBh6l31AKq01Z120cR75kZLI9+yTcQ0XH0IMI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fz1veCOBh6l31AKq01Z120cR75kZLI9+yTcQ0XH0IMI="
+    }
+  },
+  "version": "2.0.2"
+}

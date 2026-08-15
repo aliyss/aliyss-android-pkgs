@@ -1,0 +1,18 @@
+{
+  "apkName": "info.yuryv.androiddebugmode_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SYUFtieUCVXjukwdkDwlGG6XpFxB8I9X52ugpBEV4RY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SYUFtieUCVXjukwdkDwlGG6XpFxB8I9X52ugpBEV4RY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SYUFtieUCVXjukwdkDwlGG6XpFxB8I9X52ugpBEV4RY="
+    }
+  },
+  "version": "1.1.2"
+}

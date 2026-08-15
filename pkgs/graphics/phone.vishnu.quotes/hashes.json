@@ -1,0 +1,18 @@
+{
+  "apkName": "phone.vishnu.quotes_66.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QI1rRYY42/G7lsBjTVvIBbo08cAbvoqoHcUnZPuVD4o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QI1rRYY42/G7lsBjTVvIBbo08cAbvoqoHcUnZPuVD4o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QI1rRYY42/G7lsBjTVvIBbo08cAbvoqoHcUnZPuVD4o="
+    }
+  },
+  "version": "v3.1.3"
+}

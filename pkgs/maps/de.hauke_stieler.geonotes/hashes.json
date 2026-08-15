@@ -1,0 +1,18 @@
+{
+  "apkName": "de.hauke_stieler.geonotes_1007001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fuEh6mW59NZlUwrp2P8U1zotfLn3pXXhKW6nkdZiah4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fuEh6mW59NZlUwrp2P8U1zotfLn3pXXhKW6nkdZiah4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fuEh6mW59NZlUwrp2P8U1zotfLn3pXXhKW6nkdZiah4="
+    }
+  },
+  "version": "1.7.1"
+}

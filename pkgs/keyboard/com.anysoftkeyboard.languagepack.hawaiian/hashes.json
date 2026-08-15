@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.hawaiian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0n06Z1zMEWKBd6EO804PmGaes/alRd+FF3r5+96ikqc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0n06Z1zMEWKBd6EO804PmGaes/alRd+FF3r5+96ikqc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0n06Z1zMEWKBd6EO804PmGaes/alRd+FF3r5+96ikqc="
+    }
+  },
+  "version": "5.1.6158"
+}

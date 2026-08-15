@@ -1,0 +1,8 @@
+{
+  "package": "com.languageapp.laetle",
+  "signerFingerprints": [
+    "42:B9:1B:7E:B6:CF:51:F3:7F:56:6A:0C:E1:95:A3:AD:AC:EB:82:83:FC:61:69:0C:DB:9B:1E:CE:9A:F2:D5:76"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

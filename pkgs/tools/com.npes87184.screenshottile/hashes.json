@@ -1,0 +1,18 @@
+{
+  "apkName": "com.npes87184.screenshottile_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VjQz/gbeZHCW6QAq2I0r91BfdEaryBrYXKmkzKqFkx0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VjQz/gbeZHCW6QAq2I0r91BfdEaryBrYXKmkzKqFkx0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VjQz/gbeZHCW6QAq2I0r91BfdEaryBrYXKmkzKqFkx0="
+    }
+  },
+  "version": "1.4.1"
+}

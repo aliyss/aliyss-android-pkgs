@@ -1,0 +1,8 @@
+{
+  "package": "mobi.meddle.wehe",
+  "signerFingerprints": [
+    "19:8A:36:4B:00:18:19:CE:B0:C8:DF:5B:3C:ED:54:05:02:4D:45:E6:8B:D5:6A:B6:82:67:EF:3C:FB:BC:72:88"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

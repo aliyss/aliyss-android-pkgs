@@ -1,0 +1,8 @@
+{
+  "package": "be.moraine.yapl",
+  "signerFingerprints": [
+    "4E:FF:D0:0A:E4:4B:95:D9:3A:4F:E1:BA:8D:78:F1:98:D2:27:73:85:25:46:E1:66:E6:D1:DA:F2:6D:0B:FE:3B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

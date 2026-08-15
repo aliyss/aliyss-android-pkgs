@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.dice.overflow_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LQO2RQt2KePmr3VAvuL0/tJtJze1xdrsqJ2H8K1Y75c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LQO2RQt2KePmr3VAvuL0/tJtJze1xdrsqJ2H8K1Y75c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LQO2RQt2KePmr3VAvuL0/tJtJze1xdrsqJ2H8K1Y75c="
+    }
+  },
+  "version": "1.1.0"
+}

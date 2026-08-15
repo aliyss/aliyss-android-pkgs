@@ -1,0 +1,8 @@
+{
+  "package": "org.billthefarmer.siggen",
+  "signerFingerprints": [
+    "89:34:BB:F4:4D:2A:88:72:69:27:8B:C7:64:0E:03:85:72:8B:CE:C4:9E:B9:01:DD:22:62:F5:19:A2:4B:54:C0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

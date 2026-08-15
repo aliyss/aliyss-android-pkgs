@@ -1,0 +1,8 @@
+{
+  "package": "com.sapuseven.untis",
+  "signerFingerprints": [
+    "1B:3D:01:2A:B3:83:A4:2B:83:06:D3:20:95:43:3D:0D:F0:BD:B9:E5:DD:50:35:E2:CE:42:CB:CF:30:EC:B1:F3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

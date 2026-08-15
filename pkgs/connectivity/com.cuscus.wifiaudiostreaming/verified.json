@@ -1,0 +1,8 @@
+{
+  "package": "com.cuscus.wifiaudiostreaming",
+  "signerFingerprints": [
+    "E6:9D:57:81:6F:E6:92:01:8C:8D:6F:D3:43:C9:D0:77:75:3A:DB:2A:21:E8:22:70:76:A4:6D:8F:0A:23:C0:97"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

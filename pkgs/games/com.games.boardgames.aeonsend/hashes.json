@@ -1,0 +1,18 @@
+{
+  "apkName": "com.games.boardgames.aeonsend_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nb2FeCtTSljIES+qWOkin8R+GvEBpdybNiBbviKRClc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nb2FeCtTSljIES+qWOkin8R+GvEBpdybNiBbviKRClc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nb2FeCtTSljIES+qWOkin8R+GvEBpdybNiBbviKRClc="
+    }
+  },
+  "version": "1.0"
+}

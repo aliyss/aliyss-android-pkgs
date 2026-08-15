@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.bubu1.fdroidclassic_1110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZjAJ6uJAyxUfUC41L6ljEW8/dYGgnyHqCNFElFHrnDk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZjAJ6uJAyxUfUC41L6ljEW8/dYGgnyHqCNFElFHrnDk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZjAJ6uJAyxUfUC41L6ljEW8/dYGgnyHqCNFElFHrnDk="
+    }
+  },
+  "version": "1.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.password.monitor",
+  "signerFingerprints": [
+    "22:A6:B9:EC:F3:FC:79:8B:A6:CC:2D:F1:88:3A:7F:D4:BE:91:C6:79:66:E9:04:83:01:90:62:B5:7C:ED:9B:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

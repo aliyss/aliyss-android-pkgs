@@ -1,0 +1,8 @@
+{
+  "package": "io.evcc.android",
+  "signerFingerprints": [
+    "DE:3B:5E:8D:5C:A8:48:98:F9:6D:66:41:00:88:12:F8:7C:C2:68:A1:05:9D:88:DC:3E:C8:83:9F:BD:81:AE:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

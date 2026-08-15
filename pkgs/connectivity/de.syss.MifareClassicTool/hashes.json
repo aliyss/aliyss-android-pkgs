@@ -1,0 +1,18 @@
+{
+  "apkName": "de.syss.MifareClassicTool_70.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HiMLJtl9EZx/gDSvCC++bMQbmalVttaZ2VHFnEVqCGw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HiMLJtl9EZx/gDSvCC++bMQbmalVttaZ2VHFnEVqCGw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HiMLJtl9EZx/gDSvCC++bMQbmalVttaZ2VHFnEVqCGw="
+    }
+  },
+  "version": "4.3.1"
+}

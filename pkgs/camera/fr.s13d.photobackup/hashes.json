@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.s13d.photobackup_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-k7yNBhSPYEAKQJYaOvv3Z3NqtoGgzLOWZY3EaHLRGao="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k7yNBhSPYEAKQJYaOvv3Z3NqtoGgzLOWZY3EaHLRGao="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k7yNBhSPYEAKQJYaOvv3Z3NqtoGgzLOWZY3EaHLRGao="
+    }
+  },
+  "version": "0.11.0"
+}

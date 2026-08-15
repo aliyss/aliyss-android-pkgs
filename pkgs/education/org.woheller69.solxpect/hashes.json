@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.solxpect_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yw2yq0PBNbKbLJxPxFirvFzAcTJ2XjbUVsTWVuDNOfc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yw2yq0PBNbKbLJxPxFirvFzAcTJ2XjbUVsTWVuDNOfc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yw2yq0PBNbKbLJxPxFirvFzAcTJ2XjbUVsTWVuDNOfc="
+    }
+  },
+  "version": "2.9"
+}

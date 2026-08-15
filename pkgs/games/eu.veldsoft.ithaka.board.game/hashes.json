@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.ithaka.board.game_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Sj+Sq9IpvBRhVl32nfYL9obsX+BoixBVZj0/wPg1Si0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Sj+Sq9IpvBRhVl32nfYL9obsX+BoixBVZj0/wPg1Si0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Sj+Sq9IpvBRhVl32nfYL9obsX+BoixBVZj0/wPg1Si0="
+    }
+  },
+  "version": "1.5.1"
+}

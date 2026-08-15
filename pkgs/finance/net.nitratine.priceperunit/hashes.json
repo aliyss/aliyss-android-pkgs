@@ -1,0 +1,18 @@
+{
+  "apkName": "net.nitratine.priceperunit_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Mx5mYvKHYgElPsE//qyDuwzgF0ZeCiZRGMeBrHaEm80="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mx5mYvKHYgElPsE//qyDuwzgF0ZeCiZRGMeBrHaEm80="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mx5mYvKHYgElPsE//qyDuwzgF0ZeCiZRGMeBrHaEm80="
+    }
+  },
+  "version": "1.8.0"
+}

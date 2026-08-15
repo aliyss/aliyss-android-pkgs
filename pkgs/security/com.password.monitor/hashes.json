@@ -1,0 +1,18 @@
+{
+  "apkName": "com.password.monitor_106.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NzDI87pSpzGgLZhj6nCUR2gdEVdNkeL1rVIjN2OHiC8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NzDI87pSpzGgLZhj6nCUR2gdEVdNkeL1rVIjN2OHiC8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NzDI87pSpzGgLZhj6nCUR2gdEVdNkeL1rVIjN2OHiC8="
+    }
+  },
+  "version": "1.0.6"
+}

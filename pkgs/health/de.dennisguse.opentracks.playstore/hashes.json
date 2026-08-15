@@ -1,0 +1,18 @@
+{
+  "apkName": "de.dennisguse.opentracks.playstore_6733.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aEXX8Op+U6W9xl1X9VcX70vdsfkwM+KfqYW+f4ebVC0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aEXX8Op+U6W9xl1X9VcX70vdsfkwM+KfqYW+f4ebVC0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aEXX8Op+U6W9xl1X9VcX70vdsfkwM+KfqYW+f4ebVC0="
+    }
+  },
+  "version": "v4.28.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "cgeo.geocaching",
+  "signerFingerprints": [
+    "3D:B1:DD:84:43:B9:6F:E9:F7:68:0E:EA:4F:7F:9D:02:34:F8:40:72:83:FF:E3:E6:A4:3A:D6:8A:DC:FD:C5:E4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

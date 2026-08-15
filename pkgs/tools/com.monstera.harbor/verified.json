@@ -1,0 +1,8 @@
+{
+  "package": "com.monstera.harbor",
+  "signerFingerprints": [
+    "1F:68:EF:BE:FD:07:EA:0C:1A:A7:D7:9D:9F:D7:20:C3:DD:A7:4A:C5:52:4D:CF:39:8E:FE:A0:D3:79:B3:49:4D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "eu.basicairdata.clinometer",
+  "signerFingerprints": [
+    "3B:0E:03:58:03:7F:F2:D0:35:CA:A8:22:93:6D:50:43:05:88:50:C1:D6:C6:31:5D:F9:76:D6:E0:99:5A:F5:4A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.logseq.app",
+  "signerFingerprints": [
+    "1B:7B:2D:35:26:21:2C:08:76:AA:8A:F5:44:01:C7:38:96:AD:A9:70:27:89:62:CC:60:81:6D:E0:02:A3:E1:03"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

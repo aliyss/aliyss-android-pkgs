@@ -1,0 +1,8 @@
+{
+  "package": "org.anonomi.android",
+  "signerFingerprints": [
+    "0C:42:C2:A2:E9:BE:88:9E:EF:2E:7D:A1:0E:8C:D9:CC:71:E6:E6:BC:0E:67:6F:C9:94:A8:06:6D:17:66:CB:8D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

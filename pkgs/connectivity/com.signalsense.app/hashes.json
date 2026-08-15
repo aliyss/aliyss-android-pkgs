@@ -1,0 +1,18 @@
+{
+  "apkName": "com.signalsense.app_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/mAk5Ph2v6oAIEBTGqOB9F6hJpCb1wiTlKG3WSRext4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/mAk5Ph2v6oAIEBTGqOB9F6hJpCb1wiTlKG3WSRext4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/mAk5Ph2v6oAIEBTGqOB9F6hJpCb1wiTlKG3WSRext4="
+    }
+  },
+  "version": "1.0.0"
+}

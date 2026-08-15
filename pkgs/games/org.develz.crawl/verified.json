@@ -1,0 +1,8 @@
+{
+  "package": "org.develz.crawl",
+  "signerFingerprints": [
+    "B1:DD:92:DF:DA:99:76:A3:39:0A:D7:65:87:67:6C:8A:29:58:43:C6:DE:DC:BA:07:AA:46:97:75:11:D6:08:27"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

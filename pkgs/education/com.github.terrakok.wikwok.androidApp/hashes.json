@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.terrakok.wikwok.androidApp_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dQgZ7inK9jiapn1+tCrJbydCSNW76YVNhdv4nwJ8Ink="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dQgZ7inK9jiapn1+tCrJbydCSNW76YVNhdv4nwJ8Ink="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dQgZ7inK9jiapn1+tCrJbydCSNW76YVNhdv4nwJ8Ink="
+    }
+  },
+  "version": "1.0.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.outerworldapps.wairtonow_50100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wN59IkBcv9OJ2fV/+DmFI/cfbeRNSPUf1E614NEUii0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wN59IkBcv9OJ2fV/+DmFI/cfbeRNSPUf1E614NEUii0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wN59IkBcv9OJ2fV/+DmFI/cfbeRNSPUf1E614NEUii0="
+    }
+  },
+  "version": "5.1"
+}

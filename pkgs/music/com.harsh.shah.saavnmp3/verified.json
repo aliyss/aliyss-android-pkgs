@@ -1,0 +1,8 @@
+{
+  "package": "com.harsh.shah.saavnmp3",
+  "signerFingerprints": [
+    "E6:56:3F:19:48:39:59:6B:67:5D:30:4E:C8:34:1C:95:C3:77:3C:02:D7:BD:97:38:1C:C7:CD:EA:DA:6B:16:A3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

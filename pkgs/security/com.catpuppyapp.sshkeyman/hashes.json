@@ -1,0 +1,18 @@
+{
+  "apkName": "com.catpuppyapp.sshkeyman_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TWFkNwGUdhuxQ5PCeYzqhDJpLx0T6GO4LZS6bAMJub4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TWFkNwGUdhuxQ5PCeYzqhDJpLx0T6GO4LZS6bAMJub4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TWFkNwGUdhuxQ5PCeYzqhDJpLx0T6GO4LZS6bAMJub4="
+    }
+  },
+  "version": "1.10"
+}

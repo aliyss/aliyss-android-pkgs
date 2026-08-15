@@ -1,0 +1,18 @@
+{
+  "apkName": "org.calyxinstitute.vpn_179000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NH3gf4X9GOr2bDHOmDOLkFAAOLUL8O4szu/UmMsfOKY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NH3gf4X9GOr2bDHOmDOLkFAAOLUL8O4szu/UmMsfOKY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NH3gf4X9GOr2bDHOmDOLkFAAOLUL8O4szu/UmMsfOKY="
+    }
+  },
+  "version": "1.5.1"
+}

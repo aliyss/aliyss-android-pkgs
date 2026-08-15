@@ -1,0 +1,8 @@
+{
+  "package": "news.androidtv.launchonboot",
+  "signerFingerprints": [
+    "60:AF:31:12:20:C2:A5:43:D1:A7:93:05:EE:00:BC:FC:B3:97:40:9E:B1:59:15:89:28:6A:C5:EE:64:2D:3A:9D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

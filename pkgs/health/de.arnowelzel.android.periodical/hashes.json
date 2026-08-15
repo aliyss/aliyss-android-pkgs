@@ -1,0 +1,18 @@
+{
+  "apkName": "de.arnowelzel.android.periodical_109.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nbLM8XWPCd6ST/zfIx9ftnRdZtr33SGqUJRs3/MBpfs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nbLM8XWPCd6ST/zfIx9ftnRdZtr33SGqUJRs3/MBpfs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nbLM8XWPCd6ST/zfIx9ftnRdZtr33SGqUJRs3/MBpfs="
+    }
+  },
+  "version": "1.96"
+}

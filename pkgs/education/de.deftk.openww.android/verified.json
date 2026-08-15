@@ -1,0 +1,8 @@
+{
+  "package": "de.deftk.openww.android",
+  "signerFingerprints": [
+    "61:35:E2:BC:0A:8C:AB:51:3C:DB:CC:49:8B:F7:2C:37:3E:EF:B2:72:A2:EC:BB:A4:CE:7D:65:78:10:F8:21:91"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

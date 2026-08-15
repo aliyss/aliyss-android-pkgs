@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.premnirmal.tickerwidget_400100002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s0na8cmH7FOaOqSRrFLP2wZ9DZHffrS7ROHVE2j5GZ4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s0na8cmH7FOaOqSRrFLP2wZ9DZHffrS7ROHVE2j5GZ4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s0na8cmH7FOaOqSRrFLP2wZ9DZHffrS7ROHVE2j5GZ4="
+    }
+  },
+  "version": "4.1.002"
+}

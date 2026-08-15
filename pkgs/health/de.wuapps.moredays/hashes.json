@@ -1,0 +1,18 @@
+{
+  "apkName": "de.wuapps.moredays_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UHtNgBjVUpR1xIWnBZwf+6NYgQLJXqDY5P4Iycts42w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UHtNgBjVUpR1xIWnBZwf+6NYgQLJXqDY5P4Iycts42w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UHtNgBjVUpR1xIWnBZwf+6NYgQLJXqDY5P4Iycts42w="
+    }
+  },
+  "version": "1.0.26"
+}

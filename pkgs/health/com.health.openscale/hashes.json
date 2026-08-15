@@ -1,0 +1,18 @@
+{
+  "apkName": "com.health.openscale_76.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s0BFloC0aRKEIDYz3EC3o28ySeLZqmvW4ZDvlFXdKEM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s0BFloC0aRKEIDYz3EC3o28ySeLZqmvW4ZDvlFXdKEM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s0BFloC0aRKEIDYz3EC3o28ySeLZqmvW4ZDvlFXdKEM="
+    }
+  },
+  "version": "3.1.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.hardbacknutter.nevertoomanybooks",
+  "signerFingerprints": [
+    "DF:97:1C:E7:D5:8D:3C:DF:37:7C:32:E0:E2:F5:3D:65:99:BD:7F:13:0A:50:C0:52:9C:45:58:3D:DC:12:A0:08"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

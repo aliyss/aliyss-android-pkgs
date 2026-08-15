@@ -1,0 +1,18 @@
+{
+  "apkName": "com.agateau.catgenerator_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0vLFrJkQjRxaMPUuTS2JAAq03nwX5y7p4nfyoCTzmL4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0vLFrJkQjRxaMPUuTS2JAAq03nwX5y7p4nfyoCTzmL4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0vLFrJkQjRxaMPUuTS2JAAq03nwX5y7p4nfyoCTzmL4="
+    }
+  },
+  "version": "0.2.1"
+}

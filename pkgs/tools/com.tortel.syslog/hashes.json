@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tortel.syslog_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n5G1T1Agbvt+yKLTMFWAMQrkN7OgCYVH4R1q0wSI9tw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n5G1T1Agbvt+yKLTMFWAMQrkN7OgCYVH4R1q0wSI9tw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n5G1T1Agbvt+yKLTMFWAMQrkN7OgCYVH4R1q0wSI9tw="
+    }
+  },
+  "version": "2.6.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.marceljurtz.lifecounter_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-G8y70ac/AAN967EqWU4ORRICXyIqbUC7Mjvz+JNtYQg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G8y70ac/AAN967EqWU4ORRICXyIqbUC7Mjvz+JNtYQg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G8y70ac/AAN967EqWU4ORRICXyIqbUC7Mjvz+JNtYQg="
+    }
+  },
+  "version": "2.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.codedead.advancedpassgen",
+  "signerFingerprints": [
+    "CB:80:BC:24:B8:BE:12:56:55:F6:D5:DB:CE:64:3D:CA:9F:79:7B:6D:F6:73:80:00:3F:4F:25:35:3D:C1:1A:83"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

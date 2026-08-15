@@ -1,0 +1,18 @@
+{
+  "apkName": "tibarj.tranquilstopwatch_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-e8MfrlzS6dgVQU2vtDf5qaL9IfTcFtmSmtxf7JYsXLc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e8MfrlzS6dgVQU2vtDf5qaL9IfTcFtmSmtxf7JYsXLc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e8MfrlzS6dgVQU2vtDf5qaL9IfTcFtmSmtxf7JYsXLc="
+    }
+  },
+  "version": "1.12.1"
+}

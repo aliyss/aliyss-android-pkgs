@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.darken.capod_50202010.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cT6WZ+j0lBdAHSDqykY/Y9I4OUs97TG/h040X/8ByyY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cT6WZ+j0lBdAHSDqykY/Y9I4OUs97TG/h040X/8ByyY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cT6WZ+j0lBdAHSDqykY/Y9I4OUs97TG/h040X/8ByyY="
+    }
+  },
+  "version": "5.2.2-rc1"
+}

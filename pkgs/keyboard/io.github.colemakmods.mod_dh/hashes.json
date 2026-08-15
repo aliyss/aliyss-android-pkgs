@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.colemakmods.mod_dh_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2GDUfqjNzX6fov9zq+p2Dk29N77Rprghe32naMSlz2M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2GDUfqjNzX6fov9zq+p2Dk29N77Rprghe32naMSlz2M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2GDUfqjNzX6fov9zq+p2Dk29N77Rprghe32naMSlz2M="
+    }
+  },
+  "version": "1.03"
+}

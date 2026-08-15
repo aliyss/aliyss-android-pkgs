@@ -1,0 +1,8 @@
+{
+  "package": "fr.gouv.etalab.mastodon",
+  "signerFingerprints": [
+    "30:60:0C:C0:D4:30:A5:BD:1C:66:C1:21:C7:5F:7F:B9:E3:0D:E9:9D:85:97:E7:09:7F:A5:D7:58:01:16:46:9A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

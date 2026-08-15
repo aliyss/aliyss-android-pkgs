@@ -1,0 +1,8 @@
+{
+  "package": "com.dosse.airpods",
+  "signerFingerprints": [
+    "17:D0:82:8F:47:5A:73:F5:8D:AF:D4:34:43:AC:19:B1:82:6F:1A:FE:CD:B7:2F:3A:66:CE:D0:4D:45:0F:57:72"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

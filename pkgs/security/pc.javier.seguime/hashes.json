@@ -1,0 +1,18 @@
+{
+  "apkName": "pc.javier.seguime_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RD0ax80KiYKrKfByU0BtBKETG+eRmyWGCMP5g4mu8rw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RD0ax80KiYKrKfByU0BtBKETG+eRmyWGCMP5g4mu8rw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RD0ax80KiYKrKfByU0BtBKETG+eRmyWGCMP5g4mu8rw="
+    }
+  },
+  "version": "5.3"
+}

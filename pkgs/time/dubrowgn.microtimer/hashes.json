@@ -1,0 +1,18 @@
+{
+  "apkName": "dubrowgn.microtimer_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SOa44dKX5wJGheiZaHvTbzMuYPSh9DsJvHjhHDMbmYo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SOa44dKX5wJGheiZaHvTbzMuYPSh9DsJvHjhHDMbmYo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SOa44dKX5wJGheiZaHvTbzMuYPSh9DsJvHjhHDMbmYo="
+    }
+  },
+  "version": "1.9"
+}

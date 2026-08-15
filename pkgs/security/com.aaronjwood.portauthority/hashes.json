@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aaronjwood.portauthority_67.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QWeRqI5aXZF62YmlMU9suQOALW1sLiP2chuI+gs/S6g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QWeRqI5aXZF62YmlMU9suQOALW1sLiP2chuI+gs/S6g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QWeRqI5aXZF62YmlMU9suQOALW1sLiP2chuI+gs/S6g="
+    }
+  },
+  "version": "2.4.5"
+}

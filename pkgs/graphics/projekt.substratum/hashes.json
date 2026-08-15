@@ -1,0 +1,18 @@
+{
+  "apkName": "projekt.substratum_1020.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ka231YQaIFTqqZsLR598cZConCUyfKB2HvueUfzDk6Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ka231YQaIFTqqZsLR598cZConCUyfKB2HvueUfzDk6Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ka231YQaIFTqqZsLR598cZConCUyfKB2HvueUfzDk6Q="
+    }
+  },
+  "version": "one thousand twenty"
+}

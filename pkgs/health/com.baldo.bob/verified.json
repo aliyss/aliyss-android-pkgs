@@ -1,0 +1,8 @@
+{
+  "package": "com.baldo.bob",
+  "signerFingerprints": [
+    "B9:98:FD:48:AD:4F:36:98:48:21:EF:2C:7D:69:BF:8C:61:CA:BA:58:0B:DF:68:4E:97:35:3A:70:FD:DC:7A:62"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

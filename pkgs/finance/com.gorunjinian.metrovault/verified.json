@@ -1,0 +1,8 @@
+{
+  "package": "com.gorunjinian.metrovault",
+  "signerFingerprints": [
+    "12:45:55:4C:EB:17:CE:A2:1E:99:12:AF:7B:F6:0D:38:D7:16:F5:88:4D:4B:36:64:E5:33:84:62:CC:76:FD:03"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

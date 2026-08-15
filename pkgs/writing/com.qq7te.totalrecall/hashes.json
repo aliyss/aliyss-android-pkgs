@@ -1,0 +1,18 @@
+{
+  "apkName": "com.qq7te.totalrecall_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TuaK+mBFE9oxZvcNGiZjmbdYJ7rLigB1aXzUvB9ZoXU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TuaK+mBFE9oxZvcNGiZjmbdYJ7rLigB1aXzUvB9ZoXU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TuaK+mBFE9oxZvcNGiZjmbdYJ7rLigB1aXzUvB9ZoXU="
+    }
+  },
+  "version": "0.9"
+}

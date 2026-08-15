@@ -1,0 +1,8 @@
+{
+  "package": "org.epstudios.epmobile",
+  "signerFingerprints": [
+    "AE:47:8C:63:D5:F3:B5:AE:D5:37:E2:D0:C7:3F:15:AA:2B:14:77:72:22:FB:92:2D:CD:99:30:E2:FD:F1:90:72"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.serwylo.babyphone_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-J4SGZqplhn8RdUOVofAKtwmDss/2kEKCxojNVwnPnkc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J4SGZqplhn8RdUOVofAKtwmDss/2kEKCxojNVwnPnkc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J4SGZqplhn8RdUOVofAKtwmDss/2kEKCxojNVwnPnkc="
+    }
+  },
+  "version": "1.3.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.tomfong.simpleqr",
+  "signerFingerprints": [
+    "E5:0C:A8:5D:7D:60:F3:5C:37:F3:1C:BF:14:FF:B8:85:58:A4:BF:B6:B8:0B:91:1D:DC:67:CD:D1:E2:E1:75:1D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

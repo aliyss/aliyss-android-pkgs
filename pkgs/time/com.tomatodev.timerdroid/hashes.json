@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tomatodev.timerdroid_1412312.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-muIi1Bu8oJMeh8wswvz8b3gXfHV3XBuUDy9NHWdX3Vg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-muIi1Bu8oJMeh8wswvz8b3gXfHV3XBuUDy9NHWdX3Vg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-muIi1Bu8oJMeh8wswvz8b3gXfHV3XBuUDy9NHWdX3Vg="
+    }
+  },
+  "version": "3.1.2"
+}

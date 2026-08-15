@@ -1,0 +1,8 @@
+{
+  "package": "net.snapdrop",
+  "signerFingerprints": [
+    "A5:FF:41:7B:E7:57:99:E8:E7:63:F6:1B:D9:01:FD:EB:82:B7:3E:B2:21:5E:2D:C9:0F:F7:FA:88:A7:58:30:AF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

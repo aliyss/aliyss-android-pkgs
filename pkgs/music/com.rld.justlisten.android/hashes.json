@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rld.justlisten.android_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PLfqHCKYEck39qah2CqgRRhs7etTpPJMEakpc4fXKpA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PLfqHCKYEck39qah2CqgRRhs7etTpPJMEakpc4fXKpA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PLfqHCKYEck39qah2CqgRRhs7etTpPJMEakpc4fXKpA="
+    }
+  },
+  "version": "2.0.3"
+}

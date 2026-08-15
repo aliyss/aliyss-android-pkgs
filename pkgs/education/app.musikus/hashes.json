@@ -1,0 +1,18 @@
+{
+  "apkName": "app.musikus_2612542.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9yfoGIHKE/9r2whge27H6dLg+Mwi2LkKpHLbikJt+tY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9yfoGIHKE/9r2whge27H6dLg+Mwi2LkKpHLbikJt+tY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9yfoGIHKE/9r2whge27H6dLg+Mwi2LkKpHLbikJt+tY="
+    }
+  },
+  "version": "0.12.0"
+}

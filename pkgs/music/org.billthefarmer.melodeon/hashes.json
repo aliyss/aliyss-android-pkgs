@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.melodeon_119.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Pgd8WP+zwFDfyJqAVTW2E3BFsIB3vmfc75w6JnawNqk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pgd8WP+zwFDfyJqAVTW2E3BFsIB3vmfc75w6JnawNqk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pgd8WP+zwFDfyJqAVTW2E3BFsIB3vmfc75w6JnawNqk="
+    }
+  },
+  "version": "1.19"
+}

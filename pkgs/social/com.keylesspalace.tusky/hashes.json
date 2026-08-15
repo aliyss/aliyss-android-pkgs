@@ -1,0 +1,18 @@
+{
+  "apkName": "com.keylesspalace.tusky_142.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Po/MSagNTDCrb2A35RQCx34mlNJ+wZrluKk80Itsr/o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Po/MSagNTDCrb2A35RQCx34mlNJ+wZrluKk80Itsr/o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Po/MSagNTDCrb2A35RQCx34mlNJ+wZrluKk80Itsr/o="
+    }
+  },
+  "version": "32.2"
+}

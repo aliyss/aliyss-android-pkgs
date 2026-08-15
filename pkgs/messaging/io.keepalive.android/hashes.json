@@ -1,0 +1,18 @@
+{
+  "apkName": "io.keepalive.android_151.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SAYh2nyHCDHLxK1IdrTMuEAAFMEFqPisSLenwwsD91A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SAYh2nyHCDHLxK1IdrTMuEAAFMEFqPisSLenwwsD91A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SAYh2nyHCDHLxK1IdrTMuEAAFMEFqPisSLenwwsD91A="
+    }
+  },
+  "version": "1.5.1"
+}

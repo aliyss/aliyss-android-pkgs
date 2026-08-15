@@ -1,0 +1,8 @@
+{
+  "package": "de.taz.android.app.free",
+  "signerFingerprints": [
+    "9D:31:0B:56:F3:F0:EA:51:0B:19:2E:A5:90:46:DD:A7:73:32:55:4B:0C:AE:BE:D8:6F:4D:2B:9F:8B:60:F1:92"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "info.spotcomms.wlanbackend_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sL29dxYCcOf60lx1hkWjM0WClfxuUjkqm4q1UPHQuXk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sL29dxYCcOf60lx1hkWjM0WClfxuUjkqm4q1UPHQuXk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sL29dxYCcOf60lx1hkWjM0WClfxuUjkqm4q1UPHQuXk="
+    }
+  },
+  "version": "2.2"
+}

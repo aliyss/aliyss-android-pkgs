@@ -1,0 +1,8 @@
+{
+  "package": "com.musicremover.app",
+  "signerFingerprints": [
+    "83:1F:AE:5D:93:0E:29:87:8C:39:F7:39:BC:CC:47:9E:0A:77:46:BB:1E:95:2E:9E:50:C9:B3:BC:75:DB:CD:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

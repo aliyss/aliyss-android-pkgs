@@ -1,0 +1,18 @@
+{
+  "apkName": "de.thefeiter.xournalviewer_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RrpQb1xYXV7vnjBX7kw78RtmR1Q3uBYP5qOQgbZpq8I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RrpQb1xYXV7vnjBX7kw78RtmR1Q3uBYP5qOQgbZpq8I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RrpQb1xYXV7vnjBX7kw78RtmR1Q3uBYP5qOQgbZpq8I="
+    }
+  },
+  "version": "1.4"
+}

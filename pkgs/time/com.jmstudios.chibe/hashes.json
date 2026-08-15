@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jmstudios.chibe_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-D7LIjSF9Tusdsd0OrzuMdoUqgvdiutGXhJ1o+qIs/Vc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D7LIjSF9Tusdsd0OrzuMdoUqgvdiutGXhJ1o+qIs/Vc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D7LIjSF9Tusdsd0OrzuMdoUqgvdiutGXhJ1o+qIs/Vc="
+    }
+  },
+  "version": "1.2.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.tjg1.nori",
+  "signerFingerprints": [
+    "AE:C0:B9:A2:D6:04:B3:08:97:DF:46:30:85:10:3C:00:3D:33:79:A1:F8:03:36:22:07:4A:C1:EC:19:A7:70:4E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

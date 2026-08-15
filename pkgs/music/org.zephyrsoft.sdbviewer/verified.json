@@ -1,0 +1,8 @@
+{
+  "package": "org.zephyrsoft.sdbviewer",
+  "signerFingerprints": [
+    "D1:6F:9B:E1:BD:F6:E8:7A:25:9A:F3:49:F6:C5:A5:3C:79:35:19:49:C6:04:87:84:94:42:DC:AB:0A:A2:84:37"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

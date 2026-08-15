@@ -1,0 +1,18 @@
+{
+  "apkName": "com.waist.line_31001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Sgu+TiFewTWFHeW2b+k1EAd0Liqu0+x1imnGXXLKKrs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Sgu+TiFewTWFHeW2b+k1EAd0Liqu0+x1imnGXXLKKrs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Sgu+TiFewTWFHeW2b+k1EAd0Liqu0+x1imnGXXLKKrs="
+    }
+  },
+  "version": "3.10.1"
+}

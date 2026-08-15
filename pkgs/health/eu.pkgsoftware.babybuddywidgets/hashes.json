@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.pkgsoftware.babybuddywidgets_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-E1fm88Vk0OCIZVbu8ULb62v1Qshnhwt2h6tp4txo65k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E1fm88Vk0OCIZVbu8ULb62v1Qshnhwt2h6tp4txo65k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E1fm88Vk0OCIZVbu8ULb62v1Qshnhwt2h6tp4txo65k="
+    }
+  },
+  "version": "2.6.4"
+}

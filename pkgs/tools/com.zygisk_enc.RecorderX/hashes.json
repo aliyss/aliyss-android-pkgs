@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zygisk_enc.RecorderX_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-D8as+/4XuUTr0nM/xj0oYWikqopcjfD1LpApr/+b9Jo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D8as+/4XuUTr0nM/xj0oYWikqopcjfD1LpApr/+b9Jo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D8as+/4XuUTr0nM/xj0oYWikqopcjfD1LpApr/+b9Jo="
+    }
+  },
+  "version": "3.0.1"
+}

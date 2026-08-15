@@ -1,0 +1,8 @@
+{
+  "package": "com.noty.app",
+  "signerFingerprints": [
+    "C1:12:91:80:4C:FF:F1:C4:DF:08:BD:52:37:92:F6:4C:84:E0:3C:27:6A:B4:77:32:D9:FC:3E:3F:62:F7:8D:92"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

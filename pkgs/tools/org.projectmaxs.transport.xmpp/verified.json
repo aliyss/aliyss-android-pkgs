@@ -1,0 +1,8 @@
+{
+  "package": "org.projectmaxs.transport.xmpp",
+  "signerFingerprints": [
+    "DD:8E:93:C2:D2:53:AD:A0:EE:88:AE:8F:60:2D:0F:A0:0A:BA:A2:EA:1B:D5:14:6F:FF:AE:10:CE:8B:1D:61:62"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

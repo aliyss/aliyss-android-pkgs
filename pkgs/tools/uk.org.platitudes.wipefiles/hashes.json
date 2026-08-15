@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.org.platitudes.wipefiles_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+D1cJdlPaQ/ekepee9z+llOafrqOn//pAvo9GuJMoao="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+D1cJdlPaQ/ekepee9z+llOafrqOn//pAvo9GuJMoao="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+D1cJdlPaQ/ekepee9z+llOafrqOn//pAvo9GuJMoao="
+    }
+  },
+  "version": "0.3"
+}

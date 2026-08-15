@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dessalines.thumbkey_186.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FbPGHZZDOjA9ucHhibwglMMrEvjyF36NVMKidKRWNnQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FbPGHZZDOjA9ucHhibwglMMrEvjyF36NVMKidKRWNnQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FbPGHZZDOjA9ucHhibwglMMrEvjyF36NVMKidKRWNnQ="
+    }
+  },
+  "version": "5.1.16"
+}

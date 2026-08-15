@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.deweyreed.clipboardcleaner_181.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-q8G/nYbJO4NMeIZd9cZdbvxtqS0FiFUqUZaCaQuS8nA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q8G/nYbJO4NMeIZd9cZdbvxtqS0FiFUqUZaCaQuS8nA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q8G/nYbJO4NMeIZd9cZdbvxtqS0FiFUqUZaCaQuS8nA="
+    }
+  },
+  "version": "1.8.1"
+}

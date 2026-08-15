@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mskd.flux_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-f2z01UFNU1vMpdpuu+RH/y5BQXM6hS6c2lY7OkTjZRE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f2z01UFNU1vMpdpuu+RH/y5BQXM6hS6c2lY7OkTjZRE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f2z01UFNU1vMpdpuu+RH/y5BQXM6hS6c2lY7OkTjZRE="
+    }
+  },
+  "version": "1.7.0"
+}

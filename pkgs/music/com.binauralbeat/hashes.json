@@ -1,0 +1,18 @@
+{
+  "apkName": "com.binauralbeat_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-f9Y+YUMjW5Lykr0oXJFx6Co6No+QiZI7PXJ4E+JGH/g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f9Y+YUMjW5Lykr0oXJFx6Co6No+QiZI7PXJ4E+JGH/g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f9Y+YUMjW5Lykr0oXJFx6Co6No+QiZI7PXJ4E+JGH/g="
+    }
+  },
+  "version": "1.1"
+}

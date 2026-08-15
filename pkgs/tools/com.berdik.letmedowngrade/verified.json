@@ -1,0 +1,8 @@
+{
+  "package": "com.berdik.letmedowngrade",
+  "signerFingerprints": [
+    "08:F7:53:2B:28:A6:E8:FD:73:0A:02:E4:83:DD:11:19:3F:45:D0:58:AA:49:51:23:B0:AF:EC:80:CB:5D:F9:3B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

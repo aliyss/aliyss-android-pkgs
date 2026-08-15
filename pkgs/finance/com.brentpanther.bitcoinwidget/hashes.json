@@ -1,0 +1,18 @@
+{
+  "apkName": "com.brentpanther.bitcoinwidget_347.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1ZvFm/DHE/GFpqg4wd+1+Ng7381xDTUBXp5LBW/VnNo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1ZvFm/DHE/GFpqg4wd+1+Ng7381xDTUBXp5LBW/VnNo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1ZvFm/DHE/GFpqg4wd+1+Ng7381xDTUBXp5LBW/VnNo="
+    }
+  },
+  "version": "8.8.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.gitlab.danielrparks.vibrato",
+  "signerFingerprints": [
+    "35:03:79:5E:5B:BB:52:98:CF:29:7F:73:2D:74:28:07:52:0F:A9:D1:C7:6E:3F:0C:11:1E:C8:11:B5:03:28:DB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

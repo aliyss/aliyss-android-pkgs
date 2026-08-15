@@ -1,0 +1,8 @@
+{
+  "package": "space.irex.mobile",
+  "signerFingerprints": [
+    "B7:64:C3:8B:0C:BC:E6:6F:83:6F:A6:F4:0E:B5:FD:7B:B9:B0:40:31:68:DB:98:27:D4:F1:F6:DB:89:6E:16:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

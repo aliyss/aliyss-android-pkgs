@@ -1,0 +1,8 @@
+{
+  "package": "de.mintux.kueaplan",
+  "signerFingerprints": [
+    "DF:2A:8E:28:03:FF:F7:ED:39:3E:7E:39:AB:1C:56:F0:61:55:03:93:F9:17:04:C0:68:38:6D:7A:A6:3E:51:FF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

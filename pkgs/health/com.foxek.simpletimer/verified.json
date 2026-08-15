@@ -1,0 +1,8 @@
+{
+  "package": "com.foxek.simpletimer",
+  "signerFingerprints": [
+    "CC:74:10:FF:68:04:CA:85:98:04:F2:F7:B0:BB:9A:8E:F3:71:B5:B2:04:7B:E0:57:57:3E:AC:49:9A:52:06:CC"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

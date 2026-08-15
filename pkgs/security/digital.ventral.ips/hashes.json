@@ -1,0 +1,18 @@
+{
+  "apkName": "digital.ventral.ips_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-It0CJ3YsZj3js0g6taH25EnpLM+3HS88oPJb2NMO6fg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-It0CJ3YsZj3js0g6taH25EnpLM+3HS88oPJb2NMO6fg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-It0CJ3YsZj3js0g6taH25EnpLM+3HS88oPJb2NMO6fg="
+    }
+  },
+  "version": "1.2"
+}

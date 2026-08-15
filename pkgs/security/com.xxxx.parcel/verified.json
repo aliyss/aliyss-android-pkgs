@@ -1,0 +1,8 @@
+{
+  "package": "com.xxxx.parcel",
+  "signerFingerprints": [
+    "ED:59:AA:C2:99:80:63:99:67:BC:8C:AF:25:8F:DC:74:31:87:C0:7D:0B:D5:F0:63:E0:BE:1B:F8:A7:F4:0D:B5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.gitlab.coolreader_ng.lxreader.fdroid_80600.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OV/8wF/qe30J7XFb1Pbt4N4Y4BBbhh9nzE7+NwSQldc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OV/8wF/qe30J7XFb1Pbt4N4Y4BBbhh9nzE7+NwSQldc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OV/8wF/qe30J7XFb1Pbt4N4Y4BBbhh9nzE7+NwSQldc="
+    }
+  },
+  "version": "0.8.6 (fdroid)"
+}

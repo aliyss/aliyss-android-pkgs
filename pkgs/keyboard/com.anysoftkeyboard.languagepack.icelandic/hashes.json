@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.icelandic_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B7tRHwTb6ythlEnM2a6aaPIRytLriFjFwmXZ/zh/i8A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B7tRHwTb6ythlEnM2a6aaPIRytLriFjFwmXZ/zh/i8A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B7tRHwTb6ythlEnM2a6aaPIRytLriFjFwmXZ/zh/i8A="
+    }
+  },
+  "version": "5.1.6158"
+}

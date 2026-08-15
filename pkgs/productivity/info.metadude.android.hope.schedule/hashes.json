@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.hope.schedule_121.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Gbx423b6oFKmj/iMdgQxgklztpFJnFTfohQThVqlNkc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gbx423b6oFKmj/iMdgQxgklztpFJnFTfohQThVqlNkc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gbx423b6oFKmj/iMdgQxgklztpFJnFTfohQThVqlNkc="
+    }
+  },
+  "version": "1.77.1-HOPE-Edition"
+}

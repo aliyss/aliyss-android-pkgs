@@ -1,0 +1,8 @@
+{
+  "package": "io.github.hufrea.keysh",
+  "signerFingerprints": [
+    "72:45:BE:9F:61:DE:69:6A:DC:65:83:91:62:75:A9:E7:B0:92:0E:C5:86:F8:83:B0:98:15:70:36:70:83:78:53"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

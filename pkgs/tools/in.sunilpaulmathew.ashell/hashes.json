@@ -1,0 +1,18 @@
+{
+  "apkName": "in.sunilpaulmathew.ashell_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-z1J2nSfcTnFdv87X4vP85SyrCdoGRbyoP/yMZoYHJvQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z1J2nSfcTnFdv87X4vP85SyrCdoGRbyoP/yMZoYHJvQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z1J2nSfcTnFdv87X4vP85SyrCdoGRbyoP/yMZoYHJvQ="
+    }
+  },
+  "version": "v0.28"
+}

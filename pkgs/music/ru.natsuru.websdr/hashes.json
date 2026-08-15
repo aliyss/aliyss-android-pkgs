@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.natsuru.websdr_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vTv4cE4sB57Gz+9gXGlVJhLywondWQOYUgLeeFa+JhQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vTv4cE4sB57Gz+9gXGlVJhLywondWQOYUgLeeFa+JhQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vTv4cE4sB57Gz+9gXGlVJhLywondWQOYUgLeeFa+JhQ="
+    }
+  },
+  "version": "1.8.11"
+}

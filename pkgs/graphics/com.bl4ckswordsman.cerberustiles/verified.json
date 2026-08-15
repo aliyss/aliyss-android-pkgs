@@ -1,0 +1,8 @@
+{
+  "package": "com.bl4ckswordsman.cerberustiles",
+  "signerFingerprints": [
+    "D4:14:23:D8:61:4D:7B:B1:AF:B8:AC:13:FB:B9:AF:BD:42:FA:91:EB:36:3B:B5:4F:CC:12:DC:7C:C1:13:A8:A3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "one.oktw.muzeipixivsource_75.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7JK+cVtzj3HMjYDwNqE4Ord4kF6SF5p6xoKjZPYcUVk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7JK+cVtzj3HMjYDwNqE4Ord4kF6SF5p6xoKjZPYcUVk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7JK+cVtzj3HMjYDwNqE4Ord4kF6SF5p6xoKjZPYcUVk="
+    }
+  },
+  "version": "2.11.6-beta1"
+}

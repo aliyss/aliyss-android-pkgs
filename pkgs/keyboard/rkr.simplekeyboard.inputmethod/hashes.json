@@ -1,0 +1,18 @@
+{
+  "apkName": "rkr.simplekeyboard.inputmethod_146.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FyKQ7vkIZeAEADJaQw6iv+iznnUVFS5bvcztv1ZrIDE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FyKQ7vkIZeAEADJaQw6iv+iznnUVFS5bvcztv1ZrIDE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FyKQ7vkIZeAEADJaQw6iv+iznnUVFS5bvcztv1ZrIDE="
+    }
+  },
+  "version": "6.5"
+}

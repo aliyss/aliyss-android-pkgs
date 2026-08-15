@@ -1,0 +1,8 @@
+{
+  "package": "ski.wischnew.shield",
+  "signerFingerprints": [
+    "28:2E:3A:0A:B4:09:5B:4F:4B:6A:32:41:44:DE:95:29:7E:BA:2E:3B:DA:48:A2:76:E5:8C:D2:D9:31:FF:65:B0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

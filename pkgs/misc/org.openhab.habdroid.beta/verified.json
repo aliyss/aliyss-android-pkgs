@@ -1,0 +1,8 @@
+{
+  "package": "org.openhab.habdroid.beta",
+  "signerFingerprints": [
+    "34:A2:F6:CB:D5:25:C8:88:7A:25:4D:45:94:F6:43:23:68:EB:C2:CE:E4:51:D2:1E:4F:26:82:50:32:EF:A6:E6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

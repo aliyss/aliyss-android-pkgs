@@ -1,0 +1,18 @@
+{
+  "apkName": "at.h4x.amsprung_108.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-y91QZ2vAJwZm3rCnijbjol6OUErwkcCf8VGtlxTf7SQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y91QZ2vAJwZm3rCnijbjol6OUErwkcCf8VGtlxTf7SQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y91QZ2vAJwZm3rCnijbjol6OUErwkcCf8VGtlxTf7SQ="
+    }
+  },
+  "version": "0.1.8"
+}

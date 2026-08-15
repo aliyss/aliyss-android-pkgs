@@ -1,0 +1,8 @@
+{
+  "package": "de.flyingsnail.ipv6droid",
+  "signerFingerprints": [
+    "95:F3:A9:A9:0B:98:38:64:64:BB:1B:D1:77:9A:53:16:00:1D:57:5E:84:6B:72:7A:12:B5:7F:9D:C4:15:7B:98"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

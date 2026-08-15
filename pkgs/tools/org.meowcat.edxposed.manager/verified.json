@@ -1,0 +1,8 @@
+{
+  "package": "org.meowcat.edxposed.manager",
+  "signerFingerprints": [
+    "93:D2:92:E6:10:77:A5:AE:6A:DB:62:25:F6:D9:14:40:CB:C0:14:B9:7F:69:C2:08:EB:09:05:01:EE:C1:AD:D0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

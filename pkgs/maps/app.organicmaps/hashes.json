@@ -1,0 +1,18 @@
+{
+  "apkName": "app.organicmaps_26072306.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-24yl7C4qh5RwyP02pGqDoEyTpwSI5GuIHZYivxQgwyk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-24yl7C4qh5RwyP02pGqDoEyTpwSI5GuIHZYivxQgwyk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-24yl7C4qh5RwyP02pGqDoEyTpwSI5GuIHZYivxQgwyk="
+    }
+  },
+  "version": "2026.07.23-6-FDroid"
+}

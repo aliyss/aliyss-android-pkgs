@@ -1,0 +1,18 @@
+{
+  "apkName": "ua.gardenapple.trylbry_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MwMZauFUP0e/qD7d2JAumrFYzFPXdvVLJs7skS7LQFI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MwMZauFUP0e/qD7d2JAumrFYzFPXdvVLJs7skS7LQFI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MwMZauFUP0e/qD7d2JAumrFYzFPXdvVLJs7skS7LQFI="
+    }
+  },
+  "version": "1.1.2"
+}

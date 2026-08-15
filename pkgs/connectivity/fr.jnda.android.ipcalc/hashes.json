@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.jnda.android.ipcalc_1762985142.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PRofQEBBqSc1xnpglxWsJEBDUIbzA+l0tCyytg6fNw4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PRofQEBBqSc1xnpglxWsJEBDUIbzA+l0tCyytg6fNw4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PRofQEBBqSc1xnpglxWsJEBDUIbzA+l0tCyytg6fNw4="
+    }
+  },
+  "version": "3.2"
+}

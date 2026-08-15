@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gorunjinian.metrovault_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Bx0+GiSTuPFw7zruoruUkaaAB6axRQFBIy3ooEzRLZA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Bx0+GiSTuPFw7zruoruUkaaAB6axRQFBIy3ooEzRLZA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Bx0+GiSTuPFw7zruoruUkaaAB6axRQFBIy3ooEzRLZA="
+    }
+  },
+  "version": "3.9.0"
+}

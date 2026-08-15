@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.datenspuren.schedule_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qevstESfPZnl943DKKh0xRfW+muhMxUF8c02LNmmaSk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qevstESfPZnl943DKKh0xRfW+muhMxUF8c02LNmmaSk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qevstESfPZnl943DKKh0xRfW+muhMxUF8c02LNmmaSk="
+    }
+  },
+  "version": "1.72.0-Datenspuren-Edition"
+}

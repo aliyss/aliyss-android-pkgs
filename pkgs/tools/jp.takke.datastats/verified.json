@@ -1,0 +1,8 @@
+{
+  "package": "jp.takke.datastats",
+  "signerFingerprints": [
+    "48:DC:84:F6:09:3C:47:5D:2D:4A:8A:71:57:DA:C0:81:57:B7:91:1E:4B:65:73:65:48:92:53:E9:04:1A:B7:FC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

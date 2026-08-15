@@ -1,0 +1,18 @@
+{
+  "apkName": "org.purple.smoke_20240625.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OeVWjwRC0nsQTSwBYGL+5h5mr9EnoxBLlMf4s0Qb5WE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OeVWjwRC0nsQTSwBYGL+5h5mr9EnoxBLlMf4s0Qb5WE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OeVWjwRC0nsQTSwBYGL+5h5mr9EnoxBLlMf4s0Qb5WE="
+    }
+  },
+  "version": "2024.06.25"
+}

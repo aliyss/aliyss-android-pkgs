@@ -1,0 +1,18 @@
+{
+  "apkName": "gal.sli.singal_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YWqbUg8R1QEASnjnqlZNi4k0QnjanRZNxydqHQMAsec="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YWqbUg8R1QEASnjnqlZNi4k0QnjanRZNxydqHQMAsec="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YWqbUg8R1QEASnjnqlZNi4k0QnjanRZNxydqHQMAsec="
+    }
+  },
+  "version": "2.1"
+}

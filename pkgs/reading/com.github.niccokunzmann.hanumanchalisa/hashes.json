@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.niccokunzmann.hanumanchalisa_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LjpTrw3jS4msnHfCvycJKAwisZtNqzhAdHd/aIKhbZY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LjpTrw3jS4msnHfCvycJKAwisZtNqzhAdHd/aIKhbZY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LjpTrw3jS4msnHfCvycJKAwisZtNqzhAdHd/aIKhbZY="
+    }
+  },
+  "version": "1.8"
+}

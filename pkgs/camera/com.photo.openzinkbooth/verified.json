@@ -1,0 +1,8 @@
+{
+  "package": "com.photo.openzinkbooth",
+  "signerFingerprints": [
+    "D6:AC:28:99:C1:B6:FE:FE:AB:D7:97:58:A0:20:60:F6:DA:1A:C4:FC:32:B9:2E:A4:4D:A6:AB:5D:CB:A6:67:DE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

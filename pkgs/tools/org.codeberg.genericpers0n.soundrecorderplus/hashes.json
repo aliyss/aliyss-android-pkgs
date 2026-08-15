@@ -1,0 +1,18 @@
+{
+  "apkName": "org.codeberg.genericpers0n.soundrecorderplus_111.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yPZqsuOybcKzIs0QS5Q/FRBB/tSQKKT19PbXpMH3UTc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yPZqsuOybcKzIs0QS5Q/FRBB/tSQKKT19PbXpMH3UTc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yPZqsuOybcKzIs0QS5Q/FRBB/tSQKKT19PbXpMH3UTc="
+    }
+  },
+  "version": "1.1.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.nellessen.usercontrolleddecryptionoperations_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zfOZUF9K8G7R1ROHfRyN4vDD7ooCFllK/6lK6yugKcc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zfOZUF9K8G7R1ROHfRyN4vDD7ooCFllK/6lK6yugKcc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zfOZUF9K8G7R1ROHfRyN4vDD7ooCFllK/6lK6yugKcc="
+    }
+  },
+  "version": "0.1.5"
+}

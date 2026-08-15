@@ -1,0 +1,18 @@
+{
+  "apkName": "org.gdroid.gdroid_21000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dJtwSzi8dPlg7HOMxCO6VYmEhANkVQckcy6A00ncPz8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dJtwSzi8dPlg7HOMxCO6VYmEhANkVQckcy6A00ncPz8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dJtwSzi8dPlg7HOMxCO6VYmEhANkVQckcy6A00ncPz8="
+    }
+  },
+  "version": "0.21.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.droidtr.keyboard_66.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eFxvhlyS3CP5BXTFjY8CrLkuK+biVgYh9prWTCvEydg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eFxvhlyS3CP5BXTFjY8CrLkuK+biVgYh9prWTCvEydg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eFxvhlyS3CP5BXTFjY8CrLkuK+biVgYh9prWTCvEydg="
+    }
+  },
+  "version": "7.7.3"
+}

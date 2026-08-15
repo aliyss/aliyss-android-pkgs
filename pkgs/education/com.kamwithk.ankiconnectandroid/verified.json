@@ -1,0 +1,8 @@
+{
+  "package": "com.kamwithk.ankiconnectandroid",
+  "signerFingerprints": [
+    "0D:95:A2:1C:C3:2A:64:BD:AD:FB:C5:EF:8F:7A:BF:57:DB:D7:C3:BC:22:65:F3:13:31:D0:C9:19:E5:F4:9F:D4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

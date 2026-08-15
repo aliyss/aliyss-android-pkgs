@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rocket9labs.boxcars_104090.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Edl65mnZfokwJqxfxUSf5EdvWsc2O/i9ou8Pef3jrG8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Edl65mnZfokwJqxfxUSf5EdvWsc2O/i9ou8Pef3jrG8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Edl65mnZfokwJqxfxUSf5EdvWsc2O/i9ou8Pef3jrG8="
+    }
+  },
+  "version": "1.4.9"
+}

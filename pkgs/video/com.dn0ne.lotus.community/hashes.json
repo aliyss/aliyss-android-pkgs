@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dn0ne.lotus.community_1008003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9ujcQXWrZSiAffULDwvlHfx5bqg8i95sByJCvcrS4lA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9ujcQXWrZSiAffULDwvlHfx5bqg8i95sByJCvcrS4lA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9ujcQXWrZSiAffULDwvlHfx5bqg8i95sByJCvcrS4lA="
+    }
+  },
+  "version": "1.8.3-community"
+}

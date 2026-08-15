@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.trivialloop.scorehub_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xUc48E+sCxS+9jdhr2r1ITWXLD+49RZ/n1bKL0RPOeE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xUc48E+sCxS+9jdhr2r1ITWXLD+49RZ/n1bKL0RPOeE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xUc48E+sCxS+9jdhr2r1ITWXLD+49RZ/n1bKL0RPOeE="
+    }
+  },
+  "version": "1.13.3"
+}

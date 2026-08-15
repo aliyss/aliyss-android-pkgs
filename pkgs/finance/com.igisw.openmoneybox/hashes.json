@@ -1,0 +1,18 @@
+{
+  "apkName": "com.igisw.openmoneybox_71.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yQmYDfC3xSOVpstJCg+aAiacZvlD1GQZPmy2/XdPs44="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yQmYDfC3xSOVpstJCg+aAiacZvlD1GQZPmy2/XdPs44="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yQmYDfC3xSOVpstJCg+aAiacZvlD1GQZPmy2/XdPs44="
+    }
+  },
+  "version": "3.5.1.13"
+}

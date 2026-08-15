@@ -1,0 +1,8 @@
+{
+  "package": "io.oversec.one",
+  "signerFingerprints": [
+    "0E:2B:54:03:E8:9E:93:34:21:1F:88:40:F2:64:69:97:B8:AE:8D:67:96:9D:E1:9B:0E:DF:95:9A:F9:E5:D6:C8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

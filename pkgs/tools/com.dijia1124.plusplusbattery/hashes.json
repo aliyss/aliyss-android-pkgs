@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dijia1124.plusplusbattery_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wzw3F6wzn2DfSFfoCy8UOGyFSqFQqP2xVbn5l6QALwo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wzw3F6wzn2DfSFfoCy8UOGyFSqFQqP2xVbn5l6QALwo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wzw3F6wzn2DfSFfoCy8UOGyFSqFQqP2xVbn5l6QALwo="
+    }
+  },
+  "version": "2.3.7"
+}

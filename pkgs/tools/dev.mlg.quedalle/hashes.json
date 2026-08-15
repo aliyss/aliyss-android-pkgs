@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.mlg.quedalle_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Lp/q0aqRsO1I5zPbhk0br1nINvDinzWP2vqS5zID5S8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lp/q0aqRsO1I5zPbhk0br1nINvDinzWP2vqS5zID5S8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Lp/q0aqRsO1I5zPbhk0br1nINvDinzWP2vqS5zID5S8="
+    }
+  },
+  "version": "2.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.thomaskuenneth.benice_153.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-w2YVNV4fQO+ZvTMyDl0HBXQvVi6/1RIqbITTnT9V9rU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w2YVNV4fQO+ZvTMyDl0HBXQvVi6/1RIqbITTnT9V9rU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w2YVNV4fQO+ZvTMyDl0HBXQvVi6/1RIqbITTnT9V9rU="
+    }
+  },
+  "version": "2.1.11"
+}

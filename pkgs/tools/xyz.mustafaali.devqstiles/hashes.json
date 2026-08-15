@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.mustafaali.devqstiles_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-o9V5OzKFo/TR4TMq9khSPH6tQRoxjavnUiYys2k54Jk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o9V5OzKFo/TR4TMq9khSPH6tQRoxjavnUiYys2k54Jk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o9V5OzKFo/TR4TMq9khSPH6tQRoxjavnUiYys2k54Jk="
+    }
+  },
+  "version": "1.1.0"
+}

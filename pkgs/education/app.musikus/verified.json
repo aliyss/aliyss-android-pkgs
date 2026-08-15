@@ -1,0 +1,8 @@
+{
+  "package": "app.musikus",
+  "signerFingerprints": [
+    "8E:17:D2:A3:18:58:5F:42:63:E0:85:2D:AF:C4:7D:53:91:AD:B4:DF:A7:31:BA:21:98:A5:D0:DC:AC:B6:00:C0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

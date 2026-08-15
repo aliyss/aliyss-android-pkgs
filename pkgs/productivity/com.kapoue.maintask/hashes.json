@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kapoue.maintask_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+VJIOBc+4nyaWuSUhP/3Ny5KV1wpoR7QjPRlEhsnu+0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+VJIOBc+4nyaWuSUhP/3Ny5KV1wpoR7QjPRlEhsnu+0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+VJIOBc+4nyaWuSUhP/3Ny5KV1wpoR7QjPRlEhsnu+0="
+    }
+  },
+  "version": "3.15.1"
+}

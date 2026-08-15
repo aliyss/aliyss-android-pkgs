@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.digitale_gesellschaft.winterkongress.schedule_118.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UlXcHDLEaIr+xTAWTVvMYuUYnScX6R95lSy3436ATuI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UlXcHDLEaIr+xTAWTVvMYuUYnScX6R95lSy3436ATuI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UlXcHDLEaIr+xTAWTVvMYuUYnScX6R95lSy3436ATuI="
+    }
+  },
+  "version": "1.0.3-DGWK-Edition"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.shirakumo.ocelot_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7gzP8//E+RQE8yxTlPHpOn+EtMhOaLGhyromVY9xl0E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7gzP8//E+RQE8yxTlPHpOn+EtMhOaLGhyromVY9xl0E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7gzP8//E+RQE8yxTlPHpOn+EtMhOaLGhyromVY9xl0E="
+    }
+  },
+  "version": "0.6"
+}

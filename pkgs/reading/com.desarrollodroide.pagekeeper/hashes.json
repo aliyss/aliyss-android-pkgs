@@ -1,0 +1,18 @@
+{
+  "apkName": "com.desarrollodroide.pagekeeper_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KS37JAFOv7rDkE1Reab7Y9z8zLpdfwH08sqWd9wTNmk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KS37JAFOv7rDkE1Reab7Y9z8zLpdfwH08sqWd9wTNmk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KS37JAFOv7rDkE1Reab7Y9z8zLpdfwH08sqWd9wTNmk="
+    }
+  },
+  "version": "1.51.01"
+}

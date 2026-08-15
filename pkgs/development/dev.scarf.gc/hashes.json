@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.scarf.gc_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+7zwNFPUhxgy/Uvz3oS1Vi+J9gpIkwm6ag13pjku8fw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+7zwNFPUhxgy/Uvz3oS1Vi+J9gpIkwm6ag13pjku8fw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+7zwNFPUhxgy/Uvz3oS1Vi+J9gpIkwm6ag13pjku8fw="
+    }
+  },
+  "version": "1.0.2"
+}

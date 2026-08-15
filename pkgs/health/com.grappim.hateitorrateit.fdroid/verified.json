@@ -1,0 +1,8 @@
+{
+  "package": "com.grappim.hateitorrateit.fdroid",
+  "signerFingerprints": [
+    "84:EF:A8:2B:2C:2A:84:E0:FC:15:4A:36:C8:B6:7F:90:1A:9A:70:D1:01:8D:75:C1:1C:D5:96:62:02:11:05:D4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

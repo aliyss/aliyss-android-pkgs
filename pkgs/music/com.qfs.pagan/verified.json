@@ -1,0 +1,8 @@
+{
+  "package": "com.qfs.pagan",
+  "signerFingerprints": [
+    "E9:D5:69:C5:3B:2F:AB:C5:32:56:A8:68:E0:8E:45:F4:BF:A8:67:13:72:34:FD:A9:FC:5A:77:7F:47:B4:00:9F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

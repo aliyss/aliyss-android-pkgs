@@ -1,0 +1,8 @@
+{
+  "package": "app.tice.TICE.production",
+  "signerFingerprints": [
+    "89:04:CB:A4:44:5F:47:17:EC:6C:2D:E8:AE:D8:BB:F7:13:41:87:75:95:5C:C7:83:E2:A9:ED:FF:9A:DB:39:AE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

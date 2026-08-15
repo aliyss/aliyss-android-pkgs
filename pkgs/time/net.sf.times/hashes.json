@@ -1,0 +1,18 @@
+{
+  "apkName": "net.sf.times_1501.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-byV94T0/+w5y9dcD9ldf1SxuPmGZXFd3wMXIX2mTWRM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-byV94T0/+w5y9dcD9ldf1SxuPmGZXFd3wMXIX2mTWRM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-byV94T0/+w5y9dcD9ldf1SxuPmGZXFd3wMXIX2mTWRM="
+    }
+  },
+  "version": "15.01"
+}

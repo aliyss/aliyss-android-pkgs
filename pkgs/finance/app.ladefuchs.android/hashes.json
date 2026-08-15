@@ -1,0 +1,18 @@
+{
+  "apkName": "app.ladefuchs.android_365.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Dw3EV3pFcPD3TF0ToYz1lolH9vMnNQJ/+z24nq/b+no="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dw3EV3pFcPD3TF0ToYz1lolH9vMnNQJ/+z24nq/b+no="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dw3EV3pFcPD3TF0ToYz1lolH9vMnNQJ/+z24nq/b+no="
+    }
+  },
+  "version": "3.5.5"
+}

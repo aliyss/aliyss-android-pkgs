@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lubenard.oring_reminder_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-G5FDu69R1L3sUgKhb+heXuli8BG3P6w44rBp1fMUSz4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G5FDu69R1L3sUgKhb+heXuli8BG3P6w44rBp1fMUSz4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G5FDu69R1L3sUgKhb+heXuli8BG3P6w44rBp1fMUSz4="
+    }
+  },
+  "version": "2.0.4"
+}

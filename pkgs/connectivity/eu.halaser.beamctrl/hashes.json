@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.halaser.beamctrl_103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-98u0k8DcO8MH5Qe/wKl2bLgIginwDvcnCI3TTh7CqiE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-98u0k8DcO8MH5Qe/wKl2bLgIginwDvcnCI3TTh7CqiE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-98u0k8DcO8MH5Qe/wKl2bLgIginwDvcnCI3TTh7CqiE="
+    }
+  },
+  "version": "1.03"
+}

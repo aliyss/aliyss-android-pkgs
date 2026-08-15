@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.zwander.peertuberedirect_44.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aq/UT3cwr8FfnRO1xcBdg8vqZRovHqC6jzC3rZ7yF00="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aq/UT3cwr8FfnRO1xcBdg8vqZRovHqC6jzC3rZ7yF00="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aq/UT3cwr8FfnRO1xcBdg8vqZRovHqC6jzC3rZ7yF00="
+    }
+  },
+  "version": "1.15.1"
+}

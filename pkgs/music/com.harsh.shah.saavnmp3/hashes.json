@@ -1,0 +1,18 @@
+{
+  "apkName": "com.harsh.shah.saavnmp3_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ChC9DQoqlz6dzJU7kocU2GE6Xk9tYNljzy0ltdiSMxs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ChC9DQoqlz6dzJU7kocU2GE6Xk9tYNljzy0ltdiSMxs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ChC9DQoqlz6dzJU7kocU2GE6Xk9tYNljzy0ltdiSMxs="
+    }
+  },
+  "version": "1.0.18"
+}

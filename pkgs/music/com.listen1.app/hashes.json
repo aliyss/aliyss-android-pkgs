@@ -1,0 +1,18 @@
+{
+  "apkName": "com.listen1.app_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+PLOItPb3G2mbd1zpXGCWz9biTg0w/NqHRmm1LogCCA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+PLOItPb3G2mbd1zpXGCWz9biTg0w/NqHRmm1LogCCA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+PLOItPb3G2mbd1zpXGCWz9biTg0w/NqHRmm1LogCCA="
+    }
+  },
+  "version": "0.8.1"
+}

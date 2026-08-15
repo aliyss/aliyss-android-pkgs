@@ -1,0 +1,8 @@
+{
+  "package": "se.tube42.p9.android",
+  "signerFingerprints": [
+    "38:FF:69:A9:BF:C7:25:FC:D7:97:1D:32:03:C2:85:B0:60:F1:E7:A8:3D:66:EE:5C:2A:00:A8:41:B0:8E:9E:ED"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

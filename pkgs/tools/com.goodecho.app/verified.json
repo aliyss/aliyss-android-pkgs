@@ -1,0 +1,8 @@
+{
+  "package": "com.goodecho.app",
+  "signerFingerprints": [
+    "10:02:31:19:86:76:E5:83:A1:95:58:08:8E:14:4D:2E:57:F5:E8:3F:8B:41:5A:55:56:D6:56:1F:3C:9C:68:BF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

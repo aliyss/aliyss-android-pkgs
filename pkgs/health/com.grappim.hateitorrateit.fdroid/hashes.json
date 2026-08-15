@@ -1,0 +1,18 @@
+{
+  "apkName": "com.grappim.hateitorrateit.fdroid_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VPcf4nudaog/ots2KQDfIxMUSaSMjqSYi4g3jcTo40s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VPcf4nudaog/ots2KQDfIxMUSaSMjqSYi4g3jcTo40s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VPcf4nudaog/ots2KQDfIxMUSaSMjqSYi4g3jcTo40s="
+    }
+  },
+  "version": "1.5.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.nerdoftheherd.tasker.rsync",
+  "signerFingerprints": [
+    "5A:90:EA:5D:6C:26:6B:01:2A:15:CE:23:2B:6A:6A:F6:75:0E:F6:12:09:1E:AA:41:B0:EC:70:AC:45:9C:67:A6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.piapps.flashcardpro_37.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0PEon0iZqGMQAmsPUeX4jTDDVbQIcEoi/7vAYUU6mYA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0PEon0iZqGMQAmsPUeX4jTDDVbQIcEoi/7vAYUU6mYA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0PEon0iZqGMQAmsPUeX4jTDDVbQIcEoi/7vAYUU6mYA="
+    }
+  },
+  "version": "v0.3.7"
+}

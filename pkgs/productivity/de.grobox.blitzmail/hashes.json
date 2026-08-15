@@ -1,0 +1,18 @@
+{
+  "apkName": "de.grobox.blitzmail_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nISq6cuivp2V3YNqFRxoIc7dzl0UjraQwTAAahNQSzk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nISq6cuivp2V3YNqFRxoIc7dzl0UjraQwTAAahNQSzk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nISq6cuivp2V3YNqFRxoIc7dzl0UjraQwTAAahNQSzk="
+    }
+  },
+  "version": "0.7.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "app.weatheroverview",
+  "signerFingerprints": [
+    "1C:1E:12:C4:17:40:E9:D1:1E:02:23:F2:1C:FE:DE:9D:38:A0:71:36:AF:30:65:51:EA:5B:3C:24:39:63:12:F2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

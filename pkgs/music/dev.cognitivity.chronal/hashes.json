@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.cognitivity.chronal_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HQlj8kaYieMCCyI/YESPrLrK2twjBqEM6vHnGo7s810="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HQlj8kaYieMCCyI/YESPrLrK2twjBqEM6vHnGo7s810="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HQlj8kaYieMCCyI/YESPrLrK2twjBqEM6vHnGo7s810="
+    }
+  },
+  "version": "1.1.3"
+}

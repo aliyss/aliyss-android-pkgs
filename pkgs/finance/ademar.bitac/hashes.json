@@ -1,0 +1,18 @@
+{
+  "apkName": "ademar.bitac_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-P48xpbkr+PoU3s1Baf4GQnks6loSNhQk0jwFQQ5SAfU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P48xpbkr+PoU3s1Baf4GQnks6loSNhQk0jwFQQ5SAfU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P48xpbkr+PoU3s1Baf4GQnks6loSNhQk0jwFQQ5SAfU="
+    }
+  },
+  "version": "1.2.0"
+}

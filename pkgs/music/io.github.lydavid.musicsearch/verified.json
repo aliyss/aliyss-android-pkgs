@@ -1,0 +1,8 @@
+{
+  "package": "io.github.lydavid.musicsearch",
+  "signerFingerprints": [
+    "C9:B3:77:62:44:5D:FC:AB:7E:AB:EA:79:19:5D:7F:5C:32:50:11:80:F7:C3:14:03:CF:5C:B4:27:FD:68:10:FC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

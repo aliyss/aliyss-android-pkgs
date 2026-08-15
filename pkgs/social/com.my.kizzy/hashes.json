@@ -1,0 +1,18 @@
+{
+  "apkName": "com.my.kizzy_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FBpIr6y8DBo8TragwKsnFRYDf806B/ARTha9tL5p5IY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FBpIr6y8DBo8TragwKsnFRYDf806B/ARTha9tL5p5IY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FBpIr6y8DBo8TragwKsnFRYDf806B/ARTha9tL5p5IY="
+    }
+  },
+  "version": "6.2"
+}

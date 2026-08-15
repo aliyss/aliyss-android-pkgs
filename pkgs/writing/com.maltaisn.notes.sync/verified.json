@@ -1,0 +1,8 @@
+{
+  "package": "com.maltaisn.notes.sync",
+  "signerFingerprints": [
+    "1F:8B:4C:5A:D8:7F:E9:E6:41:4F:AE:5C:13:6A:C5:75:FB:F0:78:EC:DF:3C:7F:0B:3C:6A:08:6B:86:28:0C:55"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

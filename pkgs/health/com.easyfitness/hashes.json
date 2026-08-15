@@ -1,0 +1,18 @@
+{
+  "apkName": "com.easyfitness_67.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DI+/olhqBKXW0xoS4aMOzT1tGGSP6eTb1nXUpDWzN0A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DI+/olhqBKXW0xoS4aMOzT1tGGSP6eTb1nXUpDWzN0A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DI+/olhqBKXW0xoS4aMOzT1tGGSP6eTb1nXUpDWzN0A="
+    }
+  },
+  "version": "0.20.6.2"
+}

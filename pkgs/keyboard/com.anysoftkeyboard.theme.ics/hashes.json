@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.theme.ics_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eorEKjdd44aIy3CHJb34YQfvWyUoGs5ObpDc72QaOho="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eorEKjdd44aIy3CHJb34YQfvWyUoGs5ObpDc72QaOho="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eorEKjdd44aIy3CHJb34YQfvWyUoGs5ObpDc72QaOho="
+    }
+  },
+  "version": "5.1.6158"
+}

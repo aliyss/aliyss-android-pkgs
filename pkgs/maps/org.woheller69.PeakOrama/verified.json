@@ -1,0 +1,8 @@
+{
+  "package": "org.woheller69.PeakOrama",
+  "signerFingerprints": [
+    "4B:AA:F2:B9:9F:CA:DD:3A:24:F3:E1:49:E9:49:3F:53:EE:D8:BD:A0:93:9B:A7:75:A6:98:80:D7:B1:09:46:01"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

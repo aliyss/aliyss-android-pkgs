@@ -1,0 +1,18 @@
+{
+  "apkName": "org.adaptit.adaptitmobile_67.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r4w25KA5QKCQKm8yhAHAu6PrIYwJONRLk9P8m6BA100="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r4w25KA5QKCQKm8yhAHAu6PrIYwJONRLk9P8m6BA100="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r4w25KA5QKCQKm8yhAHAu6PrIYwJONRLk9P8m6BA100="
+    }
+  },
+  "version": "1.20.0"
+}

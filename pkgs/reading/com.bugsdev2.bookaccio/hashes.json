@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bugsdev2.bookaccio_400.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rRMxhetG7mAbs7J1ORMEO0HAP8SBMRv9kobDMlCYkr8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rRMxhetG7mAbs7J1ORMEO0HAP8SBMRv9kobDMlCYkr8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rRMxhetG7mAbs7J1ORMEO0HAP8SBMRv9kobDMlCYkr8="
+    }
+  },
+  "version": "0.4.0"
+}

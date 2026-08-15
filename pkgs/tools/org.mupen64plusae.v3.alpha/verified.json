@@ -1,0 +1,8 @@
+{
+  "package": "org.mupen64plusae.v3.alpha",
+  "signerFingerprints": [
+    "9B:FB:67:05:56:F1:01:06:70:1E:9B:62:7F:1A:17:4C:D3:84:61:D1:9A:99:F4:67:77:53:7B:C4:96:19:90:44"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

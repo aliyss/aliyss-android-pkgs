@@ -1,0 +1,8 @@
+{
+  "package": "com.biohazard786.quickupi",
+  "signerFingerprints": [
+    "D7:A1:A6:7A:80:14:23:7A:54:FC:94:9E:3B:58:22:98:D0:C3:D0:45:90:24:62:10:64:AF:D0:FB:D7:57:A3:FD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

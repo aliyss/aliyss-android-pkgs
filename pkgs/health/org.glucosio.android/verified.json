@@ -1,0 +1,8 @@
+{
+  "package": "org.glucosio.android",
+  "signerFingerprints": [
+    "0E:7F:5A:9F:45:2C:96:05:65:56:CB:E1:F2:C0:BF:4B:82:0D:F4:4E:01:F7:DF:C2:70:51:08:0E:01:7F:23:FA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

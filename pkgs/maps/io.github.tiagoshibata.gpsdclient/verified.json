@@ -1,0 +1,8 @@
+{
+  "package": "io.github.tiagoshibata.gpsdclient",
+  "signerFingerprints": [
+    "13:EE:6E:E4:58:36:AE:48:D8:2A:44:34:A2:D6:D5:FD:09:A3:C3:18:38:75:D7:DA:6D:7A:4B:EC:8F:5C:85:CA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.mydoli.focal_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-u/GKw7E0+1/hkwYEOmh1CKolSX2DFk0iAWCDr2o8iNs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u/GKw7E0+1/hkwYEOmh1CKolSX2DFk0iAWCDr2o8iNs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u/GKw7E0+1/hkwYEOmh1CKolSX2DFk0iAWCDr2o8iNs="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.astoev.cave.survey_63.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LkjFknwlhJM8ZrHpPWfenjcPpakPq7V7O3xKpqKtkJ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LkjFknwlhJM8ZrHpPWfenjcPpakPq7V7O3xKpqKtkJ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LkjFknwlhJM8ZrHpPWfenjcPpakPq7V7O3xKpqKtkJ0="
+    }
+  },
+  "version": "2.10"
+}

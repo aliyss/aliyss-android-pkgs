@@ -1,0 +1,8 @@
+{
+  "package": "ro.hume.cosmin.retrostack",
+  "signerFingerprints": [
+    "4B:34:64:A4:A9:49:B8:32:CD:28:F8:5A:6A:F7:7B:2F:CF:72:4C:38:E5:A2:AA:B3:DD:73:4A:F5:10:78:17:F7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

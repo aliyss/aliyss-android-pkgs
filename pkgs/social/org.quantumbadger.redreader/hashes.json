@@ -1,0 +1,18 @@
+{
+  "apkName": "org.quantumbadger.redreader_117.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Vy3HWzV4AiBHEdZ0ikSag5hMg6/mdxDdBgVTqnu7HY4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Vy3HWzV4AiBHEdZ0ikSag5hMg6/mdxDdBgVTqnu7HY4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Vy3HWzV4AiBHEdZ0ikSag5hMg6/mdxDdBgVTqnu7HY4="
+    }
+  },
+  "version": "1.25.2"
+}

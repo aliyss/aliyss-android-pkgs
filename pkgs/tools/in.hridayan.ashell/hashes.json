@@ -1,0 +1,18 @@
+{
+  "apkName": "in.hridayan.ashell_62.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-D/mmlPzbLa/VZhysKFpJtFQcezO8OOjhrrr/paSONLI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D/mmlPzbLa/VZhysKFpJtFQcezO8OOjhrrr/paSONLI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D/mmlPzbLa/VZhysKFpJtFQcezO8OOjhrrr/paSONLI="
+    }
+  },
+  "version": "v7.4.0"
+}

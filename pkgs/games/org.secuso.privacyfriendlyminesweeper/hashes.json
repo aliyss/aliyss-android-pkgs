@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlyminesweeper_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-z9WqV7Xa/faIpv8u8uWAsKtjakfXG9DlHbLKIc58rf8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z9WqV7Xa/faIpv8u8uWAsKtjakfXG9DlHbLKIc58rf8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z9WqV7Xa/faIpv8u8uWAsKtjakfXG9DlHbLKIc58rf8="
+    }
+  },
+  "version": "1.2.3"
+}

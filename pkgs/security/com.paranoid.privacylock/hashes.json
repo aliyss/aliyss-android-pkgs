@@ -1,0 +1,18 @@
+{
+  "apkName": "com.paranoid.privacylock_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6qHhrCWADP5RionGpUMlVwIbCnX+lmkd2RBSI4Uvw7Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6qHhrCWADP5RionGpUMlVwIbCnX+lmkd2RBSI4Uvw7Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6qHhrCWADP5RionGpUMlVwIbCnX+lmkd2RBSI4Uvw7Y="
+    }
+  },
+  "version": "v1.1.9"
+}

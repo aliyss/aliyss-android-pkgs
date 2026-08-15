@@ -1,0 +1,8 @@
+{
+  "package": "com.tmendes.birthdaydroid",
+  "signerFingerprints": [
+    "A7:8B:61:53:76:F2:87:2B:C6:9C:AA:D5:38:9F:4C:25:1B:C8:EE:83:5D:C2:5F:EA:18:55:DF:1E:8E:BC:27:4D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

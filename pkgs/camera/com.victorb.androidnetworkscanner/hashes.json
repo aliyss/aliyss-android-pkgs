@@ -1,0 +1,18 @@
+{
+  "apkName": "com.victorb.androidnetworkscanner_1003001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2Ed26osGyMrm1vj2Wb8f9UvCu2pbdN10P8MgMO/oWwg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2Ed26osGyMrm1vj2Wb8f9UvCu2pbdN10P8MgMO/oWwg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2Ed26osGyMrm1vj2Wb8f9UvCu2pbdN10P8MgMO/oWwg="
+    }
+  },
+  "version": "1.3.1"
+}

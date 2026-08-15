@@ -1,0 +1,8 @@
+{
+  "package": "com.onyx.darie.calin.gentleglowonyxboox",
+  "signerFingerprints": [
+    "A0:86:6E:65:98:40:28:BA:78:C9:EC:B5:F9:42:36:5C:2A:2E:62:B7:B8:B2:F3:05:AA:6F:40:80:45:25:89:AD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

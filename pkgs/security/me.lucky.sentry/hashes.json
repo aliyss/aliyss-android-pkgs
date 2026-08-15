@@ -1,0 +1,18 @@
+{
+  "apkName": "me.lucky.sentry_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ENAN8x83+YVgrKS741UCPMQac12IEQvzxSm3DOoLvM4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ENAN8x83+YVgrKS741UCPMQac12IEQvzxSm3DOoLvM4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ENAN8x83+YVgrKS741UCPMQac12IEQvzxSm3DOoLvM4="
+    }
+  },
+  "version": "1.1.2"
+}

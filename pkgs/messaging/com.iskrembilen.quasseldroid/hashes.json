@@ -1,0 +1,18 @@
+{
+  "apkName": "com.iskrembilen.quasseldroid_1398.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6wtEWApD8ATNwF+3zzw5AAby3Opu+d/g/p+mS2LiZ40="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6wtEWApD8ATNwF+3zzw5AAby3Opu+d/g/p+mS2LiZ40="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6wtEWApD8ATNwF+3zzw5AAby3Opu+d/g/p+mS2LiZ40="
+    }
+  },
+  "version": "1.8.0"
+}

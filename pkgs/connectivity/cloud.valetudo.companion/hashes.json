@@ -1,0 +1,18 @@
+{
+  "apkName": "cloud.valetudo.companion_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NAgUA0ARZhEfXpnTMl09C8qBpdmtmTUX5VtN/sSdpko="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NAgUA0ARZhEfXpnTMl09C8qBpdmtmTUX5VtN/sSdpko="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NAgUA0ARZhEfXpnTMl09C8qBpdmtmTUX5VtN/sSdpko="
+    }
+  },
+  "version": "2026.08.0"
+}

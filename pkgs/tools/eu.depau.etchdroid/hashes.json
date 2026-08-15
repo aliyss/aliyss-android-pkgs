@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.depau.etchdroid_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xUZw8sgb0rjsdTqN4y3RiqmjQG9un26T0A9yuBy3Bmk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xUZw8sgb0rjsdTqN4y3RiqmjQG9un26T0A9yuBy3Bmk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xUZw8sgb0rjsdTqN4y3RiqmjQG9un26T0A9yuBy3Bmk="
+    }
+  },
+  "version": "2.1"
+}

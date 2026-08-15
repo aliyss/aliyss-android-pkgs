@@ -1,0 +1,8 @@
+{
+  "package": "com.vladrip.drgassistant",
+  "signerFingerprints": [
+    "0B:8E:2B:BF:0A:ED:E2:07:A9:AC:86:21:28:22:ED:FA:97:2A:8C:13:8C:8E:F9:F4:09:AB:B3:1A:33:05:4B:0D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

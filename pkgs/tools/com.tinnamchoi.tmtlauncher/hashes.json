@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tinnamchoi.tmtlauncher_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zcrP4ExZp0KnhvU6v1uEkBU9ibrRgAs64e9QDNswjtU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zcrP4ExZp0KnhvU6v1uEkBU9ibrRgAs64e9QDNswjtU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zcrP4ExZp0KnhvU6v1uEkBU9ibrRgAs64e9QDNswjtU="
+    }
+  },
+  "version": "1.2.1"
+}

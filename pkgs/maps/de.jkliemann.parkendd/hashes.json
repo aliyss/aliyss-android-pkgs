@@ -1,0 +1,18 @@
+{
+  "apkName": "de.jkliemann.parkendd_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rNvwsh94BvpoovoLPsVXnK7vyesGwbXDG1nmjIoR9R4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rNvwsh94BvpoovoLPsVXnK7vyesGwbXDG1nmjIoR9R4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rNvwsh94BvpoovoLPsVXnK7vyesGwbXDG1nmjIoR9R4="
+    }
+  },
+  "version": "1.2.8"
+}

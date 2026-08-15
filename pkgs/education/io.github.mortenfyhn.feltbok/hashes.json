@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.mortenfyhn.feltbok_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NxtlU+zLCgWfH+284cjP3/n+lgRVSxLyON73XGMGuVc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NxtlU+zLCgWfH+284cjP3/n+lgRVSxLyON73XGMGuVc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NxtlU+zLCgWfH+284cjP3/n+lgRVSxLyON73XGMGuVc="
+    }
+  },
+  "version": "1.1"
+}

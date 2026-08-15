@@ -1,0 +1,18 @@
+{
+  "apkName": "org.crazydan.studio.app.ime.kuaizi_311.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LLsKQBCAUIJPp0gJdEeYh7vrJgRJan0roGrB6rUT5ng="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LLsKQBCAUIJPp0gJdEeYh7vrJgRJan0roGrB6rUT5ng="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LLsKQBCAUIJPp0gJdEeYh7vrJgRJan0roGrB6rUT5ng="
+    }
+  },
+  "version": "3.1.1"
+}

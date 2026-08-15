@@ -1,0 +1,18 @@
+{
+  "apkName": "de.tu_darmstadt.seemoo.HardWhere_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AubyUeF+bkqo2wZ7TFSOhZ3xT5+or+3oBleqVKYysHs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AubyUeF+bkqo2wZ7TFSOhZ3xT5+or+3oBleqVKYysHs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AubyUeF+bkqo2wZ7TFSOhZ3xT5+or+3oBleqVKYysHs="
+    }
+  },
+  "version": "0.1"
+}

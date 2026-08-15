@@ -1,0 +1,18 @@
+{
+  "apkName": "com.myclosetx_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5uEMPqeuJr0x8L4AHk2wwde3dR446un9QPiEYjZt968="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5uEMPqeuJr0x8L4AHk2wwde3dR446un9QPiEYjZt968="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5uEMPqeuJr0x8L4AHk2wwde3dR446un9QPiEYjZt968="
+    }
+  },
+  "version": "1.2.0"
+}

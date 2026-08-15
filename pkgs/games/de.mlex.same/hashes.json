@@ -1,0 +1,18 @@
+{
+  "apkName": "de.mlex.same_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ar7khaBi0QubF9PrvvCv4uJJUXZFAkWvFlo7h3WkyOk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ar7khaBi0QubF9PrvvCv4uJJUXZFAkWvFlo7h3WkyOk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ar7khaBi0QubF9PrvvCv4uJJUXZFAkWvFlo7h3WkyOk="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "host.stjin.anonaddy_376410100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qxKuf3I59/L03r/45XwWMuzgGIzU9Yf/r4evqkDku+g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qxKuf3I59/L03r/45XwWMuzgGIzU9Yf/r4evqkDku+g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qxKuf3I59/L03r/45XwWMuzgGIzU9Yf/r4evqkDku+g="
+    }
+  },
+  "version": "v6.4.1"
+}

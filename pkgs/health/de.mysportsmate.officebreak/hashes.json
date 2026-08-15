@@ -1,0 +1,18 @@
+{
+  "apkName": "de.mysportsmate.officebreak_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GdImLW+Hh3OUls1sW8G/Pch7tcwIpOWVw0wigihfCbM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GdImLW+Hh3OUls1sW8G/Pch7tcwIpOWVw0wigihfCbM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GdImLW+Hh3OUls1sW8G/Pch7tcwIpOWVw0wigihfCbM="
+    }
+  },
+  "version": "0.9.0"
+}

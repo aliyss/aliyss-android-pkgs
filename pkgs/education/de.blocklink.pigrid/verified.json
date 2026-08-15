@@ -1,0 +1,8 @@
+{
+  "package": "de.blocklink.pigrid",
+  "signerFingerprints": [
+    "66:2E:D1:0F:69:04:DE:5C:10:DC:18:9F:E0:96:7A:DD:24:5B:59:F8:B0:91:AB:EF:19:0B:D0:DF:62:89:94:43"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

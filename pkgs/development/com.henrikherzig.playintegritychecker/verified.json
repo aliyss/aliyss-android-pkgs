@@ -1,0 +1,8 @@
+{
+  "package": "com.henrikherzig.playintegritychecker",
+  "signerFingerprints": [
+    "B1:AF:66:1E:25:FC:63:87:71:AE:40:45:F3:54:2D:4A:47:9D:27:88:21:56:3C:4B:6D:A1:9D:D8:C0:57:76:84"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

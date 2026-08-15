@@ -1,0 +1,8 @@
+{
+  "package": "ch.ictrust.pobya",
+  "signerFingerprints": [
+    "44:B9:F6:2B:97:50:7E:27:BC:F1:9F:A1:CB:75:FD:06:89:C3:32:77:84:B4:66:A6:54:DF:69:72:11:78:7E:DF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

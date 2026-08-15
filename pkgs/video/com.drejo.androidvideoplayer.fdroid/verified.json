@@ -1,0 +1,8 @@
+{
+  "package": "com.drejo.androidvideoplayer.fdroid",
+  "signerFingerprints": [
+    "FA:F4:EC:E0:DD:F4:58:4C:58:F2:50:08:A3:44:45:AE:F1:0C:CC:02:43:8C:E3:2F:77:35:5B:9B:50:2B:A7:15"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

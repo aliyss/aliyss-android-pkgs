@@ -1,0 +1,18 @@
+{
+  "apkName": "nodom.darkfm.inventoryguimobile_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vmEDlfgweDtinLWSZ94j2VEJOPy5mIcM+OF5u56N+EY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vmEDlfgweDtinLWSZ94j2VEJOPy5mIcM+OF5u56N+EY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vmEDlfgweDtinLWSZ94j2VEJOPy5mIcM+OF5u56N+EY="
+    }
+  },
+  "version": "1.1"
+}

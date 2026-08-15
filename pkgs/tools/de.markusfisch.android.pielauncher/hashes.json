@@ -1,0 +1,18 @@
+{
+  "apkName": "de.markusfisch.android.pielauncher_75.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Os8UF7TPpzslN4L3W3fTdT3kwrUYYVTfwb/z5Zs+xEA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Os8UF7TPpzslN4L3W3fTdT3kwrUYYVTfwb/z5Zs+xEA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Os8UF7TPpzslN4L3W3fTdT3kwrUYYVTfwb/z5Zs+xEA="
+    }
+  },
+  "version": "1.28.0"
+}

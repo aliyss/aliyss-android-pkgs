@@ -1,0 +1,18 @@
+{
+  "apkName": "com.app.dockeep_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3uh3u2eJcE/3XxKQN5x/7k13uN43CLY7e1Rje5zVOI4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3uh3u2eJcE/3XxKQN5x/7k13uN43CLY7e1Rje5zVOI4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3uh3u2eJcE/3XxKQN5x/7k13uN43CLY7e1Rje5zVOI4="
+    }
+  },
+  "version": "1.2"
+}

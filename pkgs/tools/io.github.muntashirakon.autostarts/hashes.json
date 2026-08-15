@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.muntashirakon.autostarts_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wlD62Qri3jnc9W6iZBKvB9/clxDgGno7Q7S+5GPijQg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wlD62Qri3jnc9W6iZBKvB9/clxDgGno7Q7S+5GPijQg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wlD62Qri3jnc9W6iZBKvB9/clxDgGno7Q7S+5GPijQg="
+    }
+  },
+  "version": "2.1.0"
+}

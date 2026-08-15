@@ -1,0 +1,18 @@
+{
+  "apkName": "ml.vivekthazhathattil.chalachithram_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-APNXHdFonYvMcHu/Htq0eq3fKaOThQPq/5eIG92mwmk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-APNXHdFonYvMcHu/Htq0eq3fKaOThQPq/5eIG92mwmk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-APNXHdFonYvMcHu/Htq0eq3fKaOThQPq/5eIG92mwmk="
+    }
+  },
+  "version": "1.4"
+}

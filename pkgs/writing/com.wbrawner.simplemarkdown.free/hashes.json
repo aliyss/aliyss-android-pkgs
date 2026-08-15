@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wbrawner.simplemarkdown.free_61.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-38aeJmoq0YGwv2BqqMVyZK76eteOAuKxor7RQ2ZGamQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-38aeJmoq0YGwv2BqqMVyZK76eteOAuKxor7RQ2ZGamQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-38aeJmoq0YGwv2BqqMVyZK76eteOAuKxor7RQ2ZGamQ="
+    }
+  },
+  "version": "2026.06.02-free"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.lsposed.lspatch_398.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-E9VD9G+sR7RtYXPdBikl/X76TzV6tiuCBtlNN8ebEPM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E9VD9G+sR7RtYXPdBikl/X76TzV6tiuCBtlNN8ebEPM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E9VD9G+sR7RtYXPdBikl/X76TzV6tiuCBtlNN8ebEPM="
+    }
+  },
+  "version": "0.6"
+}

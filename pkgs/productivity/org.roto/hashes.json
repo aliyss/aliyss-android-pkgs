@@ -1,0 +1,18 @@
+{
+  "apkName": "org.roto_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-I++YAM6I+T8DfWVus4NAmnhGK0hefBN/46sEt2mtHi4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I++YAM6I+T8DfWVus4NAmnhGK0hefBN/46sEt2mtHi4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I++YAM6I+T8DfWVus4NAmnhGK0hefBN/46sEt2mtHi4="
+    }
+  },
+  "version": "1.0.8"
+}

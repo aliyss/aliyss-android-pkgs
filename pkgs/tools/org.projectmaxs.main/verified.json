@@ -1,0 +1,8 @@
+{
+  "package": "org.projectmaxs.main",
+  "signerFingerprints": [
+    "FF:89:15:EC:B8:55:49:F2:45:7D:51:23:A0:E3:19:9A:66:1A:AA:FE:AC:9E:CC:F8:C4:8E:05:7A:6F:0A:0C:1B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

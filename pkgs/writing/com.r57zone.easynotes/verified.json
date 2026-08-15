@@ -1,0 +1,8 @@
+{
+  "package": "com.r57zone.easynotes",
+  "signerFingerprints": [
+    "F0:E7:1F:C2:59:54:D7:47:36:36:CC:ED:C5:93:78:70:6D:01:D9:CC:5B:7A:E7:EE:3F:06:9D:5B:C3:2A:9A:B2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

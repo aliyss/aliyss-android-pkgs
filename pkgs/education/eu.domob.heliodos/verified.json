@@ -1,0 +1,8 @@
+{
+  "package": "eu.domob.heliodos",
+  "signerFingerprints": [
+    "4E:7A:6D:A8:F6:71:75:D9:C1:D9:73:D3:4A:B8:2A:DA:A6:6A:68:F4:96:1B:25:13:35:A5:ED:91:51:2A:ED:CE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

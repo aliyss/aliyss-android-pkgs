@@ -1,0 +1,8 @@
+{
+  "package": "org.rayg.streaktracker",
+  "signerFingerprints": [
+    "79:79:55:58:83:67:6D:C5:4A:9A:22:B1:3C:70:C7:0C:3C:4A:A3:A7:58:5A:FA:61:8F:AE:BD:3C:9A:04:CD:8B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

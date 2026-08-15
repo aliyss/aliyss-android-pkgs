@@ -1,0 +1,8 @@
+{
+  "package": "app.onloc.android",
+  "signerFingerprints": [
+    "AB:E6:80:8D:71:32:0A:B4:96:59:4F:34:BC:3E:53:A8:BD:49:45:9B:06:E7:BC:14:54:6E:8C:31:06:F5:C6:60"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

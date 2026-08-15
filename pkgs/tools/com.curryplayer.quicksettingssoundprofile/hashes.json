@@ -1,0 +1,18 @@
+{
+  "apkName": "com.curryplayer.quicksettingssoundprofile_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UFMdNPiEi9XRZ4jCh3wLiCHUR9cQV4Wse2kOvP1tYDI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UFMdNPiEi9XRZ4jCh3wLiCHUR9cQV4Wse2kOvP1tYDI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UFMdNPiEi9XRZ4jCh3wLiCHUR9cQV4Wse2kOvP1tYDI="
+    }
+  },
+  "version": "1.0.1"
+}

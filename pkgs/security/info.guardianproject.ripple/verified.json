@@ -1,0 +1,8 @@
+{
+  "package": "info.guardianproject.ripple",
+  "signerFingerprints": [
+    "92:7F:7E:38:B6:AC:BE:CD:84:E0:2D:AC:E3:3E:FA:9A:7A:2F:09:79:75:0F:28:F5:85:68:8E:E3:8B:3A:4E:28"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

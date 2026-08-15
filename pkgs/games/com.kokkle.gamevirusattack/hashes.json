@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kokkle.gamevirusattack_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5mdJgrPOwLH1Dj165/FZAna+1EgtkLE2loGr/CdI0lI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5mdJgrPOwLH1Dj165/FZAna+1EgtkLE2loGr/CdI0lI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5mdJgrPOwLH1Dj165/FZAna+1EgtkLE2loGr/CdI0lI="
+    }
+  },
+  "version": "1.0.7"
+}

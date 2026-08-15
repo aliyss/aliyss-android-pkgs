@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.frimtec.android.securesmsproxy_2900184.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gRXsJN0xrZUjDmOSJ10sw7gw5r9ptHm903V1FfYLSOk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gRXsJN0xrZUjDmOSJ10sw7gw5r9ptHm903V1FfYLSOk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gRXsJN0xrZUjDmOSJ10sw7gw5r9ptHm903V1FfYLSOk="
+    }
+  },
+  "version": "3.8.0"
+}

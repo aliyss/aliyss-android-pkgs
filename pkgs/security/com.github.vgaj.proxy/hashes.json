@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.vgaj.proxy_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qH5GX10nluY57+d2BRsqQ3nLUFZsfhnB+y3zQOXhRVk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qH5GX10nluY57+d2BRsqQ3nLUFZsfhnB+y3zQOXhRVk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qH5GX10nluY57+d2BRsqQ3nLUFZsfhnB+y3zQOXhRVk="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.cryptomator_3128.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DUQwUvVXlKXgFWvT/9yPEJoRUPagCc2D2SVpCni4nrQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DUQwUvVXlKXgFWvT/9yPEJoRUPagCc2D2SVpCni4nrQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DUQwUvVXlKXgFWvT/9yPEJoRUPagCc2D2SVpCni4nrQ="
+    }
+  },
+  "version": "2.0.0"
+}

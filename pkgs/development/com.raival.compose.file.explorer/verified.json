@@ -1,0 +1,8 @@
+{
+  "package": "com.raival.compose.file.explorer",
+  "signerFingerprints": [
+    "83:01:66:B8:BE:A6:0C:42:C6:78:54:59:04:3A:DC:1F:B3:B3:05:37:A5:6A:7C:90:A5:95:CB:9E:08:12:6C:26"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

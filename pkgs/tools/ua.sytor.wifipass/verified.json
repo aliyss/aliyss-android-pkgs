@@ -1,0 +1,8 @@
+{
+  "package": "ua.sytor.wifipass",
+  "signerFingerprints": [
+    "CB:13:50:A5:DF:8C:43:88:86:C7:4D:F3:46:FE:48:C9:F6:56:8A:ED:2E:59:0F:9F:7E:F9:41:EE:BB:AA:08:6E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

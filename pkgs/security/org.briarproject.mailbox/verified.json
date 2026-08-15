@@ -1,0 +1,8 @@
+{
+  "package": "org.briarproject.mailbox",
+  "signerFingerprints": [
+    "AC:C4:DB:A4:8B:EA:4C:14:DF:80:36:1A:68:E5:60:7C:0B:DB:E4:DD:FA:FF:F6:0C:F5:CA:6C:09:19:0F:6B:83"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

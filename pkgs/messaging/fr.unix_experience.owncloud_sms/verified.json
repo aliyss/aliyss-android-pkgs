@@ -1,0 +1,8 @@
+{
+  "package": "fr.unix_experience.owncloud_sms",
+  "signerFingerprints": [
+    "3F:65:43:56:18:EE:DD:24:10:2A:4D:82:72:EC:B8:55:94:82:5C:3F:6A:ED:77:F0:84:22:8E:D3:63:45:48:ED"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.metacubex.clash.meta_211031.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-F4mrC8feAt2bSc+gOYDMRBgFs4CUxsPkvjeSviFp+Ck="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F4mrC8feAt2bSc+gOYDMRBgFs4CUxsPkvjeSviFp+Ck="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F4mrC8feAt2bSc+gOYDMRBgFs4CUxsPkvjeSviFp+Ck="
+    }
+  },
+  "version": "2.11.31.Meta"
+}

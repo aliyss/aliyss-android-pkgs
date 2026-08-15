@@ -1,0 +1,8 @@
+{
+  "package": "org.nktnet.middor",
+  "signerFingerprints": [
+    "3C:5F:0A:8E:FE:A2:FE:6F:95:62:A8:1C:20:7D:9A:26:13:13:AE:6C:B3:36:E4:4D:A3:3E:6D:3A:A6:EE:8C:4A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

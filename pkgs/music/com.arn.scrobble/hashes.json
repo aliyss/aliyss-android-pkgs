@@ -1,0 +1,18 @@
+{
+  "apkName": "com.arn.scrobble_442.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NOtJu3yalqtvk8H15SOp8KYHnLFaNJMSLk58K073bUQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NOtJu3yalqtvk8H15SOp8KYHnLFaNJMSLk58K073bUQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NOtJu3yalqtvk8H15SOp8KYHnLFaNJMSLk58K073bUQ="
+    }
+  },
+  "version": "4.42 GH"
+}

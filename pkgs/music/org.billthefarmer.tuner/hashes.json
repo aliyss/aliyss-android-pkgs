@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.tuner_158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-f7+u6H80AvfEsmmsQqNqL/LJGzgmVWR++tI9Yxyv+UQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f7+u6H80AvfEsmmsQqNqL/LJGzgmVWR++tI9Yxyv+UQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-f7+u6H80AvfEsmmsQqNqL/LJGzgmVWR++tI9Yxyv+UQ="
+    }
+  },
+  "version": "1.58"
+}

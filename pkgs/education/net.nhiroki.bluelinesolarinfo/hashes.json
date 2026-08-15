@@ -1,0 +1,18 @@
+{
+  "apkName": "net.nhiroki.bluelinesolarinfo_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bmHBeYlN5dgdKp69akCJSkUeFifOMBKTDCARmeMXLaU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bmHBeYlN5dgdKp69akCJSkUeFifOMBKTDCARmeMXLaU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bmHBeYlN5dgdKp69akCJSkUeFifOMBKTDCARmeMXLaU="
+    }
+  },
+  "version": "0.1.6"
+}

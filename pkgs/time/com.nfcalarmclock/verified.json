@@ -1,0 +1,8 @@
+{
+  "package": "com.nfcalarmclock",
+  "signerFingerprints": [
+    "54:14:22:F2:71:37:5E:CC:AD:5C:F5:7C:FB:25:79:2D:C3:B0:59:83:9A:1B:11:CC:48:86:CC:3B:6C:37:8F:BA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

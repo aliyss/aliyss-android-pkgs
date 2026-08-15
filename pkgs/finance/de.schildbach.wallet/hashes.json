@@ -1,0 +1,18 @@
+{
+  "apkName": "de.schildbach.wallet_110300_58dcd8a.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GWlITtJ1hL+VPis4NTgZ9HJ5eNVQ8k8TY5sm/vF52Cs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GWlITtJ1hL+VPis4NTgZ9HJ5eNVQ8k8TY5sm/vF52Cs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GWlITtJ1hL+VPis4NTgZ9HJ5eNVQ8k8TY5sm/vF52Cs="
+    }
+  },
+  "version": "11.03"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.yashgarg.qbit_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qXFY5RxgmfmoXfCiZclp+tIhC3yBVVn5r6JNOOUAsjA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qXFY5RxgmfmoXfCiZclp+tIhC3yBVVn5r6JNOOUAsjA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qXFY5RxgmfmoXfCiZclp+tIhC3yBVVn5r6JNOOUAsjA="
+    }
+  },
+  "version": "v0.2.5-f1a530c-release"
+}

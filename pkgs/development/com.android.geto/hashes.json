@@ -1,0 +1,18 @@
+{
+  "apkName": "com.android.geto_173.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i/RTznlSHuHxMGyG31dRqZ3wqMylnSRHMHqXBbIFriI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i/RTznlSHuHxMGyG31dRqZ3wqMylnSRHMHqXBbIFriI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i/RTznlSHuHxMGyG31dRqZ3wqMylnSRHMHqXBbIFriI="
+    }
+  },
+  "version": "1.17.3"
+}

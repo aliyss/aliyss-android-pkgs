@@ -1,0 +1,8 @@
+{
+  "package": "uk.co.ianfield.devstat",
+  "signerFingerprints": [
+    "14:65:19:65:B6:75:2D:5D:72:4A:B7:C4:A8:EC:46:D3:64:68:C6:3F:28:C4:35:73:43:60:46:AC:FC:EC:A9:4F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

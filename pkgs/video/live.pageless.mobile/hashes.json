@@ -1,0 +1,18 @@
+{
+  "apkName": "live.pageless.mobile_816585.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7Gd/5xahI/MJH2UKlx0g+xSU9DqbSZlZTT6sbrFxGyM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7Gd/5xahI/MJH2UKlx0g+xSU9DqbSZlZTT6sbrFxGyM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7Gd/5xahI/MJH2UKlx0g+xSU9DqbSZlZTT6sbrFxGyM="
+    }
+  },
+  "version": "2026-07-22"
+}

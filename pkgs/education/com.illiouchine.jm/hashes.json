@@ -1,0 +1,18 @@
+{
+  "apkName": "com.illiouchine.jm_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BLZiPgXfGEEA9G53RaMjBTmy6baX9EI95GSutLVJ8/w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BLZiPgXfGEEA9G53RaMjBTmy6baX9EI95GSutLVJ8/w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BLZiPgXfGEEA9G53RaMjBTmy6baX9EI95GSutLVJ8/w="
+    }
+  },
+  "version": "1.6.1"
+}

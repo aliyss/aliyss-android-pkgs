@@ -1,0 +1,18 @@
+{
+  "apkName": "de.nulide.findmydevice.edge_43.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RWzwoyhJ23irld34y4iRLuJSz9UkmetAxYmyb4M/p48="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RWzwoyhJ23irld34y4iRLuJSz9UkmetAxYmyb4M/p48="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RWzwoyhJ23irld34y4iRLuJSz9UkmetAxYmyb4M/p48="
+    }
+  },
+  "version": "0.16.1"
+}

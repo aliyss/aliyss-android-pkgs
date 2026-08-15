@@ -1,0 +1,8 @@
+{
+  "package": "org.unifiedpush.distributor.noprovider2push",
+  "signerFingerprints": [
+    "C7:40:5C:D3:19:2F:11:5C:EF:99:0F:31:C1:FA:36:FD:52:F2:1B:EF:86:B3:67:5D:76:BF:CB:40:17:D8:59:8A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

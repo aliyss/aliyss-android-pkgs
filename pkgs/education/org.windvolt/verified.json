@@ -1,0 +1,8 @@
+{
+  "package": "org.windvolt",
+  "signerFingerprints": [
+    "50:4B:26:CA:4A:3B:ED:03:6E:F1:F1:CA:F5:FB:BE:62:F2:4D:EC:67:CF:C2:8F:18:CE:7A:04:74:2C:59:34:66"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

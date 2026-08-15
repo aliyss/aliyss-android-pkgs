@@ -1,0 +1,8 @@
+{
+  "package": "com.traseapps.simplestNotes",
+  "signerFingerprints": [
+    "38:5E:A9:04:5E:6E:CF:C3:CC:CA:C1:EC:90:6F:42:36:77:FE:13:0C:E9:E7:C1:9D:92:77:C2:B0:AA:CC:40:26"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.google.android.projection.gearhead.xunlocked_201.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hkkPkk3t+SujATjc+9F5lz5dfCx6zM77W01zIP1tFuQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hkkPkk3t+SujATjc+9F5lz5dfCx6zM77W01zIP1tFuQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hkkPkk3t+SujATjc+9F5lz5dfCx6zM77W01zIP1tFuQ="
+    }
+  },
+  "version": "2.0.1"
+}

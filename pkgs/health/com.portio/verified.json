@@ -1,0 +1,8 @@
+{
+  "package": "com.portio",
+  "signerFingerprints": [
+    "8F:EE:10:4A:64:40:AE:EA:FA:91:D2:91:E8:39:52:B0:2A:55:9A:5E:88:95:C7:64:4B:72:A4:88:56:EF:CA:6F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

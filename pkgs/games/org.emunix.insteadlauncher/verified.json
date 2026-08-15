@@ -1,0 +1,8 @@
+{
+  "package": "org.emunix.insteadlauncher",
+  "signerFingerprints": [
+    "C9:76:6A:69:21:CC:4A:56:54:E4:E8:77:51:39:D8:FA:95:30:CF:01:DC:BE:3D:1E:63:E4:13:1D:0F:C2:E7:55"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.thayyil.spring.launcher_113.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8RkBLXNZdmpvP131oSGjONTI6Wpd+5W6hhh89W4BrHI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8RkBLXNZdmpvP131oSGjONTI6Wpd+5W6hhh89W4BrHI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8RkBLXNZdmpvP131oSGjONTI6Wpd+5W6hhh89W4BrHI="
+    }
+  },
+  "version": "0.1.10.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "net.eneiluj.nextcloud.phonetrack",
+  "signerFingerprints": [
+    "A4:4E:9C:B3:FD:81:C1:0F:AE:D8:75:82:18:37:47:9E:BC:9C:CE:60:AC:8A:F5:DE:AF:0E:BF:81:2E:F9:B5:34"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

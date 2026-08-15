@@ -1,0 +1,8 @@
+{
+  "package": "xyz.mustafaali.devqstiles",
+  "signerFingerprints": [
+    "77:E6:EE:B5:4B:5E:0C:9B:62:E7:86:31:A3:30:43:16:B8:14:CB:E9:D7:8B:9B:E8:9D:BF:3A:33:72:27:D0:62"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

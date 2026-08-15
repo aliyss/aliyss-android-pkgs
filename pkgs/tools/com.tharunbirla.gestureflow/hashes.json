@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tharunbirla.gestureflow_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s6y7ew00R9qJiq/WtjX5qgP/ZDthRSXPTn8j18LNaAU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s6y7ew00R9qJiq/WtjX5qgP/ZDthRSXPTn8j18LNaAU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s6y7ew00R9qJiq/WtjX5qgP/ZDthRSXPTn8j18LNaAU="
+    }
+  },
+  "version": "1.2"
+}

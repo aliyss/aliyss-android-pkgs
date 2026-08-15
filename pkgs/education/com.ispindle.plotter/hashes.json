@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ispindle.plotter_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l7zz3qHWKz/1xj7L+k8SOX3waKAU0z6HSlnLlPBCNLY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l7zz3qHWKz/1xj7L+k8SOX3waKAU0z6HSlnLlPBCNLY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l7zz3qHWKz/1xj7L+k8SOX3waKAU0z6HSlnLlPBCNLY="
+    }
+  },
+  "version": "0.5.23"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.kde.bettercounter_60003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pIkW96UpE8GJ+E44vKXAWNeoOz4TPK568D9YHnKIn+s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pIkW96UpE8GJ+E44vKXAWNeoOz4TPK568D9YHnKIn+s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pIkW96UpE8GJ+E44vKXAWNeoOz4TPK568D9YHnKIn+s="
+    }
+  },
+  "version": "6.0.3"
+}

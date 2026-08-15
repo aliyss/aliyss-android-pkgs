@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.mordorx.sicmu_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6qq5X8XvYO+CYwvjvzahzXz2vApqBRw8S9BNiv9By/g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6qq5X8XvYO+CYwvjvzahzXz2vApqBRw8S9BNiv9By/g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6qq5X8XvYO+CYwvjvzahzXz2vApqBRw8S9BNiv9By/g="
+    }
+  },
+  "version": "2.5.0"
+}

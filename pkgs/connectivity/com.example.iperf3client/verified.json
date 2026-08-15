@@ -1,0 +1,8 @@
+{
+  "package": "com.example.iperf3client",
+  "signerFingerprints": [
+    "85:48:6F:35:1A:D1:31:20:14:DA:87:E2:40:C3:3E:21:FA:5C:24:D6:AC:4C:B1:30:4B:DE:CD:8B:A3:B2:6D:8B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

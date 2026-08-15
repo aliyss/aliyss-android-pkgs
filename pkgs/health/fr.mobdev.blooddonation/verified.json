@@ -1,0 +1,8 @@
+{
+  "package": "fr.mobdev.blooddonation",
+  "signerFingerprints": [
+    "0C:85:EC:68:80:76:9C:2F:4F:08:57:32:00:BC:FF:8A:9D:08:01:6E:AA:F8:71:F3:80:0D:3B:35:AD:46:9A:11"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.acktarius.concealauthenticator",
+  "signerFingerprints": [
+    "AD:B2:E5:6B:42:63:B7:CB:F2:C9:06:10:D1:7B:40:3B:D8:FD:6F:2A:F6:1E:3B:BF:DD:85:3F:EF:C2:FA:7C:13"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

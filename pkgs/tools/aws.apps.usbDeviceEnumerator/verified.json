@@ -1,0 +1,8 @@
+{
+  "package": "aws.apps.usbDeviceEnumerator",
+  "signerFingerprints": [
+    "E4:2E:9C:6F:1B:1F:78:88:5E:9C:45:84:81:3C:23:13:AE:5D:00:FA:01:52:9A:F3:CF:93:56:21:78:C5:05:5A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

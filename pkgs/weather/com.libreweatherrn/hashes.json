@@ -1,0 +1,18 @@
+{
+  "apkName": "com.libreweatherrn_103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NTRFBbIFjMZ0qgvTnUi3sEDCgDwvuTqe++78qN0AV5w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NTRFBbIFjMZ0qgvTnUi3sEDCgDwvuTqe++78qN0AV5w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NTRFBbIFjMZ0qgvTnUi3sEDCgDwvuTqe++78qN0AV5w="
+    }
+  },
+  "version": "v1.0.3"
+}

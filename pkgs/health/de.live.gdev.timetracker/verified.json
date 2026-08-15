@@ -1,0 +1,8 @@
+{
+  "package": "de.live.gdev.timetracker",
+  "signerFingerprints": [
+    "D0:08:68:A0:42:08:0F:D1:C0:DC:01:D0:93:1F:91:48:98:85:07:72:47:59:6D:93:02:24:E1:38:CF:9C:95:42"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

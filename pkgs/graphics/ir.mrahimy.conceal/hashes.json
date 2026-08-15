@@ -1,0 +1,18 @@
+{
+  "apkName": "ir.mrahimy.conceal_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+HOx1QIV53Urk9aFRkYMGy9NVv7cc18GUAIuBBTMaZU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+HOx1QIV53Urk9aFRkYMGy9NVv7cc18GUAIuBBTMaZU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+HOx1QIV53Urk9aFRkYMGy9NVv7cc18GUAIuBBTMaZU="
+    }
+  },
+  "version": "1.4"
+}

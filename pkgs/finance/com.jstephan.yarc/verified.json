@@ -1,0 +1,8 @@
+{
+  "package": "com.jstephan.yarc",
+  "signerFingerprints": [
+    "E4:C7:A3:96:BE:02:EB:0B:00:C4:BE:E9:A9:18:D8:C3:9C:C7:CA:98:03:CE:07:81:99:48:53:09:46:F4:46:BD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

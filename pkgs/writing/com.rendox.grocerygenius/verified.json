@@ -1,0 +1,8 @@
+{
+  "package": "com.rendox.grocerygenius",
+  "signerFingerprints": [
+    "2B:BF:A4:DB:49:16:1C:26:06:91:C2:D7:32:EB:90:8A:5C:60:F0:C4:65:36:AC:0D:72:A2:C6:CA:97:7A:92:F8"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

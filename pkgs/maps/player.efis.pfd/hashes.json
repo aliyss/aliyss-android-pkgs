@@ -1,0 +1,18 @@
+{
+  "apkName": "player.efis.pfd_105.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9QerpPf0FwUyYd/xQ5Vb9acx7CVOt4xIgMD9fDSMXEQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9QerpPf0FwUyYd/xQ5Vb9acx7CVOt4xIgMD9fDSMXEQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9QerpPf0FwUyYd/xQ5Vb9acx7CVOt4xIgMD9fDSMXEQ="
+    }
+  },
+  "version": "8.05"
+}

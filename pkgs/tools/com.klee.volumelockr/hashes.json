@@ -1,0 +1,18 @@
+{
+  "apkName": "com.klee.volumelockr_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QZSAY1gypVTsv5zMfUpU1+fn+Od3ShUg6CQ1RdBMePw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QZSAY1gypVTsv5zMfUpU1+fn+Od3ShUg6CQ1RdBMePw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QZSAY1gypVTsv5zMfUpU1+fn+Od3ShUg6CQ1RdBMePw="
+    }
+  },
+  "version": "1.8.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "net.ser1.forage",
+  "signerFingerprints": [
+    "C8:D1:1F:4A:59:35:7A:B0:6C:33:B1:B7:34:4A:E9:AC:A4:32:4F:C0:D6:A5:1B:6F:B3:8B:45:38:69:8B:C7:5B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

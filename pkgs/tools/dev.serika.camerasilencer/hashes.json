@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.serika.camerasilencer_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m9wo9Ec8PrGhn0fyjVGdEbpLdUUr230rcxT0fFATmKw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m9wo9Ec8PrGhn0fyjVGdEbpLdUUr230rcxT0fFATmKw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m9wo9Ec8PrGhn0fyjVGdEbpLdUUr230rcxT0fFATmKw="
+    }
+  },
+  "version": "0.1.3"
+}

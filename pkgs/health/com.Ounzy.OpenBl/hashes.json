@@ -1,0 +1,18 @@
+{
+  "apkName": "com.Ounzy.OpenBl_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-svohIZ1hrW7zirWvs0l6cYfmIM8N2iK9d3LTfKtP+Sk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-svohIZ1hrW7zirWvs0l6cYfmIM8N2iK9d3LTfKtP+Sk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-svohIZ1hrW7zirWvs0l6cYfmIM8N2iK9d3LTfKtP+Sk="
+    }
+  },
+  "version": "3.3"
+}

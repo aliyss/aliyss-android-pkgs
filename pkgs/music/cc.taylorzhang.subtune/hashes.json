@@ -1,0 +1,18 @@
+{
+  "apkName": "cc.taylorzhang.subtune_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ruscr9YijHt1i4dHXqJgHCyC7lS+pnG3zxLxWum5rgM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ruscr9YijHt1i4dHXqJgHCyC7lS+pnG3zxLxWum5rgM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ruscr9YijHt1i4dHXqJgHCyC7lS+pnG3zxLxWum5rgM="
+    }
+  },
+  "version": "1.3.1"
+}

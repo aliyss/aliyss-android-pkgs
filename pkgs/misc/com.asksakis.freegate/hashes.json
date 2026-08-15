@@ -1,0 +1,18 @@
+{
+  "apkName": "com.asksakis.freegate_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0G52BD4hYk2BmWow3XugRGnbyx3pZJHtfH51lRO/3UI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0G52BD4hYk2BmWow3XugRGnbyx3pZJHtfH51lRO/3UI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0G52BD4hYk2BmWow3XugRGnbyx3pZJHtfH51lRO/3UI="
+    }
+  },
+  "version": "2.9"
+}

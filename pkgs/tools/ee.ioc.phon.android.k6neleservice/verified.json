@@ -1,0 +1,8 @@
+{
+  "package": "ee.ioc.phon.android.k6neleservice",
+  "signerFingerprints": [
+    "B1:48:EA:3C:5D:69:CB:E9:94:B7:B1:EF:6E:23:EA:77:84:F3:8E:D6:85:E6:26:E9:F1:1B:24:72:05:67:AB:96"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

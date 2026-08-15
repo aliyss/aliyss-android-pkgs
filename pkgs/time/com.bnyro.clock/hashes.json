@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bnyro.clock_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yq+G8bCa3VRZnG3AIsMKFeN3oXmUwIxJ0Dd2QNB0a3U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yq+G8bCa3VRZnG3AIsMKFeN3oXmUwIxJ0Dd2QNB0a3U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yq+G8bCa3VRZnG3AIsMKFeN3oXmUwIxJ0Dd2QNB0a3U="
+    }
+  },
+  "version": "11.0"
+}

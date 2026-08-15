@@ -1,0 +1,18 @@
+{
+  "apkName": "mf.asciitext.lite_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-isJ3QmzJdq9AXVT6hzAC1v/nKJX2esebiwY0F0P0jDM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-isJ3QmzJdq9AXVT6hzAC1v/nKJX2esebiwY0F0P0jDM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-isJ3QmzJdq9AXVT6hzAC1v/nKJX2esebiwY0F0P0jDM="
+    }
+  },
+  "version": "2.7.0"
+}

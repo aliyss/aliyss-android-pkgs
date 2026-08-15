@@ -1,0 +1,8 @@
+{
+  "package": "hu.tagsoft.ttorrent.search",
+  "signerFingerprints": [
+    "6A:21:64:FE:93:54:4B:4F:BD:54:9D:D8:D7:68:2D:69:EC:68:6D:7E:5E:8E:8C:78:8C:57:48:53:8E:1C:DD:86"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

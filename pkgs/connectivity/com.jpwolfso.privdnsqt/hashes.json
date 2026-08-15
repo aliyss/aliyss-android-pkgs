@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jpwolfso.privdnsqt_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5tY0tFrG21qrG24pF6wsuC/EEgDrRVJ5vAGC7Q+tf+8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5tY0tFrG21qrG24pF6wsuC/EEgDrRVJ5vAGC7Q+tf+8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5tY0tFrG21qrG24pF6wsuC/EEgDrRVJ5vAGC7Q+tf+8="
+    }
+  },
+  "version": "1.5"
+}

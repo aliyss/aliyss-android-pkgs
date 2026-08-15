@@ -1,0 +1,18 @@
+{
+  "apkName": "straw.berry_8142.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1vADnq7neBVF5bJ/+QEKxiyumF+RERQw5UNdiu/VGws="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1vADnq7neBVF5bJ/+QEKxiyumF+RERQw5UNdiu/VGws="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1vADnq7neBVF5bJ/+QEKxiyumF+RERQw5UNdiu/VGws="
+    }
+  },
+  "version": "81.42"
+}

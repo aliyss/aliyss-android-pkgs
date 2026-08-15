@@ -1,0 +1,18 @@
+{
+  "apkName": "hu.kadatsoft.smsreply_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2YNCu7rz0DDZSLj5dsnwTMpBJIhnIfgzCYxoJoggUSM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2YNCu7rz0DDZSLj5dsnwTMpBJIhnIfgzCYxoJoggUSM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2YNCu7rz0DDZSLj5dsnwTMpBJIhnIfgzCYxoJoggUSM="
+    }
+  },
+  "version": "1.3"
+}

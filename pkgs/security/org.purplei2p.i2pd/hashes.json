@@ -1,0 +1,18 @@
+{
+  "apkName": "org.purplei2p.i2pd_2610000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Af4+Hi6gU5JJ1nEiUMA9ALJZEY+qARsij1Swy18vlXY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Af4+Hi6gU5JJ1nEiUMA9ALJZEY+qARsij1Swy18vlXY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Af4+Hi6gU5JJ1nEiUMA9ALJZEY+qARsij1Swy18vlXY="
+    }
+  },
+  "version": "2.61.0"
+}

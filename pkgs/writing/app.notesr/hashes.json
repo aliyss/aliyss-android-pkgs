@@ -1,0 +1,18 @@
+{
+  "apkName": "app.notesr_64.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FnPP8UsXgl+3hAYTLBJcqoHaLV8Ni4Ji2Ox13o53CXo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FnPP8UsXgl+3hAYTLBJcqoHaLV8Ni4Ji2Ox13o53CXo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FnPP8UsXgl+3hAYTLBJcqoHaLV8Ni4Ji2Ox13o53CXo="
+    }
+  },
+  "version": "5.6.0"
+}

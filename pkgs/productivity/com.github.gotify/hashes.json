@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.gotify_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JtnmtBdVhgJFReWhj1fstMxay5uummQ8BxEPwYOHHm4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JtnmtBdVhgJFReWhj1fstMxay5uummQ8BxEPwYOHHm4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JtnmtBdVhgJFReWhj1fstMxay5uummQ8BxEPwYOHHm4="
+    }
+  },
+  "version": "2.10.1"
+}

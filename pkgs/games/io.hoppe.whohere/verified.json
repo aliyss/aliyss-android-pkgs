@@ -1,0 +1,8 @@
+{
+  "package": "io.hoppe.whohere",
+  "signerFingerprints": [
+    "3A:8C:36:0B:EF:46:C2:C2:B4:49:2D:53:87:A6:60:AA:AF:DB:C3:86:C0:76:B4:74:14:6E:00:9C:D2:B7:30:90"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

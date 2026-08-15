@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.hackover.schedule_120.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-v0Gw9krX7jdSPF9zN+wzmHOofNc9a24zxFVnZrM8Nn0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v0Gw9krX7jdSPF9zN+wzmHOofNc9a24zxFVnZrM8Nn0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v0Gw9krX7jdSPF9zN+wzmHOofNc9a24zxFVnZrM8Nn0="
+    }
+  },
+  "version": "1.77.0-Hackover-Edition"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "co.adityarajput.notifilter_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KABSrBldAjwnNxixC5RAzHaEMk8u8vc/kSbr0Bz8KME="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KABSrBldAjwnNxixC5RAzHaEMk8u8vc/kSbr0Bz8KME="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KABSrBldAjwnNxixC5RAzHaEMk8u8vc/kSbr0Bz8KME="
+    }
+  },
+  "version": "4.14.0"
+}

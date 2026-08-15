@@ -1,0 +1,18 @@
+{
+  "apkName": "ir.ammari.nodelook_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Y71qdq5JkVW8BXQckHBeGPHWTC3qwiAgf4PDvkU2mzY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y71qdq5JkVW8BXQckHBeGPHWTC3qwiAgf4PDvkU2mzY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y71qdq5JkVW8BXQckHBeGPHWTC3qwiAgf4PDvkU2mzY="
+    }
+  },
+  "version": "1.5.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "systems.sieber.remotespotlight_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bb9cYQ5/hKWDtsoy/BuMaakwA3i+fQWXSlH41N/FpKw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bb9cYQ5/hKWDtsoy/BuMaakwA3i+fQWXSlH41N/FpKw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bb9cYQ5/hKWDtsoy/BuMaakwA3i+fQWXSlH41N/FpKw="
+    }
+  },
+  "version": "3.2"
+}

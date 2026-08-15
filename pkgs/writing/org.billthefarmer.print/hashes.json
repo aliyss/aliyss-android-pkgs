@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.print_108.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T5KQv3TY48g7sRyfcFD+XI3B9zNrcUW8KRCjZvkm2hc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T5KQv3TY48g7sRyfcFD+XI3B9zNrcUW8KRCjZvkm2hc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T5KQv3TY48g7sRyfcFD+XI3B9zNrcUW8KRCjZvkm2hc="
+    }
+  },
+  "version": "1.08"
+}

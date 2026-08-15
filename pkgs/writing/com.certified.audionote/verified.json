@@ -1,0 +1,8 @@
+{
+  "package": "com.certified.audionote",
+  "signerFingerprints": [
+    "8C:75:51:05:8E:5C:C1:14:40:25:D1:E9:58:A6:26:45:5A:A6:E6:8F:8D:92:25:F4:20:8D:D3:4E:A5:D8:AD:6D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

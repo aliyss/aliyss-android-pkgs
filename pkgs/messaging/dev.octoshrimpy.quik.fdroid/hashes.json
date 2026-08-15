@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.octoshrimpy.quik.fdroid_2238.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kqPccvFfQcmd1mCWR2KxGtHVcEScuLTFztEcUtfOu6k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kqPccvFfQcmd1mCWR2KxGtHVcEScuLTFztEcUtfOu6k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kqPccvFfQcmd1mCWR2KxGtHVcEScuLTFztEcUtfOu6k="
+    }
+  },
+  "version": "4.3.6"
+}

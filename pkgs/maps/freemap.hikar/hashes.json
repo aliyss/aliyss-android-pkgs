@@ -1,0 +1,18 @@
+{
+  "apkName": "freemap.hikar_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RJDjYst2FlBexzYI7lY47dZNTOYBviF6Q4LGnx7n/1U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RJDjYst2FlBexzYI7lY47dZNTOYBviF6Q4LGnx7n/1U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RJDjYst2FlBexzYI7lY47dZNTOYBviF6Q4LGnx7n/1U="
+    }
+  },
+  "version": "0.3.2"
+}

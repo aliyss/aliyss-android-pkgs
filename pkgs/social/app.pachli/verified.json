@@ -1,0 +1,8 @@
+{
+  "package": "app.pachli",
+  "signerFingerprints": [
+    "F0:2E:56:BC:59:61:14:8E:C5:21:E1:7A:B3:1D:F7:1F:D4:F0:7A:35:CD:CF:6C:60:12:8C:9B:A5:6A:06:E0:04"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

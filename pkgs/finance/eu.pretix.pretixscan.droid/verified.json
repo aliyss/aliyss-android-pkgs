@@ -1,0 +1,8 @@
+{
+  "package": "eu.pretix.pretixscan.droid",
+  "signerFingerprints": [
+    "13:6F:89:73:EF:76:47:D4:E3:1B:B4:60:58:C6:B5:8F:0F:81:38:E6:90:4D:0E:A9:8C:E3:94:D1:24:9B:F1:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

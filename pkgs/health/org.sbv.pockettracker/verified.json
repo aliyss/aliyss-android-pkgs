@@ -1,0 +1,8 @@
+{
+  "package": "org.sbv.pockettracker",
+  "signerFingerprints": [
+    "4C:6F:4F:BA:18:21:AB:6F:B1:C6:38:A0:7B:47:AB:EB:31:66:0F:54:51:A6:CF:20:77:CB:9D:03:6C:5E:A1:74"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

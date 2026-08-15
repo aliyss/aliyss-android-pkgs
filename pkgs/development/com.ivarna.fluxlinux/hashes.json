@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ivarna.fluxlinux_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6INzSQRzI4MewpiEzi40ZSvbhLtndbNFdNZtDpO2G0c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6INzSQRzI4MewpiEzi40ZSvbhLtndbNFdNZtDpO2G0c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6INzSQRzI4MewpiEzi40ZSvbhLtndbNFdNZtDpO2G0c="
+    }
+  },
+  "version": "1.8.0"
+}

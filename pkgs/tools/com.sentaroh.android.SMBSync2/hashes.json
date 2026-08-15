@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sentaroh.android.SMBSync2_286.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cWUZ8uQRHWk0kgMfLsk45Qby2BnNmtE9JwOxAL7LclM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cWUZ8uQRHWk0kgMfLsk45Qby2BnNmtE9JwOxAL7LclM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cWUZ8uQRHWk0kgMfLsk45Qby2BnNmtE9JwOxAL7LclM="
+    }
+  },
+  "version": "2.54"
+}

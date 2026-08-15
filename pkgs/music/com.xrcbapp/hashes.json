@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xrcbapp_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-o3coCvCx/bWjEPBJxd1vJycrJHHYVT+AtocWK3qZgfQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o3coCvCx/bWjEPBJxd1vJycrJHHYVT+AtocWK3qZgfQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o3coCvCx/bWjEPBJxd1vJycrJHHYVT+AtocWK3qZgfQ="
+    }
+  },
+  "version": "1.7.9"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.xfarrow.locatemydevice",
+  "signerFingerprints": [
+    "62:BB:38:A5:A3:1D:E9:53:3C:2F:A9:56:52:B3:4E:A6:01:80:98:58:5C:AF:2A:01:E5:27:C5:F7:DC:1E:B2:84"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

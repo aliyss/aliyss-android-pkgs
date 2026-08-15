@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tech.estudiatai_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RncaqZPyDo6HJIT0AB3Z0QUjETQYRaY8VRa62otOOcg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RncaqZPyDo6HJIT0AB3Z0QUjETQYRaY8VRa62otOOcg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RncaqZPyDo6HJIT0AB3Z0QUjETQYRaY8VRa62otOOcg="
+    }
+  },
+  "version": "1.0.10"
+}

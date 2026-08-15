@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zionhuang.music_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4w+s8w5HVcTT77M6IfRBLNh+aBYIkgYopuRuzcAv/5Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4w+s8w5HVcTT77M6IfRBLNh+aBYIkgYopuRuzcAv/5Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4w+s8w5HVcTT77M6IfRBLNh+aBYIkgYopuRuzcAv/5Q="
+    }
+  },
+  "version": "0.5.10"
+}

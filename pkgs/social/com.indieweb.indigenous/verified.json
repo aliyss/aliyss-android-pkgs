@@ -1,0 +1,8 @@
+{
+  "package": "com.indieweb.indigenous",
+  "signerFingerprints": [
+    "20:9D:7D:E4:AE:E3:18:B3:9B:1F:0C:FF:EB:05:72:AA:B8:96:74:86:BC:F8:E6:F8:85:97:44:12:C8:48:83:48"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

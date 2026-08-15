@@ -1,0 +1,18 @@
+{
+  "apkName": "de.j4velin.wifiAutoOff_1910.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dsDBtRB1+QHgGdkcFkMBlELpNZlm1d6roYJ2L/Jw1cw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dsDBtRB1+QHgGdkcFkMBlELpNZlm1d6roYJ2L/Jw1cw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dsDBtRB1+QHgGdkcFkMBlELpNZlm1d6roYJ2L/Jw1cw="
+    }
+  },
+  "version": "1.9.1"
+}

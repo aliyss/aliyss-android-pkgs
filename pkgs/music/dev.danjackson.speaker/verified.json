@@ -1,0 +1,8 @@
+{
+  "package": "dev.danjackson.speaker",
+  "signerFingerprints": [
+    "4B:D7:74:F2:2F:70:C4:E0:F4:1C:B7:40:B2:80:9E:1E:E2:60:56:92:84:8C:F6:48:CE:8E:46:64:FF:C3:75:89"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

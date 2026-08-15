@@ -1,0 +1,8 @@
+{
+  "package": "github.daneren2005.dsub",
+  "signerFingerprints": [
+    "F8:50:D6:66:0F:6C:34:57:0E:EB:ED:26:84:7C:6D:E4:8A:76:A0:83:E5:C0:4B:27:02:F9:D3:7A:8F:0C:37:B3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

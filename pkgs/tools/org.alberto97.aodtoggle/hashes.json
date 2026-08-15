@@ -1,0 +1,18 @@
+{
+  "apkName": "org.alberto97.aodtoggle_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-J0sJEXeyJ+gCDd3rGXMVWKYo5KawV3f9bTccLVx/FxM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J0sJEXeyJ+gCDd3rGXMVWKYo5KawV3f9bTccLVx/FxM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J0sJEXeyJ+gCDd3rGXMVWKYo5KawV3f9bTccLVx/FxM="
+    }
+  },
+  "version": "1.1.0"
+}

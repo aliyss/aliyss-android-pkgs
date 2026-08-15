@@ -1,0 +1,8 @@
+{
+  "package": "org.ebur.debitum",
+  "signerFingerprints": [
+    "F0:E8:BB:79:0B:5F:F8:DD:0B:97:E0:E8:15:3C:16:32:9F:DA:1E:BF:CE:11:B7:C6:93:54:30:78:93:80:ED:89"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

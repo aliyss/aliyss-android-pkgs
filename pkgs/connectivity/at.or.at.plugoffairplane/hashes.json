@@ -1,0 +1,18 @@
+{
+  "apkName": "at.or.at.plugoffairplane_1010.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MzDFFC0mTzUOTNccT5YYwcpYoil0327r1T5QP05ZDYs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MzDFFC0mTzUOTNccT5YYwcpYoil0327r1T5QP05ZDYs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MzDFFC0mTzUOTNccT5YYwcpYoil0327r1T5QP05ZDYs="
+    }
+  },
+  "version": "1.1"
+}

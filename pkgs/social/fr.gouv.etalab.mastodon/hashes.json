@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.gouv.etalab.mastodon_566.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DUcX2MLq5M3Ysk558dFiYdmNi8jvUf5YiqgEKOypvz8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DUcX2MLq5M3Ysk558dFiYdmNi8jvUf5YiqgEKOypvz8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DUcX2MLq5M3Ysk558dFiYdmNi8jvUf5YiqgEKOypvz8="
+    }
+  },
+  "version": "3.43.1"
+}

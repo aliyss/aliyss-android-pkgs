@@ -1,0 +1,8 @@
+{
+  "package": "fi.kroon.vadret",
+  "signerFingerprints": [
+    "BE:B0:7B:AC:04:A4:7A:16:C5:EB:1C:BC:CA:58:D8:E0:AB:28:83:4F:29:FF:0F:55:42:13:5C:2F:03:09:F8:EE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

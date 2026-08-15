@@ -1,0 +1,8 @@
+{
+  "package": "pl.hypeapp.endoscope",
+  "signerFingerprints": [
+    "4B:F2:7B:20:C2:B4:A4:29:4A:A3:B8:B9:D7:36:D5:D0:81:D1:7A:A3:8F:E0:5A:89:E9:FE:74:F3:60:4A:8C:EE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

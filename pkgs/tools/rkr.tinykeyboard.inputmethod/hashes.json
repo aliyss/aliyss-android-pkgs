@@ -1,0 +1,18 @@
+{
+  "apkName": "rkr.tinykeyboard.inputmethod_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5r2bMjJ9xqnSMoPeBvS/2kr34Fva+IdJ+K1IMM4OPGk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5r2bMjJ9xqnSMoPeBvS/2kr34Fva+IdJ+K1IMM4OPGk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5r2bMjJ9xqnSMoPeBvS/2kr34Fva+IdJ+K1IMM4OPGk="
+    }
+  },
+  "version": "0.12"
+}

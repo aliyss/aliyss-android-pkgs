@@ -1,0 +1,8 @@
+{
+  "package": "space.linuxct.phoneaccountdetector",
+  "signerFingerprints": [
+    "04:D4:B1:EF:65:98:76:0F:C7:45:AC:E6:5C:70:84:E3:8C:D9:D7:44:47:BF:EA:3B:14:AF:53:DD:D7:5A:DA:CC"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "corewala.gemini.buran_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s99aKKV1ksNUHPVP7z0IsQDpQppp5I1uQ29ybLvzyRQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s99aKKV1ksNUHPVP7z0IsQDpQppp5I1uQ29ybLvzyRQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s99aKKV1ksNUHPVP7z0IsQDpQppp5I1uQ29ybLvzyRQ="
+    }
+  },
+  "version": "v1.12"
+}

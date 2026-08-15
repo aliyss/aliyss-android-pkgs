@@ -1,0 +1,18 @@
+{
+  "apkName": "org.freeminer.freeminer_5100000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bKMNqjvbWPfI9Fq4djPQb3Gu3Pfy0hCz5U5/esOmNQE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bKMNqjvbWPfI9Fq4djPQb3Gu3Pfy0hCz5U5/esOmNQE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bKMNqjvbWPfI9Fq4djPQb3Gu3Pfy0hCz5U5/esOmNQE="
+    }
+  },
+  "version": "5.10.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "co.ec.cnsyn.codecatcher_131.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Fm1MubD3pcFGinG9BMQkuE4MKCRxeUsMrdl7Fy3j0X8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Fm1MubD3pcFGinG9BMQkuE4MKCRxeUsMrdl7Fy3j0X8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Fm1MubD3pcFGinG9BMQkuE4MKCRxeUsMrdl7Fy3j0X8="
+    }
+  },
+  "version": "1.0.131"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "dev.chungjungsoo.gptmobile",
+  "signerFingerprints": [
+    "AD:78:7E:4B:F8:67:C4:AE:4B:BB:7C:E6:DB:6A:4D:1E:72:53:9D:C7:F2:93:0E:3C:5A:B5:1E:13:C3:31:2E:0D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

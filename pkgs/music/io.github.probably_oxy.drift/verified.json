@@ -1,0 +1,8 @@
+{
+  "package": "io.github.probably_oxy.drift",
+  "signerFingerprints": [
+    "02:BC:EA:A3:C1:DA:D2:E5:4D:41:41:D9:7C:F6:95:AE:51:8B:8B:45:25:18:3C:30:F6:A4:2F:CA:3A:E1:DA:81"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

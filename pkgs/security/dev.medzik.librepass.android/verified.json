@@ -1,0 +1,8 @@
+{
+  "package": "dev.medzik.librepass.android",
+  "signerFingerprints": [
+    "67:9B:DE:E1:B6:CD:07:CD:29:69:6C:6E:F6:6D:38:C6:72:45:5E:B9:E3:08:BE:D8:D7:64:40:B3:AD:DC:EB:A6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

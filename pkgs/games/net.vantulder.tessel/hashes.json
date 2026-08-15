@@ -1,0 +1,18 @@
+{
+  "apkName": "net.vantulder.tessel_10023.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1s+xf8Xb7Bbr9WAihCU2E4bOTIb9mv/DRSQo3nuZ16g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1s+xf8Xb7Bbr9WAihCU2E4bOTIb9mv/DRSQo3nuZ16g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1s+xf8Xb7Bbr9WAihCU2E4bOTIb9mv/DRSQo3nuZ16g="
+    }
+  },
+  "version": "1.0.23"
+}

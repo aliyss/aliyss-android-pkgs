@@ -1,0 +1,8 @@
+{
+  "package": "de.lolo.rssreader",
+  "signerFingerprints": [
+    "2F:B2:65:7D:32:15:DC:E8:BC:1B:5A:7A:D8:4C:F0:83:EA:6F:3E:3C:DE:24:2F:DB:65:E2:1D:81:A3:B6:1E:02"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

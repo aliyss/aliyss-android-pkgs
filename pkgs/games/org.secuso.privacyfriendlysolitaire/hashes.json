@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlysolitaire_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sOKt+ZH5SYIfsoOJt8keouH3Q9wixHpXOLxZgLZmA64="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sOKt+ZH5SYIfsoOJt8keouH3Q9wixHpXOLxZgLZmA64="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sOKt+ZH5SYIfsoOJt8keouH3Q9wixHpXOLxZgLZmA64="
+    }
+  },
+  "version": "1.1"
+}

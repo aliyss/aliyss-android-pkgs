@@ -1,0 +1,18 @@
+{
+  "apkName": "com.resonance.music_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5iNRq8GbKBJWGmT49BPcjtDxMq9Hn0zmBz4SCFm6NKg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5iNRq8GbKBJWGmT49BPcjtDxMq9Hn0zmBz4SCFm6NKg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5iNRq8GbKBJWGmT49BPcjtDxMq9Hn0zmBz4SCFm6NKg="
+    }
+  },
+  "version": "0.6.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.aoc_normal_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fQSeInbwwa5Gd14djMiX+1fnAMZOBxz4QxmOlTLZoNw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fQSeInbwwa5Gd14djMiX+1fnAMZOBxz4QxmOlTLZoNw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fQSeInbwwa5Gd14djMiX+1fnAMZOBxz4QxmOlTLZoNw="
+    }
+  },
+  "version": "1.0"
+}

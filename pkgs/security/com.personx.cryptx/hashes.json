@@ -1,0 +1,18 @@
+{
+  "apkName": "com.personx.cryptx_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5g7CEyMGInP6/7Nmj0EABfEKdnzpxMs6xRnW2F5rtyM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5g7CEyMGInP6/7Nmj0EABfEKdnzpxMs6xRnW2F5rtyM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5g7CEyMGInP6/7Nmj0EABfEKdnzpxMs6xRnW2F5rtyM="
+    }
+  },
+  "version": "1.4.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.varuns2002.disable_flag_secure",
+  "signerFingerprints": [
+    "C0:D5:CB:12:50:8B:94:34:89:23:2E:31:C2:4F:11:C3:CD:1A:17:9D:38:E0:2C:60:AC:7B:09:CF:51:21:F5:78"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.pcinpact",
+  "signerFingerprints": [
+    "78:09:ED:2D:46:67:3A:10:4A:EE:2A:D0:82:08:A8:CF:FC:E8:4F:8C:00:2B:90:7B:76:00:66:55:19:37:1D:F2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

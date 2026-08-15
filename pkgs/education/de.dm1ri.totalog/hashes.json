@@ -1,0 +1,18 @@
+{
+  "apkName": "de.dm1ri.totalog_102.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IKO/XRox9ammYpdu7T6GTDE58INLGAjlqnxOCRQN+zE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IKO/XRox9ammYpdu7T6GTDE58INLGAjlqnxOCRQN+zE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IKO/XRox9ammYpdu7T6GTDE58INLGAjlqnxOCRQN+zE="
+    }
+  },
+  "version": "0.1.2"
+}

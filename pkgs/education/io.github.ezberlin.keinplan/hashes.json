@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.ezberlin.keinplan_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dTl0ftqs9DT2JHu/J89sCXL6fGxwYyc+rtAA3OCi/Nc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dTl0ftqs9DT2JHu/J89sCXL6fGxwYyc+rtAA3OCi/Nc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dTl0ftqs9DT2JHu/J89sCXL6fGxwYyc+rtAA3OCi/Nc="
+    }
+  },
+  "version": "26.06.01"
+}

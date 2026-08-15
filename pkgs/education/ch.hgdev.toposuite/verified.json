@@ -1,0 +1,8 @@
+{
+  "package": "ch.hgdev.toposuite",
+  "signerFingerprints": [
+    "0B:B4:20:A5:E0:65:0D:18:3C:20:E6:0A:AE:49:36:1F:6A:F7:5E:86:AA:36:8D:A4:46:FC:02:14:83:8E:FC:15"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

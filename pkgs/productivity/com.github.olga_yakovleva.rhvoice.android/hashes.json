@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.olga_yakovleva.rhvoice.android_118040.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/bD31vPsRVR3qEqozIbR8tWAyxgNaaDHgCQJdcLv0og="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/bD31vPsRVR3qEqozIbR8tWAyxgNaaDHgCQJdcLv0og="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/bD31vPsRVR3qEqozIbR8tWAyxgNaaDHgCQJdcLv0og="
+    }
+  },
+  "version": "1.18.4"
+}

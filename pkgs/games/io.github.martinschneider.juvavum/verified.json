@@ -1,0 +1,8 @@
+{
+  "package": "io.github.martinschneider.juvavum",
+  "signerFingerprints": [
+    "76:E4:FC:2B:04:28:3F:BD:40:88:0F:CD:16:66:C7:28:87:11:E6:49:9C:CD:33:DD:C3:5A:6E:0D:C1:0E:99:B2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

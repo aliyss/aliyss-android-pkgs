@@ -1,0 +1,8 @@
+{
+  "package": "own.moderpach.extinguish",
+  "signerFingerprints": [
+    "D3:3D:EA:86:75:4E:C4:3A:BC:16:87:4F:53:69:BD:B0:7B:2F:0A:AA:BA:EF:BB:4B:A0:A2:47:13:C5:07:8D:07"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

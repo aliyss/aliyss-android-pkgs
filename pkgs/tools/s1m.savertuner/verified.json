@@ -1,0 +1,8 @@
+{
+  "package": "s1m.savertuner",
+  "signerFingerprints": [
+    "48:14:1B:F3:AF:68:FE:42:73:79:5E:E9:28:69:35:33:0A:3A:31:5C:76:9C:E3:90:8E:2F:77:EF:22:86:EA:94"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

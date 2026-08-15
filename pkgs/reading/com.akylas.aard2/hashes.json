@@ -1,0 +1,18 @@
+{
+  "apkName": "com.akylas.aard2_79.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ui2wVjPm8yp0zgKasijdf5K+vU8nS7Z162ctUTwsZSM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ui2wVjPm8yp0zgKasijdf5K+vU8nS7Z162ctUTwsZSM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ui2wVjPm8yp0zgKasijdf5K+vU8nS7Z162ctUTwsZSM="
+    }
+  },
+  "version": "2.0.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "sh.ftp.rocketninelabs.meditationassistant.opensource_169.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0Gs7QlxvRJ9B9P+zLAT8wA/ps8rTaxE+i9dk8DZjFiQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0Gs7QlxvRJ9B9P+zLAT8wA/ps8rTaxE+i9dk8DZjFiQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0Gs7QlxvRJ9B9P+zLAT8wA/ps8rTaxE+i9dk8DZjFiQ="
+    }
+  },
+  "version": "1.6.9"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.keepalive.lite.android",
+  "signerFingerprints": [
+    "C4:55:67:B7:12:D6:FD:79:79:DF:14:F6:6F:8A:5C:25:85:9E:E2:23:E1:F0:7E:91:5A:7E:EE:20:1C:14:BA:EF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

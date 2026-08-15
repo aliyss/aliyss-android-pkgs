@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.webierta.tarifa_luz_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ybslfDPhidgR4o0azYOEPp4yzXCHGLbIhJ8lCiI+4rQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ybslfDPhidgR4o0azYOEPp4yzXCHGLbIhJ8lCiI+4rQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ybslfDPhidgR4o0azYOEPp4yzXCHGLbIhJ8lCiI+4rQ="
+    }
+  },
+  "version": "5.1.1"
+}

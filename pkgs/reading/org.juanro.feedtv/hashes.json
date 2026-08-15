@@ -1,0 +1,18 @@
+{
+  "apkName": "org.juanro.feedtv_20260729.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UAZ56Z8K0V51QQB5PIG2ox34g7vS8ysTYKOmcq7jnWE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UAZ56Z8K0V51QQB5PIG2ox34g7vS8ysTYKOmcq7jnWE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UAZ56Z8K0V51QQB5PIG2ox34g7vS8ysTYKOmcq7jnWE="
+    }
+  },
+  "version": "4.0.3"
+}

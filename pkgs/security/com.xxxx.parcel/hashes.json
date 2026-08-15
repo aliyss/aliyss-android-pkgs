@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xxxx.parcel_61.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-imG4gSaKv1YROvKuHO8axPL7Oy+c3O8M2/MhV6c8rDM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-imG4gSaKv1YROvKuHO8axPL7Oy+c3O8M2/MhV6c8rDM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-imG4gSaKv1YROvKuHO8axPL7Oy+c3O8M2/MhV6c8rDM="
+    }
+  },
+  "version": "1.0.61"
+}

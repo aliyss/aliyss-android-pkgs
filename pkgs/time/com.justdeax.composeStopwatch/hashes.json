@@ -1,0 +1,18 @@
+{
+  "apkName": "com.justdeax.composeStopwatch_1009011.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2/k36758Cz0kwH+g7efLU+oRf3Bx2zth8clrfSV82lU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2/k36758Cz0kwH+g7efLU+oRf3Bx2zth8clrfSV82lU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2/k36758Cz0kwH+g7efLU+oRf3Bx2zth8clrfSV82lU="
+    }
+  },
+  "version": "1.9.1"
+}

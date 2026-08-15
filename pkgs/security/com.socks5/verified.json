@@ -1,0 +1,8 @@
+{
+  "package": "com.socks5",
+  "signerFingerprints": [
+    "BA:66:55:76:EE:18:30:AA:55:9D:D6:55:96:FD:A0:C0:A9:AA:3D:80:18:5F:83:EF:ED:CD:A2:33:B2:77:5D:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

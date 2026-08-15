@@ -1,0 +1,8 @@
+{
+  "package": "org.eukalyptus.balance",
+  "signerFingerprints": [
+    "BC:62:3D:87:67:E6:E1:FC:CE:DF:54:2E:44:3A:A5:A7:A2:E8:E6:46:C2:3A:6C:8E:C5:C7:89:92:55:8A:5A:49"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

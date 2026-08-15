@@ -1,0 +1,18 @@
+{
+  "apkName": "site.leos.apps.lespas_117.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nUlf1kIPnp32etQhH3txmFNPiAvMc3lFWybODep/aBU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nUlf1kIPnp32etQhH3txmFNPiAvMc3lFWybODep/aBU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nUlf1kIPnp32etQhH3txmFNPiAvMc3lFWybODep/aBU="
+    }
+  },
+  "version": "2.11.4"
+}

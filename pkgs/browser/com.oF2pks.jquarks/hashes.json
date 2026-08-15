@@ -1,0 +1,18 @@
+{
+  "apkName": "com.oF2pks.jquarks_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-F+2lXlOLHEUgODNhFxmuKTDHpqSxUMzh25bMzzzLhPE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F+2lXlOLHEUgODNhFxmuKTDHpqSxUMzh25bMzzzLhPE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-F+2lXlOLHEUgODNhFxmuKTDHpqSxUMzh25bMzzzLhPE="
+    }
+  },
+  "version": "1.0-24"
+}

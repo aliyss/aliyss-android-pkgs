@@ -1,0 +1,18 @@
+{
+  "apkName": "com.guillaumepayet.remotenumpad_51.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SdIYHEtqYWrsv3w6uwJ8zLTUChrYH8VOYLn9XE5qVq4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SdIYHEtqYWrsv3w6uwJ8zLTUChrYH8VOYLn9XE5qVq4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SdIYHEtqYWrsv3w6uwJ8zLTUChrYH8VOYLn9XE5qVq4="
+    }
+  },
+  "version": "2.2.3"
+}

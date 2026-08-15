@@ -1,0 +1,18 @@
+{
+  "apkName": "lcukerd.com.stufflist_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OEY2ZwB2IXmkBoDDhXgqb1L26gW4cOU+jcbkdtLCXCY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OEY2ZwB2IXmkBoDDhXgqb1L26gW4cOU+jcbkdtLCXCY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OEY2ZwB2IXmkBoDDhXgqb1L26gW4cOU+jcbkdtLCXCY="
+    }
+  },
+  "version": "1.4"
+}

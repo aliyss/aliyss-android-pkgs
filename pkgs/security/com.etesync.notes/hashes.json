@@ -1,0 +1,18 @@
+{
+  "apkName": "com.etesync.notes_10700.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-crFUOh+YiuOJiCa4hyYGsaUi5623TsH7m2cakIT6vNk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-crFUOh+YiuOJiCa4hyYGsaUi5623TsH7m2cakIT6vNk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-crFUOh+YiuOJiCa4hyYGsaUi5623TsH7m2cakIT6vNk="
+    }
+  },
+  "version": "1.7.0"
+}

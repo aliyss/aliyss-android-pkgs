@@ -1,0 +1,18 @@
+{
+  "apkName": "italian.said.fran.theitaliansaid_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zDNs5iYv7f1WUPAUl4kN4naZiQAOgm1WH51z+qpwnmU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zDNs5iYv7f1WUPAUl4kN4naZiQAOgm1WH51z+qpwnmU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zDNs5iYv7f1WUPAUl4kN4naZiQAOgm1WH51z+qpwnmU="
+    }
+  },
+  "version": "2.0"
+}

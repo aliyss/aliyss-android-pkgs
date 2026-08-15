@@ -1,0 +1,8 @@
+{
+  "package": "dev.inkcast.aos",
+  "signerFingerprints": [
+    "57:91:37:D8:B5:B0:B6:8E:21:92:58:43:CD:87:03:07:57:28:7A:32:2B:A0:B6:63:D4:CD:62:6C:F6:51:39:80"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

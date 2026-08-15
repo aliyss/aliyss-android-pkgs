@@ -1,0 +1,8 @@
+{
+  "package": "net.curiana.recipes",
+  "signerFingerprints": [
+    "49:9B:A3:59:36:85:A2:A3:79:5F:63:6E:72:B0:CF:DD:F6:D5:82:F3:36:59:C1:2C:CF:F7:DB:74:90:99:4C:CA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

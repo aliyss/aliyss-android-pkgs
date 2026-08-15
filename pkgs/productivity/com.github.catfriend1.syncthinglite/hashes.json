@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.catfriend1.syncthinglite_2000001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dRuZQHckyeH/Cqr4kxNZWRZ+HvSSQdCkriR2Pj+ywNc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dRuZQHckyeH/Cqr4kxNZWRZ+HvSSQdCkriR2Pj+ywNc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dRuZQHckyeH/Cqr4kxNZWRZ+HvSSQdCkriR2Pj+ywNc="
+    }
+  },
+  "version": "2.0.0.1"
+}

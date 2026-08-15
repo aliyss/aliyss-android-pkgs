@@ -1,0 +1,18 @@
+{
+  "apkName": "com.js.nowakelock_87.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q74lOM0ymNx7YrLE6BmeRcxTTbKeXM88W8oe43Niusc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q74lOM0ymNx7YrLE6BmeRcxTTbKeXM88W8oe43Niusc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q74lOM0ymNx7YrLE6BmeRcxTTbKeXM88W8oe43Niusc="
+    }
+  },
+  "version": "3.0.10"
+}

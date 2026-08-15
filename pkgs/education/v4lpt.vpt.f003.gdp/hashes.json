@@ -1,0 +1,18 @@
+{
+  "apkName": "v4lpt.vpt.f003.gdp_105.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Glhj4HzXR3RgcLcbS9Jt3a3IBvjSPn1oM+S+MfNqVpw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Glhj4HzXR3RgcLcbS9Jt3a3IBvjSPn1oM+S+MfNqVpw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Glhj4HzXR3RgcLcbS9Jt3a3IBvjSPn1oM+S+MfNqVpw="
+    }
+  },
+  "version": "1.0.5"
+}

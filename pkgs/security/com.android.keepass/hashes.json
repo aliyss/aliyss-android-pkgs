@@ -1,0 +1,18 @@
+{
+  "apkName": "com.android.keepass_222.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zFdeuC/1d4CmcGCtiW2N2kyFdhBH77ilRHgfRzmoy/A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zFdeuC/1d4CmcGCtiW2N2kyFdhBH77ilRHgfRzmoy/A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zFdeuC/1d4CmcGCtiW2N2kyFdhBH77ilRHgfRzmoy/A="
+    }
+  },
+  "version": "2.6.9.2"
+}

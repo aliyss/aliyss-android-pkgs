@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xmission.trevin.android.todo_1060401.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-k6g0UCM+7V9AYZe7ZRDGJRnWE4pAYnI5xrEuppmfjNA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k6g0UCM+7V9AYZe7ZRDGJRnWE4pAYnI5xrEuppmfjNA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k6g0UCM+7V9AYZe7ZRDGJRnWE4pAYnI5xrEuppmfjNA="
+    }
+  },
+  "version": "1.6.4"
+}

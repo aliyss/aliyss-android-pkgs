@@ -1,0 +1,8 @@
+{
+  "package": "dev.dimension.flare",
+  "signerFingerprints": [
+    "18:7B:97:6A:E0:67:51:EA:CD:30:64:94:16:DC:C7:25:B8:9B:F1:2D:D4:66:CC:CE:09:7B:B4:89:AD:76:97:68"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

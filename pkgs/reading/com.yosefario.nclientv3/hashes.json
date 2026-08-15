@@ -1,0 +1,18 @@
+{
+  "apkName": "com.yosefario.nclientv3_424.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H9Csn/3Oj31pOoYWT55J1XGatsM9wtEjcAztwQ7NbDg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H9Csn/3Oj31pOoYWT55J1XGatsM9wtEjcAztwQ7NbDg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H9Csn/3Oj31pOoYWT55J1XGatsM9wtEjcAztwQ7NbDg="
+    }
+  },
+  "version": "4.2.0-release"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dsalmun.luxalarm_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VjkL4plhGOYe5lfyUUAHJCpcI7gvyAJuJnGgeyxptfs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VjkL4plhGOYe5lfyUUAHJCpcI7gvyAJuJnGgeyxptfs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VjkL4plhGOYe5lfyUUAHJCpcI7gvyAJuJnGgeyxptfs="
+    }
+  },
+  "version": "2.3.0"
+}

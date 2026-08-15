@@ -1,0 +1,18 @@
+{
+  "apkName": "com.prhlt.aemus.Read4SpeechExperiments_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Y4sUWD2SDgwiM39Xeo2+E1Rj70SR9NKT+OR6IwcRDHY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y4sUWD2SDgwiM39Xeo2+E1Rj70SR9NKT+OR6IwcRDHY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y4sUWD2SDgwiM39Xeo2+E1Rj70SR9NKT+OR6IwcRDHY="
+    }
+  },
+  "version": "1.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.porg.blocker",
+  "signerFingerprints": [
+    "F6:CB:53:83:B1:20:05:57:2A:56:AC:02:DE:0B:B7:13:02:F8:3F:73:43:0B:CC:38:74:07:59:D0:EA:DC:95:BA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.tobiasbielefeld.searchbar_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aBNr+Kul5JAtweZbCXHmJtSureVCTdaLK4brcfgzIKE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aBNr+Kul5JAtweZbCXHmJtSureVCTdaLK4brcfgzIKE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aBNr+Kul5JAtweZbCXHmJtSureVCTdaLK4brcfgzIKE="
+    }
+  },
+  "version": "2.7.0"
+}

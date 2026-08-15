@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fossify.keyboard_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4yaIXAi2ghL9n92pvopPpJLV2rp/83u0/0URgm9AqNA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4yaIXAi2ghL9n92pvopPpJLV2rp/83u0/0URgm9AqNA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4yaIXAi2ghL9n92pvopPpJLV2rp/83u0/0URgm9AqNA="
+    }
+  },
+  "version": "1.9.1"
+}

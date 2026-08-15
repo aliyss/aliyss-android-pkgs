@@ -1,0 +1,18 @@
+{
+  "apkName": "com.flashsphere.privatednsqs_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-h41G4xanEvbAjVqG3goYOInQg/JsJsUmQpWxyHFBOao="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h41G4xanEvbAjVqG3goYOInQg/JsJsUmQpWxyHFBOao="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h41G4xanEvbAjVqG3goYOInQg/JsJsUmQpWxyHFBOao="
+    }
+  },
+  "version": "2.4"
+}

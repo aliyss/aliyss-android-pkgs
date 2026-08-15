@@ -1,0 +1,18 @@
+{
+  "apkName": "org.prauga.messages_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zcQiTaMz9Ldo3Ci0dFhWlY+9mWM+RCl8CGcyMM7F+Hs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zcQiTaMz9Ldo3Ci0dFhWlY+9mWM+RCl8CGcyMM7F+Hs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zcQiTaMz9Ldo3Ci0dFhWlY+9mWM+RCl8CGcyMM7F+Hs="
+    }
+  },
+  "version": "1.0.7"
+}

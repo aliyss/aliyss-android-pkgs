@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ruesga.android.wallpapers.photophase_1036.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m2yzPmQtuIdBp7ArZunIlXINVSirJivsKp3cwkgtkvk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m2yzPmQtuIdBp7ArZunIlXINVSirJivsKp3cwkgtkvk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m2yzPmQtuIdBp7ArZunIlXINVSirJivsKp3cwkgtkvk="
+    }
+  },
+  "version": "2.7.0"
+}

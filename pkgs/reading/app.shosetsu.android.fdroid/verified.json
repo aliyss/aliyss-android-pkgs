@@ -1,0 +1,8 @@
+{
+  "package": "app.shosetsu.android.fdroid",
+  "signerFingerprints": [
+    "37:8E:51:3A:BE:51:06:9D:DC:E7:5A:55:A9:1A:E5:B0:4A:67:41:C3:BA:3E:BB:57:DF:9F:13:4C:34:92:70:8F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

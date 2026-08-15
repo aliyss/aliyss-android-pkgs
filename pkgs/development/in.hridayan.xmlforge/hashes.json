@@ -1,0 +1,18 @@
+{
+  "apkName": "in.hridayan.xmlforge_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nbFKF2qJJAtJo0z+I4yaFKVodGI1Nazjjg/Kyd16OSU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nbFKF2qJJAtJo0z+I4yaFKVodGI1Nazjjg/Kyd16OSU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nbFKF2qJJAtJo0z+I4yaFKVodGI1Nazjjg/Kyd16OSU="
+    }
+  },
+  "version": "v1.1.0"
+}

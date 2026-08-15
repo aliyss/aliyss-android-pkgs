@@ -1,0 +1,18 @@
+{
+  "apkName": "deltazero.amarok.foss_118.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ro7GTgb/yUwo+G6uTcDqGEItMgx6Pf1QwksQ8IJUjYg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ro7GTgb/yUwo+G6uTcDqGEItMgx6Pf1QwksQ8IJUjYg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ro7GTgb/yUwo+G6uTcDqGEItMgx6Pf1QwksQ8IJUjYg="
+    }
+  },
+  "version": "0.9.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.luisbocanegra.substweaks",
+  "signerFingerprints": [
+    "C9:6F:D2:0F:BF:ED:34:20:CD:7E:B7:84:1F:65:1E:F6:FA:23:E7:FC:85:83:A1:07:97:03:82:0F:8D:0E:22:07"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

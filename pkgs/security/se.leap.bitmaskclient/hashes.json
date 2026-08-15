@@ -1,0 +1,18 @@
+{
+  "apkName": "se.leap.bitmaskclient_186000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lnjs1Hb56jTwuRhZSHQcJm2NQZOkP0kDsW/32qv9t7Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lnjs1Hb56jTwuRhZSHQcJm2NQZOkP0kDsW/32qv9t7Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lnjs1Hb56jTwuRhZSHQcJm2NQZOkP0kDsW/32qv9t7Y="
+    }
+  },
+  "version": "1.6.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kromke.andreas.cameradatefolders_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GIbbWTVl0BljO1No7X+nCjQgO1FNoRF6+F4esChShOE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GIbbWTVl0BljO1No7X+nCjQgO1FNoRF6+F4esChShOE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GIbbWTVl0BljO1No7X+nCjQgO1FNoRF6+F4esChShOE="
+    }
+  },
+  "version": "1.5.2"
+}

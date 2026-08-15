@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rtneg.kyuubimask_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MgEXZFIQBgQLkkBLjjak/Dri2pJTVQgVzdoRST0rITs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MgEXZFIQBgQLkkBLjjak/Dri2pJTVQgVzdoRST0rITs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MgEXZFIQBgQLkkBLjjak/Dri2pJTVQgVzdoRST0rITs="
+    }
+  },
+  "version": "1.7.12"
+}

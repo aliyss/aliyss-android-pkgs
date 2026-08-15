@@ -1,0 +1,8 @@
+{
+  "package": "com.sshborg",
+  "signerFingerprints": [
+    "0C:87:2C:49:E1:A4:B7:87:34:32:AE:47:41:CB:78:34:7D:4B:5D:07:D4:6A:99:F6:B6:3F:67:34:64:1A:BB:82"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.v2compose",
+  "signerFingerprints": [
+    "F8:AD:4F:C3:D0:8E:07:7A:99:0D:66:63:4A:B6:F6:3F:D2:D7:91:14:E3:D7:85:EB:D3:07:26:5C:EC:0E:DA:C0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

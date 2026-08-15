@@ -1,0 +1,8 @@
+{
+  "package": "dev.easonhuang.heartwood",
+  "signerFingerprints": [
+    "BB:25:E0:66:72:2C:1B:AF:E1:96:0F:A1:1F:17:E8:EB:D3:D6:48:A5:FE:CA:01:2A:12:66:E5:E4:C1:7F:F5:19"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

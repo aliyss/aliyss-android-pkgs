@@ -1,0 +1,18 @@
+{
+  "apkName": "cz.vitSkalicky.klavesnice_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gg2UwxClfI0kfSIoDNBSst/a8jKeF9FahM8/GRBS4Ic="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gg2UwxClfI0kfSIoDNBSst/a8jKeF9FahM8/GRBS4Ic="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gg2UwxClfI0kfSIoDNBSst/a8jKeF9FahM8/GRBS4Ic="
+    }
+  },
+  "version": "1.0"
+}

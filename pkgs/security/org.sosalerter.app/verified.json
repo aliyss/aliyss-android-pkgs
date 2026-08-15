@@ -1,0 +1,8 @@
+{
+  "package": "org.sosalerter.app",
+  "signerFingerprints": [
+    "83:86:85:70:C7:3D:E1:5A:A2:96:69:08:B6:7A:8E:31:54:3F:FC:D1:5F:30:8B:DC:C0:31:1D:86:6A:A3:70:45"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

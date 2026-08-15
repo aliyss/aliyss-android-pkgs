@@ -1,0 +1,8 @@
+{
+  "package": "org.ranobe.ranobe",
+  "signerFingerprints": [
+    "3A:E8:1F:26:47:AE:21:53:1B:61:AB:39:6F:CD:E2:80:72:84:E0:B3:49:53:9F:72:6E:0A:19:CE:55:39:5D:9F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

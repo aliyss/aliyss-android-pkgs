@@ -1,0 +1,18 @@
+{
+  "apkName": "site.leos.setter_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4+8Zw8+VcNxvBRz5NFbNEX5vGEMbmaPGBHpIobetFy0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4+8Zw8+VcNxvBRz5NFbNEX5vGEMbmaPGBHpIobetFy0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4+8Zw8+VcNxvBRz5NFbNEX5vGEMbmaPGBHpIobetFy0="
+    }
+  },
+  "version": "0.1.18"
+}

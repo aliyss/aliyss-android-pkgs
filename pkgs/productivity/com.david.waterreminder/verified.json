@@ -1,0 +1,8 @@
+{
+  "package": "com.david.waterreminder",
+  "signerFingerprints": [
+    "7D:2D:AD:7E:41:7C:9F:45:99:A5:D8:67:5C:F9:30:EB:6E:ED:AA:0B:CE:69:DB:83:F3:E3:15:C9:1F:45:D5:62"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

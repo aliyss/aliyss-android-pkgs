@@ -1,0 +1,8 @@
+{
+  "package": "com.jlindemann.science",
+  "signerFingerprints": [
+    "17:DD:A1:37:60:D3:57:6C:E2:BD:8F:A3:C0:17:BE:E1:A7:EE:F6:00:E3:EC:28:23:4B:11:D6:BD:66:0A:AE:73"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

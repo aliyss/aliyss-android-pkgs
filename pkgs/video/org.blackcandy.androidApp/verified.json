@@ -1,0 +1,8 @@
+{
+  "package": "org.blackcandy.androidApp",
+  "signerFingerprints": [
+    "12:84:B1:C0:38:0F:48:09:EF:C7:50:41:7E:64:93:94:B8:1A:22:74:05:3F:6E:52:19:D6:60:51:49:2A:FF:0D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

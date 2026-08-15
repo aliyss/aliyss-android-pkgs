@@ -1,0 +1,18 @@
+{
+  "apkName": "name.seguri.android.lock_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KcvmddjfoPNmoCLL1ldArHCTja7HU9NuFfqgA0P2eiw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KcvmddjfoPNmoCLL1ldArHCTja7HU9NuFfqgA0P2eiw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KcvmddjfoPNmoCLL1ldArHCTja7HU9NuFfqgA0P2eiw="
+    }
+  },
+  "version": "1.4.1"
+}

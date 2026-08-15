@@ -1,0 +1,18 @@
+{
+  "apkName": "com.stoutner.privacybrowser.standard_81.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IJ4GcMtEqVndYoc36qW43wW/tgXkcG3knqK3JoTPcuM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IJ4GcMtEqVndYoc36qW43wW/tgXkcG3knqK3JoTPcuM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IJ4GcMtEqVndYoc36qW43wW/tgXkcG3knqK3JoTPcuM="
+    }
+  },
+  "version": "3.20.1"
+}

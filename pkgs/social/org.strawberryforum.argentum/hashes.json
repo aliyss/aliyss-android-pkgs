@@ -1,0 +1,18 @@
+{
+  "apkName": "org.strawberryforum.argentum_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7wP1S5XOOXB+GuLdPKK6ZO9rN8EcqyQxtovYL33e574="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7wP1S5XOOXB+GuLdPKK6ZO9rN8EcqyQxtovYL33e574="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7wP1S5XOOXB+GuLdPKK6ZO9rN8EcqyQxtovYL33e574="
+    }
+  },
+  "version": "0.2.2a"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.tobiasbielefeld.solitaire_71.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/fr3ytGORBaYmzN7XGC3EVjFRlI4TlZP4+Y4ZCFQQiA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/fr3ytGORBaYmzN7XGC3EVjFRlI4TlZP4+Y4ZCFQQiA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/fr3ytGORBaYmzN7XGC3EVjFRlI4TlZP4+Y4ZCFQQiA="
+    }
+  },
+  "version": "3.13"
+}

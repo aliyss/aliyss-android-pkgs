@@ -1,0 +1,8 @@
+{
+  "package": "app.fedilab.castlab",
+  "signerFingerprints": [
+    "7C:8F:54:AA:E9:F8:6B:B0:A5:91:84:9E:78:E8:A4:29:F6:9B:33:38:2B:85:FD:5B:EA:D9:AA:46:94:E0:E4:37"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.tcrass.minos_10004.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r3aSM4jE7jomX2bqH9q4AJLtckABI9fiPziohigSKKA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r3aSM4jE7jomX2bqH9q4AJLtckABI9fiPziohigSKKA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r3aSM4jE7jomX2bqH9q4AJLtckABI9fiPziohigSKKA="
+    }
+  },
+  "version": "1.0.4"
+}

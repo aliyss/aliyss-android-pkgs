@@ -1,0 +1,8 @@
+{
+  "package": "app.openkuma",
+  "signerFingerprints": [
+    "86:AB:B5:58:1C:A5:78:1F:74:6E:21:78:DF:B0:47:50:A9:CB:93:32:8D:55:EE:37:D5:A9:39:1D:9E:AC:D3:76"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

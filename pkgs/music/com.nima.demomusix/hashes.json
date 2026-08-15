@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nima.demomusix_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nJEdIIudIf24EiIhc0qbNG2R/zbE5VV36iQj8X4qV/Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nJEdIIudIf24EiIhc0qbNG2R/zbE5VV36iQj8X4qV/Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nJEdIIudIf24EiIhc0qbNG2R/zbE5VV36iQj8X4qV/Q="
+    }
+  },
+  "version": "1.0"
+}

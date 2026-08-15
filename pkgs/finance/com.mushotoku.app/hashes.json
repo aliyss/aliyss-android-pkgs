@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mushotoku.app_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-imqhc8NEYt8oAWlHYzWC6IU/l37nQRG3ws6NfSUZggA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-imqhc8NEYt8oAWlHYzWC6IU/l37nQRG3ws6NfSUZggA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-imqhc8NEYt8oAWlHYzWC6IU/l37nQRG3ws6NfSUZggA="
+    }
+  },
+  "version": "1.4"
+}

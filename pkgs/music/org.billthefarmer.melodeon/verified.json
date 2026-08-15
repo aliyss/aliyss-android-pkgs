@@ -1,0 +1,8 @@
+{
+  "package": "org.billthefarmer.melodeon",
+  "signerFingerprints": [
+    "81:0E:0A:03:BB:BD:0C:6D:69:B1:6D:1C:8A:8F:FE:C2:A1:C6:36:32:4A:CB:26:35:AB:E3:0B:69:EE:16:D0:45"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

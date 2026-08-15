@@ -1,0 +1,8 @@
+{
+  "package": "org.nuclearfog.smither",
+  "signerFingerprints": [
+    "E1:A4:18:C5:1B:AA:82:99:17:DA:A2:E8:6D:75:09:A8:A1:04:70:E4:42:80:C2:01:46:B7:0E:A5:50:BF:E1:AB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

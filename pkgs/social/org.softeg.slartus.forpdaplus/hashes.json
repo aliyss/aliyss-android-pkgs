@@ -1,0 +1,18 @@
+{
+  "apkName": "org.softeg.slartus.forpdaplus_680.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Dxkst7FVMtQYa2S3iy/PcvVDuEYoa5D7rmS9dnsO/fM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dxkst7FVMtQYa2S3iy/PcvVDuEYoa5D7rmS9dnsO/fM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Dxkst7FVMtQYa2S3iy/PcvVDuEYoa5D7rmS9dnsO/fM="
+    }
+  },
+  "version": "3.6.6"
+}

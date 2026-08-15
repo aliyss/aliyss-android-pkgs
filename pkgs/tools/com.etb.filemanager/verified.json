@@ -1,0 +1,8 @@
+{
+  "package": "com.etb.filemanager",
+  "signerFingerprints": [
+    "DE:A7:97:5F:26:7A:5A:C7:6E:5D:2E:A5:BE:0D:0A:DE:B4:E7:E1:B9:8F:46:FA:20:95:14:B6:39:7A:21:27:BB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

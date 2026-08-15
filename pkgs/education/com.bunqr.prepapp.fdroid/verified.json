@@ -1,0 +1,8 @@
+{
+  "package": "com.bunqr.prepapp.fdroid",
+  "signerFingerprints": [
+    "9A:AA:DA:C4:3A:9D:C8:00:3E:0E:20:BC:BE:E4:F1:8D:D6:70:EC:79:CE:23:28:34:A1:18:05:C1:E7:FE:14:25"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

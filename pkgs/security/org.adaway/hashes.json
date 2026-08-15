@@ -1,0 +1,18 @@
+{
+  "apkName": "org.adaway_60104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DeAKWKDbtMS2vvyf4fXlOACZNIS6q5VYJHmPRvvzM44="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DeAKWKDbtMS2vvyf4fXlOACZNIS6q5VYJHmPRvvzM44="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DeAKWKDbtMS2vvyf4fXlOACZNIS6q5VYJHmPRvvzM44="
+    }
+  },
+  "version": "6.1.4"
+}

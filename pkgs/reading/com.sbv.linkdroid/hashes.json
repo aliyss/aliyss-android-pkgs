@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sbv.linkdroid_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7lGMmdhCBbd61sZlFIXWYk+7QuWyNMoQM952gXgsGcE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7lGMmdhCBbd61sZlFIXWYk+7QuWyNMoQM952gXgsGcE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7lGMmdhCBbd61sZlFIXWYk+7QuWyNMoQM952gXgsGcE="
+    }
+  },
+  "version": "2.2.0"
+}

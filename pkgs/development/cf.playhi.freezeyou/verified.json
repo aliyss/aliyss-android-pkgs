@@ -1,0 +1,8 @@
+{
+  "package": "cf.playhi.freezeyou",
+  "signerFingerprints": [
+    "DF:3C:D6:8E:CE:5A:03:DB:EA:C5:31:A7:E1:9E:84:18:1B:7F:09:FF:50:B0:45:A5:AB:CB:C6:85:B6:30:8E:47"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

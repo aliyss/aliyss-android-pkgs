@@ -1,0 +1,8 @@
+{
+  "package": "com.defname.localshare",
+  "signerFingerprints": [
+    "27:C0:A6:21:96:70:8E:C7:0B:3C:9B:76:99:D4:21:A0:6F:24:CF:6A:A1:FA:37:01:68:72:A6:3F:52:93:D6:03"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.chaidarun.chronofile_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-P2sqOmDeQOhsV4KQNiImtXr1To//lgs/gvdPXNmRO1M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P2sqOmDeQOhsV4KQNiImtXr1To//lgs/gvdPXNmRO1M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P2sqOmDeQOhsV4KQNiImtXr1To//lgs/gvdPXNmRO1M="
+    }
+  },
+  "version": "1.2.0"
+}

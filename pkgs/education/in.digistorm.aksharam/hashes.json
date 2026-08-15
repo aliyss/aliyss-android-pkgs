@@ -1,0 +1,18 @@
+{
+  "apkName": "in.digistorm.aksharam_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XJVOdObLJoM7ttd+2spnv9aBJCvnyRccAcT4TvWoqgw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XJVOdObLJoM7ttd+2spnv9aBJCvnyRccAcT4TvWoqgw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XJVOdObLJoM7ttd+2spnv9aBJCvnyRccAcT4TvWoqgw="
+    }
+  },
+  "version": "1.0.1"
+}

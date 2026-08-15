@@ -1,0 +1,8 @@
+{
+  "package": "com.alaskalinuxuser.rilcontrol",
+  "signerFingerprints": [
+    "1A:33:3C:0A:A3:8E:DC:F3:73:18:3E:B3:E5:F4:0D:AC:33:72:D3:8F:72:C0:F9:62:F1:49:83:97:D8:B7:99:2B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

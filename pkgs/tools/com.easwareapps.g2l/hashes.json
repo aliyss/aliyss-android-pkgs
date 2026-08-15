@@ -1,0 +1,18 @@
+{
+  "apkName": "com.easwareapps.g2l_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ke16VqenD5HsMSozvnTVUuxozggmhEKDC5Txvmw3tec="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ke16VqenD5HsMSozvnTVUuxozggmhEKDC5Txvmw3tec="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ke16VqenD5HsMSozvnTVUuxozggmhEKDC5Txvmw3tec="
+    }
+  },
+  "version": "2.2"
+}

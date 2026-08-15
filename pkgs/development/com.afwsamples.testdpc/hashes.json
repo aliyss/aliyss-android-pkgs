@@ -1,0 +1,18 @@
+{
+  "apkName": "com.afwsamples.testdpc_9012.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qtOMH2CLHHKJQFxOhml39dIxUCZDzi4kAafDBYCPnAA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qtOMH2CLHHKJQFxOhml39dIxUCZDzi4kAafDBYCPnAA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qtOMH2CLHHKJQFxOhml39dIxUCZDzi4kAafDBYCPnAA="
+    }
+  },
+  "version": "9.0.12"
+}

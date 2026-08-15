@@ -1,0 +1,8 @@
+{
+  "package": "net.ebt.muzei.miyazaki",
+  "signerFingerprints": [
+    "20:D0:75:A1:77:03:53:FA:CE:3C:5C:2F:33:64:CF:E4:08:F1:CE:AE:97:91:BF:2D:CD:AB:B1:9D:5E:C8:1C:A4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

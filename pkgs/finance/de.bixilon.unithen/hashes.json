@@ -1,0 +1,18 @@
+{
+  "apkName": "de.bixilon.unithen_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GE2Rak0H9rO5RijsDnW7dhTl0BUW3TNt3prhv2K5Ie8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GE2Rak0H9rO5RijsDnW7dhTl0BUW3TNt3prhv2K5Ie8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GE2Rak0H9rO5RijsDnW7dhTl0BUW3TNt3prhv2K5Ie8="
+    }
+  },
+  "version": "1.2.2"
+}

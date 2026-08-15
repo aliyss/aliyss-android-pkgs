@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dobby.vpn_1003009.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OvhfTE9KEsOxzy/GPkMheN+UQH2rh5qaTnkGtZD3+jE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OvhfTE9KEsOxzy/GPkMheN+UQH2rh5qaTnkGtZD3+jE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OvhfTE9KEsOxzy/GPkMheN+UQH2rh5qaTnkGtZD3+jE="
+    }
+  },
+  "version": "1.3.9"
+}

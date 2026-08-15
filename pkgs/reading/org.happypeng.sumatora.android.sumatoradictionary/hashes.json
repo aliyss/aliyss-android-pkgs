@@ -1,0 +1,18 @@
+{
+  "apkName": "org.happypeng.sumatora.android.sumatoradictionary_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KZpInoA0zx9CeNcL0EGluEy8/8UHf4ztE/NnKwlL+RM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KZpInoA0zx9CeNcL0EGluEy8/8UHf4ztE/NnKwlL+RM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KZpInoA0zx9CeNcL0EGluEy8/8UHf4ztE/NnKwlL+RM="
+    }
+  },
+  "version": "0.4.7.5"
+}

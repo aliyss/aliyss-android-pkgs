@@ -1,0 +1,18 @@
+{
+  "apkName": "org.breezyweather_60201.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rCcV9hZbQvs0pr/Sv+T7WBLnT78jOX/YcnEPNiCCdB4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rCcV9hZbQvs0pr/Sv+T7WBLnT78jOX/YcnEPNiCCdB4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rCcV9hZbQvs0pr/Sv+T7WBLnT78jOX/YcnEPNiCCdB4="
+    }
+  },
+  "version": "6.2.1_freenet"
+}

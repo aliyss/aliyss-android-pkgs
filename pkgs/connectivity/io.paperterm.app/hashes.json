@@ -1,0 +1,18 @@
+{
+  "apkName": "io.paperterm.app_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-b0DOiaPH5PCikiBNKShQcvqUaEGrJT3c3++lDtdPfL0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b0DOiaPH5PCikiBNKShQcvqUaEGrJT3c3++lDtdPfL0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b0DOiaPH5PCikiBNKShQcvqUaEGrJT3c3++lDtdPfL0="
+    }
+  },
+  "version": "0.1.2"
+}

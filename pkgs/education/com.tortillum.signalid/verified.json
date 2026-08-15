@@ -1,0 +1,8 @@
+{
+  "package": "com.tortillum.signalid",
+  "signerFingerprints": [
+    "AF:CB:48:D3:A7:CA:39:0A:24:CD:A1:47:2C:D3:5C:C9:0A:7E:48:31:98:74:A9:D1:D1:65:28:84:B5:F0:DC:68"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.bearinmind.launcher314",
+  "signerFingerprints": [
+    "5E:B5:2A:51:3F:6F:48:8C:D8:46:A3:42:06:08:21:85:0E:2B:40:62:64:2C:65:43:71:69:AD:44:02:AA:CA:E9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

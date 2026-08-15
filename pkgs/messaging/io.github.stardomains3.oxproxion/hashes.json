@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.stardomains3.oxproxion_214.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aZzya4MfbJA+C8hg/Eu0CFSMN76SfmVhX/dAe0zUX0c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aZzya4MfbJA+C8hg/Eu0CFSMN76SfmVhX/dAe0zUX0c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aZzya4MfbJA+C8hg/Eu0CFSMN76SfmVhX/dAe0zUX0c="
+    }
+  },
+  "version": "2.1.104"
+}

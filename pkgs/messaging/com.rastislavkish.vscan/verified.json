@@ -1,0 +1,8 @@
+{
+  "package": "com.rastislavkish.vscan",
+  "signerFingerprints": [
+    "E2:80:92:8A:E2:03:0E:20:B1:5B:F0:24:AA:D8:30:E5:43:56:53:D4:A9:00:17:C3:BB:F3:40:E4:CB:28:23:2C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

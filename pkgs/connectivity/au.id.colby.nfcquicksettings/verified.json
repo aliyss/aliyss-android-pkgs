@@ -1,0 +1,8 @@
+{
+  "package": "au.id.colby.nfcquicksettings",
+  "signerFingerprints": [
+    "CB:DF:C8:3F:3E:67:5B:28:7D:93:65:54:7A:E5:CF:F7:D5:66:FF:1D:EC:D5:C0:30:53:E4:CD:1C:23:4C:7E:AF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

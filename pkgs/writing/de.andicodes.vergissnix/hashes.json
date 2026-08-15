@@ -1,0 +1,18 @@
+{
+  "apkName": "de.andicodes.vergissnix_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NW/Z2gXMUfJjzkHkfp+C+3z0U9LKxYE9A7GfrjIEy+E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NW/Z2gXMUfJjzkHkfp+C+3z0U9LKxYE9A7GfrjIEy+E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NW/Z2gXMUfJjzkHkfp+C+3z0U9LKxYE9A7GfrjIEy+E="
+    }
+  },
+  "version": "2.3.1"
+}

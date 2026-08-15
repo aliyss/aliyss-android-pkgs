@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.logixisland.anuto_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O1enAgHWMdCB/0gOi5WKan3W/cEW1hG9G2bnbj8GzNk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O1enAgHWMdCB/0gOi5WKan3W/cEW1hG9G2bnbj8GzNk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O1enAgHWMdCB/0gOi5WKan3W/cEW1hG9G2bnbj8GzNk="
+    }
+  },
+  "version": "0.13"
+}

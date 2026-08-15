@@ -1,0 +1,18 @@
+{
+  "apkName": "espero.jiofibatterynotifier_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s3J1ihdeSCIGFL/rM2mKvxvtiRjkoyeLRGmrZNBIT9Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s3J1ihdeSCIGFL/rM2mKvxvtiRjkoyeLRGmrZNBIT9Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s3J1ihdeSCIGFL/rM2mKvxvtiRjkoyeLRGmrZNBIT9Y="
+    }
+  },
+  "version": "1.9"
+}

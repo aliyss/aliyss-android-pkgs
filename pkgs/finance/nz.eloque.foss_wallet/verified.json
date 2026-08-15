@@ -1,0 +1,8 @@
+{
+  "package": "nz.eloque.foss_wallet",
+  "signerFingerprints": [
+    "BF:8A:F6:D8:9E:55:95:D9:5F:4D:22:9E:C0:FD:97:1A:3C:75:2F:DB:AB:E8:33:77:23:0E:F9:2C:70:44:43:05"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

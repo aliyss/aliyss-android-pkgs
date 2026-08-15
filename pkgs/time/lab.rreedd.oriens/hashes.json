@@ -1,0 +1,18 @@
+{
+  "apkName": "lab.rreedd.oriens_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YCVmZ0n7yatk9GJuDjzrocZq4/Yo4/5DtfL7BOo4gmw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YCVmZ0n7yatk9GJuDjzrocZq4/Yo4/5DtfL7BOo4gmw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YCVmZ0n7yatk9GJuDjzrocZq4/Yo4/5DtfL7BOo4gmw="
+    }
+  },
+  "version": "1.0"
+}

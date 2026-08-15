@@ -1,0 +1,18 @@
+{
+  "apkName": "gizz.tapes.foss_112.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8U+mwWCvx5Qp0+hb093sBeIO9aondsWhE1YlytZpG7M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8U+mwWCvx5Qp0+hb093sBeIO9aondsWhE1YlytZpG7M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8U+mwWCvx5Qp0+hb093sBeIO9aondsWhE1YlytZpG7M="
+    }
+  },
+  "version": "KGLW"
+}

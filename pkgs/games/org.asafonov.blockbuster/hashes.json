@@ -1,0 +1,18 @@
+{
+  "apkName": "org.asafonov.blockbuster_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JtdjunNg/gtL3j5XG3vZLYoqBeaV9YNeEkIeOM/CBNE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JtdjunNg/gtL3j5XG3vZLYoqBeaV9YNeEkIeOM/CBNE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JtdjunNg/gtL3j5XG3vZLYoqBeaV9YNeEkIeOM/CBNE="
+    }
+  },
+  "version": "1.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.stersh.youamp_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IzFt90KsBDwbzbH5ExNB4K4lk+geKQi6pvM4ltGFtxU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IzFt90KsBDwbzbH5ExNB4K4lk+geKQi6pvM4ltGFtxU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IzFt90KsBDwbzbH5ExNB4K4lk+geKQi6pvM4ltGFtxU="
+    }
+  },
+  "version": "2.1.5"
+}

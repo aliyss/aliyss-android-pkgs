@@ -1,0 +1,18 @@
+{
+  "apkName": "v4lpt.vpt.f012.ryp_104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4wH1OioZ9rFiAoFZE5xq+581h09KvhkJp+D4VSwMYmw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4wH1OioZ9rFiAoFZE5xq+581h09KvhkJp+D4VSwMYmw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4wH1OioZ9rFiAoFZE5xq+581h09KvhkJp+D4VSwMYmw="
+    }
+  },
+  "version": "1.0.4"
+}

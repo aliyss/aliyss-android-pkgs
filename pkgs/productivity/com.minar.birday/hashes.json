@@ -1,0 +1,18 @@
+{
+  "apkName": "com.minar.birday_37.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r296mdeQIi7GF/k/IkIP2wRdVujfFSv0I7eqO2C1SSA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r296mdeQIi7GF/k/IkIP2wRdVujfFSv0I7eqO2C1SSA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r296mdeQIi7GF/k/IkIP2wRdVujfFSv0I7eqO2C1SSA="
+    }
+  },
+  "version": "4.7.2"
+}

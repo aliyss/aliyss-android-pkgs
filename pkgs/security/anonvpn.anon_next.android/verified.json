@@ -1,0 +1,8 @@
+{
+  "package": "anonvpn.anon_next.android",
+  "signerFingerprints": [
+    "A5:C4:0C:4A:F5:C4:20:95:90:6B:AF:21:FE:4F:30:B1:5E:94:0A:55:11:33:E5:A9:03:BD:CD:70:4D:FD:67:26"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

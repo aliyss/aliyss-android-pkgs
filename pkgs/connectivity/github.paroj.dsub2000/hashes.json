@@ -1,0 +1,18 @@
+{
+  "apkName": "github.paroj.dsub2000_217.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-j1tMybBaf6m5x98p7e/tvzDTM/o2OjeqxVIb50zKnDs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-j1tMybBaf6m5x98p7e/tvzDTM/o2OjeqxVIb50zKnDs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-j1tMybBaf6m5x98p7e/tvzDTM/o2OjeqxVIb50zKnDs="
+    }
+  },
+  "version": "5.7.4"
+}

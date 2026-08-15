@@ -1,0 +1,8 @@
+{
+  "package": "org.totschnig.myexpenses",
+  "signerFingerprints": [
+    "CC:73:D1:AF:73:2C:D0:2B:84:A9:C7:D5:6B:7B:64:B9:D6:9D:47:A2:65:EC:34:B0:88:D6:85:7D:9F:BF:97:CE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

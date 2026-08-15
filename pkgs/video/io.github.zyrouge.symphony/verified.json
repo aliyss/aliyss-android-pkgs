@@ -1,0 +1,8 @@
+{
+  "package": "io.github.zyrouge.symphony",
+  "signerFingerprints": [
+    "D5:1E:49:42:5B:54:17:3D:80:11:7B:EE:14:20:A0:1A:CA:24:FF:4C:05:D8:15:6C:79:50:D6:A5:73:43:3A:E9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

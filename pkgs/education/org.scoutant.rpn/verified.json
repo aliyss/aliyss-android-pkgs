@@ -1,0 +1,8 @@
+{
+  "package": "org.scoutant.rpn",
+  "signerFingerprints": [
+    "2D:C5:6F:71:27:1D:76:CF:AD:31:47:FA:B2:B8:56:35:38:17:61:7D:2E:8D:31:EC:6B:8F:9A:94:E5:74:0A:5C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

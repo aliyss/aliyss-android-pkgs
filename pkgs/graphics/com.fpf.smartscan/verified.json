@@ -1,0 +1,8 @@
+{
+  "package": "com.fpf.smartscan",
+  "signerFingerprints": [
+    "56:D6:CB:A6:15:6A:A0:1E:26:85:2C:E4:E3:C6:C6:FC:43:9D:AE:35:C5:8C:C2:0B:40:F2:1A:37:9E:10:E9:28"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

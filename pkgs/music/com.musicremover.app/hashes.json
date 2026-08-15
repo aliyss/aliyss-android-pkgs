@@ -1,0 +1,18 @@
+{
+  "apkName": "com.musicremover.app_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KJOlOatSG7Tz/T9KS1zM1roD8JwDcETh3NKuhgHYykA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KJOlOatSG7Tz/T9KS1zM1roD8JwDcETh3NKuhgHYykA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KJOlOatSG7Tz/T9KS1zM1roD8JwDcETh3NKuhgHYykA="
+    }
+  },
+  "version": "3.0.0"
+}

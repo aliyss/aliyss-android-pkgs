@@ -1,0 +1,18 @@
+{
+  "apkName": "co.adityarajput.fileflow_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yMElODRr4fuix9jScUk1qL3yB+9FNtPDJ5Z7iPzuqFw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yMElODRr4fuix9jScUk1qL3yB+9FNtPDJ5Z7iPzuqFw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yMElODRr4fuix9jScUk1qL3yB+9FNtPDJ5Z7iPzuqFw="
+    }
+  },
+  "version": "1.9.0"
+}

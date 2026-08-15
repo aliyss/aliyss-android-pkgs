@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kblack.offlinemap_1000006.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MfMgyS+v4u6PnviF8iZaUkxyGndIkjj3mhL09Tk5sg0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MfMgyS+v4u6PnviF8iZaUkxyGndIkjj3mhL09Tk5sg0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MfMgyS+v4u6PnviF8iZaUkxyGndIkjj3mhL09Tk5sg0="
+    }
+  },
+  "version": "1.0.0"
+}

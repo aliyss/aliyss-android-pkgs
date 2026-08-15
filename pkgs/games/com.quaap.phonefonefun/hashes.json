@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quaap.phonefonefun_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wMwND3l497RyxD7fiieDenHb+8SgSkc8m1PArThayME="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wMwND3l497RyxD7fiieDenHb+8SgSkc8m1PArThayME="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wMwND3l497RyxD7fiieDenHb+8SgSkc8m1PArThayME="
+    }
+  },
+  "version": "1.3"
+}

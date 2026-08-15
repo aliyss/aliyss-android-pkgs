@@ -1,0 +1,18 @@
+{
+  "apkName": "com.foobnix.pro.pdf.reader_7174.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iGdc31TMR4xYXiT/z0QZMmdR0Eb+4xif7r9KADfsT1s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iGdc31TMR4xYXiT/z0QZMmdR0Eb+4xif7r9KADfsT1s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iGdc31TMR4xYXiT/z0QZMmdR0Eb+4xif7r9KADfsT1s="
+    }
+  },
+  "version": "9.4.21-fdroid"
+}

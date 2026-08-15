@@ -1,0 +1,18 @@
+{
+  "apkName": "com.topjohnwu.magisk_30700.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GwWON9OvcKIAh6QtfC8LWeYy2KhXGcL+eOJDEO6lUW8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GwWON9OvcKIAh6QtfC8LWeYy2KhXGcL+eOJDEO6lUW8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GwWON9OvcKIAh6QtfC8LWeYy2KhXGcL+eOJDEO6lUW8="
+    }
+  },
+  "version": "30.7"
+}

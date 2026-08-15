@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dx.anonymousmessenger_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4sAucmgpdPTAR5Befi2T/vY+onsoJVjb3fotjqoS91I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4sAucmgpdPTAR5Befi2T/vY+onsoJVjb3fotjqoS91I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4sAucmgpdPTAR5Befi2T/vY+onsoJVjb3fotjqoS91I="
+    }
+  },
+  "version": "0.9.2"
+}

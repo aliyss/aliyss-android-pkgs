@@ -1,0 +1,18 @@
+{
+  "apkName": "de.yazo_games.mensaguthaben_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T25W5AJxyZW1r7jCGjviC+7N/9ZpQ813oV1/19LTJvU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T25W5AJxyZW1r7jCGjviC+7N/9ZpQ813oV1/19LTJvU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T25W5AJxyZW1r7jCGjviC+7N/9ZpQ813oV1/19LTJvU="
+    }
+  },
+  "version": "1.3"
+}

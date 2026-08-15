@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pgpmailer_10204.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9gH1vRYPU5pjGwHuY3usM0ZFA/+v16LWYKsp2GNSVQE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9gH1vRYPU5pjGwHuY3usM0ZFA/+v16LWYKsp2GNSVQE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9gH1vRYPU5pjGwHuY3usM0ZFA/+v16LWYKsp2GNSVQE="
+    }
+  },
+  "version": "1.2.4"
+}

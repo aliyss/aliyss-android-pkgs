@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.smarquis.soundquicksettings_11000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-A5MGl5zybdCs7efVa73sNHUZoVhTAKLt0J1Fz68n7Ng="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A5MGl5zybdCs7efVa73sNHUZoVhTAKLt0J1Fz68n7Ng="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A5MGl5zybdCs7efVa73sNHUZoVhTAKLt0J1Fz68n7Ng="
+    }
+  },
+  "version": "1.1.0"
+}

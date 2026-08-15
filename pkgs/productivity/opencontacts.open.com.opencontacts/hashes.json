@@ -1,0 +1,18 @@
+{
+  "apkName": "opencontacts.open.com.opencontacts_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PuYibypDXqSCJLN3LnIde4g0+FhbuqmlztyWfZ5/rwQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PuYibypDXqSCJLN3LnIde4g0+FhbuqmlztyWfZ5/rwQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PuYibypDXqSCJLN3LnIde4g0+FhbuqmlztyWfZ5/rwQ="
+    }
+  },
+  "version": "32.0"
+}

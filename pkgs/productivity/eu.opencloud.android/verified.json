@@ -1,0 +1,8 @@
+{
+  "package": "eu.opencloud.android",
+  "signerFingerprints": [
+    "A2:5A:9F:E9:64:E9:D9:7A:2C:B1:AE:D1:48:51:98:8C:94:45:7F:5C:3D:B3:FD:93:D4:5A:95:49:B6:A5:9F:3C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

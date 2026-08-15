@@ -1,0 +1,18 @@
+{
+  "apkName": "com.marv42.ebt.newnote_9400.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Oj8mASq3AL2I3rau7AZ3D79Ilozms6Quz5H7M+EQOn4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Oj8mASq3AL2I3rau7AZ3D79Ilozms6Quz5H7M+EQOn4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Oj8mASq3AL2I3rau7AZ3D79Ilozms6Quz5H7M+EQOn4="
+    }
+  },
+  "version": "0.94.0"
+}

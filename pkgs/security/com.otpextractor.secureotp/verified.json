@@ -1,0 +1,8 @@
+{
+  "package": "com.otpextractor.secureotp",
+  "signerFingerprints": [
+    "41:C3:21:C3:00:6B:82:27:B0:20:50:5B:92:10:9B:C1:77:D2:4A:69:EA:C5:24:47:85:EE:89:77:5A:8D:55:8B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

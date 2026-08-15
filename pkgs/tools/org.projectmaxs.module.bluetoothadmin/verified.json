@@ -1,0 +1,8 @@
+{
+  "package": "org.projectmaxs.module.bluetoothadmin",
+  "signerFingerprints": [
+    "DE:52:4D:79:C4:6F:10:C8:B5:D3:33:07:3A:46:24:F4:80:9F:F2:AF:52:92:C9:41:59:50:99:51:A9:2F:69:16"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

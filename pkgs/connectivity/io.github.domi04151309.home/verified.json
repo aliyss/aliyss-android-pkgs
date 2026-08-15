@@ -1,0 +1,8 @@
+{
+  "package": "io.github.domi04151309.home",
+  "signerFingerprints": [
+    "1F:CE:C8:4A:41:4B:9F:4E:80:8C:DC:AF:31:08:E0:E6:93:0B:97:1A:3B:66:D8:FF:23:5D:00:73:40:64:10:7B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

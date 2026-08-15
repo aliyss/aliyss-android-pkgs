@@ -1,0 +1,18 @@
+{
+  "apkName": "network.mysterium.vpn_107183.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VlcpYhTWryB2sfBolXxXX/+wcHgIjlLm1mubrjCLVfc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VlcpYhTWryB2sfBolXxXX/+wcHgIjlLm1mubrjCLVfc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VlcpYhTWryB2sfBolXxXX/+wcHgIjlLm1mubrjCLVfc="
+    }
+  },
+  "version": "2.1.15"
+}

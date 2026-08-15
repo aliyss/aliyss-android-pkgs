@@ -1,0 +1,18 @@
+{
+  "apkName": "free.rm.skytube.legacy.oss_59.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Mlrye3HbP3eE9zL3K1HuecAt+0uGJ89alKZIVgyF7hk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mlrye3HbP3eE9zL3K1HuecAt+0uGJ89alKZIVgyF7hk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mlrye3HbP3eE9zL3K1HuecAt+0uGJ89alKZIVgyF7hk="
+    }
+  },
+  "version": "2.999"
+}

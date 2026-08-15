@@ -1,0 +1,8 @@
+{
+  "package": "fr.netstat.locationindicatorwhitelist",
+  "signerFingerprints": [
+    "9F:CF:DF:35:B6:6E:42:8C:67:7B:88:5C:69:A1:B3:1F:72:3F:5B:65:85:1E:90:39:BD:D1:6F:C3:19:2D:EB:CA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

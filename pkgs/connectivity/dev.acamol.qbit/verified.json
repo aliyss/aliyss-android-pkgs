@@ -1,0 +1,8 @@
+{
+  "package": "dev.acamol.qbit",
+  "signerFingerprints": [
+    "E2:FC:9B:D3:91:F7:D8:3B:52:31:20:59:08:B8:FB:4E:7B:19:4E:17:BF:58:FE:1B:87:6C:2B:CA:7E:B0:DF:D4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.example.journal",
+  "signerFingerprints": [
+    "E5:31:2B:89:65:58:F9:55:F4:BB:C5:21:89:6B:EA:9D:1E:D0:7A:ED:B4:DE:74:84:06:DC:BA:5F:AE:23:EF:83"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

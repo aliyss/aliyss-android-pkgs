@@ -1,0 +1,18 @@
+{
+  "apkName": "com.burhanrashid52.photoediting_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XxpTipm/tUpEGHuABgDNbqz+mO6uX5rJV0vrFEXUu5k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XxpTipm/tUpEGHuABgDNbqz+mO6uX5rJV0vrFEXUu5k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XxpTipm/tUpEGHuABgDNbqz+mO6uX5rJV0vrFEXUu5k="
+    }
+  },
+  "version": "3.1.0"
+}

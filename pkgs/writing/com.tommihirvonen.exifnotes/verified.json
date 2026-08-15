@@ -1,0 +1,8 @@
+{
+  "package": "com.tommihirvonen.exifnotes",
+  "signerFingerprints": [
+    "CA:9F:70:55:86:F8:B9:A1:B7:2E:2F:CA:AE:21:40:14:9D:30:81:56:CC:6A:5C:0C:D1:A4:75:08:9E:69:59:81"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kaajjo.libresudoku_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HpPSvi4jTNsuOMecU5VCpyy+AzCg0doe6wyM5UThLVc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HpPSvi4jTNsuOMecU5VCpyy+AzCg0doe6wyM5UThLVc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HpPSvi4jTNsuOMecU5VCpyy+AzCg0doe6wyM5UThLVc="
+    }
+  },
+  "version": "2.0.2"
+}

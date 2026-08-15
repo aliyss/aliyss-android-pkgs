@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.ebraminio.bouncy_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pQnbKv2lRPbaliDrRzMZsKA0xv/ItlNuKop7zA9Af1Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pQnbKv2lRPbaliDrRzMZsKA0xv/ItlNuKop7zA9Af1Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pQnbKv2lRPbaliDrRzMZsKA0xv/ItlNuKop7zA9Af1Q="
+    }
+  },
+  "version": "0.0.1"
+}

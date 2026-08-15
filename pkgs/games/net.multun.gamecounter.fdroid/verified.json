@@ -1,0 +1,8 @@
+{
+  "package": "net.multun.gamecounter.fdroid",
+  "signerFingerprints": [
+    "83:6E:78:CC:CB:68:D3:0F:D5:48:98:33:FC:78:AD:DF:21:4F:2B:74:D9:89:98:4C:5F:29:CA:A4:F6:96:47:FA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

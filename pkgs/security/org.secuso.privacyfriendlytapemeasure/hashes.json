@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlytapemeasure_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-L3p9qns8UhH4QUOSnlzKfX93rjC/dRaptxHmL5j3Px0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-L3p9qns8UhH4QUOSnlzKfX93rjC/dRaptxHmL5j3Px0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-L3p9qns8UhH4QUOSnlzKfX93rjC/dRaptxHmL5j3Px0="
+    }
+  },
+  "version": "1.1.3"
+}

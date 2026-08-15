@@ -1,0 +1,8 @@
+{
+  "package": "com.rifsxd.processhook",
+  "signerFingerprints": [
+    "13:EF:3C:F1:B4:58:2F:76:15:D1:1C:0D:87:84:BC:E4:02:D2:E1:45:1B:F9:65:D2:87:12:12:EF:93:FF:F8:1A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

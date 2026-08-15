@@ -1,0 +1,8 @@
+{
+  "package": "dev.bg.rbtlui",
+  "signerFingerprints": [
+    "39:56:53:3C:54:22:18:34:9B:5F:3F:7F:3D:3A:69:26:06:0C:1A:0C:DF:32:D6:E5:8E:A1:DE:3A:36:C2:12:13"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

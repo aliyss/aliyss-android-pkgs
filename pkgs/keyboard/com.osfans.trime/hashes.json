@@ -1,0 +1,18 @@
+{
+  "apkName": "com.osfans.trime_20260701.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Amnf9lm8o2NHJ596f1rCxAdBBrhGXH1YnCwv8OqypkQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Amnf9lm8o2NHJ596f1rCxAdBBrhGXH1YnCwv8OqypkQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Amnf9lm8o2NHJ596f1rCxAdBBrhGXH1YnCwv8OqypkQ="
+    }
+  },
+  "version": "3.3.11"
+}

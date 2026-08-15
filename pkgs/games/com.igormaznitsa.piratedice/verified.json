@@ -1,0 +1,8 @@
+{
+  "package": "com.igormaznitsa.piratedice",
+  "signerFingerprints": [
+    "5F:0A:DF:FC:6A:CD:A0:33:F7:07:D7:76:CD:FC:05:81:60:D8:37:17:97:D4:22:D8:C2:3D:F3:08:E5:2C:A7:03"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

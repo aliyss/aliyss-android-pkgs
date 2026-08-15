@@ -1,0 +1,8 @@
+{
+  "package": "com.leaf.explorer",
+  "signerFingerprints": [
+    "D3:07:F1:5C:65:43:3A:52:FB:9E:4E:6F:26:C3:D9:A0:AF:AD:72:3A:EE:DE:9E:53:15:E7:2A:30:B2:B8:23:0D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

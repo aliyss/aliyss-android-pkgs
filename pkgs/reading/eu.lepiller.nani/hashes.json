@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.lepiller.nani_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-suN6H/gp7aHKQHfxqBxVW/x0AK2CrlXI2qSCsYdxsqM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-suN6H/gp7aHKQHfxqBxVW/x0AK2CrlXI2qSCsYdxsqM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-suN6H/gp7aHKQHfxqBxVW/x0AK2CrlXI2qSCsYdxsqM="
+    }
+  },
+  "version": "0.5.2"
+}

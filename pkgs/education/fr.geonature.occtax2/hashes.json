@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.geonature.occtax2_3372.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/x/OelUFIz8vAdfwE/d2K/ra58fyVMI3rA3bLCRRVj4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/x/OelUFIz8vAdfwE/d2K/ra58fyVMI3rA3bLCRRVj4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/x/OelUFIz8vAdfwE/d2K/ra58fyVMI3rA3bLCRRVj4="
+    }
+  },
+  "version": "2.8.1"
+}

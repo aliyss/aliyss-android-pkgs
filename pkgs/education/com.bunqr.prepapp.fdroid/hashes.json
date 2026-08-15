@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bunqr.prepapp.fdroid_1000006.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yhM8rW+dtlVGbo5o5v1nMjo4KIHDNHwROirOy9y3e2U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yhM8rW+dtlVGbo5o5v1nMjo4KIHDNHwROirOy9y3e2U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yhM8rW+dtlVGbo5o5v1nMjo4KIHDNHwROirOy9y3e2U="
+    }
+  },
+  "version": "1.0.6-fdroid"
+}

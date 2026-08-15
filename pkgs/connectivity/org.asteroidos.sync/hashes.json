@@ -1,0 +1,18 @@
+{
+  "apkName": "org.asteroidos.sync_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-neaDUCRYN/pSrcd7zmIxYeeO7P5Kf1LIC8SzdfY2ohU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-neaDUCRYN/pSrcd7zmIxYeeO7P5Kf1LIC8SzdfY2ohU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-neaDUCRYN/pSrcd7zmIxYeeO7P5Kf1LIC8SzdfY2ohU="
+    }
+  },
+  "version": "0.29"
+}

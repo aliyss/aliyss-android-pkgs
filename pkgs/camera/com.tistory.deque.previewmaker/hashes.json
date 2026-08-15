@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tistory.deque.previewmaker_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JSIQZbdQ+BhRs4xPQ93H/aacxZ2hXi7vT07eOAv5L5g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JSIQZbdQ+BhRs4xPQ93H/aacxZ2hXi7vT07eOAv5L5g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JSIQZbdQ+BhRs4xPQ93H/aacxZ2hXi7vT07eOAv5L5g="
+    }
+  },
+  "version": "1.4.2"
+}

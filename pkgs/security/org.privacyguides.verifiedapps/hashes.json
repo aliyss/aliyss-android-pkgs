@@ -1,0 +1,18 @@
+{
+  "apkName": "org.privacyguides.verifiedapps_26060014.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/UHWoQE90Q5FAqiVOaSuQK/ApgLLdWqcVmUIbAerZLY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/UHWoQE90Q5FAqiVOaSuQK/ApgLLdWqcVmUIbAerZLY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/UHWoQE90Q5FAqiVOaSuQK/ApgLLdWqcVmUIbAerZLY="
+    }
+  },
+  "version": "26.6.14"
+}

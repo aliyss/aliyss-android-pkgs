@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nicolasbrailo.vlcfreemote_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fe6TImN9Yt5FJVwjIyQ3sNb1i6r6dxwIzUc5XfX8+Ts="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fe6TImN9Yt5FJVwjIyQ3sNb1i6r6dxwIzUc5XfX8+Ts="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fe6TImN9Yt5FJVwjIyQ3sNb1i6r6dxwIzUc5XfX8+Ts="
+    }
+  },
+  "version": "1.15"
+}

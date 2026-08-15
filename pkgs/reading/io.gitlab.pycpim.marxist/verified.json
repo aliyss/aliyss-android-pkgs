@@ -1,0 +1,8 @@
+{
+  "package": "io.gitlab.pycpim.marxist",
+  "signerFingerprints": [
+    "5F:2A:04:EC:25:03:11:C6:18:E7:72:BC:31:AE:93:A0:A4:F3:E6:9B:6C:96:88:55:79:E1:34:A1:F9:32:EB:5A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

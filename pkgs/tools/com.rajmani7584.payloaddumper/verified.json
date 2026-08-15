@@ -1,0 +1,8 @@
+{
+  "package": "com.rajmani7584.payloaddumper",
+  "signerFingerprints": [
+    "24:CB:17:5E:AB:56:F2:AF:3C:73:B8:0A:89:EF:0F:02:D6:19:73:06:73:FA:9E:AA:87:3D:2C:93:EF:8E:92:B3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

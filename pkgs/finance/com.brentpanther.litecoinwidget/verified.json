@@ -1,0 +1,8 @@
+{
+  "package": "com.brentpanther.litecoinwidget",
+  "signerFingerprints": [
+    "48:E6:F9:5B:5C:11:4A:BC:F1:2E:8C:17:0D:C1:12:A5:DE:1E:4F:8D:E5:CA:E5:5C:45:68:55:31:8C:17:33:85"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

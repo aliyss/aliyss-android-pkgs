@@ -1,0 +1,8 @@
+{
+  "package": "com.kaleedtc.privacium",
+  "signerFingerprints": [
+    "5E:43:03:AF:D0:D8:C8:5E:2A:1B:0A:FD:76:41:97:A5:33:96:02:CF:29:14:09:34:1B:AD:DF:DF:23:43:60:34"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

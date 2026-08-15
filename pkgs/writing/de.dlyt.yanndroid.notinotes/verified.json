@@ -1,0 +1,8 @@
+{
+  "package": "de.dlyt.yanndroid.notinotes",
+  "signerFingerprints": [
+    "D6:CB:A0:26:E2:F1:8F:B4:83:B4:0F:D1:51:15:28:99:BB:69:50:9D:4B:93:45:A6:FB:53:0E:9F:6A:E3:2B:BB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

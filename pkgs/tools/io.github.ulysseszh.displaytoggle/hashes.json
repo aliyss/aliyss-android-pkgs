@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.ulysseszh.displaytoggle_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LRvbVOh9cUuKXhxmaKBrXNSnn1hmJAsfLy6obQYvJbs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LRvbVOh9cUuKXhxmaKBrXNSnn1hmJAsfLy6obQYvJbs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LRvbVOh9cUuKXhxmaKBrXNSnn1hmJAsfLy6obQYvJbs="
+    }
+  },
+  "version": "0.1.0"
+}

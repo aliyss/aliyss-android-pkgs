@@ -1,0 +1,8 @@
+{
+  "package": "io.github.randomfilemaker",
+  "signerFingerprints": [
+    "D7:0B:C9:D0:D8:13:A5:B7:09:C2:74:DA:2F:20:23:E0:FD:41:B7:8C:E5:A0:69:3B:F1:DA:EC:06:85:A9:DB:89"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

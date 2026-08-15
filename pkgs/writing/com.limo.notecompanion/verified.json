@@ -1,0 +1,8 @@
+{
+  "package": "com.limo.notecompanion",
+  "signerFingerprints": [
+    "78:39:89:6B:8B:CF:D2:34:AD:E8:2E:BA:D5:7B:E0:1A:AB:74:62:0D:A1:E1:73:E2:FC:4E:0A:AA:B2:90:34:FC"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.phonepvr.friends",
+  "signerFingerprints": [
+    "52:F1:E0:29:86:A1:19:77:BA:BC:B7:27:86:FE:31:EB:AF:C8:7D:E8:5C:E3:04:C8:F4:69:B6:5E:D7:89:CD:67"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ephemeralwp.safespace_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yuCaVijsLw3ltLGIDW3/qn1AYzNcZo/DQJuYwlRB+wA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yuCaVijsLw3ltLGIDW3/qn1AYzNcZo/DQJuYwlRB+wA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yuCaVijsLw3ltLGIDW3/qn1AYzNcZo/DQJuYwlRB+wA="
+    }
+  },
+  "version": "54.0"
+}

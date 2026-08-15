@@ -1,0 +1,18 @@
+{
+  "apkName": "io.nandandesai.privacybreacher_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Nv1re5VE/b7/1X0+j+CVECvLeGYciO2Udf7frxQfxBk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nv1re5VE/b7/1X0+j+CVECvLeGYciO2Udf7frxQfxBk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Nv1re5VE/b7/1X0+j+CVECvLeGYciO2Udf7frxQfxBk="
+    }
+  },
+  "version": "1.1.1"
+}

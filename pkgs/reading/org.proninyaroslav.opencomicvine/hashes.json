@@ -1,0 +1,18 @@
+{
+  "apkName": "org.proninyaroslav.opencomicvine_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/rm4J9yIVgt3+BDfzH6+aILh0rgr5/DhOjlbUod3hio="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/rm4J9yIVgt3+BDfzH6+aILh0rgr5/DhOjlbUod3hio="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/rm4J9yIVgt3+BDfzH6+aILh0rgr5/DhOjlbUod3hio="
+    }
+  },
+  "version": "1.1.4"
+}

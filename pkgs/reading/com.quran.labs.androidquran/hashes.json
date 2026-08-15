@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quran.labs.androidquran_3630.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lThCK1nC68eeOFHgLt91KxhVU8OYrmdjOV9e8RRQ2WQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lThCK1nC68eeOFHgLt91KxhVU8OYrmdjOV9e8RRQ2WQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lThCK1nC68eeOFHgLt91KxhVU8OYrmdjOV9e8RRQ2WQ="
+    }
+  },
+  "version": "3.6.3"
+}

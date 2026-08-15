@@ -1,0 +1,8 @@
+{
+  "package": "com.github.gschwind.fiddle_assistant",
+  "signerFingerprints": [
+    "E7:F0:87:C3:ED:1A:79:E0:31:27:85:EF:49:A0:76:05:72:E3:7B:26:7F:D6:9B:ED:7C:12:41:71:4D:49:F8:22"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

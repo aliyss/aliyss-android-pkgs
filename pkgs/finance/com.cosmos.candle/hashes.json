@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cosmos.candle_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XDbni8jVrWsyPsmtL1yNTSn9ujDazR3GiMO5s+9pf1U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XDbni8jVrWsyPsmtL1yNTSn9ujDazR3GiMO5s+9pf1U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XDbni8jVrWsyPsmtL1yNTSn9ujDazR3GiMO5s+9pf1U="
+    }
+  },
+  "version": "0.2.3"
+}

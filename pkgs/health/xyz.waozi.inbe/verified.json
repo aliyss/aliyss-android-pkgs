@@ -1,0 +1,8 @@
+{
+  "package": "xyz.waozi.inbe",
+  "signerFingerprints": [
+    "47:64:8D:C7:66:5D:B1:2A:97:C3:07:7A:48:92:CE:29:07:2C:75:6B:B3:1B:5C:33:1B:89:24:49:3C:88:84:75"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

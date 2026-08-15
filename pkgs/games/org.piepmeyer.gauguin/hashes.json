@@ -1,0 +1,18 @@
+{
+  "apkName": "org.piepmeyer.gauguin_76.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vjwfM01pbxLO6vTnksMKBQ+4CxMmDYiWD0zISJlfVVM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vjwfM01pbxLO6vTnksMKBQ+4CxMmDYiWD0zISJlfVVM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vjwfM01pbxLO6vTnksMKBQ+4CxMmDYiWD0zISJlfVVM="
+    }
+  },
+  "version": "0.52.0"
+}

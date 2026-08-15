@@ -1,0 +1,8 @@
+{
+  "package": "com.javalon.englishwhiz",
+  "signerFingerprints": [
+    "33:C2:69:22:66:80:00:F6:B6:BB:6B:7A:AC:97:5E:1E:F4:42:21:CC:63:7A:24:2A:C7:33:60:02:D5:D6:DD:F2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.openappslabs.jotter",
+  "signerFingerprints": [
+    "B5:E3:8F:24:ED:A1:B1:FE:A8:7D:DB:90:97:62:0C:82:63:2B:C3:B2:AC:D4:A7:EE:CA:98:72:AE:32:BB:8B:B6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

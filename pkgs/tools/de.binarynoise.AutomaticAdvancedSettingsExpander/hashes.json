@@ -1,0 +1,18 @@
+{
+  "apkName": "de.binarynoise.AutomaticAdvancedSettingsExpander_75.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m736wDcl0Fsg8fh/3mmXj/zcFy6HxmzEyQMXt0n/B6E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m736wDcl0Fsg8fh/3mmXj/zcFy6HxmzEyQMXt0n/B6E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m736wDcl0Fsg8fh/3mmXj/zcFy6HxmzEyQMXt0n/B6E="
+    }
+  },
+  "version": "75-baae36a-20260404"
+}

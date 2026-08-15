@@ -1,0 +1,18 @@
+{
+  "apkName": "com.defname.localshare_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-No8Tau4HwH2E3XZfw97xCFhB+jSKeZ7iOlvHIFOsxVk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-No8Tau4HwH2E3XZfw97xCFhB+jSKeZ7iOlvHIFOsxVk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-No8Tau4HwH2E3XZfw97xCFhB+jSKeZ7iOlvHIFOsxVk="
+    }
+  },
+  "version": "0.2.10"
+}

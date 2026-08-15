@@ -1,0 +1,8 @@
+{
+  "package": "com.github.mdeluise.plantit",
+  "signerFingerprints": [
+    "0E:B8:7F:B7:F2:2B:9A:E0:4D:A2:FF:58:17:D3:04:52:44:E5:91:60:8A:AF:56:51:61:A8:6F:5D:25:4B:BA:B7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

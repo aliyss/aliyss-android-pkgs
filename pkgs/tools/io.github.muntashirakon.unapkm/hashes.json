@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.muntashirakon.unapkm_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4ElNcABAygqgm8B0ecR2kA52otFD7lltyyKKITKKJ3I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4ElNcABAygqgm8B0ecR2kA52otFD7lltyyKKITKKJ3I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4ElNcABAygqgm8B0ecR2kA52otFD7lltyyKKITKKJ3I="
+    }
+  },
+  "version": "1.4"
+}

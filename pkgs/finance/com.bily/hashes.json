@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bily_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4wFzQc9pnAiS4yUAnSAPvZ2i5Xzyua6H/yuO8Ul43TY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4wFzQc9pnAiS4yUAnSAPvZ2i5Xzyua6H/yuO8Ul43TY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4wFzQc9pnAiS4yUAnSAPvZ2i5Xzyua6H/yuO8Ul43TY="
+    }
+  },
+  "version": "2.1.0"
+}

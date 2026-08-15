@@ -1,0 +1,8 @@
+{
+  "package": "org.michaelevans.nightmodeenabler",
+  "signerFingerprints": [
+    "9D:4B:E6:67:58:1F:65:52:1F:3D:C3:0D:5E:C1:6B:AF:1F:14:5B:CF:95:42:9F:2C:7D:66:C1:63:51:37:F0:E1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.handmadeideas.floccus",
+  "signerFingerprints": [
+    "ED:70:EE:84:EB:35:BB:BF:87:56:C7:B2:D5:AF:B8:6E:CA:BA:DD:07:4F:65:79:EC:EF:5C:D7:4F:C8:93:CC:12"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

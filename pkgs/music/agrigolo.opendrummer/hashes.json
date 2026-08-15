@@ -1,0 +1,18 @@
+{
+  "apkName": "agrigolo.opendrummer_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-k0eHe8NAXXjuna83RbEKR0iT6T68hXpc28CWD6htSVc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k0eHe8NAXXjuna83RbEKR0iT6T68hXpc28CWD6htSVc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k0eHe8NAXXjuna83RbEKR0iT6T68hXpc28CWD6htSVc="
+    }
+  },
+  "version": "v1.1"
+}

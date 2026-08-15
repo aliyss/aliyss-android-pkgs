@@ -1,0 +1,8 @@
+{
+  "package": "cc.kafuu.bilidownload",
+  "signerFingerprints": [
+    "39:DE:52:C0:7B:B4:09:B0:E0:DB:6B:1C:65:76:05:D1:A3:8A:CA:F1:06:20:1C:AB:FE:0D:01:7D:6E:F3:28:F9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

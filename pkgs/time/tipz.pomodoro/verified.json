@@ -1,0 +1,8 @@
+{
+  "package": "tipz.pomodoro",
+  "signerFingerprints": [
+    "7A:EB:A5:7B:E6:25:9D:F5:EA:CB:4B:AB:2B:E9:BB:FA:78:50:99:6B:30:4C:9F:FC:EB:11:2A:95:49:53:48:5D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

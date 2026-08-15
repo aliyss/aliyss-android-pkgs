@@ -1,0 +1,18 @@
+{
+  "apkName": "com.louissimonmcnicoll.simpleframe_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TpFvynvCDMW5WRZH2/0+VN5uK7vA+m1XqBMI2ix5FXk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TpFvynvCDMW5WRZH2/0+VN5uK7vA+m1XqBMI2ix5FXk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TpFvynvCDMW5WRZH2/0+VN5uK7vA+m1XqBMI2ix5FXk="
+    }
+  },
+  "version": "2.3"
+}

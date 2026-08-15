@@ -1,0 +1,8 @@
+{
+  "package": "com.headi.app",
+  "signerFingerprints": [
+    "7A:2D:95:55:C4:6F:71:E1:1F:6D:61:98:00:E5:2C:8A:F4:43:63:88:90:AC:BA:43:EA:A1:2E:92:FF:33:D2:D3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "moe.henry_zhr.force_dark",
+  "signerFingerprints": [
+    "16:0B:79:DE:BB:33:0B:26:08:F2:FE:01:22:A6:54:C4:66:8F:48:AF:4E:C6:A0:ED:1D:CF:7B:D1:B0:F2:2D:8D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

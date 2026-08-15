@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jvillalba.apod.md_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AG0uo1y3W9CnBc7AXmhsGpZOal3HBZ3ODJyHqrZ0B4g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AG0uo1y3W9CnBc7AXmhsGpZOal3HBZ3ODJyHqrZ0B4g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AG0uo1y3W9CnBc7AXmhsGpZOal3HBZ3ODJyHqrZ0B4g="
+    }
+  },
+  "version": "3.2.8"
+}

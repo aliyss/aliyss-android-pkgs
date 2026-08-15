@@ -1,0 +1,8 @@
+{
+  "package": "com.pindroid",
+  "signerFingerprints": [
+    "31:10:37:A9:45:52:6C:37:8C:D2:1A:28:E8:25:10:B5:A9:2F:1B:1A:14:58:30:62:D2:5B:C5:43:8F:2C:F7:13"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

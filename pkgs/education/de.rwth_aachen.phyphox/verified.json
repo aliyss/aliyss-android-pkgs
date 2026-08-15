@@ -1,0 +1,8 @@
+{
+  "package": "de.rwth_aachen.phyphox",
+  "signerFingerprints": [
+    "DE:21:41:76:00:30:16:4A:6E:2B:15:5F:91:84:3B:91:F0:60:CB:16:64:48:09:54:2A:DD:BB:04:CA:C2:F3:0C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

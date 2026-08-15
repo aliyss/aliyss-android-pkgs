@@ -1,0 +1,8 @@
+{
+  "package": "org.olpc_france.sugarizer",
+  "signerFingerprints": [
+    "2E:B3:A5:D0:DC:A2:22:A6:23:64:53:C1:CA:DD:BF:C5:18:BA:75:04:DE:25:B5:71:38:D2:F2:ED:A6:BA:3F:63"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.nathaniel.motus.cavevin",
+  "signerFingerprints": [
+    "73:61:54:16:A5:22:9A:FC:B2:30:EB:B0:AD:B6:DB:7B:DC:F7:38:C2:8C:D9:A5:A3:65:40:82:A5:28:56:52:07"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

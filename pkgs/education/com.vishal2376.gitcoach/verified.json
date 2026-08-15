@@ -1,0 +1,8 @@
+{
+  "package": "com.vishal2376.gitcoach",
+  "signerFingerprints": [
+    "E2:53:57:E8:70:86:AB:F1:0B:FA:F9:41:50:3A:D8:87:14:56:80:1D:25:14:17:5F:BA:D3:0C:24:00:70:70:EE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

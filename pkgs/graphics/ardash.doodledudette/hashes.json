@@ -1,0 +1,18 @@
+{
+  "apkName": "ardash.doodledudette_1000008.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+1FmnRN5uZeUnc033G9L2W7lneo5ESA4fdW5kk4qB/0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+1FmnRN5uZeUnc033G9L2W7lneo5ESA4fdW5kk4qB/0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+1FmnRN5uZeUnc033G9L2W7lneo5ESA4fdW5kk4qB/0="
+    }
+  },
+  "version": "1.0.8"
+}

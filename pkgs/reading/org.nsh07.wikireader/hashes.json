@@ -1,0 +1,18 @@
+{
+  "apkName": "org.nsh07.wikireader_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DAbl/EXqvMu+Ko0oe8Za4T49eX1N1B5jfJjZRqSJVEQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DAbl/EXqvMu+Ko0oe8Za4T49eX1N1B5jfJjZRqSJVEQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DAbl/EXqvMu+Ko0oe8Za4T49eX1N1B5jfJjZRqSJVEQ="
+    }
+  },
+  "version": "2.5.5"
+}

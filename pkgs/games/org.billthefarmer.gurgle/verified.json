@@ -1,0 +1,8 @@
+{
+  "package": "org.billthefarmer.gurgle",
+  "signerFingerprints": [
+    "CE:03:76:ED:FA:B0:5A:B8:1E:02:80:06:DF:91:54:B7:CE:3A:F4:6D:DA:77:14:0F:EB:74:89:E1:CA:CD:76:9D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

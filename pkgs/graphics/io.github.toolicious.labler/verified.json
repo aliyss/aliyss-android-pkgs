@@ -1,0 +1,8 @@
+{
+  "package": "io.github.toolicious.labler",
+  "signerFingerprints": [
+    "2E:ED:22:2A:C7:B3:C3:9B:36:7A:17:E3:D4:A7:04:0D:8B:91:71:53:8E:C0:FC:13:20:D2:E4:18:4C:82:7A:5E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

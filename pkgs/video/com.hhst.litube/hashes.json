@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hhst.litube_214.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TEqxoBoEKYHLkRJE1G4ZaOuXldZLWvCnRJ2+r0z0J9U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TEqxoBoEKYHLkRJE1G4ZaOuXldZLWvCnRJ2+r0z0J9U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TEqxoBoEKYHLkRJE1G4ZaOuXldZLWvCnRJ2+r0z0J9U="
+    }
+  },
+  "version": "v2.1.4"
+}

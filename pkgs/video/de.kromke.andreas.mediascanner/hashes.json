@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kromke.andreas.mediascanner_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-47zxsAvUNMGHzQmpjObPR6sf7gSkEa5oGueAVT02uq8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-47zxsAvUNMGHzQmpjObPR6sf7gSkEa5oGueAVT02uq8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-47zxsAvUNMGHzQmpjObPR6sf7gSkEa5oGueAVT02uq8="
+    }
+  },
+  "version": "1.9.1"
+}

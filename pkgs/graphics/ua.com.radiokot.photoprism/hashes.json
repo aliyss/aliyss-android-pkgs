@@ -1,0 +1,18 @@
+{
+  "apkName": "ua.com.radiokot.photoprism_68.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rjFNWohZaEvWN8hLnqDWIZmL7dggyyHFccK13vIdkcA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rjFNWohZaEvWN8hLnqDWIZmL7dggyyHFccK13vIdkcA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rjFNWohZaEvWN8hLnqDWIZmL7dggyyHFccK13vIdkcA="
+    }
+  },
+  "version": "1.44.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "dev.pranav.applock",
+  "signerFingerprints": [
+    "AF:7F:36:02:3C:6A:77:50:84:72:52:E5:D4:D1:4A:99:2B:62:13:64:60:07:05:E1:D8:B0:FE:44:D1:AC:8C:81"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

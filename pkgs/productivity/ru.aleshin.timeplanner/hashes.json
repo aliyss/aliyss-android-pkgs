@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.aleshin.timeplanner_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MIfg4DXhqRW5/G94xFRNRNOM7FMbuSA5oYzxQ8nE3JM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MIfg4DXhqRW5/G94xFRNRNOM7FMbuSA5oYzxQ8nE3JM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MIfg4DXhqRW5/G94xFRNRNOM7FMbuSA5oYzxQ8nE3JM="
+    }
+  },
+  "version": "2.0.0"
+}

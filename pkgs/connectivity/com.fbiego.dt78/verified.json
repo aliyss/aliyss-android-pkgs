@@ -1,0 +1,8 @@
+{
+  "package": "com.fbiego.dt78",
+  "signerFingerprints": [
+    "00:B3:44:25:D9:05:BB:3E:6D:AA:6F:E5:5D:E7:0A:92:E2:96:2E:EF:81:BD:9A:14:23:78:AF:3C:D3:4E:E5:FF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

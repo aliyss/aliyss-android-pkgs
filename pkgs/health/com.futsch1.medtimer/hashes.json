@@ -1,0 +1,18 @@
+{
+  "apkName": "com.futsch1.medtimer_183.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4maiS3Mvpor5dtv1sMb4btLDSkRcWsPeG2DN+kniTNs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4maiS3Mvpor5dtv1sMb4btLDSkRcWsPeG2DN+kniTNs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4maiS3Mvpor5dtv1sMb4btLDSkRcWsPeG2DN+kniTNs="
+    }
+  },
+  "version": "1.25.0"
+}

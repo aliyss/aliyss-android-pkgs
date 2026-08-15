@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.co.busydoingnothing.pocketrl_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IyfGZDl0aTaMaqL+8hz8Fy02lifH7QoJ7h5PRo1Do3U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IyfGZDl0aTaMaqL+8hz8Fy02lifH7QoJ7h5PRo1Do3U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IyfGZDl0aTaMaqL+8hz8Fy02lifH7QoJ7h5PRo1Do3U="
+    }
+  },
+  "version": "0.1"
+}

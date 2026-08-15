@@ -1,0 +1,8 @@
+{
+  "package": "org.satdump.SatDump",
+  "signerFingerprints": [
+    "60:EA:0A:03:57:B5:A6:E6:28:FA:55:C6:2C:B9:06:F7:CF:02:E6:C3:01:DC:0B:C0:74:88:E0:9A:EC:6E:14:50"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

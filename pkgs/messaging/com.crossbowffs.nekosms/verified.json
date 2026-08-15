@@ -1,0 +1,8 @@
+{
+  "package": "com.crossbowffs.nekosms",
+  "signerFingerprints": [
+    "98:3A:C8:DF:3D:E5:A1:73:33:F2:40:52:D7:D5:08:9C:5E:FA:DE:4D:AA:13:58:22:B9:B4:1F:7C:E4:00:1F:CB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

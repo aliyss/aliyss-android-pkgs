@@ -1,0 +1,8 @@
+{
+  "package": "io.sensify.sensor.foss",
+  "signerFingerprints": [
+    "60:91:29:8F:6F:09:74:FE:87:CE:D1:DB:61:6E:D8:BC:EB:B8:B0:15:24:4B:01:86:DE:ED:15:21:05:B2:86:BB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.oF2pks.kalturadeviceinfos_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IY4hPRAUpa6YEWAnQXO81fJZ3vo4BeNGXxwQ5Pjqc9k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IY4hPRAUpa6YEWAnQXO81fJZ3vo4BeNGXxwQ5Pjqc9k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IY4hPRAUpa6YEWAnQXO81fJZ3vo4BeNGXxwQ5Pjqc9k="
+    }
+  },
+  "version": "2.12-24"
+}

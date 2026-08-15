@@ -1,0 +1,8 @@
+{
+  "package": "com.orik.airdotsdoubletap",
+  "signerFingerprints": [
+    "08:5C:25:33:6B:97:D2:8D:10:13:7F:52:5F:DB:0A:89:C9:29:D4:FC:15:66:0F:C2:F4:94:8F:49:D3:AE:59:02"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "godau.fynn.moodledirect_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3260+xooNWJh5Is/6kJdqsifOcVL0TGOn5Lf8aHkl+A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3260+xooNWJh5Is/6kJdqsifOcVL0TGOn5Lf8aHkl+A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3260+xooNWJh5Is/6kJdqsifOcVL0TGOn5Lf8aHkl+A="
+    }
+  },
+  "version": "1.4.0.1"
+}

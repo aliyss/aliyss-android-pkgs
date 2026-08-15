@@ -1,0 +1,8 @@
+{
+  "package": "io.gresse.hugo.anecdote",
+  "signerFingerprints": [
+    "BC:A8:27:E3:6A:97:49:A1:5F:08:27:0F:CB:6A:97:08:E4:2D:48:24:11:EB:63:A0:3D:75:82:11:D7:B7:81:CF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

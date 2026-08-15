@@ -1,0 +1,8 @@
+{
+  "package": "org.ligi.passandroid",
+  "signerFingerprints": [
+    "5F:C7:5C:1D:C4:89:56:23:14:EE:E0:0C:9D:05:71:33:F0:0B:4B:1D:C3:5F:8C:F6:D2:00:A6:83:75:70:B7:A8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

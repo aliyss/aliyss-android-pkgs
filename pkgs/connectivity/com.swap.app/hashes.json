@@ -1,0 +1,18 @@
+{
+  "apkName": "com.swap.app_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YZ52a38wrLTJaUNGO3wbAx58U47rjrggYSpyp2OwJD4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YZ52a38wrLTJaUNGO3wbAx58U47rjrggYSpyp2OwJD4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YZ52a38wrLTJaUNGO3wbAx58U47rjrggYSpyp2OwJD4="
+    }
+  },
+  "version": "1.1.0"
+}

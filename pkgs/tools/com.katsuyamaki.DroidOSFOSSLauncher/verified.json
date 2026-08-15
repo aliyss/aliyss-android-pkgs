@@ -1,0 +1,8 @@
+{
+  "package": "com.katsuyamaki.DroidOSFOSSLauncher",
+  "signerFingerprints": [
+    "8B:CD:50:72:B4:62:04:5E:FC:13:51:E9:93:FF:EF:C0:CF:9A:A5:78:3D:DF:EE:31:AE:5B:A5:28:6A:AA:70:23"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

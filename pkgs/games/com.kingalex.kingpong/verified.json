@@ -1,0 +1,8 @@
+{
+  "package": "com.kingalex.kingpong",
+  "signerFingerprints": [
+    "87:41:BD:C3:DE:DF:6A:A9:79:84:4E:8F:75:C9:5D:E3:8C:39:1C:02:E3:BE:1A:AE:B6:F1:2E:DE:36:F0:E1:EC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

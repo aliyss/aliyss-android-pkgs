@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.asmat.buzzkill_10010.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r8qQK7mOBkQgK+249Hey4NUE4aYPij4JEkUE+KkLyZo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r8qQK7mOBkQgK+249Hey4NUE4aYPij4JEkUE+KkLyZo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r8qQK7mOBkQgK+249Hey4NUE4aYPij4JEkUE+KkLyZo="
+    }
+  },
+  "version": "1.0.10"
+}

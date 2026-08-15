@@ -1,0 +1,18 @@
+{
+  "apkName": "com.k2040.geojoystick_103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8adf6oHYmdCYqyYiONJB14m+VVrt5gzI1m7UNNm14/g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8adf6oHYmdCYqyYiONJB14m+VVrt5gzI1m7UNNm14/g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8adf6oHYmdCYqyYiONJB14m+VVrt5gzI1m7UNNm14/g="
+    }
+  },
+  "version": "0.1.3"
+}

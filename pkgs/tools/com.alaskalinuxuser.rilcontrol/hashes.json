@@ -1,0 +1,18 @@
+{
+  "apkName": "com.alaskalinuxuser.rilcontrol_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Qb4AbMtKp41EaaV7RqcxqsyG+Ql0ncUTSmy5RrZKZCY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qb4AbMtKp41EaaV7RqcxqsyG+Ql0ncUTSmy5RrZKZCY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qb4AbMtKp41EaaV7RqcxqsyG+Ql0ncUTSmy5RrZKZCY="
+    }
+  },
+  "version": "1.0"
+}

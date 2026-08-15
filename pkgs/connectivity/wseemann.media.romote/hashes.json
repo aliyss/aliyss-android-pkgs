@@ -1,0 +1,18 @@
+{
+  "apkName": "wseemann.media.romote_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-z73eLPBb6aUxFOkvKGY33mMCUOmaz7qNH2XAy4JnjXU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z73eLPBb6aUxFOkvKGY33mMCUOmaz7qNH2XAy4JnjXU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z73eLPBb6aUxFOkvKGY33mMCUOmaz7qNH2XAy4JnjXU="
+    }
+  },
+  "version": "1.0.29"
+}

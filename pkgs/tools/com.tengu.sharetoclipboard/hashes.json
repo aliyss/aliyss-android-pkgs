@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tengu.sharetoclipboard_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PULwpzELCZNy7IkrZRW2+WjeKzIdPrur3gr9ExepJkU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PULwpzELCZNy7IkrZRW2+WjeKzIdPrur3gr9ExepJkU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PULwpzELCZNy7IkrZRW2+WjeKzIdPrur3gr9ExepJkU="
+    }
+  },
+  "version": "1.15.0"
+}

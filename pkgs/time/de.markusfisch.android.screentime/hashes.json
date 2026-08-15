@@ -1,0 +1,18 @@
+{
+  "apkName": "de.markusfisch.android.screentime_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1puVyuKXcJ5BiBM9eNVq5K5gVySllxgGPe9PIFfmdmQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1puVyuKXcJ5BiBM9eNVq5K5gVySllxgGPe9PIFfmdmQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1puVyuKXcJ5BiBM9eNVq5K5gVySllxgGPe9PIFfmdmQ="
+    }
+  },
+  "version": "1.3.1"
+}

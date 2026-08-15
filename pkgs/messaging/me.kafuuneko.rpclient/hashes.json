@@ -1,0 +1,18 @@
+{
+  "apkName": "me.kafuuneko.rpclient_20260103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FrcyuvmRKRIucZwEztKE2+457TmkZZG8qJu7iq+bjC8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FrcyuvmRKRIucZwEztKE2+457TmkZZG8qJu7iq+bjC8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FrcyuvmRKRIucZwEztKE2+457TmkZZG8qJu7iq+bjC8="
+    }
+  },
+  "version": "2026.1.3"
+}

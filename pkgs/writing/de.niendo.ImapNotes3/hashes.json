@@ -1,0 +1,18 @@
+{
+  "apkName": "de.niendo.ImapNotes3_10407.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-htqYSUhf5DroKslSGKzL3AgmA5s+AlhoRfxfx4VbdLg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-htqYSUhf5DroKslSGKzL3AgmA5s+AlhoRfxfx4VbdLg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-htqYSUhf5DroKslSGKzL3AgmA5s+AlhoRfxfx4VbdLg="
+    }
+  },
+  "version": "v1.4-07"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aryan.reader.oss_56.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i/1SR12fpcWgyCyRNlpulMPH4HHUPdOfXXeBcO5a4mQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i/1SR12fpcWgyCyRNlpulMPH4HHUPdOfXXeBcO5a4mQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i/1SR12fpcWgyCyRNlpulMPH4HHUPdOfXXeBcO5a4mQ="
+    }
+  },
+  "version": "1.0.52-oss"
+}

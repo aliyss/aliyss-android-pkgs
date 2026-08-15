@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.ramzan.delist_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EtnvMHwDxSrJbOjjbBmT7pRp2FKjokyT5zz60W4hbmw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EtnvMHwDxSrJbOjjbBmT7pRp2FKjokyT5zz60W4hbmw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EtnvMHwDxSrJbOjjbBmT7pRp2FKjokyT5zz60W4hbmw="
+    }
+  },
+  "version": "1.0.2"
+}

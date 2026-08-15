@@ -1,0 +1,18 @@
+{
+  "apkName": "org.inretio.bouncinglogo_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BdbpWh5ATluqwSnn7Dj4k+HhNNHoylVST+RvjdbF89k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BdbpWh5ATluqwSnn7Dj4k+HhNNHoylVST+RvjdbF89k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BdbpWh5ATluqwSnn7Dj4k+HhNNHoylVST+RvjdbF89k="
+    }
+  },
+  "version": "1.3.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "ara.memoryguardian",
+  "signerFingerprints": [
+    "DD:4B:23:ED:D3:F5:3F:4E:70:92:C3:BB:14:CC:B4:68:63:5C:52:75:D1:BD:71:80:13:7F:7D:A4:DA:68:A9:8C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

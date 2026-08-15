@@ -1,0 +1,18 @@
+{
+  "apkName": "info.aario.mywifipasswords_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1Paq5oX/xatrhsGta+eqjcNNui8JUohZwRIMIks5IGg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1Paq5oX/xatrhsGta+eqjcNNui8JUohZwRIMIks5IGg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1Paq5oX/xatrhsGta+eqjcNNui8JUohZwRIMIks5IGg="
+    }
+  },
+  "version": "1.0.1"
+}

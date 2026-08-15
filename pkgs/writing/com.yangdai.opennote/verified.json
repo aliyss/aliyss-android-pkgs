@@ -1,0 +1,8 @@
+{
+  "package": "com.yangdai.opennote",
+  "signerFingerprints": [
+    "A3:49:F3:31:54:2E:46:0C:4C:7A:15:D2:E1:91:8C:07:DB:B6:6D:57:45:B7:7D:72:82:B3:FB:64:85:5B:F0:66"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

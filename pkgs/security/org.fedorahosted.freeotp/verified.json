@@ -1,0 +1,8 @@
+{
+  "package": "org.fedorahosted.freeotp",
+  "signerFingerprints": [
+    "EC:54:F1:94:F7:5C:15:DD:1E:46:6B:6E:08:10:C1:8F:BA:7B:6B:34:E0:C3:E3:DD:A9:84:5A:46:18:C6:95:7F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

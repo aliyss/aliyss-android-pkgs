@@ -1,0 +1,8 @@
+{
+  "package": "com.openrec",
+  "signerFingerprints": [
+    "97:8C:6C:E1:8E:96:47:85:55:D4:92:A1:A9:74:D6:BE:EC:43:4C:35:C2:4E:36:C2:7E:B3:2A:99:A4:78:50:5D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

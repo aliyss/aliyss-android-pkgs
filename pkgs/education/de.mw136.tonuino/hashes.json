@@ -1,0 +1,18 @@
+{
+  "apkName": "de.mw136.tonuino_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-R5ftjlSVbHBOj10cYiB9jedG9g+KwZ33nkS0sue+SG8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R5ftjlSVbHBOj10cYiB9jedG9g+KwZ33nkS0sue+SG8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R5ftjlSVbHBOj10cYiB9jedG9g+KwZ33nkS0sue+SG8="
+    }
+  },
+  "version": "1.0.3"
+}

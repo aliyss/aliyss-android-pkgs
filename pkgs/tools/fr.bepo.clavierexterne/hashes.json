@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.bepo.clavierexterne_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-V/mEn/vXRpeT/+IZrMMMPZWxeEEYuOm3Y/qF2la4fCo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V/mEn/vXRpeT/+IZrMMMPZWxeEEYuOm3Y/qF2la4fCo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V/mEn/vXRpeT/+IZrMMMPZWxeEEYuOm3Y/qF2la4fCo="
+    }
+  },
+  "version": "1.3"
+}

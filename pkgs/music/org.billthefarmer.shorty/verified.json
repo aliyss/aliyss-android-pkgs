@@ -1,0 +1,8 @@
+{
+  "package": "org.billthefarmer.shorty",
+  "signerFingerprints": [
+    "9B:BC:63:DE:B6:AB:8A:9B:94:76:EE:1B:05:0B:3A:84:A8:E6:48:06:6F:C9:F3:74:23:77:A1:B2:8A:8A:77:61"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

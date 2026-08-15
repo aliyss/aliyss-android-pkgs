@@ -1,0 +1,8 @@
+{
+  "package": "com.jovial.jrpn",
+  "signerFingerprints": [
+    "13:F0:5A:58:2A:A4:40:85:E7:63:C3:F3:78:03:AF:EB:49:52:6B:8B:31:3F:57:3D:29:6E:2C:CE:A0:4F:2B:1D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

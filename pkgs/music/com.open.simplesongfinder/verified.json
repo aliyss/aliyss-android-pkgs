@@ -1,0 +1,8 @@
+{
+  "package": "com.open.simplesongfinder",
+  "signerFingerprints": [
+    "F1:52:49:88:2A:77:A1:DD:12:EF:EF:95:63:52:41:9F:47:D3:5B:EF:F0:C9:B3:B7:46:28:51:EB:11:AE:C6:94"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "eu.veldsoft.vitoshadm",
+  "signerFingerprints": [
+    "09:45:D2:06:E9:7E:DB:8E:26:1E:0C:19:3B:22:37:D2:9D:2C:D8:8A:DE:3D:30:F4:CD:C3:3C:9D:62:C6:FC:A3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

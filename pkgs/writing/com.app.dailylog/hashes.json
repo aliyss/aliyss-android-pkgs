@@ -1,0 +1,18 @@
+{
+  "apkName": "com.app.dailylog_2001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2/qrORp3mPd4lScivfpf3oIKjMLju1B44LKqYv0Abw8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2/qrORp3mPd4lScivfpf3oIKjMLju1B44LKqYv0Abw8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2/qrORp3mPd4lScivfpf3oIKjMLju1B44LKqYv0Abw8="
+    }
+  },
+  "version": "2.0.1"
+}

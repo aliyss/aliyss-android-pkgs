@@ -1,0 +1,18 @@
+{
+  "apkName": "dnsfilter.android_1506008.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8Jca4wHhFJX57Thw1f1sufvIYuDTOrIfxZ3djVEebiE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8Jca4wHhFJX57Thw1f1sufvIYuDTOrIfxZ3djVEebiE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8Jca4wHhFJX57Thw1f1sufvIYuDTOrIfxZ3djVEebiE="
+    }
+  },
+  "version": "1.50.60.8"
+}

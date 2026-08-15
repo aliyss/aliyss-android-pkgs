@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.deweyreed.timer.other_7070000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KmM/WOkMP/dPlfXgnEZVg+QBCqq210vaCAqAxm2A2gQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KmM/WOkMP/dPlfXgnEZVg+QBCqq210vaCAqAxm2A2gQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KmM/WOkMP/dPlfXgnEZVg+QBCqq210vaCAqAxm2A2gQ="
+    }
+  },
+  "version": "7.7.0"
+}

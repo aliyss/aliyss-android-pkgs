@@ -1,0 +1,18 @@
+{
+  "apkName": "com.apk.editor_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aGO7m47y3eINTKgRvBwtaDSKUR1b+08y6QXFLMd/FEU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aGO7m47y3eINTKgRvBwtaDSKUR1b+08y6QXFLMd/FEU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aGO7m47y3eINTKgRvBwtaDSKUR1b+08y6QXFLMd/FEU="
+    }
+  },
+  "version": "v0.35"
+}

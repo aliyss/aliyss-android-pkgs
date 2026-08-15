@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.melonpan.kotori_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aiMAXVNdFMtctek9NtEK7LQGXcKJ6FB0ZV3f38X/ujU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aiMAXVNdFMtctek9NtEK7LQGXcKJ6FB0ZV3f38X/ujU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aiMAXVNdFMtctek9NtEK7LQGXcKJ6FB0ZV3f38X/ujU="
+    }
+  },
+  "version": "4.2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "luke.launcher_20004.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5ndmSdRPlKxWR9IhzBZcGolIJ3cFwkhUXa/OgFlQYBo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5ndmSdRPlKxWR9IhzBZcGolIJ3cFwkhUXa/OgFlQYBo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5ndmSdRPlKxWR9IhzBZcGolIJ3cFwkhUXa/OgFlQYBo="
+    }
+  },
+  "version": "2.0.4"
+}

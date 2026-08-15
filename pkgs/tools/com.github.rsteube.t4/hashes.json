@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.rsteube.t4_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-92sY7u8t8zrHdwmhQQye2mjBYpVFY4lTJXk9Qs+Doec="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-92sY7u8t8zrHdwmhQQye2mjBYpVFY4lTJXk9Qs+Doec="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-92sY7u8t8zrHdwmhQQye2mjBYpVFY4lTJXk9Qs+Doec="
+    }
+  },
+  "version": "1.4"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.vishal2376.scrollblock",
+  "signerFingerprints": [
+    "E8:F6:7D:29:D9:00:0B:B2:4E:95:65:7C:5D:90:79:2D:54:8C:27:6C:BF:7C:30:4F:CD:41:D6:46:3F:5D:D8:EB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

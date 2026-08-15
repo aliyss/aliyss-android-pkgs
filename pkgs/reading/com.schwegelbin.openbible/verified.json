@@ -1,0 +1,8 @@
+{
+  "package": "com.schwegelbin.openbible",
+  "signerFingerprints": [
+    "CB:F4:08:02:88:0B:94:DF:64:C0:46:7D:8F:BB:A6:95:72:BF:4B:5F:D7:5E:28:E9:C0:C7:79:92:F4:23:79:31"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

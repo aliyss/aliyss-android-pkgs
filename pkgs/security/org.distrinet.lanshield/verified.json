@@ -1,0 +1,8 @@
+{
+  "package": "org.distrinet.lanshield",
+  "signerFingerprints": [
+    "A7:37:07:FD:07:7D:51:67:0F:79:04:A5:6E:0F:03:8A:62:E3:0B:48:BE:E3:A6:55:C3:02:5E:86:48:26:2B:52"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

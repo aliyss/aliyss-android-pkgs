@@ -1,0 +1,18 @@
+{
+  "apkName": "com.samyak.repostore_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mbLx4XsjLJRriN1pqrLfeX1fAixPGckJ69GvR7meRtw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mbLx4XsjLJRriN1pqrLfeX1fAixPGckJ69GvR7meRtw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mbLx4XsjLJRriN1pqrLfeX1fAixPGckJ69GvR7meRtw="
+    }
+  },
+  "version": "1.0.20"
+}

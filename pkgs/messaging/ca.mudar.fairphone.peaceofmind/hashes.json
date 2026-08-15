@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.mudar.fairphone.peaceofmind_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Je4onJ6u/APLOZZxd7uVhlIyRizevL5gCGNgKxod5B8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Je4onJ6u/APLOZZxd7uVhlIyRizevL5gCGNgKxod5B8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Je4onJ6u/APLOZZxd7uVhlIyRizevL5gCGNgKxod5B8="
+    }
+  },
+  "version": "2.1.4"
+}

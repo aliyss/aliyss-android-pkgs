@@ -1,0 +1,8 @@
+{
+  "package": "com.bald.uriah.baldphone",
+  "signerFingerprints": [
+    "40:B6:C8:62:37:78:5C:0A:7D:F3:63:E7:6B:7E:A0:E2:80:24:63:7A:1C:AD:CE:DB:5E:BF:E9:41:A5:9C:F5:E6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

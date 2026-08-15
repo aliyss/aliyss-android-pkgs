@@ -1,0 +1,8 @@
+{
+  "package": "com.lorenzovainigli.foodexpirationdates.foss",
+  "signerFingerprints": [
+    "A4:4B:8D:A1:8B:45:6C:5F:0D:F1:A7:DC:5A:F9:9A:04:54:8A:80:0E:84:B7:9C:B6:68:9E:3B:22:CB:B4:1A:F7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

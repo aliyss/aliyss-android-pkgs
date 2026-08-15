@@ -1,0 +1,8 @@
+{
+  "package": "com.fjun.hassalarm",
+  "signerFingerprints": [
+    "B3:83:3C:2D:51:1A:AE:14:F4:55:5B:33:6C:66:8F:C6:91:FC:93:3E:05:6F:8B:2D:86:5D:C8:34:4D:24:96:88"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

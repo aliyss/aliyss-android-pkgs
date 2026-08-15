@@ -1,0 +1,18 @@
+{
+  "apkName": "de.monde_diplomatique.android.app.free_20301900.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zN6blF35dWHecyVA/9xY11LTVMFpUZuIL/oE29UYyYs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zN6blF35dWHecyVA/9xY11LTVMFpUZuIL/oE29UYyYs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zN6blF35dWHecyVA/9xY11LTVMFpUZuIL/oE29UYyYs="
+    }
+  },
+  "version": "2.3.1"
+}

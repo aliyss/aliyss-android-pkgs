@@ -1,0 +1,8 @@
+{
+  "package": "pl.suve.colorful.android",
+  "signerFingerprints": [
+    "AD:7E:A2:D7:20:F7:C7:8F:E4:02:BE:71:A1:CA:3F:CA:4E:5E:9E:BD:48:24:94:FF:98:7A:1E:5D:1F:54:84:BA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

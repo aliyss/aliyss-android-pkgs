@@ -1,0 +1,18 @@
+{
+  "apkName": "com.southerntemp.thermocouples_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ok1CE/HVKdZeN24lDVZw15PlkCghAUV0EWWZBwAwuWI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ok1CE/HVKdZeN24lDVZw15PlkCghAUV0EWWZBwAwuWI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ok1CE/HVKdZeN24lDVZw15PlkCghAUV0EWWZBwAwuWI="
+    }
+  },
+  "version": "4.0.3"
+}

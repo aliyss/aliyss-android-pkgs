@@ -1,0 +1,8 @@
+{
+  "package": "io.github.soundremote",
+  "signerFingerprints": [
+    "6B:DD:79:98:E3:81:D4:E5:D4:E0:C7:BF:C5:0D:FF:BE:81:6E:2A:3F:B5:E1:C8:67:E7:2F:AD:65:FF:D4:EE:F5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

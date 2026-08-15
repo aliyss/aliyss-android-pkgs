@@ -1,0 +1,8 @@
+{
+  "package": "cn.morfans.chenjunyu19.mediavolume",
+  "signerFingerprints": [
+    "8A:65:24:4B:EF:E9:66:A6:2D:20:E0:FE:77:84:13:C2:31:2B:EA:D1:EE:7F:E9:58:7D:5B:B8:1D:CA:D9:F5:4C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

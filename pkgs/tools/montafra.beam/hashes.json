@@ -1,0 +1,18 @@
+{
+  "apkName": "montafra.beam_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0Tcx0Dh7j7lvBbwlahhQ6vbAO+lHhYU0gIUpTbmaWiM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0Tcx0Dh7j7lvBbwlahhQ6vbAO+lHhYU0gIUpTbmaWiM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0Tcx0Dh7j7lvBbwlahhQ6vbAO+lHhYU0gIUpTbmaWiM="
+    }
+  },
+  "version": "1.9"
+}

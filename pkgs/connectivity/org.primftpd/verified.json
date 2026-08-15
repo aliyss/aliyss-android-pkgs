@@ -1,0 +1,8 @@
+{
+  "package": "org.primftpd",
+  "signerFingerprints": [
+    "1A:3A:3A:5B:8B:D1:43:02:1B:84:E8:CE:9E:69:24:CB:73:EB:45:56:12:11:E6:B9:00:C4:F8:B3:22:3C:D7:A0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

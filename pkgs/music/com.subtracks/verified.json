@@ -1,0 +1,8 @@
+{
+  "package": "com.subtracks",
+  "signerFingerprints": [
+    "4A:1A:8E:5C:DE:33:55:8E:6C:04:1D:20:A6:AA:80:1D:BB:FF:9F:B1:D7:4D:E1:FE:7B:7F:A7:E0:0C:9D:01:7F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

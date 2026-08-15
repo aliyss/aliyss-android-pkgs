@@ -1,0 +1,8 @@
+{
+  "package": "com.arturkowalczyk300.cryptocurrencyprices",
+  "signerFingerprints": [
+    "81:C1:D3:12:6E:CA:22:8D:D1:92:13:99:79:DD:19:C3:B0:56:AC:26:9F:F6:7D:DB:D2:B5:85:64:22:48:2F:41"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

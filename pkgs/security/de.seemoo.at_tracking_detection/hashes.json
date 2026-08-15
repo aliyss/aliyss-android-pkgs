@@ -1,0 +1,18 @@
+{
+  "apkName": "de.seemoo.at_tracking_detection_67.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WMY0OggTqQfVv5rgBRrjeMQWc/R4h7UgrIwGJSg4MUA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WMY0OggTqQfVv5rgBRrjeMQWc/R4h7UgrIwGJSg4MUA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WMY0OggTqQfVv5rgBRrjeMQWc/R4h7UgrIwGJSg4MUA="
+    }
+  },
+  "version": "3.1.1"
+}

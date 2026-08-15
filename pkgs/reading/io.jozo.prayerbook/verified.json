@@ -1,0 +1,8 @@
+{
+  "package": "io.jozo.prayerbook",
+  "signerFingerprints": [
+    "F5:F5:97:71:64:44:FD:66:72:F0:A0:11:EB:E9:6B:13:56:E3:7B:28:86:64:89:C6:64:13:9C:60:27:A8:CC:14"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

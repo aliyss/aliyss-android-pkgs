@@ -1,0 +1,18 @@
+{
+  "apkName": "s1m.savertuner_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mJRPuOprNKvm1aAMfY2NgxO1FoS3N/Rj0fFIAPuDw4E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mJRPuOprNKvm1aAMfY2NgxO1FoS3N/Rj0fFIAPuDw4E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mJRPuOprNKvm1aAMfY2NgxO1FoS3N/Rj0fFIAPuDw4E="
+    }
+  },
+  "version": "1.1.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "green_green_avk.anotherterm.redist_146.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FfigyktuwK92WHgjmgtbHVrP/xamd7Qy059tcQ5R/kM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FfigyktuwK92WHgjmgtbHVrP/xamd7Qy059tcQ5R/kM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FfigyktuwK92WHgjmgtbHVrP/xamd7Qy059tcQ5R/kM="
+    }
+  },
+  "version": "MkIIIv87"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.ahmadrezagh671.pixabay",
+  "signerFingerprints": [
+    "5C:74:C9:34:8F:BD:B3:B7:F8:A0:21:23:B2:92:F9:22:54:06:5A:2E:FD:53:78:35:08:0D:0E:0E:A3:99:B8:07"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

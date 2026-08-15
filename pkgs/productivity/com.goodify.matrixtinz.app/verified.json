@@ -1,0 +1,8 @@
+{
+  "package": "com.goodify.matrixtinz.app",
+  "signerFingerprints": [
+    "33:FF:79:E7:46:A8:98:97:FC:32:57:D8:F4:55:4D:F9:8B:1D:82:03:C7:BF:A3:D6:2A:16:FF:16:5F:F1:6B:11"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

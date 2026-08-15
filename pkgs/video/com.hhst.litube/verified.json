@@ -1,0 +1,8 @@
+{
+  "package": "com.hhst.litube",
+  "signerFingerprints": [
+    "47:0D:C7:C3:B7:6F:15:78:7A:1C:9A:A1:22:BA:BF:32:88:C4:71:DD:91:60:88:C5:40:CA:36:1B:65:2A:4D:25"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

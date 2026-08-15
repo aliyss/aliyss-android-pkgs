@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zfdang.touchhelper_275.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r88dEhntjKH87hR1x/oxYItruav9ZKOMFd5H9ue9Hzo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r88dEhntjKH87hR1x/oxYItruav9ZKOMFd5H9ue9Hzo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r88dEhntjKH87hR1x/oxYItruav9ZKOMFd5H9ue9Hzo="
+    }
+  },
+  "version": "275"
+}

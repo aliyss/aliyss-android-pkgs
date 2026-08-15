@@ -1,0 +1,18 @@
+{
+  "apkName": "de.cryptobitch.muelli.barcodegen_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SAE/+n7ZjfHGLV9Sho3MCSKIYLKTBV5c0C3M2J5sudM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SAE/+n7ZjfHGLV9Sho3MCSKIYLKTBV5c0C3M2J5sudM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SAE/+n7ZjfHGLV9Sho3MCSKIYLKTBV5c0C3M2J5sudM="
+    }
+  },
+  "version": "0.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.metiq_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OFVZYMOMcMokaicMBJQ5YBepmMKGXINBybYBlaWGwtI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OFVZYMOMcMokaicMBJQ5YBepmMKGXINBybYBlaWGwtI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OFVZYMOMcMokaicMBJQ5YBepmMKGXINBybYBlaWGwtI="
+    }
+  },
+  "version": "0.18.0"
+}

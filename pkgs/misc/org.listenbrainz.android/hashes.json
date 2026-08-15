@@ -1,0 +1,18 @@
+{
+  "apkName": "org.listenbrainz.android_21520.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MDBeYi7Vdx4oej4xTG1TX53TM1iBy3N1WfBmC+mqddg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MDBeYi7Vdx4oej4xTG1TX53TM1iBy3N1WfBmC+mqddg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MDBeYi7Vdx4oej4xTG1TX53TM1iBy3N1WfBmC+mqddg="
+    }
+  },
+  "version": "2.15.2.0"
+}

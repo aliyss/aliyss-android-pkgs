@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fossify.paint_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uUmtCh6vzmFunmxvX6WyZeS4rUJjA6JFvpIabgwN714="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uUmtCh6vzmFunmxvX6WyZeS4rUJjA6JFvpIabgwN714="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uUmtCh6vzmFunmxvX6WyZeS4rUJjA6JFvpIabgwN714="
+    }
+  },
+  "version": "1.4.0"
+}

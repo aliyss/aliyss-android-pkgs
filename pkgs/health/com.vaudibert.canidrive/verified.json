@@ -1,0 +1,8 @@
+{
+  "package": "com.vaudibert.canidrive",
+  "signerFingerprints": [
+    "E6:61:20:48:F3:8B:66:A8:4B:22:A8:18:BA:35:80:7D:31:31:AC:A3:43:79:20:C7:E6:8B:AC:DC:75:14:A9:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

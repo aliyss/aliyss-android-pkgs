@@ -1,0 +1,18 @@
+{
+  "apkName": "app.umerfarooq.websocketcam_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3AA0qsAK/zYfmcHDVT/GLqNnalBHiVlBUYd4RTXZR0M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3AA0qsAK/zYfmcHDVT/GLqNnalBHiVlBUYd4RTXZR0M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3AA0qsAK/zYfmcHDVT/GLqNnalBHiVlBUYd4RTXZR0M="
+    }
+  },
+  "version": "1.4.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "edu.berkeley.boinc_80209.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xa5zyPMdx2C0+Fb5lrmbRfxAVadfXbllRK2/473s6WM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xa5zyPMdx2C0+Fb5lrmbRfxAVadfXbllRK2/473s6WM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xa5zyPMdx2C0+Fb5lrmbRfxAVadfXbllRK2/473s6WM="
+    }
+  },
+  "version": "8.2.9"
+}

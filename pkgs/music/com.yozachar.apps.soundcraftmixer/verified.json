@@ -1,0 +1,8 @@
+{
+  "package": "com.yozachar.apps.soundcraftmixer",
+  "signerFingerprints": [
+    "3A:9B:E6:BE:0F:9E:40:13:FD:C1:74:C8:C0:1A:8E:66:56:38:24:C3:FA:AD:E0:D0:28:EF:C1:58:75:71:AA:9C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

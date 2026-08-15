@@ -1,0 +1,8 @@
+{
+  "package": "com.alaskalinuxuser.hourglass",
+  "signerFingerprints": [
+    "F8:AA:CC:01:9D:0C:6F:74:E7:99:78:FD:4F:89:AA:47:61:07:18:F9:17:04:93:F0:98:6B:D1:F0:4A:E6:AA:D6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

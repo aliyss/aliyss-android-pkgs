@@ -1,0 +1,8 @@
+{
+  "package": "io.github.project_kaat.gpsdrelay",
+  "signerFingerprints": [
+    "D2:7B:A8:E5:64:DB:D8:EE:84:99:D3:14:6B:84:85:D2:04:9E:BD:8C:7A:76:E0:F1:57:DE:5A:57:51:65:4D:82"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

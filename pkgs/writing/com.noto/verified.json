@@ -1,0 +1,8 @@
+{
+  "package": "com.noto",
+  "signerFingerprints": [
+    "DF:E4:DF:B2:D0:6E:DB:86:BF:93:C2:43:93:55:E9:E2:43:EF:3C:08:5E:02:C4:EC:C6:FA:86:FF:30:95:FD:5E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

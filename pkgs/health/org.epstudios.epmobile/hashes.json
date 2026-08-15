@@ -1,0 +1,18 @@
+{
+  "apkName": "org.epstudios.epmobile_95.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yRNZ79EiLFDTYKjdyFf4fAYUSIYqI0G7OwbefhqNhfQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yRNZ79EiLFDTYKjdyFf4fAYUSIYqI0G7OwbefhqNhfQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yRNZ79EiLFDTYKjdyFf4fAYUSIYqI0G7OwbefhqNhfQ="
+    }
+  },
+  "version": "2.41.0"
+}

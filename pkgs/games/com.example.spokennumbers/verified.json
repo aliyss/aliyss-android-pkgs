@@ -1,0 +1,8 @@
+{
+  "package": "com.example.spokennumbers",
+  "signerFingerprints": [
+    "AB:62:03:76:C2:30:D8:35:79:D1:E7:67:3E:4F:46:F8:2E:D3:EC:4D:5A:6C:DF:63:57:2F:D1:EC:63:38:2B:6B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

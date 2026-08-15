@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.pretix.pretixscan.droid_103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RaWuCfZdwSOczEVdYUN9NXvN9t+t5wWhNfH9/LRz+qc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RaWuCfZdwSOczEVdYUN9NXvN9t+t5wWhNfH9/LRz+qc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RaWuCfZdwSOczEVdYUN9NXvN9t+t5wWhNfH9/LRz+qc="
+    }
+  },
+  "version": "3.0.0-beta4"
+}

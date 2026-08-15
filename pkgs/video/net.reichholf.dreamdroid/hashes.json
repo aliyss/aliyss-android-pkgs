@@ -1,0 +1,18 @@
+{
+  "apkName": "net.reichholf.dreamdroid_460.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tALmhZ27WbHPmvYeqYUrqqN0jBb5weUJ5xWn4m+U9KI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tALmhZ27WbHPmvYeqYUrqqN0jBb5weUJ5xWn4m+U9KI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tALmhZ27WbHPmvYeqYUrqqN0jBb5weUJ5xWn4m+U9KI="
+    }
+  },
+  "version": "1.15.460"
+}

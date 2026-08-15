@@ -1,0 +1,18 @@
+{
+  "apkName": "io.vertretungsplan.client.android_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-I9MmjV+QCzHVupVxMPcz9yg3F1Fy5Dcheu7X8luLgUg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I9MmjV+QCzHVupVxMPcz9yg3F1Fy5Dcheu7X8luLgUg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I9MmjV+QCzHVupVxMPcz9yg3F1Fy5Dcheu7X8luLgUg="
+    }
+  },
+  "version": "1.7.0"
+}

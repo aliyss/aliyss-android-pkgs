@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.abertschi.adfree_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mGPkbgyJLs02KWSuMZftfIMOP4j4mAzJ/jMyaMCq/i4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mGPkbgyJLs02KWSuMZftfIMOP4j4mAzJ/jMyaMCq/i4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mGPkbgyJLs02KWSuMZftfIMOP4j4mAzJ/jMyaMCq/i4="
+    }
+  },
+  "version": "3.2"
+}

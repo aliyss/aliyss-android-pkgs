@@ -1,0 +1,18 @@
+{
+  "apkName": "allen.town.focus.podcast_70.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-z0adHyl54s6wjPUp6BajcLJG6AqOA108lLGRz2Q9mHg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z0adHyl54s6wjPUp6BajcLJG6AqOA108lLGRz2Q9mHg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z0adHyl54s6wjPUp6BajcLJG6AqOA108lLGRz2Q9mHg="
+    }
+  },
+  "version": "2.8.1.20240715"
+}

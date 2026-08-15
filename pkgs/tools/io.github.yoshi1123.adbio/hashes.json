@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.yoshi1123.adbio_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RhUkdAZc8tnKcfeg69B8GRMmHLZMIkGSQBDpmZ0QcLE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RhUkdAZc8tnKcfeg69B8GRMmHLZMIkGSQBDpmZ0QcLE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RhUkdAZc8tnKcfeg69B8GRMmHLZMIkGSQBDpmZ0QcLE="
+    }
+  },
+  "version": "1.0c2"
+}

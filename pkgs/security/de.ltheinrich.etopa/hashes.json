@@ -1,0 +1,18 @@
+{
+  "apkName": "de.ltheinrich.etopa_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yG/4yOPnJqTy6UUX7hgxUvuucznite8WPJqrza+6Vy8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yG/4yOPnJqTy6UUX7hgxUvuucznite8WPJqrza+6Vy8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yG/4yOPnJqTy6UUX7hgxUvuucznite8WPJqrza+6Vy8="
+    }
+  },
+  "version": "1.2.1"
+}

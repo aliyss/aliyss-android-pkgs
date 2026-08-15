@@ -1,0 +1,8 @@
+{
+  "package": "org.tagspaces.mobileapp",
+  "signerFingerprints": [
+    "C8:2D:94:43:F5:39:B6:F1:50:7F:AE:33:DA:57:09:F6:47:FF:76:D3:38:20:39:5C:41:29:9A:3F:FD:BD:41:81"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

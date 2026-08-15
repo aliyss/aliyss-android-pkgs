@@ -1,0 +1,8 @@
+{
+  "package": "xyz.linerly.nontrinsic",
+  "signerFingerprints": [
+    "65:03:99:C8:93:53:2C:79:5D:E4:EC:20:A8:8B:0F:88:D8:ED:1E:F4:84:3E:F1:3F:3F:76:8B:4A:A0:E4:30:31"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "theakki.synctool_142.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-23NeqKpDaz6PaQOdbGymBpKkgPy2vykr8l3A9CKofs4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-23NeqKpDaz6PaQOdbGymBpKkgPy2vykr8l3A9CKofs4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-23NeqKpDaz6PaQOdbGymBpKkgPy2vykr8l3A9CKofs4="
+    }
+  },
+  "version": "0.1.1"
+}

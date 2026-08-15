@@ -1,0 +1,18 @@
+{
+  "apkName": "net.programmierecke.radiodroid2_96.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sTCI7ww6nxKVP4Kyp15cnS/bSX3WnGlSJAIX9zFad5o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sTCI7ww6nxKVP4Kyp15cnS/bSX3WnGlSJAIX9zFad5o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sTCI7ww6nxKVP4Kyp15cnS/bSX3WnGlSJAIX9zFad5o="
+    }
+  },
+  "version": "0.86"
+}

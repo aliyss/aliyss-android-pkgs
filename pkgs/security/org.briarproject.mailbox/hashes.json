@@ -1,0 +1,18 @@
+{
+  "apkName": "org.briarproject.mailbox_10009.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YlGrOM98ebO46XBobjngpBB41qDsvOMgAPPU0LVZYkU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YlGrOM98ebO46XBobjngpBB41qDsvOMgAPPU0LVZYkU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YlGrOM98ebO46XBobjngpBB41qDsvOMgAPPU0LVZYkU="
+    }
+  },
+  "version": "1.0.9"
+}

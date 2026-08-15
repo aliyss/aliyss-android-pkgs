@@ -1,0 +1,18 @@
+{
+  "apkName": "com.broscr.iptvplayer_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZgJLm5Bm8JA5BXjJj3/8VjXHrV/e50g6k3MJDIMkUvg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZgJLm5Bm8JA5BXjJj3/8VjXHrV/e50g6k3MJDIMkUvg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZgJLm5Bm8JA5BXjJj3/8VjXHrV/e50g6k3MJDIMkUvg="
+    }
+  },
+  "version": "0.0.8"
+}

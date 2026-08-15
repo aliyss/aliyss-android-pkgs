@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.browser_3500.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bFkl6ZIrsv7d9EFF9H5klOqeq+2ua9Fm5yruMf8+YuA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bFkl6ZIrsv7d9EFF9H5klOqeq+2ua9Fm5yruMf8+YuA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bFkl6ZIrsv7d9EFF9H5klOqeq+2ua9Fm5yruMf8+YuA="
+    }
+  },
+  "version": "3.5"
+}

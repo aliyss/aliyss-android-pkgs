@@ -1,0 +1,18 @@
+{
+  "apkName": "com.patch4code.logline_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DRTuew1lOLYKFdnw9Ov63ZT3y7xF88b0QcMgk31l44Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DRTuew1lOLYKFdnw9Ov63ZT3y7xF88b0QcMgk31l44Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DRTuew1lOLYKFdnw9Ov63ZT3y7xF88b0QcMgk31l44Q="
+    }
+  },
+  "version": "1.0.3"
+}

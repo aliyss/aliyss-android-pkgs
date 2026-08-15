@@ -1,0 +1,8 @@
+{
+  "package": "org.juanro.feedtv",
+  "signerFingerprints": [
+    "01:D8:3F:D1:85:5B:65:ED:94:B7:7C:EC:BF:35:D2:37:03:36:74:E0:C6:13:03:F2:BD:E0:2D:0E:FD:A3:F7:43"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

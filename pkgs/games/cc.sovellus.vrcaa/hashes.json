@@ -1,0 +1,18 @@
+{
+  "apkName": "cc.sovellus.vrcaa_300007.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uG4IFX7JL0tT6KHWlxZ+VI42J0dvZem4K3X7dxzvCJw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uG4IFX7JL0tT6KHWlxZ+VI42J0dvZem4K3X7dxzvCJw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uG4IFX7JL0tT6KHWlxZ+VI42J0dvZem4K3X7dxzvCJw="
+    }
+  },
+  "version": "3.0.7"
+}

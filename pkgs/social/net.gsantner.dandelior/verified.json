@@ -1,0 +1,8 @@
+{
+  "package": "net.gsantner.dandelior",
+  "signerFingerprints": [
+    "47:17:76:20:C5:DC:60:DF:39:19:C1:D0:2E:D1:C5:88:72:B7:99:B5:8A:7D:BD:67:9F:9E:76:BA:FA:9F:D4:09"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

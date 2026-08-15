@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ph.nabla_typemath_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-45EIrg4wAoR76I5CEd2ZlUChbg8BUhj+2LHs3nxGy/E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-45EIrg4wAoR76I5CEd2ZlUChbg8BUhj+2LHs3nxGy/E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-45EIrg4wAoR76I5CEd2ZlUChbg8BUhj+2LHs3nxGy/E="
+    }
+  },
+  "version": "1.3.4"
+}

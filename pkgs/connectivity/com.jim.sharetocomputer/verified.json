@@ -1,0 +1,8 @@
+{
+  "package": "com.jim.sharetocomputer",
+  "signerFingerprints": [
+    "2A:77:ED:CC:17:73:CA:34:11:77:7D:21:7C:E8:FD:50:53:AD:A2:8D:D5:4E:A0:2A:E6:4A:13:D1:1F:9A:B1:31"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

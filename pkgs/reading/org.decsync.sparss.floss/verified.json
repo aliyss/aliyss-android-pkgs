@@ -1,0 +1,8 @@
+{
+  "package": "org.decsync.sparss.floss",
+  "signerFingerprints": [
+    "29:C3:80:0B:D8:24:D5:A8:07:B8:1A:A9:CC:18:85:3F:71:63:82:C0:AB:05:D9:92:3B:E4:5A:E0:A2:30:EB:9B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

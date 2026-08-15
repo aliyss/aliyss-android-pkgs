@@ -1,0 +1,8 @@
+{
+  "package": "xyz.apiote.bimba.czwek",
+  "signerFingerprints": [
+    "27:86:EB:16:9E:E9:AE:8D:17:0F:09:26:6E:06:8F:EB:C2:A0:A5:A2:43:8A:C0:D5:EF:6E:AF:BA:45:CA:BD:E1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mardous.booming_1300300.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gPBP0XHj3bgRjIbnDeVJEa+0KV+hq1zrknOIU8vbCuk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gPBP0XHj3bgRjIbnDeVJEa+0KV+hq1zrknOIU8vbCuk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gPBP0XHj3bgRjIbnDeVJEa+0KV+hq1zrknOIU8vbCuk="
+    }
+  },
+  "version": "1.3.0"
+}

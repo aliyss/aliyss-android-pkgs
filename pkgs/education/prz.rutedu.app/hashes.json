@@ -1,0 +1,18 @@
+{
+  "apkName": "prz.rutedu.app_601.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YGwMKy8NVK4kRhfwqoVcqb7D7Hh/puKbVMSZtQjNjUM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YGwMKy8NVK4kRhfwqoVcqb7D7Hh/puKbVMSZtQjNjUM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YGwMKy8NVK4kRhfwqoVcqb7D7Hh/puKbVMSZtQjNjUM="
+    }
+  },
+  "version": "0.6.1"
+}

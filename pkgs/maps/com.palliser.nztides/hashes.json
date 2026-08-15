@@ -1,0 +1,18 @@
+{
+  "apkName": "com.palliser.nztides_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0qiAQUA5EzaPeeec23BrpeifkUMeNxoR34ziVtHWyLM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0qiAQUA5EzaPeeec23BrpeifkUMeNxoR34ziVtHWyLM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0qiAQUA5EzaPeeec23BrpeifkUMeNxoR34ziVtHWyLM="
+    }
+  },
+  "version": "25"
+}

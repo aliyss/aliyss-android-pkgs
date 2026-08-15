@@ -1,0 +1,8 @@
+{
+  "package": "org.eagsoftware.rowmate",
+  "signerFingerprints": [
+    "AF:BD:67:FA:D9:BE:28:07:41:1F:C2:38:F8:C2:8B:C6:87:10:22:0C:4A:22:78:1E:BA:AC:EB:C3:E9:EF:28:2F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

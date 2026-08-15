@@ -1,0 +1,18 @@
+{
+  "apkName": "org.asafonov.weather_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TTIKcByw9wz+QxS4GvICqD+tOPB2shYkGGyf7tukwdY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TTIKcByw9wz+QxS4GvICqD+tOPB2shYkGGyf7tukwdY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TTIKcByw9wz+QxS4GvICqD+tOPB2shYkGGyf7tukwdY="
+    }
+  },
+  "version": "1.4"
+}

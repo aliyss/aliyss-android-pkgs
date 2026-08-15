@@ -1,0 +1,8 @@
+{
+  "package": "de.binary_kitchen.doorlock_app",
+  "signerFingerprints": [
+    "9B:DF:F3:2C:8D:A1:50:AB:61:AA:19:78:08:2B:D6:65:05:FC:FE:3D:17:6D:FD:48:A3:44:D2:3C:B9:EC:87:D3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

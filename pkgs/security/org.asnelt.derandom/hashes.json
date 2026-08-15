@@ -1,0 +1,18 @@
+{
+  "apkName": "org.asnelt.derandom_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4G/h777lxkGV/2n3LMYkVnldUeQFF/nA2kEn7dYfUSI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4G/h777lxkGV/2n3LMYkVnldUeQFF/nA2kEn7dYfUSI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4G/h777lxkGV/2n3LMYkVnldUeQFF/nA2kEn7dYfUSI="
+    }
+  },
+  "version": "2.7"
+}

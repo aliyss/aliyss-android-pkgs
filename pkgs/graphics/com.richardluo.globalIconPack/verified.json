@@ -1,0 +1,8 @@
+{
+  "package": "com.richardluo.globalIconPack",
+  "signerFingerprints": [
+    "4B:28:52:59:D2:9E:7F:E0:E5:AC:7C:A0:E0:98:74:45:99:2D:8F:EA:A4:8E:30:54:E5:79:D9:70:05:D6:16:B3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

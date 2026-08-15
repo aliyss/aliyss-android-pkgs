@@ -1,0 +1,8 @@
+{
+  "package": "net.hyx.app.volumenotification",
+  "signerFingerprints": [
+    "C6:7D:D9:AD:13:EC:83:5C:63:C0:7B:37:96:2A:86:D1:E0:E9:D0:E6:9E:7B:C2:61:33:7F:33:23:EA:7F:AD:41"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

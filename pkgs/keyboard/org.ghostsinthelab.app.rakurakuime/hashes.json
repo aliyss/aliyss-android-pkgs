@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ghostsinthelab.app.rakurakuime_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/Uya8us6V1wbsuPaiT2M2h5voouCOcfQCrXuVayuu5Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Uya8us6V1wbsuPaiT2M2h5voouCOcfQCrXuVayuu5Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Uya8us6V1wbsuPaiT2M2h5voouCOcfQCrXuVayuu5Q="
+    }
+  },
+  "version": "1.1.0"
+}

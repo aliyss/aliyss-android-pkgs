@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.debene.gopher_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XY28ormhabRapTlVeAsYPn+zfhqRMCv1PuEwpxprwOc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XY28ormhabRapTlVeAsYPn+zfhqRMCv1PuEwpxprwOc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XY28ormhabRapTlVeAsYPn+zfhqRMCv1PuEwpxprwOc="
+    }
+  },
+  "version": "2.0.4"
+}

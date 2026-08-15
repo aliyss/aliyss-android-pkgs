@@ -1,0 +1,8 @@
+{
+  "package": "pl.lambada.songsync",
+  "signerFingerprints": [
+    "56:B1:3A:09:9D:CD:24:F1:D3:C5:3B:3C:7A:C0:FC:65:EA:1E:30:A3:F7:E4:3F:C7:13:C9:59:36:13:B7:15:F0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.isaakhanimann.journal_62.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sbV3XVc02JVpLzBWKcPyQsJjTFZcJRmWerkFL/1r6ho="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sbV3XVc02JVpLzBWKcPyQsJjTFZcJRmWerkFL/1r6ho="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sbV3XVc02JVpLzBWKcPyQsJjTFZcJRmWerkFL/1r6ho="
+    }
+  },
+  "version": "11.11"
+}

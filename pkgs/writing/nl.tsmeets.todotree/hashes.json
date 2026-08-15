@@ -1,0 +1,18 @@
+{
+  "apkName": "nl.tsmeets.todotree_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2msLhEsaRzj+kLUX96Smo8rfcsRYmDmhXloRxNXG1r4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2msLhEsaRzj+kLUX96Smo8rfcsRYmDmhXloRxNXG1r4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2msLhEsaRzj+kLUX96Smo8rfcsRYmDmhXloRxNXG1r4="
+    }
+  },
+  "version": "1.5"
+}

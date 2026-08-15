@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.ac.swansea.eduroamcat_59.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sEv0Ik4zfCcmfHdBhmlV5J7oI1J/ScmfQ91qJtMWVJ4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sEv0Ik4zfCcmfHdBhmlV5J7oI1J/ScmfQ91qJtMWVJ4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sEv0Ik4zfCcmfHdBhmlV5J7oI1J/ScmfQ91qJtMWVJ4="
+    }
+  },
+  "version": "1.2.14"
+}

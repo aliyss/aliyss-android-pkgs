@@ -1,0 +1,8 @@
+{
+  "package": "com.ah.taplock",
+  "signerFingerprints": [
+    "4F:02:34:5D:4C:71:72:C5:8C:88:79:2D:9B:1D:5A:BA:DB:94:EB:D0:C9:B4:33:1A:A5:2D:F5:5B:75:CE:EA:21"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

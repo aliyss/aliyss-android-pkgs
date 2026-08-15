@@ -1,0 +1,18 @@
+{
+  "apkName": "net.blumia.pineapple.lockscreen.oss_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8/xHqm2FiGREgaferI8Qqt2Qd19HT/6tfmCWruuUs5g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8/xHqm2FiGREgaferI8Qqt2Qd19HT/6tfmCWruuUs5g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8/xHqm2FiGREgaferI8Qqt2Qd19HT/6tfmCWruuUs5g="
+    }
+  },
+  "version": "3.0.1.1-oss"
+}

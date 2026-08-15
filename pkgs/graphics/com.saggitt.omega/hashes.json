@@ -1,0 +1,18 @@
+{
+  "apkName": "com.saggitt.omega_934.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LFnRB8R2AvDYKd4S3os9V8LVXMMPX3WU9xMiiq4Xm0Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LFnRB8R2AvDYKd4S3os9V8LVXMMPX3WU9xMiiq4Xm0Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LFnRB8R2AvDYKd4S3os9V8LVXMMPX3WU9xMiiq4Xm0Q="
+    }
+  },
+  "version": "0.9.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.theskillapp.skillapp",
+  "signerFingerprints": [
+    "83:CD:3B:C1:1E:21:1F:B8:E4:0E:4B:18:65:F1:CB:EF:A5:94:92:11:1F:C1:E8:16:0D:EB:BA:64:DE:59:C2:66"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

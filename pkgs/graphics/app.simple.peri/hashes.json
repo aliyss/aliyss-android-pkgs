@@ -1,0 +1,18 @@
+{
+  "apkName": "app.simple.peri_974.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VZPEBmWzAqkZowaXEIlH2UQM4uYMv209+xfOZ4MHeQ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VZPEBmWzAqkZowaXEIlH2UQM4uYMv209+xfOZ4MHeQ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VZPEBmWzAqkZowaXEIlH2UQM4uYMv209+xfOZ4MHeQ0="
+    }
+  },
+  "version": "v9.7.4"
+}

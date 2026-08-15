@@ -1,0 +1,8 @@
+{
+  "package": "app.linkclear",
+  "signerFingerprints": [
+    "7E:48:9F:6B:03:42:DB:48:EB:CD:B3:03:12:96:5E:84:05:89:F1:A3:35:43:80:46:AE:FC:2D:FC:54:8D:05:7E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "se.tube42.p9.android_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5p5Ag24xM3621Ta1Y3o/a6e2SEtU0XLdJCOMDLLdWnY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5p5Ag24xM3621Ta1Y3o/a6e2SEtU0XLdJCOMDLLdWnY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5p5Ag24xM3621Ta1Y3o/a6e2SEtU0XLdJCOMDLLdWnY="
+    }
+  },
+  "version": "0.1.1"
+}

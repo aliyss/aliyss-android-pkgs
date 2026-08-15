@@ -1,0 +1,18 @@
+{
+  "apkName": "org.traffxml.roadeagle_10007.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nJmLeRanRK9zDrLOhOZQMSua5K6LXZtvB/T4ENa/Jgo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nJmLeRanRK9zDrLOhOZQMSua5K6LXZtvB/T4ENa/Jgo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nJmLeRanRK9zDrLOhOZQMSua5K6LXZtvB/T4ENa/Jgo="
+    }
+  },
+  "version": "1.0.7"
+}

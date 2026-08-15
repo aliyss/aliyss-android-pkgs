@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dhangofa.networktoggle_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1cu4Kc9kWifK7m8rgGcXkb3poZQElo25H4UhFBSuhA4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1cu4Kc9kWifK7m8rgGcXkb3poZQElo25H4UhFBSuhA4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1cu4Kc9kWifK7m8rgGcXkb3poZQElo25H4UhFBSuhA4="
+    }
+  },
+  "version": "1.0.32"
+}

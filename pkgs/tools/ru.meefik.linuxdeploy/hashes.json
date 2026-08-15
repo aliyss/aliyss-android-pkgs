@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.meefik.linuxdeploy_258.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LrpC+7uSLIteICMT3ybdmsQPBOEmHtwI3AGBEITO7uk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LrpC+7uSLIteICMT3ybdmsQPBOEmHtwI3AGBEITO7uk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LrpC+7uSLIteICMT3ybdmsQPBOEmHtwI3AGBEITO7uk="
+    }
+  },
+  "version": "2.6.0"
+}

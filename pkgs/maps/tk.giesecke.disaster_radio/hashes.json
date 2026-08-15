@@ -1,0 +1,18 @@
+{
+  "apkName": "tk.giesecke.disaster_radio_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2Xtjyt0CS/MA5ITVUnz0NeKcGLU9izr+phrBUMoB/Hg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2Xtjyt0CS/MA5ITVUnz0NeKcGLU9izr+phrBUMoB/Hg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2Xtjyt0CS/MA5ITVUnz0NeKcGLU9izr+phrBUMoB/Hg="
+    }
+  },
+  "version": "1.7"
+}

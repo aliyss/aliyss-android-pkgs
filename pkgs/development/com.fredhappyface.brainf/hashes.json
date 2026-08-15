@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fredhappyface.brainf_20240826.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-W+WRyL1AIx+J4baIy7nO+wS6GIZWNvHlrMKN9NW5/7E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W+WRyL1AIx+J4baIy7nO+wS6GIZWNvHlrMKN9NW5/7E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-W+WRyL1AIx+J4baIy7nO+wS6GIZWNvHlrMKN9NW5/7E="
+    }
+  },
+  "version": "20240826"
+}

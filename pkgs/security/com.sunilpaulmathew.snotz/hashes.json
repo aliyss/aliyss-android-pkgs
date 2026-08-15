@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sunilpaulmathew.snotz_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MiPHGKGGZOQY72aTs2NhkLbFzsWtc/Rc0gU7TM+p5bU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MiPHGKGGZOQY72aTs2NhkLbFzsWtc/Rc0gU7TM+p5bU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MiPHGKGGZOQY72aTs2NhkLbFzsWtc/Rc0gU7TM+p5bU="
+    }
+  },
+  "version": "v0.34"
+}

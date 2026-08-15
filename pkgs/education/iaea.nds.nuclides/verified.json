@@ -1,0 +1,8 @@
+{
+  "package": "iaea.nds.nuclides",
+  "signerFingerprints": [
+    "24:76:03:E1:DF:EB:FC:D4:94:38:AE:CF:EC:CC:5B:47:43:E1:C2:23:44:1B:78:8A:73:64:D1:4E:29:36:47:B5"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

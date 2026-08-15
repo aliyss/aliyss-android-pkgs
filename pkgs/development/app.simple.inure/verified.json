@@ -1,0 +1,8 @@
+{
+  "package": "app.simple.inure",
+  "signerFingerprints": [
+    "4A:3F:71:11:42:25:08:05:C7:BB:5C:0A:5A:32:87:63:1B:DB:94:88:16:E6:F4:AF:C9:52:4D:0E:B4:6B:6B:1B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

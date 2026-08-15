@@ -1,0 +1,18 @@
+{
+  "apkName": "com.demonlab.lune_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rmZAgvVRNtfps9KVex6Swtp2DqQFvV3Q+OQkyxT8yzY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rmZAgvVRNtfps9KVex6Swtp2DqQFvV3Q+OQkyxT8yzY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rmZAgvVRNtfps9KVex6Swtp2DqQFvV3Q+OQkyxT8yzY="
+    }
+  },
+  "version": "1.5.1"
+}

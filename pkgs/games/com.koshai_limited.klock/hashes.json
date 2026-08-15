@@ -1,0 +1,18 @@
+{
+  "apkName": "com.koshai_limited.klock_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FYr5cMkXFZbnL3sLyYNCN9nuc68r5/PsYW/TkScW9Ok="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FYr5cMkXFZbnL3sLyYNCN9nuc68r5/PsYW/TkScW9Ok="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FYr5cMkXFZbnL3sLyYNCN9nuc68r5/PsYW/TkScW9Ok="
+    }
+  },
+  "version": "1.2.0"
+}

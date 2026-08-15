@@ -1,0 +1,8 @@
+{
+  "package": "com.ahmedsamy.purelink",
+  "signerFingerprints": [
+    "ED:DA:E3:44:1B:A1:9E:51:6C:DC:F0:4C:73:E9:9B:0B:C9:55:08:11:26:9B:83:4F:AB:F9:6E:60:B3:6D:FF:3B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

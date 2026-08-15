@@ -1,0 +1,8 @@
+{
+  "package": "me.zhanghai.android.untracker",
+  "signerFingerprints": [
+    "73:74:4D:6A:9B:CD:00:48:E8:90:A9:6E:E1:AB:3A:ED:58:51:DB:85:6E:09:0F:37:3D:A2:BF:64:89:82:C7:3F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.shortendesign.k9keyboard_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YKEE5bqnTHrvNNV8nJgMIFdI6eH6HGBKA5ze7McR6dc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YKEE5bqnTHrvNNV8nJgMIFdI6eH6HGBKA5ze7McR6dc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YKEE5bqnTHrvNNV8nJgMIFdI6eH6HGBKA5ze7McR6dc="
+    }
+  },
+  "version": "0.12.0"
+}

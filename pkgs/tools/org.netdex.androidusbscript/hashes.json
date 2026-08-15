@@ -1,0 +1,18 @@
+{
+  "apkName": "org.netdex.androidusbscript_122.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-COgdZo3fpOiQ3Pa0wQOZzm+7dA+lZyO+u55jqwyDJvg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-COgdZo3fpOiQ3Pa0wQOZzm+7dA+lZyO+u55jqwyDJvg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-COgdZo3fpOiQ3Pa0wQOZzm+7dA+lZyO+u55jqwyDJvg="
+    }
+  },
+  "version": "1.2.2"
+}

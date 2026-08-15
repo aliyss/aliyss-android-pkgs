@@ -1,0 +1,18 @@
+{
+  "apkName": "org.basic.lg_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-o0wt3JDnGu4H6r0JU8s0cKsj+j6LwjGEjBR/xXFkJJI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o0wt3JDnGu4H6r0JU8s0cKsj+j6LwjGEjBR/xXFkJJI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o0wt3JDnGu4H6r0JU8s0cKsj+j6LwjGEjBR/xXFkJJI="
+    }
+  },
+  "version": "3.0"
+}

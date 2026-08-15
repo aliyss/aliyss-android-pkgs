@@ -1,0 +1,18 @@
+{
+  "apkName": "info.aario.killcamera_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YpPVZioTOScbyd2LlADsuHi39dMl0cYBCi3f1g6kSys="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YpPVZioTOScbyd2LlADsuHi39dMl0cYBCi3f1g6kSys="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YpPVZioTOScbyd2LlADsuHi39dMl0cYBCi3f1g6kSys="
+    }
+  },
+  "version": "1.0"
+}

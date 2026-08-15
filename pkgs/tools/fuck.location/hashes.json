@@ -1,0 +1,18 @@
+{
+  "apkName": "fuck.location_722.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bzmL8ALFBcU6yoy4MFEEtKX4m57qlkaaHSamIfcrxCA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bzmL8ALFBcU6yoy4MFEEtKX4m57qlkaaHSamIfcrxCA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bzmL8ALFBcU6yoy4MFEEtKX4m57qlkaaHSamIfcrxCA="
+    }
+  },
+  "version": "1.2.13"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.akvo.rsr.up_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5tUUi51rqV6f8e8hr18wO5WpBP7OvTNRw7D0JHXtIMA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5tUUi51rqV6f8e8hr18wO5WpBP7OvTNRw7D0JHXtIMA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5tUUi51rqV6f8e8hr18wO5WpBP7OvTNRw7D0JHXtIMA="
+    }
+  },
+  "version": "2.0.0"
+}

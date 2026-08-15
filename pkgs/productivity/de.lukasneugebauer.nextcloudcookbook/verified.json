@@ -1,0 +1,8 @@
+{
+  "package": "de.lukasneugebauer.nextcloudcookbook",
+  "signerFingerprints": [
+    "76:C2:9D:9A:87:91:FF:D9:36:38:36:96:89:60:FD:6D:63:B3:D4:41:FE:96:95:F3:66:8A:DB:E3:84:E3:64:74"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

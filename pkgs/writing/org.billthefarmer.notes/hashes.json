@@ -1,0 +1,18 @@
+{
+  "apkName": "org.billthefarmer.notes_141.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-roqpZ5T8VdWJFtj+OiF5EvvMnt1eyftyxUf5DZfTwOo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-roqpZ5T8VdWJFtj+OiF5EvvMnt1eyftyxUf5DZfTwOo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-roqpZ5T8VdWJFtj+OiF5EvvMnt1eyftyxUf5DZfTwOo="
+    }
+  },
+  "version": "1.41"
+}

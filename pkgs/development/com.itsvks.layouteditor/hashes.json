@@ -1,0 +1,18 @@
+{
+  "apkName": "com.itsvks.layouteditor_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PemIemGMnBnXsBK19CNzGSTh0+SSdBiSFQLQXrbJeRg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PemIemGMnBnXsBK19CNzGSTh0+SSdBiSFQLQXrbJeRg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PemIemGMnBnXsBK19CNzGSTh0+SSdBiSFQLQXrbJeRg="
+    }
+  },
+  "version": "0.8.0-alpha"
+}

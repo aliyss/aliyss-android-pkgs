@@ -1,0 +1,18 @@
+{
+  "apkName": "com.linkedcamera.app_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OWFRjGqLVRBAD89Rb74FDngAykvFs2irHTZjNVQ+g+M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OWFRjGqLVRBAD89Rb74FDngAykvFs2irHTZjNVQ+g+M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OWFRjGqLVRBAD89Rb74FDngAykvFs2irHTZjNVQ+g+M="
+    }
+  },
+  "version": "1.4"
+}

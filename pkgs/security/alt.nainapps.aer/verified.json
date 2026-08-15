@@ -1,0 +1,8 @@
+{
+  "package": "alt.nainapps.aer",
+  "signerFingerprints": [
+    "DB:FA:3F:F8:62:6F:69:EC:6E:C7:F4:C1:64:5B:09:54:D6:6F:91:D4:19:62:9E:E1:96:83:B5:E2:C4:49:9C:07"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

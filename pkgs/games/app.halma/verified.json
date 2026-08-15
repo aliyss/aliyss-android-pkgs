@@ -1,0 +1,8 @@
+{
+  "package": "app.halma",
+  "signerFingerprints": [
+    "1D:A1:8B:9F:36:F9:74:8B:2D:E2:C0:E5:2A:59:E8:4B:59:40:A0:4C:CD:B3:B5:94:28:00:02:26:6B:7B:34:20"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

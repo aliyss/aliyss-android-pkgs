@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pearlnode_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-18fm4rErmDtAAwl8m0QvZnPyhwNDEQJwuEiwkASaZkE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-18fm4rErmDtAAwl8m0QvZnPyhwNDEQJwuEiwkASaZkE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-18fm4rErmDtAAwl8m0QvZnPyhwNDEQJwuEiwkASaZkE="
+    }
+  },
+  "version": "1.0"
+}

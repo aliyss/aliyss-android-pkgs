@@ -1,0 +1,18 @@
+{
+  "apkName": "com.emmanuelmess.simpleaccounting_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ccrSQjXh7sectuRywgbHZom7x8hN5NcSolspf22vx/w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ccrSQjXh7sectuRywgbHZom7x8hN5NcSolspf22vx/w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ccrSQjXh7sectuRywgbHZom7x8hN5NcSolspf22vx/w="
+    }
+  },
+  "version": "1.6.1"
+}

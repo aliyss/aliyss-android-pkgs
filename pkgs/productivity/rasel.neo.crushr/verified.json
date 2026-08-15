@@ -1,0 +1,8 @@
+{
+  "package": "rasel.neo.crushr",
+  "signerFingerprints": [
+    "02:2A:CF:8C:F4:40:81:FB:3A:B6:99:EA:86:20:28:66:54:18:B7:83:E5:BE:C2:D0:30:94:3F:74:FE:B8:33:CE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

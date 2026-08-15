@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mcdz.seeip_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KaVUw9y1tql8o4Hijr3AIsy3YqCxo0rnln55kh9+fu4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KaVUw9y1tql8o4Hijr3AIsy3YqCxo0rnln55kh9+fu4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KaVUw9y1tql8o4Hijr3AIsy3YqCxo0rnln55kh9+fu4="
+    }
+  },
+  "version": "1.13"
+}

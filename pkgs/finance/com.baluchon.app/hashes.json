@@ -1,0 +1,18 @@
+{
+  "apkName": "com.baluchon.app_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SVR42OcMQCwW6gMCjaDHAD6W4pqsOAUemFWY/d9YaWc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SVR42OcMQCwW6gMCjaDHAD6W4pqsOAUemFWY/d9YaWc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SVR42OcMQCwW6gMCjaDHAD6W4pqsOAUemFWY/d9YaWc="
+    }
+  },
+  "version": "3.0"
+}

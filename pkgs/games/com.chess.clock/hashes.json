@@ -1,0 +1,18 @@
+{
+  "apkName": "com.chess.clock_28.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NQi4HIjBxbwLgU6qwv76QA37P0QPLwaoaG0gVrpOnt0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NQi4HIjBxbwLgU6qwv76QA37P0QPLwaoaG0gVrpOnt0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NQi4HIjBxbwLgU6qwv76QA37P0QPLwaoaG0gVrpOnt0="
+    }
+  },
+  "version": "1.2.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tjEnterprises.phase10Counter_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Qz9G+7RHfdCbDf8naSfAxBsXebX3xEKb1KSdjKwUyTI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qz9G+7RHfdCbDf8naSfAxBsXebX3xEKb1KSdjKwUyTI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qz9G+7RHfdCbDf8naSfAxBsXebX3xEKb1KSdjKwUyTI="
+    }
+  },
+  "version": "3.4.1"
+}

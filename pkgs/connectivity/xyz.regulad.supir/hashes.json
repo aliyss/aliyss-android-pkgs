@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.regulad.supir_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DXzbtGS/nty0CV6JbieHgWQqjqt90eS2J4lIyn0xJZw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DXzbtGS/nty0CV6JbieHgWQqjqt90eS2J4lIyn0xJZw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DXzbtGS/nty0CV6JbieHgWQqjqt90eS2J4lIyn0xJZw="
+    }
+  },
+  "version": "1.1.3"
+}

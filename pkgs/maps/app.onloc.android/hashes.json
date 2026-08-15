@@ -1,0 +1,18 @@
+{
+  "apkName": "app.onloc.android_128.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IWcbmZqheo+60l435Gz6n/Vg96/JvP18Qi/EKuzBzcU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IWcbmZqheo+60l435Gz6n/Vg96/JvP18Qi/EKuzBzcU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IWcbmZqheo+60l435Gz6n/Vg96/JvP18Qi/EKuzBzcU="
+    }
+  },
+  "version": "1.2.8"
+}

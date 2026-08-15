@@ -1,0 +1,8 @@
+{
+  "package": "com.commit451.gitlab",
+  "signerFingerprints": [
+    "5C:5D:79:B4:A2:CC:01:22:B3:76:7E:65:DF:82:2F:3D:EC:FD:CF:D2:D3:AD:45:E1:5E:F2:CA:7E:60:A5:02:B5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

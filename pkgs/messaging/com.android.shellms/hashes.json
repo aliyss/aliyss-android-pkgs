@@ -1,0 +1,18 @@
+{
+  "apkName": "com.android.shellms_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nGsUafv1lH1AtjNERgwbrxB4dJ/UT6E+ZHF2DtIoGYA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nGsUafv1lH1AtjNERgwbrxB4dJ/UT6E+ZHF2DtIoGYA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nGsUafv1lH1AtjNERgwbrxB4dJ/UT6E+ZHF2DtIoGYA="
+    }
+  },
+  "version": "1.5"
+}

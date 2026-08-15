@@ -1,0 +1,8 @@
+{
+  "package": "io.github.dkter.aaaaa",
+  "signerFingerprints": [
+    "85:38:03:14:B7:23:47:26:A1:04:47:FE:92:CF:A5:0F:FF:D5:A0:3B:D3:F8:7E:68:6D:D9:49:B6:90:65:F5:77"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

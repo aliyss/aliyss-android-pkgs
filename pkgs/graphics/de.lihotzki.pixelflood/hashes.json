@@ -1,0 +1,18 @@
+{
+  "apkName": "de.lihotzki.pixelflood_10003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ML/JTh0AOsJxfJ6wRMYe/tGqXxx979XLDIy+rthqhiw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ML/JTh0AOsJxfJ6wRMYe/tGqXxx979XLDIy+rthqhiw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ML/JTh0AOsJxfJ6wRMYe/tGqXxx979XLDIy+rthqhiw="
+    }
+  },
+  "version": "1.0.3"
+}

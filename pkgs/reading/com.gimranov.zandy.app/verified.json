@@ -1,0 +1,8 @@
+{
+  "package": "com.gimranov.zandy.app",
+  "signerFingerprints": [
+    "8A:26:49:3B:FD:ED:58:43:9B:7F:16:C3:28:7B:3F:E2:68:8E:5F:E5:D6:37:64:F7:75:32:85:4A:25:EC:A3:F1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

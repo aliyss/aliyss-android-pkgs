@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fossify.camera_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EWAE/YdD+eR78l65xgSet30/GdWVBsP0dRP1hMYThDU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EWAE/YdD+eR78l65xgSet30/GdWVBsP0dRP1hMYThDU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EWAE/YdD+eR78l65xgSet30/GdWVBsP0dRP1hMYThDU="
+    }
+  },
+  "version": "1.5.0"
+}

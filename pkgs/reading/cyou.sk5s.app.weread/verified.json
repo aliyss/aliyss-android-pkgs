@@ -1,0 +1,8 @@
+{
+  "package": "cyou.sk5s.app.weread",
+  "signerFingerprints": [
+    "12:94:81:F2:10:F7:F3:BD:D5:4D:B5:D5:C9:0B:B8:F6:4B:9D:7C:24:A3:69:72:8D:D7:F2:12:29:81:A1:56:A6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

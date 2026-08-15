@@ -1,0 +1,18 @@
+{
+  "apkName": "com.katsuyamaki.DroidOSFOSSLauncher_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WV5QF7lSktZX3I2coE4wVWW7P0gbzixJQk0PD4ZHT8c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WV5QF7lSktZX3I2coE4wVWW7P0gbzixJQk0PD4ZHT8c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WV5QF7lSktZX3I2coE4wVWW7P0gbzixJQk0PD4ZHT8c="
+    }
+  },
+  "version": "2.1"
+}

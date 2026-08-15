@@ -1,0 +1,8 @@
+{
+  "package": "com.jkuester.unlauncher",
+  "signerFingerprints": [
+    "79:D5:74:A5:15:C3:92:03:71:8C:3D:AC:5B:76:5D:09:AA:82:BC:7F:44:F5:96:21:E3:6F:7C:E9:E2:15:2B:53"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

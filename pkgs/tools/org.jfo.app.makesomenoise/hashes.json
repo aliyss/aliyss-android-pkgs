@@ -1,0 +1,18 @@
+{
+  "apkName": "org.jfo.app.makesomenoise_125.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MUuCGPIZVOWwAZykb7VFhAD0cQbpIGB9UTCt++XSBog="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MUuCGPIZVOWwAZykb7VFhAD0cQbpIGB9UTCt++XSBog="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MUuCGPIZVOWwAZykb7VFhAD0cQbpIGB9UTCt++XSBog="
+    }
+  },
+  "version": "1.2.5"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.darkrockstudios.app.securecamera",
+  "signerFingerprints": [
+    "66:A4:DA:23:C9:00:C2:A5:7C:11:7C:02:60:59:EB:13:52:A0:4E:8A:7D:C0:0B:39:3B:BD:DB:CC:7E:13:83:B6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

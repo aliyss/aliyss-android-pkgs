@@ -1,0 +1,18 @@
+{
+  "apkName": "protect.rentalcalc_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iYs8iUIknbitr6op32shT3Jh66dhto3kqK+8w6N7E1Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iYs8iUIknbitr6op32shT3Jh66dhto3kqK+8w6N7E1Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iYs8iUIknbitr6op32shT3Jh66dhto3kqK+8w6N7E1Q="
+    }
+  },
+  "version": "0.5.1"
+}

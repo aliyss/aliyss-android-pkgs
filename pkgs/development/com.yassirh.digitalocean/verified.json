@@ -1,0 +1,8 @@
+{
+  "package": "com.yassirh.digitalocean",
+  "signerFingerprints": [
+    "B7:36:B2:04:FD:C8:4F:7D:95:26:86:C1:34:18:92:80:52:AF:A0:7A:A9:F6:E2:FA:AC:62:7C:42:D7:C6:1B:09"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

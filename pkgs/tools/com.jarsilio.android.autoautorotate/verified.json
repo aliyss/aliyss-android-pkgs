@@ -1,0 +1,8 @@
+{
+  "package": "com.jarsilio.android.autoautorotate",
+  "signerFingerprints": [
+    "8F:70:D2:DF:F3:29:1F:F6:1E:12:77:0E:D6:69:C5:2E:D8:30:96:81:A3:6A:96:03:86:AF:DC:C1:8E:45:75:5F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

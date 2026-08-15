@@ -1,0 +1,18 @@
+{
+  "apkName": "com.adguard.android.contentblocker_22000250.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vWDzDqUpVKYG3nxEbO3uOeioneXRixW2Fuuy57M7wm8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vWDzDqUpVKYG3nxEbO3uOeioneXRixW2Fuuy57M7wm8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vWDzDqUpVKYG3nxEbO3uOeioneXRixW2Fuuy57M7wm8="
+    }
+  },
+  "version": "2.8.0"
+}

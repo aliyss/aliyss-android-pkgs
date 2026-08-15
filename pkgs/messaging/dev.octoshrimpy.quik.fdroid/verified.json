@@ -1,0 +1,8 @@
+{
+  "package": "dev.octoshrimpy.quik.fdroid",
+  "signerFingerprints": [
+    "52:8B:89:A6:7E:25:86:35:BE:21:29:A7:4E:27:44:F9:02:0B:0B:12:27:08:F8:09:1B:5F:D3:CA:0C:1D:2D:DF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

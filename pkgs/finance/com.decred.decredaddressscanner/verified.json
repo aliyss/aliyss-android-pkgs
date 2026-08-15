@@ -1,0 +1,8 @@
+{
+  "package": "com.decred.decredaddressscanner",
+  "signerFingerprints": [
+    "35:A0:AF:6D:ED:2E:52:C8:BA:F9:3D:52:B8:09:50:F0:BC:9F:6E:E8:9F:A4:E6:EB:4E:EF:BE:10:15:6B:04:9C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

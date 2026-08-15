@@ -1,0 +1,8 @@
+{
+  "package": "rocks.tbog.tblauncher",
+  "signerFingerprints": [
+    "C6:A8:75:16:D1:DB:B0:8E:F0:81:C6:0A:63:2B:F3:90:3B:F2:43:A9:70:E0:FC:7F:CC:51:15:CE:08:AD:31:A7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

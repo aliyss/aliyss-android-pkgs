@@ -1,0 +1,8 @@
+{
+  "package": "com.tomclaw.appsend",
+  "signerFingerprints": [
+    "A0:44:31:50:B6:DD:65:81:DF:78:09:7D:42:12:62:87:87:43:3D:F1:DB:31:D4:12:BE:83:44:16:4D:03:16:DC"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

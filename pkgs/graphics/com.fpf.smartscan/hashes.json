@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fpf.smartscan_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dEao8tS9NK8hUB+onUXYTHC+ZWpIbCMQVb1FNOTVtFk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dEao8tS9NK8hUB+onUXYTHC+ZWpIbCMQVb1FNOTVtFk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dEao8tS9NK8hUB+onUXYTHC+ZWpIbCMQVb1FNOTVtFk="
+    }
+  },
+  "version": "1.3.4"
+}

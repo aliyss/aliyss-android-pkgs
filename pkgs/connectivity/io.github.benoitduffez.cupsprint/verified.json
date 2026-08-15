@@ -1,0 +1,8 @@
+{
+  "package": "io.github.benoitduffez.cupsprint",
+  "signerFingerprints": [
+    "86:CA:30:07:16:94:6F:72:47:C5:92:CB:E7:65:03:64:36:85:61:89:EC:94:85:83:3F:63:71:F1:E3:01:02:68"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

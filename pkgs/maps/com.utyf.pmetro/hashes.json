@@ -1,0 +1,18 @@
+{
+  "apkName": "com.utyf.pmetro_114.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uZNC+ZiHV3q3cxp09JsQS2qpwKsZ7fCtMelhhr8kolk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uZNC+ZiHV3q3cxp09JsQS2qpwKsZ7fCtMelhhr8kolk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uZNC+ZiHV3q3cxp09JsQS2qpwKsZ7fCtMelhhr8kolk="
+    }
+  },
+  "version": "0.0.20"
+}

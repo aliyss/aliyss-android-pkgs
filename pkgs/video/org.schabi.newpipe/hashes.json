@@ -1,0 +1,9 @@
+{
+  "version": "0.29.0",
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0batCXDbOTcRWus3X0mWanoi/eIBbFVZlrNpDDUU2A0="
+    }
+  }
+}

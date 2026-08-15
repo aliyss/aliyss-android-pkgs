@@ -1,0 +1,8 @@
+{
+  "package": "com.rtneg.kyuubimask",
+  "signerFingerprints": [
+    "5E:CD:86:5B:4A:5F:0E:4F:F7:BB:8E:83:C4:84:99:3A:22:F2:78:09:72:D7:F2:CD:2A:80:AD:25:A1:02:E6:20"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

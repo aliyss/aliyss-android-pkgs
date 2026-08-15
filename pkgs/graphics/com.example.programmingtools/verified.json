@@ -1,0 +1,8 @@
+{
+  "package": "com.example.programmingtools",
+  "signerFingerprints": [
+    "AD:1A:71:53:5C:75:AA:3C:20:9E:50:1D:E3:16:8A:E4:85:C9:28:97:AF:A9:FF:A0:09:73:D5:FD:BE:33:2D:C8"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

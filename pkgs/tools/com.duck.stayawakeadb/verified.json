@@ -1,0 +1,8 @@
+{
+  "package": "com.duck.stayawakeadb",
+  "signerFingerprints": [
+    "33:59:52:F9:DE:42:9E:74:C5:CE:9A:03:BF:A3:81:24:E7:ED:6A:E6:69:51:EA:B9:40:B3:B9:86:B3:75:80:2A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

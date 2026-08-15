@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.muellerma.tabletoptools_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6FXMWMczwkhRBZqIyQEjV35Q2ix6PO+5/S9IF1dNWnU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6FXMWMczwkhRBZqIyQEjV35Q2ix6PO+5/S9IF1dNWnU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6FXMWMczwkhRBZqIyQEjV35Q2ix6PO+5/S9IF1dNWnU="
+    }
+  },
+  "version": "1.29"
+}

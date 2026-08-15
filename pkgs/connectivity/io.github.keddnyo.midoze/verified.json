@@ -1,0 +1,8 @@
+{
+  "package": "io.github.keddnyo.midoze",
+  "signerFingerprints": [
+    "DD:E2:07:EE:1A:26:A4:AA:1E:FF:4C:FA:92:5C:7C:42:14:4E:4B:0A:17:F8:28:BF:B3:FC:58:93:4A:50:B9:9E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

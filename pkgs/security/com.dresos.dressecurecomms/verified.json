@@ -1,0 +1,8 @@
+{
+  "package": "com.dresos.dressecurecomms",
+  "signerFingerprints": [
+    "54:D5:59:80:C6:45:74:85:86:C0:B6:12:DA:14:B9:A6:79:83:CA:9E:0D:1E:E5:E6:B7:2B:99:18:3D:84:DE:D9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

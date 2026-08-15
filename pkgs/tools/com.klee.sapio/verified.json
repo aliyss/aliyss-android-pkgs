@@ -1,0 +1,8 @@
+{
+  "package": "com.klee.sapio",
+  "signerFingerprints": [
+    "27:BA:7A:70:A5:F0:FE:DA:DF:F4:A0:59:8A:4C:A7:FF:7D:9B:A7:CC:8A:6C:2E:CE:C7:55:49:CF:CB:F2:4B:D2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

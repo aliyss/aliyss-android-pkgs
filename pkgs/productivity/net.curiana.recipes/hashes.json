@@ -1,0 +1,18 @@
+{
+  "apkName": "net.curiana.recipes_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6rsHGIR0aXJJmY/1L7NsdsenbbixMXjiFOy88rA5Xkk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6rsHGIR0aXJJmY/1L7NsdsenbbixMXjiFOy88rA5Xkk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6rsHGIR0aXJJmY/1L7NsdsenbbixMXjiFOy88rA5Xkk="
+    }
+  },
+  "version": "0.2.10"
+}

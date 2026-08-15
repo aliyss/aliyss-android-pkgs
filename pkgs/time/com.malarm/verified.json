@@ -1,0 +1,8 @@
+{
+  "package": "com.malarm",
+  "signerFingerprints": [
+    "53:7F:93:4B:64:FA:D7:E6:AB:41:B8:9F:A6:01:0C:73:01:A3:D9:5D:37:73:19:EF:4F:0C:66:E2:8E:13:79:30"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

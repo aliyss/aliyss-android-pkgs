@@ -1,0 +1,18 @@
+{
+  "apkName": "com.atul.musicplayer_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IN3dKOAgEFaM+ca5Berq1iUgkTOJJciSP1RYUoBRsLk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IN3dKOAgEFaM+ca5Berq1iUgkTOJJciSP1RYUoBRsLk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IN3dKOAgEFaM+ca5Berq1iUgkTOJJciSP1RYUoBRsLk="
+    }
+  },
+  "version": "0.17"
+}

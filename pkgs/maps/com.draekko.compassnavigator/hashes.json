@@ -1,0 +1,18 @@
+{
+  "apkName": "com.draekko.compassnavigator_20250003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Hx8V41hxhfnbqiiYFRUiYsk4k0vhDWGhQgkD+lp9C1c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hx8V41hxhfnbqiiYFRUiYsk4k0vhDWGhQgkD+lp9C1c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hx8V41hxhfnbqiiYFRUiYsk4k0vhDWGhQgkD+lp9C1c="
+    }
+  },
+  "version": "2025.3"
+}

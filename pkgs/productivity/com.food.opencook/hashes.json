@@ -1,0 +1,18 @@
+{
+  "apkName": "com.food.opencook_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-xZtg8OEhuZRIeUu1OrSeRgxIn2bJKt0bWDJY4JHZHdI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xZtg8OEhuZRIeUu1OrSeRgxIn2bJKt0bWDJY4JHZHdI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-xZtg8OEhuZRIeUu1OrSeRgxIn2bJKt0bWDJY4JHZHdI="
+    }
+  },
+  "version": "0.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "au.id.colby.nfcquicksettings_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bWETSmN1EziZIOCkTZpcZ7KoUv4nWFpJoFaWBrJBBJM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bWETSmN1EziZIOCkTZpcZ7KoUv4nWFpJoFaWBrJBBJM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bWETSmN1EziZIOCkTZpcZ7KoUv4nWFpJoFaWBrJBBJM="
+    }
+  },
+  "version": "1.5.4-pre"
+}

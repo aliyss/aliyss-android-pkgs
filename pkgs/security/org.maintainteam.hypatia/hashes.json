@@ -1,0 +1,18 @@
+{
+  "apkName": "org.maintainteam.hypatia_318.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0OMcjbszjmEiA3O+Ye5STIR285qi1ZUXmE/kXF51dsM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0OMcjbszjmEiA3O+Ye5STIR285qi1ZUXmE/kXF51dsM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0OMcjbszjmEiA3O+Ye5STIR285qi1ZUXmE/kXF51dsM="
+    }
+  },
+  "version": "3.18"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.colnix.fta_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yJT+nTCLMxEOIhdETA1Jj8/TBImRkBRNgo4/jtS3zy8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yJT+nTCLMxEOIhdETA1Jj8/TBImRkBRNgo4/jtS3zy8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yJT+nTCLMxEOIhdETA1Jj8/TBImRkBRNgo4/jtS3zy8="
+    }
+  },
+  "version": "2.2.0"
+}

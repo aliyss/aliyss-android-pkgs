@@ -1,0 +1,8 @@
+{
+  "package": "xyz.tberghuis.floatingtimer",
+  "signerFingerprints": [
+    "41:76:02:E6:5C:51:B6:2F:9B:DD:C3:77:75:FE:BD:FC:98:01:D0:ED:DB:12:F0:2C:65:A9:7F:A9:CC:BB:9C:34"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

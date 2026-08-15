@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.khanshoaib3.nerdsteam_1000005.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PIQ+Wne8cPJQcMQ8FPzlSYNguFqi/ze4EAkKmWuZTLY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PIQ+Wne8cPJQcMQ8FPzlSYNguFqi/ze4EAkKmWuZTLY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PIQ+Wne8cPJQcMQ8FPzlSYNguFqi/ze4EAkKmWuZTLY="
+    }
+  },
+  "version": "1.0.5"
+}

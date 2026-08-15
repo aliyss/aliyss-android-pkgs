@@ -1,0 +1,18 @@
+{
+  "apkName": "de.deftk.openww.android_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BG4nBUCxdbFJCPA9Kz4ElsE2Yn3bRgAm+xPkAZl/Jj4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BG4nBUCxdbFJCPA9Kz4ElsE2Yn3bRgAm+xPkAZl/Jj4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BG4nBUCxdbFJCPA9Kz4ElsE2Yn3bRgAm+xPkAZl/Jj4="
+    }
+  },
+  "version": "0.4.4"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "in.sunilpaulmathew.izzyondroid_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1C87S9cLC51dY/zwzasa/DbbWSme2t4QisOeBAnuwGM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1C87S9cLC51dY/zwzasa/DbbWSme2t4QisOeBAnuwGM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1C87S9cLC51dY/zwzasa/DbbWSme2t4QisOeBAnuwGM="
+    }
+  },
+  "version": "v0.14"
+}

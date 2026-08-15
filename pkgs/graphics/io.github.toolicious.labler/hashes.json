@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.toolicious.labler_1010000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n7VhAIYxZvX1Ur6Q586SglDCkJ+O9jUXN7ByxSSFs2s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n7VhAIYxZvX1Ur6Q586SglDCkJ+O9jUXN7ByxSSFs2s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n7VhAIYxZvX1Ur6Q586SglDCkJ+O9jUXN7ByxSSFs2s="
+    }
+  },
+  "version": "1.1.0"
+}

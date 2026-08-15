@@ -1,0 +1,8 @@
+{
+  "package": "luci.sixsixsix.powerampache2.fdroid",
+  "signerFingerprints": [
+    "BA:F0:B1:5A:78:40:D7:78:2C:05:E4:BD:8B:99:D3:A6:C5:37:51:97:65:A9:36:88:FD:77:45:31:27:E1:E6:51"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.decsync.flym_46.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YZPKhHlcCdzf4Rcloqp/AfIngMFVPG4/ekDwXaCghVo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YZPKhHlcCdzf4Rcloqp/AfIngMFVPG4/ekDwXaCghVo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YZPKhHlcCdzf4Rcloqp/AfIngMFVPG4/ekDwXaCghVo="
+    }
+  },
+  "version": "2.7.2"
+}

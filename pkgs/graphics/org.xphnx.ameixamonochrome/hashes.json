@@ -1,0 +1,18 @@
+{
+  "apkName": "org.xphnx.ameixamonochrome_4111.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rOmJOftRgh/GDhCgqubZO601bJ2Sjn7+obvXAGcXgy4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rOmJOftRgh/GDhCgqubZO601bJ2Sjn7+obvXAGcXgy4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rOmJOftRgh/GDhCgqubZO601bJ2Sjn7+obvXAGcXgy4="
+    }
+  },
+  "version": "4.11.1"
+}

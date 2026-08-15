@@ -1,0 +1,8 @@
+{
+  "package": "com.meteocool",
+  "signerFingerprints": [
+    "D5:8D:94:B4:59:C3:B1:91:F8:1B:87:45:89:59:2D:E5:10:CC:34:6C:DF:17:3C:41:40:3F:57:00:54:A2:71:3D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

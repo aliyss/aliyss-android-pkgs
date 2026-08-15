@@ -1,0 +1,18 @@
+{
+  "apkName": "net.opendsp.x4x4_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-emtfCVGdsVUfpiVwAdzKW4evxU0GNH4NAa1LZphwhPc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-emtfCVGdsVUfpiVwAdzKW4evxU0GNH4NAa1LZphwhPc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-emtfCVGdsVUfpiVwAdzKW4evxU0GNH4NAa1LZphwhPc="
+    }
+  },
+  "version": "0.2.2"
+}

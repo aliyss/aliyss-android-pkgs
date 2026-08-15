@@ -1,0 +1,18 @@
+{
+  "apkName": "de.codecivil.habsgleich_10802.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-75J3QRMs+ad7/AIsDh80DAjbAE6YAwwKHbDKEHKl17c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-75J3QRMs+ad7/AIsDh80DAjbAE6YAwwKHbDKEHKl17c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-75J3QRMs+ad7/AIsDh80DAjbAE6YAwwKHbDKEHKl17c="
+    }
+  },
+  "version": "1.8.2"
+}

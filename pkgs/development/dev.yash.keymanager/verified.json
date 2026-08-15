@@ -1,0 +1,8 @@
+{
+  "package": "dev.yash.keymanager",
+  "signerFingerprints": [
+    "3E:05:74:CB:61:1F:96:B2:92:7F:CB:AC:15:B6:83:4C:2D:4D:91:E8:23:F7:05:AF:D2:BF:5F:CF:EF:9C:CB:22"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

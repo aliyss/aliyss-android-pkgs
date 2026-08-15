@@ -1,0 +1,18 @@
+{
+  "apkName": "com.axiel7.anihyou_108.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OvmceXlWDgK+S8yHBEdcA67oOr78Tvz1YGDXhIX0hLs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OvmceXlWDgK+S8yHBEdcA67oOr78Tvz1YGDXhIX0hLs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OvmceXlWDgK+S8yHBEdcA67oOr78Tvz1YGDXhIX0hLs="
+    }
+  },
+  "version": "1.5.2"
+}

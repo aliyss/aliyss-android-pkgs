@@ -1,0 +1,18 @@
+{
+  "apkName": "io.krmanik.ankiimageocclusion_14800.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rFaWVyWJUU+hLXBDu6APLowMzeQqvbwYXDt8r3abE00="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rFaWVyWJUU+hLXBDu6APLowMzeQqvbwYXDt8r3abE00="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rFaWVyWJUU+hLXBDu6APLowMzeQqvbwYXDt8r3abE00="
+    }
+  },
+  "version": "1.4.8"
+}

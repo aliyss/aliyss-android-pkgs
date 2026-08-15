@@ -1,0 +1,18 @@
+{
+  "apkName": "cn.morfans.chenjunyu19.mediavolume_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9xV0d1FRglun7nnYJ7gqTKx4VkBfh1ZP/J+qvzzljeo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9xV0d1FRglun7nnYJ7gqTKx4VkBfh1ZP/J+qvzzljeo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9xV0d1FRglun7nnYJ7gqTKx4VkBfh1ZP/J+qvzzljeo="
+    }
+  },
+  "version": "1.7.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "anupam.acrylic_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3wEwnjZB+sd82b01ZVjhIuMfExf5iN+0FE662UngrIQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3wEwnjZB+sd82b01ZVjhIuMfExf5iN+0FE662UngrIQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3wEwnjZB+sd82b01ZVjhIuMfExf5iN+0FE662UngrIQ="
+    }
+  },
+  "version": "2.4.1"
+}

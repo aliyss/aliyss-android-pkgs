@@ -1,0 +1,8 @@
+{
+  "package": "com.castle.sefirah",
+  "signerFingerprints": [
+    "03:AB:AA:AD:6C:5B:9F:BD:DF:15:6C:EF:E8:C3:42:F7:FE:3A:FD:9D:C7:E9:AE:74:D7:B0:05:3B:20:87:24:84"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

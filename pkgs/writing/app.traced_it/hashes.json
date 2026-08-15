@@ -1,0 +1,18 @@
+{
+  "apkName": "app.traced_it_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Z1v3UffimnGWHZ5MAU0VeuJ6qEh+hgFMOEyiyuZNLGE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z1v3UffimnGWHZ5MAU0VeuJ6qEh+hgFMOEyiyuZNLGE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z1v3UffimnGWHZ5MAU0VeuJ6qEh+hgFMOEyiyuZNLGE="
+    }
+  },
+  "version": "1.7.1"
+}

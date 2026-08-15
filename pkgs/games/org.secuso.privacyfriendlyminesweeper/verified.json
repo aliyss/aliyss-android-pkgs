@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlyminesweeper",
+  "signerFingerprints": [
+    "50:75:CE:FF:95:61:EB:51:B3:7D:48:37:6D:A6:10:23:0B:59:5A:BA:70:7E:2D:84:5F:9B:84:4E:A5:88:26:4D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

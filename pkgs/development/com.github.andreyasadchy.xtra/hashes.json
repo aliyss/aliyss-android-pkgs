@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.andreyasadchy.xtra_348.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ag1E5NAyydtEAneLVv2d9N++VRzWMyScRY0GGGg8YHw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ag1E5NAyydtEAneLVv2d9N++VRzWMyScRY0GGGg8YHw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ag1E5NAyydtEAneLVv2d9N++VRzWMyScRY0GGGg8YHw="
+    }
+  },
+  "version": "2.58.5"
+}

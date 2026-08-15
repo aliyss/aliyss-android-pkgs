@@ -1,0 +1,18 @@
+{
+  "apkName": "com.furthersecrets.chemsearch_11308.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gxCmS9R8YK5nsOuqvEfv0DxJI9hF3TwgGaMFympHv/0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gxCmS9R8YK5nsOuqvEfv0DxJI9hF3TwgGaMFympHv/0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gxCmS9R8YK5nsOuqvEfv0DxJI9hF3TwgGaMFympHv/0="
+    }
+  },
+  "version": "1.13.8"
+}

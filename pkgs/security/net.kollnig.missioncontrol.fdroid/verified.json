@@ -1,0 +1,8 @@
+{
+  "package": "net.kollnig.missioncontrol.fdroid",
+  "signerFingerprints": [
+    "D5:4D:E7:92:E8:B6:8C:B2:2D:3D:AD:7B:5C:9F:37:31:64:89:72:4C:E6:FB:21:57:24:63:EE:5D:4E:07:4F:01"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

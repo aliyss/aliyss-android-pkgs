@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.aktivpause",
+  "signerFingerprints": [
+    "FF:86:EF:39:76:4A:1D:48:3F:C2:1B:A1:E3:B8:F5:12:5D:25:F4:E2:80:65:EC:4D:82:AE:31:08:37:D6:B8:6C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

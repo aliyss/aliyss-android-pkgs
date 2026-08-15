@@ -1,0 +1,18 @@
+{
+  "apkName": "com.myfinancemate_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AcZxjkrJ++7prf7joBJpWMcMNste2hu4Px0cBUxaUyI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AcZxjkrJ++7prf7joBJpWMcMNste2hu4Px0cBUxaUyI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AcZxjkrJ++7prf7joBJpWMcMNste2hu4Px0cBUxaUyI="
+    }
+  },
+  "version": "1.2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.porg.batt_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2krVUE5CTOqEuR9nJRO3QX0H3YoAh8148tPS24iz9hA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2krVUE5CTOqEuR9nJRO3QX0H3YoAh8148tPS24iz9hA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2krVUE5CTOqEuR9nJRO3QX0H3YoAh8148tPS24iz9hA="
+    }
+  },
+  "version": "1.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.thibaudperso.sonycamera_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6tAuTq6xz1txzs/BB2DETFxTjIJcCSnkiQqGvSSKXTM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6tAuTq6xz1txzs/BB2DETFxTjIJcCSnkiQqGvSSKXTM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6tAuTq6xz1txzs/BB2DETFxTjIJcCSnkiQqGvSSKXTM="
+    }
+  },
+  "version": "3.0.7"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "uscartools.USTravelConverter_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DCjUcaHuJzoD92Hjc+mCUPYON6mcLMrf71A27OzOZRY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DCjUcaHuJzoD92Hjc+mCUPYON6mcLMrf71A27OzOZRY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DCjUcaHuJzoD92Hjc+mCUPYON6mcLMrf71A27OzOZRY="
+    }
+  },
+  "version": "1.0"
+}

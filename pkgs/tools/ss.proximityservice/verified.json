@@ -1,0 +1,8 @@
+{
+  "package": "ss.proximityservice",
+  "signerFingerprints": [
+    "03:38:FD:77:FC:F0:DD:6B:B8:68:70:59:30:1C:92:A6:0A:54:E9:4D:2A:B1:DC:AA:CC:FF:7A:65:66:D8:FE:7D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

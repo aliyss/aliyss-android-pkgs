@@ -1,0 +1,8 @@
+{
+  "package": "org.secuso.privacyfriendlyfoodtracker",
+  "signerFingerprints": [
+    "06:CA:04:25:11:73:DB:E3:2C:9D:85:27:70:CA:B3:28:FC:C7:48:22:58:06:83:78:AB:0B:11:7D:72:BE:73:12"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

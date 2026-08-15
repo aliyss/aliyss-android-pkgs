@@ -1,0 +1,8 @@
+{
+  "package": "me.lucky.duress",
+  "signerFingerprints": [
+    "37:7A:CE:94:D7:84:7B:3E:AB:BE:C9:17:96:21:FE:A3:1B:15:B9:98:D5:33:77:57:49:DD:7E:9C:66:21:F2:69"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

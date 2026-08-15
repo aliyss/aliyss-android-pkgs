@@ -1,0 +1,18 @@
+{
+  "apkName": "jp.kcm.thumbctrl.en.layout_1039.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ft0I1dU37SnDFRCkXPzsWee7D5gBKJ9v4azADE9HxpU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ft0I1dU37SnDFRCkXPzsWee7D5gBKJ9v4azADE9HxpU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ft0I1dU37SnDFRCkXPzsWee7D5gBKJ9v4azADE9HxpU="
+    }
+  },
+  "version": "1.8"
+}

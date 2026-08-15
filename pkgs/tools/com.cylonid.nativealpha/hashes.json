@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cylonid.nativealpha_1520.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-J0ZWDSoutpwXU3gy17l4NkmVqKfWX1OICUDbK5aYDQs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J0ZWDSoutpwXU3gy17l4NkmVqKfWX1OICUDbK5aYDQs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-J0ZWDSoutpwXU3gy17l4NkmVqKfWX1OICUDbK5aYDQs="
+    }
+  },
+  "version": "1.5.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ghisguth.sun_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TWuiGOoa9VGDO/7RTjrBsH+nHkoqCEsTGiYv/Z7Px+8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TWuiGOoa9VGDO/7RTjrBsH+nHkoqCEsTGiYv/Z7Px+8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TWuiGOoa9VGDO/7RTjrBsH+nHkoqCEsTGiYv/Z7Px+8="
+    }
+  },
+  "version": "1.3"
+}

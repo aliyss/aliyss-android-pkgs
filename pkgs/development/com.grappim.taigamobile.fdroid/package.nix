@@ -1,0 +1,14 @@
+{ fetchApk }:
+
+let
+  pin = builtins.fromJSON (builtins.readFile ./hashes.json);
+in
+fetchApk {
+  pname = "taigamobile";
+  appId = "com.grappim.taigamobile.fdroid";
+  source = "f-droid";
+  repoUrl = "https://f-droid.org/repo";
+  apkName = pin.apkName;
+  version = pin.version;
+  archs = pin.architectures;
+}

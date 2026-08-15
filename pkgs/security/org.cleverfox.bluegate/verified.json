@@ -1,0 +1,8 @@
+{
+  "package": "org.cleverfox.bluegate",
+  "signerFingerprints": [
+    "CB:10:6E:B3:D3:B4:58:47:09:CF:08:E7:43:30:44:8E:71:82:AA:3B:79:99:E5:4B:BD:10:04:5C:67:14:B8:75"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

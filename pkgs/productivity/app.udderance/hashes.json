@@ -1,0 +1,18 @@
+{
+  "apkName": "app.udderance_202506270.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IHT8Vft4hKQ2j7Z3TmrLV2uZrRvRJHxRPF2KrF7Iwog="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IHT8Vft4hKQ2j7Z3TmrLV2uZrRvRJHxRPF2KrF7Iwog="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IHT8Vft4hKQ2j7Z3TmrLV2uZrRvRJHxRPF2KrF7Iwog="
+    }
+  },
+  "version": "202506270"
+}

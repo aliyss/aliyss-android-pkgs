@@ -1,0 +1,18 @@
+{
+  "apkName": "com.amnesica.clearclipboard_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0RYt7Z9oLz48z5T4/MuywcCKdeR2rVJE6YPISTz/2lQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0RYt7Z9oLz48z5T4/MuywcCKdeR2rVJE6YPISTz/2lQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0RYt7Z9oLz48z5T4/MuywcCKdeR2rVJE6YPISTz/2lQ="
+    }
+  },
+  "version": "1.0.4"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.gschwind.fiddle_assistant_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vxSwuVS8bpcx+xO8rWapxH1Rdq4W+iMpmWf/K0rwfig="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vxSwuVS8bpcx+xO8rWapxH1Rdq4W+iMpmWf/K0rwfig="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vxSwuVS8bpcx+xO8rWapxH1Rdq4W+iMpmWf/K0rwfig="
+    }
+  },
+  "version": "1.1.0"
+}

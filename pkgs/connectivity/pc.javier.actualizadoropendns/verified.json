@@ -1,0 +1,8 @@
+{
+  "package": "pc.javier.actualizadoropendns",
+  "signerFingerprints": [
+    "A0:52:D1:14:06:DB:41:7D:DA:70:6B:2F:19:25:CB:0C:BB:FA:08:DD:E3:CA:69:1A:A3:F2:8D:19:3D:F2:0C:CC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

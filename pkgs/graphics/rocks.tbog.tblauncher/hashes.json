@@ -1,0 +1,18 @@
+{
+  "apkName": "rocks.tbog.tblauncher_43.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0pK9PYULz4rumn8NN/UPf1RIciLev2BkM6Hv3ouZnNU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0pK9PYULz4rumn8NN/UPf1RIciLev2BkM6Hv3ouZnNU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0pK9PYULz4rumn8NN/UPf1RIciLev2BkM6Hv3ouZnNU="
+    }
+  },
+  "version": "7.5"
+}

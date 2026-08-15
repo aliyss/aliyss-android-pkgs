@@ -1,0 +1,8 @@
+{
+  "package": "com.portscanner.superredstone",
+  "signerFingerprints": [
+    "86:CF:96:28:F0:5A:B4:71:26:7E:DF:18:65:EB:6A:F8:7D:A2:F5:BD:02:69:BC:F0:0D:BC:91:5B:36:E7:55:FD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

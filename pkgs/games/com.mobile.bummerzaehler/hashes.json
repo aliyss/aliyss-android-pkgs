@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mobile.bummerzaehler_160.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Hb7AOG871SpjyQj9S1Z0wfcHo1aOJVieDtFS3UorCFA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hb7AOG871SpjyQj9S1Z0wfcHo1aOJVieDtFS3UorCFA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hb7AOG871SpjyQj9S1Z0wfcHo1aOJVieDtFS3UorCFA="
+    }
+  },
+  "version": "1.6"
+}

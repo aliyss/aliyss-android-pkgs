@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.cyberme0w.openbike_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rswqBAbfLJ0dMHLJImRVdtevPOgHxDyd4PNiqYnW8wY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rswqBAbfLJ0dMHLJImRVdtevPOgHxDyd4PNiqYnW8wY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rswqBAbfLJ0dMHLJImRVdtevPOgHxDyd4PNiqYnW8wY="
+    }
+  },
+  "version": "v1.4"
+}

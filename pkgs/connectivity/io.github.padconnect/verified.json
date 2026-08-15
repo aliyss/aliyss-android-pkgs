@@ -1,0 +1,8 @@
+{
+  "package": "io.github.padconnect",
+  "signerFingerprints": [
+    "FA:7A:09:AF:17:EE:16:FB:2B:AC:E7:9D:31:7E:BA:28:02:F9:54:1F:63:A7:B5:94:1A:AB:BE:C5:15:04:6B:9A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

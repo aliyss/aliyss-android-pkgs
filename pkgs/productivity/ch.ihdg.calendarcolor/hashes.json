@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.ihdg.calendarcolor_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jK9LZ5NnMxwqi/IMAhamNCGKbRy8Dj1Z7unsjrNF2Rc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jK9LZ5NnMxwqi/IMAhamNCGKbRy8Dj1Z7unsjrNF2Rc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jK9LZ5NnMxwqi/IMAhamNCGKbRy8Dj1Z7unsjrNF2Rc="
+    }
+  },
+  "version": "0.5"
+}

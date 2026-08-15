@@ -1,0 +1,8 @@
+{
+  "package": "dev.melonpan.kotori",
+  "signerFingerprints": [
+    "66:BA:75:5D:82:4E:BE:61:43:FF:DB:CA:BB:E9:2B:F1:4A:CD:86:2A:15:9A:2A:CD:9A:4E:50:9A:E7:54:99:25"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

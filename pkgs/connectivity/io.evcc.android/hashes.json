@@ -1,0 +1,18 @@
+{
+  "apkName": "io.evcc.android_47.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yVzzGq01DzRmqlDTZ0XpQV25XCYia3hCauC/uqzBZYU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yVzzGq01DzRmqlDTZ0XpQV25XCYia3hCauC/uqzBZYU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yVzzGq01DzRmqlDTZ0XpQV25XCYia3hCauC/uqzBZYU="
+    }
+  },
+  "version": "1.4.1"
+}

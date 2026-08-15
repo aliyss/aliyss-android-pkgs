@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.haykh.zham_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QNZofA9Rr75Wmte1UHVQSz8fULjSDNcKjFFb71+0mJA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QNZofA9Rr75Wmte1UHVQSz8fULjSDNcKjFFb71+0mJA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QNZofA9Rr75Wmte1UHVQSz8fULjSDNcKjFFb71+0mJA="
+    }
+  },
+  "version": "1.1.2"
+}

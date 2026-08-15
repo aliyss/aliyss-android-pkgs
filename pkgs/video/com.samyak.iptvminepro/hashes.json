@@ -1,0 +1,18 @@
+{
+  "apkName": "com.samyak.iptvminepro_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ICbA7fMBHc20bJAZgkddjBY7IIr4WUzDcbu+Vc3ubKI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ICbA7fMBHc20bJAZgkddjBY7IIr4WUzDcbu+Vc3ubKI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ICbA7fMBHc20bJAZgkddjBY7IIr4WUzDcbu+Vc3ubKI="
+    }
+  },
+  "version": "1.0.9"
+}

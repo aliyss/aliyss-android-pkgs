@@ -1,0 +1,8 @@
+{
+  "package": "eu.quelltext.mundraub",
+  "signerFingerprints": [
+    "55:09:01:DF:FE:28:9A:3B:FC:47:BB:AD:C8:5E:66:F6:BB:A9:AC:BE:E0:78:1C:08:69:13:84:4E:11:8C:A7:A2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

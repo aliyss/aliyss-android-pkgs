@@ -1,0 +1,18 @@
+{
+  "apkName": "com.akslabs.cloudgallery_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-V9ONR0+HwSbNY3XDb5HAcCmpHMHQ160Jt23Rtsh1+uM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V9ONR0+HwSbNY3XDb5HAcCmpHMHQ160Jt23Rtsh1+uM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V9ONR0+HwSbNY3XDb5HAcCmpHMHQ160Jt23Rtsh1+uM="
+    }
+  },
+  "version": "0.7"
+}

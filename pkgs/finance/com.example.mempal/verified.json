@@ -1,0 +1,8 @@
+{
+  "package": "com.example.mempal",
+  "signerFingerprints": [
+    "C1:A4:8B:5A:79:23:69:AA:CF:B1:65:5F:B3:94:49:71:81:09:D6:7D:FB:BD:50:7B:C3:1D:4E:3E:07:A0:4E:39"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

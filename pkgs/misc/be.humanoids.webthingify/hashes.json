@@ -1,0 +1,18 @@
+{
+  "apkName": "be.humanoids.webthingify_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-S7CtxwGrX3Iw3K6ydTon6ylkyPxAUOwFy38Jz5sGSJc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S7CtxwGrX3Iw3K6ydTon6ylkyPxAUOwFy38Jz5sGSJc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S7CtxwGrX3Iw3K6ydTon6ylkyPxAUOwFy38Jz5sGSJc="
+    }
+  },
+  "version": "1.1"
+}

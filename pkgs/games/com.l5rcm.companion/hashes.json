@@ -1,0 +1,18 @@
+{
+  "apkName": "com.l5rcm.companion_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wQn8k4mFZ3qWN1bc+oficEqf0fZG6IcRsYOw1OBkyR4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wQn8k4mFZ3qWN1bc+oficEqf0fZG6IcRsYOw1OBkyR4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wQn8k4mFZ3qWN1bc+oficEqf0fZG6IcRsYOw1OBkyR4="
+    }
+  },
+  "version": "0.3.0"
+}

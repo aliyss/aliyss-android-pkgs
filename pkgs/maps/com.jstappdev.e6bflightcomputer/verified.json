@@ -1,0 +1,8 @@
+{
+  "package": "com.jstappdev.e6bflightcomputer",
+  "signerFingerprints": [
+    "66:0A:1D:0C:DC:F1:6E:1D:74:95:AA:4C:0E:48:4F:EB:7B:28:E0:6A:4B:91:CB:04:CF:9F:E8:A1:28:52:76:0C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.ghostsq.commander",
+  "signerFingerprints": [
+    "42:B1:74:15:42:B9:B8:E2:2D:4F:0F:03:36:C9:68:8D:3B:69:5E:EF:1D:79:13:51:35:D5:39:52:1D:7E:8A:20"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

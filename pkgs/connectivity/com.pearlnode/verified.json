@@ -1,0 +1,8 @@
+{
+  "package": "com.pearlnode",
+  "signerFingerprints": [
+    "9E:31:3D:38:6F:60:FA:F8:A1:75:63:8A:9B:1D:57:7B:05:A8:B2:73:95:0B:E5:EA:D6:EA:20:1C:10:FF:E7:09"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

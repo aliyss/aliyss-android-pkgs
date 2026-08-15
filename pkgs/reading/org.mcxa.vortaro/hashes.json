@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mcxa.vortaro_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yW9FzwKaZ52vTinzYWs5H3n8vSL0NZHnnoR7Ir+L/No="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yW9FzwKaZ52vTinzYWs5H3n8vSL0NZHnnoR7Ir+L/No="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yW9FzwKaZ52vTinzYWs5H3n8vSL0NZHnnoR7Ir+L/No="
+    }
+  },
+  "version": "0.5"
+}

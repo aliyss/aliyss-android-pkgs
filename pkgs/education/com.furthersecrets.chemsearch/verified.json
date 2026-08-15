@@ -1,0 +1,8 @@
+{
+  "package": "com.furthersecrets.chemsearch",
+  "signerFingerprints": [
+    "DC:28:CD:3A:58:41:B2:67:0D:80:05:CF:F6:B2:91:7E:BE:B0:11:6E:82:2D:26:D5:2E:51:4E:E4:12:42:A4:2A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

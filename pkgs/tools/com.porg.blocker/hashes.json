@@ -1,0 +1,18 @@
+{
+  "apkName": "com.porg.blocker_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i1lryc9drvskc9LNoQKtrKVK7isSCRJJ4CJc6WquPEk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i1lryc9drvskc9LNoQKtrKVK7isSCRJJ4CJc6WquPEk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i1lryc9drvskc9LNoQKtrKVK7isSCRJJ4CJc6WquPEk="
+    }
+  },
+  "version": "0.1 beta"
+}

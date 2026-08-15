@@ -1,0 +1,8 @@
+{
+  "package": "com.mateusrodcosta.apps.vidyamusic",
+  "signerFingerprints": [
+    "2A:0B:90:54:1C:F2:E4:83:B7:2F:E1:F4:01:AC:DF:20:2F:EE:FA:D9:0B:33:5A:31:D6:DB:AC:3B:A0:E0:60:87"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

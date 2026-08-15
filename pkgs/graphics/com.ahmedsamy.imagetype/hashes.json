@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ahmedsamy.imagetype_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NmGjFRaYmwaumYgLl+iu8Sz5uBF13TSsHKUs4G7phQg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NmGjFRaYmwaumYgLl+iu8Sz5uBF13TSsHKUs4G7phQg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NmGjFRaYmwaumYgLl+iu8Sz5uBF13TSsHKUs4G7phQg="
+    }
+  },
+  "version": "1.1.0"
+}

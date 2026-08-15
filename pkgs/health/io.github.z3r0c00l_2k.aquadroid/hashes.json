@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.z3r0c00l_2k.aquadroid_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-v3JJwJtCK4qIhHq6ydM4G5gtLnvCoowmS026W0yFPzA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v3JJwJtCK4qIhHq6ydM4G5gtLnvCoowmS026W0yFPzA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v3JJwJtCK4qIhHq6ydM4G5gtLnvCoowmS026W0yFPzA="
+    }
+  },
+  "version": "1.3"
+}

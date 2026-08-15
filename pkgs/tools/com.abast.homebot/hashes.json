@@ -1,0 +1,18 @@
+{
+  "apkName": "com.abast.homebot_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DTWMhcLaXCdDsvWmgf0XPSl9C+MC6zx5tQTEYc5K1kQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DTWMhcLaXCdDsvWmgf0XPSl9C+MC6zx5tQTEYc5K1kQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DTWMhcLaXCdDsvWmgf0XPSl9C+MC6zx5tQTEYc5K1kQ="
+    }
+  },
+  "version": "1.2"
+}

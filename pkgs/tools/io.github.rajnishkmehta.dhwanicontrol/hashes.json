@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.rajnishkmehta.dhwanicontrol_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Mq+lNzkzIwvrlR8NEWKNRUd3I1+udJRTS/RFsj+hu7U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mq+lNzkzIwvrlR8NEWKNRUd3I1+udJRTS/RFsj+hu7U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mq+lNzkzIwvrlR8NEWKNRUd3I1+udJRTS/RFsj+hu7U="
+    }
+  },
+  "version": "1.1.1"
+}

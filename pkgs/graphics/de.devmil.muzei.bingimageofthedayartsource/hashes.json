@@ -1,0 +1,18 @@
+{
+  "apkName": "de.devmil.muzei.bingimageofthedayartsource_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r1zBqFvXwfZnr66lw0m6Zwfjq1agH/5o2yBZ2u6JmJI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r1zBqFvXwfZnr66lw0m6Zwfjq1agH/5o2yBZ2u6JmJI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r1zBqFvXwfZnr66lw0m6Zwfjq1agH/5o2yBZ2u6JmJI="
+    }
+  },
+  "version": "2.3.2"
+}

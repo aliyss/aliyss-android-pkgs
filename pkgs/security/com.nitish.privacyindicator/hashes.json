@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nitish.privacyindicator_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aDAyKN0Abq73gDs9SB7XBys7QgYmdhATgTEsB941pXY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aDAyKN0Abq73gDs9SB7XBys7QgYmdhATgTEsB941pXY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aDAyKN0Abq73gDs9SB7XBys7QgYmdhATgTEsB941pXY="
+    }
+  },
+  "version": "2.2"
+}

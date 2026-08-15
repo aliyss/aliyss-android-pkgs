@@ -1,0 +1,8 @@
+{
+  "package": "org.xapek.andiodine",
+  "signerFingerprints": [
+    "19:FB:A7:DC:57:88:DB:7C:A2:6D:16:18:D6:5E:B3:F5:DC:24:49:4E:D0:73:FD:FB:81:02:0B:16:AD:0C:35:AA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

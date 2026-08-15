@@ -1,0 +1,9 @@
+{
+  "version": "153.0.4",
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u6xjGOdjuKQcrtKo1j9Bn5NWmB0O9uCtKN7x45NMeco="
+    }
+  }
+}

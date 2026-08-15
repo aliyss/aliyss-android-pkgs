@@ -1,0 +1,18 @@
+{
+  "apkName": "de.marionoll.wgautoconnect_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dBtMKsv7VCu4XrJy1WyezOLwgRX5ztJ6GgTd4L9O6dQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dBtMKsv7VCu4XrJy1WyezOLwgRX5ztJ6GgTd4L9O6dQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dBtMKsv7VCu4XrJy1WyezOLwgRX5ztJ6GgTd4L9O6dQ="
+    }
+  },
+  "version": "1.1.0"
+}

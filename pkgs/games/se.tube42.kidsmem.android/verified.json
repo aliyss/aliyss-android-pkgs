@@ -1,0 +1,8 @@
+{
+  "package": "se.tube42.kidsmem.android",
+  "signerFingerprints": [
+    "07:41:FF:65:80:1E:3A:56:BE:0E:DF:95:BB:D8:AF:97:DD:F5:79:DD:C8:67:6B:D5:FD:3C:C1:85:AE:90:50:68"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

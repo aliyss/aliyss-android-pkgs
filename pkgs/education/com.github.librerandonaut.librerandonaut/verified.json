@@ -1,0 +1,8 @@
+{
+  "package": "com.github.librerandonaut.librerandonaut",
+  "signerFingerprints": [
+    "74:07:6F:2D:CB:27:5D:C5:5A:FB:CD:ED:C6:A7:BD:E4:9C:51:9B:67:80:8B:87:C5:66:0F:6C:96:00:63:EB:5C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

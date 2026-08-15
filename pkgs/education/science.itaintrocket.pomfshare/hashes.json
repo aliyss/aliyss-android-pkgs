@@ -1,0 +1,18 @@
+{
+  "apkName": "science.itaintrocket.pomfshare_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l4q1Q3Sp0GmFam1FdxRMRykykGD8V2jM5hPwFoDRAD4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l4q1Q3Sp0GmFam1FdxRMRykykGD8V2jM5hPwFoDRAD4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l4q1Q3Sp0GmFam1FdxRMRykykGD8V2jM5hPwFoDRAD4="
+    }
+  },
+  "version": "1.0.0"
+}

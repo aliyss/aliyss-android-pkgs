@@ -1,0 +1,8 @@
+{
+  "package": "com.sleroy.transmissionic",
+  "signerFingerprints": [
+    "F8:6E:49:F7:87:2E:8C:C7:CE:BF:99:87:D0:04:76:E7:9D:8F:48:7D:1B:F8:66:04:5E:97:06:DC:64:D1:AE:AD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

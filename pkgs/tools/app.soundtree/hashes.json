@@ -1,0 +1,18 @@
+{
+  "apkName": "app.soundtree_10028.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H9BKBlx7xaEzsBAEhwoqmFyv3ak7h9diT5Nl2+5ka28="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H9BKBlx7xaEzsBAEhwoqmFyv3ak7h9diT5Nl2+5ka28="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H9BKBlx7xaEzsBAEhwoqmFyv3ak7h9diT5Nl2+5ka28="
+    }
+  },
+  "version": "0.10.28"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "in.kawaiis.journal_1100200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LhAGAreZwm0uQ/C1vYyHRPObJSS3DuYipUGSqP5q2SE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LhAGAreZwm0uQ/C1vYyHRPObJSS3DuYipUGSqP5q2SE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LhAGAreZwm0uQ/C1vYyHRPObJSS3DuYipUGSqP5q2SE="
+    }
+  },
+  "version": "11.2"
+}

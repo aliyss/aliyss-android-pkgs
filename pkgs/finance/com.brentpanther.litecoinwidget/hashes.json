@@ -1,0 +1,18 @@
+{
+  "apkName": "com.brentpanther.litecoinwidget_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Y2FJTEW5yfiJacGkyOH/G55GWdHdb5dB29edCwfud0I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y2FJTEW5yfiJacGkyOH/G55GWdHdb5dB29edCwfud0I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y2FJTEW5yfiJacGkyOH/G55GWdHdb5dB29edCwfud0I="
+    }
+  },
+  "version": "1.3.1"
+}

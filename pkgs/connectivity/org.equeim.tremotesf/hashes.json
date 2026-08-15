@@ -1,0 +1,18 @@
+{
+  "apkName": "org.equeim.tremotesf_4063.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LDDmLUQpYisjmCepS9nUs6H+eSvVk6qkfwgTHF7+6yc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LDDmLUQpYisjmCepS9nUs6H+eSvVk6qkfwgTHF7+6yc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LDDmLUQpYisjmCepS9nUs6H+eSvVk6qkfwgTHF7+6yc="
+    }
+  },
+  "version": "2.13.1"
+}

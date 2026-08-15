@@ -1,0 +1,18 @@
+{
+  "apkName": "by.yauhenl.gardine_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Oz0bbnETr4F+24MiSJE59qYYe0bPfBGeqs4EbQ2CQcs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Oz0bbnETr4F+24MiSJE59qYYe0bPfBGeqs4EbQ2CQcs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Oz0bbnETr4F+24MiSJE59qYYe0bPfBGeqs4EbQ2CQcs="
+    }
+  },
+  "version": "0.4"
+}

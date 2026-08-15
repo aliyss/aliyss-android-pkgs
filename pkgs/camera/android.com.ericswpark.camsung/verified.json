@@ -1,0 +1,8 @@
+{
+  "package": "android.com.ericswpark.camsung",
+  "signerFingerprints": [
+    "0A:3D:BE:E1:7C:D3:8A:24:DD:D7:52:07:85:13:5A:2E:46:9A:8E:59:5B:C8:B8:A4:E4:9F:71:C4:06:80:B3:0E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

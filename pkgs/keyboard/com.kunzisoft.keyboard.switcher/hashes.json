@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kunzisoft.keyboard.switcher_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-16aNCAll/+UXxKM8yxPxTszo6AyAstdtlyzAfPf4iZI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-16aNCAll/+UXxKM8yxPxTszo6AyAstdtlyzAfPf4iZI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-16aNCAll/+UXxKM8yxPxTszo6AyAstdtlyzAfPf4iZI="
+    }
+  },
+  "version": "4.2"
+}

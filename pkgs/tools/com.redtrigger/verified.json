@@ -1,0 +1,8 @@
+{
+  "package": "com.redtrigger",
+  "signerFingerprints": [
+    "08:0A:41:5C:66:B4:2F:6C:F1:99:68:C1:A1:E1:CF:7F:80:89:C4:E1:1D:B5:6C:20:D0:99:D4:B5:C0:86:5B:C2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

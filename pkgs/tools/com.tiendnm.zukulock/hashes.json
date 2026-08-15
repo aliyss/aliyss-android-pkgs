@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tiendnm.zukulock_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ps9X9+YSSOJEjIzECxgRqKyzntxDJzXjBhjTAwiD+/w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ps9X9+YSSOJEjIzECxgRqKyzntxDJzXjBhjTAwiD+/w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ps9X9+YSSOJEjIzECxgRqKyzntxDJzXjBhjTAwiD+/w="
+    }
+  },
+  "version": "1.0.1"
+}

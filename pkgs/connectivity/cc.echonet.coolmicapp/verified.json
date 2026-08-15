@@ -1,0 +1,8 @@
+{
+  "package": "cc.echonet.coolmicapp",
+  "signerFingerprints": [
+    "F1:50:9C:88:90:7E:C4:D6:FE:15:78:48:ED:E7:E2:8F:09:0F:A9:57:07:51:AD:C2:95:E6:0C:B1:73:53:2E:76"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

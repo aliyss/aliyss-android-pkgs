@@ -1,0 +1,8 @@
+{
+  "package": "org.xphnx.ameixa",
+  "signerFingerprints": [
+    "D1:E1:43:5D:C7:F3:D0:13:9C:AD:75:A9:65:B7:B7:7F:01:CB:23:88:D7:42:91:71:5C:85:B9:B0:1D:F1:68:E3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

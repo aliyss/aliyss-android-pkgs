@@ -1,0 +1,18 @@
+{
+  "apkName": "nethical.locklock_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hwZrwWsp1+4Hn2P1id0IWADbtPKwF452pZQscZmFUKs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hwZrwWsp1+4Hn2P1id0IWADbtPKwF452pZQscZmFUKs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hwZrwWsp1+4Hn2P1id0IWADbtPKwF452pZQscZmFUKs="
+    }
+  },
+  "version": "2.0"
+}

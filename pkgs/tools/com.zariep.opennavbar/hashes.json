@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zariep.opennavbar_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-H40Ycpdr94tlXUwTZNH47tmSjXX20BCeEn0MEMfY+G0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H40Ycpdr94tlXUwTZNH47tmSjXX20BCeEn0MEMfY+G0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-H40Ycpdr94tlXUwTZNH47tmSjXX20BCeEn0MEMfY+G0="
+    }
+  },
+  "version": "0.0.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.ephemera42.tapjackingbypass_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fQNHq4m9hZJpxF0GQ0AvDkurISD/XIE6+TyJphRc1DM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fQNHq4m9hZJpxF0GQ0AvDkurISD/XIE6+TyJphRc1DM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fQNHq4m9hZJpxF0GQ0AvDkurISD/XIE6+TyJphRc1DM="
+    }
+  },
+  "version": "1.0.0"
+}

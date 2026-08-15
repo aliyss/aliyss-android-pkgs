@@ -1,0 +1,8 @@
+{
+  "package": "app.suhasdissa.whiteboard",
+  "signerFingerprints": [
+    "07:B9:C7:66:97:9A:7D:4A:C3:CA:04:DA:86:E9:F1:B5:99:76:8C:B0:E3:99:31:D1:FB:BC:1B:7C:44:3B:78:CD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

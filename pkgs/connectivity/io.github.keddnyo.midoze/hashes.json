@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.keddnyo.midoze_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6BL3/ahrEg4NfRC/4tHIpkNVth7JI0mo8koSqUKXpCw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6BL3/ahrEg4NfRC/4tHIpkNVth7JI0mo8koSqUKXpCw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6BL3/ahrEg4NfRC/4tHIpkNVth7JI0mo8koSqUKXpCw="
+    }
+  },
+  "version": "8.0.0"
+}

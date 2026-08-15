@@ -1,0 +1,8 @@
+{
+  "package": "org.cis_india.wsreader",
+  "signerFingerprints": [
+    "D3:A6:0E:B4:C4:96:98:D2:F3:5E:DE:BC:9C:1B:B1:62:F0:BA:76:A0:2A:27:67:47:A5:FB:5C:B9:DA:CD:F6:19"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

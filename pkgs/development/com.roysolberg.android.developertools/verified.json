@@ -1,0 +1,8 @@
+{
+  "package": "com.roysolberg.android.developertools",
+  "signerFingerprints": [
+    "93:B9:1A:C8:F4:DB:98:BB:42:48:BB:85:F6:88:B6:4B:B7:CB:56:74:1F:41:5F:8D:A7:CE:3E:73:15:B1:29:B3"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.redblaster.hsl.main_37.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FCQMfghrb4I4kpv9LjhXX3gzZk0bT2aG8muL6s0CC9o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FCQMfghrb4I4kpv9LjhXX3gzZk0bT2aG8muL6s0CC9o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FCQMfghrb4I4kpv9LjhXX3gzZk0bT2aG8muL6s0CC9o="
+    }
+  },
+  "version": "1.6"
+}

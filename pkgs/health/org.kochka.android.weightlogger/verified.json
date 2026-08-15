@@ -1,0 +1,8 @@
+{
+  "package": "org.kochka.android.weightlogger",
+  "signerFingerprints": [
+    "4B:ED:4B:97:2F:DC:DA:BD:8B:F1:37:72:42:CA:F6:B1:07:F1:78:6E:B5:D0:F2:A8:11:60:32:9D:8F:66:98:62"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

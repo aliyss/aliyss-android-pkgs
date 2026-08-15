@@ -1,0 +1,8 @@
+{
+  "package": "io.github.sds100.keymapper",
+  "signerFingerprints": [
+    "F4:D7:53:30:27:10:C9:A7:A4:08:85:C8:91:AE:BD:B1:A0:F2:75:12:2F:DC:DB:7C:2F:45:A2:02:B2:13:F3:73"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aefyr.sai.fdroid_60.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-y5aDjJpktAG//4xgSxBxLNx6HZbqCbakRc/Vs1cC/HI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y5aDjJpktAG//4xgSxBxLNx6HZbqCbakRc/Vs1cC/HI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-y5aDjJpktAG//4xgSxBxLNx6HZbqCbakRc/Vs1cC/HI="
+    }
+  },
+  "version": "4.5"
+}

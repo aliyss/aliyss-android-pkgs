@@ -1,0 +1,8 @@
+{
+  "package": "de.audioattack.openlink",
+  "signerFingerprints": [
+    "FC:0B:C6:7F:28:06:02:A2:96:4B:78:FA:CB:F3:92:36:A8:46:8A:02:DA:2B:64:52:A3:04:B6:AA:66:73:DA:C7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

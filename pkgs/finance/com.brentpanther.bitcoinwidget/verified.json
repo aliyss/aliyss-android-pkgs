@@ -1,0 +1,8 @@
+{
+  "package": "com.brentpanther.bitcoinwidget",
+  "signerFingerprints": [
+    "F1:13:50:1A:D5:1F:3B:45:C8:96:15:DE:15:07:53:0B:79:9C:27:67:1F:AB:EB:CD:2C:51:B0:7E:9F:A8:17:12"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

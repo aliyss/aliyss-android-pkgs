@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.omweather_47.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-t1qm00nCSYjr+/q0gvVTWDCK7uN+rYIvkn8HENRIt3g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t1qm00nCSYjr+/q0gvVTWDCK7uN+rYIvkn8HENRIt3g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t1qm00nCSYjr+/q0gvVTWDCK7uN+rYIvkn8HENRIt3g="
+    }
+  },
+  "version": "4.7"
+}

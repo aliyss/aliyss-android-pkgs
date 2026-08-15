@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.fabik.bluetoothhid_59.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UFRIrNUnt3NFSAWcff62QHp8Qxj2F+wpDo79d3gO+yY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UFRIrNUnt3NFSAWcff62QHp8Qxj2F+wpDo79d3gO+yY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UFRIrNUnt3NFSAWcff62QHp8Qxj2F+wpDo79d3gO+yY="
+    }
+  },
+  "version": "2.3.1"
+}

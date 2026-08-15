@@ -1,0 +1,8 @@
+{
+  "package": "io.github.gsantner.memetastic",
+  "signerFingerprints": [
+    "60:FE:EC:EC:8A:19:A7:08:49:21:18:7A:5F:41:E5:D0:E3:CD:E1:15:C2:73:8D:B0:B7:B7:A4:53:6A:49:31:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kaiserdragon.callforwardingstatus_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VxAsCvJ+YWM16cXm1qSPYPY0U20NjcSpG4kl36+yuaw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VxAsCvJ+YWM16cXm1qSPYPY0U20NjcSpG4kl36+yuaw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VxAsCvJ+YWM16cXm1qSPYPY0U20NjcSpG4kl36+yuaw="
+    }
+  },
+  "version": "2.2"
+}

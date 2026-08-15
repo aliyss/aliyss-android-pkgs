@@ -1,0 +1,18 @@
+{
+  "apkName": "dk.meznik.jan.encrypttext_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-e8rObtggv3QVQ54elJ9CAI0LZ1JpSoGBK+Ygh2I+3A4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e8rObtggv3QVQ54elJ9CAI0LZ1JpSoGBK+Ygh2I+3A4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e8rObtggv3QVQ54elJ9CAI0LZ1JpSoGBK+Ygh2I+3A4="
+    }
+  },
+  "version": "1.2.3"
+}

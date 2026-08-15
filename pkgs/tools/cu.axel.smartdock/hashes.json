@@ -1,0 +1,18 @@
+{
+  "apkName": "cu.axel.smartdock_1150.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-x8MjFDH6xRIAEtJpz73/gKKKOCMKaYCw+bUVeo6LAuo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x8MjFDH6xRIAEtJpz73/gKKKOCMKaYCw+bUVeo6LAuo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-x8MjFDH6xRIAEtJpz73/gKKKOCMKaYCw+bUVeo6LAuo="
+    }
+  },
+  "version": "1.15.0"
+}

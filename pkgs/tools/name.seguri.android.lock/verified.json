@@ -1,0 +1,8 @@
+{
+  "package": "name.seguri.android.lock",
+  "signerFingerprints": [
+    "1E:02:27:82:AF:AB:28:DE:AB:D4:49:8C:2E:1D:8F:3B:BE:86:7B:3D:E9:F7:44:26:94:E1:82:E4:40:BF:89:3A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

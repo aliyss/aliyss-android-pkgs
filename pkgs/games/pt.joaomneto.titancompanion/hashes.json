@@ -1,0 +1,18 @@
+{
+  "apkName": "pt.joaomneto.titancompanion_67.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pCuG49+d1b2nkQ3wqywHS0acjwRb5v+p3G8OizRLmwQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pCuG49+d1b2nkQ3wqywHS0acjwRb5v+p3G8OizRLmwQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pCuG49+d1b2nkQ3wqywHS0acjwRb5v+p3G8OizRLmwQ="
+    }
+  },
+  "version": "v67-beta"
+}

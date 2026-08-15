@@ -1,0 +1,8 @@
+{
+  "package": "au.com.darkside.xdemo",
+  "signerFingerprints": [
+    "0D:03:3D:57:B0:55:4B:58:BA:BD:46:C7:B3:6E:F7:22:82:EF:15:E3:97:9E:6B:45:14:06:13:2A:67:FB:27:79"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

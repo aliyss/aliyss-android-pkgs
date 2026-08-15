@@ -1,0 +1,8 @@
+{
+  "package": "io.github.patricksmill.quicknotes",
+  "signerFingerprints": [
+    "91:28:47:ED:18:D4:66:DE:20:75:DB:7C:59:97:F6:89:AB:19:FE:0A:CF:A2:0E:24:6E:E4:46:F8:A5:8E:A5:A2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

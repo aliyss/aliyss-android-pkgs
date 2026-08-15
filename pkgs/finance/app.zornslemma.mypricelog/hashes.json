@@ -1,0 +1,18 @@
+{
+  "apkName": "app.zornslemma.mypricelog_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WRi9CnAXlxsBcdhJaTdwn6+Mi20Fn8c/C/lLdPl9ApE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WRi9CnAXlxsBcdhJaTdwn6+Mi20Fn8c/C/lLdPl9ApE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WRi9CnAXlxsBcdhJaTdwn6+Mi20Fn8c/C/lLdPl9ApE="
+    }
+  },
+  "version": "0.3.3"
+}

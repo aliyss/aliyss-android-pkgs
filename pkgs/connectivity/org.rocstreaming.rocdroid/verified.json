@@ -1,0 +1,8 @@
+{
+  "package": "org.rocstreaming.rocdroid",
+  "signerFingerprints": [
+    "B4:80:BC:D4:D6:BA:B7:CC:6C:F9:C5:60:FA:62:9C:BC:A4:D6:49:5D:0F:34:35:5D:16:CC:66:E8:99:C8:BF:E5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

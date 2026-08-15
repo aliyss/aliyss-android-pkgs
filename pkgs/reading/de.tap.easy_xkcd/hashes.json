@@ -1,0 +1,18 @@
+{
+  "apkName": "de.tap.easy_xkcd_193.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vyssfdI9msGteowdrzqaF6ZOZzHKkPPT/hRhe1fPDEA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vyssfdI9msGteowdrzqaF6ZOZzHKkPPT/hRhe1fPDEA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vyssfdI9msGteowdrzqaF6ZOZzHKkPPT/hRhe1fPDEA="
+    }
+  },
+  "version": "8.4"
+}

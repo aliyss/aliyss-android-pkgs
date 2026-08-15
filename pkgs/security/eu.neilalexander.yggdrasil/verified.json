@@ -1,0 +1,8 @@
+{
+  "package": "eu.neilalexander.yggdrasil",
+  "signerFingerprints": [
+    "82:25:37:37:23:70:76:69:3F:AB:94:C3:89:C8:22:3E:E5:10:6A:F7:99:9E:0B:DA:39:00:D4:F8:56:42:41:C9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

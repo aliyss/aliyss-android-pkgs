@@ -1,0 +1,8 @@
+{
+  "package": "sh.hnet.comfychair",
+  "signerFingerprints": [
+    "5D:4F:A4:9C:90:C4:A9:68:07:72:00:68:95:87:2F:B0:1D:45:B1:0C:A9:80:86:55:B1:95:AD:88:EE:D7:7B:6F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

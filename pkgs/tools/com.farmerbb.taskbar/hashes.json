@@ -1,0 +1,18 @@
+{
+  "apkName": "com.farmerbb.taskbar_208.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WNwjnO8Z8FtSczXntyPdPf0di7ZRpQ7MD1JAJ5blCdk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WNwjnO8Z8FtSczXntyPdPf0di7ZRpQ7MD1JAJ5blCdk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WNwjnO8Z8FtSczXntyPdPf0di7ZRpQ7MD1JAJ5blCdk="
+    }
+  },
+  "version": "6.2.2-r2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.odysee.floss",
+  "signerFingerprints": [
+    "B7:4D:10:66:7C:67:25:FB:7C:FA:DE:C0:AB:2B:D8:91:38:FF:A4:BE:7E:AA:7D:7A:DC:35:4D:91:09:64:F1:2D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "me.zhanghai.android.untracker_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FRnGU0QmBo7Yrvdwa46APPJSuBLLkt72TN1NtQ6usjw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FRnGU0QmBo7Yrvdwa46APPJSuBLLkt72TN1NtQ6usjw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FRnGU0QmBo7Yrvdwa46APPJSuBLLkt72TN1NtQ6usjw="
+    }
+  },
+  "version": "1.0.8"
+}

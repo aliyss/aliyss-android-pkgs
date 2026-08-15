@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fossify.phone_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0a0IRnA05ROKbmjwO24VDwuwEN/L9JD/PSvUgit1Vyg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0a0IRnA05ROKbmjwO24VDwuwEN/L9JD/PSvUgit1Vyg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0a0IRnA05ROKbmjwO24VDwuwEN/L9JD/PSvUgit1Vyg="
+    }
+  },
+  "version": "1.11.1"
+}

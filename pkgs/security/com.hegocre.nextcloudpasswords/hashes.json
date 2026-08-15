@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hegocre.nextcloudpasswords_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dmHOzPpTDLcl195kUPcrnLwZo1p6Dmm+b2CQtJ2pY1Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dmHOzPpTDLcl195kUPcrnLwZo1p6Dmm+b2CQtJ2pY1Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dmHOzPpTDLcl195kUPcrnLwZo1p6Dmm+b2CQtJ2pY1Y="
+    }
+  },
+  "version": "1.0.12"
+}

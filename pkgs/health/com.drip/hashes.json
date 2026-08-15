@@ -1,0 +1,18 @@
+{
+  "apkName": "com.drip_51.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-g1r7ddqr/w8xx2GzUvZBLeeKmqj5tXO4ccw0yQ1f6V4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-g1r7ddqr/w8xx2GzUvZBLeeKmqj5tXO4ccw0yQ1f6V4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-g1r7ddqr/w8xx2GzUvZBLeeKmqj5tXO4ccw0yQ1f6V4="
+    }
+  },
+  "version": "1.2601.11"
+}

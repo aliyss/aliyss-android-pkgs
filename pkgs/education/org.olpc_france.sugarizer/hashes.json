@@ -1,0 +1,18 @@
+{
+  "apkName": "org.olpc_france.sugarizer_18000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/EPX0zNLj7XTvb2oxtw22EucnSFac+ZhqHHxEWZrxSY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/EPX0zNLj7XTvb2oxtw22EucnSFac+ZhqHHxEWZrxSY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/EPX0zNLj7XTvb2oxtw22EucnSFac+ZhqHHxEWZrxSY="
+    }
+  },
+  "version": "1.8.0"
+}

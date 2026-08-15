@@ -1,0 +1,18 @@
+{
+  "apkName": "com.debojit.wallapp_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gcv5euTpGVWX7giB/wN83c2tRay1AZ/vH/K+Ue9Z0s8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gcv5euTpGVWX7giB/wN83c2tRay1AZ/vH/K+Ue9Z0s8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gcv5euTpGVWX7giB/wN83c2tRay1AZ/vH/K+Ue9Z0s8="
+    }
+  },
+  "version": "1.1.3"
+}

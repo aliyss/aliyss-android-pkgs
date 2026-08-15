@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wesaphzt.privatelock_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nTlA6R6nKA6Y/RS2AQ1hrAQ4ghyzLODUzMQU9zEMlZg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nTlA6R6nKA6Y/RS2AQ1hrAQ4ghyzLODUzMQU9zEMlZg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nTlA6R6nKA6Y/RS2AQ1hrAQ4ghyzLODUzMQU9zEMlZg="
+    }
+  },
+  "version": "1.2"
+}

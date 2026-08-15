@@ -1,0 +1,18 @@
+{
+  "apkName": "app.suhasdissa.memerize_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XT8fJK2lMgpdJEuMJc0EnegY5oNU7Vsf4v5rInxxBCk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XT8fJK2lMgpdJEuMJc0EnegY5oNU7Vsf4v5rInxxBCk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XT8fJK2lMgpdJEuMJc0EnegY5oNU7Vsf4v5rInxxBCk="
+    }
+  },
+  "version": "2.5"
+}

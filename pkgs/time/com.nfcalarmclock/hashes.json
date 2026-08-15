@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nfcalarmclock_572.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dTa37qwhS4K0mZAEx9OjLZxZW5lwMWufaIr7s90H+iU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dTa37qwhS4K0mZAEx9OjLZxZW5lwMWufaIr7s90H+iU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dTa37qwhS4K0mZAEx9OjLZxZW5lwMWufaIr7s90H+iU="
+    }
+  },
+  "version": "12.6.4"
+}

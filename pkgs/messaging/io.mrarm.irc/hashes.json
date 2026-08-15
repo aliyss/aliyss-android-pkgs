@@ -1,0 +1,18 @@
+{
+  "apkName": "io.mrarm.irc_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-84sAk3RJ8YDR/WoHEt8FtHMgxT0Ie1VL4ltSa6ws6KU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-84sAk3RJ8YDR/WoHEt8FtHMgxT0Ie1VL4ltSa6ws6KU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-84sAk3RJ8YDR/WoHEt8FtHMgxT0Ie1VL4ltSa6ws6KU="
+    }
+  },
+  "version": "0.5.5"
+}

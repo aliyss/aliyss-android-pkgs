@@ -1,0 +1,18 @@
+{
+  "apkName": "org.onedroid.radiowave_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KR10OfrSPS7+xxbDWj1x9nxFkuuNLkPzjovCFIY2UCY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KR10OfrSPS7+xxbDWj1x9nxFkuuNLkPzjovCFIY2UCY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KR10OfrSPS7+xxbDWj1x9nxFkuuNLkPzjovCFIY2UCY="
+    }
+  },
+  "version": "1.0"
+}

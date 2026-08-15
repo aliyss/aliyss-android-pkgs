@@ -1,0 +1,18 @@
+{
+  "apkName": "com.shub39.grit_6060.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aDQ8C5j7uf0I/DLqlGD/8AaDxsIjUp74dCNPRqyUDvE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aDQ8C5j7uf0I/DLqlGD/8AaDxsIjUp74dCNPRqyUDvE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aDQ8C5j7uf0I/DLqlGD/8AaDxsIjUp74dCNPRqyUDvE="
+    }
+  },
+  "version": "6.0.6"
+}

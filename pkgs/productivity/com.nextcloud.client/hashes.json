@@ -1,0 +1,9 @@
+{
+  "version": "34.1.0",
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gM3Wa2LhzxaLFwLWtYlbT7hLU7Zez9R/P20Q6UYx9Y4="
+    }
+  }
+}

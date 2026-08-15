@@ -1,0 +1,18 @@
+{
+  "apkName": "cube.run_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9abWKYSg9gzm/AJDl2COldydvFA3DLuiGZiGveal/iw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9abWKYSg9gzm/AJDl2COldydvFA3DLuiGZiGveal/iw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9abWKYSg9gzm/AJDl2COldydvFA3DLuiGZiGveal/iw="
+    }
+  },
+  "version": "1.4"
+}

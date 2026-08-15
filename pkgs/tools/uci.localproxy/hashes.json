@@ -1,0 +1,18 @@
+{
+  "apkName": "uci.localproxy_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-htrV/wju8aI6nkf8aopCj3MAK9oMD8aSRYhMFpvp0UQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-htrV/wju8aI6nkf8aopCj3MAK9oMD8aSRYhMFpvp0UQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-htrV/wju8aI6nkf8aopCj3MAK9oMD8aSRYhMFpvp0UQ="
+    }
+  },
+  "version": "1.1"
+}

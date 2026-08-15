@@ -1,0 +1,8 @@
+{
+  "package": "me.murks.feedwatcher",
+  "signerFingerprints": [
+    "43:F5:B9:C8:94:0E:BE:47:E0:85:47:FA:9C:84:8F:9C:8D:39:B8:EF:70:E3:53:CF:AF:95:34:48:F9:32:E7:6F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.smartpack.packagemanager",
+  "signerFingerprints": [
+    "EC:59:D0:AE:2F:EC:C8:6D:01:16:0C:AE:A7:FB:CA:5B:57:CF:4E:0B:2B:C8:2B:02:1F:CB:C0:F9:40:59:F5:A2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

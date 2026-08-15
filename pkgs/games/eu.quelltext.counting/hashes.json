@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.quelltext.counting_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mP5l8h/45RkYuU6A0l2Z1S9VJ9JKadzY3ZyhpdqbegI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mP5l8h/45RkYuU6A0l2Z1S9VJ9JKadzY3ZyhpdqbegI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mP5l8h/45RkYuU6A0l2Z1S9VJ9JKadzY3ZyhpdqbegI="
+    }
+  },
+  "version": "1.3"
+}

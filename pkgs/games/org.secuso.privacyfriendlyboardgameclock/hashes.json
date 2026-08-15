@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlyboardgameclock_101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2RFCSZKoa0COal6u39L36gDgxUfe9Gjyuj0A+UwaEPA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2RFCSZKoa0COal6u39L36gDgxUfe9Gjyuj0A+UwaEPA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2RFCSZKoa0COal6u39L36gDgxUfe9Gjyuj0A+UwaEPA="
+    }
+  },
+  "version": "1.2.0"
+}

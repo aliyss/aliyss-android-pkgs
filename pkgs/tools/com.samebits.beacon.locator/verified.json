@@ -1,0 +1,8 @@
+{
+  "package": "com.samebits.beacon.locator",
+  "signerFingerprints": [
+    "7C:04:BB:D5:55:D6:E0:DB:03:60:87:96:47:01:0F:C7:A0:03:E1:EF:D5:95:FB:69:81:74:D6:4A:8A:0C:6A:4C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

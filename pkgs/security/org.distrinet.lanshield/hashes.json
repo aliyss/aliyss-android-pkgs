@@ -1,0 +1,18 @@
+{
+  "apkName": "org.distrinet.lanshield_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2NeWskavdJ1BqvIF9WqD6AkXbxcJPbrUajNkDOrYfeU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2NeWskavdJ1BqvIF9WqD6AkXbxcJPbrUajNkDOrYfeU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2NeWskavdJ1BqvIF9WqD6AkXbxcJPbrUajNkDOrYfeU="
+    }
+  },
+  "version": "0.96"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ktprograms.ohmsnow_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vwNvE6XERWqgkDco277fs/fEPe/pyGE1CIHJuTV7VWE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vwNvE6XERWqgkDco277fs/fEPe/pyGE1CIHJuTV7VWE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vwNvE6XERWqgkDco277fs/fEPe/pyGE1CIHJuTV7VWE="
+    }
+  },
+  "version": "v0.2.1-beta"
+}

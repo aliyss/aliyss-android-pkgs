@@ -1,0 +1,18 @@
+{
+  "apkName": "io.freetubeapp.freetube_250001001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Pz3zQSHuxH65M7aVm3Vs0eU2pkhMsGrzI54qPcgxrMg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pz3zQSHuxH65M7aVm3Vs0eU2pkhMsGrzI54qPcgxrMg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pz3zQSHuxH65M7aVm3Vs0eU2pkhMsGrzI54qPcgxrMg="
+    }
+  },
+  "version": "0.25.1.1"
+}

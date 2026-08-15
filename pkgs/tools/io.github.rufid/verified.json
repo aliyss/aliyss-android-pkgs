@@ -1,0 +1,8 @@
+{
+  "package": "io.github.rufid",
+  "signerFingerprints": [
+    "CE:A9:D7:C0:66:BA:FD:59:E1:96:C6:CC:D0:6B:D8:CC:70:41:8A:74:63:BD:51:DE:25:14:88:7E:48:15:AF:5E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

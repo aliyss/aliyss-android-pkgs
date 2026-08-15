@@ -1,0 +1,18 @@
+{
+  "apkName": "de.moroway.oc_100313.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-psOQUph98pNQ32VVDLE6EQ+E+z2n+fW3ZXCccWjJEvA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-psOQUph98pNQ32VVDLE6EQ+E+z2n+fW3ZXCccWjJEvA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-psOQUph98pNQ32VVDLE6EQ+E+z2n+fW3ZXCccWjJEvA="
+    }
+  },
+  "version": "10.3.13"
+}

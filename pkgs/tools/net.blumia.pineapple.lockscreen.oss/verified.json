@@ -1,0 +1,8 @@
+{
+  "package": "net.blumia.pineapple.lockscreen.oss",
+  "signerFingerprints": [
+    "F4:7E:E9:CE:03:97:A6:8B:6A:F4:14:4A:45:C6:BC:9F:69:E1:E4:A5:97:18:1D:12:28:C8:D3:42:76:9C:EB:CB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

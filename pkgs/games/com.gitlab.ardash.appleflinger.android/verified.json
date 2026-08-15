@@ -1,0 +1,8 @@
+{
+  "package": "com.gitlab.ardash.appleflinger.android",
+  "signerFingerprints": [
+    "F5:72:DB:59:C3:1D:9A:C9:80:CA:20:B0:BF:E7:B5:1A:1B:E9:F3:76:2A:46:BE:E7:56:2E:D7:E2:E0:D2:CC:FC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

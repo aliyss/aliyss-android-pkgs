@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mdiqentw.lifedots_155.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-l2+RbXb8CdwRHnf7CdCiv71oGbbc3nTjIvLu/NdRfKs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l2+RbXb8CdwRHnf7CdCiv71oGbbc3nTjIvLu/NdRfKs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-l2+RbXb8CdwRHnf7CdCiv71oGbbc3nTjIvLu/NdRfKs="
+    }
+  },
+  "version": "2.2.2"
+}

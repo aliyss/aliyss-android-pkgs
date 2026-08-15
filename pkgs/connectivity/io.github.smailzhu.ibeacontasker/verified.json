@@ -1,0 +1,8 @@
+{
+  "package": "io.github.smailzhu.ibeacontasker",
+  "signerFingerprints": [
+    "DF:E6:AF:B9:81:26:02:42:78:5C:1D:B4:52:CE:5E:9B:AB:5D:14:08:DE:89:87:FA:9C:39:CC:78:EF:5D:9F:AF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

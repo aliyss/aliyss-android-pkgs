@@ -1,0 +1,8 @@
+{
+  "package": "eu.veldsoft.broker",
+  "signerFingerprints": [
+    "5B:4A:74:02:72:C1:C9:6D:FD:2B:53:11:70:71:8F:7F:70:92:48:5D:FB:65:D2:0C:BE:BE:2E:7A:CC:E6:CE:21"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

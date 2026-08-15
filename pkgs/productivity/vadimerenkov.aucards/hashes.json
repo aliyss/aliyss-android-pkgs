@@ -1,0 +1,18 @@
+{
+  "apkName": "vadimerenkov.aucards_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sER4JYuUWa4FjDiHX55dS2MKoGfUAE8SOO23LizhmPc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sER4JYuUWa4FjDiHX55dS2MKoGfUAE8SOO23LizhmPc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sER4JYuUWa4FjDiHX55dS2MKoGfUAE8SOO23LizhmPc="
+    }
+  },
+  "version": "2.6.1"
+}

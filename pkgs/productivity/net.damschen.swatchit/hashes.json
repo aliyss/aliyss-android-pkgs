@@ -1,0 +1,18 @@
+{
+  "apkName": "net.damschen.swatchit_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-anu/FAZA40RyTbAJHRsw97ZpYX/v/KI9luGhg8UIyXY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-anu/FAZA40RyTbAJHRsw97ZpYX/v/KI9luGhg8UIyXY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-anu/FAZA40RyTbAJHRsw97ZpYX/v/KI9luGhg8UIyXY="
+    }
+  },
+  "version": "0.8.1"
+}

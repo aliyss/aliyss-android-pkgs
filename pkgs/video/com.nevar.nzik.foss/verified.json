@@ -1,0 +1,8 @@
+{
+  "package": "com.nevar.nzik.foss",
+  "signerFingerprints": [
+    "B4:73:99:1E:C0:8A:17:99:6A:9E:F2:40:59:34:CE:35:D3:33:EA:38:13:5E:BF:C1:B6:F4:D2:AB:95:31:32:AA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

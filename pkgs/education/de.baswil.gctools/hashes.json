@@ -1,0 +1,18 @@
+{
+  "apkName": "de.baswil.gctools_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EbM3pyVjcDcbsDcpQuV0Y7+kJi1Jov63MAzGOwoTKSI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EbM3pyVjcDcbsDcpQuV0Y7+kJi1Jov63MAzGOwoTKSI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EbM3pyVjcDcbsDcpQuV0Y7+kJi1Jov63MAzGOwoTKSI="
+    }
+  },
+  "version": "2021.01.07.1"
+}

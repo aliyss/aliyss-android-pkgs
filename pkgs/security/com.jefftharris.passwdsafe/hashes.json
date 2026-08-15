@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jefftharris.passwdsafe_6270200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-++uFZwqbX8sVi81LJPPMicClKM+fDyndg4oS4VjVuw4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-++uFZwqbX8sVi81LJPPMicClKM+fDyndg4oS4VjVuw4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-++uFZwqbX8sVi81LJPPMicClKM+fDyndg4oS4VjVuw4="
+    }
+  },
+  "version": "6.27.2"
+}

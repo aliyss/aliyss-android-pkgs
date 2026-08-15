@@ -1,0 +1,18 @@
+{
+  "apkName": "de.fampopprol.dhbwhorb_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ijWk2tQ1TxSgjieyiWhQsWy6ARkCtnIaS7n/jhU/LDY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ijWk2tQ1TxSgjieyiWhQsWy6ARkCtnIaS7n/jhU/LDY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ijWk2tQ1TxSgjieyiWhQsWy6ARkCtnIaS7n/jhU/LDY="
+    }
+  },
+  "version": "v2.1.1"
+}

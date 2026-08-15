@@ -1,0 +1,18 @@
+{
+  "apkName": "app.reading.stoic.stoicreading2_77.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kdgy5nZi2m6X3+2RG/BZoyy+7BJRtwg2eyRwaA/50lI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kdgy5nZi2m6X3+2RG/BZoyy+7BJRtwg2eyRwaA/50lI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kdgy5nZi2m6X3+2RG/BZoyy+7BJRtwg2eyRwaA/50lI="
+    }
+  },
+  "version": "1.8.8"
+}

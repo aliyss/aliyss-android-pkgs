@@ -1,0 +1,18 @@
+{
+  "apkName": "com.etrisad.zenith_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FIRXd3Zx8TED/K8AkcCiyky6/aEdEJWwlElGI4yqsps="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FIRXd3Zx8TED/K8AkcCiyky6/aEdEJWwlElGI4yqsps="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FIRXd3Zx8TED/K8AkcCiyky6/aEdEJWwlElGI4yqsps="
+    }
+  },
+  "version": "1.5.8"
+}

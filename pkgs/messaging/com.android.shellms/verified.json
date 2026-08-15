@@ -1,0 +1,8 @@
+{
+  "package": "com.android.shellms",
+  "signerFingerprints": [
+    "04:21:01:AB:96:70:6C:6B:0D:9F:AF:3D:41:09:18:5B:9D:37:31:C2:41:3D:04:CD:C6:AF:61:18:64:82:69:B0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nowipass_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aEeyoKoBvmdmRG55repq5ygUfZ1hneEZmLLTORYEdO8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aEeyoKoBvmdmRG55repq5ygUfZ1hneEZmLLTORYEdO8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aEeyoKoBvmdmRG55repq5ygUfZ1hneEZmLLTORYEdO8="
+    }
+  },
+  "version": "0.4.15"
+}

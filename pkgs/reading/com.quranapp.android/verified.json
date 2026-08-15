@@ -1,0 +1,8 @@
+{
+  "package": "com.quranapp.android",
+  "signerFingerprints": [
+    "BD:60:4D:1F:57:E3:32:9B:6F:9F:C4:DA:D3:EA:8F:08:3C:5B:07:D0:CA:69:4F:67:FF:8A:2A:69:AC:8A:C4:FB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

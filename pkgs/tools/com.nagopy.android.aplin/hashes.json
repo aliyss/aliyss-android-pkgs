@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nagopy.android.aplin_45.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T37vxkEpRXrRJMa1+tNTITFfMG1ksIoxIvSf7FtZMNg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T37vxkEpRXrRJMa1+tNTITFfMG1ksIoxIvSf7FtZMNg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T37vxkEpRXrRJMa1+tNTITFfMG1ksIoxIvSf7FtZMNg="
+    }
+  },
+  "version": "5.5.1"
+}

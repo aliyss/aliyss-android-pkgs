@@ -1,0 +1,8 @@
+{
+  "package": "ru.meefik.linuxdeploy",
+  "signerFingerprints": [
+    "78:43:9B:51:CE:79:00:0E:FA:D2:BA:E9:75:5A:9C:67:3F:F5:24:0D:2C:B9:CB:5E:B0:1C:74:65:19:AB:FB:3B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

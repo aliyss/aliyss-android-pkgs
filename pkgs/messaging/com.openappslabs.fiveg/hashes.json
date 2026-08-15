@@ -1,0 +1,18 @@
+{
+  "apkName": "com.openappslabs.fiveg_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NBcRsDV5mL94CPwpmXmAALUN+/s9mBrnR1h0nF8y3RE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NBcRsDV5mL94CPwpmXmAALUN+/s9mBrnR1h0nF8y3RE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NBcRsDV5mL94CPwpmXmAALUN+/s9mBrnR1h0nF8y3RE="
+    }
+  },
+  "version": "1.4.0"
+}

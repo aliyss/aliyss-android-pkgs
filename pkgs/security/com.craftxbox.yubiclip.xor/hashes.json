@@ -1,0 +1,18 @@
+{
+  "apkName": "com.craftxbox.yubiclip.xor_10003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-46K8IsXBv1dntGA39EguKkwOwicD1N1g+bG/2iQMKVU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-46K8IsXBv1dntGA39EguKkwOwicD1N1g+bG/2iQMKVU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-46K8IsXBv1dntGA39EguKkwOwicD1N1g+bG/2iQMKVU="
+    }
+  },
+  "version": "1.0.1"
+}

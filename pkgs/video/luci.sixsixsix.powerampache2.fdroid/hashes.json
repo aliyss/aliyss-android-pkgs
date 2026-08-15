@@ -1,0 +1,18 @@
+{
+  "apkName": "luci.sixsixsix.powerampache2.fdroid_94.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZhQA9L/W8Y30jVWbLZrDOEZ4B2tCD4/zLv33FcNk/sw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZhQA9L/W8Y30jVWbLZrDOEZ4B2tCD4/zLv33FcNk/sw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZhQA9L/W8Y30jVWbLZrDOEZ4B2tCD4/zLv33FcNk/sw="
+    }
+  },
+  "version": "1.01-88-fdroid"
+}

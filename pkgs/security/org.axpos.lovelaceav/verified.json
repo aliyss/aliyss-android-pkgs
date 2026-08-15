@@ -1,0 +1,8 @@
+{
+  "package": "org.axpos.lovelaceav",
+  "signerFingerprints": [
+    "00:5C:98:05:D5:01:BF:50:C1:A8:BF:D3:20:4B:69:08:84:30:88:58:1F:DC:F3:DB:8A:B4:F6:88:FF:C0:E7:B6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "cx.vmx.sdcontacts",
+  "signerFingerprints": [
+    "CF:06:CA:33:EB:51:26:62:8D:67:E9:82:DC:96:C1:72:98:09:83:B4:73:D2:7B:33:E8:F6:9B:59:05:D0:93:BC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

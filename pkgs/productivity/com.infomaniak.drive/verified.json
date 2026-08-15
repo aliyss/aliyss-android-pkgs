@@ -1,0 +1,8 @@
+{
+  "package": "com.infomaniak.drive",
+  "signerFingerprints": [
+    "BF:93:6C:18:D8:B3:B1:0A:14:2A:0A:05:26:FE:9F:44:72:31:95:5E:27:7F:10:10:2D:E6:66:50:5C:E4:FF:C5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

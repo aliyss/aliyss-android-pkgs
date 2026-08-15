@@ -1,0 +1,8 @@
+{
+  "package": "eu.thedarken.wldonate",
+  "signerFingerprints": [
+    "D8:F5:3E:E1:60:EB:07:1A:1E:20:F4:39:9A:99:9F:31:02:A4:BF:D4:5D:A2:04:F3:62:CC:69:1A:84:7D:7E:B2"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

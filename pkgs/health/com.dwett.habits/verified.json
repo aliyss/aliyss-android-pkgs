@@ -1,0 +1,8 @@
+{
+  "package": "com.dwett.habits",
+  "signerFingerprints": [
+    "74:55:AB:9A:F3:D0:CC:94:FE:3C:2F:EA:71:18:B8:B0:10:01:51:DE:EC:68:BD:9F:B2:71:89:E0:EA:CD:85:16"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

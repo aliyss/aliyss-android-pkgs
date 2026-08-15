@@ -1,0 +1,18 @@
+{
+  "apkName": "info.zamojski.soft.towercollector_2180528.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ocxAnJSXcKreQOwCa57d+Z+TPruUy8qW6fzk1Dy3Ssk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ocxAnJSXcKreQOwCa57d+Z+TPruUy8qW6fzk1Dy3Ssk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ocxAnJSXcKreQOwCa57d+Z+TPruUy8qW6fzk1Dy3Ssk="
+    }
+  },
+  "version": "2.18.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.basque_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dTAbGx5qLQ0B/SrrAsApS6jl15ZOINvBmqQUNet+Ggo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dTAbGx5qLQ0B/SrrAsApS6jl15ZOINvBmqQUNet+Ggo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dTAbGx5qLQ0B/SrrAsApS6jl15ZOINvBmqQUNet+Ggo="
+    }
+  },
+  "version": "5.1.6158"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.animeshvarma.sigil_405.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Mnr8HfrDYHeESP9Bu1Ox4Ln+6g/t9Q1v4ITKRWSHpiw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mnr8HfrDYHeESP9Bu1Ox4Ln+6g/t9Q1v4ITKRWSHpiw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mnr8HfrDYHeESP9Bu1Ox4Ln+6g/t9Q1v4ITKRWSHpiw="
+    }
+  },
+  "version": "0.4.5"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.projectmaxs.module.bluetoothadmin_2000506627.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1CvXtZx53qCGeBi+nHUj5gQMtVBCAtseSO5niBpjCCM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1CvXtZx53qCGeBi+nHUj5gQMtVBCAtseSO5niBpjCCM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1CvXtZx53qCGeBi+nHUj5gQMtVBCAtseSO5niBpjCCM="
+    }
+  },
+  "version": "0.5.19"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bera.whitehole_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gRZD7+2dK8ofSk8xVu0VS9lQHUjYIoVPZAa+G0Fstig="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gRZD7+2dK8ofSk8xVu0VS9lQHUjYIoVPZAa+G0Fstig="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gRZD7+2dK8ofSk8xVu0VS9lQHUjYIoVPZAa+G0Fstig="
+    }
+  },
+  "version": "0.7"
+}

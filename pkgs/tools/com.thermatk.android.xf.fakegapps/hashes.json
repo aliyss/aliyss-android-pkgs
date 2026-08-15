@@ -1,0 +1,18 @@
+{
+  "apkName": "com.thermatk.android.xf.fakegapps_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-N2aJSYtW1JiB369tPt6/lL6fcXiPETvd+1TzL0GjYA8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-N2aJSYtW1JiB369tPt6/lL6fcXiPETvd+1TzL0GjYA8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-N2aJSYtW1JiB369tPt6/lL6fcXiPETvd+1TzL0GjYA8="
+    }
+  },
+  "version": "2.0"
+}

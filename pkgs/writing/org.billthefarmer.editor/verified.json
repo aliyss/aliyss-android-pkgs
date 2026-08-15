@@ -1,0 +1,8 @@
+{
+  "package": "org.billthefarmer.editor",
+  "signerFingerprints": [
+    "DC:44:CA:63:EF:A2:98:03:55:D9:BC:4E:90:89:7F:6B:66:E0:C2:6E:E3:0B:01:90:C8:9A:6F:6B:2B:13:CC:09"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

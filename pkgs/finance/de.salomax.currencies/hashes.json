@@ -1,0 +1,18 @@
+{
+  "apkName": "de.salomax.currencies_12300.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ymn6yNAchaqjyZzmRn+QjoF+PiCes9/idN0wUyi28cU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ymn6yNAchaqjyZzmRn+QjoF+PiCes9/idN0wUyi28cU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ymn6yNAchaqjyZzmRn+QjoF+PiCes9/idN0wUyi28cU="
+    }
+  },
+  "version": "1.23.0"
+}

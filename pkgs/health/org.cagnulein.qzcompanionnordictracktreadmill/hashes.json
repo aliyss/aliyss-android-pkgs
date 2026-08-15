@@ -1,0 +1,18 @@
+{
+  "apkName": "org.cagnulein.qzcompanionnordictracktreadmill_181.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-afRSgE6cstR1mSd+Xs9Sew7o6QkN5JQ6eewu3E6+Oss="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-afRSgE6cstR1mSd+Xs9Sew7o6QkN5JQ6eewu3E6+Oss="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-afRSgE6cstR1mSd+Xs9Sew7o6QkN5JQ6eewu3E6+Oss="
+    }
+  },
+  "version": "3.6.29"
+}

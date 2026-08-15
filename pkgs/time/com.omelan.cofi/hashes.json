@@ -1,0 +1,18 @@
+{
+  "apkName": "com.omelan.cofi_176.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Y9Ua89KDF2uoTB6qKkSoQpLTPMsPbBO1qs1CmEG1PQ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y9Ua89KDF2uoTB6qKkSoQpLTPMsPbBO1qs1CmEG1PQ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y9Ua89KDF2uoTB6qKkSoQpLTPMsPbBO1qs1CmEG1PQ0="
+    }
+  },
+  "version": "1.21.5"
+}

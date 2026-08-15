@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.probably_oxy.drift_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B0j9eHqNDJ1VjX84e3GCuLbS7l2PP5i2VH9zzB7ZgmY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B0j9eHqNDJ1VjX84e3GCuLbS7l2PP5i2VH9zzB7ZgmY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B0j9eHqNDJ1VjX84e3GCuLbS7l2PP5i2VH9zzB7ZgmY="
+    }
+  },
+  "version": "0.4.1"
+}

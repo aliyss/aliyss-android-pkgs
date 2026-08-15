@@ -1,0 +1,8 @@
+{
+  "package": "de.jugendhacker.xmppadmin",
+  "signerFingerprints": [
+    "31:1E:96:B3:17:26:C2:B4:56:E3:3C:35:E8:D1:05:32:86:C4:63:E0:11:C6:5D:54:80:A8:02:CC:3C:33:E9:5D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

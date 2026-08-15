@@ -1,0 +1,18 @@
+{
+  "apkName": "com.paperknifeplus.app_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-I9yI/AhUnYeU2PTbC7/yt5IOX7iid6ct4VIjNQxSH7A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I9yI/AhUnYeU2PTbC7/yt5IOX7iid6ct4VIjNQxSH7A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I9yI/AhUnYeU2PTbC7/yt5IOX7iid6ct4VIjNQxSH7A="
+    }
+  },
+  "version": "1.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.unitstool",
+  "signerFingerprints": [
+    "DC:12:17:ED:BD:D8:BF:E6:27:2F:F6:4F:7C:F8:02:A7:3E:26:99:F1:2C:D6:16:F7:DD:07:25:1D:8D:42:F7:FA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

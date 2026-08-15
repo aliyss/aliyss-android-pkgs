@@ -1,0 +1,8 @@
+{
+  "package": "com.iTrack.app",
+  "signerFingerprints": [
+    "95:77:23:A6:DE:D0:97:C3:15:83:A7:E0:30:E3:FC:25:2B:35:7E:E7:0C:7A:65:16:9D:16:52:65:0B:94:EC:A8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

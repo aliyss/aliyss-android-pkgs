@@ -1,0 +1,18 @@
+{
+  "apkName": "com.crazyunicorn.simplequizfr_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-X/ScR8XKzSpxNokmO3alBLbWOVVjMrEklCBAfbtQPnk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X/ScR8XKzSpxNokmO3alBLbWOVVjMrEklCBAfbtQPnk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X/ScR8XKzSpxNokmO3alBLbWOVVjMrEklCBAfbtQPnk="
+    }
+  },
+  "version": "2026.07.30"
+}

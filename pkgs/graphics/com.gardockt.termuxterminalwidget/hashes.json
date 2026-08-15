@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gardockt.termuxterminalwidget_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NhYLD4BywyKMSlSh9ugBt5PP94kVvCNtYOqt1j17KEE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NhYLD4BywyKMSlSh9ugBt5PP94kVvCNtYOqt1j17KEE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NhYLD4BywyKMSlSh9ugBt5PP94kVvCNtYOqt1j17KEE="
+    }
+  },
+  "version": "1.3"
+}

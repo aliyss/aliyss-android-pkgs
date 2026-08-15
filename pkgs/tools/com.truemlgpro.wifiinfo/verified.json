@@ -1,0 +1,8 @@
+{
+  "package": "com.truemlgpro.wifiinfo",
+  "signerFingerprints": [
+    "E3:8C:7D:A8:D6:F6:66:DA:7C:F6:0D:F6:71:DA:9C:E2:09:71:C1:08:BD:42:4D:75:68:9B:CB:FE:22:4F:D8:AE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

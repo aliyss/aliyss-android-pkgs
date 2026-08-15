@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jeffliu.balancetheball_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YYBTSxUeTVA2WyFIPzcZ4y8gekJnXe4gIn3kSch1weI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YYBTSxUeTVA2WyFIPzcZ4y8gekJnXe4gIn3kSch1weI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YYBTSxUeTVA2WyFIPzcZ4y8gekJnXe4gIn3kSch1weI="
+    }
+  },
+  "version": "1.1.0"
+}

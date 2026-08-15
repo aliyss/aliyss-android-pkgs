@@ -1,0 +1,8 @@
+{
+  "package": "com.island.filemanagerutils",
+  "signerFingerprints": [
+    "2B:90:95:17:D0:EF:52:08:38:7B:4D:66:A3:D3:DF:96:F4:D5:E7:B4:CF:EF:1A:39:EB:76:BC:A3:37:BA:9C:FB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

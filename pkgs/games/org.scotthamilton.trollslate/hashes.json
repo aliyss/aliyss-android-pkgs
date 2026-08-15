@@ -1,0 +1,18 @@
+{
+  "apkName": "org.scotthamilton.trollslate_30000000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JCgqp9zcPh+Ewx9mLiXEQDtUmWy6ZSSSLQeuyfnSgcQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JCgqp9zcPh+Ewx9mLiXEQDtUmWy6ZSSSLQeuyfnSgcQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JCgqp9zcPh+Ewx9mLiXEQDtUmWy6ZSSSLQeuyfnSgcQ="
+    }
+  },
+  "version": "Botticelli"
+}

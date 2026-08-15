@@ -1,0 +1,8 @@
+{
+  "package": "com.openappslabs.fiveg",
+  "signerFingerprints": [
+    "CA:C4:CC:2A:36:E0:B8:7E:5D:60:1D:90:C0:AC:15:E8:AB:4B:43:A2:D8:D9:CF:20:67:EB:19:50:0F:DE:C4:C7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

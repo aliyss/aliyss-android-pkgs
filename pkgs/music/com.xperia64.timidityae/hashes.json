@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xperia64.timidityae_96.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MlWlZkIS15RP5+3qe8F7yh9u5nuIb4tKZH0c1guMPsw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MlWlZkIS15RP5+3qe8F7yh9u5nuIb4tKZH0c1guMPsw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MlWlZkIS15RP5+3qe8F7yh9u5nuIb4tKZH0c1guMPsw="
+    }
+  },
+  "version": "3.0.6"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.paultirk.yatoo",
+  "signerFingerprints": [
+    "0B:71:2C:45:EB:A6:5A:7E:E6:E5:BA:3B:4D:0A:B6:2E:0A:3C:53:86:C1:00:7B:20:47:C2:A5:8D:E9:C7:9F:31"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

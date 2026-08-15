@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.muellerma.prepaidbalance_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n4SoGJxZ7hCA+aHMDqAkAzc7O7fT6VeSXQ0zdoS3X0A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n4SoGJxZ7hCA+aHMDqAkAzc7O7fT6VeSXQ0zdoS3X0A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n4SoGJxZ7hCA+aHMDqAkAzc7O7fT6VeSXQ0zdoS3X0A="
+    }
+  },
+  "version": "2.11"
+}

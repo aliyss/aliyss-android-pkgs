@@ -1,0 +1,18 @@
+{
+  "apkName": "com.itsfrz.tictactoe_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KgV6mlGazYHcVK+bPJ9Y5A69DOkvlJrKZfbEOej3TUU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KgV6mlGazYHcVK+bPJ9Y5A69DOkvlJrKZfbEOej3TUU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KgV6mlGazYHcVK+bPJ9Y5A69DOkvlJrKZfbEOej3TUU="
+    }
+  },
+  "version": "1.0.5"
+}

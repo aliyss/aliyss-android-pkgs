@@ -1,0 +1,18 @@
+{
+  "apkName": "own.moderpach.extinguish_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-t7zUyBYgWALSh0z379DKw5Qvzn7PHIgGhPXtn4l0vTg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t7zUyBYgWALSh0z379DKw5Qvzn7PHIgGhPXtn4l0vTg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t7zUyBYgWALSh0z379DKw5Qvzn7PHIgGhPXtn4l0vTg="
+    }
+  },
+  "version": "0.9.5.1"
+}

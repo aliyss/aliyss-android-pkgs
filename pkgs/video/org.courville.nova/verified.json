@@ -1,0 +1,8 @@
+{
+  "package": "org.courville.nova",
+  "signerFingerprints": [
+    "DA:BE:A1:96:B5:D6:A2:83:3C:E8:1E:75:AB:F0:A3:FF:0A:8D:28:1D:E0:3D:02:95:75:E9:60:FC:42:77:15:CF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

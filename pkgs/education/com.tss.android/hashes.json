@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tss.android_72.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-v0fQ6AMnHPzVEpQ/MHK0U8ypbYn/kftPvPayjJEkIxQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v0fQ6AMnHPzVEpQ/MHK0U8ypbYn/kftPvPayjJEkIxQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v0fQ6AMnHPzVEpQ/MHK0U8ypbYn/kftPvPayjJEkIxQ="
+    }
+  },
+  "version": "3.8.2"
+}

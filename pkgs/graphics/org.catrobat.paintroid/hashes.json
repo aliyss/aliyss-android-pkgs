@@ -1,0 +1,18 @@
+{
+  "apkName": "org.catrobat.paintroid_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-efda29hPbaOmqb7ZbnrxLsX+f5IJRj8i90DzI8NkyRc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-efda29hPbaOmqb7ZbnrxLsX+f5IJRj8i90DzI8NkyRc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-efda29hPbaOmqb7ZbnrxLsX+f5IJRj8i90DzI8NkyRc="
+    }
+  },
+  "version": "2.14.0"
+}

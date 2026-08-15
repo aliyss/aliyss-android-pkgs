@@ -1,0 +1,8 @@
+{
+  "package": "me.ash.reader",
+  "signerFingerprints": [
+    "CE:F3:38:A4:74:52:3B:DF:CF:3F:B8:2C:BE:E2:D4:5F:6F:D9:61:0E:95:90:2B:A7:8C:8C:79:A4:5E:10:2A:E9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

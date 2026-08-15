@@ -1,0 +1,18 @@
+{
+  "apkName": "be.moraine.yapl_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-j4L7+n+T4P6D+BOy5mD+u4POkl2QjSBZDhB990UbHfI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-j4L7+n+T4P6D+BOy5mD+u4POkl2QjSBZDhB990UbHfI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-j4L7+n+T4P6D+BOy5mD+u4POkl2QjSBZDhB990UbHfI="
+    }
+  },
+  "version": "1.0.1"
+}

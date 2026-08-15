@@ -1,0 +1,8 @@
+{
+  "package": "dev.yashgarg.qbit",
+  "signerFingerprints": [
+    "D9:24:9F:33:F2:6F:9F:57:9F:9E:0A:C8:D3:01:86:72:1C:48:65:5A:D2:06:C9:0B:A1:A9:A1:CF:00:23:CE:97"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

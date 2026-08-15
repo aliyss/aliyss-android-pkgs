@@ -1,0 +1,18 @@
+{
+  "apkName": "m.co.rh.id.a_personal_stuff_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AVouKXsHIqJ6eosOlHJWl4yX0io8L5sqNBD3zLGYgQg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AVouKXsHIqJ6eosOlHJWl4yX0io8L5sqNBD3zLGYgQg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AVouKXsHIqJ6eosOlHJWl4yX0io8L5sqNBD3zLGYgQg="
+    }
+  },
+  "version": "1.6.0"
+}

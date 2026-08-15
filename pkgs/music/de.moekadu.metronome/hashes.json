@@ -1,0 +1,18 @@
+{
+  "apkName": "de.moekadu.metronome_62.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cHjnsyR3w9xrvieSpLZemZQQUU9NezqD9ix5+KCLro8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cHjnsyR3w9xrvieSpLZemZQQUU9NezqD9ix5+KCLro8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cHjnsyR3w9xrvieSpLZemZQQUU9NezqD9ix5+KCLro8="
+    }
+  },
+  "version": "4.14.0"
+}

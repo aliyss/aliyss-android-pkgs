@@ -1,0 +1,8 @@
+{
+  "package": "com.freetime.ssmpc",
+  "signerFingerprints": [
+    "FB:4A:98:17:25:8A:42:86:62:BE:72:A7:73:6B:26:65:F4:87:8C:91:31:02:05:5C:F9:E7:6E:E9:F4:5F:62:A7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

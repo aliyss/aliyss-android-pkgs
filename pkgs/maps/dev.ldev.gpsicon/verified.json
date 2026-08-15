@@ -1,0 +1,8 @@
+{
+  "package": "dev.ldev.gpsicon",
+  "signerFingerprints": [
+    "64:38:D3:93:8D:A9:8F:E2:33:0C:F9:45:42:9A:C9:BC:B8:A9:9B:93:77:A0:45:FA:70:A6:38:17:1E:E8:81:D6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

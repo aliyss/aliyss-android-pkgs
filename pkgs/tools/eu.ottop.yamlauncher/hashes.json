@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.ottop.yamlauncher_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0jhfif/bU+vXtbSBoVOcEDeeM6A4L58UI4z3OtQuxaQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0jhfif/bU+vXtbSBoVOcEDeeM6A4L58UI4z3OtQuxaQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0jhfif/bU+vXtbSBoVOcEDeeM6A4L58UI4z3OtQuxaQ="
+    }
+  },
+  "version": "2.2"
+}

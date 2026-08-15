@@ -1,0 +1,18 @@
+{
+  "apkName": "net.chlup.myshare_178.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xypgqbo/5WA90IHX0c8dmMBnaTzlVamj9iQkPMBezAg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xypgqbo/5WA90IHX0c8dmMBnaTzlVamj9iQkPMBezAg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xypgqbo/5WA90IHX0c8dmMBnaTzlVamj9iQkPMBezAg="
+    }
+  },
+  "version": "1.78"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "projects.medicationtracker",
+  "signerFingerprints": [
+    "19:4F:80:E8:D5:00:17:84:AA:BE:0D:6A:02:A0:DA:42:10:F4:55:E4:CE:37:77:E0:EB:72:6A:76:B6:83:34:67"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

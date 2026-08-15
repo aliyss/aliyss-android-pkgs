@@ -1,0 +1,18 @@
+{
+  "apkName": "xdsopl.robot36_66.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YbsCd6hNVh9NpX3PfWmy14siIGkEe7z93IcGxBo6eOI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YbsCd6hNVh9NpX3PfWmy14siIGkEe7z93IcGxBo6eOI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YbsCd6hNVh9NpX3PfWmy14siIGkEe7z93IcGxBo6eOI="
+    }
+  },
+  "version": "2.16"
+}

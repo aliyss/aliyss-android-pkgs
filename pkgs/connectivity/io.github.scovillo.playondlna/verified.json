@@ -1,0 +1,8 @@
+{
+  "package": "io.github.scovillo.playondlna",
+  "signerFingerprints": [
+    "71:25:2A:30:BD:DB:0E:B5:32:F3:5A:FB:07:86:60:83:DE:D0:C1:A1:88:01:22:33:1D:DD:A4:2A:88:67:CE:B9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

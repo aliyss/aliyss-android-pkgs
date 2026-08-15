@@ -1,0 +1,8 @@
+{
+  "package": "org.adaptit.adaptitmobile",
+  "signerFingerprints": [
+    "3D:65:29:FD:B6:1D:8A:E2:08:66:19:6C:34:66:2C:E1:9D:AD:02:5B:3F:AC:E6:4C:3E:34:35:08:C3:53:A5:6F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

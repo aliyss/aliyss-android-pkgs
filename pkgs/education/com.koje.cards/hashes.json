@@ -1,0 +1,18 @@
+{
+  "apkName": "com.koje.cards_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Zdzxd9l+jE3n0XSFb99veisz8zApj3qpCfHI4ZZUwJc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Zdzxd9l+jE3n0XSFb99veisz8zApj3qpCfHI4ZZUwJc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Zdzxd9l+jE3n0XSFb99veisz8zApj3qpCfHI4ZZUwJc="
+    }
+  },
+  "version": "1.0"
+}

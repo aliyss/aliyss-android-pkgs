@@ -1,0 +1,8 @@
+{
+  "package": "com.gallantrealm.modsynth",
+  "signerFingerprints": [
+    "FE:CE:70:07:E3:41:E9:E3:9A:16:17:7C:72:52:1D:85:FA:E1:A8:C0:D3:8E:15:18:8F:59:3F:9C:3E:F4:6D:EE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

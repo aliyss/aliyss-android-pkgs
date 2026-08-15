@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.broker_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YG+w8TQ0xx5cgNcaxvhv7wlkRQx16YhJoLFns87DNxo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YG+w8TQ0xx5cgNcaxvhv7wlkRQx16YhJoLFns87DNxo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YG+w8TQ0xx5cgNcaxvhv7wlkRQx16YhJoLFns87DNxo="
+    }
+  },
+  "version": "1.05"
+}

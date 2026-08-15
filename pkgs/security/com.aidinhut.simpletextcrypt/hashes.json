@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aidinhut.simpletextcrypt_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PgWGe7qqCKjgANLK/fKgxu4CNsAaMr1er5CMCUraAWY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PgWGe7qqCKjgANLK/fKgxu4CNsAaMr1er5CMCUraAWY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PgWGe7qqCKjgANLK/fKgxu4CNsAaMr1er5CMCUraAWY="
+    }
+  },
+  "version": "6.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "systems.sieber.droid_scep_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-o/12GynwbqmHzM7y474XSPgwwBwvblEz/BAn8G35y0w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o/12GynwbqmHzM7y474XSPgwwBwvblEz/BAn8G35y0w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o/12GynwbqmHzM7y474XSPgwwBwvblEz/BAn8G35y0w="
+    }
+  },
+  "version": "1.5"
+}

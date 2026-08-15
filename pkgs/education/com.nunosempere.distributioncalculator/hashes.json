@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nunosempere.distributioncalculator_301.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6me9hQ8a9SW/q3o4qvNuKhtd0pD9q9+st1TgadQ9OHQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6me9hQ8a9SW/q3o4qvNuKhtd0pD9q9+st1TgadQ9OHQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6me9hQ8a9SW/q3o4qvNuKhtd0pD9q9+st1TgadQ9OHQ="
+    }
+  },
+  "version": "0.03.01"
+}

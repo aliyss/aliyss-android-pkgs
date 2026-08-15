@@ -1,0 +1,18 @@
+{
+  "apkName": "com.Colota_44.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IsYJWG7xV59SQ49MojDgrQWO6G3gUJRpdyZIOKxh7t4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IsYJWG7xV59SQ49MojDgrQWO6G3gUJRpdyZIOKxh7t4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IsYJWG7xV59SQ49MojDgrQWO6G3gUJRpdyZIOKxh7t4="
+    }
+  },
+  "version": "1.13.0"
+}

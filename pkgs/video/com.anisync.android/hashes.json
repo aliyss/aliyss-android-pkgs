@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anisync.android_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CZXW1Iu7Lr7WyJvrIKHDU6ydhIrtS5YFZDiej0iqXeI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CZXW1Iu7Lr7WyJvrIKHDU6ydhIrtS5YFZDiej0iqXeI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CZXW1Iu7Lr7WyJvrIKHDU6ydhIrtS5YFZDiej0iqXeI="
+    }
+  },
+  "version": "3.1.0"
+}

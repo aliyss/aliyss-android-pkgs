@@ -1,0 +1,18 @@
+{
+  "apkName": "com.donnnno.arcticons.light_1550.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n2AqdMMigI81nwlae6FGxX8/VbDNOXMcd/ies8WUCTw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n2AqdMMigI81nwlae6FGxX8/VbDNOXMcd/ies8WUCTw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n2AqdMMigI81nwlae6FGxX8/VbDNOXMcd/ies8WUCTw="
+    }
+  },
+  "version": "14.9.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.nima.triviaapp",
+  "signerFingerprints": [
+    "E5:72:71:B2:53:2C:50:A0:BF:A1:4C:DD:FB:AC:5E:A6:8E:E1:75:F5:2E:F5:F7:58:2A:8D:10:94:F6:0D:B9:EE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

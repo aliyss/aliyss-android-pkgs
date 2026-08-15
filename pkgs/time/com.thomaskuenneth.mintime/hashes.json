@@ -1,0 +1,18 @@
+{
+  "apkName": "com.thomaskuenneth.mintime_65.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MG0qH+ZzwfmirJRwE2nZrxRz5xbjFQvA3Oq6FXNCzRQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MG0qH+ZzwfmirJRwE2nZrxRz5xbjFQvA3Oq6FXNCzRQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MG0qH+ZzwfmirJRwE2nZrxRz5xbjFQvA3Oq6FXNCzRQ="
+    }
+  },
+  "version": "2.0.1"
+}

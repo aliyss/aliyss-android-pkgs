@@ -1,0 +1,18 @@
+{
+  "apkName": "org.nuntius35.wrongpinshutdown_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wTH7QKrcmXv1mq7kIJf6hgSNrh66NFcaX2bu8/m69iE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wTH7QKrcmXv1mq7kIJf6hgSNrh66NFcaX2bu8/m69iE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wTH7QKrcmXv1mq7kIJf6hgSNrh66NFcaX2bu8/m69iE="
+    }
+  },
+  "version": "12"
+}

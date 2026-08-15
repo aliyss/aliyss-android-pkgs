@@ -1,0 +1,18 @@
+{
+  "apkName": "net.canvoki.vokibot_70000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YjmJvc8ux/VxwTLSxb88WgUsLBDUg7f+xVNknoAJBfA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YjmJvc8ux/VxwTLSxb88WgUsLBDUg7f+xVNknoAJBfA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YjmJvc8ux/VxwTLSxb88WgUsLBDUg7f+xVNknoAJBfA="
+    }
+  },
+  "version": "0.7.0"
+}

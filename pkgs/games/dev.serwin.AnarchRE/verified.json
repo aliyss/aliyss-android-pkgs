@@ -1,0 +1,8 @@
+{
+  "package": "dev.serwin.AnarchRE",
+  "signerFingerprints": [
+    "37:AD:7E:E0:8C:AE:65:A9:7C:95:78:86:F5:59:4C:E0:5A:05:1F:9C:F3:D2:26:D4:F5:85:02:E0:DE:B1:07:AB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

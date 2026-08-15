@@ -1,0 +1,18 @@
+{
+  "apkName": "com.stefdp.zipline_44.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oGrH30wRi9XUzFzEGErE5rSERALbimh/Mt5EapB3224="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oGrH30wRi9XUzFzEGErE5rSERALbimh/Mt5EapB3224="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oGrH30wRi9XUzFzEGErE5rSERALbimh/Mt5EapB3224="
+    }
+  },
+  "version": "2.1.10"
+}

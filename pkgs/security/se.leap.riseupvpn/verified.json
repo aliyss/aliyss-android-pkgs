@@ -1,0 +1,8 @@
+{
+  "package": "se.leap.riseupvpn",
+  "signerFingerprints": [
+    "CD:59:26:17:B2:7A:65:CD:44:E2:4F:B7:B8:BC:5D:13:D1:40:FC:79:0C:37:33:9E:EF:4A:BB:45:18:DD:3A:C2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

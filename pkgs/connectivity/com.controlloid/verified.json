@@ -1,0 +1,8 @@
+{
+  "package": "com.controlloid",
+  "signerFingerprints": [
+    "7C:1D:CF:A6:3B:58:C8:A8:18:35:20:79:E9:01:C7:51:3D:3C:F3:C0:AE:D3:19:BD:EC:D5:BB:9E:B8:17:EA:86"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

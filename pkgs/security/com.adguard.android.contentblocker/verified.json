@@ -1,0 +1,8 @@
+{
+  "package": "com.adguard.android.contentblocker",
+  "signerFingerprints": [
+    "7E:EE:50:33:10:90:9A:70:12:CD:09:06:59:3B:3F:41:4E:29:4F:E2:E1:8C:11:B5:32:44:4F:25:46:48:FD:4C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

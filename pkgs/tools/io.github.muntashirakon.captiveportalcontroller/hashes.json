@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.muntashirakon.captiveportalcontroller_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QgNZUPfNCZ2zaRZQ5xeA0byugqX18UaR2LcEyPEqoyg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QgNZUPfNCZ2zaRZQ5xeA0byugqX18UaR2LcEyPEqoyg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QgNZUPfNCZ2zaRZQ5xeA0byugqX18UaR2LcEyPEqoyg="
+    }
+  },
+  "version": "1.1.0"
+}

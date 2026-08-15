@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pcinpact_296.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-z2kbtpn+gA1Cp0rB4pW8VJ/+FpoY8zifj8YP7jQV/TU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z2kbtpn+gA1Cp0rB4pW8VJ/+FpoY8zifj8YP7jQV/TU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z2kbtpn+gA1Cp0rB4pW8VJ/+FpoY8zifj8YP7jQV/TU="
+    }
+  },
+  "version": "2.9.6"
+}

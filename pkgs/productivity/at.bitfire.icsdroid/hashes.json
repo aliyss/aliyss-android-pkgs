@@ -1,0 +1,18 @@
+{
+  "apkName": "at.bitfire.icsdroid_92.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZOyhYTG0XFBy2TA7pddNsn65/52TRiG8IAG7o6+Diaw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZOyhYTG0XFBy2TA7pddNsn65/52TRiG8IAG7o6+Diaw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZOyhYTG0XFBy2TA7pddNsn65/52TRiG8IAG7o6+Diaw="
+    }
+  },
+  "version": "2.4.3"
+}

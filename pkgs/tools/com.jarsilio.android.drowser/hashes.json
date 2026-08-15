@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jarsilio.android.drowser_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2Pr8tDdFAXC+gSu4KQlYs/xzsgxBKoKvhFRyHejgPZY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2Pr8tDdFAXC+gSu4KQlYs/xzsgxBKoKvhFRyHejgPZY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2Pr8tDdFAXC+gSu4KQlYs/xzsgxBKoKvhFRyHejgPZY="
+    }
+  },
+  "version": "1.0.11"
+}

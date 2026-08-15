@@ -1,0 +1,18 @@
+{
+  "apkName": "de.monocles.browser.standard_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MVt8NcbGTEQPO8k6sSfVBG5zQUXIHZqi27MykymRldE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MVt8NcbGTEQPO8k6sSfVBG5zQUXIHZqi27MykymRldE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MVt8NcbGTEQPO8k6sSfVBG5zQUXIHZqi27MykymRldE="
+    }
+  },
+  "version": "1.9.3"
+}

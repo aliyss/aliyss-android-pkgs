@@ -1,0 +1,18 @@
+{
+  "apkName": "app.iremote_561.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ict+19GyVoOhBqaApTk9I9Ebck0loZJy75bN5KA2iS8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ict+19GyVoOhBqaApTk9I9Ebck0loZJy75bN5KA2iS8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ict+19GyVoOhBqaApTk9I9Ebck0loZJy75bN5KA2iS8="
+    }
+  },
+  "version": "3.4.4"
+}

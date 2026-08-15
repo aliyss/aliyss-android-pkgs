@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jayc180.rhythmengine_104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GBk7IbodlzpWfIhwU0WdCEcYZ8+E1Y9YLkcySpXhKz0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GBk7IbodlzpWfIhwU0WdCEcYZ8+E1Y9YLkcySpXhKz0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GBk7IbodlzpWfIhwU0WdCEcYZ8+E1Y9YLkcySpXhKz0="
+    }
+  },
+  "version": "1.04"
+}

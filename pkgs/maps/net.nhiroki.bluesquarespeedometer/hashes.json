@@ -1,0 +1,18 @@
+{
+  "apkName": "net.nhiroki.bluesquarespeedometer_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YQW82iicHv5sCvhAoIzjuz8hsh5ySyGqi2WqhokrX3w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YQW82iicHv5sCvhAoIzjuz8hsh5ySyGqi2WqhokrX3w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YQW82iicHv5sCvhAoIzjuz8hsh5ySyGqi2WqhokrX3w="
+    }
+  },
+  "version": "1.1.0"
+}

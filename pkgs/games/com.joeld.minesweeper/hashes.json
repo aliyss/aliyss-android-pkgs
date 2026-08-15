@@ -1,0 +1,18 @@
+{
+  "apkName": "com.joeld.minesweeper_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B9LM9YWA1GKECcYr/rCbQaS/D9h78deTt7Cymok6dWs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B9LM9YWA1GKECcYr/rCbQaS/D9h78deTt7Cymok6dWs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B9LM9YWA1GKECcYr/rCbQaS/D9h78deTt7Cymok6dWs="
+    }
+  },
+  "version": "1.4"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "ir.remote.edifier.rc10e",
+  "signerFingerprints": [
+    "DE:CB:BF:12:97:6F:8C:FC:41:7F:B7:35:25:5D:F2:B2:99:00:BB:C0:00:0B:41:2F:DB:01:11:8D:7F:B3:04:EA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

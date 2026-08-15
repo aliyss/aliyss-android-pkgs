@@ -1,0 +1,18 @@
+{
+  "apkName": "infrared.tilematch_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-llpx93FBj06rwwlyQyoukGlqpcIhWB68fEerTy72qEI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-llpx93FBj06rwwlyQyoukGlqpcIhWB68fEerTy72qEI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-llpx93FBj06rwwlyQyoukGlqpcIhWB68fEerTy72qEI="
+    }
+  },
+  "version": "1.0.0"
+}

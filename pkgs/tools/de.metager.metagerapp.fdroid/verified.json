@@ -1,0 +1,8 @@
+{
+  "package": "de.metager.metagerapp.fdroid",
+  "signerFingerprints": [
+    "1E:75:2E:3A:CD:C9:9D:7A:AE:AA:EE:39:CC:61:0D:41:24:76:EC:D7:98:0A:18:5F:B6:65:33:E4:A1:AB:9B:67"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

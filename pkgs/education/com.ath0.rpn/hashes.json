@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ath0.rpn_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UuHyNHEOvfCH5nYNCg5P9dlp8UK0SrYdHOBf9Sa9K9o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UuHyNHEOvfCH5nYNCg5P9dlp8UK0SrYdHOBf9Sa9K9o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UuHyNHEOvfCH5nYNCg5P9dlp8UK0SrYdHOBf9Sa9K9o="
+    }
+  },
+  "version": "2.0.4"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.ra66it.updaterforspotify_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EPKR+EqPHmTk/9B8gDbYNgJkNaJ7BREqlssOAnhoXmw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EPKR+EqPHmTk/9B8gDbYNgJkNaJ7BREqlssOAnhoXmw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EPKR+EqPHmTk/9B8gDbYNgJkNaJ7BREqlssOAnhoXmw="
+    }
+  },
+  "version": "1.38"
+}

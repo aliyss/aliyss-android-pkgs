@@ -1,0 +1,8 @@
+{
+  "package": "com.sdcardstoryteller",
+  "signerFingerprints": [
+    "9B:17:F5:B2:AE:84:D8:91:3F:B8:4C:15:85:AC:78:C7:CD:77:8E:DA:B0:A1:4A:0D:4E:11:55:16:00:A0:29:B0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

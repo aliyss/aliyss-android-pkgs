@@ -1,0 +1,18 @@
+{
+  "apkName": "de.stefan_oltmann.kaesekaestchen_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4pVODBFBc+M6EzskqOvRFEH/3Hxv60VqdEEaZ8k+fKk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4pVODBFBc+M6EzskqOvRFEH/3Hxv60VqdEEaZ8k+fKk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4pVODBFBc+M6EzskqOvRFEH/3Hxv60VqdEEaZ8k+fKk="
+    }
+  },
+  "version": "0.7.7"
+}

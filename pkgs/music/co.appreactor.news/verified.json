@@ -1,0 +1,8 @@
+{
+  "package": "co.appreactor.news",
+  "signerFingerprints": [
+    "C3:F5:D5:09:13:0C:CB:36:F0:2F:E7:6D:1E:38:9F:74:10:7B:EF:CC:AA:A4:0F:88:23:F8:86:12:EB:D6:B7:B2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

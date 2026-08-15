@@ -1,0 +1,18 @@
+{
+  "apkName": "in.sunilpaulmathew.weatherwidget_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uU+WILzBYllhlNs123NVHZZz2mEZ1MK1rLdTlMxrvro="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uU+WILzBYllhlNs123NVHZZz2mEZ1MK1rLdTlMxrvro="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uU+WILzBYllhlNs123NVHZZz2mEZ1MK1rLdTlMxrvro="
+    }
+  },
+  "version": "v0.6"
+}

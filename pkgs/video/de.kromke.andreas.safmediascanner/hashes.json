@@ -1,0 +1,18 @@
+{
+  "apkName": "de.kromke.andreas.safmediascanner_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wC4+ZXpj/mN3YBwxaeDhRSrmc6ei7WtUvtk18+ay/9k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wC4+ZXpj/mN3YBwxaeDhRSrmc6ei7WtUvtk18+ay/9k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wC4+ZXpj/mN3YBwxaeDhRSrmc6ei7WtUvtk18+ay/9k="
+    }
+  },
+  "version": "1.8.5"
+}

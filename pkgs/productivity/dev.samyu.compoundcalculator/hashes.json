@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.samyu.compoundcalculator_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HGLblfpeVdoQzipeH0o7qKhF99NwcrlqvXFDTIarmtM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HGLblfpeVdoQzipeH0o7qKhF99NwcrlqvXFDTIarmtM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HGLblfpeVdoQzipeH0o7qKhF99NwcrlqvXFDTIarmtM="
+    }
+  },
+  "version": "0.1.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.Ounzy.OpenBl",
+  "signerFingerprints": [
+    "5B:E8:FD:D3:9E:A8:E6:C5:91:64:CD:31:87:44:6B:B7:84:85:47:B8:30:13:6D:5B:23:82:E2:15:44:63:1F:39"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

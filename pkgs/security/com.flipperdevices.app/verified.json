@@ -1,0 +1,8 @@
+{
+  "package": "com.flipperdevices.app",
+  "signerFingerprints": [
+    "93:E4:97:A1:77:5D:E2:AF:F4:25:55:D5:20:41:E4:56:44:B4:59:70:BB:AE:B6:11:FC:CA:9A:C3:E5:44:E6:FA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

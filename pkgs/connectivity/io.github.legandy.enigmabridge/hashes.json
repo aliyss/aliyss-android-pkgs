@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.legandy.enigmabridge_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jMwF2hnK/K8+rOnvRXaJLRzLKB7HKG0Ns7EMCFzksyA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jMwF2hnK/K8+rOnvRXaJLRzLKB7HKG0Ns7EMCFzksyA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jMwF2hnK/K8+rOnvRXaJLRzLKB7HKG0Ns7EMCFzksyA="
+    }
+  },
+  "version": "1.2"
+}

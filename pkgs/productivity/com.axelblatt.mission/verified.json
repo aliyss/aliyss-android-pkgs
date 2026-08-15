@@ -1,0 +1,8 @@
+{
+  "package": "com.axelblatt.mission",
+  "signerFingerprints": [
+    "FE:BB:D4:4A:32:70:38:73:6C:9B:23:AF:6D:AC:6E:ED:A7:E0:7F:AA:FB:E1:6B:11:51:E3:FE:E8:AC:5C:B7:69"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

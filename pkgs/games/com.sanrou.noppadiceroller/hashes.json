@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sanrou.noppadiceroller_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tZ78MosONJXQsc+zGs3LhmaYFhRlFfcJ55GsbB5zNhs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tZ78MosONJXQsc+zGs3LhmaYFhRlFfcJ55GsbB5zNhs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tZ78MosONJXQsc+zGs3LhmaYFhRlFfcJ55GsbB5zNhs="
+    }
+  },
+  "version": "1.1"
+}

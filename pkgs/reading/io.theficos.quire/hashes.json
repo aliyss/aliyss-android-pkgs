@@ -1,0 +1,18 @@
+{
+  "apkName": "io.theficos.quire_26072925.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O6jvo+kL+02iQccEmdJ2HgCAFPrnthzcIPGlpzrriVA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O6jvo+kL+02iQccEmdJ2HgCAFPrnthzcIPGlpzrriVA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O6jvo+kL+02iQccEmdJ2HgCAFPrnthzcIPGlpzrriVA="
+    }
+  },
+  "version": "2026.07.29.225"
+}

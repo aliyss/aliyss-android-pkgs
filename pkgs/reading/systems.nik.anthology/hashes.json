@@ -1,0 +1,18 @@
+{
+  "apkName": "systems.nik.anthology_10008.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5zGmURNURCmizQs/5o7FTLiJOHxcggQqY0wXcP4tLNg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5zGmURNURCmizQs/5o7FTLiJOHxcggQqY0wXcP4tLNg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5zGmURNURCmizQs/5o7FTLiJOHxcggQqY0wXcP4tLNg="
+    }
+  },
+  "version": "1.0.8"
+}

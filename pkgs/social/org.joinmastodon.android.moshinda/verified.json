@@ -1,0 +1,8 @@
+{
+  "package": "org.joinmastodon.android.moshinda",
+  "signerFingerprints": [
+    "1D:D4:D6:DB:71:38:33:58:34:E3:92:7C:C7:45:AD:48:23:6A:BC:52:25:2B:BB:83:69:E9:6B:8B:BA:77:77:20"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

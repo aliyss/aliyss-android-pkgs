@@ -1,0 +1,8 @@
+{
+  "package": "app.siftrecipes",
+  "signerFingerprints": [
+    "05:FA:B0:D4:07:8E:A7:D4:73:29:8F:4B:B4:76:46:C7:19:60:57:EA:17:80:9E:29:41:93:04:87:C8:89:F9:C5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

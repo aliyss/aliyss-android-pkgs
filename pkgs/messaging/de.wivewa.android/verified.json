@@ -1,0 +1,8 @@
+{
+  "package": "de.wivewa.android",
+  "signerFingerprints": [
+    "8A:BA:95:B3:C8:F6:B3:E5:35:47:EA:4C:12:D0:74:E0:9B:0F:C5:61:90:BC:44:B3:70:14:99:CB:68:0E:4E:D6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

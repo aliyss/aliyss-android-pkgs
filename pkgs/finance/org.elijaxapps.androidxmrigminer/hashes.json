@@ -1,0 +1,18 @@
+{
+  "apkName": "org.elijaxapps.androidxmrigminer_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-etSxgnV7Thd8LieXV2TMDpQnMHYoPmyIHisdjNwUm3w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-etSxgnV7Thd8LieXV2TMDpQnMHYoPmyIHisdjNwUm3w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-etSxgnV7Thd8LieXV2TMDpQnMHYoPmyIHisdjNwUm3w="
+    }
+  },
+  "version": "1.02"
+}

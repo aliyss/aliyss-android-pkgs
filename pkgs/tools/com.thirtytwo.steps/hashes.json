@@ -1,0 +1,18 @@
+{
+  "apkName": "com.thirtytwo.steps_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5LDCXs0cxzoHA/yjfBGi77S6DXO01VwZOGA+2iN9vZI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5LDCXs0cxzoHA/yjfBGi77S6DXO01VwZOGA+2iN9vZI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5LDCXs0cxzoHA/yjfBGi77S6DXO01VwZOGA+2iN9vZI="
+    }
+  },
+  "version": "2.2.12"
+}

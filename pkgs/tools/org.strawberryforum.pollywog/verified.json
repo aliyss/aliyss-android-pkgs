@@ -1,0 +1,8 @@
+{
+  "package": "org.strawberryforum.pollywog",
+  "signerFingerprints": [
+    "BE:FF:87:CB:EA:98:40:8F:B2:16:A4:7E:44:DB:83:52:F2:46:BD:B1:D3:CF:8B:5D:33:92:DD:45:9F:B7:0A:47"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.commonvoice.saverio",
+  "signerFingerprints": [
+    "E7:6E:E6:A5:71:EA:1D:38:A3:B1:09:5F:F7:CD:41:DB:09:2A:B7:04:E0:AA:32:AF:13:7B:B7:93:7D:26:10:6D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

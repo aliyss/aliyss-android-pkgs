@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.jamsinclair.owcamera2_95.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LgqS1fh95Mtm5hIBkP6XFPT16pCYeqc+Mv2yAUJCmEk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LgqS1fh95Mtm5hIBkP6XFPT16pCYeqc+Mv2yAUJCmEk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LgqS1fh95Mtm5hIBkP6XFPT16pCYeqc+Mv2yAUJCmEk="
+    }
+  },
+  "version": "2.0"
+}

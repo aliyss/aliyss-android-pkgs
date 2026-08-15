@@ -1,0 +1,8 @@
+{
+  "package": "org.gnu.itsmoroto.midandpad",
+  "signerFingerprints": [
+    "37:9B:70:47:1E:93:78:C9:1D:4F:7D:E2:86:FF:8F:97:D1:C6:39:D6:AC:63:A3:E6:B9:DF:B8:56:C3:BD:E2:DB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.google.android.apps.photos",
+  "signerFingerprints": [
+    "35:7C:24:3C:84:DA:6B:10:B6:B3:4F:CD:CC:AB:B6:C9:F8:39:D8:CF:0F:7D:93:D4:F4:5F:02:13:FE:D6:BC:5E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

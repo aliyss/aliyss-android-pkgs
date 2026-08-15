@@ -1,0 +1,18 @@
+{
+  "apkName": "com.divinelink.scenepeek_55.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dWJ3INMop8OR+si38YoNYTanCVjed9HXSlVfm7nMLkA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dWJ3INMop8OR+si38YoNYTanCVjed9HXSlVfm7nMLkA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dWJ3INMop8OR+si38YoNYTanCVjed9HXSlVfm7nMLkA="
+    }
+  },
+  "version": "0.36.0 F-Droid"
+}

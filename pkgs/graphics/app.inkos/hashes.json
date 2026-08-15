@@ -1,0 +1,18 @@
+{
+  "apkName": "app.inkos_101013.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jglpgnmoV2UbOFkDFZUutsS9ZFH33SL/T3oYk9g6BR8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jglpgnmoV2UbOFkDFZUutsS9ZFH33SL/T3oYk9g6BR8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jglpgnmoV2UbOFkDFZUutsS9ZFH33SL/T3oYk9g6BR8="
+    }
+  },
+  "version": "0.6"
+}

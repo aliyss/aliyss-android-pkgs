@@ -1,0 +1,18 @@
+{
+  "apkName": "com.eightsines.firestrike.opensource_2000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZkZ/rafFFJ5Z/b/Ju5SJLlC2HBNDvdGLNR1ISIfKynk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZkZ/rafFFJ5Z/b/Ju5SJLlC2HBNDvdGLNR1ISIfKynk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZkZ/rafFFJ5Z/b/Ju5SJLlC2HBNDvdGLNR1ISIfKynk="
+    }
+  },
+  "version": "2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "tk.zwander.lockscreenwidgets_212.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5p5vbcIAAy2qgejunzLGHhN0zQljylVEWLuqcfX6HSs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5p5vbcIAAy2qgejunzLGHhN0zQljylVEWLuqcfX6HSs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5p5vbcIAAy2qgejunzLGHhN0zQljylVEWLuqcfX6HSs="
+    }
+  },
+  "version": "4.4.1"
+}

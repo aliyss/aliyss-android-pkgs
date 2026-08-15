@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pixelpen.whereitwent.stable_30000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m81NvEzolmDRnGmYrnfiylgytT01IRL8T52cVAktfnM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m81NvEzolmDRnGmYrnfiylgytT01IRL8T52cVAktfnM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m81NvEzolmDRnGmYrnfiylgytT01IRL8T52cVAktfnM="
+    }
+  },
+  "version": "3.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "lsposed.orange_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-masfO8cBZtOiF67qmiut0U1iupo9e9MfeXpOVWiUL3E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-masfO8cBZtOiF67qmiut0U1iupo9e9MfeXpOVWiUL3E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-masfO8cBZtOiF67qmiut0U1iupo9e9MfeXpOVWiUL3E="
+    }
+  },
+  "version": "1.1.0"
+}

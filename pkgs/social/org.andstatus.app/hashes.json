@@ -1,0 +1,18 @@
+{
+  "apkName": "org.andstatus.app_370.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-j6aBRGI+FvxyscGHp5jCW+F4Rqwoq1+sWcE7IxYHnEw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-j6aBRGI+FvxyscGHp5jCW+F4Rqwoq1+sWcE7IxYHnEw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-j6aBRGI+FvxyscGHp5jCW+F4Rqwoq1+sWcE7IxYHnEw="
+    }
+  },
+  "version": "62.03"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.concept1tech.instalate",
+  "signerFingerprints": [
+    "68:14:0C:A9:EC:80:36:E7:79:97:C3:0C:2A:46:99:77:46:64:10:5F:E1:14:FC:7B:A0:C2:2A:BB:26:E9:E0:AA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

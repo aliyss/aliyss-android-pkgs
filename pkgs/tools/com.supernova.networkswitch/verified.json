@@ -1,0 +1,8 @@
+{
+  "package": "com.supernova.networkswitch",
+  "signerFingerprints": [
+    "0A:7D:D8:E3:0F:F8:B9:18:4E:8B:5D:F3:F4:3F:DC:50:55:B4:DC:36:54:4F:10:01:34:E7:10:2D:4D:82:5F:3A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

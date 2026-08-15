@@ -1,0 +1,8 @@
+{
+  "package": "com.nospeak.app",
+  "signerFingerprints": [
+    "48:CA:30:A0:8C:61:64:7A:38:ED:A8:6D:9E:8F:CD:01:DD:B9:0C:6B:00:D5:BF:EE:5D:2B:81:73:0A:7E:0D:7E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

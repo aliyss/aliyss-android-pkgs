@@ -1,0 +1,8 @@
+{
+  "package": "com.dosse.dozeoff",
+  "signerFingerprints": [
+    "54:D1:27:1B:8D:4E:60:3C:80:B6:E1:6D:C9:1C:C7:C1:27:64:03:E0:9F:36:78:FC:9E:28:21:A1:1C:EF:82:BE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

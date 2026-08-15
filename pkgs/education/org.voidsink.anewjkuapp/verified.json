@@ -1,0 +1,8 @@
+{
+  "package": "org.voidsink.anewjkuapp",
+  "signerFingerprints": [
+    "FB:E7:B0:24:FF:9C:7B:23:D8:52:10:66:83:CD:93:5D:3B:CF:73:2F:9C:79:7C:04:5B:02:78:3D:DA:FC:C1:15"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

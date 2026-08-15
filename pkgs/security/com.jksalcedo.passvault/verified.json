@@ -1,0 +1,8 @@
+{
+  "package": "com.jksalcedo.passvault",
+  "signerFingerprints": [
+    "D7:2B:C5:2C:B7:98:7B:13:68:36:97:0E:B4:97:70:26:14:BA:F6:61:21:AC:17:BB:2E:94:A1:4F:A3:8F:AB:5A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

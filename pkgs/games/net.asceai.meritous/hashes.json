@@ -1,0 +1,18 @@
+{
+  "apkName": "net.asceai.meritous_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+uyyJPQeqinxlP8vsPF8LSAp8NWUrTbXk2STQ5/GCiE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+uyyJPQeqinxlP8vsPF8LSAp8NWUrTbXk2STQ5/GCiE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+uyyJPQeqinxlP8vsPF8LSAp8NWUrTbXk2STQ5/GCiE="
+    }
+  },
+  "version": "0.0.4"
+}

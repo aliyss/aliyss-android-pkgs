@@ -1,0 +1,18 @@
+{
+  "apkName": "net.sourceforge.wifiremoteplay_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-06V6hAOtLoOg9jdzfyh6vx12Tm8KxyINqDshFWKCuZQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-06V6hAOtLoOg9jdzfyh6vx12Tm8KxyINqDshFWKCuZQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-06V6hAOtLoOg9jdzfyh6vx12Tm8KxyINqDshFWKCuZQ="
+    }
+  },
+  "version": "1.13"
+}

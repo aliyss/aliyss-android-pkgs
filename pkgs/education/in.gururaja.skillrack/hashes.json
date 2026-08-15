@@ -1,0 +1,18 @@
+{
+  "apkName": "in.gururaja.skillrack_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ID99WLCS7QPVzD87NJOfDhud0bgNWydKunojGURxAgo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ID99WLCS7QPVzD87NJOfDhud0bgNWydKunojGURxAgo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ID99WLCS7QPVzD87NJOfDhud0bgNWydKunojGURxAgo="
+    }
+  },
+  "version": "1.0.8"
+}

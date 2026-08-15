@@ -1,0 +1,18 @@
+{
+  "apkName": "pl.lambada.songsync_433.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-83IRjA7RfLLLHV5eJfzvZBRPWo0ebDrdjpuFngC+YbA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-83IRjA7RfLLLHV5eJfzvZBRPWo0ebDrdjpuFngC+YbA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-83IRjA7RfLLLHV5eJfzvZBRPWo0ebDrdjpuFngC+YbA="
+    }
+  },
+  "version": "4.3.3"
+}

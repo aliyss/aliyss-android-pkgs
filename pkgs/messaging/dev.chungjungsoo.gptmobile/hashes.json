@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.chungjungsoo.gptmobile_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zHC7DkA+zhJhHZXVq71Y+nnhHyVi3cNlh85/iZll890="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zHC7DkA+zhJhHZXVq71Y+nnhHyVi3cNlh85/iZll890="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zHC7DkA+zhJhHZXVq71Y+nnhHyVi3cNlh85/iZll890="
+    }
+  },
+  "version": "0.7.6"
+}

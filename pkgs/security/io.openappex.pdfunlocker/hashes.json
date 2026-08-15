@@ -1,0 +1,18 @@
+{
+  "apkName": "io.openappex.pdfunlocker_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GfU+5q2j4oo6ZRbbCzCQohZvQbFxt24vC6R29Ikpxd8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GfU+5q2j4oo6ZRbbCzCQohZvQbFxt24vC6R29Ikpxd8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GfU+5q2j4oo6ZRbbCzCQohZvQbFxt24vC6R29Ikpxd8="
+    }
+  },
+  "version": "1.0"
+}

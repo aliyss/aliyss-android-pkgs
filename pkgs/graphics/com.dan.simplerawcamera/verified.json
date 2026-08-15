@@ -1,0 +1,8 @@
+{
+  "package": "com.dan.simplerawcamera",
+  "signerFingerprints": [
+    "A4:64:DB:93:ED:CD:24:29:85:C4:62:C4:72:9D:AD:27:DC:4C:E4:0D:A5:B4:7A:FE:52:1D:CA:87:30:E6:DD:FD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

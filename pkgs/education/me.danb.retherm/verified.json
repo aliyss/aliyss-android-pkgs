@@ -1,0 +1,8 @@
+{
+  "package": "me.danb.retherm",
+  "signerFingerprints": [
+    "62:B2:8E:48:E8:C1:2A:FE:02:06:18:EA:4B:0C:10:C9:56:75:40:04:9B:25:56:E6:E8:FD:C9:63:D6:8A:20:0C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "su.xash.husky_204.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vkR26RwB2QNNpn7SPY74E+HjoZS7ci5E3aX5UCILR0Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vkR26RwB2QNNpn7SPY74E+HjoZS7ci5E3aX5UCILR0Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vkR26RwB2QNNpn7SPY74E+HjoZS7ci5E3aX5UCILR0Y="
+    }
+  },
+  "version": "1.6.1"
+}

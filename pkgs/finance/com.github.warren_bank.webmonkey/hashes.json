@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.webmonkey_4130211.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GgdzIFmvosylqEh3mRh4NpKVOLpe42xqLCRvVtF96Uw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GgdzIFmvosylqEh3mRh4NpKVOLpe42xqLCRvVtF96Uw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GgdzIFmvosylqEh3mRh4NpKVOLpe42xqLCRvVtF96Uw="
+    }
+  },
+  "version": "004.13.02-11API"
+}

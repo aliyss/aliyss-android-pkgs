@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pierreduchemin.smsforward_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s0KICqMCxzQHd2BA+2igu4vS2X4QL9uf+hK72Aw6FOQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s0KICqMCxzQHd2BA+2igu4vS2X4QL9uf+hK72Aw6FOQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s0KICqMCxzQHd2BA+2igu4vS2X4QL9uf+hK72Aw6FOQ="
+    }
+  },
+  "version": "1.7.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.schildbach.oeffi_140008.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-soHKa1jwq6d6d2HR0LO8FY4h9pVvU0rbjjFov7W/YSw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-soHKa1jwq6d6d2HR0LO8FY4h9pVvU0rbjjFov7W/YSw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-soHKa1jwq6d6d2HR0LO8FY4h9pVvU0rbjjFov7W/YSw="
+    }
+  },
+  "version": "14.0.8"
+}

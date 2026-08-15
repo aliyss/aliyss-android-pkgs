@@ -1,0 +1,18 @@
+{
+  "apkName": "org.disroot.disrootapp_37.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-L3gakuFrah0411HvGyTPjMA+jdFC+K/Gif8YjCkoSPs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-L3gakuFrah0411HvGyTPjMA+jdFC+K/Gif8YjCkoSPs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-L3gakuFrah0411HvGyTPjMA+jdFC+K/Gif8YjCkoSPs="
+    }
+  },
+  "version": "2.2.2"
+}

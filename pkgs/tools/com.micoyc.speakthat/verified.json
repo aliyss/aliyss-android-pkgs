@@ -1,0 +1,8 @@
+{
+  "package": "com.micoyc.speakthat",
+  "signerFingerprints": [
+    "AE:6E:4F:B4:4C:09:E1:4D:BD:FA:EA:B8:26:82:31:2C:8A:06:9E:58:7A:54:A6:44:80:88:63:B3:58:4C:C4:F0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

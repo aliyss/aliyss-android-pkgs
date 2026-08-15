@@ -1,0 +1,8 @@
+{
+  "package": "com.ericlowry.dnstoggle",
+  "signerFingerprints": [
+    "A2:FC:0A:D3:19:58:32:9B:9D:F0:9F:CA:B9:E6:18:FF:67:F2:3B:EE:0B:46:26:7C:63:2A:C9:7F:96:00:F2:83"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

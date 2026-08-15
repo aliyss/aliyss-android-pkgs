@@ -1,0 +1,18 @@
+{
+  "apkName": "com.martinmimigames.littlemusicplayer_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DY8z+2+Y5tSZYSCEim9jY7At+O8B4bHATJgkVJSKO6I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DY8z+2+Y5tSZYSCEim9jY7At+O8B4bHATJgkVJSKO6I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DY8z+2+Y5tSZYSCEim9jY7At+O8B4bHATJgkVJSKO6I="
+    }
+  },
+  "version": "2.13"
+}

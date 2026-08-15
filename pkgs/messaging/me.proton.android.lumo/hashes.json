@@ -1,0 +1,18 @@
+{
+  "apkName": "me.proton.android.lumo_50.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sWF2A4FSL/xhklyJeNYzqWRKahS4xfOR3ZBGElHsXV8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sWF2A4FSL/xhklyJeNYzqWRKahS4xfOR3ZBGElHsXV8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sWF2A4FSL/xhklyJeNYzqWRKahS4xfOR3ZBGElHsXV8="
+    }
+  },
+  "version": "1.2.18-nogms"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.nemeyes.ncarousel_1108.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DA9qJYjFw7zs51AWzTzc2cEzzv1Dpc9ZdEXVVxJ4kvU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DA9qJYjFw7zs51AWzTzc2cEzzv1Dpc9ZdEXVVxJ4kvU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DA9qJYjFw7zs51AWzTzc2cEzzv1Dpc9ZdEXVVxJ4kvU="
+    }
+  },
+  "version": "0.2.54"
+}

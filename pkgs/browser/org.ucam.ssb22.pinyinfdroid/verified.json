@@ -1,0 +1,8 @@
+{
+  "package": "org.ucam.ssb22.pinyinfdroid",
+  "signerFingerprints": [
+    "53:A4:49:F3:ED:83:4B:AE:B2:68:15:AE:AF:60:8C:09:86:21:88:3B:56:A3:F6:23:C4:95:C0:1B:EE:CE:5F:35"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

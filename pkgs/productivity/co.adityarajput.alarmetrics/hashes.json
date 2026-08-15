@@ -1,0 +1,18 @@
+{
+  "apkName": "co.adityarajput.alarmetrics_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GzH6/sJ+I8bG2TZCrHFTKLavHuxnBfCm/zOOzodw0Kc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GzH6/sJ+I8bG2TZCrHFTKLavHuxnBfCm/zOOzodw0Kc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GzH6/sJ+I8bG2TZCrHFTKLavHuxnBfCm/zOOzodw0Kc="
+    }
+  },
+  "version": "2.5.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "ir.erfansn.siliconecalculator",
+  "signerFingerprints": [
+    "68:01:40:0A:FE:A8:4A:5C:2F:10:37:3C:6C:B0:89:96:BB:E1:95:D4:A6:CD:F0:CC:E5:BB:62:FA:36:7C:34:78"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

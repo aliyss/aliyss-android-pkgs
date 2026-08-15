@@ -1,0 +1,8 @@
+{
+  "package": "com.serranoie.app.minus",
+  "signerFingerprints": [
+    "D4:D4:12:00:A0:45:57:88:36:9E:34:5D:23:62:7A:AD:4C:67:20:25:60:3B:39:F1:58:BE:84:D1:52:21:ED:82"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

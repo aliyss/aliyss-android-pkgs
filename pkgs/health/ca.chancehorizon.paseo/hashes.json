@@ -1,0 +1,18 @@
+{
+  "apkName": "ca.chancehorizon.paseo_10801.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0UCF6KfbQFyENIgTYoxHd1Jei0hhD9okFF2p2fgoYgM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0UCF6KfbQFyENIgTYoxHd1Jei0hhD9okFF2p2fgoYgM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0UCF6KfbQFyENIgTYoxHd1Jei0hhD9okFF2p2fgoYgM="
+    }
+  },
+  "version": "1.8.1"
+}

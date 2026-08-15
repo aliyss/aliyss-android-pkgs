@@ -1,0 +1,18 @@
+{
+  "apkName": "com.richardluo.globalIconPack_511.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-676jV/Peb367ZWWhUY7Lc1JiQ+1WsEZIID7BnoMkL4g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-676jV/Peb367ZWWhUY7Lc1JiQ+1WsEZIID7BnoMkL4g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-676jV/Peb367ZWWhUY7Lc1JiQ+1WsEZIID7BnoMkL4g="
+    }
+  },
+  "version": "0.5.11"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.legandy.enigmabridge",
+  "signerFingerprints": [
+    "9B:D7:88:7E:96:82:CF:66:29:9D:0C:6C:53:5B:41:5C:98:D0:F7:62:9C:86:E8:74:93:20:BC:CF:9C:72:A9:4C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

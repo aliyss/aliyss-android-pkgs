@@ -1,0 +1,18 @@
+{
+  "apkName": "de.westnordost.luftlinie_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bOm+1DgOeo34gIIRTfWz45QvdJk8XxRG3brGfAFjIv4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bOm+1DgOeo34gIIRTfWz45QvdJk8XxRG3brGfAFjIv4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bOm+1DgOeo34gIIRTfWz45QvdJk8XxRG3brGfAFjIv4="
+    }
+  },
+  "version": "1.8"
+}

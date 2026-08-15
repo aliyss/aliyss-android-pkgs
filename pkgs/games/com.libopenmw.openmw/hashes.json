@@ -1,0 +1,18 @@
+{
+  "apkName": "com.libopenmw.openmw_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mcFzOb/qrBOfLMxl1hiyZjt7/hi9rHLSh4cP6a7eH34="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mcFzOb/qrBOfLMxl1hiyZjt7/hi9rHLSh4cP6a7eH34="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mcFzOb/qrBOfLMxl1hiyZjt7/hi9rHLSh4cP6a7eH34="
+    }
+  },
+  "version": "0.46.0"
+}

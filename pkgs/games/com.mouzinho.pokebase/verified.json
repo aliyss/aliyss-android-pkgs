@@ -1,0 +1,8 @@
+{
+  "package": "com.mouzinho.pokebase",
+  "signerFingerprints": [
+    "9B:C4:FD:31:BF:3B:F8:74:46:60:8A:D1:8D:0D:44:A3:52:BA:67:0C:DE:21:58:64:EC:5A:82:84:93:94:40:9D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

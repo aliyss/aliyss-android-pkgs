@@ -1,0 +1,8 @@
+{
+  "package": "xyz.sommd.automute",
+  "signerFingerprints": [
+    "52:39:A0:71:F0:35:14:CB:14:6B:D1:EF:11:16:8D:C8:14:20:5B:AB:6E:08:8A:79:5F:F1:C1:2C:7C:07:1F:A6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

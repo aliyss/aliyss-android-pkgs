@@ -1,0 +1,18 @@
+{
+  "apkName": "cz.martykan.forecastie_75.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-R7o4Fg3omdpW5XfzPvhItBgzv2rJRS2bdoL1y5wYgSk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R7o4Fg3omdpW5XfzPvhItBgzv2rJRS2bdoL1y5wYgSk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R7o4Fg3omdpW5XfzPvhItBgzv2rJRS2bdoL1y5wYgSk="
+    }
+  },
+  "version": "1.23"
+}

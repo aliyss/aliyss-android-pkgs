@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tunerly_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-h71ecaoi5e30zhUwbnFznBfoWT/R4yI75A86ICYYgys="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h71ecaoi5e30zhUwbnFznBfoWT/R4yI75A86ICYYgys="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-h71ecaoi5e30zhUwbnFznBfoWT/R4yI75A86ICYYgys="
+    }
+  },
+  "version": "1.0.7"
+}

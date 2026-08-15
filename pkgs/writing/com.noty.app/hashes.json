@@ -1,0 +1,18 @@
+{
+  "apkName": "com.noty.app_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NQegNeWArSCa82q/qYXKeTVieQb61BysrWGcOFeUmWA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NQegNeWArSCa82q/qYXKeTVieQb61BysrWGcOFeUmWA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NQegNeWArSCa82q/qYXKeTVieQb61BysrWGcOFeUmWA="
+    }
+  },
+  "version": "1.0.2"
+}

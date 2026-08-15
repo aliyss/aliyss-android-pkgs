@@ -1,0 +1,18 @@
+{
+  "apkName": "ahmaabdo.readify.rss_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aHBUBSte1hRmmoU4/0ImYB5V1M1kfZABB8+da+D4qF8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aHBUBSte1hRmmoU4/0ImYB5V1M1kfZABB8+da+D4qF8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aHBUBSte1hRmmoU4/0ImYB5V1M1kfZABB8+da+D4qF8="
+    }
+  },
+  "version": "1.5.4"
+}

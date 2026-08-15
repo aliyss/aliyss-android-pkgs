@@ -1,0 +1,18 @@
+{
+  "apkName": "com.evanh.qlc_controller_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bUyVoKPv1PGI5vriUZuJnekZLDQ6ccdwucPbRlOs1vc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bUyVoKPv1PGI5vriUZuJnekZLDQ6ccdwucPbRlOs1vc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bUyVoKPv1PGI5vriUZuJnekZLDQ6ccdwucPbRlOs1vc="
+    }
+  },
+  "version": "1.3"
+}

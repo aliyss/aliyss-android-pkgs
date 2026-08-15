@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.mempal_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0bY1R2TFBNuYY4HJ6cdlJxjBLcBresSb9kbzoTwrAyc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0bY1R2TFBNuYY4HJ6cdlJxjBLcBresSb9kbzoTwrAyc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0bY1R2TFBNuYY4HJ6cdlJxjBLcBresSb9kbzoTwrAyc="
+    }
+  },
+  "version": "2.0"
+}

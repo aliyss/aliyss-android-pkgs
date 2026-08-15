@@ -1,0 +1,18 @@
+{
+  "apkName": "com.armanmaurya.archiv_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6muPsMqfuipqEwQIBl6eU0tfPQuJAplIoqfspS/gUxI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6muPsMqfuipqEwQIBl6eU0tfPQuJAplIoqfspS/gUxI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6muPsMqfuipqEwQIBl6eU0tfPQuJAplIoqfspS/gUxI="
+    }
+  },
+  "version": "0.2.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.ocsinventoryng.android.agent",
+  "signerFingerprints": [
+    "78:57:FF:E1:51:F3:6D:FD:72:1D:D7:5F:D5:37:92:D4:66:94:6A:92:75:84:5D:F6:F4:5C:30:12:FA:C9:22:C0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

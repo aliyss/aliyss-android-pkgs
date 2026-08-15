@@ -1,0 +1,8 @@
+{
+  "package": "com.froxot.cuscon.foss",
+  "signerFingerprints": [
+    "D5:38:9D:12:20:7A:BB:57:5D:B0:74:D7:D0:07:98:32:8A:A3:28:FA:8A:1D:25:D1:22:34:E3:54:AD:AE:15:14"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

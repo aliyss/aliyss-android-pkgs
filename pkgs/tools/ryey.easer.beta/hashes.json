@@ -1,0 +1,18 @@
+{
+  "apkName": "ryey.easer.beta_129003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RkOWe/gVHAZbQQ3VeKt2+EyDN5AbZuM01JyIgI6G3bk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RkOWe/gVHAZbQQ3VeKt2+EyDN5AbZuM01JyIgI6G3bk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RkOWe/gVHAZbQQ3VeKt2+EyDN5AbZuM01JyIgI6G3bk="
+    }
+  },
+  "version": "0.8.3-beta3"
+}

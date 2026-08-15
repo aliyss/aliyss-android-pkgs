@@ -1,0 +1,18 @@
+{
+  "apkName": "de.sesu8642.feudaltactics_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qHQiRsieIAw8qHzRo54Lpdx1SZQNcurekLGyqwz/5Io="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qHQiRsieIAw8qHzRo54Lpdx1SZQNcurekLGyqwz/5Io="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qHQiRsieIAw8qHzRo54Lpdx1SZQNcurekLGyqwz/5Io="
+    }
+  },
+  "version": "1.5.2"
+}

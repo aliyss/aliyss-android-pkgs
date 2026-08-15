@@ -1,0 +1,8 @@
+{
+  "package": "dev.danielc.fujiapp",
+  "signerFingerprints": [
+    "59:95:C8:7F:0B:A4:3A:21:D1:4F:71:55:98:EB:71:6F:39:99:51:A9:A3:F4:E7:AF:62:A8:9C:3A:DB:9F:5E:17"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.menny.anysoftkeyboard.finnish_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ufj+X+Xs+X4mWSuQiLRqOWrg0VISwUouGqHmFrOl41Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ufj+X+Xs+X4mWSuQiLRqOWrg0VISwUouGqHmFrOl41Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ufj+X+Xs+X4mWSuQiLRqOWrg0VISwUouGqHmFrOl41Y="
+    }
+  },
+  "version": "5.1.6158"
+}

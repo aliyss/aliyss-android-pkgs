@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.ac_versailles.dane.xiaexpress_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0YUF3UgxoJnfSu8rF3kHj7R67ksZffme1LGp5GO3qD4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0YUF3UgxoJnfSu8rF3kHj7R67ksZffme1LGp5GO3qD4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0YUF3UgxoJnfSu8rF3kHj7R67ksZffme1LGp5GO3qD4="
+    }
+  },
+  "version": "1.1"
+}

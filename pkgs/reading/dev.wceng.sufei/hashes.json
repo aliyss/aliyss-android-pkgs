@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.wceng.sufei_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Mc+sLg7KZB0h1yQDK8hkMdn8trpLsRB4h1lDKxsmgGI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mc+sLg7KZB0h1yQDK8hkMdn8trpLsRB4h1lDKxsmgGI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Mc+sLg7KZB0h1yQDK8hkMdn8trpLsRB4h1lDKxsmgGI="
+    }
+  },
+  "version": "1.6.1"
+}

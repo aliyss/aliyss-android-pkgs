@@ -1,0 +1,18 @@
+{
+  "apkName": "org.herrlado.ask.languagepack.slovak_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nkW3RxxUvcuBAW9Qi/9RTTGMBBQRFyeeEYgskfT9pnI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nkW3RxxUvcuBAW9Qi/9RTTGMBBQRFyeeEYgskfT9pnI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nkW3RxxUvcuBAW9Qi/9RTTGMBBQRFyeeEYgskfT9pnI="
+    }
+  },
+  "version": "5.1.6158"
+}

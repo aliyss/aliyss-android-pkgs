@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.dfdx.jslab_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PbXyFly3et5qyMIfNxYTkGIVxDe3RRfvnAKsL8Cq980="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PbXyFly3et5qyMIfNxYTkGIVxDe3RRfvnAKsL8Cq980="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PbXyFly3et5qyMIfNxYTkGIVxDe3RRfvnAKsL8Cq980="
+    }
+  },
+  "version": "1.0"
+}

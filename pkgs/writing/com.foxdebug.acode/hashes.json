@@ -1,0 +1,18 @@
+{
+  "apkName": "com.foxdebug.acode_1005.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IErHoeYlh8izOjK34k455+eaDWoi+0HTj8g95jeOYKU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IErHoeYlh8izOjK34k455+eaDWoi+0HTj8g95jeOYKU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IErHoeYlh8izOjK34k455+eaDWoi+0HTj8g95jeOYKU="
+    }
+  },
+  "version": "1.12.9"
+}

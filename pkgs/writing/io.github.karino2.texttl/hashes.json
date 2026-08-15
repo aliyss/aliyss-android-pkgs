@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.karino2.texttl_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RMwEUlWdO0+iCCUejNul00dqMjyEIJ7/eJxW0uHIGcw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RMwEUlWdO0+iCCUejNul00dqMjyEIJ7/eJxW0uHIGcw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RMwEUlWdO0+iCCUejNul00dqMjyEIJ7/eJxW0uHIGcw="
+    }
+  },
+  "version": "1.0"
+}

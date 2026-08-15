@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lavabit.pahoehoe_202.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cA0M3FPuoyHPstolygFwe6mlCNNUGeoId9UgFIpvuQY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cA0M3FPuoyHPstolygFwe6mlCNNUGeoId9UgFIpvuQY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cA0M3FPuoyHPstolygFwe6mlCNNUGeoId9UgFIpvuQY="
+    }
+  },
+  "version": "1.0.2"
+}

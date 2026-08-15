@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.philei.ddnsupdater_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8qV5DOYTHxVwlbRqdKMNBCHES4IV9dfTK5H4S96IqhU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8qV5DOYTHxVwlbRqdKMNBCHES4IV9dfTK5H4S96IqhU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8qV5DOYTHxVwlbRqdKMNBCHES4IV9dfTK5H4S96IqhU="
+    }
+  },
+  "version": "0.6.0"
+}

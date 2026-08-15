@@ -1,0 +1,18 @@
+{
+  "apkName": "com.saiga.find.messagefinder_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PNfhZznDXIqGYosAC+ub0/Q2nXHsA8otsCW+RC7uWZY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PNfhZznDXIqGYosAC+ub0/Q2nXHsA8otsCW+RC7uWZY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PNfhZznDXIqGYosAC+ub0/Q2nXHsA8otsCW+RC7uWZY="
+    }
+  },
+  "version": "2.9.8"
+}

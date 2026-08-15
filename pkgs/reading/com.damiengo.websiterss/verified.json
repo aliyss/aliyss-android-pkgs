@@ -1,0 +1,8 @@
+{
+  "package": "com.damiengo.websiterss",
+  "signerFingerprints": [
+    "C7:1F:F0:51:17:A7:73:38:26:8F:01:46:90:0C:BD:5F:27:A5:C8:2A:71:50:AB:5E:35:A4:E8:87:F9:00:4F:BF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

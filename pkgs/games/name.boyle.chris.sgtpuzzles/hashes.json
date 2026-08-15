@@ -1,0 +1,18 @@
+{
+  "apkName": "name.boyle.chris.sgtpuzzles_149.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-azbVU3mEUjxXmEp4QVbrhTqSyUD97Shkg2h0hPPWUuQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-azbVU3mEUjxXmEp4QVbrhTqSyUD97Shkg2h0hPPWUuQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-azbVU3mEUjxXmEp4QVbrhTqSyUD97Shkg2h0hPPWUuQ="
+    }
+  },
+  "version": "2025-09-12-1919-23762278-fdroid"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.strawberryforum.argentum",
+  "signerFingerprints": [
+    "16:DD:5B:D9:13:82:20:13:DB:46:DC:4A:5B:5D:FB:36:24:08:E8:A2:50:9B:FC:78:5B:72:C0:E5:16:E6:81:43"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

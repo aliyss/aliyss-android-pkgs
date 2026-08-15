@@ -1,0 +1,8 @@
+{
+  "package": "com.nononsenseapps.wanidoku",
+  "signerFingerprints": [
+    "5E:16:D1:E9:70:D7:25:41:36:6B:44:FF:06:16:D7:9D:FC:90:D0:95:D8:44:B5:0C:42:A4:24:5C:B8:1E:10:85"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.grocerymanager_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Y9mBpbhkwijVpuYYnKg1t5I7Cv5EKnQtVaz0FCzw9XM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y9mBpbhkwijVpuYYnKg1t5I7Cv5EKnQtVaz0FCzw9XM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y9mBpbhkwijVpuYYnKg1t5I7Cv5EKnQtVaz0FCzw9XM="
+    }
+  },
+  "version": "1.0"
+}

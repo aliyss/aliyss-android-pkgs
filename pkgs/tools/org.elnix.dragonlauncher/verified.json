@@ -1,0 +1,8 @@
+{
+  "package": "org.elnix.dragonlauncher",
+  "signerFingerprints": [
+    "63:06:8D:94:E0:1E:EA:E5:0E:FC:B2:A0:C4:3D:FA:8A:C5:03:A4:21:CD:EA:F3:53:D4:5B:69:AB:93:3C:0A:06"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

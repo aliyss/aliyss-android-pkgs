@@ -1,0 +1,8 @@
+{
+  "package": "com.personx.cryptx",
+  "signerFingerprints": [
+    "2A:CB:C0:AE:29:D5:C5:78:82:E5:88:3E:22:B8:F6:16:93:F4:CF:F3:23:B4:2C:79:C5:49:A2:5F:A7:96:2A:2B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

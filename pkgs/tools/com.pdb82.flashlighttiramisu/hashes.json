@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pdb82.flashlighttiramisu_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LT5Mzghxnsy6ElHNk1fcUY5KDiHNdh1eB22Slld/iho="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LT5Mzghxnsy6ElHNk1fcUY5KDiHNdh1eB22Slld/iho="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LT5Mzghxnsy6ElHNk1fcUY5KDiHNdh1eB22Slld/iho="
+    }
+  },
+  "version": "2.0"
+}

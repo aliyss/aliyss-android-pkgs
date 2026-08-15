@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.mkalmousli.floating_volume_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gWnAQ3PJVZPZRSGPIFpMSskMWNDnGXEPQq+94Syp3W8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gWnAQ3PJVZPZRSGPIFpMSskMWNDnGXEPQq+94Syp3W8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gWnAQ3PJVZPZRSGPIFpMSskMWNDnGXEPQq+94Syp3W8="
+    }
+  },
+  "version": "0.0.3"
+}

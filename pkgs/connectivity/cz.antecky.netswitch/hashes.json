@@ -1,0 +1,18 @@
+{
+  "apkName": "cz.antecky.netswitch_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cJ0mfVs6VZmN54ty0zqzNeTXqvc2i/x5YmeAjbGIubI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cJ0mfVs6VZmN54ty0zqzNeTXqvc2i/x5YmeAjbGIubI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cJ0mfVs6VZmN54ty0zqzNeTXqvc2i/x5YmeAjbGIubI="
+    }
+  },
+  "version": "1.4"
+}

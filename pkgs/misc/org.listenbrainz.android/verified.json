@@ -1,0 +1,8 @@
+{
+  "package": "org.listenbrainz.android",
+  "signerFingerprints": [
+    "51:B0:14:11:17:BF:7F:8C:C8:94:6C:89:E6:16:9E:23:A5:FB:2A:74:05:A3:39:0A:E5:57:61:19:60:8B:4E:24"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

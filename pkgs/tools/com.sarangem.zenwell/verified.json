@@ -1,0 +1,8 @@
+{
+  "package": "com.sarangem.zenwell",
+  "signerFingerprints": [
+    "1D:9E:C2:97:3D:35:E4:64:07:65:8A:FE:0B:00:B4:34:C6:35:B5:B0:5E:7A:9A:9E:08:67:A2:F8:8A:45:17:D0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

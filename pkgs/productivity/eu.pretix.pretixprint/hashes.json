@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.pretix.pretixprint_84.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-v2fg14uo0YRZzej8U3KPg9s6QwRyM8ZyRogKq2ZzbKI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v2fg14uo0YRZzej8U3KPg9s6QwRyM8ZyRogKq2ZzbKI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-v2fg14uo0YRZzej8U3KPg9s6QwRyM8ZyRogKq2ZzbKI="
+    }
+  },
+  "version": "2.23.0-foss"
+}

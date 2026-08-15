@@ -1,0 +1,18 @@
+{
+  "apkName": "it.niedermann.nextcloud.deck_1026002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-G4STNTswZjLlWGcE56PJDt+tq9jdZNBk3J/ujeD/fgM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G4STNTswZjLlWGcE56PJDt+tq9jdZNBk3J/ujeD/fgM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G4STNTswZjLlWGcE56PJDt+tq9jdZNBk3J/ujeD/fgM="
+    }
+  },
+  "version": "1.26.2"
+}

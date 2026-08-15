@@ -1,0 +1,8 @@
+{
+  "package": "com.mua.unmukto",
+  "signerFingerprints": [
+    "8A:AB:43:FF:A4:FF:7C:8D:58:C8:98:8C:EE:1E:0A:B3:D5:19:B0:36:16:64:55:F4:D7:E2:C2:64:9E:56:D8:D8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

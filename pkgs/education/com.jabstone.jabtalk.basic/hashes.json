@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jabstone.jabtalk.basic_532.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-abb7UTpyCvUFjJ4ydgSqeTj/0tvUPC4PllM/8jYyB6I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-abb7UTpyCvUFjJ4ydgSqeTj/0tvUPC4PllM/8jYyB6I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-abb7UTpyCvUFjJ4ydgSqeTj/0tvUPC4PllM/8jYyB6I="
+    }
+  },
+  "version": "5.3.2"
+}

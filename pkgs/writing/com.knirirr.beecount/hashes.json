@@ -1,0 +1,18 @@
+{
+  "apkName": "com.knirirr.beecount_139.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7NZmvAMEuWvuVC9fxs1TIgladZPVk14f+SI16ytYjHE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7NZmvAMEuWvuVC9fxs1TIgladZPVk14f+SI16ytYjHE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7NZmvAMEuWvuVC9fxs1TIgladZPVk14f+SI16ytYjHE="
+    }
+  },
+  "version": "2.7.6"
+}

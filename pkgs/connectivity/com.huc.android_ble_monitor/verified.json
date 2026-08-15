@@ -1,0 +1,8 @@
+{
+  "package": "com.huc.android_ble_monitor",
+  "signerFingerprints": [
+    "2F:FB:9B:4E:F2:DB:62:CC:5E:40:89:C7:2A:C0:B5:D5:F6:44:CA:58:96:63:09:98:62:8C:A2:13:52:74:D1:1C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

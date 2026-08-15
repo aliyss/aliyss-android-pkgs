@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.droserasprout.lockscreencamera_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qW0UdABU/7hCvuguoX6nU7/8DA5OPBdBdqKx8U3bw88="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qW0UdABU/7hCvuguoX6nU7/8DA5OPBdBdqKx8U3bw88="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qW0UdABU/7hCvuguoX6nU7/8DA5OPBdBdqKx8U3bw88="
+    }
+  },
+  "version": "1.0.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "dev.aungkyawpaing.ccdroidx",
+  "signerFingerprints": [
+    "5B:7E:1D:C0:C4:B7:D2:9F:DF:64:15:E3:AF:0A:D5:0D:4F:BF:9E:4D:A5:5A:17:19:7A:88:CC:D1:CD:A2:3B:14"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

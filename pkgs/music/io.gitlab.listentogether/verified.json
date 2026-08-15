@@ -1,0 +1,8 @@
+{
+  "package": "io.gitlab.listentogether",
+  "signerFingerprints": [
+    "2C:4B:57:4A:C8:73:8A:6E:04:23:4E:99:9F:E1:E9:97:E5:90:75:1E:6A:D0:B1:DD:A1:03:2F:5F:0C:E5:ED:B2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

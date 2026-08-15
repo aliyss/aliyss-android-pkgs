@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.catalan_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-R6e9Fwbke8CPxWTYI3gZlKIeHLnn2CwONRVb/8llyKg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R6e9Fwbke8CPxWTYI3gZlKIeHLnn2CwONRVb/8llyKg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R6e9Fwbke8CPxWTYI3gZlKIeHLnn2CwONRVb/8llyKg="
+    }
+  },
+  "version": "5.1.6158"
+}

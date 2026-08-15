@@ -1,0 +1,18 @@
+{
+  "apkName": "nodo.crogers.exercisereminders_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KWQTYxFcpJ6euRvZam8A7vApwZxM5auvhiOG+DrZwWI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KWQTYxFcpJ6euRvZam8A7vApwZxM5auvhiOG+DrZwWI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KWQTYxFcpJ6euRvZam8A7vApwZxM5auvhiOG+DrZwWI="
+    }
+  },
+  "version": "1.7.4"
+}

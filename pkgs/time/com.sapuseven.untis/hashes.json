@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sapuseven.untis_29198884.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/OFSX8TzKLeJ5jHjmCMZAngN29OGnn9HDkpeJKR5v28="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/OFSX8TzKLeJ5jHjmCMZAngN29OGnn9HDkpeJKR5v28="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/OFSX8TzKLeJ5jHjmCMZAngN29OGnn9HDkpeJKR5v28="
+    }
+  },
+  "version": "5.0.0-beta04"
+}

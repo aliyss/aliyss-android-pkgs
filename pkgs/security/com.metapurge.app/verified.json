@@ -1,0 +1,8 @@
+{
+  "package": "com.metapurge.app",
+  "signerFingerprints": [
+    "0F:66:89:8B:C4:85:48:AC:D6:BD:50:45:3D:FC:57:6D:7A:C2:EF:C9:CC:68:30:F7:6D:65:B1:26:88:D9:0E:3A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

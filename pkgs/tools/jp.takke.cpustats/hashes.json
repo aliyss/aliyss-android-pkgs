@@ -1,0 +1,18 @@
+{
+  "apkName": "jp.takke.cpustats_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CE0uPdrwVg8KVMyTI0sMzJ2TF/gYIxpTlMa+CXfkZ6c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CE0uPdrwVg8KVMyTI0sMzJ2TF/gYIxpTlMa+CXfkZ6c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CE0uPdrwVg8KVMyTI0sMzJ2TF/gYIxpTlMa+CXfkZ6c="
+    }
+  },
+  "version": "3.0.1"
+}

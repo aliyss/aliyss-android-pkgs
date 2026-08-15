@@ -1,0 +1,18 @@
+{
+  "apkName": "com.app.missednotificationsreminder_2010605222.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DGQGuhGg6Izvw6PxON4g5u9C3wgLXu2kGkereCIJmkw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DGQGuhGg6Izvw6PxON4g5u9C3wgLXu2kGkereCIJmkw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DGQGuhGg6Izvw6PxON4g5u9C3wgLXu2kGkereCIJmkw="
+    }
+  },
+  "version": "1.6.5.2.22"
+}

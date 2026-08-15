@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.harisont.librery_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-32LKXYVneKkckIaces20l2vpO4Qw5oUEA4/AwnO9jZc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-32LKXYVneKkckIaces20l2vpO4Qw5oUEA4/AwnO9jZc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-32LKXYVneKkckIaces20l2vpO4Qw5oUEA4/AwnO9jZc="
+    }
+  },
+  "version": "3.0"
+}

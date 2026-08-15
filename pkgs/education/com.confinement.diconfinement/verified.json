@@ -1,0 +1,8 @@
+{
+  "package": "com.confinement.diconfinement",
+  "signerFingerprints": [
+    "DB:0D:9E:29:D5:14:46:F6:3C:8F:DD:87:D2:40:35:18:8C:F1:EB:37:C7:9C:27:F2:5B:D3:4C:7B:90:E5:26:02"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

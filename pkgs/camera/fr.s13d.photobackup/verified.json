@@ -1,0 +1,8 @@
+{
+  "package": "fr.s13d.photobackup",
+  "signerFingerprints": [
+    "60:5B:6F:79:3C:EA:38:9E:30:03:9E:67:51:97:38:A5:CB:B4:E0:77:0E:0D:93:E9:B0:5A:EF:E8:A3:10:85:5C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

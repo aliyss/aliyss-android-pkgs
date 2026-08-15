@@ -1,0 +1,8 @@
+{
+  "package": "com.colorata.wallman",
+  "signerFingerprints": [
+    "5D:A9:F8:84:1D:0B:F1:6B:CF:5D:EA:AC:A0:AB:D4:01:A0:F0:D4:BB:3E:D7:CA:68:B6:4E:1D:2F:89:6E:A4:1D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

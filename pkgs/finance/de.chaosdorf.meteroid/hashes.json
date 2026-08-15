@@ -1,0 +1,18 @@
+{
+  "apkName": "de.chaosdorf.meteroid_60.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NCvCH8rtMPJ+ynp2fuSzfB2Czz9VyYgKrxjVrFb7pnw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NCvCH8rtMPJ+ynp2fuSzfB2Czz9VyYgKrxjVrFb7pnw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NCvCH8rtMPJ+ynp2fuSzfB2Czz9VyYgKrxjVrFb7pnw="
+    }
+  },
+  "version": "2.15.2"
+}

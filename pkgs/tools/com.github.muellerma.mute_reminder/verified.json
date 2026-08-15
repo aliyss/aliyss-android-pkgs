@@ -1,0 +1,8 @@
+{
+  "package": "com.github.muellerma.mute_reminder",
+  "signerFingerprints": [
+    "01:D9:6F:EE:FF:61:89:2E:63:66:47:CD:D9:79:52:65:FA:AA:0C:EB:9B:48:59:90:C0:17:40:64:A6:52:AE:03"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

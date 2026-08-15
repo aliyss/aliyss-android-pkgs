@@ -1,0 +1,8 @@
+{
+  "package": "dev.ioanm.fissh",
+  "signerFingerprints": [
+    "23:AA:15:15:2D:E3:B3:AE:61:0E:27:35:67:BA:22:0F:5D:B3:D6:CD:FF:0F:EB:0A:27:5C:DF:9F:AC:D6:38:33"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

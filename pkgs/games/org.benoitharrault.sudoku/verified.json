@@ -1,0 +1,8 @@
+{
+  "package": "org.benoitharrault.sudoku",
+  "signerFingerprints": [
+    "F0:38:F9:7A:FC:BA:E1:D4:A9:35:A3:17:8C:F4:85:CA:5A:8A:CC:49:7C:EB:42:D5:5A:95:AB:2B:6F:67:49:CE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

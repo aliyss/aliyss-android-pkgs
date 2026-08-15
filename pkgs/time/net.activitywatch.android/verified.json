@@ -1,0 +1,8 @@
+{
+  "package": "net.activitywatch.android",
+  "signerFingerprints": [
+    "9B:95:8F:59:EE:D1:5E:24:55:49:50:D6:EE:8D:79:2B:19:48:1D:C6:29:F2:9C:26:3C:81:4B:EC:C0:43:48:44"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

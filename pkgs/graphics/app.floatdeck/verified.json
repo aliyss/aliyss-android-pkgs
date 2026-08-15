@@ -1,0 +1,8 @@
+{
+  "package": "app.floatdeck",
+  "signerFingerprints": [
+    "28:EA:89:1B:D0:AC:88:E7:6E:D8:4C:2A:BD:29:91:94:B8:9F:0A:2F:57:1C:1B:20:A0:FA:F6:72:E6:03:8C:48"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "ca.chancehorizon.paseo",
+  "signerFingerprints": [
+    "1E:A1:27:C9:4E:1F:05:F4:87:14:F7:EF:90:F4:3F:F8:B8:67:C7:4F:1A:E0:E8:7A:A0:0A:59:7A:FD:78:DD:3A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

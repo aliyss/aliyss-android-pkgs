@@ -1,0 +1,8 @@
+{
+  "package": "my.noveldokusha",
+  "signerFingerprints": [
+    "11:3E:D4:E1:8B:44:9A:2A:B0:17:E7:32:1E:C2:DE:83:4F:F7:CE:88:A6:95:5E:9F:AF:F4:04:C5:34:00:A5:B9"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

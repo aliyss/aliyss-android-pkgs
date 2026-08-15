@@ -1,0 +1,8 @@
+{
+  "package": "io.github.govin9.duenot",
+  "signerFingerprints": [
+    "51:24:1E:AA:AA:36:39:68:D0:79:A6:DC:38:4F:17:9D:5D:81:CB:70:F6:55:15:B5:AA:49:B7:3D:EC:5A:C9:27"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

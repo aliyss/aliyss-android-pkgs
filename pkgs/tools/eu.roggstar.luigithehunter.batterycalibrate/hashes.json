@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.roggstar.luigithehunter.batterycalibrate_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SWD5aT23ZXZhylUneUJ7aa86/d4oivNijui0OVeI5AQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SWD5aT23ZXZhylUneUJ7aa86/d4oivNijui0OVeI5AQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SWD5aT23ZXZhylUneUJ7aa86/d4oivNijui0OVeI5AQ="
+    }
+  },
+  "version": "Andro10"
+}

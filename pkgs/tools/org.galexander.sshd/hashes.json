@@ -1,0 +1,18 @@
+{
+  "apkName": "org.galexander.sshd_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oqj3lBqewtBK7/aLhxv6iBAhnQI7IPg1ARER+6Btdig="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oqj3lBqewtBK7/aLhxv6iBAhnQI7IPg1ARER+6Btdig="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oqj3lBqewtBK7/aLhxv6iBAhnQI7IPg1ARER+6Btdig="
+    }
+  },
+  "version": "27"
+}

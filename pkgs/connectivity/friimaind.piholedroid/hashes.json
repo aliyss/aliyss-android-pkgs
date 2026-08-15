@@ -1,0 +1,18 @@
+{
+  "apkName": "friimaind.piholedroid_10005.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Asgb34SzylJPU+28m7O//PzZjy6hnqzb5Cv2LBSfqEw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Asgb34SzylJPU+28m7O//PzZjy6hnqzb5Cv2LBSfqEw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Asgb34SzylJPU+28m7O//PzZjy6hnqzb5Cv2LBSfqEw="
+    }
+  },
+  "version": "1.0.5"
+}

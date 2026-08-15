@@ -1,0 +1,18 @@
+{
+  "apkName": "evil.spin_103.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CC+UtdP6P+RFYE75ApW6glvq0ztpb4dgHJ64LCMbsvU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CC+UtdP6P+RFYE75ApW6glvq0ztpb4dgHJ64LCMbsvU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CC+UtdP6P+RFYE75ApW6glvq0ztpb4dgHJ64LCMbsvU="
+    }
+  },
+  "version": "1.0.3"
+}

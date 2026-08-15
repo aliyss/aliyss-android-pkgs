@@ -1,0 +1,18 @@
+{
+  "apkName": "org.onekash.kashcal_717.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Eijoiaju9FoABbuomULOnJhKF9yumX36c2wYBdnzsgY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Eijoiaju9FoABbuomULOnJhKF9yumX36c2wYBdnzsgY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Eijoiaju9FoABbuomULOnJhKF9yumX36c2wYBdnzsgY="
+    }
+  },
+  "version": "2026.08.09"
+}

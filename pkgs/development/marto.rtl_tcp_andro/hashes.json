@@ -1,0 +1,18 @@
+{
+  "apkName": "marto.rtl_tcp_andro_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vF8O+A846f/qXX2/JLE/Mq7o3CjHWC9vXb6CFAxpTMg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vF8O+A846f/qXX2/JLE/Mq7o3CjHWC9vXb6CFAxpTMg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vF8O+A846f/qXX2/JLE/Mq7o3CjHWC9vXb6CFAxpTMg="
+    }
+  },
+  "version": "3.151"
+}

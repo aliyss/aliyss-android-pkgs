@@ -1,0 +1,8 @@
+{
+  "package": "app.podiumpodcasts.podium",
+  "signerFingerprints": [
+    "F4:F0:C3:D1:56:F2:85:B0:D6:6E:28:8E:43:8E:69:0B:C1:C6:97:BE:3D:BB:8F:A4:86:CE:A1:BF:C9:64:9B:8F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

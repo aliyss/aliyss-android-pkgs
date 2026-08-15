@@ -1,0 +1,8 @@
+{
+  "package": "dev.lucanlm.antimine",
+  "signerFingerprints": [
+    "5B:7E:14:17:BF:2B:BE:A6:80:64:A0:A1:8D:F6:04:D4:71:2F:D6:BE:04:8C:E6:6A:6F:78:97:37:6F:C1:69:9E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

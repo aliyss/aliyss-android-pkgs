@@ -1,0 +1,18 @@
+{
+  "apkName": "com.coboltforge.dontmind.multivnc_107.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bVyGnYI7enitac70nwCQDIMTwj2qbopjfpx7F0QbYz0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bVyGnYI7enitac70nwCQDIMTwj2qbopjfpx7F0QbYz0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bVyGnYI7enitac70nwCQDIMTwj2qbopjfpx7F0QbYz0="
+    }
+  },
+  "version": "2.3.4"
+}

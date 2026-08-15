@@ -1,0 +1,8 @@
+{
+  "package": "com.powerdino.splatoon3_companion",
+  "signerFingerprints": [
+    "80:88:2D:72:83:52:4E:28:4E:B6:13:6F:91:35:E4:56:9E:3D:C3:C3:CD:EE:BA:AD:5B:4C:CC:8A:90:28:71:AD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

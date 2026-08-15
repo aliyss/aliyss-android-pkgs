@@ -1,0 +1,18 @@
+{
+  "apkName": "ademar.textlauncher_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2+nL5YcDtqfwZ7+nM4pJE6P6BDxsvhYbRuh9GTijK/M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2+nL5YcDtqfwZ7+nM4pJE6P6BDxsvhYbRuh9GTijK/M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2+nL5YcDtqfwZ7+nM4pJE6P6BDxsvhYbRuh9GTijK/M="
+    }
+  },
+  "version": "1.4.1"
+}

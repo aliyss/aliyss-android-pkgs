@@ -1,0 +1,8 @@
+{
+  "package": "de.qspool.clementineremote",
+  "signerFingerprints": [
+    "7F:DF:63:24:B6:96:23:77:91:E1:A6:F9:0A:77:B0:20:C9:D0:43:39:FE:21:DF:97:5F:76:5F:2B:2C:9F:82:AE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

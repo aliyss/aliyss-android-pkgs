@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anthonyla.paperize_54.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wvJY7CMt0gRmUO6GggEZbOTPdCvEyApiv09f+UrmcKA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wvJY7CMt0gRmUO6GggEZbOTPdCvEyApiv09f+UrmcKA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wvJY7CMt0gRmUO6GggEZbOTPdCvEyApiv09f+UrmcKA="
+    }
+  },
+  "version": "4.0.3"
+}

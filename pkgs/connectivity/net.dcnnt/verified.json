@@ -1,0 +1,8 @@
+{
+  "package": "net.dcnnt",
+  "signerFingerprints": [
+    "B0:F1:D6:44:CF:7D:A5:5D:07:E3:87:62:04:CA:50:0C:20:75:5E:3F:31:4B:C0:3C:A8:AF:81:B4:FF:CF:77:1A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

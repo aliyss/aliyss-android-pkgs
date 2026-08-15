@@ -1,0 +1,18 @@
+{
+  "apkName": "net.tlfoxhuman.droidstress_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qCssvGg0I7ZjWbbjsCzbP3JdwpwPx5ZwCZ9BlCcU4SE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qCssvGg0I7ZjWbbjsCzbP3JdwpwPx5ZwCZ9BlCcU4SE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qCssvGg0I7ZjWbbjsCzbP3JdwpwPx5ZwCZ9BlCcU4SE="
+    }
+  },
+  "version": "1.6.3"
+}

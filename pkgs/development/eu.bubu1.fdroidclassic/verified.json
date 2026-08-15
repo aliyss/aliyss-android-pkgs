@@ -1,0 +1,8 @@
+{
+  "package": "eu.bubu1.fdroidclassic",
+  "signerFingerprints": [
+    "61:0E:3F:6F:1F:17:11:1D:75:3C:AD:70:51:DE:06:B4:E4:F2:4A:E7:91:05:56:24:8A:B5:18:1F:81:4D:28:3F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.dyndns.warenix.web2pdf_70.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VxFCTiZUJW2tHTcLlwumNBARruv73hc2ArDtby8G3cY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VxFCTiZUJW2tHTcLlwumNBARruv73hc2ArDtby8G3cY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VxFCTiZUJW2tHTcLlwumNBARruv73hc2ArDtby8G3cY="
+    }
+  },
+  "version": "2.13.3"
+}

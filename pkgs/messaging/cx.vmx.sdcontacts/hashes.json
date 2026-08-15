@@ -1,0 +1,18 @@
+{
+  "apkName": "cx.vmx.sdcontacts_10000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-feF/AzmvphYPm3uTqGTtGZ3Pclby2N3nLQNBoNRJbmM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-feF/AzmvphYPm3uTqGTtGZ3Pclby2N3nLQNBoNRJbmM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-feF/AzmvphYPm3uTqGTtGZ3Pclby2N3nLQNBoNRJbmM="
+    }
+  },
+  "version": "1.0.0"
+}

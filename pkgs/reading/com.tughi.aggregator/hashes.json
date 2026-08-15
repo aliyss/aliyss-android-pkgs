@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tughi.aggregator_299034.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vg3YQ+398vyPuppLcKwNU6kXiIPZx2e5jbA/4ctSRw0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vg3YQ+398vyPuppLcKwNU6kXiIPZx2e5jbA/4ctSRw0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vg3YQ+398vyPuppLcKwNU6kXiIPZx2e5jbA/4ctSRw0="
+    }
+  },
+  "version": "Preview:034"
+}

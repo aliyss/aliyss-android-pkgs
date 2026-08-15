@@ -1,0 +1,18 @@
+{
+  "apkName": "de.ph1b.audiobook_5406001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Ic/xgHPRXjUOWEXyBD0fB9lE8N7kINfPol/ZGW8F6Lg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ic/xgHPRXjUOWEXyBD0fB9lE8N7kINfPol/ZGW8F6Lg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Ic/xgHPRXjUOWEXyBD0fB9lE8N7kINfPol/ZGW8F6Lg="
+    }
+  },
+  "version": "26.6.1"
+}

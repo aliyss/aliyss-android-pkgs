@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tananaev.calculator_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KUpovQDeu9xJijO4oBkcMt5UnZ0cOe1wdr1Ckiy2qg0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KUpovQDeu9xJijO4oBkcMt5UnZ0cOe1wdr1Ckiy2qg0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KUpovQDeu9xJijO4oBkcMt5UnZ0cOe1wdr1Ckiy2qg0="
+    }
+  },
+  "version": "1.10"
+}

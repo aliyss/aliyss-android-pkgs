@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wa2c.android.cifsdocumentsprovider_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IV8AWZTv7UpV4QcIEyrkFUOrevSNVAnTjGNAkM+hV2g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IV8AWZTv7UpV4QcIEyrkFUOrevSNVAnTjGNAkM+hV2g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IV8AWZTv7UpV4QcIEyrkFUOrevSNVAnTjGNAkM+hV2g="
+    }
+  },
+  "version": "2.4.0"
+}

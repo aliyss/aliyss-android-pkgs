@@ -1,0 +1,8 @@
+{
+  "package": "io.github.mortenfyhn.feltbok",
+  "signerFingerprints": [
+    "7D:28:15:98:72:57:DE:0A:39:FF:1C:94:32:24:6F:D1:19:B6:43:BF:A2:AF:B7:9E:A2:C5:E9:A1:16:B1:44:CF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

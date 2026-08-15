@@ -1,0 +1,8 @@
+{
+  "package": "com.alaskalinuxuser.shipcaptainandcrew",
+  "signerFingerprints": [
+    "93:F9:F8:21:C9:65:71:74:40:71:C4:27:03:F9:0C:BC:C0:4E:6D:FB:E6:C9:C4:42:83:1E:B1:20:C4:F2:57:33"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

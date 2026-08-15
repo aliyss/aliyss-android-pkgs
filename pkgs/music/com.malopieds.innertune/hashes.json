@@ -1,0 +1,18 @@
+{
+  "apkName": "com.malopieds.innertune_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uNSuKWCS4nyH6AJzKPclGRQvsFjoVx1KNNmTXeFQNdk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uNSuKWCS4nyH6AJzKPclGRQvsFjoVx1KNNmTXeFQNdk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uNSuKWCS4nyH6AJzKPclGRQvsFjoVx1KNNmTXeFQNdk="
+    }
+  },
+  "version": "0.5.14"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "me.echeung.moemoekyun.fdroid_221.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RpAx6VLHQQ8nc4LqBGrvXzYsGD/te6Azpm9pqja3rFw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RpAx6VLHQQ8nc4LqBGrvXzYsGD/te6Azpm9pqja3rFw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RpAx6VLHQQ8nc4LqBGrvXzYsGD/te6Azpm9pqja3rFw="
+    }
+  },
+  "version": "7.0.0-beta.10"
+}

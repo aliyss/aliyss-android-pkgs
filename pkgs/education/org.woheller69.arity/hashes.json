@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.arity_158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nsbdIeiYTBT1n0wVIF0iQoOxUmN6gQiNqEWPm5qtK9U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nsbdIeiYTBT1n0wVIF0iQoOxUmN6gQiNqEWPm5qtK9U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nsbdIeiYTBT1n0wVIF0iQoOxUmN6gQiNqEWPm5qtK9U="
+    }
+  },
+  "version": "1.58"
+}

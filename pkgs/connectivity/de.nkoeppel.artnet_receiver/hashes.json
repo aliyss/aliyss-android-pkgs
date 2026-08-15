@@ -1,0 +1,18 @@
+{
+  "apkName": "de.nkoeppel.artnet_receiver_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SbV6EcDGedUPZM5S3N3DGuL/dbBNTFgx+sMbYtTYnsw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SbV6EcDGedUPZM5S3N3DGuL/dbBNTFgx+sMbYtTYnsw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SbV6EcDGedUPZM5S3N3DGuL/dbBNTFgx+sMbYtTYnsw="
+    }
+  },
+  "version": "1.0.1"
+}

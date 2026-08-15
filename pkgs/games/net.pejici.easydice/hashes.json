@@ -1,0 +1,18 @@
+{
+  "apkName": "net.pejici.easydice_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CWbvfHBiPAFTcei5T6BUcEBrzkSZ7E1YmQfyP6yTwzs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CWbvfHBiPAFTcei5T6BUcEBrzkSZ7E1YmQfyP6yTwzs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CWbvfHBiPAFTcei5T6BUcEBrzkSZ7E1YmQfyP6yTwzs="
+    }
+  },
+  "version": "1.9.1"
+}

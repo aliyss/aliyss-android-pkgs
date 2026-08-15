@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.sds100.keymapper.inputmethod.latin_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IliMluYXd9EZhVMKaUI2lePYO/OBjFyR6W8oWexM/xk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IliMluYXd9EZhVMKaUI2lePYO/OBjFyR6W8oWexM/xk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IliMluYXd9EZhVMKaUI2lePYO/OBjFyR6W8oWexM/xk="
+    }
+  },
+  "version": "1.4.6"
+}

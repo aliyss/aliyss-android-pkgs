@@ -1,0 +1,18 @@
+{
+  "apkName": "org.eagsoftware.rowmate_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-b0csyKBGCHYdVYZmKDRjOXo95PA7VFDxihKt+2Brpjk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b0csyKBGCHYdVYZmKDRjOXo95PA7VFDxihKt+2Brpjk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b0csyKBGCHYdVYZmKDRjOXo95PA7VFDxihKt+2Brpjk="
+    }
+  },
+  "version": "0.1"
+}

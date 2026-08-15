@@ -1,0 +1,8 @@
+{
+  "package": "io.github.silinote",
+  "signerFingerprints": [
+    "21:59:94:4A:22:82:F4:7D:3B:8C:B7:1E:28:89:07:AA:1E:47:D0:EF:5A:68:3C:39:ED:68:33:91:10:3A:50:5E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

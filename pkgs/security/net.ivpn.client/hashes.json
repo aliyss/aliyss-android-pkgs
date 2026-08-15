@@ -1,0 +1,18 @@
+{
+  "apkName": "net.ivpn.client_143.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-o/wqdDhhQi/NZ7vLUAoUIt0fFDWboR1JB8jXTnnO58g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o/wqdDhhQi/NZ7vLUAoUIt0fFDWboR1JB8jXTnnO58g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-o/wqdDhhQi/NZ7vLUAoUIt0fFDWboR1JB8jXTnnO58g="
+    }
+  },
+  "version": "2.13.1"
+}

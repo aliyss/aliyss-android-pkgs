@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kgurgul.cpuinfo_60601.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VMxVlbmgfoySuZSWQnlM8lA7vkLXcRoKssbWCX6gw+M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VMxVlbmgfoySuZSWQnlM8lA7vkLXcRoKssbWCX6gw+M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VMxVlbmgfoySuZSWQnlM8lA7vkLXcRoKssbWCX6gw+M="
+    }
+  },
+  "version": "6.6.1"
+}

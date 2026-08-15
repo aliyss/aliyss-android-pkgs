@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.necrashter.natural_revenge_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bYacriwRnUUl3UXY1p6H2UKDV3/Rl7IMXbXS/dgfPj4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bYacriwRnUUl3UXY1p6H2UKDV3/Rl7IMXbXS/dgfPj4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bYacriwRnUUl3UXY1p6H2UKDV3/Rl7IMXbXS/dgfPj4="
+    }
+  },
+  "version": "1.0.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "quest.faraday.tip_calculator_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-68bGZXkVmd7/riXCxYm9T0Ecb7uGynzkDltMnbzwTTY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-68bGZXkVmd7/riXCxYm9T0Ecb7uGynzkDltMnbzwTTY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-68bGZXkVmd7/riXCxYm9T0Ecb7uGynzkDltMnbzwTTY="
+    }
+  },
+  "version": "1.2.0"
+}

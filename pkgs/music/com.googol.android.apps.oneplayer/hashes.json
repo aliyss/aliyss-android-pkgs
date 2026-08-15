@@ -1,0 +1,18 @@
+{
+  "apkName": "com.googol.android.apps.oneplayer_37.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VhsWEZvEx2tTjDj3b2SBrGZ5lyPjDoYIynpb9Rkx9Rg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VhsWEZvEx2tTjDj3b2SBrGZ5lyPjDoYIynpb9Rkx9Rg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VhsWEZvEx2tTjDj3b2SBrGZ5lyPjDoYIynpb9Rkx9Rg="
+    }
+  },
+  "version": "1.6.9-foss"
+}

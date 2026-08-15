@@ -1,0 +1,18 @@
+{
+  "apkName": "org.cis_india.wsreader_145.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RjUXtn/i4nd1ICHcmTV/fTzbHlXlnDfIOJmsYwp9ttw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RjUXtn/i4nd1ICHcmTV/fTzbHlXlnDfIOJmsYwp9ttw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RjUXtn/i4nd1ICHcmTV/fTzbHlXlnDfIOJmsYwp9ttw="
+    }
+  },
+  "version": "1.4.5"
+}

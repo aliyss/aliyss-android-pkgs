@@ -1,0 +1,8 @@
+{
+  "package": "org.billthefarmer.tuner",
+  "signerFingerprints": [
+    "F5:51:94:7F:71:F1:27:69:FE:27:DB:76:D3:9F:91:9A:B3:E9:34:77:CF:EE:4A:0A:AC:80:D0:FD:9E:60:6F:22"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.workingagenda.devinettes_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-V+ZvFeFGADDEOyfOLedJBbCHdYx1DqaOGtgTdKm8/GQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V+ZvFeFGADDEOyfOLedJBbCHdYx1DqaOGtgTdKm8/GQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-V+ZvFeFGADDEOyfOLedJBbCHdYx1DqaOGtgTdKm8/GQ="
+    }
+  },
+  "version": "1.2"
+}

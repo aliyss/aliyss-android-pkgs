@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.bubendorf.locusaddon.gsakdatabase_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Pq4MbzM0/m27cNMlQXYQilbD0+7jaT72t7TgxkholCY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pq4MbzM0/m27cNMlQXYQilbD0+7jaT72t7TgxkholCY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Pq4MbzM0/m27cNMlQXYQilbD0+7jaT72t7TgxkholCY="
+    }
+  },
+  "version": "3.4.38"
+}

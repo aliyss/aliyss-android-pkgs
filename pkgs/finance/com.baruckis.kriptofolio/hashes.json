@@ -1,0 +1,18 @@
+{
+  "apkName": "com.baruckis.kriptofolio_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TqiORaYY7Oq21wVRs+ZKl9i+CWRJ2abdSoGcR4JxObI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TqiORaYY7Oq21wVRs+ZKl9i+CWRJ2abdSoGcR4JxObI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TqiORaYY7Oq21wVRs+ZKl9i+CWRJ2abdSoGcR4JxObI="
+    }
+  },
+  "version": "1.2.1"
+}

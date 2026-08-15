@@ -1,0 +1,8 @@
+{
+  "package": "com.tw.clipshare",
+  "signerFingerprints": [
+    "57:42:FD:83:7B:14:F4:40:E3:4D:77:92:0E:D2:9F:43:3D:F5:83:17:6F:21:F5:A1:01:76:97:6A:AB:75:0F:22"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

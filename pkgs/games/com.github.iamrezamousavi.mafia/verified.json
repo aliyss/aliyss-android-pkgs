@@ -1,0 +1,8 @@
+{
+  "package": "com.github.iamrezamousavi.mafia",
+  "signerFingerprints": [
+    "60:58:02:4A:C1:45:DA:E8:6C:8E:68:6E:E1:1E:58:98:47:CB:BB:0A:62:26:71:48:55:6D:4C:76:60:49:39:A1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

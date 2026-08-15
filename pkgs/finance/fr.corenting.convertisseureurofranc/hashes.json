@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.corenting.convertisseureurofranc_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JXKVEEgjyXA5mV1gr4OdXEaBoNaECwBIb+Z014sNHP4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JXKVEEgjyXA5mV1gr4OdXEaBoNaECwBIb+Z014sNHP4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JXKVEEgjyXA5mV1gr4OdXEaBoNaECwBIb+Z014sNHP4="
+    }
+  },
+  "version": "2.19"
+}

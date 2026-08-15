@@ -1,0 +1,18 @@
+{
+  "apkName": "io.homeassistant.companion.android.minimal_22884.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8+z8ujPS15Nuf21a3ebN01tQ0Z0K82sdW17RHJ5TpgE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8+z8ujPS15Nuf21a3ebN01tQ0Z0K82sdW17RHJ5TpgE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8+z8ujPS15Nuf21a3ebN01tQ0Z0K82sdW17RHJ5TpgE="
+    }
+  },
+  "version": "2026.6.5-minimal"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.singular.crystalball_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qDNLTWI1vge2uud+d8KCFUXW0P4zATy2lwISgTxQWGc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qDNLTWI1vge2uud+d8KCFUXW0P4zATy2lwISgTxQWGc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qDNLTWI1vge2uud+d8KCFUXW0P4zATy2lwISgTxQWGc="
+    }
+  },
+  "version": "0.4"
+}

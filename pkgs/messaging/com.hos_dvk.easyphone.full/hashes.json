@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hos_dvk.easyphone.full_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i18Bulx94cvQaC8pBS+7TClhaPKJ46/2myHXTWMWepA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i18Bulx94cvQaC8pBS+7TClhaPKJ46/2myHXTWMWepA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i18Bulx94cvQaC8pBS+7TClhaPKJ46/2myHXTWMWepA="
+    }
+  },
+  "version": "0.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "hsware.neo_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kfzELvsOYNsMqmCImSiAwCQFrznMtYS/0z4UDnIYPtA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kfzELvsOYNsMqmCImSiAwCQFrznMtYS/0z4UDnIYPtA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kfzELvsOYNsMqmCImSiAwCQFrznMtYS/0z4UDnIYPtA="
+    }
+  },
+  "version": "1.3.0"
+}

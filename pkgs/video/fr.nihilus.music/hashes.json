@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.nihilus.music_201010.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q9o2gkxPop4Gqt9/Ms1ae+Vqrg40N0X+0yW88p4nwTE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q9o2gkxPop4Gqt9/Ms1ae+Vqrg40N0X+0yW88p4nwTE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q9o2gkxPop4Gqt9/Ms1ae+Vqrg40N0X+0yW88p4nwTE="
+    }
+  },
+  "version": "2.1.1"
+}

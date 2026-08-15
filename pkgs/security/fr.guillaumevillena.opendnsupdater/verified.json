@@ -1,0 +1,8 @@
+{
+  "package": "fr.guillaumevillena.opendnsupdater",
+  "signerFingerprints": [
+    "7E:8A:77:38:61:F5:DF:A3:BE:C0:98:F2:F1:9C:4F:9E:C1:9E:F2:AA:CF:F1:EB:EF:55:CB:A2:63:0E:99:C9:CE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

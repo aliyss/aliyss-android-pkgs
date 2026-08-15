@@ -1,0 +1,8 @@
+{
+  "package": "com.tailscale.ipn",
+  "signerFingerprints": [
+    "37:05:F1:84:CB:67:D6:83:E7:6E:CC:20:3C:C9:CC:35:7E:64:48:C5:0E:59:00:24:19:08:5B:4C:28:6D:F0:E8"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

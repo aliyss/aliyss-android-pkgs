@@ -1,0 +1,18 @@
+{
+  "apkName": "net.stargw.contacts_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eShfH460jroVdbtDp8z2tL7HGXHmbTz3ZHUyFjIo6gU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eShfH460jroVdbtDp8z2tL7HGXHmbTz3ZHUyFjIo6gU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eShfH460jroVdbtDp8z2tL7HGXHmbTz3ZHUyFjIo6gU="
+    }
+  },
+  "version": "4"
+}

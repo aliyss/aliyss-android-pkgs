@@ -1,0 +1,18 @@
+{
+  "apkName": "com.werdeil.lyriondashboard_204.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oPNbWgbcuZ/TQZuSCYaMZ5v54ViJX+Q3k2TwligNigw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oPNbWgbcuZ/TQZuSCYaMZ5v54ViJX+Q3k2TwligNigw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oPNbWgbcuZ/TQZuSCYaMZ5v54ViJX+Q3k2TwligNigw="
+    }
+  },
+  "version": "0.2.4"
+}

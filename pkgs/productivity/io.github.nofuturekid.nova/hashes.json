@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.nofuturekid.nova_117.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-DKvDsf4gu0KdtB/4hernQqdzMMv8/rKT3sNaIihDoTQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DKvDsf4gu0KdtB/4hernQqdzMMv8/rKT3sNaIihDoTQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-DKvDsf4gu0KdtB/4hernQqdzMMv8/rKT3sNaIihDoTQ="
+    }
+  },
+  "version": "0.1.40"
+}

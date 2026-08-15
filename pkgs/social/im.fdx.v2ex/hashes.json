@@ -1,0 +1,18 @@
+{
+  "apkName": "im.fdx.v2ex_72.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Z8wKynceBZVgHLGh1LWx2lz/hCxK2xTAvyIyeVt1mGY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z8wKynceBZVgHLGh1LWx2lz/hCxK2xTAvyIyeVt1mGY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z8wKynceBZVgHLGh1LWx2lz/hCxK2xTAvyIyeVt1mGY="
+    }
+  },
+  "version": "2.9.7"
+}

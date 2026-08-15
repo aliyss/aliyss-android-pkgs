@@ -1,0 +1,18 @@
+{
+  "apkName": "krasilnikov.alexey.cryptopass_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PmGxSawlkH4QPQfnlgFEIo8w1Asy/zlMszzfg/bIgRo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PmGxSawlkH4QPQfnlgFEIo8w1Asy/zlMszzfg/bIgRo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PmGxSawlkH4QPQfnlgFEIo8w1Asy/zlMszzfg/bIgRo="
+    }
+  },
+  "version": "1.2"
+}

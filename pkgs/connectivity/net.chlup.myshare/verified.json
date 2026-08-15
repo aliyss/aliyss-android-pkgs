@@ -1,0 +1,8 @@
+{
+  "package": "net.chlup.myshare",
+  "signerFingerprints": [
+    "70:2F:1A:5B:18:6D:A8:55:D3:1F:AF:9B:B5:76:16:CB:BA:32:D3:A5:82:1A:39:DD:FC:0F:28:D6:D4:21:C4:CE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

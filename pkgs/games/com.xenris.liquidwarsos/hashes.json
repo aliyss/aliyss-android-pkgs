@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xenris.liquidwarsos_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FdHU1NeIf2kdbWos3IcOWmALCozX2SSoHKwPGvR0dvw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FdHU1NeIf2kdbWos3IcOWmALCozX2SSoHKwPGvR0dvw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FdHU1NeIf2kdbWos3IcOWmALCozX2SSoHKwPGvR0dvw="
+    }
+  },
+  "version": "1.43"
+}

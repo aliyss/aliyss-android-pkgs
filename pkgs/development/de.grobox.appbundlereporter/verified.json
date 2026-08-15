@@ -1,0 +1,8 @@
+{
+  "package": "de.grobox.appbundlereporter",
+  "signerFingerprints": [
+    "F7:86:DF:A7:31:55:EB:F0:24:92:14:B9:66:13:80:87:CE:0A:FE:20:B9:5B:85:6B:92:D5:B9:C5:9F:1B:5C:83"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

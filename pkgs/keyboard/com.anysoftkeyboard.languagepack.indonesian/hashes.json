@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.indonesian_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/5rrpafOnLa8/VQYLKFRGwFy4t3B5ol8MfrdksyjAjc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/5rrpafOnLa8/VQYLKFRGwFy4t3B5ol8MfrdksyjAjc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/5rrpafOnLa8/VQYLKFRGwFy4t3B5ol8MfrdksyjAjc="
+    }
+  },
+  "version": "5.1.6158"
+}

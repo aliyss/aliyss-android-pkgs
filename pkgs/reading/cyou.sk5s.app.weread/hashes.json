@@ -1,0 +1,18 @@
+{
+  "apkName": "cyou.sk5s.app.weread_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+KXmaBSrO5Vw7yZo3EAC6Rx9puI2m9JuS4Inx9Hm5WQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+KXmaBSrO5Vw7yZo3EAC6Rx9puI2m9JuS4Inx9Hm5WQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+KXmaBSrO5Vw7yZo3EAC6Rx9puI2m9JuS4Inx9Hm5WQ="
+    }
+  },
+  "version": "1.0.1"
+}

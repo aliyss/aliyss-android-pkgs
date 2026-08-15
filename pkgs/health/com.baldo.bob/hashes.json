@@ -1,0 +1,18 @@
+{
+  "apkName": "com.baldo.bob_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-So4O1kdt9QGt8utAjrVZwqhjn0auX9QjO0931d7ks0s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-So4O1kdt9QGt8utAjrVZwqhjn0auX9QjO0931d7ks0s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-So4O1kdt9QGt8utAjrVZwqhjn0auX9QjO0931d7ks0s="
+    }
+  },
+  "version": "1.5.0"
+}

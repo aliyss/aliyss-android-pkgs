@@ -1,0 +1,18 @@
+{
+  "apkName": "com.autismprime.fall_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fGh1eKP3rqfKT76iR0S7POuypeAeTaz5IsDXg50hBUs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fGh1eKP3rqfKT76iR0S7POuypeAeTaz5IsDXg50hBUs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fGh1eKP3rqfKT76iR0S7POuypeAeTaz5IsDXg50hBUs="
+    }
+  },
+  "version": "1.2"
+}

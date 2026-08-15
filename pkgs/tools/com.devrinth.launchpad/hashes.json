@@ -1,0 +1,18 @@
+{
+  "apkName": "com.devrinth.launchpad_764.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PQgKjFSmeOLaOgSKHASFI1C9daiElu7advjomXzIHwk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PQgKjFSmeOLaOgSKHASFI1C9daiElu7advjomXzIHwk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PQgKjFSmeOLaOgSKHASFI1C9daiElu7advjomXzIHwk="
+    }
+  },
+  "version": "1.3.0"
+}

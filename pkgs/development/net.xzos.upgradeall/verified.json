@@ -1,0 +1,8 @@
+{
+  "package": "net.xzos.upgradeall",
+  "signerFingerprints": [
+    "8E:35:CA:CF:1F:2D:9E:E9:2C:E1:59:AC:B9:05:8C:87:DA:79:30:41:39:09:97:46:0F:D8:37:78:33:D6:7D:A2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

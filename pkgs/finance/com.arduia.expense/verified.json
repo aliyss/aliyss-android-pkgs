@@ -1,0 +1,8 @@
+{
+  "package": "com.arduia.expense",
+  "signerFingerprints": [
+    "02:06:A5:BC:7E:CF:2A:55:05:5E:F7:E0:BD:F8:1E:74:35:0A:68:A6:9D:D0:AB:F8:1E:85:54:B7:1A:EC:FE:2F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

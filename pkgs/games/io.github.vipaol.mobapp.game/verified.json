@@ -1,0 +1,8 @@
+{
+  "package": "io.github.vipaol.mobapp.game",
+  "signerFingerprints": [
+    "EF:90:10:02:08:78:26:2A:6B:9A:3A:BE:88:CC:17:EE:B1:E0:51:19:53:8E:5B:16:4F:02:8C:76:1F:16:8A:57"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

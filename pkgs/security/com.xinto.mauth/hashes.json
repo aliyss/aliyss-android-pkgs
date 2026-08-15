@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xinto.mauth_110.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6/Rcd9IPo8QVivcM3acq88geSqgFvf6J0yAN3ThTMcI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6/Rcd9IPo8QVivcM3acq88geSqgFvf6J0yAN3ThTMcI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6/Rcd9IPo8QVivcM3acq88geSqgFvf6J0yAN3ThTMcI="
+    }
+  },
+  "version": "0.11.0"
+}

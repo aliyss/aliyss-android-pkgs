@@ -1,0 +1,18 @@
+{
+  "apkName": "humer.uvc_camera_124.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-u0cPTFLwy5gPXtxvZsuPluHg0HEBFq1v7HYHa75ONlU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u0cPTFLwy5gPXtxvZsuPluHg0HEBFq1v7HYHa75ONlU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u0cPTFLwy5gPXtxvZsuPluHg0HEBFq1v7HYHa75ONlU="
+    }
+  },
+  "version": "2.2.4"
+}

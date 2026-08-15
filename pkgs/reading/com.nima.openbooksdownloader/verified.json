@@ -1,0 +1,8 @@
+{
+  "package": "com.nima.openbooksdownloader",
+  "signerFingerprints": [
+    "32:15:9F:FB:A9:67:7D:65:B8:4D:47:AD:11:B4:0C:24:BE:A8:1B:35:4E:7D:6A:C9:CA:59:71:72:CC:70:4E:61"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

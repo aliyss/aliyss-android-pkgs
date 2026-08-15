@@ -1,0 +1,8 @@
+{
+  "package": "dev.ukanth.ufirewall",
+  "signerFingerprints": [
+    "49:5A:21:DA:7F:3B:C1:5A:AB:88:01:56:42:2B:5A:B2:55:73:8B:59:7E:7D:EF:40:D1:40:76:40:11:6E:01:60"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

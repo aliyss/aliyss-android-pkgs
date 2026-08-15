@@ -1,0 +1,18 @@
+{
+  "apkName": "tech.platypush.platypush_1000100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PucKwK6JMPxkPqTzMeP66o/H7QPxfzUosXIos9k9zh4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PucKwK6JMPxkPqTzMeP66o/H7QPxfzUosXIos9k9zh4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PucKwK6JMPxkPqTzMeP66o/H7QPxfzUosXIos9k9zh4="
+    }
+  },
+  "version": "1.0.1"
+}

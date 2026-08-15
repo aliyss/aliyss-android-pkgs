@@ -1,0 +1,8 @@
+{
+  "package": "sk.henrichg.pppputsettings",
+  "signerFingerprints": [
+    "3E:F4:32:86:BA:71:AB:E2:D8:C3:D2:BC:07:A2:26:8E:00:6C:54:6B:48:54:2E:4E:0B:CE:C1:7C:A7:AB:FF:0C"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

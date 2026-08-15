@@ -1,0 +1,8 @@
+{
+  "package": "xyz.lepisma.harp",
+  "signerFingerprints": [
+    "2B:A3:CA:9F:3A:34:1E:5A:26:75:76:37:B6:BC:B7:55:8C:DF:4F:FF:05:22:1F:86:49:8A:98:49:93:3F:D9:15"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

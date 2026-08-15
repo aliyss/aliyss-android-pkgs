@@ -1,0 +1,8 @@
+{
+  "package": "app.olauncher.light",
+  "signerFingerprints": [
+    "8A:5F:B1:CB:61:10:1B:56:07:B4:06:B0:78:A7:F9:0C:7F:A2:AA:0D:A2:6E:57:30:59:1C:D8:65:62:E4:2A:7F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

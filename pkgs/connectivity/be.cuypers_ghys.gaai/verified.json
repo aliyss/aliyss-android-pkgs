@@ -1,0 +1,8 @@
+{
+  "package": "be.cuypers_ghys.gaai",
+  "signerFingerprints": [
+    "0F:FE:DB:F7:FB:C6:41:7E:BD:87:BA:FF:85:9B:D4:71:72:78:C0:45:7C:5E:B3:2B:37:56:3E:F8:8A:67:23:D4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.andstatus.todoagenda_717.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qyKNq441DHTHOZHP8WX/m3VUd8gSxuKn9Pj2084TqFo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qyKNq441DHTHOZHP8WX/m3VUd8gSxuKn9Pj2084TqFo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qyKNq441DHTHOZHP8WX/m3VUd8gSxuKn9Pj2084TqFo="
+    }
+  },
+  "version": "4.13.3"
+}

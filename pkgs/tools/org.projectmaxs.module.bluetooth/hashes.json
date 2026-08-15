@@ -1,0 +1,18 @@
+{
+  "apkName": "org.projectmaxs.module.bluetooth_2000506627.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qh3qXeXrGCM/BKIt3BIIEWX1GpTuln7CUFqHAUNgyp8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qh3qXeXrGCM/BKIt3BIIEWX1GpTuln7CUFqHAUNgyp8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qh3qXeXrGCM/BKIt3BIIEWX1GpTuln7CUFqHAUNgyp8="
+    }
+  },
+  "version": "0.5.19"
+}

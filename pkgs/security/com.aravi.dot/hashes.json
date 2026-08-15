@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aravi.dot_30105.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pIhc6BsrhmAHM5urYaxJPwFVal1sm75BypPTe/trWxM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pIhc6BsrhmAHM5urYaxJPwFVal1sm75BypPTe/trWxM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pIhc6BsrhmAHM5urYaxJPwFVal1sm75BypPTe/trWxM="
+    }
+  },
+  "version": "3.1.5"
+}

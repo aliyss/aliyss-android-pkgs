@@ -1,0 +1,8 @@
+{
+  "package": "ca.mudar.fairphone.peaceofmind",
+  "signerFingerprints": [
+    "F4:CC:94:82:F9:C1:06:BB:9E:7D:14:50:31:7E:05:19:D9:BC:33:DF:12:CC:E6:02:3E:FC:C1:B5:3C:3F:B6:0F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "tk.al54.dev.badpixels_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q4QsB5yfjN43XcSiWtYvfNOSN7Tcv13bu0VzimIN2C8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q4QsB5yfjN43XcSiWtYvfNOSN7Tcv13bu0VzimIN2C8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q4QsB5yfjN43XcSiWtYvfNOSN7Tcv13bu0VzimIN2C8="
+    }
+  },
+  "version": "0.2"
+}

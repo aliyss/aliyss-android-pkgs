@@ -1,0 +1,8 @@
+{
+  "package": "ru.ra66it.updaterforspotify",
+  "signerFingerprints": [
+    "31:5F:68:12:9F:00:B3:17:5B:A3:08:71:6A:F1:7B:6A:05:6F:59:40:21:90:A7:75:52:85:A6:42:33:19:D7:24"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

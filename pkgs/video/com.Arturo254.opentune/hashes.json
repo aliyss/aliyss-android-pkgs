@@ -1,0 +1,18 @@
+{
+  "apkName": "com.Arturo254.opentune_132.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rW6faS445rAkombhYp69PjayRav+P1ZkIQlsPfPTAls="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rW6faS445rAkombhYp69PjayRav+P1ZkIQlsPfPTAls="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rW6faS445rAkombhYp69PjayRav+P1ZkIQlsPfPTAls="
+    }
+  },
+  "version": "3.0.5"
+}

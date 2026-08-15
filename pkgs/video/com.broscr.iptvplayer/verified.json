@@ -1,0 +1,8 @@
+{
+  "package": "com.broscr.iptvplayer",
+  "signerFingerprints": [
+    "5D:1C:69:CB:BF:61:DC:C1:2B:61:9E:CF:79:5A:E8:EA:EE:B4:11:0B:06:ED:63:58:51:38:A7:22:FE:DA:29:DA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "v4lpt.vpt.pwg_107.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xul4yWutJJAOYS2Omz+Zokim7mvwG3RFF3j6F0gX4cI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xul4yWutJJAOYS2Omz+Zokim7mvwG3RFF3j6F0gX4cI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xul4yWutJJAOYS2Omz+Zokim7mvwG3RFF3j6F0gX4cI="
+    }
+  },
+  "version": "1.0.7"
+}

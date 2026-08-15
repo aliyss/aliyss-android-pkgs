@@ -1,0 +1,18 @@
+{
+  "apkName": "org.rubenpgrady.dpcopycat_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FBwTxRzU+Vetw60niR4CwPqRw9jhQhrhGwcFe52Lh8Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FBwTxRzU+Vetw60niR4CwPqRw9jhQhrhGwcFe52Lh8Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FBwTxRzU+Vetw60niR4CwPqRw9jhQhrhGwcFe52Lh8Q="
+    }
+  },
+  "version": "2.1"
+}

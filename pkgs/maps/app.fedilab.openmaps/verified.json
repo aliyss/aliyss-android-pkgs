@@ -1,0 +1,8 @@
+{
+  "package": "app.fedilab.openmaps",
+  "signerFingerprints": [
+    "55:A9:5E:10:9F:0D:CB:14:03:DA:FE:15:2C:BC:26:E7:6C:8E:73:0F:A4:B3:B3:D1:3F:61:20:C6:1D:19:61:08"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

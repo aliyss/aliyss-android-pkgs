@@ -1,0 +1,18 @@
+{
+  "apkName": "be.robinj.distrohopper_102.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GbdcLEdilMUxYFQR+//qvgRY1Eiz+Kl1jXH2OOfwa0o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GbdcLEdilMUxYFQR+//qvgRY1Eiz+Kl1jXH2OOfwa0o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GbdcLEdilMUxYFQR+//qvgRY1Eiz+Kl1jXH2OOfwa0o="
+    }
+  },
+  "version": "2.7.0"
+}

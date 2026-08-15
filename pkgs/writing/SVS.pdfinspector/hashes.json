@@ -1,0 +1,18 @@
+{
+  "apkName": "SVS.pdfinspector_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pH5vfbgVTRmof/yYWW730wcUn8FnerntxTclhMPCbKA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pH5vfbgVTRmof/yYWW730wcUn8FnerntxTclhMPCbKA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pH5vfbgVTRmof/yYWW730wcUn8FnerntxTclhMPCbKA="
+    }
+  },
+  "version": "0.3.2"
+}

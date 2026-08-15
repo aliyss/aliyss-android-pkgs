@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mablanco.pricegrab_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-S+VSsofO9jBM7Ir9BJY3RuyO4/wwumzjyZCUWJK8LkA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S+VSsofO9jBM7Ir9BJY3RuyO4/wwumzjyZCUWJK8LkA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S+VSsofO9jBM7Ir9BJY3RuyO4/wwumzjyZCUWJK8LkA="
+    }
+  },
+  "version": "0.1.11"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fontstylr_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2rOmV7zrfha/TbxOk2Z6O2jS1+5C0411G6f+wvofn3Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2rOmV7zrfha/TbxOk2Z6O2jS1+5C0411G6f+wvofn3Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2rOmV7zrfha/TbxOk2Z6O2jS1+5C0411G6f+wvofn3Y="
+    }
+  },
+  "version": "1.1"
+}

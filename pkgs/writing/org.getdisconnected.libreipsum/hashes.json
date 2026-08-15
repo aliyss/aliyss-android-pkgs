@@ -1,0 +1,18 @@
+{
+  "apkName": "org.getdisconnected.libreipsum_104.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Qi8/x9lYG/2DNLmUn8cYQq757tOddPgZ3AtnGMjKBPQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qi8/x9lYG/2DNLmUn8cYQq757tOddPgZ3AtnGMjKBPQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qi8/x9lYG/2DNLmUn8cYQq757tOddPgZ3AtnGMjKBPQ="
+    }
+  },
+  "version": "0.1.4"
+}

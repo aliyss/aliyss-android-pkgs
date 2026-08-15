@@ -1,0 +1,8 @@
+{
+  "package": "net.sourceforge.wifiremoteplay",
+  "signerFingerprints": [
+    "FD:59:C1:00:79:AD:1E:A5:0B:42:B0:82:8E:93:75:C7:2C:DE:8B:25:8B:76:4B:F3:52:4E:FF:CF:BA:33:C7:84"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

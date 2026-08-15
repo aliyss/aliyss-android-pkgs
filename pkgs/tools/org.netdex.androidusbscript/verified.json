@@ -1,0 +1,8 @@
+{
+  "package": "org.netdex.androidusbscript",
+  "signerFingerprints": [
+    "EF:16:62:62:E9:E9:93:C5:69:DB:54:19:D9:80:76:C3:0C:9E:0C:5F:78:44:4C:03:DA:FC:AE:8D:59:2B:2C:E6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.codedead.advancedportchecker_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ltMJbcGsdaU59TIaw8Oz/akDnTyiDPvVm0OI+xc3qRE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ltMJbcGsdaU59TIaw8Oz/akDnTyiDPvVm0OI+xc3qRE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ltMJbcGsdaU59TIaw8Oz/akDnTyiDPvVm0OI+xc3qRE="
+    }
+  },
+  "version": "1.5.4"
+}

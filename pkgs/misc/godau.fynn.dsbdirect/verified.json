@@ -1,0 +1,8 @@
+{
+  "package": "godau.fynn.dsbdirect",
+  "signerFingerprints": [
+    "48:3E:85:16:0F:31:2C:34:5F:29:D6:E9:A7:B3:C4:69:06:A8:26:07:DF:90:4C:12:2E:E6:16:C1:66:F0:DF:33"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

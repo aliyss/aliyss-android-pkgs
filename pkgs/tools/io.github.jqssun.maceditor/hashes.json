@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.jqssun.maceditor_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pWR9cJKyZnSDsUdnHFbX4x+s7yGmERhL28SE6TfQXGs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pWR9cJKyZnSDsUdnHFbX4x+s7yGmERhL28SE6TfQXGs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pWR9cJKyZnSDsUdnHFbX4x+s7yGmERhL28SE6TfQXGs="
+    }
+  },
+  "version": "0.0.7"
+}

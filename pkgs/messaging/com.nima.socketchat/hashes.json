@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nima.socketchat_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/TiNvL6vKG+PrTal9V7KFFLZQllY5P3ck4hZkHgyL+w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/TiNvL6vKG+PrTal9V7KFFLZQllY5P3ck4hZkHgyL+w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/TiNvL6vKG+PrTal9V7KFFLZQllY5P3ck4hZkHgyL+w="
+    }
+  },
+  "version": "2.0"
+}

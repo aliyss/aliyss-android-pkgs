@@ -1,0 +1,8 @@
+{
+  "package": "com.oasisfeng.island.fdroid",
+  "signerFingerprints": [
+    "E9:58:DC:E4:A9:2C:C4:4F:CF:7F:9B:56:82:1E:36:DE:6E:3D:82:2A:B7:13:D8:32:5F:37:7D:B2:AB:9A:59:2C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

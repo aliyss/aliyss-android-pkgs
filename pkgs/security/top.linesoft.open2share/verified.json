@@ -1,0 +1,8 @@
+{
+  "package": "top.linesoft.open2share",
+  "signerFingerprints": [
+    "42:BE:F8:0C:4D:52:B2:EA:2E:77:47:27:FA:D1:5E:67:69:DC:97:0F:D3:FD:CC:CB:44:8E:29:F6:BE:A1:F9:33"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

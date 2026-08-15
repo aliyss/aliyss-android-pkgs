@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kolktech.linxshare_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SDqPTo+oFkEUGBkJxuew2oAEm3l6Dik+7WIPObO4mRU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SDqPTo+oFkEUGBkJxuew2oAEm3l6Dik+7WIPObO4mRU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SDqPTo+oFkEUGBkJxuew2oAEm3l6Dik+7WIPObO4mRU="
+    }
+  },
+  "version": "1.666"
+}

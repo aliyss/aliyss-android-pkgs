@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nerdoftheherd.tasker.rsync_541.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-X16wxnN9Yr+i6pndPG7D7GaEzlLhhYhrePAyUOOL3YM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X16wxnN9Yr+i6pndPG7D7GaEzlLhhYhrePAyUOOL3YM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X16wxnN9Yr+i6pndPG7D7GaEzlLhhYhrePAyUOOL3YM="
+    }
+  },
+  "version": "0.19"
+}

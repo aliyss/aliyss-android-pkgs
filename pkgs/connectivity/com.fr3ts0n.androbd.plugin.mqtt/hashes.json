@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fr3ts0n.androbd.plugin.mqtt_10101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-al5HXwFwO267P2M7UVLehttCMlgklDEvfp0R5MYf00s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-al5HXwFwO267P2M7UVLehttCMlgklDEvfp0R5MYf00s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-al5HXwFwO267P2M7UVLehttCMlgklDEvfp0R5MYf00s="
+    }
+  },
+  "version": "V1.1.1"
+}

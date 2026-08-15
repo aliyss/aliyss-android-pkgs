@@ -1,0 +1,18 @@
+{
+  "apkName": "app.tice.TICE.production_38.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZI2N20n0VHyHZraDg5TNpFJodc0vwJcMmYemYGFnOsg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZI2N20n0VHyHZraDg5TNpFJodc0vwJcMmYemYGFnOsg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZI2N20n0VHyHZraDg5TNpFJodc0vwJcMmYemYGFnOsg="
+    }
+  },
+  "version": "2.3"
+}

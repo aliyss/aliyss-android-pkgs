@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.armenian2_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B3vzFkKy8Xc6eT5+zMmDu0wQSG2SeoGvKxVDxhDQCZ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B3vzFkKy8Xc6eT5+zMmDu0wQSG2SeoGvKxVDxhDQCZ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B3vzFkKy8Xc6eT5+zMmDu0wQSG2SeoGvKxVDxhDQCZ0="
+    }
+  },
+  "version": "5.1.6158"
+}

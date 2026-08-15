@@ -1,0 +1,8 @@
+{
+  "package": "org.stypox.dicio",
+  "signerFingerprints": [
+    "F1:8A:3A:A2:8B:65:A3:B6:7F:1F:C9:F0:61:AA:34:54:71:AA:AB:F0:06:E3:FA:51:38:73:97:75:4B:86:D7:1F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

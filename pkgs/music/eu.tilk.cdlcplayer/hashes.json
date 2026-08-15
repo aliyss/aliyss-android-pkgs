@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.tilk.cdlcplayer_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EHT/WwrAq52VSZNvrqK/BZ1zqMQEd79oKWH7o2bQzq8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EHT/WwrAq52VSZNvrqK/BZ1zqMQEd79oKWH7o2bQzq8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EHT/WwrAq52VSZNvrqK/BZ1zqMQEd79oKWH7o2bQzq8="
+    }
+  },
+  "version": "0.0.6"
+}

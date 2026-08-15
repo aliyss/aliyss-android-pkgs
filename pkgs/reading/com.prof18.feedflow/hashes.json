@@ -1,0 +1,18 @@
+{
+  "apkName": "com.prof18.feedflow_6182.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Syvk4djBE4B7jELJ13MPrLwEbpBEI5CRrYWYDLi+zh0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Syvk4djBE4B7jELJ13MPrLwEbpBEI5CRrYWYDLi+zh0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Syvk4djBE4B7jELJ13MPrLwEbpBEI5CRrYWYDLi+zh0="
+    }
+  },
+  "version": "1.15.1"
+}

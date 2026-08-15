@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.ossturkish_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jjs0UNkH+3nChZN0MNAkr3wWZBff06dBtpifXuxLtzk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jjs0UNkH+3nChZN0MNAkr3wWZBff06dBtpifXuxLtzk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jjs0UNkH+3nChZN0MNAkr3wWZBff06dBtpifXuxLtzk="
+    }
+  },
+  "version": "5.1.6158"
+}

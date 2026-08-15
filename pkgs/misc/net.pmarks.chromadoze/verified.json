@@ -1,0 +1,8 @@
+{
+  "package": "net.pmarks.chromadoze",
+  "signerFingerprints": [
+    "EA:5B:46:0F:81:B8:6D:36:61:CC:41:B4:AA:78:65:81:11:AB:66:70:8A:35:4B:ED:63:AB:8C:D5:05:9A:96:18"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

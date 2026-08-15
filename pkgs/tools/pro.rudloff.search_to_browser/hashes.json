@@ -1,0 +1,18 @@
+{
+  "apkName": "pro.rudloff.search_to_browser_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jcyAH67Ueh2AQwgxF6Ce7uly4NGv+rysuI7uKG5N8KU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jcyAH67Ueh2AQwgxF6Ce7uly4NGv+rysuI7uKG5N8KU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jcyAH67Ueh2AQwgxF6Ce7uly4NGv+rysuI7uKG5N8KU="
+    }
+  },
+  "version": "0.1.1"
+}

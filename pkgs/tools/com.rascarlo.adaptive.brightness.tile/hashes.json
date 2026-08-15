@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rascarlo.adaptive.brightness.tile_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tEZiHOm/r/FKuQ0E71QV0d54I8BJfIMBrms5gi5Hc70="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tEZiHOm/r/FKuQ0E71QV0d54I8BJfIMBrms5gi5Hc70="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tEZiHOm/r/FKuQ0E71QV0d54I8BJfIMBrms5gi5Hc70="
+    }
+  },
+  "version": "0.2"
+}

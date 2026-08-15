@@ -1,0 +1,8 @@
+{
+  "package": "io.github.dmitrytsyvtsyn.algosortinganimations",
+  "signerFingerprints": [
+    "40:82:30:6E:A5:6C:80:61:23:7F:73:E1:7D:F7:0E:42:8B:D4:2E:66:67:46:11:91:63:22:0E:75:F4:46:F6:FF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

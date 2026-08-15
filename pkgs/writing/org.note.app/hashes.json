@@ -1,0 +1,18 @@
+{
+  "apkName": "org.note.app_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7yz0cHPzLxDO4akadZRBGb0KCN3fq8CVcrP8enoi62A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7yz0cHPzLxDO4akadZRBGb0KCN3fq8CVcrP8enoi62A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7yz0cHPzLxDO4akadZRBGb0KCN3fq8CVcrP8enoi62A="
+    }
+  },
+  "version": "1.0"
+}

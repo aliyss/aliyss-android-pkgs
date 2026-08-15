@@ -1,0 +1,8 @@
+{
+  "package": "eu.droogers.smsmatrix",
+  "signerFingerprints": [
+    "B9:DE:A1:C2:D5:2A:4D:61:15:0F:7A:54:32:B2:CA:19:84:A4:C5:84:E6:E8:69:15:21:1A:05:6B:CA:BD:73:79"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

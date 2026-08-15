@@ -1,0 +1,8 @@
+{
+  "package": "io.github.folderlogs",
+  "signerFingerprints": [
+    "E1:36:B4:52:53:DF:58:1F:E5:75:08:76:BD:D5:8F:C1:5B:93:6D:D8:7E:BD:E7:96:61:33:E2:1B:41:A4:A0:B2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

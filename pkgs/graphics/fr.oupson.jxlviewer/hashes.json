@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.oupson.jxlviewer_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cxL4XgRkE6ByRknLk/YhspsAMrdLtS6TTLSLMWGCDic="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cxL4XgRkE6ByRknLk/YhspsAMrdLtS6TTLSLMWGCDic="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cxL4XgRkE6ByRknLk/YhspsAMrdLtS6TTLSLMWGCDic="
+    }
+  },
+  "version": "0.5.2"
+}

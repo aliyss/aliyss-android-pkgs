@@ -1,0 +1,18 @@
+{
+  "apkName": "com.offlinecurrencyconverter.app_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-R83KWQlOPZ3UflcwT+Ul9ILhcwTCYjO7bJFHYnc4SMQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R83KWQlOPZ3UflcwT+Ul9ILhcwTCYjO7bJFHYnc4SMQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R83KWQlOPZ3UflcwT+Ul9ILhcwTCYjO7bJFHYnc4SMQ="
+    }
+  },
+  "version": "0.4.0"
+}

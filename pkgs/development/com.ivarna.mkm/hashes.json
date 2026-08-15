@@ -1,0 +1,18 @@
+{
+  "apkName": "com.ivarna.mkm_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zjVImYUMg/EfcGLRhAcuRwN9OskJHBtO8/wUERcyhLU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zjVImYUMg/EfcGLRhAcuRwN9OskJHBtO8/wUERcyhLU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zjVImYUMg/EfcGLRhAcuRwN9OskJHBtO8/wUERcyhLU="
+    }
+  },
+  "version": "1.7"
+}

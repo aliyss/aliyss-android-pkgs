@@ -1,0 +1,8 @@
+{
+  "package": "be.chvp.nanoledger",
+  "signerFingerprints": [
+    "54:1F:AD:2A:B1:6C:1F:D8:D4:64:B2:8E:E7:03:18:49:EA:13:33:A8:E8:E3:01:6C:D4:60:FE:22:CB:DE:2B:61"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

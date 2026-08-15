@@ -1,0 +1,8 @@
+{
+  "package": "com.osfans.trime",
+  "signerFingerprints": [
+    "5B:C7:7B:5D:6D:6C:B8:9C:BC:73:6D:7D:DC:15:1F:A7:9F:62:C4:5B:8A:AC:54:13:F5:02:B4:6C:D9:D0:79:2C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

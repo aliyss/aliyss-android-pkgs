@@ -1,0 +1,18 @@
+{
+  "apkName": "top.yztz.msggo_26000309.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZKb82frOCDovhQc4fEpCQ3WcSkBNk+RPdfsZxgeHoMM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZKb82frOCDovhQc4fEpCQ3WcSkBNk+RPdfsZxgeHoMM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZKb82frOCDovhQc4fEpCQ3WcSkBNk+RPdfsZxgeHoMM="
+    }
+  },
+  "version": "3.9"
+}

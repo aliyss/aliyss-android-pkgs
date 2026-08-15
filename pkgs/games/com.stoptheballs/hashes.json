@@ -1,0 +1,18 @@
+{
+  "apkName": "com.stoptheballs_120.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T/1uCIQijfwQ3IAtHRC+v9x6lj59fhcGh9hjhC+m6uI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T/1uCIQijfwQ3IAtHRC+v9x6lj59fhcGh9hjhC+m6uI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T/1uCIQijfwQ3IAtHRC+v9x6lj59fhcGh9hjhC+m6uI="
+    }
+  },
+  "version": "1.2.0"
+}

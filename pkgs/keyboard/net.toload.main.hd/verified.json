@@ -1,0 +1,8 @@
+{
+  "package": "net.toload.main.hd",
+  "signerFingerprints": [
+    "53:A9:01:35:6C:91:7F:41:23:87:05:B2:BF:76:E7:29:F3:31:D6:85:1A:50:F9:54:5B:9B:25:BE:D6:CF:40:EE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

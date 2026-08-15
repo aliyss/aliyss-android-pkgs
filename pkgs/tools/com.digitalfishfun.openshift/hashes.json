@@ -1,0 +1,18 @@
+{
+  "apkName": "com.digitalfishfun.openshift_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-amy2hMwk4v00ubJ38OD9wInCc1gS1OO+Wmh7LkI9uKc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-amy2hMwk4v00ubJ38OD9wInCc1gS1OO+Wmh7LkI9uKc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-amy2hMwk4v00ubJ38OD9wInCc1gS1OO+Wmh7LkI9uKc="
+    }
+  },
+  "version": "1.0"
+}

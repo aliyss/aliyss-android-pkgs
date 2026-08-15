@@ -1,0 +1,8 @@
+{
+  "package": "me.d3sox.betternetworktiles.libre",
+  "signerFingerprints": [
+    "6E:10:F9:62:AE:2A:C2:6A:A1:5B:50:D9:42:17:37:42:F2:42:A4:4B:F4:55:41:CD:D7:76:66:E2:B3:A3:90:AD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

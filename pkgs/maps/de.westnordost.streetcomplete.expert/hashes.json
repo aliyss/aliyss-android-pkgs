@@ -1,0 +1,18 @@
+{
+  "apkName": "de.westnordost.streetcomplete.expert_6308.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hpBt3YaAPJWykJ3ZmZOeNHLVnamrY/EnZoBjsU/JRD0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hpBt3YaAPJWykJ3ZmZOeNHLVnamrY/EnZoBjsU/JRD0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hpBt3YaAPJWykJ3ZmZOeNHLVnamrY/EnZoBjsU/JRD0="
+    }
+  },
+  "version": "63.4"
+}

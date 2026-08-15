@@ -1,0 +1,18 @@
+{
+  "apkName": "com.guruswarupa.launchh_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zu4V291V1GlhkXLaJT3w+DbM5r8TIrgcDRsGD0wrTrA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zu4V291V1GlhkXLaJT3w+DbM5r8TIrgcDRsGD0wrTrA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zu4V291V1GlhkXLaJT3w+DbM5r8TIrgcDRsGD0wrTrA="
+    }
+  },
+  "version": "5.8"
+}

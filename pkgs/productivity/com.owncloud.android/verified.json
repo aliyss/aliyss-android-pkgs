@@ -1,0 +1,8 @@
+{
+  "package": "com.owncloud.android",
+  "signerFingerprints": [
+    "60:B7:E2:7A:95:69:53:5A:DE:18:D4:A9:CC:CE:C0:8C:26:2E:44:E1:AA:B1:C0:4D:E0:52:89:2A:B8:2E:31:EB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

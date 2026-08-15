@@ -1,0 +1,18 @@
+{
+  "apkName": "space.o4bit.projectasteria.foss_50.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4XInP8tGnaX0GcsMA5hRxRra8geJqnqvyQpV1akk0dM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4XInP8tGnaX0GcsMA5hRxRra8geJqnqvyQpV1akk0dM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4XInP8tGnaX0GcsMA5hRxRra8geJqnqvyQpV1akk0dM="
+    }
+  },
+  "version": "4.5.0"
+}

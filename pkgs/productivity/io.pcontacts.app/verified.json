@@ -1,0 +1,8 @@
+{
+  "package": "io.pcontacts.app",
+  "signerFingerprints": [
+    "39:21:A4:4B:D8:0B:B8:F4:A2:BA:E8:0A:1C:AB:D5:85:D0:83:53:CD:EB:54:D8:07:E4:D1:AC:A8:AB:09:93:66"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

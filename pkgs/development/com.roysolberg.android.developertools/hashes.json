@@ -1,0 +1,18 @@
+{
+  "apkName": "com.roysolberg.android.developertools_69.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VVCo2vvj/J2AmblTtNI1S+Nw70HBj9lYN+Ee10V7XCo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VVCo2vvj/J2AmblTtNI1S+Nw70HBj9lYN+Ee10V7XCo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VVCo2vvj/J2AmblTtNI1S+Nw70HBj9lYN+Ee10V7XCo="
+    }
+  },
+  "version": "2.1.2"
+}

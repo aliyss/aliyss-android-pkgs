@@ -1,0 +1,18 @@
+{
+  "apkName": "com.annie.dictionary.fork_20210415.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Xs8aAO3lsn9VW9brmSpXbQQvzAUmznyNdgzbPMMVK48="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xs8aAO3lsn9VW9brmSpXbQQvzAUmznyNdgzbPMMVK48="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Xs8aAO3lsn9VW9brmSpXbQQvzAUmznyNdgzbPMMVK48="
+    }
+  },
+  "version": "2.1.3"
+}

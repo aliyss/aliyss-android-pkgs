@@ -1,0 +1,8 @@
+{
+  "package": "org.y20k.escapepod",
+  "signerFingerprints": [
+    "F5:BA:11:D9:4B:C5:03:B4:E3:9A:9E:82:3A:A0:26:91:EB:EC:A0:A2:B9:17:E1:FB:97:20:F0:60:21:08:1E:9D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

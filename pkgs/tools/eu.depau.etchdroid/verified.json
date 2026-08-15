@@ -1,0 +1,8 @@
+{
+  "package": "eu.depau.etchdroid",
+  "signerFingerprints": [
+    "BB:B3:C5:88:55:98:00:54:DF:31:5B:F5:1C:04:5F:F2:B5:01:C5:87:06:51:14:59:FC:34:53:27:DF:BF:3E:CE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

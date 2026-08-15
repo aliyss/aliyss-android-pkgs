@@ -1,0 +1,18 @@
+{
+  "apkName": "at.techbee.jtx_217020009.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kvvWf9k1tSu6ngQAPp1tyCNbtcZuSNz3evQcDmYLDJ4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kvvWf9k1tSu6ngQAPp1tyCNbtcZuSNz3evQcDmYLDJ4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kvvWf9k1tSu6ngQAPp1tyCNbtcZuSNz3evQcDmYLDJ4="
+    }
+  },
+  "version": "2.17.00.ose"
+}

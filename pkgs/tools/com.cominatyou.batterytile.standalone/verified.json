@@ -1,0 +1,8 @@
+{
+  "package": "com.cominatyou.batterytile.standalone",
+  "signerFingerprints": [
+    "48:C1:E0:8D:91:03:D1:AA:0E:A5:A8:A2:1C:FE:2E:AC:27:4A:58:9E:AF:B0:AA:35:B9:90:19:48:6F:B9:13:EA"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

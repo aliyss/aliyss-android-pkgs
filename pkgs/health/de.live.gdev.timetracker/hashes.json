@@ -1,0 +1,18 @@
+{
+  "apkName": "de.live.gdev.timetracker_26.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-M3UzEOImF4FDxn2pUL2XaKShhwn1VFFV4JCKcT/F1qc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M3UzEOImF4FDxn2pUL2XaKShhwn1VFFV4JCKcT/F1qc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-M3UzEOImF4FDxn2pUL2XaKShhwn1VFFV4JCKcT/F1qc="
+    }
+  },
+  "version": "1.3.13"
+}

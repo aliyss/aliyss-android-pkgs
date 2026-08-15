@@ -1,0 +1,18 @@
+{
+  "apkName": "se.nullable.flickboard_112.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KRitgiOtkrrOgITJMDpnI/soO4ov+rgprwRrBqfrJf8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KRitgiOtkrrOgITJMDpnI/soO4ov+rgprwRrBqfrJf8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KRitgiOtkrrOgITJMDpnI/soO4ov+rgprwRrBqfrJf8="
+    }
+  },
+  "version": "0.3.4.1"
+}

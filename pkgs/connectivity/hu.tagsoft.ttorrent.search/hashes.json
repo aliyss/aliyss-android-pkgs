@@ -1,0 +1,18 @@
+{
+  "apkName": "hu.tagsoft.ttorrent.search_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EKgfHP9bwkWV1uKEnQbTdkfoqa6lYLKOtn6DQpmAJHU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EKgfHP9bwkWV1uKEnQbTdkfoqa6lYLKOtn6DQpmAJHU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EKgfHP9bwkWV1uKEnQbTdkfoqa6lYLKOtn6DQpmAJHU="
+    }
+  },
+  "version": "1.0.2"
+}

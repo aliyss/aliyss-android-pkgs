@@ -1,0 +1,18 @@
+{
+  "apkName": "com.callblocker_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-I7eW5OS9PtlOgQEH48tkhb7jeLP0+RVutzpUf9U/bpo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I7eW5OS9PtlOgQEH48tkhb7jeLP0+RVutzpUf9U/bpo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-I7eW5OS9PtlOgQEH48tkhb7jeLP0+RVutzpUf9U/bpo="
+    }
+  },
+  "version": "0.3.4"
+}

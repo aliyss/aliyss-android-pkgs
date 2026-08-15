@@ -1,0 +1,18 @@
+{
+  "apkName": "org.stendhalgame.client_1049000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oFCQi6uXFX4pLW4S54hLTEukM62JTtjKcF2eCzkJNV0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oFCQi6uXFX4pLW4S54hLTEukM62JTtjKcF2eCzkJNV0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oFCQi6uXFX4pLW4S54hLTEukM62JTtjKcF2eCzkJNV0="
+    }
+  },
+  "version": "1.49"
+}

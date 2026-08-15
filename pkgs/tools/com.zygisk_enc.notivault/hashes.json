@@ -1,0 +1,18 @@
+{
+  "apkName": "com.zygisk_enc.notivault_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-P+zCeKyAnal8w55U2H2qNqKH4mMkHexId5HRS23RMyc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P+zCeKyAnal8w55U2H2qNqKH4mMkHexId5HRS23RMyc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P+zCeKyAnal8w55U2H2qNqKH4mMkHexId5HRS23RMyc="
+    }
+  },
+  "version": "2.1.0"
+}

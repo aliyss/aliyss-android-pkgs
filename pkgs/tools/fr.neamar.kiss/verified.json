@@ -1,0 +1,8 @@
+{
+  "package": "fr.neamar.kiss",
+  "signerFingerprints": [
+    "EC:03:8E:5B:12:C9:FB:8D:F2:3B:5E:CC:1F:71:DD:25:1B:C5:03:B3:0C:EC:8D:58:A0:0C:FA:E2:C3:1A:BF:1B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

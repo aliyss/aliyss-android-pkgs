@@ -1,0 +1,18 @@
+{
+  "apkName": "app.simple.inure_10720.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MRlAwHPsSoNbfJc+AaO+EpVjzT69MAwJbxVwiYWWdz4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MRlAwHPsSoNbfJc+AaO+EpVjzT69MAwJbxVwiYWWdz4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MRlAwHPsSoNbfJc+AaO+EpVjzT69MAwJbxVwiYWWdz4="
+    }
+  },
+  "version": "build107.2.0"
+}

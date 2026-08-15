@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jhc.volumetile_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JLoHHnSJD3tR78ipH6Fdj5ZZlSYlRC5H3QnldS3xNLQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JLoHHnSJD3tR78ipH6Fdj5ZZlSYlRC5H3QnldS3xNLQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JLoHHnSJD3tR78ipH6Fdj5ZZlSYlRC5H3QnldS3xNLQ="
+    }
+  },
+  "version": "1.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "de.georgsieber.ballbreak_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5unzcpPTqqzacWP5l9F+U4lirN56mR9jJfndcrRf/gI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5unzcpPTqqzacWP5l9F+U4lirN56mR9jJfndcrRf/gI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5unzcpPTqqzacWP5l9F+U4lirN56mR9jJfndcrRf/gI="
+    }
+  },
+  "version": "1.8.1"
+}

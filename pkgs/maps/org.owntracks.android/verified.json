@@ -1,0 +1,8 @@
+{
+  "package": "org.owntracks.android",
+  "signerFingerprints": [
+    "8D:8D:B6:8E:4C:58:21:19:C2:D9:F1:83:C1:4A:89:77:77:92:91:8E:BA:7B:3D:E7:62:E1:C1:F7:34:75:39:7B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

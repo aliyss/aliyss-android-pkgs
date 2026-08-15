@@ -1,0 +1,8 @@
+{
+  "package": "org.libreoffice.impressremote",
+  "signerFingerprints": [
+    "D2:33:8D:68:59:F0:95:94:4A:8C:DB:A8:D5:CA:FF:3E:5C:FC:12:11:13:EE:7A:5C:82:5A:97:05:46:55:A7:88"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

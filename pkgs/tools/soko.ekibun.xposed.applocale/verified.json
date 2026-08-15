@@ -1,0 +1,8 @@
+{
+  "package": "soko.ekibun.xposed.applocale",
+  "signerFingerprints": [
+    "CA:7C:6A:F8:F1:CD:48:E9:47:8B:0F:6C:48:35:04:0E:E5:FF:4E:7C:09:10:C4:E7:FF:E1:D7:B8:89:75:44:3E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

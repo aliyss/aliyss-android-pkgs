@@ -1,0 +1,18 @@
+{
+  "apkName": "com.koalasat.pokey_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bBXfg/RrFDfmywHjdygp0qXjXMbQ4yjtnJKAUffv/ko="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bBXfg/RrFDfmywHjdygp0qXjXMbQ4yjtnJKAUffv/ko="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bBXfg/RrFDfmywHjdygp0qXjXMbQ4yjtnJKAUffv/ko="
+    }
+  },
+  "version": "v0.2.5-beta"
+}

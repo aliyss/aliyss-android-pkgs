@@ -1,0 +1,8 @@
+{
+  "package": "dev.sebaubuntu.athena",
+  "signerFingerprints": [
+    "3D:3D:6D:87:BE:3C:40:F9:C7:24:32:C0:13:21:07:21:38:1A:89:EF:D6:75:54:61:3A:45:11:8A:BD:83:08:E9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "io.github.x0b.rcx",
+  "signerFingerprints": [
+    "D4:6E:91:71:8C:12:36:01:FC:62:80:78:83:23:DA:ED:E7:C8:D2:F6:4F:61:52:BD:44:C1:05:AE:99:14:34:F1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

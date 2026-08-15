@@ -1,0 +1,8 @@
+{
+  "package": "net.moasdawiki.app",
+  "signerFingerprints": [
+    "BA:84:10:D3:58:0B:74:EF:09:C6:9E:C7:5C:C6:7B:D2:0A:A7:45:48:67:D2:18:04:53:A1:F6:0B:AF:53:3F:4C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

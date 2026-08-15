@@ -1,0 +1,18 @@
+{
+  "apkName": "top.donmor.tiddloid_205004.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sh8jQVlMAfyTXpOOjX8eANkeiJfe7x/TeDUhSJ/Mpro="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sh8jQVlMAfyTXpOOjX8eANkeiJfe7x/TeDUhSJ/Mpro="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sh8jQVlMAfyTXpOOjX8eANkeiJfe7x/TeDUhSJ/Mpro="
+    }
+  },
+  "version": "2.5.4"
+}

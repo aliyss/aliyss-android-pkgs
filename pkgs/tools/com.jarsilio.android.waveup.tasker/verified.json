@@ -1,0 +1,8 @@
+{
+  "package": "com.jarsilio.android.waveup.tasker",
+  "signerFingerprints": [
+    "67:A2:C1:45:9B:CE:29:6B:4C:B0:CD:15:8B:89:2D:62:B8:89:76:41:E6:50:54:4D:46:05:F1:CF:36:67:71:85"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

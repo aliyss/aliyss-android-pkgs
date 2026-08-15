@@ -1,0 +1,8 @@
+{
+  "package": "com.example.timenotification",
+  "signerFingerprints": [
+    "8A:AA:1D:7A:42:F5:18:26:20:81:A4:36:3A:95:3E:2D:23:BC:17:7B:DC:5B:6A:CA:94:E0:9A:AA:60:80:99:FF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

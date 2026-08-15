@@ -1,0 +1,8 @@
+{
+  "package": "fr.duniter.cesium",
+  "signerFingerprints": [
+    "BF:B9:09:74:EE:4F:FF:C7:F5:D1:93:10:86:2C:C0:13:87:81:54:82:F0:5C:18:ED:13:31:D1:A7:25:56:A4:BD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

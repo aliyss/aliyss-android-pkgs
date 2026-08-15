@@ -1,0 +1,18 @@
+{
+  "apkName": "com.arijit.pomodoro_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4yG29g8I2JCvaQCmFUS6j/cWR0ozwXPEGybReetqw2I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4yG29g8I2JCvaQCmFUS6j/cWR0ozwXPEGybReetqw2I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4yG29g8I2JCvaQCmFUS6j/cWR0ozwXPEGybReetqw2I="
+    }
+  },
+  "version": "1.14"
+}

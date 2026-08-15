@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hwloc.lstopo_80284.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TGfcY+90vm80kMiBTiLpLU+eMcQsyxf0D1gkImew23o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TGfcY+90vm80kMiBTiLpLU+eMcQsyxf0D1gkImew23o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TGfcY+90vm80kMiBTiLpLU+eMcQsyxf0D1gkImew23o="
+    }
+  },
+  "version": "2.14.0-2-1.6.2"
+}

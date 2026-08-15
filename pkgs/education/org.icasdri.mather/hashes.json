@@ -1,0 +1,18 @@
+{
+  "apkName": "org.icasdri.mather_300.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-q9n0o6aTaOuveMNmSaM+DW22CkJdJrB6+C+VJ6ZsZcc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q9n0o6aTaOuveMNmSaM+DW22CkJdJrB6+C+VJ6ZsZcc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q9n0o6aTaOuveMNmSaM+DW22CkJdJrB6+C+VJ6ZsZcc="
+    }
+  },
+  "version": "0.3.0"
+}

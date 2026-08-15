@@ -1,0 +1,8 @@
+{
+  "package": "com.drip",
+  "signerFingerprints": [
+    "4C:FD:84:5C:10:E6:06:1B:7E:07:69:6A:17:48:55:79:9A:59:74:3F:B0:18:85:93:27:F1:E9:2D:D1:25:05:82"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

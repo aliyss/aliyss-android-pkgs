@@ -1,0 +1,8 @@
+{
+  "package": "com.epione.app",
+  "signerFingerprints": [
+    "F9:3C:74:64:ED:3C:F1:19:15:7D:DB:4C:E8:F1:98:06:46:48:2E:D6:A7:36:6B:2E:7E:FA:7A:65:16:AC:91:84"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

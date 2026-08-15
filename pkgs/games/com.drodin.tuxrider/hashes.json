@@ -1,0 +1,18 @@
+{
+  "apkName": "com.drodin.tuxrider_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vG8XZ6SfB1K56riHy2w4NekX4ZmpFNQTiPurksRIajw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vG8XZ6SfB1K56riHy2w4NekX4ZmpFNQTiPurksRIajw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vG8XZ6SfB1K56riHy2w4NekX4ZmpFNQTiPurksRIajw="
+    }
+  },
+  "version": "1.5.0"
+}

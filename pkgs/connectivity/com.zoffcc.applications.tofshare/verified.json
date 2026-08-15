@@ -1,0 +1,8 @@
+{
+  "package": "com.zoffcc.applications.tofshare",
+  "signerFingerprints": [
+    "48:2C:78:92:BF:34:23:AF:88:2D:5F:73:B8:E7:28:29:B1:5A:8C:08:36:CD:35:E8:D3:7E:83:5E:68:9D:82:04"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

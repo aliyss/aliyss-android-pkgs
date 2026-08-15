@@ -1,0 +1,18 @@
+{
+  "apkName": "net.nitroshare.android_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-g0S1QWJy1EhcAqBzg0WlimeAe1FQFw5ds6u8Xzl/iIw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-g0S1QWJy1EhcAqBzg0WlimeAe1FQFw5ds6u8Xzl/iIw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-g0S1QWJy1EhcAqBzg0WlimeAe1FQFw5ds6u8Xzl/iIw="
+    }
+  },
+  "version": "0.4.0.39"
+}

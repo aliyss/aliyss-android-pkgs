@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kazufukurou.nanji_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-23BaXRvk6zuadza4Xz10wjwY1wzO6UO4qm20TfL9J58="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-23BaXRvk6zuadza4Xz10wjwY1wzO6UO4qm20TfL9J58="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-23BaXRvk6zuadza4Xz10wjwY1wzO6UO4qm20TfL9J58="
+    }
+  },
+  "version": "1.4.3"
+}

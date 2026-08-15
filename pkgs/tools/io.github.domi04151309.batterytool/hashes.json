@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.domi04151309.batterytool_120.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bsISg4u8WFIbO97B3NRZbtZJajRFRmykyez5FwfYKxQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bsISg4u8WFIbO97B3NRZbtZJajRFRmykyez5FwfYKxQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bsISg4u8WFIbO97B3NRZbtZJajRFRmykyez5FwfYKxQ="
+    }
+  },
+  "version": "1.2.0"
+}

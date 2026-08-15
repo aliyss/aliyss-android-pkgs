@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nathaniel.motus.cavevin_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qAquXgtZ8SCJrmzr8xTWUc335P97pttTJ2J9H6SAtFw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qAquXgtZ8SCJrmzr8xTWUc335P97pttTJ2J9H6SAtFw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qAquXgtZ8SCJrmzr8xTWUc335P97pttTJ2J9H6SAtFw="
+    }
+  },
+  "version": "1.3"
+}

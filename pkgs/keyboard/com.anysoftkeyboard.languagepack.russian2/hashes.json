@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.russian2_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tDaMoVbmEQtITl4oWWqI+x7OGH4hqLaOFFSxnUFkv1Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tDaMoVbmEQtITl4oWWqI+x7OGH4hqLaOFFSxnUFkv1Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tDaMoVbmEQtITl4oWWqI+x7OGH4hqLaOFFSxnUFkv1Q="
+    }
+  },
+  "version": "5.1.6158"
+}

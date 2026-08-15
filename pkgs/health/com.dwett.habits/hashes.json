@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dwett.habits_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6t+XDnufv0dwolpvAmD5MiDwQLytKrwwFVeHWVP9bbg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6t+XDnufv0dwolpvAmD5MiDwQLytKrwwFVeHWVP9bbg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6t+XDnufv0dwolpvAmD5MiDwQLytKrwwFVeHWVP9bbg="
+    }
+  },
+  "version": "1.4"
+}

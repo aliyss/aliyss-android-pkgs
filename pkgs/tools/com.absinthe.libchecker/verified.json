@@ -1,0 +1,8 @@
+{
+  "package": "com.absinthe.libchecker",
+  "signerFingerprints": [
+    "47:27:41:14:AB:10:AD:E1:6E:41:08:8A:99:1B:E3:EA:4A:62:18:55:F2:48:7F:1E:DC:62:18:73:67:F4:A5:C0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

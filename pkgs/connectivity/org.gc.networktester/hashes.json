@@ -1,0 +1,18 @@
+{
+  "apkName": "org.gc.networktester_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gHv8ZDWpr6Fp32Fr2R0fUhLXBAYC0MbIKubpc18G5rQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gHv8ZDWpr6Fp32Fr2R0fUhLXBAYC0MbIKubpc18G5rQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gHv8ZDWpr6Fp32Fr2R0fUhLXBAYC0MbIKubpc18G5rQ="
+    }
+  },
+  "version": "1.8.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pocket_plan.j7_003_151.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TrDLTaq8mmn1/dZwz9k/u5xXHuL/gYHdKEnFZbczXXI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TrDLTaq8mmn1/dZwz9k/u5xXHuL/gYHdKEnFZbczXXI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TrDLTaq8mmn1/dZwz9k/u5xXHuL/gYHdKEnFZbczXXI="
+    }
+  },
+  "version": "1.5.1"
+}

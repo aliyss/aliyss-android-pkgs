@@ -1,0 +1,18 @@
+{
+  "apkName": "exa.lnx.a_675.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UQGvOuKj/QPth+u7eJlvv6TvljjTqSOyMlTN+NVVNlA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UQGvOuKj/QPth+u7eJlvv6TvljjTqSOyMlTN+NVVNlA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UQGvOuKj/QPth+u7eJlvv6TvljjTqSOyMlTN+NVVNlA="
+    }
+  },
+  "version": "6.75 Stable"
+}

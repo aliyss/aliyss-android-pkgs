@@ -1,0 +1,18 @@
+{
+  "apkName": "com.termux.boot_1000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-b3z5uU9TnT79SvNUT/gZlHtJOVJ12M+n5fgN4U89nPg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b3z5uU9TnT79SvNUT/gZlHtJOVJ12M+n5fgN4U89nPg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b3z5uU9TnT79SvNUT/gZlHtJOVJ12M+n5fgN4U89nPg="
+    }
+  },
+  "version": "0.8.1"
+}

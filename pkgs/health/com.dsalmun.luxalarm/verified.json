@@ -1,0 +1,8 @@
+{
+  "package": "com.dsalmun.luxalarm",
+  "signerFingerprints": [
+    "32:6C:B2:FD:81:45:4D:4B:8C:88:81:E4:9C:69:78:90:84:94:83:19:D4:DB:83:2F:A7:59:B5:99:8E:59:15:A7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

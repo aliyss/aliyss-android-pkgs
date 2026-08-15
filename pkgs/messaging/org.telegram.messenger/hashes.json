@@ -1,0 +1,9 @@
+{
+  "version": "12.9.2",
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dVzi/Ja3Al14L3BkranJH7QR1q+H+QNi20pQ2NRLd2o="
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "shortcut.healthconnect_10003.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kFhjfviOKAwK5z0Fy7Jb6qmVt4obk+P3EaF6JESKQmg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kFhjfviOKAwK5z0Fy7Jb6qmVt4obk+P3EaF6JESKQmg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kFhjfviOKAwK5z0Fy7Jb6qmVt4obk+P3EaF6JESKQmg="
+    }
+  },
+  "version": "1.0.3"
+}

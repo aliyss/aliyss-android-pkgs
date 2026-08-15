@@ -1,0 +1,18 @@
+{
+  "apkName": "com.oasisfeng.island.fdroid_51801.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2bsVAz3vPivOy24tmXfAuRTV+Zsy3QmrQV85aNY+cbE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2bsVAz3vPivOy24tmXfAuRTV+Zsy3QmrQV85aNY+cbE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2bsVAz3vPivOy24tmXfAuRTV+Zsy3QmrQV85aNY+cbE="
+    }
+  },
+  "version": "6.4.2-d46911c9"
+}

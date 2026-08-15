@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sanskritbasics.memory_34.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gweYpucGU9ZP33So8zvu1Ej/srIsoHNq33z2oHKJ6Dw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gweYpucGU9ZP33So8zvu1Ej/srIsoHNq33z2oHKJ6Dw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gweYpucGU9ZP33So8zvu1Ej/srIsoHNq33z2oHKJ6Dw="
+    }
+  },
+  "version": "3.4"
+}

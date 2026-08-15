@@ -1,0 +1,18 @@
+{
+  "apkName": "com.in.my.district_10303.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-FaDUd6SGjMJcRss7qO74TlHj9Rl1x06BdkvKdn6L+RI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FaDUd6SGjMJcRss7qO74TlHj9Rl1x06BdkvKdn6L+RI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-FaDUd6SGjMJcRss7qO74TlHj9Rl1x06BdkvKdn6L+RI="
+    }
+  },
+  "version": "1.3.3"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kaanelloed.iconeration_44.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lYJY8suG1XgKVL+TzRMbs4BBJLqo/EUsJUE5r1F28Vs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lYJY8suG1XgKVL+TzRMbs4BBJLqo/EUsJUE5r1F28Vs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lYJY8suG1XgKVL+TzRMbs4BBJLqo/EUsJUE5r1F28Vs="
+    }
+  },
+  "version": "2025.02.00"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kolakek.pimiwidget_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aSWcbC1kL+IILA+mELW7YvUOg9cRQbegcWCtlGQsu7A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aSWcbC1kL+IILA+mELW7YvUOg9cRQbegcWCtlGQsu7A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aSWcbC1kL+IILA+mELW7YvUOg9cRQbegcWCtlGQsu7A="
+    }
+  },
+  "version": "2.0.0"
+}

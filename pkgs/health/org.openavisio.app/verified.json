@@ -1,0 +1,8 @@
+{
+  "package": "org.openavisio.app",
+  "signerFingerprints": [
+    "0C:B6:93:0F:1C:33:2B:72:30:EC:0F:D1:A1:07:5B:FB:50:15:F0:99:92:A2:FD:C9:F2:6C:40:13:5D:E9:30:9C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

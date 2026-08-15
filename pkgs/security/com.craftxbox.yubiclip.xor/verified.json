@@ -1,0 +1,8 @@
+{
+  "package": "com.craftxbox.yubiclip.xor",
+  "signerFingerprints": [
+    "E9:70:46:68:23:3D:B0:AB:97:F4:0C:9A:46:CC:B2:E9:CB:CC:97:48:6A:3E:65:06:47:EA:89:5B:10:CC:85:41"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.hisname.fireflyiii_112.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-c5+uLG+sq2jD5HBpldIyu7J4IW8KIUo9BLNM8NZ9a8U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c5+uLG+sq2jD5HBpldIyu7J4IW8KIUo9BLNM8NZ9a8U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c5+uLG+sq2jD5HBpldIyu7J4IW8KIUo9BLNM8NZ9a8U="
+    }
+  },
+  "version": "5.0.7"
+}

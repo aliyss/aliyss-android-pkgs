@@ -1,0 +1,8 @@
+{
+  "package": "org.kaorun.nouto",
+  "signerFingerprints": [
+    "8F:62:E5:1B:B3:7F:E1:FD:85:DA:1C:30:4B:E2:A7:B1:A2:B0:20:04:EC:E5:86:56:B5:9E:79:3D:4F:57:A2:62"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

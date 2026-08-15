@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gero.newpass_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T/mmnm7lBxUokqtNVDVsb5y8GoZdmhyX9BvZ43MBhmU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T/mmnm7lBxUokqtNVDVsb5y8GoZdmhyX9BvZ43MBhmU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T/mmnm7lBxUokqtNVDVsb5y8GoZdmhyX9BvZ43MBhmU="
+    }
+  },
+  "version": "1.2.0"
+}

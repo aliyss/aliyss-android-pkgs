@@ -1,0 +1,8 @@
+{
+  "package": "jsettlers.main.android",
+  "signerFingerprints": [
+    "4D:A4:C8:E2:1C:9C:3D:84:5F:A8:14:50:59:5C:36:8B:20:5D:31:3A:6C:52:8C:37:18:27:7F:BA:9B:CA:E7:EE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

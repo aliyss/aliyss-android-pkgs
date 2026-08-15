@@ -1,0 +1,8 @@
+{
+  "package": "eu.fliegendewurst.triliumdroid",
+  "signerFingerprints": [
+    "37:A8:0A:0B:7A:E0:98:73:F2:4C:D9:6A:42:D4:26:AD:E1:E4:85:B8:43:4B:19:36:8E:15:D2:F0:43:6A:C9:4D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

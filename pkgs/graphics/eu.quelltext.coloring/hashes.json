@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.quelltext.coloring_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7O76ZniG6AspxislqRH30PecS/GHazGvCy0HA5gBDiA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7O76ZniG6AspxislqRH30PecS/GHazGvCy0HA5gBDiA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7O76ZniG6AspxislqRH30PecS/GHazGvCy0HA5gBDiA="
+    }
+  },
+  "version": "1.1.8"
+}

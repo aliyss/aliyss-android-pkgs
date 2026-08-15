@@ -1,0 +1,8 @@
+{
+  "package": "br.com.gualandi.dailypill",
+  "signerFingerprints": [
+    "9C:6C:4B:75:08:7E:A6:06:AD:39:60:EA:08:8F:2C:3C:9B:D9:BC:4A:3A:79:FF:28:99:DF:1E:B7:6C:96:6A:3B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

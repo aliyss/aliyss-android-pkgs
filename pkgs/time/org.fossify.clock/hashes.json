@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fossify.clock_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Q8+fDsRfHx/y30coZiLluPOs7a6we392QbUkPb7coHk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q8+fDsRfHx/y30coZiLluPOs7a6we392QbUkPb7coHk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Q8+fDsRfHx/y30coZiLluPOs7a6we392QbUkPb7coHk="
+    }
+  },
+  "version": "1.6.0"
+}

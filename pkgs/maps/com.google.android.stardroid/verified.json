@@ -1,0 +1,8 @@
+{
+  "package": "com.google.android.stardroid",
+  "signerFingerprints": [
+    "06:6B:05:D0:1E:A5:B4:99:80:74:CE:AB:1C:CC:A5:BF:42:71:19:95:ED:C6:AE:DB:FA:31:1E:56:20:F1:E4:42"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

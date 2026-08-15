@@ -1,0 +1,18 @@
+{
+  "apkName": "barilyuk.mobilosignal_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aGM4390SXTb6TAzNxOCs3TEQ4wC0zFLbkgg0Zgdap+o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aGM4390SXTb6TAzNxOCs3TEQ4wC0zFLbkgg0Zgdap+o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aGM4390SXTb6TAzNxOCs3TEQ4wC0zFLbkgg0Zgdap+o="
+    }
+  },
+  "version": "1.1"
+}

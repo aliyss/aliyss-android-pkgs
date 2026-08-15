@@ -1,0 +1,18 @@
+{
+  "apkName": "com.angrydoughnuts.android.alarmclock_27.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vxXqneIcUT/1cSS4XKDrKMzu7uld5SPCCVUDrr5HCcs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vxXqneIcUT/1cSS4XKDrKMzu7uld5SPCCVUDrr5HCcs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vxXqneIcUT/1cSS4XKDrKMzu7uld5SPCCVUDrr5HCcs="
+    }
+  },
+  "version": "2.13"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tre.tokiponadict_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-C0xQ/q7yylzcNqA2fbpNttJc+wpsphm53KLbIDmtJH8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C0xQ/q7yylzcNqA2fbpNttJc+wpsphm53KLbIDmtJH8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-C0xQ/q7yylzcNqA2fbpNttJc+wpsphm53KLbIDmtJH8="
+    }
+  },
+  "version": "1"
+}

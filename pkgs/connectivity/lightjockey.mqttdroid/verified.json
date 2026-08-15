@@ -1,0 +1,8 @@
+{
+  "package": "lightjockey.mqttdroid",
+  "signerFingerprints": [
+    "38:71:AC:FE:2F:43:2B:AC:15:6E:C8:43:84:A9:47:C9:55:BF:FB:C5:F3:D8:CC:E2:4A:9A:0F:4C:10:78:C7:98"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

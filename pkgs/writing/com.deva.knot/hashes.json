@@ -1,0 +1,18 @@
+{
+  "apkName": "com.deva.knot_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QEAuIgVQzmP98WUE7Cr6ZiucpLErt1Zd/fPLLJO0Gms="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QEAuIgVQzmP98WUE7Cr6ZiucpLErt1Zd/fPLLJO0Gms="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QEAuIgVQzmP98WUE7Cr6ZiucpLErt1Zd/fPLLJO0Gms="
+    }
+  },
+  "version": "1.0"
+}

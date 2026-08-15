@@ -1,0 +1,8 @@
+{
+  "package": "it.danieleverducci.nextcloudmaps",
+  "signerFingerprints": [
+    "E3:F0:F8:2D:D7:A4:1C:9F:69:B0:24:B6:6A:75:AE:6B:91:3D:64:08:28:86:9A:61:5A:6D:A5:99:F3:E9:5B:D2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

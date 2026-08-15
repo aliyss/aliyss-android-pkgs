@@ -1,0 +1,18 @@
+{
+  "apkName": "miccah.mpvremote_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NCuUNbmDZtnxwRlg2h3u6EnsvETGKHVSuij7rIo/BRQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NCuUNbmDZtnxwRlg2h3u6EnsvETGKHVSuij7rIo/BRQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NCuUNbmDZtnxwRlg2h3u6EnsvETGKHVSuij7rIo/BRQ="
+    }
+  },
+  "version": "0.0.5"
+}

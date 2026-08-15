@@ -1,0 +1,8 @@
+{
+  "package": "app.dapk.st",
+  "signerFingerprints": [
+    "46:CA:77:45:59:7A:0B:EF:F3:59:BE:7D:4B:8B:E4:99:F1:68:F7:D3:52:C7:2C:56:5A:F3:0D:B4:DD:70:E5:A0"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

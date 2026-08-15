@@ -1,0 +1,8 @@
+{
+  "package": "org.dkf.jmule",
+  "signerFingerprints": [
+    "BA:A7:52:8B:2B:B5:29:5C:34:4B:5A:F9:25:BC:1F:06:0C:AA:A1:A2:28:BE:71:8A:D1:4C:07:0F:5F:E3:3D:8D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

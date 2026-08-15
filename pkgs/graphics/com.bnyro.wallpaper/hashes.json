@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bnyro.wallpaper_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AA16FWBZxWBI86UdVIS/zTd63TjF0hZLRao9VJ39ds8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AA16FWBZxWBI86UdVIS/zTd63TjF0hZLRao9VJ39ds8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AA16FWBZxWBI86UdVIS/zTd63TjF0hZLRao9VJ39ds8="
+    }
+  },
+  "version": "16.0"
+}

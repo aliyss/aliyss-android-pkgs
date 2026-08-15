@@ -1,0 +1,18 @@
+{
+  "apkName": "com.drnoob.datamonitor_29.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JoeuSongVJeFHjvTBrkcf84ZNomeXrtchGKO8hBYu+Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JoeuSongVJeFHjvTBrkcf84ZNomeXrtchGKO8hBYu+Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JoeuSongVJeFHjvTBrkcf84ZNomeXrtchGKO8hBYu+Y="
+    }
+  },
+  "version": "v2.4.0"
+}

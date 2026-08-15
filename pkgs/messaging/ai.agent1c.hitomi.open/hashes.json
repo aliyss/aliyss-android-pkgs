@@ -1,0 +1,18 @@
+{
+  "apkName": "ai.agent1c.hitomi.open_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ddF9Jn1NWOLdG4z8LOVLQ71M4yRK5Q24SAxewb2PBf0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ddF9Jn1NWOLdG4z8LOVLQ71M4yRK5Q24SAxewb2PBf0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ddF9Jn1NWOLdG4z8LOVLQ71M4yRK5Q24SAxewb2PBf0="
+    }
+  },
+  "version": "0.1.2"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.vermont.possin",
+  "signerFingerprints": [
+    "FE:40:1E:95:49:05:AD:8D:7B:27:00:A5:4B:5C:DD:51:69:8C:19:1A:0E:D5:80:16:32:A2:52:0B:73:F1:44:B6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

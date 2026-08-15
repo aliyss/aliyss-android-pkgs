@@ -1,0 +1,8 @@
+{
+  "package": "de.synyx.android.meetingroom",
+  "signerFingerprints": [
+    "05:C1:96:1B:3C:20:07:62:1C:4F:5E:B0:3D:AA:53:20:A7:28:D8:87:3A:59:CF:22:5F:EF:F3:52:FF:FB:3B:AC"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

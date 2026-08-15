@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.co.busydoingnothing.prevo_27_8cdd302.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NK4T/rx/T6c4KIt7IUwhtEuhYegE/3agQfsrp5q2GAo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NK4T/rx/T6c4KIt7IUwhtEuhYegE/3agQfsrp5q2GAo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NK4T/rx/T6c4KIt7IUwhtEuhYegE/3agQfsrp5q2GAo="
+    }
+  },
+  "version": "0.27"
+}

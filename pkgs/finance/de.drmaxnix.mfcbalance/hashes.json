@@ -1,0 +1,18 @@
+{
+  "apkName": "de.drmaxnix.mfcbalance_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Euvp7/sa71ccuzvMouj0IFsL/PXp9BQGYld/Ey3utW0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Euvp7/sa71ccuzvMouj0IFsL/PXp9BQGYld/Ey3utW0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Euvp7/sa71ccuzvMouj0IFsL/PXp9BQGYld/Ey3utW0="
+    }
+  },
+  "version": "1.0.0"
+}

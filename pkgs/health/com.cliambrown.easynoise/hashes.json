@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cliambrown.easynoise_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3kOpV1n7qiyP9VKLDy36ygi640XaE+uKZiDcCcsmpyc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3kOpV1n7qiyP9VKLDy36ygi640XaE+uKZiDcCcsmpyc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3kOpV1n7qiyP9VKLDy36ygi640XaE+uKZiDcCcsmpyc="
+    }
+  },
+  "version": "0.10"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.ietf.ietfsched",
+  "signerFingerprints": [
+    "C6:C6:76:F6:24:3F:B2:50:44:58:4F:B9:08:18:19:5A:B4:7A:78:CE:7F:FD:A3:B6:6D:55:39:C4:CF:2D:2E:6D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

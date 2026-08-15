@@ -1,0 +1,18 @@
+{
+  "apkName": "org.projectmaxs.module.smswrite_2000506627.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cm1lF6ypAKWNXeB52UbYRXyPyFQcU+df+QeOq1jbCJY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cm1lF6ypAKWNXeB52UbYRXyPyFQcU+df+QeOq1jbCJY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cm1lF6ypAKWNXeB52UbYRXyPyFQcU+df+QeOq1jbCJY="
+    }
+  },
+  "version": "0.5.19"
+}

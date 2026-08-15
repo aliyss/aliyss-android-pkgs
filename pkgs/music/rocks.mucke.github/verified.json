@@ -1,0 +1,8 @@
+{
+  "package": "rocks.mucke.github",
+  "signerFingerprints": [
+    "1C:2B:CA:1F:73:A9:31:04:3A:5E:80:43:F9:EA:18:1A:33:4A:11:6D:B2:A4:D7:BA:07:F9:0A:59:C7:87:EE:E5"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

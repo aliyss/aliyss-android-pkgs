@@ -1,0 +1,8 @@
+{
+  "package": "me.lucky.silence",
+  "signerFingerprints": [
+    "B2:64:6C:0E:BA:F7:D7:19:A5:71:AD:37:CE:D4:96:3F:8C:DE:26:07:E7:AE:42:1E:95:8C:5C:0D:F4:89:5B:83"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

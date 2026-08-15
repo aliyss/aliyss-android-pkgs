@@ -1,0 +1,18 @@
+{
+  "apkName": "com.kingalexgilbert.kingpost_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HOZpf0TPq+UNBW7Rm2W5E69fKhNdCEXlK3o00mRCZxo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HOZpf0TPq+UNBW7Rm2W5E69fKhNdCEXlK3o00mRCZxo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HOZpf0TPq+UNBW7Rm2W5E69fKhNdCEXlK3o00mRCZxo="
+    }
+  },
+  "version": "1.0.1"
+}

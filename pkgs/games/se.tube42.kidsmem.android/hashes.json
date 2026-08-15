@@ -1,0 +1,18 @@
+{
+  "apkName": "se.tube42.kidsmem.android_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/lOkM0dwhRAhjEYjm/Cmja8TM9//uwz8of494YSciyg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/lOkM0dwhRAhjEYjm/Cmja8TM9//uwz8of494YSciyg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/lOkM0dwhRAhjEYjm/Cmja8TM9//uwz8of494YSciyg="
+    }
+  },
+  "version": "1.7.0"
+}

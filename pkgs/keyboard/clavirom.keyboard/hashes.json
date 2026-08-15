@@ -1,0 +1,18 @@
+{
+  "apkName": "clavirom.keyboard_3803.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pmDlmFdWbjx1e+U8eu/0KTYQekHmQMsZWmvYSiVNNy0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pmDlmFdWbjx1e+U8eu/0KTYQekHmQMsZWmvYSiVNNy0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pmDlmFdWbjx1e+U8eu/0KTYQekHmQMsZWmvYSiVNNy0="
+    }
+  },
+  "version": "3.8.1"
+}

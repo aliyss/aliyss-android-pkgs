@@ -1,0 +1,18 @@
+{
+  "apkName": "cloud.keyspace.android_142.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Sg+8ZnjA/FoT0rzgMeNhowT1HXiLB7GmouLrJFfqPNk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Sg+8ZnjA/FoT0rzgMeNhowT1HXiLB7GmouLrJFfqPNk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Sg+8ZnjA/FoT0rzgMeNhowT1HXiLB7GmouLrJFfqPNk="
+    }
+  },
+  "version": "1.4.2"
+}

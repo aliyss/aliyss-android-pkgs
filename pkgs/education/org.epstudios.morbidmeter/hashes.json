@@ -1,0 +1,18 @@
+{
+  "apkName": "org.epstudios.morbidmeter_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BbylIMfnwsB/5E8ZBPhkDztju20Qo1rsB8H4vQhLGF0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BbylIMfnwsB/5E8ZBPhkDztju20Qo1rsB8H4vQhLGF0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BbylIMfnwsB/5E8ZBPhkDztju20Qo1rsB8H4vQhLGF0="
+    }
+  },
+  "version": "3.2.0"
+}

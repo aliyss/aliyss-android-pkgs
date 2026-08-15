@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jstephan.yarc_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-c2eEp93Se7Rok4I/lbiB2pixhHGhb/gWEOirNur8bCs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c2eEp93Se7Rok4I/lbiB2pixhHGhb/gWEOirNur8bCs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-c2eEp93Se7Rok4I/lbiB2pixhHGhb/gWEOirNur8bCs="
+    }
+  },
+  "version": "1.2"
+}

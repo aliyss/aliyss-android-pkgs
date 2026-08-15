@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.potsdam_pnp.initiative_tracker_220.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cnCsEAQLT3Nq6UGje3HHBFtIUiQ4BjWfLz/rsqfbyDs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cnCsEAQLT3Nq6UGje3HHBFtIUiQ4BjWfLz/rsqfbyDs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cnCsEAQLT3Nq6UGje3HHBFtIUiQ4BjWfLz/rsqfbyDs="
+    }
+  },
+  "version": "0.5.1"
+}

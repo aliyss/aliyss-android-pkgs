@@ -1,0 +1,8 @@
+{
+  "package": "com.adresilo.android",
+  "signerFingerprints": [
+    "D6:7A:4A:4C:CB:B4:1B:34:D3:24:57:8C:9A:39:F3:DD:83:4A:20:59:77:7A:CA:12:A9:8A:5D:6B:BB:F7:C3:5F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

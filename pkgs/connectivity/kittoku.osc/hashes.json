@@ -1,0 +1,18 @@
+{
+  "apkName": "kittoku.osc_49.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6q4/w7I40oVnpmG+a9V99Xqik7+yz+7XTLeDl2cstco="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6q4/w7I40oVnpmG+a9V99Xqik7+yz+7XTLeDl2cstco="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6q4/w7I40oVnpmG+a9V99Xqik7+yz+7XTLeDl2cstco="
+    }
+  },
+  "version": "1.10.2"
+}

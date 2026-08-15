@@ -1,0 +1,8 @@
+{
+  "package": "com.ph.nabla_typemath",
+  "signerFingerprints": [
+    "1F:87:B4:83:51:83:4C:9E:00:50:13:DF:7D:28:3B:56:A9:61:CA:36:E7:89:92:9F:60:6C:CF:3A:72:50:E7:DD"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

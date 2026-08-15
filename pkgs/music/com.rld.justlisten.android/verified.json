@@ -1,0 +1,8 @@
+{
+  "package": "com.rld.justlisten.android",
+  "signerFingerprints": [
+    "41:7B:87:C8:11:8C:09:AF:38:12:72:D8:26:D5:99:08:AD:23:F5:EB:C4:E8:A4:45:66:5F:84:C3:5B:17:A8:50"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "cl.coders.faketraveler_232.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7w4XOW8xdzVx+TCQHY/DGYQFSfGKVNS9DQ+wMT7OzGs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7w4XOW8xdzVx+TCQHY/DGYQFSfGKVNS9DQ+wMT7OzGs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7w4XOW8xdzVx+TCQHY/DGYQFSfGKVNS9DQ+wMT7OzGs="
+    }
+  },
+  "version": "2.3.2"
+}

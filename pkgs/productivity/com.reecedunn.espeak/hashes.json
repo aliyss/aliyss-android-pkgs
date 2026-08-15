@@ -1,0 +1,18 @@
+{
+  "apkName": "com.reecedunn.espeak_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Cngi/sVNf3rnWf/tya/qp3+AlYexcfshAZmHh4Iex5A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cngi/sVNf3rnWf/tya/qp3+AlYexcfshAZmHh4Iex5A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cngi/sVNf3rnWf/tya/qp3+AlYexcfshAZmHh4Iex5A="
+    }
+  },
+  "version": "1.52.0"
+}

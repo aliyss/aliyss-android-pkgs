@@ -1,0 +1,18 @@
+{
+  "apkName": "org.savapage.android.print_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YeTnGaLavGbt6y7RpZ92d1ygf/Q84Mw3anyu8jLj0Bw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YeTnGaLavGbt6y7RpZ92d1ygf/Q84Mw3anyu8jLj0Bw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YeTnGaLavGbt6y7RpZ92d1ygf/Q84Mw3anyu8jLj0Bw="
+    }
+  },
+  "version": "0.1.0"
+}

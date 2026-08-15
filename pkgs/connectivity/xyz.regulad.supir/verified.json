@@ -1,0 +1,8 @@
+{
+  "package": "xyz.regulad.supir",
+  "signerFingerprints": [
+    "17:36:96:5A:37:DB:22:56:7B:D2:85:FB:4C:66:83:80:91:26:DF:7C:34:98:FC:19:60:4F:30:DE:C1:D6:00:E4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

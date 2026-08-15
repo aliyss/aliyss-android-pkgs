@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.joshuah.bibleverseapp_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-S7pi69QOveSn9CbeuUXlliVW50UJdIDJjhHqUFIsIdM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S7pi69QOveSn9CbeuUXlliVW50UJdIDJjhHqUFIsIdM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S7pi69QOveSn9CbeuUXlliVW50UJdIDJjhHqUFIsIdM="
+    }
+  },
+  "version": "1.8"
+}

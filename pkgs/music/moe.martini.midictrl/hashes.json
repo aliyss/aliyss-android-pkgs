@@ -1,0 +1,18 @@
+{
+  "apkName": "moe.martini.midictrl_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1s7wkMcQ8o3+detLJihbqPedsbZQfTuJe3f9s/ucWWM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1s7wkMcQ8o3+detLJihbqPedsbZQfTuJe3f9s/ucWWM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1s7wkMcQ8o3+detLJihbqPedsbZQfTuJe3f9s/ucWWM="
+    }
+  },
+  "version": "0.1.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "trailence.org",
+  "signerFingerprints": [
+    "E4:41:B1:56:BC:74:53:5C:82:EB:1A:85:52:12:75:B4:70:B7:38:55:E7:92:A7:BD:E7:E9:CD:45:4F:5D:BB:C5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

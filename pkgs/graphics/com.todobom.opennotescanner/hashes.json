@@ -1,0 +1,18 @@
+{
+  "apkName": "com.todobom.opennotescanner_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-hKWxv0CE81oZBok3yGuY66VQAz+B9Vgoi7hGpZchoXc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hKWxv0CE81oZBok3yGuY66VQAz+B9Vgoi7hGpZchoXc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-hKWxv0CE81oZBok3yGuY66VQAz+B9Vgoi7hGpZchoXc="
+    }
+  },
+  "version": "1.0.35-fdroid"
+}

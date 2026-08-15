@@ -1,0 +1,18 @@
+{
+  "apkName": "de.christinecoenen.code.zapp_79.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JjRSZ2l+hn5ByDkrZl1PTdC++DQfJ6DEHVJ7ojJvHiI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JjRSZ2l+hn5ByDkrZl1PTdC++DQfJ6DEHVJ7ojJvHiI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JjRSZ2l+hn5ByDkrZl1PTdC++DQfJ6DEHVJ7ojJvHiI="
+    }
+  },
+  "version": "9.2.0"
+}

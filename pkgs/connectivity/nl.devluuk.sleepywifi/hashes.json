@@ -1,0 +1,18 @@
+{
+  "apkName": "nl.devluuk.sleepywifi_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-X7fjV+TMZSJVJXr1lruYuTOdaaI3GkZIgrgjeWuS5SQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X7fjV+TMZSJVJXr1lruYuTOdaaI3GkZIgrgjeWuS5SQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-X7fjV+TMZSJVJXr1lruYuTOdaaI3GkZIgrgjeWuS5SQ="
+    }
+  },
+  "version": "1.9"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.addev.listaspam_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zIObgAhagL06bbauPRQ98axan/p1fCztFdkgwVnBiDo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zIObgAhagL06bbauPRQ98axan/p1fCztFdkgwVnBiDo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zIObgAhagL06bbauPRQ98axan/p1fCztFdkgwVnBiDo="
+    }
+  },
+  "version": "2.5.8"
+}

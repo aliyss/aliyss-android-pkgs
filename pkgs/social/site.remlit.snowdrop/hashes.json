@@ -1,0 +1,18 @@
+{
+  "apkName": "site.remlit.snowdrop_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HlFGudTbPu8NXCniMUGhbU76pjyB70Rv0KoT6gr1SVM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HlFGudTbPu8NXCniMUGhbU76pjyB70Rv0KoT6gr1SVM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HlFGudTbPu8NXCniMUGhbU76pjyB70Rv0KoT6gr1SVM="
+    }
+  },
+  "version": "0.0.5-alpha"
+}

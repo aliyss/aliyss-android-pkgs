@@ -1,0 +1,8 @@
+{
+  "package": "app.gps_video_logger",
+  "signerFingerprints": [
+    "66:9A:8A:11:98:C7:B5:0F:64:B2:86:55:FA:6E:BE:2B:B9:45:68:62:66:4E:B5:CB:C2:7C:A8:E4:DC:C7:F3:FB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

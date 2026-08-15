@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.byzero.counter_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KvLwkgnZD/hfeiH6LWYrgfOwal6du+a7hKU74Y9308o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KvLwkgnZD/hfeiH6LWYrgfOwal6du+a7hKU74Y9308o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KvLwkgnZD/hfeiH6LWYrgfOwal6du+a7hKU74Y9308o="
+    }
+  },
+  "version": "v1.2"
+}

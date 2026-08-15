@@ -1,0 +1,8 @@
+{
+  "package": "org.softcatala.traductor",
+  "signerFingerprints": [
+    "4F:0D:B0:D8:93:5B:5F:71:4A:F3:94:F1:2D:21:C2:73:7A:BF:1E:46:88:95:0E:9A:C6:8E:B4:72:4F:40:A3:BE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

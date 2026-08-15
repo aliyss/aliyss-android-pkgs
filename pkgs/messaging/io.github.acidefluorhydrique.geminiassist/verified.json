@@ -1,0 +1,8 @@
+{
+  "package": "io.github.acidefluorhydrique.geminiassist",
+  "signerFingerprints": [
+    "52:C6:57:52:11:09:CC:F8:72:79:E4:C1:AA:E4:56:4A:DA:EB:84:D7:E1:70:D6:2B:05:35:9A:AF:79:2C:47:71"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

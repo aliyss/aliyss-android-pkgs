@@ -1,0 +1,8 @@
+{
+  "package": "com.gbros.tabslite",
+  "signerFingerprints": [
+    "49:80:5B:38:5A:A9:7F:72:5A:37:22:D3:D1:95:DE:84:A3:76:10:4A:AD:26:BD:FB:08:D5:2A:59:CB:CB:97:47"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

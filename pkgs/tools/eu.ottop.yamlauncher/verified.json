@@ -1,0 +1,8 @@
+{
+  "package": "eu.ottop.yamlauncher",
+  "signerFingerprints": [
+    "BE:98:8B:6B:B0:56:E6:CD:F0:BB:41:D8:D8:FC:DC:EB:96:6F:C4:04:B7:65:04:D4:69:DB:FC:F1:E6:C8:67:A3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

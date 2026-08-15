@@ -1,0 +1,18 @@
+{
+  "apkName": "com.droidrops.app_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mPm4Q3L03FcC2Y5x2t//1M7f708d1bhBqQ+daxgXGJ8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mPm4Q3L03FcC2Y5x2t//1M7f708d1bhBqQ+daxgXGJ8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mPm4Q3L03FcC2Y5x2t//1M7f708d1bhBqQ+daxgXGJ8="
+    }
+  },
+  "version": "2.2.3"
+}

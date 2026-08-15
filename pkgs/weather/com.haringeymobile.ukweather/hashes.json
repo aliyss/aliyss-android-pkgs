@@ -1,0 +1,18 @@
+{
+  "apkName": "com.haringeymobile.ukweather_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-r/UE9e2zodc+WeEkotfiw0wmOdmWnOtpQA5gWewae9s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r/UE9e2zodc+WeEkotfiw0wmOdmWnOtpQA5gWewae9s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-r/UE9e2zodc+WeEkotfiw0wmOdmWnOtpQA5gWewae9s="
+    }
+  },
+  "version": "1.2.6"
+}

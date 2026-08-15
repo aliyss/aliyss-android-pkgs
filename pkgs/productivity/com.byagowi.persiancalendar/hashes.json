@@ -1,0 +1,18 @@
+{
+  "apkName": "com.byagowi.persiancalendar_1020.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-u9EoGVKRArw4SbcNEZuxzvctuxy6ywi6f+5HPI9hZ9Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u9EoGVKRArw4SbcNEZuxzvctuxy6ywi6f+5HPI9hZ9Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u9EoGVKRArw4SbcNEZuxzvctuxy6ywi6f+5HPI9hZ9Q="
+    }
+  },
+  "version": "10.2.0"
+}

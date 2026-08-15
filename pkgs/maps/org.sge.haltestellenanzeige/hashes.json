@@ -1,0 +1,18 @@
+{
+  "apkName": "org.sge.haltestellenanzeige_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IkJX7ADf+zUBHV3f4NjPiMu7pYHDvr2r7LCPTVAxKmA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IkJX7ADf+zUBHV3f4NjPiMu7pYHDvr2r7LCPTVAxKmA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IkJX7ADf+zUBHV3f4NjPiMu7pYHDvr2r7LCPTVAxKmA="
+    }
+  },
+  "version": "1.1"
+}

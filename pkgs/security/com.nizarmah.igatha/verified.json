@@ -1,0 +1,8 @@
+{
+  "package": "com.nizarmah.igatha",
+  "signerFingerprints": [
+    "C6:7D:A9:3C:AD:64:F9:F7:19:E1:48:E9:66:AE:BD:67:87:C5:2B:03:6A:E1:0A:39:5E:BB:8B:23:4B:59:E0:73"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

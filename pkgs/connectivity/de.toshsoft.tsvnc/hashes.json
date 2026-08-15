@@ -1,0 +1,18 @@
+{
+  "apkName": "de.toshsoft.tsvnc_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JEdloEDNdadZT/TCcyOl8mD6HT13aOhlJ/9J7WfZZ4g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JEdloEDNdadZT/TCcyOl8mD6HT13aOhlJ/9J7WfZZ4g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JEdloEDNdadZT/TCcyOl8mD6HT13aOhlJ/9J7WfZZ4g="
+    }
+  },
+  "version": "0.7.6"
+}

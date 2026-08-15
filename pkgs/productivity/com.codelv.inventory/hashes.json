@@ -1,0 +1,18 @@
+{
+  "apkName": "com.codelv.inventory_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9NsDAwsDM7epv18he5sR/co/Owvv/1KQSYlHqehVURk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9NsDAwsDM7epv18he5sR/co/Owvv/1KQSYlHqehVURk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9NsDAwsDM7epv18he5sR/co/Owvv/1KQSYlHqehVURk="
+    }
+  },
+  "version": "1.0.13"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.github.nicorac.bcrgui",
+  "signerFingerprints": [
+    "9F:DF:EA:BE:A8:9F:F5:7E:7E:0C:68:3F:88:D9:27:E3:2F:D0:6F:AE:79:1F:A0:DF:A0:4B:20:99:74:56:44:59"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

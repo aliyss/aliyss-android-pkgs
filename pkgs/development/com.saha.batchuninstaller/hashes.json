@@ -1,0 +1,18 @@
+{
+  "apkName": "com.saha.batchuninstaller_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/qj9boe1y2fl3zoliOAiGOfw/s4rWLD8dGBG3ML3lNI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/qj9boe1y2fl3zoliOAiGOfw/s4rWLD8dGBG3ML3lNI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/qj9boe1y2fl3zoliOAiGOfw/s4rWLD8dGBG3ML3lNI="
+    }
+  },
+  "version": "1.0"
+}

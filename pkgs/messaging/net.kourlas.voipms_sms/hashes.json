@@ -1,0 +1,18 @@
+{
+  "apkName": "net.kourlas.voipms_sms_153.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iDYxBe6jTg4nvZnlVx+dN3ucQEwS9YMYnVDW1FkTfuA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iDYxBe6jTg4nvZnlVx+dN3ucQEwS9YMYnVDW1FkTfuA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iDYxBe6jTg4nvZnlVx+dN3ucQEwS9YMYnVDW1FkTfuA="
+    }
+  },
+  "version": "0.6.32-fdroid"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.github.mofosyne.tagdrop",
+  "signerFingerprints": [
+    "F9:20:99:03:3C:52:B7:B8:26:69:28:94:7F:C0:DA:8D:0A:88:FD:59:F6:8E:72:F0:7F:91:07:DF:31:6F:44:56"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

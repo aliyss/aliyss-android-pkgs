@@ -1,0 +1,8 @@
+{
+  "package": "timeline.lizimumu.com.t",
+  "signerFingerprints": [
+    "1C:B8:7C:F7:AB:A9:45:6E:83:7F:80:A5:9E:06:3D:98:67:1E:F7:ED:C9:A4:A2:69:AD:89:72:C8:A6:2D:1F:B6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.roto",
+  "signerFingerprints": [
+    "26:24:14:0B:43:F0:BF:25:E4:F0:2D:14:A6:5A:66:80:FE:11:34:31:A5:B4:3C:1C:30:1F:A2:E8:7F:59:BC:9F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

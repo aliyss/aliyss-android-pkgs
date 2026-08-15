@@ -1,0 +1,18 @@
+{
+  "apkName": "de.reimardoeffinger.quickdic_131.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qs2HTOIQZQZLOC/bIrZ7G0Qgsg2wFAa9gw4p7yWFoVo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qs2HTOIQZQZLOC/bIrZ7G0Qgsg2wFAa9gw4p7yWFoVo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qs2HTOIQZQZLOC/bIrZ7G0Qgsg2wFAa9gw4p7yWFoVo="
+    }
+  },
+  "version": "5.8.2"
+}

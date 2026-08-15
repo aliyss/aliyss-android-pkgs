@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ddosolitary.okcagent_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TK/Frbd5TJqWs3DFSo5KxD2eFIjr4U0uxFKv8M21P9Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TK/Frbd5TJqWs3DFSo5KxD2eFIjr4U0uxFKv8M21P9Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TK/Frbd5TJqWs3DFSo5KxD2eFIjr4U0uxFKv8M21P9Y="
+    }
+  },
+  "version": "0.2.3"
+}

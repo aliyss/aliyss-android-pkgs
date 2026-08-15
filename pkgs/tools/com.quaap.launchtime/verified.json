@@ -1,0 +1,8 @@
+{
+  "package": "com.quaap.launchtime",
+  "signerFingerprints": [
+    "76:0A:A9:B0:77:BF:49:A9:94:59:55:84:68:81:02:A1:77:C4:6B:0A:C2:F7:48:1B:A8:56:BB:8F:45:56:65:94"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

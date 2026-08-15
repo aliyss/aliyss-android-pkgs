@@ -1,0 +1,8 @@
+{
+  "package": "com.icesu.kinnaid",
+  "signerFingerprints": [
+    "E7:CF:95:A6:32:BF:82:F4:8C:E2:91:32:A4:C6:53:3A:88:30:A8:F8:94:23:63:3A:75:6C:D2:A9:44:17:30:3D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

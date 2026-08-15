@@ -1,0 +1,18 @@
+{
+  "apkName": "com.openappslabs.jotter_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Qe5PwKvq1IupgNFtm5GX2Ib5xQvhU2Wqt54pBp4igo0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qe5PwKvq1IupgNFtm5GX2Ib5xQvhU2Wqt54pBp4igo0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qe5PwKvq1IupgNFtm5GX2Ib5xQvhU2Wqt54pBp4igo0="
+    }
+  },
+  "version": "2.4.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.github.axet.pingutils",
+  "signerFingerprints": [
+    "D3:6F:3E:A0:80:26:34:F7:17:8E:79:52:FA:BA:B1:B4:81:CE:98:AE:5E:AE:24:B6:3D:EF:1F:EB:0C:E5:A8:FF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "net.xtlive.EDL.Dashboard",
+  "signerFingerprints": [
+    "3D:F7:2A:EB:F6:51:67:11:D2:4E:B9:FB:9F:FA:D1:7D:57:7E:D3:FE:92:A9:2C:C7:59:B3:E3:BC:92:10:3B:27"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

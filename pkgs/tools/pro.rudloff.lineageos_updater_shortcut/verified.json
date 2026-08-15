@@ -1,0 +1,8 @@
+{
+  "package": "pro.rudloff.lineageos_updater_shortcut",
+  "signerFingerprints": [
+    "21:12:CC:DD:B4:1B:A5:BE:9A:0E:A5:A0:89:E8:8F:BD:37:8C:12:F8:47:2C:75:E3:A9:AD:B2:1E:AE:3F:0A:9B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

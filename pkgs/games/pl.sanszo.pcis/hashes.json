@@ -1,0 +1,18 @@
+{
+  "apkName": "pl.sanszo.pcis_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zpqz9PMI53u26P9ALOlL+8xpr+mEvJ4Ot7T+f5uE9rE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zpqz9PMI53u26P9ALOlL+8xpr+mEvJ4Ot7T+f5uE9rE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zpqz9PMI53u26P9ALOlL+8xpr+mEvJ4Ot7T+f5uE9rE="
+    }
+  },
+  "version": "1.1.0a"
+}

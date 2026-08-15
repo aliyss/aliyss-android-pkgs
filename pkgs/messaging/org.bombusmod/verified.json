@@ -1,0 +1,8 @@
+{
+  "package": "org.bombusmod",
+  "signerFingerprints": [
+    "70:39:8E:92:28:4B:AD:44:B1:B8:7E:19:74:2E:C4:5B:0C:3A:03:49:0C:73:BD:5E:79:24:56:B1:17:E0:88:03"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

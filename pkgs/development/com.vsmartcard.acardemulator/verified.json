@@ -1,0 +1,8 @@
+{
+  "package": "com.vsmartcard.acardemulator",
+  "signerFingerprints": [
+    "D0:62:AA:AE:9B:AE:F9:D4:27:63:7E:31:47:05:57:93:DA:13:38:E7:22:26:BB:05:02:15:89:4B:77:07:2E:DA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "alt.nainapps.aer_1735160000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-stQqT1nH06JIxpx7H6ySW7kNBTIoFCaOucte65bXB7U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-stQqT1nH06JIxpx7H6ySW7kNBTIoFCaOucte65bXB7U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-stQqT1nH06JIxpx7H6ySW7kNBTIoFCaOucte65bXB7U="
+    }
+  },
+  "version": "2024.12.25"
+}

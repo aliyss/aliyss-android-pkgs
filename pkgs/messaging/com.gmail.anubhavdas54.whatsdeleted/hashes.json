@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gmail.anubhavdas54.whatsdeleted_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n9D2lh1lx06DNdoEcjTA3V26jJDs41NBef2KZ3m2YdY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n9D2lh1lx06DNdoEcjTA3V26jJDs41NBef2KZ3m2YdY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n9D2lh1lx06DNdoEcjTA3V26jJDs41NBef2KZ3m2YdY="
+    }
+  },
+  "version": "0.4.1"
+}

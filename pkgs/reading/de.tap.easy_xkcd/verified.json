@@ -1,0 +1,8 @@
+{
+  "package": "de.tap.easy_xkcd",
+  "signerFingerprints": [
+    "CD:03:95:2F:93:FD:43:02:52:FF:8C:00:B7:90:A8:F2:EA:9C:17:49:0A:1F:15:F7:D7:D6:8A:03:A8:49:32:04"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

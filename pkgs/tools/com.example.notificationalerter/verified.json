@@ -1,0 +1,8 @@
+{
+  "package": "com.example.notificationalerter",
+  "signerFingerprints": [
+    "E3:FF:64:65:6B:BD:62:DA:61:CE:4B:8B:1E:DA:49:B9:8D:D0:02:9A:D5:41:3D:BA:62:5D:2A:89:C8:09:26:1A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

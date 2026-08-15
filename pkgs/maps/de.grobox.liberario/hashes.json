@@ -1,0 +1,18 @@
+{
+  "apkName": "de.grobox.liberario_131.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AOvP92e1SMGoNuLKJwqAzAT3yrIspa52o0m0KFb7BvY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AOvP92e1SMGoNuLKJwqAzAT3yrIspa52o0m0KFb7BvY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AOvP92e1SMGoNuLKJwqAzAT3yrIspa52o0m0KFb7BvY="
+    }
+  },
+  "version": "2.2.7"
+}

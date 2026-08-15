@@ -1,0 +1,18 @@
+{
+  "apkName": "com.supershopaholic_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ncOf4d527EVhMgtiNPl4PrdmzqxGR/e/ePDHB6ljaFQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ncOf4d527EVhMgtiNPl4PrdmzqxGR/e/ePDHB6ljaFQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ncOf4d527EVhMgtiNPl4PrdmzqxGR/e/ePDHB6ljaFQ="
+    }
+  },
+  "version": "1.1"
+}

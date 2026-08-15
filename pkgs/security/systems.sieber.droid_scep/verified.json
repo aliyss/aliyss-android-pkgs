@@ -1,0 +1,8 @@
+{
+  "package": "systems.sieber.droid_scep",
+  "signerFingerprints": [
+    "3C:0F:BD:45:5E:FF:BB:24:2F:FB:82:EC:FD:AD:12:58:27:FE:D9:30:B3:B5:1D:F3:4F:23:4A:53:BD:7E:EB:28"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

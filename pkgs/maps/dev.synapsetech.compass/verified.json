@@ -1,0 +1,8 @@
+{
+  "package": "dev.synapsetech.compass",
+  "signerFingerprints": [
+    "2D:CB:E1:88:74:B9:F3:86:0E:36:B5:24:6D:2D:16:21:D9:A6:DD:4F:C0:6B:F7:0C:98:45:6A:A2:2D:9A:08:4B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

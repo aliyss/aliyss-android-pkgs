@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.zxalexis.ugaday_15.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-AAri5XUfmoXDMdYgWIHT213IGgDRBSJIXZAmsElPjD0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AAri5XUfmoXDMdYgWIHT213IGgDRBSJIXZAmsElPjD0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-AAri5XUfmoXDMdYgWIHT213IGgDRBSJIXZAmsElPjD0="
+    }
+  },
+  "version": "0.15"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.eukalyptus.balance_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yBieZw2cESxIU39f3lLzebj+k+V6ysCtAFN6mBjrr+A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yBieZw2cESxIU39f3lLzebj+k+V6ysCtAFN6mBjrr+A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yBieZw2cESxIU39f3lLzebj+k+V6ysCtAFN6mBjrr+A="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "de.westnordost.streetmeasure",
+  "signerFingerprints": [
+    "EF:23:60:37:CA:64:1F:CF:49:BA:6E:1B:C5:CA:02:30:EF:E9:75:09:0B:AC:18:4D:AC:BA:7A:34:04:E8:54:06"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

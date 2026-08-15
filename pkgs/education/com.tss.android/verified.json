@@ -1,0 +1,8 @@
+{
+  "package": "com.tss.android",
+  "signerFingerprints": [
+    "E4:27:9D:D0:B8:C3:9D:48:6A:C3:8F:FC:70:3A:42:F9:FE:C7:0E:9A:D9:05:93:1E:AC:D1:D3:48:EC:19:CD:8C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

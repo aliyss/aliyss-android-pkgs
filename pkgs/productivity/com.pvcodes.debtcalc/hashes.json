@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pvcodes.debtcalc_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B8dP0ZSzg0Hemax+fDnK9TWaBAfgsJ+sq2BTQSXbFCw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B8dP0ZSzg0Hemax+fDnK9TWaBAfgsJ+sq2BTQSXbFCw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B8dP0ZSzg0Hemax+fDnK9TWaBAfgsJ+sq2BTQSXbFCw="
+    }
+  },
+  "version": "1.0.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.laderchi.ncalc_404.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7OhFFL1iuCRZLThUJuloU+HSbdyqc9bavkfZBPMvc4I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7OhFFL1iuCRZLThUJuloU+HSbdyqc9bavkfZBPMvc4I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7OhFFL1iuCRZLThUJuloU+HSbdyqc9bavkfZBPMvc4I="
+    }
+  },
+  "version": "3.4.8"
+}

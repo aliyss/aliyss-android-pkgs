@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.mariinkys.OpenPillReminder_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-86TIjaveK1yvyZjuXH2/zQkTA+JwNbP3+Ui97nsfGww="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-86TIjaveK1yvyZjuXH2/zQkTA+JwNbP3+Ui97nsfGww="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-86TIjaveK1yvyZjuXH2/zQkTA+JwNbP3+Ui97nsfGww="
+    }
+  },
+  "version": "1.0.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vecturagames.android.app.passwordmaster_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+p5u/ivAwp2cFhnqMhzqxrymxrPSmL7uTuid2+7BVOY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+p5u/ivAwp2cFhnqMhzqxrymxrPSmL7uTuid2+7BVOY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+p5u/ivAwp2cFhnqMhzqxrymxrPSmL7uTuid2+7BVOY="
+    }
+  },
+  "version": "1.6.0"
+}

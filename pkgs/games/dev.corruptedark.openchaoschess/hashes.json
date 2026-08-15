@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.corruptedark.openchaoschess_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PR1jpZO9SESj5JSLg9u3wuUxZdjLYsNhwKKrIPODTnU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PR1jpZO9SESj5JSLg9u3wuUxZdjLYsNhwKKrIPODTnU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PR1jpZO9SESj5JSLg9u3wuUxZdjLYsNhwKKrIPODTnU="
+    }
+  },
+  "version": "1.9.9"
+}

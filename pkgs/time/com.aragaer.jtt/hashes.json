@@ -1,0 +1,18 @@
+{
+  "apkName": "com.aragaer.jtt_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-j/pyiKYEEJZQ3vL/PR9E5TVUUnjuvs0UjA3b9W2HOzw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-j/pyiKYEEJZQ3vL/PR9E5TVUUnjuvs0UjA3b9W2HOzw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-j/pyiKYEEJZQ3vL/PR9E5TVUUnjuvs0UjA3b9W2HOzw="
+    }
+  },
+  "version": "1.7.1"
+}

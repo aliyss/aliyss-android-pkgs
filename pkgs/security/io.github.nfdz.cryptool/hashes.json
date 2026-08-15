@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.nfdz.cryptool_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dk+6dppAdOavnucKGuCH/7G+p8sT+MLTu3VNyDvdEM0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dk+6dppAdOavnucKGuCH/7G+p8sT+MLTu3VNyDvdEM0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dk+6dppAdOavnucKGuCH/7G+p8sT+MLTu3VNyDvdEM0="
+    }
+  },
+  "version": "3.2.2"
+}

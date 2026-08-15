@@ -1,0 +1,18 @@
+{
+  "apkName": "com.mlkyh.hertz_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uE75AR4On5groegTOprYlvLxnnFhs4B0bg6U+qM+xTg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uE75AR4On5groegTOprYlvLxnnFhs4B0bg6U+qM+xTg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uE75AR4On5groegTOprYlvLxnnFhs4B0bg6U+qM+xTg="
+    }
+  },
+  "version": "2.4"
+}

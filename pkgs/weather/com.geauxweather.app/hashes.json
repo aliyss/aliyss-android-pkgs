@@ -1,0 +1,18 @@
+{
+  "apkName": "com.geauxweather.app_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gysK0gJwH01ajt7NhXIdNGahj1I4AGqzk3T4Kvdrz1w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gysK0gJwH01ajt7NhXIdNGahj1I4AGqzk3T4Kvdrz1w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gysK0gJwH01ajt7NhXIdNGahj1I4AGqzk3T4Kvdrz1w="
+    }
+  },
+  "version": "1.0.2"
+}

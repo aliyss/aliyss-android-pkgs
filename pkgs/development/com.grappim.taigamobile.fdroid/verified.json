@@ -1,0 +1,8 @@
+{
+  "package": "com.grappim.taigamobile.fdroid",
+  "signerFingerprints": [
+    "06:1F:82:A8:C2:95:8D:AF:CF:48:8F:DC:1C:FC:D4:67:6B:3D:75:1E:CF:4A:AC:01:48:55:12:3C:DB:EC:3A:F0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

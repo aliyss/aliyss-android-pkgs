@@ -1,0 +1,18 @@
+{
+  "apkName": "dubrowgn.wattz_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-411zQ/JuoWdwQj0VuWCwJVIzgWyAJKe4cfp6EvzT0UA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-411zQ/JuoWdwQj0VuWCwJVIzgWyAJKe4cfp6EvzT0UA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-411zQ/JuoWdwQj0VuWCwJVIzgWyAJKe4cfp6EvzT0UA="
+    }
+  },
+  "version": "1.20"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "eth.brume.wallet_537.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-e73ZlMIEnX9Sf+ak2ARsSutsbEWSUOKob3WEectfK7U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e73ZlMIEnX9Sf+ak2ARsSutsbEWSUOKob3WEectfK7U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-e73ZlMIEnX9Sf+ak2ARsSutsbEWSUOKob3WEectfK7U="
+    }
+  },
+  "version": "0.7.537"
+}

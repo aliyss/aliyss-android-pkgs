@@ -1,0 +1,18 @@
+{
+  "apkName": "com.xyz.relativity.kineticespeedometer_202007203.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Z8M8xfHALCCH1otRwma7aN5oVZPDhGZ2Ue1SkQ9CY70="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z8M8xfHALCCH1otRwma7aN5oVZPDhGZ2Ue1SkQ9CY70="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Z8M8xfHALCCH1otRwma7aN5oVZPDhGZ2Ue1SkQ9CY70="
+    }
+  },
+  "version": "2023.05-1"
+}

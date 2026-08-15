@@ -1,0 +1,18 @@
+{
+  "apkName": "off.kys.backtalk_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-m5V3O8gPNYq+fBGtn5bUDU8B1D6ShkpB4pcfFvMhWNo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m5V3O8gPNYq+fBGtn5bUDU8B1D6ShkpB4pcfFvMhWNo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-m5V3O8gPNYq+fBGtn5bUDU8B1D6ShkpB4pcfFvMhWNo="
+    }
+  },
+  "version": "0.4.1"
+}

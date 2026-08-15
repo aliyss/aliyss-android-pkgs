@@ -1,0 +1,18 @@
+{
+  "apkName": "space.irex.mobile_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dzFscbOND0/XoCcrR/9QCrnSJ16AGFswY0PDFRQ4yy8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dzFscbOND0/XoCcrR/9QCrnSJ16AGFswY0PDFRQ4yy8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dzFscbOND0/XoCcrR/9QCrnSJ16AGFswY0PDFRQ4yy8="
+    }
+  },
+  "version": "1.0.0"
+}

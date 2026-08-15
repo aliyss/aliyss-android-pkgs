@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nothingsecure_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-q4ZQ0Zn7vm3l5LY+MhTE6sjpLDi2tP1KSog7jR8/v4s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q4ZQ0Zn7vm3l5LY+MhTE6sjpLDi2tP1KSog7jR8/v4s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q4ZQ0Zn7vm3l5LY+MhTE6sjpLDi2tP1KSog7jR8/v4s="
+    }
+  },
+  "version": "0.3.21-Pokemon_X"
+}

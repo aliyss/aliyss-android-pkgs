@@ -1,0 +1,18 @@
+{
+  "apkName": "de.sirjofri.fingerlist_101000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QauE9giZbhKAab/p5Kxf5fEa6xiPKSqMaHSvUC11JjQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QauE9giZbhKAab/p5Kxf5fEa6xiPKSqMaHSvUC11JjQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QauE9giZbhKAab/p5Kxf5fEa6xiPKSqMaHSvUC11JjQ="
+    }
+  },
+  "version": "1.1.0"
+}

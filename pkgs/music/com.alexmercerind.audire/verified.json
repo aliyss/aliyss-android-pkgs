@@ -1,0 +1,8 @@
+{
+  "package": "com.alexmercerind.audire",
+  "signerFingerprints": [
+    "29:DA:10:94:31:62:D3:ED:38:6B:97:CF:F1:EF:BE:2F:9C:01:2C:9E:3A:5D:86:1F:8F:49:44:0B:16:C0:01:08"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

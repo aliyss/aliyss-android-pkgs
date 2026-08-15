@@ -1,0 +1,8 @@
+{
+  "package": "community.fairphone.checkup",
+  "signerFingerprints": [
+    "BF:2F:85:D3:5C:83:42:88:B9:49:6A:41:79:C5:2D:C5:FF:CE:16:7D:2F:86:1A:F1:37:3C:58:11:5D:08:46:72"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

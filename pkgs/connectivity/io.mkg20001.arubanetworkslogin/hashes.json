@@ -1,0 +1,18 @@
+{
+  "apkName": "io.mkg20001.arubanetworkslogin_5000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nRPzqmeh4AoSFpeeHIR0oxbKxvfPQx8eUAgQ9rJvtwA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nRPzqmeh4AoSFpeeHIR0oxbKxvfPQx8eUAgQ9rJvtwA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nRPzqmeh4AoSFpeeHIR0oxbKxvfPQx8eUAgQ9rJvtwA="
+    }
+  },
+  "version": "0.5"
+}

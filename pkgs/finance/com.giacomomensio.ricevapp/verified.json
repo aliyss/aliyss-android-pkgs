@@ -1,0 +1,8 @@
+{
+  "package": "com.giacomomensio.ricevapp",
+  "signerFingerprints": [
+    "5D:5F:DA:0B:F1:00:1D:5E:E9:14:EC:94:78:39:E4:9F:99:D4:61:4D:6E:2E:F3:89:46:73:C0:42:7A:95:FD:77"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

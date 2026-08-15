@@ -1,0 +1,18 @@
+{
+  "apkName": "com.oriondev.moneywallet_75.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gV5XrmiB5Pc+Dqc/LC9JTMI984DF8mSmsbeWypERkmM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gV5XrmiB5Pc+Dqc/LC9JTMI984DF8mSmsbeWypERkmM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gV5XrmiB5Pc+Dqc/LC9JTMI984DF8mSmsbeWypERkmM="
+    }
+  },
+  "version": "4.0.5.10"
+}

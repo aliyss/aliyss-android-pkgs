@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vishal2376.scrollblock_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rF5+tAmaf/T4kwNLI4ImWY2frryEspA2quH+nBrW/WY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rF5+tAmaf/T4kwNLI4ImWY2frryEspA2quH+nBrW/WY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rF5+tAmaf/T4kwNLI4ImWY2frryEspA2quH+nBrW/WY="
+    }
+  },
+  "version": "1.0-beta02"
+}

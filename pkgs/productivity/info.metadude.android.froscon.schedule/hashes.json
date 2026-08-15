@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.froscon.schedule_121.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gLO2cTi82AYoKkfD4T+7Z6Q/M6nJ5HfVgRkXk8a9omM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gLO2cTi82AYoKkfD4T+7Z6Q/M6nJ5HfVgRkXk8a9omM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gLO2cTi82AYoKkfD4T+7Z6Q/M6nJ5HfVgRkXk8a9omM="
+    }
+  },
+  "version": "1.77.1-FrOSCon-Edition"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.kssidll.arru",
+  "signerFingerprints": [
+    "30:5B:4B:70:58:61:18:0C:93:C5:F0:74:2C:2F:62:B6:C9:5C:3F:4A:6F:CA:7B:5A:A7:1E:64:FA:66:97:12:44"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

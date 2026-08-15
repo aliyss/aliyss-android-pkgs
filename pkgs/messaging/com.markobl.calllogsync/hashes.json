@@ -1,0 +1,18 @@
+{
+  "apkName": "com.markobl.calllogsync_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Say1WgqEFxtlio47yf3shPYyBlKizz3gLySYDKtrZVE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Say1WgqEFxtlio47yf3shPYyBlKizz3gLySYDKtrZVE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Say1WgqEFxtlio47yf3shPYyBlKizz3gLySYDKtrZVE="
+    }
+  },
+  "version": "1.0.4"
+}

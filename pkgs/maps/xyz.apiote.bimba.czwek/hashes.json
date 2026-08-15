@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.apiote.bimba.czwek_48.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XdBzkMny852RccE4JtIcQmpEw+H1PK6oHM3DIcWzfX0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XdBzkMny852RccE4JtIcQmpEw+H1PK6oHM3DIcWzfX0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XdBzkMny852RccE4JtIcQmpEw+H1PK6oHM3DIcWzfX0="
+    }
+  },
+  "version": "3.99"
+}

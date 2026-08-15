@@ -1,0 +1,18 @@
+{
+  "apkName": "org.owntracks.android_420509001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-sSykZQi48z5t3ANDO+VgD3/saywwrbgFY2iqLhcSnQ8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sSykZQi48z5t3ANDO+VgD3/saywwrbgFY2iqLhcSnQ8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-sSykZQi48z5t3ANDO+VgD3/saywwrbgFY2iqLhcSnQ8="
+    }
+  },
+  "version": "2.5.9"
+}

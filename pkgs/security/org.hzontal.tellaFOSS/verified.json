@@ -1,0 +1,8 @@
+{
+  "package": "org.hzontal.tellaFOSS",
+  "signerFingerprints": [
+    "0F:98:D1:62:B4:43:E7:1D:E1:41:A9:3A:EC:27:C6:D5:AC:AA:72:5D:BA:4C:3F:CA:97:45:72:58:C1:93:A7:29"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

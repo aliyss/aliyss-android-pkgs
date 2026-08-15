@@ -1,0 +1,18 @@
+{
+  "apkName": "uk.co.yahoo.p1rpp.secondsclock_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-CCyTD0noftHSt0W7Sdn7py3OcD+wdX1Q56tB/hiqTCk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CCyTD0noftHSt0W7Sdn7py3OcD+wdX1Q56tB/hiqTCk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-CCyTD0noftHSt0W7Sdn7py3OcD+wdX1Q56tB/hiqTCk="
+    }
+  },
+  "version": "2.3"
+}

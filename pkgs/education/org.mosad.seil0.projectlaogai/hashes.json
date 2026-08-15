@@ -1,0 +1,18 @@
+{
+  "apkName": "org.mosad.seil0.projectlaogai_6000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XznV9FubErQw3FtnZYGsXesi0rrlztVpB+nH20VaAtw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XznV9FubErQw3FtnZYGsXesi0rrlztVpB+nH20VaAtw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XznV9FubErQw3FtnZYGsXesi0rrlztVpB+nH20VaAtw="
+    }
+  },
+  "version": "0.6.0"
+}

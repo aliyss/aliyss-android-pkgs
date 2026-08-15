@@ -1,0 +1,8 @@
+{
+  "package": "com.angryburg.uapp",
+  "signerFingerprints": [
+    "5B:AC:58:C2:50:25:E4:E4:E2:CB:8E:F6:BD:10:0C:CA:DC:47:23:5C:7F:90:6C:0B:40:C2:AD:64:F7:31:5B:DB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

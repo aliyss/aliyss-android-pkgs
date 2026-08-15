@@ -1,0 +1,8 @@
+{
+  "package": "de.mm20.launcher2.release",
+  "signerFingerprints": [
+    "85:19:29:66:B7:CF:C3:0A:27:08:84:50:66:26:7D:BD:31:2E:42:55:56:31:FB:71:9B:A5:0B:FD:92:31:79:C3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

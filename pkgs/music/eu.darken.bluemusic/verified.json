@@ -1,0 +1,8 @@
+{
+  "package": "eu.darken.bluemusic",
+  "signerFingerprints": [
+    "DC:8C:71:73:EC:14:33:3A:6B:CB:5B:C4:42:EB:AD:3B:B6:05:1F:C1:9B:73:2C:AD:1A:5A:78:39:04:DA:DE:05"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

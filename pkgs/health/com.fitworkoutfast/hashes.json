@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fitworkoutfast_71.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-teTDc+LvN/hKxlVjX1fywp+1hqxO5Kbei0oFIIqfRGE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-teTDc+LvN/hKxlVjX1fywp+1hqxO5Kbei0oFIIqfRGE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-teTDc+LvN/hKxlVjX1fywp+1hqxO5Kbei0oFIIqfRGE="
+    }
+  },
+  "version": "0.26.03"
+}

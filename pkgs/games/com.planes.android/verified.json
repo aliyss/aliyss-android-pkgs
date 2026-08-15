@@ -1,0 +1,8 @@
+{
+  "package": "com.planes.android",
+  "signerFingerprints": [
+    "69:B2:BE:EA:FE:61:C2:3E:F6:CA:9D:FD:70:4F:35:5E:DC:ED:25:60:37:9E:E2:71:A1:F2:C3:ED:B4:B3:91:8C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

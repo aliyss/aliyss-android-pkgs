@@ -1,0 +1,8 @@
+{
+  "package": "io.github.datastopwatch",
+  "signerFingerprints": [
+    "5F:60:9A:31:9F:ED:D9:88:00:9B:6E:8D:69:D5:A0:AB:9E:63:8E:99:6A:17:BE:B3:89:6C:E9:1F:FB:10:E7:1A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.paddlesandbugs.dahdidahdit_1190001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-G6IA+bEeGaZaP2qhTy4Tb0whKRBJ68QpnhKHt9MVhzo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G6IA+bEeGaZaP2qhTy4Tb0whKRBJ68QpnhKHt9MVhzo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G6IA+bEeGaZaP2qhTy4Tb0whKRBJ68QpnhKHt9MVhzo="
+    }
+  },
+  "version": "1.19.0"
+}

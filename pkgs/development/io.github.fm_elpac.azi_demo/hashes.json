@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.fm_elpac.azi_demo_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iSef+4otxTJvwQKti2BYLuuBu5vpgzatoM2mry7cVhk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iSef+4otxTJvwQKti2BYLuuBu5vpgzatoM2mry7cVhk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iSef+4otxTJvwQKti2BYLuuBu5vpgzatoM2mry7cVhk="
+    }
+  },
+  "version": "0.1.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.installalogs_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TKc/zLJBX3YezW1552+f5PWFhV3A4udZd7oEI9Ae5Mg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TKc/zLJBX3YezW1552+f5PWFhV3A4udZd7oEI9Ae5Mg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TKc/zLJBX3YezW1552+f5PWFhV3A4udZd7oEI9Ae5Mg="
+    }
+  },
+  "version": "1.0"
+}

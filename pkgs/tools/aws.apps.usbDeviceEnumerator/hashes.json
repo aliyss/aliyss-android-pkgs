@@ -1,0 +1,18 @@
+{
+  "apkName": "aws.apps.usbDeviceEnumerator_81.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-B75Kf0JfWVR5zSqgrrnss5J26XuagdoLGo5P3gc4H0Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B75Kf0JfWVR5zSqgrrnss5J26XuagdoLGo5P3gc4H0Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-B75Kf0JfWVR5zSqgrrnss5J26XuagdoLGo5P3gc4H0Y="
+    }
+  },
+  "version": "3.0.0.81"
+}

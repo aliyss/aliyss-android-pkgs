@@ -1,0 +1,8 @@
+{
+  "package": "luke.launcher",
+  "signerFingerprints": [
+    "97:27:DE:02:20:B0:43:6D:0B:9C:AB:7E:DA:2E:EF:7D:8D:61:EA:9E:C9:8A:9E:B8:9E:AD:E6:2C:21:E3:F4:35"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

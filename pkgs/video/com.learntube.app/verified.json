@@ -1,0 +1,8 @@
+{
+  "package": "com.learntube.app",
+  "signerFingerprints": [
+    "6F:B9:DF:54:D5:76:20:1C:D2:FC:A8:D3:26:E1:06:0E:62:36:E5:57:83:F6:E4:2E:C9:B9:C9:52:34:23:5D:D7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

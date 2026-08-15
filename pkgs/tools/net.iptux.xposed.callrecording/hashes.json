@@ -1,0 +1,18 @@
+{
+  "apkName": "net.iptux.xposed.callrecording_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gBeVBDDWJQUMA1MZL/YzZAAzfkWofrMmwNtSNs7dAJI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gBeVBDDWJQUMA1MZL/YzZAAzfkWofrMmwNtSNs7dAJI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gBeVBDDWJQUMA1MZL/YzZAAzfkWofrMmwNtSNs7dAJI="
+    }
+  },
+  "version": "1.0.21"
+}

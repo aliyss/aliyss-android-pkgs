@@ -1,0 +1,18 @@
+{
+  "apkName": "org.petero.droidfish_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fAcjP+RhpW2/pryDssDQ18081FooXbZWOCnTzuyqWqk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fAcjP+RhpW2/pryDssDQ18081FooXbZWOCnTzuyqWqk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fAcjP+RhpW2/pryDssDQ18081FooXbZWOCnTzuyqWqk="
+    }
+  },
+  "version": "1.90"
+}

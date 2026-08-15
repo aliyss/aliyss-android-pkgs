@@ -1,0 +1,18 @@
+{
+  "apkName": "com.elfeedcljsrn_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-O1K1G7S5sASa8m9t+Ux641WbC9rb3BWjb3jTgUnfVZA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O1K1G7S5sASa8m9t+Ux641WbC9rb3BWjb3jTgUnfVZA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-O1K1G7S5sASa8m9t+Ux641WbC9rb3BWjb3jTgUnfVZA="
+    }
+  },
+  "version": "2.4.0"
+}

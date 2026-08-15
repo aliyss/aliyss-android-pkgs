@@ -1,0 +1,8 @@
+{
+  "package": "org.xbmc.kore",
+  "signerFingerprints": [
+    "5D:47:EE:7A:31:A1:A4:F2:A3:B2:89:E3:2B:48:6E:86:00:63:10:92:7C:F4:4F:74:65:85:11:45:42:42:9F:B9"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

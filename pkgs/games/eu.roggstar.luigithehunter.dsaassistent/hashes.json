@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.roggstar.luigithehunter.dsaassistent_60.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8PxW+dsWYWl7M3v2tMaNgW8FvdSzuhinNJBUfsY57YQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8PxW+dsWYWl7M3v2tMaNgW8FvdSzuhinNJBUfsY57YQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8PxW+dsWYWl7M3v2tMaNgW8FvdSzuhinNJBUfsY57YQ="
+    }
+  },
+  "version": "Over(9000)Haul"
+}

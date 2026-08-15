@@ -1,0 +1,18 @@
+{
+  "apkName": "com.termux.api_1002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RJfbv4GQbfUuWe04elIj0iWqDeOsqBfMVXpiHk2t2kQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RJfbv4GQbfUuWe04elIj0iWqDeOsqBfMVXpiHk2t2kQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RJfbv4GQbfUuWe04elIj0iWqDeOsqBfMVXpiHk2t2kQ="
+    }
+  },
+  "version": "0.53.0"
+}

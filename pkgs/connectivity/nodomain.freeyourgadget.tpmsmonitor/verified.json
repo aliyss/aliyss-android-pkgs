@@ -1,0 +1,8 @@
+{
+  "package": "nodomain.freeyourgadget.tpmsmonitor",
+  "signerFingerprints": [
+    "22:B5:B3:1A:11:78:B9:A7:6F:9E:82:ED:DE:CE:73:91:A4:DD:C3:EC:C5:6E:8E:0D:16:3D:BD:74:B5:CC:DE:35"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

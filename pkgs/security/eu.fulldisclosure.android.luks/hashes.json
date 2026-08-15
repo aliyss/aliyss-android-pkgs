@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.fulldisclosure.android.luks_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tss+mkP3j0ZQGgrpu/QWqV58IU2be9kKU1FdFcDxQ4E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tss+mkP3j0ZQGgrpu/QWqV58IU2be9kKU1FdFcDxQ4E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tss+mkP3j0ZQGgrpu/QWqV58IU2be9kKU1FdFcDxQ4E="
+    }
+  },
+  "version": "1.1"
+}

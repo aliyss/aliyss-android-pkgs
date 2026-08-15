@@ -1,0 +1,18 @@
+{
+  "apkName": "com.darkrockstudios.app.securecamera_31.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yMCBEwvpH+8kuFv3erFz65P9J/a44INF7s/UEWZjJRM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yMCBEwvpH+8kuFv3erFz65P9J/a44INF7s/UEWZjJRM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yMCBEwvpH+8kuFv3erFz65P9J/a44INF7s/UEWZjJRM="
+    }
+  },
+  "version": "4.1.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "dev.zwander.installwithoptions",
+  "signerFingerprints": [
+    "E6:56:5E:92:74:0A:44:D5:55:0A:03:DC:34:F1:B2:A7:36:F8:B1:3F:60:A2:A5:F2:9F:1F:B9:36:4B:6F:C5:6E"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.ptt_bluetooth_speaker.sender_1010310.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+arGc9+gdJ51AoaLDBr0mnyUp7ML8/GA8Kbj6f8H8Gs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+arGc9+gdJ51AoaLDBr0mnyUp7ML8/GA8Kbj6f8H8Gs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+arGc9+gdJ51AoaLDBr0mnyUp7ML8/GA8Kbj6f8H8Gs="
+    }
+  },
+  "version": "001.01.03-10API"
+}

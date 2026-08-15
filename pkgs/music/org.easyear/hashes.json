@@ -1,0 +1,18 @@
+{
+  "apkName": "org.easyear_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9aMQiE/TdlOkE18EzyCo7EQLQQWiApPP5vj0z0XD48U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9aMQiE/TdlOkE18EzyCo7EQLQQWiApPP5vj0z0XD48U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9aMQiE/TdlOkE18EzyCo7EQLQQWiApPP5vj0z0XD48U="
+    }
+  },
+  "version": "0.1.9"
+}

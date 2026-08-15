@@ -1,0 +1,8 @@
+{
+  "package": "com.meenbeese.chronos",
+  "signerFingerprints": [
+    "90:84:4B:5C:3B:B6:C9:0B:AD:11:01:19:FB:2C:A0:C5:24:81:22:74:4B:A0:44:E9:BA:80:9C:78:F4:00:4D:4D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

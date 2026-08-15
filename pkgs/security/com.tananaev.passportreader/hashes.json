@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tananaev.passportreader_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-yg2QeaSFReoiWMDQryU21tFRDhhTz946CDDapZMKQ8I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yg2QeaSFReoiWMDQryU21tFRDhhTz946CDDapZMKQ8I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-yg2QeaSFReoiWMDQryU21tFRDhhTz946CDDapZMKQ8I="
+    }
+  },
+  "version": "3.4"
+}

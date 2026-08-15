@@ -1,0 +1,18 @@
+{
+  "apkName": "com.groce.app_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tIs1Y//8MjPjNivVXARV+xFqJHPgJ0iN0Dh2OU/zDtQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tIs1Y//8MjPjNivVXARV+xFqJHPgJ0iN0Dh2OU/zDtQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tIs1Y//8MjPjNivVXARV+xFqJHPgJ0iN0Dh2OU/zDtQ="
+    }
+  },
+  "version": "1.0.3"
+}

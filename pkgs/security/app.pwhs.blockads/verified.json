@@ -1,0 +1,8 @@
+{
+  "package": "app.pwhs.blockads",
+  "signerFingerprints": [
+    "22:9E:A4:95:84:36:0B:22:A8:C7:E7:E5:30:CF:B7:E1:10:3F:AA:1B:6B:A5:F3:28:37:69:1F:B9:6F:DC:FE:5A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

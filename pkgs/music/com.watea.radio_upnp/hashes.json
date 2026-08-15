@@ -1,0 +1,18 @@
+{
+  "apkName": "com.watea.radio_upnp_302016.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PHgPR4qFLchvusSCGe1pwoqJgndin6fBRGjgmaAHmtc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PHgPR4qFLchvusSCGe1pwoqJgndin6fBRGjgmaAHmtc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PHgPR4qFLchvusSCGe1pwoqJgndin6fBRGjgmaAHmtc="
+    }
+  },
+  "version": "3.02.016"
+}

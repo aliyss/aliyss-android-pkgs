@@ -1,0 +1,18 @@
+{
+  "apkName": "net.sylvek.itracing2_84.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-k8Q1B5FftUylSMhZStQs9VYacZ0j+5tq5UFHVJ31L1A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k8Q1B5FftUylSMhZStQs9VYacZ0j+5tq5UFHVJ31L1A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-k8Q1B5FftUylSMhZStQs9VYacZ0j+5tq5UFHVJ31L1A="
+    }
+  },
+  "version": "2.5.9"
+}

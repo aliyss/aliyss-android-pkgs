@@ -1,0 +1,8 @@
+{
+  "package": "com.gitlab.terrakok.gitfox",
+  "signerFingerprints": [
+    "A2:0C:88:90:90:D6:50:B8:7D:2D:F8:98:8A:55:80:18:1C:15:71:39:8A:C4:E5:8F:7E:5E:15:70:EF:D1:74:B4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

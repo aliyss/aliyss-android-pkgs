@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.gpxit.app_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-662zpTDoTUbTxsaRFnFhn3jjjIOakNnXo6+CTrGsSaw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-662zpTDoTUbTxsaRFnFhn3jjjIOakNnXo6+CTrGsSaw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-662zpTDoTUbTxsaRFnFhn3jjjIOakNnXo6+CTrGsSaw="
+    }
+  },
+  "version": "0.2.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.f0x1d.logfox_79.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-NL1/8+Nn8Wzzaima2xhy2jSl7Yk0UU08c2h7+GM8zcQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NL1/8+Nn8Wzzaima2xhy2jSl7Yk0UU08c2h7+GM8zcQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-NL1/8+Nn8Wzzaima2xhy2jSl7Yk0UU08c2h7+GM8zcQ="
+    }
+  },
+  "version": "2.1.10"
+}

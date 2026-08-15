@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.fossgis.schedule_119.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4HINXLeQ5ZVTsAhiDpOYkX6UraP0YZHFUNxwQqMF4Ac="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4HINXLeQ5ZVTsAhiDpOYkX6UraP0YZHFUNxwQqMF4Ac="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4HINXLeQ5ZVTsAhiDpOYkX6UraP0YZHFUNxwQqMF4Ac="
+    }
+  },
+  "version": "1.74.4-FOSSGIS-Edition"
+}

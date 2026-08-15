@@ -1,0 +1,8 @@
+{
+  "package": "fr.twentynine.keepon",
+  "signerFingerprints": [
+    "C9:D0:2B:DD:79:DC:FE:C9:5D:8F:C2:0A:2F:7D:6B:97:03:DD:1E:6F:69:62:F0:54:30:5F:4A:E0:9F:D4:4E:DE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

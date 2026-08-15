@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.whyrising.flashyalarm_10000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5W0Hhl2ZqQTcZA+JYsRSWioNErWE4zGoY6B7XHZPEJY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5W0Hhl2ZqQTcZA+JYsRSWioNErWE4zGoY6B7XHZPEJY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5W0Hhl2ZqQTcZA+JYsRSWioNErWE4zGoY6B7XHZPEJY="
+    }
+  },
+  "version": "1.0.0"
+}

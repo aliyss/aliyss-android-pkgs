@@ -1,0 +1,8 @@
+{
+  "package": "com.bojko108.mobiletileserver",
+  "signerFingerprints": [
+    "AC:F3:84:6E:23:2E:38:59:77:0E:C7:93:34:D7:F6:04:5C:BC:28:60:55:54:27:31:A8:92:50:05:3D:41:16:70"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.bartixxx.oneplusarbchecker_41.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tiYiWJFC8acZlhM5Tzl284yjbw+/+VeEoidk2S8qesM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tiYiWJFC8acZlhM5Tzl284yjbw+/+VeEoidk2S8qesM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tiYiWJFC8acZlhM5Tzl284yjbw+/+VeEoidk2S8qesM="
+    }
+  },
+  "version": "1.7.5"
+}

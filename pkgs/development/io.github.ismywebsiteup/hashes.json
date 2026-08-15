@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.ismywebsiteup_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-9Nq5VZF8og+oacRfnxaNGZ+0kUKk7DTR9CkJB/LwlG8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9Nq5VZF8og+oacRfnxaNGZ+0kUKk7DTR9CkJB/LwlG8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-9Nq5VZF8og+oacRfnxaNGZ+0kUKk7DTR9CkJB/LwlG8="
+    }
+  },
+  "version": "0.1.1"
+}

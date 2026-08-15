@@ -1,0 +1,18 @@
+{
+  "apkName": "com.adiamas.umpireassistant_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-A3D1E1HA1+mg83ME0Cau1dzEAleYwUNFJC92i+UlvL0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A3D1E1HA1+mg83ME0Cau1dzEAleYwUNFJC92i+UlvL0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A3D1E1HA1+mg83ME0Cau1dzEAleYwUNFJC92i+UlvL0="
+    }
+  },
+  "version": "1.0.1"
+}

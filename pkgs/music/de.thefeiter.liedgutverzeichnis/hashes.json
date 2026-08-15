@@ -1,0 +1,18 @@
+{
+  "apkName": "de.thefeiter.liedgutverzeichnis_76.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cdCsRFfYbt0o96UA7wY10hLnKStKsbB1GH6oVWHYD2s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cdCsRFfYbt0o96UA7wY10hLnKStKsbB1GH6oVWHYD2s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cdCsRFfYbt0o96UA7wY10hLnKStKsbB1GH6oVWHYD2s="
+    }
+  },
+  "version": "2.47"
+}

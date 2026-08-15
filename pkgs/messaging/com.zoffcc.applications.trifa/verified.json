@@ -1,0 +1,8 @@
+{
+  "package": "com.zoffcc.applications.trifa",
+  "signerFingerprints": [
+    "0E:E1:AE:CB:21:E2:65:94:71:4E:90:45:F4:C4:B4:6E:16:61:E2:4C:23:68:E7:0B:8D:AF:97:8D:81:6A:11:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

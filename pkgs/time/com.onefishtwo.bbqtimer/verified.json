@@ -1,0 +1,8 @@
+{
+  "package": "com.onefishtwo.bbqtimer",
+  "signerFingerprints": [
+    "71:57:13:60:B5:21:F2:1C:86:08:25:6E:69:A5:70:68:54:3F:82:27:88:66:76:34:E6:63:1A:00:DD:EA:CC:CE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

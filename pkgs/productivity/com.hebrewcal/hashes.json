@@ -1,0 +1,18 @@
+{
+  "apkName": "com.hebrewcal_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Y30OjWQJvIVieE7gdVeXtr2oVfXrPXzxY0FiVk6glmo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y30OjWQJvIVieE7gdVeXtr2oVfXrPXzxY0FiVk6glmo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Y30OjWQJvIVieE7gdVeXtr2oVfXrPXzxY0FiVk6glmo="
+    }
+  },
+  "version": "1.3"
+}

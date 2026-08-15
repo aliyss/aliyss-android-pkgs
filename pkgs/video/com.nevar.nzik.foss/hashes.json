@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nevar.nzik.foss_84.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cqyWrGpltQulN7BIgMwoeJwg2/rcVhUdt2QunZWBRsI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cqyWrGpltQulN7BIgMwoeJwg2/rcVhUdt2QunZWBRsI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cqyWrGpltQulN7BIgMwoeJwg2/rcVhUdt2QunZWBRsI="
+    }
+  },
+  "version": "7.4.6-f"
+}

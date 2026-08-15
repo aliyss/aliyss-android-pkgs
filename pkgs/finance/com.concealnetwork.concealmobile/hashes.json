@@ -1,0 +1,18 @@
+{
+  "apkName": "com.concealnetwork.concealmobile_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-t2RPEWN5mB8YO6Rfncs3wtjaAIxd0tmr4G/tFXZSGng="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t2RPEWN5mB8YO6Rfncs3wtjaAIxd0tmr4G/tFXZSGng="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-t2RPEWN5mB8YO6Rfncs3wtjaAIxd0tmr4G/tFXZSGng="
+    }
+  },
+  "version": "6.0.2"
+}

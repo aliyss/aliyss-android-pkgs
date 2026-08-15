@@ -1,0 +1,8 @@
+{
+  "package": "io.github.saveastxt",
+  "signerFingerprints": [
+    "C6:9E:88:D3:8E:C1:6E:27:F4:11:DC:E3:67:37:1A:32:35:C4:B3:20:CF:2E:61:51:6D:AD:70:BD:F4:49:2E:38"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

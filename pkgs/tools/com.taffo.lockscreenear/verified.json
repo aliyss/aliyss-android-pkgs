@@ -1,0 +1,8 @@
+{
+  "package": "com.taffo.lockscreenear",
+  "signerFingerprints": [
+    "A3:AD:D3:A2:B4:AA:0C:65:75:40:74:EF:BB:95:FA:23:BC:50:F6:19:4D:81:0A:B8:6B:05:30:70:FD:45:FD:8B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

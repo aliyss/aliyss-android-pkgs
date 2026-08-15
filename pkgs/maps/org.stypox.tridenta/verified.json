@@ -1,0 +1,8 @@
+{
+  "package": "org.stypox.tridenta",
+  "signerFingerprints": [
+    "63:64:9D:3F:CE:CB:F3:53:43:A4:DC:EC:70:3A:DE:F2:36:61:D9:9E:B1:C8:E4:09:50:91:F5:AB:9D:C7:90:0B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

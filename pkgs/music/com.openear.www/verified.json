@@ -1,0 +1,8 @@
+{
+  "package": "com.openear.www",
+  "signerFingerprints": [
+    "F9:D7:84:94:E7:CB:2F:C7:66:FE:A4:F1:51:C7:D8:BD:A3:60:5F:50:98:41:96:AB:61:88:00:0E:B6:9B:C8:3A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

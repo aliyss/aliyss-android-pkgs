@@ -1,0 +1,8 @@
+{
+  "package": "dev.cyberme0w.openbike",
+  "signerFingerprints": [
+    "32:39:50:BF:FF:91:F9:30:EE:7F:2B:81:87:BB:22:15:69:9B:57:AE:21:B1:B9:3E:DE:EC:87:AB:2F:10:2B:45"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

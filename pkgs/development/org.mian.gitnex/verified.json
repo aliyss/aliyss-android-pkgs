@@ -1,0 +1,8 @@
+{
+  "package": "org.mian.gitnex",
+  "signerFingerprints": [
+    "D3:50:AC:CD:C3:AA:47:40:BE:F1:DE:D9:5F:6F:46:69:82:E6:97:D7:D3:90:BB:7B:24:5B:12:4F:52:D9:BA:6B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

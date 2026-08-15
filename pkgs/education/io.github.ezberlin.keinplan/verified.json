@@ -1,0 +1,8 @@
+{
+  "package": "io.github.ezberlin.keinplan",
+  "signerFingerprints": [
+    "93:93:FD:76:AA:7D:0D:8A:6B:5D:25:76:AD:F9:88:73:35:C5:1F:8B:E2:70:DD:72:AB:EA:07:3F:26:A7:F4:AB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

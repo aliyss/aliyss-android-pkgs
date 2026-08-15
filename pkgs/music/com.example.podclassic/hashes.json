@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.podclassic_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iatbgS6u1FRzX7fh4i6KZu0/8qNTGXji5tiqWCzMhFI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iatbgS6u1FRzX7fh4i6KZu0/8qNTGXji5tiqWCzMhFI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iatbgS6u1FRzX7fh4i6KZu0/8qNTGXji5tiqWCzMhFI="
+    }
+  },
+  "version": "1.5"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.smartpack.packagemanager_79.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3bAteSKi0phtJ72E1zMn0WXd1RBJmNqdpolbG03LwJ0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3bAteSKi0phtJ72E1zMn0WXd1RBJmNqdpolbG03LwJ0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3bAteSKi0phtJ72E1zMn0WXd1RBJmNqdpolbG03LwJ0="
+    }
+  },
+  "version": "v7.9"
+}

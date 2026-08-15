@@ -1,0 +1,8 @@
+{
+  "package": "org.transdroid.lite",
+  "signerFingerprints": [
+    "32:A2:8E:3B:A8:AD:18:0A:21:7D:12:C7:F5:7D:68:35:5A:B8:90:19:5B:D9:E4:44:21:2D:18:BD:68:DA:D9:0F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

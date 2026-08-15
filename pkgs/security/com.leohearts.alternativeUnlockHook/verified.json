@@ -1,0 +1,8 @@
+{
+  "package": "com.leohearts.alternativeUnlockHook",
+  "signerFingerprints": [
+    "90:44:F7:81:6D:41:51:F3:32:3C:ED:1A:0E:BE:3F:B8:4B:6A:AF:10:F4:3B:BB:05:C2:D7:BB:86:5F:BB:F8:5D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

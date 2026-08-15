@@ -1,0 +1,8 @@
+{
+  "package": "org.epstudios.morbidmeter",
+  "signerFingerprints": [
+    "C2:91:72:EB:30:CF:9E:DA:38:44:8B:61:64:12:EF:AE:81:B2:8D:16:BC:E6:F9:71:5F:11:AC:19:91:57:C6:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

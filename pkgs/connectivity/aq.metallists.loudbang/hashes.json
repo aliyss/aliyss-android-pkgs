@@ -1,0 +1,18 @@
+{
+  "apkName": "aq.metallists.loudbang_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cU5WriGCh1lCvO2V0A79rnvg80NNJjR6WoAoe39LG00="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cU5WriGCh1lCvO2V0A79rnvg80NNJjR6WoAoe39LG00="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cU5WriGCh1lCvO2V0A79rnvg80NNJjR6WoAoe39LG00="
+    }
+  },
+  "version": "0.53"
+}

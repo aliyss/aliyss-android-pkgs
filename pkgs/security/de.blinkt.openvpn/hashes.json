@@ -1,0 +1,18 @@
+{
+  "apkName": "de.blinkt.openvpn_219.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jvMe4IZQO16Dd8vuriRv3J6TbHVv5pmF0jWIKbs7MZg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jvMe4IZQO16Dd8vuriRv3J6TbHVv5pmF0jWIKbs7MZg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jvMe4IZQO16Dd8vuriRv3J6TbHVv5pmF0jWIKbs7MZg="
+    }
+  },
+  "version": "0.7.64"
+}

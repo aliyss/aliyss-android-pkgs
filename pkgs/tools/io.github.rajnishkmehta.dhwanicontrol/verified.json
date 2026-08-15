@@ -1,0 +1,8 @@
+{
+  "package": "io.github.rajnishkmehta.dhwanicontrol",
+  "signerFingerprints": [
+    "05:0A:42:11:30:20:95:89:AC:72:BD:F2:56:49:FF:74:FA:14:87:20:A1:4E:8D:82:B9:5B:25:1A:D5:77:ED:03"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

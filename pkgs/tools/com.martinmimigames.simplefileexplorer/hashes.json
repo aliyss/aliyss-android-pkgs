@@ -1,0 +1,18 @@
+{
+  "apkName": "com.martinmimigames.simplefileexplorer_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/GyRNP1xTvBZMF7vQ8oJOIC/CTfrjz7XUMBomacWL+A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/GyRNP1xTvBZMF7vQ8oJOIC/CTfrjz7XUMBomacWL+A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/GyRNP1xTvBZMF7vQ8oJOIC/CTfrjz7XUMBomacWL+A="
+    }
+  },
+  "version": "4.18"
+}

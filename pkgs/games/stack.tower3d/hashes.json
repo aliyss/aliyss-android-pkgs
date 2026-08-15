@@ -1,0 +1,18 @@
+{
+  "apkName": "stack.tower3d_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ulsKSNdOM0g9ncsE4uIux0XujpJmGIv5xZ8tKyiDwjM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ulsKSNdOM0g9ncsE4uIux0XujpJmGIv5xZ8tKyiDwjM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ulsKSNdOM0g9ncsE4uIux0XujpJmGIv5xZ8tKyiDwjM="
+    }
+  },
+  "version": "1.0.0"
+}

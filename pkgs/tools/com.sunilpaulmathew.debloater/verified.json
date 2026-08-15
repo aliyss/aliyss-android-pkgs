@@ -1,0 +1,8 @@
+{
+  "package": "com.sunilpaulmathew.debloater",
+  "signerFingerprints": [
+    "F4:6E:0E:BC:9D:C0:71:10:8A:17:EB:A1:16:FB:32:9B:F1:5C:EA:2C:9C:F1:E3:48:4B:94:70:AA:F4:EA:5F:C4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

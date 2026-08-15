@@ -1,0 +1,8 @@
+{
+  "package": "org.eclipse.kuksa.companion",
+  "signerFingerprints": [
+    "F7:BF:7B:FB:8A:6D:13:32:CE:57:DD:9D:5C:90:D4:F1:A8:2B:CE:81:F7:93:85:F7:64:BA:9E:C8:7B:87:09:85"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

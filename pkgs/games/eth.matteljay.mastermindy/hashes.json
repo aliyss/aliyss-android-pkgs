@@ -1,0 +1,18 @@
+{
+  "apkName": "eth.matteljay.mastermindy_20190923.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eRJRJVb1FsEoQb0ILvQYONK42xkxR4oNB74Dsdg55dM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eRJRJVb1FsEoQb0ILvQYONK42xkxR4oNB74Dsdg55dM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eRJRJVb1FsEoQb0ILvQYONK42xkxR4oNB74Dsdg55dM="
+    }
+  },
+  "version": "20190923"
+}

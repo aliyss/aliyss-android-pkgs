@@ -1,0 +1,8 @@
+{
+  "package": "com.librelynx.lite",
+  "signerFingerprints": [
+    "78:F1:89:B9:36:86:2E:98:F1:92:C9:75:99:0A:87:3F:C5:FE:B6:95:BD:2C:77:03:A4:09:F9:BD:CF:6A:53:2C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

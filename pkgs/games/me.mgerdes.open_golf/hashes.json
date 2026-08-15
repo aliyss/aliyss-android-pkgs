@@ -1,0 +1,18 @@
+{
+  "apkName": "me.mgerdes.open_golf_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cMzM4xyyMZ1BOJRRuYv/MVilTuYov1BKdDzmQt2ocbs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cMzM4xyyMZ1BOJRRuYv/MVilTuYov1BKdDzmQt2ocbs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cMzM4xyyMZ1BOJRRuYv/MVilTuYov1BKdDzmQt2ocbs="
+    }
+  },
+  "version": "1.0"
+}

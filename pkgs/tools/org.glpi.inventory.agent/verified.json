@@ -1,0 +1,8 @@
+{
+  "package": "org.glpi.inventory.agent",
+  "signerFingerprints": [
+    "1F:46:E7:FA:28:A0:C6:E7:FF:B6:CD:C6:B4:D0:4A:FB:78:90:E1:9F:FD:0A:59:BE:F7:6A:50:20:71:42:B8:75"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.watea.radio_upnp",
+  "signerFingerprints": [
+    "93:E9:58:52:79:72:A6:D7:C7:86:BE:10:C0:44:12:F6:24:51:6C:B3:B6:FA:92:04:DA:6C:C6:C9:E0:0E:CD:2A"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

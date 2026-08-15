@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.itsvic.parceltracker_10501000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jHEC/lL2hO+Fd3z/RnFSTDFQtSRkvgS11jqm+LYBwmY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jHEC/lL2hO+Fd3z/RnFSTDFQtSRkvgS11jqm+LYBwmY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jHEC/lL2hO+Fd3z/RnFSTDFQtSRkvgS11jqm+LYBwmY="
+    }
+  },
+  "version": "1.5.1"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.bitbucket.watashi564.combapp_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-A9wp+THg2+kEGgf2Hlwf7nhpAyCfRbKTLne523l6rC0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A9wp+THg2+kEGgf2Hlwf7nhpAyCfRbKTLne523l6rC0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-A9wp+THg2+kEGgf2Hlwf7nhpAyCfRbKTLne523l6rC0="
+    }
+  },
+  "version": "0.0.4"
+}

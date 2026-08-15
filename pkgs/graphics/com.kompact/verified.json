@@ -1,0 +1,8 @@
+{
+  "package": "com.kompact",
+  "signerFingerprints": [
+    "58:13:FC:01:BA:8D:D9:D2:83:5B:6B:EA:E8:0F:65:CA:09:F4:44:4D:4F:B4:26:E8:E3:FF:3D:4A:DE:B1:1D:7B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

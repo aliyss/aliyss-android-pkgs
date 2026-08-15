@@ -1,0 +1,8 @@
+{
+  "package": "com.artemchep.pocketmode",
+  "signerFingerprints": [
+    "0E:56:94:45:62:AC:4B:57:3C:D0:13:BE:FE:20:77:A3:84:12:2E:5E:D1:8A:D6:47:6C:E4:88:77:BC:8C:E7:05"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

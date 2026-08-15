@@ -1,0 +1,18 @@
+{
+  "apkName": "org.bitanon.studfinder_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZUT786uZAvmOoYLtQ7cFKb7qVxsYd1pjwDRS3zKOurg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZUT786uZAvmOoYLtQ7cFKb7qVxsYd1pjwDRS3zKOurg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZUT786uZAvmOoYLtQ7cFKb7qVxsYd1pjwDRS3zKOurg="
+    }
+  },
+  "version": "2.0.1"
+}

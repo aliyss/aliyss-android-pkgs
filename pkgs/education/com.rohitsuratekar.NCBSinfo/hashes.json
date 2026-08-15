@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rohitsuratekar.NCBSinfo_74.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UH0OXQMeDBYP9gfWHVjDF8qMh+P/rKF2BX5+K7PJwIQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UH0OXQMeDBYP9gfWHVjDF8qMh+P/rKF2BX5+K7PJwIQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UH0OXQMeDBYP9gfWHVjDF8qMh+P/rKF2BX5+K7PJwIQ="
+    }
+  },
+  "version": "6.6.9"
+}

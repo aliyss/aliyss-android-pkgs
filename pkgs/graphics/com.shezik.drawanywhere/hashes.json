@@ -1,0 +1,18 @@
+{
+  "apkName": "com.shezik.drawanywhere_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2zO26kd4FPQxdn6NrobOvOIzZr9tsLvgsKhLw2tRyYU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2zO26kd4FPQxdn6NrobOvOIzZr9tsLvgsKhLw2tRyYU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2zO26kd4FPQxdn6NrobOvOIzZr9tsLvgsKhLw2tRyYU="
+    }
+  },
+  "version": "2.3"
+}

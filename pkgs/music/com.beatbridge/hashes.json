@@ -1,0 +1,18 @@
+{
+  "apkName": "com.beatbridge_3704.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-q2cASGVP83u4pi5pF1wQQ8GO2zWVxh4xU3l5TEjyP7o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q2cASGVP83u4pi5pF1wQQ8GO2zWVxh4xU3l5TEjyP7o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-q2cASGVP83u4pi5pF1wQQ8GO2zWVxh4xU3l5TEjyP7o="
+    }
+  },
+  "version": "1.0.37"
+}

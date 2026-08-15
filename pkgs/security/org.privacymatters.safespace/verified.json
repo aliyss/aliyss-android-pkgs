@@ -1,0 +1,8 @@
+{
+  "package": "org.privacymatters.safespace",
+  "signerFingerprints": [
+    "94:41:69:AD:7B:B4:69:DA:BD:F5:FF:B0:95:03:CE:74:5E:BD:67:30:A1:6B:85:98:68:08:C4:52:3A:7D:EE:63"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "app.seeneva.reader",
+  "signerFingerprints": [
+    "D8:9F:C7:17:92:BE:F9:C1:14:57:99:7D:B3:1A:81:58:95:81:1D:89:8C:46:A7:47:37:5C:FA:BE:C0:42:C7:A2"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

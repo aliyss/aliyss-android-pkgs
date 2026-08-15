@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.quelltext.gita_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-HcaPH/C/+SQI3ItHLCr6/sL0XKuyaaChDLQiLTS42Ms="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HcaPH/C/+SQI3ItHLCr6/sL0XKuyaaChDLQiLTS42Ms="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-HcaPH/C/+SQI3ItHLCr6/sL0XKuyaaChDLQiLTS42Ms="
+    }
+  },
+  "version": "1.5"
+}

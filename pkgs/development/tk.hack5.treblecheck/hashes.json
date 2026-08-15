@@ -1,0 +1,18 @@
+{
+  "apkName": "tk.hack5.treblecheck_5001001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5rAKBIqt6/9FxtvbXJL9bMX2fuUziOdQ7PNBT9mF9TQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5rAKBIqt6/9FxtvbXJL9bMX2fuUziOdQ7PNBT9mF9TQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5rAKBIqt6/9FxtvbXJL9bMX2fuUziOdQ7PNBT9mF9TQ="
+    }
+  },
+  "version": "5.1.1"
+}

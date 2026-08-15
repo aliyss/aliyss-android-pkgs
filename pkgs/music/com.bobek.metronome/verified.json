@@ -1,0 +1,8 @@
+{
+  "package": "com.bobek.metronome",
+  "signerFingerprints": [
+    "1E:B7:1F:FE:CF:64:33:B9:08:95:4E:EC:5C:B7:D6:AE:C2:57:22:8A:B4:EC:B5:56:E1:91:DB:5A:84:A9:56:89"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

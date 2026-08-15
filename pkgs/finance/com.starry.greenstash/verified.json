@@ -1,0 +1,8 @@
+{
+  "package": "com.starry.greenstash",
+  "signerFingerprints": [
+    "B1:10:FE:43:59:21:AF:76:94:33:4B:3E:99:FF:74:A7:E4:55:9B:C3:FE:39:5D:0C:D7:0C:F0:01:AD:10:A0:51"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

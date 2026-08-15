@@ -1,0 +1,18 @@
+{
+  "apkName": "varzan.extraKeyboardLayouts_1028.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5sD5CSa8sL9gl0j/iE/56PuTJy6usowGecg0+4udQrQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5sD5CSa8sL9gl0j/iE/56PuTJy6usowGecg0+4udQrQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5sD5CSa8sL9gl0j/iE/56PuTJy6usowGecg0+4udQrQ="
+    }
+  },
+  "version": "1.28"
+}

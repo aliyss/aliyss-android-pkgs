@@ -1,0 +1,8 @@
+{
+  "package": "com.github.frimtec.android.pikettassist",
+  "signerFingerprints": [
+    "2D:B0:F3:4F:37:5D:76:83:E7:2F:EA:3D:DB:F0:56:1C:79:B5:E6:B9:B0:A3:15:C1:0D:6F:1D:59:79:BE:00:DC"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

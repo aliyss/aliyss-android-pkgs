@@ -1,0 +1,18 @@
+{
+  "apkName": "com.j.m3play_143.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rXirvdjF88BviFUC0xZHOhWokq6R2gW+dbytubKGhZ8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rXirvdjF88BviFUC0xZHOhWokq6R2gW+dbytubKGhZ8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rXirvdjF88BviFUC0xZHOhWokq6R2gW+dbytubKGhZ8="
+    }
+  },
+  "version": "3.1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.secuso.privacyfriendlyactivitytracker_100.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5AQctyT5f0gw/wrj4lDLX9cag0vXLEUH8Jy3FJ+/kEc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5AQctyT5f0gw/wrj4lDLX9cag0vXLEUH8Jy3FJ+/kEc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5AQctyT5f0gw/wrj4lDLX9cag0vXLEUH8Jy3FJ+/kEc="
+    }
+  },
+  "version": "3.1.2"
+}

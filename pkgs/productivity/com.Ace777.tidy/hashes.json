@@ -1,0 +1,18 @@
+{
+  "apkName": "com.Ace777.tidy_88.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Vmp4j5R+l5to72lof6YFQEURVHvVLnnwDAct212jCLg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Vmp4j5R+l5to72lof6YFQEURVHvVLnnwDAct212jCLg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Vmp4j5R+l5to72lof6YFQEURVHvVLnnwDAct212jCLg="
+    }
+  },
+  "version": "3.38.49"
+}

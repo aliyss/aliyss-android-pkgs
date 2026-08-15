@@ -1,0 +1,18 @@
+{
+  "apkName": "com.lalumo.app_43.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EQDedEKgMCYhvdB9ADzSZIe/oaREQWdmugpmJHVOmic="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EQDedEKgMCYhvdB9ADzSZIe/oaREQWdmugpmJHVOmic="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EQDedEKgMCYhvdB9ADzSZIe/oaREQWdmugpmJHVOmic="
+    }
+  },
+  "version": "7.2"
+}

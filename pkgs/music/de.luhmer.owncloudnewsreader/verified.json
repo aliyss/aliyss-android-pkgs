@@ -1,0 +1,8 @@
+{
+  "package": "de.luhmer.owncloudnewsreader",
+  "signerFingerprints": [
+    "C6:E3:A1:A2:0A:7E:02:18:29:D4:F5:1B:36:CB:27:FA:81:5F:2A:9C:22:13:D9:80:E2:6A:31:B4:9E:78:EA:75"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

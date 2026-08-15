@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.basicairdata.graziano.gpslogger_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GKBNMK/f9ibU3fVrKDQ9MxPy8JSTr3rYHR5O5ohajc0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GKBNMK/f9ibU3fVrKDQ9MxPy8JSTr3rYHR5O5ohajc0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GKBNMK/f9ibU3fVrKDQ9MxPy8JSTr3rYHR5O5ohajc0="
+    }
+  },
+  "version": "3.3.0"
+}

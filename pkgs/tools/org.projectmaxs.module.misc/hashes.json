@@ -1,0 +1,18 @@
+{
+  "apkName": "org.projectmaxs.module.misc_2000506627.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0JnjZKCl32OL99fqb1h3jqASHCDINs+1RCdNTldvM+s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0JnjZKCl32OL99fqb1h3jqASHCDINs+1RCdNTldvM+s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0JnjZKCl32OL99fqb1h3jqASHCDINs+1RCdNTldvM+s="
+    }
+  },
+  "version": "0.5.19"
+}

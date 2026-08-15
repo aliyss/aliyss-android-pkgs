@@ -1,0 +1,18 @@
+{
+  "apkName": "com.puutaro.commandclick_86.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-5iBDejTOv+rp4a7Rahgi6eZ0BRzj3wMVvs9EEyWKyhY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5iBDejTOv+rp4a7Rahgi6eZ0BRzj3wMVvs9EEyWKyhY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-5iBDejTOv+rp4a7Rahgi6eZ0BRzj3wMVvs9EEyWKyhY="
+    }
+  },
+  "version": "1.4.5"
+}

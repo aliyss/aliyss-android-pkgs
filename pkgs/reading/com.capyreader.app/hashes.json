@@ -1,0 +1,18 @@
+{
+  "apkName": "com.capyreader.app_1212.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-b/Bo78WGWMVo8CiMcaISCuY301IUxDbmDsGbd5+jiDM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b/Bo78WGWMVo8CiMcaISCuY301IUxDbmDsGbd5+jiDM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b/Bo78WGWMVo8CiMcaISCuY301IUxDbmDsGbd5+jiDM="
+    }
+  },
+  "version": "2026.07.1212"
+}

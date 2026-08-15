@@ -1,0 +1,8 @@
+{
+  "package": "org.schabi.kiba",
+  "signerFingerprints": [
+    "55:C4:2F:8E:4B:50:C8:1A:3D:0B:8A:5C:41:AA:A8:CB:FD:D9:99:7C:F0:98:88:AC:7F:D9:09:CF:73:8D:DA:87"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.surfaceocean.nexttraceroute_16.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YT5VEahA3jWxyl3fRFMjtjU6FLxv/2HV0PlkDVBUTj4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YT5VEahA3jWxyl3fRFMjtjU6FLxv/2HV0PlkDVBUTj4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YT5VEahA3jWxyl3fRFMjtjU6FLxv/2HV0PlkDVBUTj4="
+    }
+  },
+  "version": "0.1.6"
+}

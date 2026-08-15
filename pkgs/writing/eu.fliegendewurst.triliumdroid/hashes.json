@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.fliegendewurst.triliumdroid_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-T801J0nAkDKO57EXrGLnsNIrWdOdeAT2ZoQNxgJuQT0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T801J0nAkDKO57EXrGLnsNIrWdOdeAT2ZoQNxgJuQT0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-T801J0nAkDKO57EXrGLnsNIrWdOdeAT2ZoQNxgJuQT0="
+    }
+  },
+  "version": "0.103.0-alpha17"
+}

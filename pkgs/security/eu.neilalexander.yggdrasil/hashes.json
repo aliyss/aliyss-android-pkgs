@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.neilalexander.yggdrasil_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GLY7JUi+t97IlTqbNXH3Uxg/5k+IDfP3FIfCq79LI5s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GLY7JUi+t97IlTqbNXH3Uxg/5k+IDfP3FIfCq79LI5s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GLY7JUi+t97IlTqbNXH3Uxg/5k+IDfP3FIfCq79LI5s="
+    }
+  },
+  "version": "0.1-021"
+}

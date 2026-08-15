@@ -1,0 +1,8 @@
+{
+  "package": "de.blinkt.openvpn",
+  "signerFingerprints": [
+    "4C:D3:30:FE:65:93:E2:E6:4B:1E:1F:A3:83:F0:C6:D7:38:92:18:4F:C1:CD:1A:90:9E:71:D5:58:D8:62:E2:12"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

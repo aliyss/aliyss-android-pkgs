@@ -1,0 +1,18 @@
+{
+  "apkName": "org.transdroid.full_249.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uWKf4LTa5KTzylsK/dX1DuvPTxk6CcED9NagKfnapfk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uWKf4LTa5KTzylsK/dX1DuvPTxk6CcED9NagKfnapfk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uWKf4LTa5KTzylsK/dX1DuvPTxk6CcED9NagKfnapfk="
+    }
+  },
+  "version": "2.5.29"
+}

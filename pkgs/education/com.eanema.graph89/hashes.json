@@ -1,0 +1,18 @@
+{
+  "apkName": "com.eanema.graph89_1200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-plzlFY77c0LHfBIyesxrxByrrdHqxjgchkJpnDAJk08="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-plzlFY77c0LHfBIyesxrxByrrdHqxjgchkJpnDAJk08="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-plzlFY77c0LHfBIyesxrxByrrdHqxjgchkJpnDAJk08="
+    }
+  },
+  "version": "1.2.0"
+}

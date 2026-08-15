@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vonglasow.michael.qz_20200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-S3NetLjWoHNXyXeFZMeGKSa7AWKkbTgIgVbMf+M1B4I="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S3NetLjWoHNXyXeFZMeGKSa7AWKkbTgIgVbMf+M1B4I="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-S3NetLjWoHNXyXeFZMeGKSa7AWKkbTgIgVbMf+M1B4I="
+    }
+  },
+  "version": "2.2.0"
+}

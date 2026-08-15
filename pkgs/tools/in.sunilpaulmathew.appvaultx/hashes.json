@@ -1,0 +1,18 @@
+{
+  "apkName": "in.sunilpaulmathew.appvaultx_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-eUGpOgbqO2stEgCu7Byd8IClyluFZ1ea9wcccFOKT1U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eUGpOgbqO2stEgCu7Byd8IClyluFZ1ea9wcccFOKT1U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-eUGpOgbqO2stEgCu7Byd8IClyluFZ1ea9wcccFOKT1U="
+    }
+  },
+  "version": "v0.5"
+}

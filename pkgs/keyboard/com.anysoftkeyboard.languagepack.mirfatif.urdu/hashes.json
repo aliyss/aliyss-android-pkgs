@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.mirfatif.urdu_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/8FhhavXCHcwy/k4kBfvUZy4zIAVOzHU3JlaSh2n8NA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/8FhhavXCHcwy/k4kBfvUZy4zIAVOzHU3JlaSh2n8NA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/8FhhavXCHcwy/k4kBfvUZy4zIAVOzHU3JlaSh2n8NA="
+    }
+  },
+  "version": "5.1.6158"
+}

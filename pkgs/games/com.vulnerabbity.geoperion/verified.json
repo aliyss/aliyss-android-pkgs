@@ -1,0 +1,8 @@
+{
+  "package": "com.vulnerabbity.geoperion",
+  "signerFingerprints": [
+    "C5:15:4C:BB:B6:4C:19:89:AD:30:9E:FB:26:CB:F1:D3:74:53:0A:70:6E:FD:70:D3:5D:4D:0F:13:61:54:AD:0C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.pyload.android.client_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3SL+hk8ktN1y6XxPZDkn2SxEWu6s2nD21EFfVu7/QEQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3SL+hk8ktN1y6XxPZDkn2SxEWu6s2nD21EFfVu7/QEQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3SL+hk8ktN1y6XxPZDkn2SxEWu6s2nD21EFfVu7/QEQ="
+    }
+  },
+  "version": "0.4.2"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nighthawkapps.wallet.android_20216800.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-uTCulLla/FVLfNMlj9eM9deLACK2D3QwXZ0nD2YOmjc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uTCulLla/FVLfNMlj9eM9deLACK2D3QwXZ0nD2YOmjc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-uTCulLla/FVLfNMlj9eM9deLACK2D3QwXZ0nD2YOmjc="
+    }
+  },
+  "version": "2.2.16"
+}

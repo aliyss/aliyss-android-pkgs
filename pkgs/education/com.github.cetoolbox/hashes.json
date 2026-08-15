@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.cetoolbox_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Fy6eyCcOGXBMeWMJw2c5y8bKKfvHIXWlaBwartrxpC8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Fy6eyCcOGXBMeWMJw2c5y8bKKfvHIXWlaBwartrxpC8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Fy6eyCcOGXBMeWMJw2c5y8bKKfvHIXWlaBwartrxpC8="
+    }
+  },
+  "version": "1.6.1"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.tunefriend.app",
+  "signerFingerprints": [
+    "E5:CF:87:87:39:B7:58:CE:B1:18:AD:A0:35:79:DF:49:F7:03:F9:28:B4:AE:F6:73:8A:BA:0A:3E:0D:85:1E:88"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

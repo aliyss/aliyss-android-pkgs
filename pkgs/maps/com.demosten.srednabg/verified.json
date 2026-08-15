@@ -1,0 +1,8 @@
+{
+  "package": "com.demosten.srednabg",
+  "signerFingerprints": [
+    "E5:25:F7:DB:0F:F4:CB:1C:EB:27:F0:F2:91:78:4E:25:BD:08:E7:B1:3D:25:CF:35:E9:FB:F5:39:28:2D:C1:C3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

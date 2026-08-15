@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tomer.dbz.widget_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-upFu0AkUaRMo4SE6fMH8G2byOIegH9bixQN7zIgIi1w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-upFu0AkUaRMo4SE6fMH8G2byOIegH9bixQN7zIgIi1w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-upFu0AkUaRMo4SE6fMH8G2byOIegH9bixQN7zIgIi1w="
+    }
+  },
+  "version": "1.6"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.adrianvictor.geleia",
+  "signerFingerprints": [
+    "66:2C:4E:18:46:6A:DA:36:C8:14:51:0A:F3:AE:95:F7:CB:F4:8F:D9:42:21:1C:4F:19:AB:F1:9B:1A:3D:6B:2B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.inkcast.aos_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7IHtQP8rWw2f1SfudY6GMYdC0QFtTp5tx29CIxunWfc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7IHtQP8rWw2f1SfudY6GMYdC0QFtTp5tx29CIxunWfc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7IHtQP8rWw2f1SfudY6GMYdC0QFtTp5tx29CIxunWfc="
+    }
+  },
+  "version": "0.0.1"
+}

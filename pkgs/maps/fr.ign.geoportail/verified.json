@@ -1,0 +1,8 @@
+{
+  "package": "fr.ign.geoportail",
+  "signerFingerprints": [
+    "B9:BA:28:5A:F3:57:B7:22:64:C0:6A:13:54:2C:C7:3E:2C:A8:C8:01:CC:65:9B:9C:44:43:65:FD:3C:88:1D:A6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

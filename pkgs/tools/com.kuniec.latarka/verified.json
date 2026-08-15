@@ -1,0 +1,8 @@
+{
+  "package": "com.kuniec.latarka",
+  "signerFingerprints": [
+    "C6:E4:1B:E1:13:FB:B0:AC:40:0E:9B:DA:24:19:18:97:08:9A:F0:79:44:58:6A:C2:25:2B:9C:01:B7:17:30:20"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

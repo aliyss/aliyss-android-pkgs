@@ -1,0 +1,18 @@
+{
+  "apkName": "app.govroam.getgovroam_2692.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cmzLAsj3SACb3zdgiU5kGORdDcTqkY2ywrZtQ9F7H0w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cmzLAsj3SACb3zdgiU5kGORdDcTqkY2ywrZtQ9F7H0w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cmzLAsj3SACb3zdgiU5kGORdDcTqkY2ywrZtQ9F7H0w="
+    }
+  },
+  "version": "2.3.0(2692)"
+}

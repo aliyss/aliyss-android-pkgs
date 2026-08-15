@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.bg.rbtlui_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-15bi0arE3CGYZwjYKlfQdrPzYGdSsh2ropCjqPUg0vg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-15bi0arE3CGYZwjYKlfQdrPzYGdSsh2ropCjqPUg0vg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-15bi0arE3CGYZwjYKlfQdrPzYGdSsh2ropCjqPUg0vg="
+    }
+  },
+  "version": "1.1.1"
+}

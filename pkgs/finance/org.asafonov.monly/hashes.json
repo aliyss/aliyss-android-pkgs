@@ -1,0 +1,18 @@
+{
+  "apkName": "org.asafonov.monly_53.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-dcz7Zrl4gpDDuAd9XJWpw8I4ThUymDYPIerOJBzL3xI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dcz7Zrl4gpDDuAd9XJWpw8I4ThUymDYPIerOJBzL3xI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dcz7Zrl4gpDDuAd9XJWpw8I4ThUymDYPIerOJBzL3xI="
+    }
+  },
+  "version": "2.15"
+}

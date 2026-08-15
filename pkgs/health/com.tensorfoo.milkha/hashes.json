@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tensorfoo.milkha_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-w5vuE/ggd1KSAKz7IkOsrCN47W/EczEekqn46zvoIfk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w5vuE/ggd1KSAKz7IkOsrCN47W/EczEekqn46zvoIfk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w5vuE/ggd1KSAKz7IkOsrCN47W/EczEekqn46zvoIfk="
+    }
+  },
+  "version": "1.0"
+}

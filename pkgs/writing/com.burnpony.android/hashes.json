@@ -1,0 +1,18 @@
+{
+  "apkName": "com.burnpony.android_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vbxXPd0qDqPiw9Ouc+HyLBxypLoFP7zigm2dtwZJ44U="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vbxXPd0qDqPiw9Ouc+HyLBxypLoFP7zigm2dtwZJ44U="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vbxXPd0qDqPiw9Ouc+HyLBxypLoFP7zigm2dtwZJ44U="
+    }
+  },
+  "version": "1.0.1"
+}

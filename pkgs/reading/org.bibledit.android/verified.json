@@ -1,0 +1,8 @@
+{
+  "package": "org.bibledit.android",
+  "signerFingerprints": [
+    "52:48:D2:B7:5B:41:7E:75:95:9F:B7:BD:10:56:A3:6D:6E:1D:2C:70:C5:1C:D9:45:20:FD:D0:59:70:1B:C8:2E"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

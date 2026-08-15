@@ -1,0 +1,18 @@
+{
+  "apkName": "com.studio4plus.homerplayer_76.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JVA+DD+9RC88te0WTR9vt+3fOHXBUz3hZxNlqJzvzFo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JVA+DD+9RC88te0WTR9vt+3fOHXBUz3hZxNlqJzvzFo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JVA+DD+9RC88te0WTR9vt+3fOHXBUz3hZxNlqJzvzFo="
+    }
+  },
+  "version": "1.0.10"
+}

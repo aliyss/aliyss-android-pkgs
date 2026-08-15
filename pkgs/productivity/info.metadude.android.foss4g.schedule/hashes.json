@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.foss4g.schedule_109.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PdomXPLmQfdGz2PKeCuyEiGDlnKRH0OfeVdQjWY1eQg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PdomXPLmQfdGz2PKeCuyEiGDlnKRH0OfeVdQjWY1eQg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PdomXPLmQfdGz2PKeCuyEiGDlnKRH0OfeVdQjWY1eQg="
+    }
+  },
+  "version": "1.71.0-FOSS4G-Europe-Edition"
+}

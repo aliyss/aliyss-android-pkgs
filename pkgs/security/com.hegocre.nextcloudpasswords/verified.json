@@ -1,0 +1,8 @@
+{
+  "package": "com.hegocre.nextcloudpasswords",
+  "signerFingerprints": [
+    "4A:87:02:C9:92:8C:D8:C6:88:85:6D:7D:4F:36:1B:9F:56:45:EC:32:EA:A4:26:49:7B:08:B5:AD:37:EF:F0:1D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

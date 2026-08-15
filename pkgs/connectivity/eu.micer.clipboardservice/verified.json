@@ -1,0 +1,8 @@
+{
+  "package": "eu.micer.clipboardservice",
+  "signerFingerprints": [
+    "BF:19:D6:08:00:06:46:81:08:3E:3F:39:D1:4E:5C:EF:50:CB:6B:DF:70:E2:F4:51:83:A9:04:9F:53:7A:16:63"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

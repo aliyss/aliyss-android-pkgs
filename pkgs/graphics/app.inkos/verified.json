@@ -1,0 +1,8 @@
+{
+  "package": "app.inkos",
+  "signerFingerprints": [
+    "3B:2D:BD:AB:77:C9:C3:54:4E:59:D6:10:97:F4:8D:3A:C3:FB:5F:E7:C0:DF:1C:C8:91:92:21:6E:4E:9C:15:99"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.yassineabou.clock_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PLA23T07vMjx96tqjYDdYPYuc02VVr9uklT0j5/IbmA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PLA23T07vMjx96tqjYDdYPYuc02VVr9uklT0j5/IbmA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PLA23T07vMjx96tqjYDdYPYuc02VVr9uklT0j5/IbmA="
+    }
+  },
+  "version": "1.6"
+}

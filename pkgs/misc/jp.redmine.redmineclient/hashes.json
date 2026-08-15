@@ -1,0 +1,18 @@
+{
+  "apkName": "jp.redmine.redmineclient_665.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tn0bPi57J6XnBSHAwnf+u5bYdkFrXoDrMU40TUUmXQg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tn0bPi57J6XnBSHAwnf+u5bYdkFrXoDrMU40TUUmXQg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tn0bPi57J6XnBSHAwnf+u5bYdkFrXoDrMU40TUUmXQg="
+    }
+  },
+  "version": "3.23"
+}

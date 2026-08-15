@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ojrandom.paiesque_90.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6J2L8+PgUWrUundL9cyPQicOw9G+DINS+RKJBI+E4vM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6J2L8+PgUWrUundL9cyPQicOw9G+DINS+RKJBI+E4vM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6J2L8+PgUWrUundL9cyPQicOw9G+DINS+RKJBI+E4vM="
+    }
+  },
+  "version": "90"
+}

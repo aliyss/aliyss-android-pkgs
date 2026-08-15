@@ -1,0 +1,8 @@
+{
+  "package": "com.by_syk.netupdown",
+  "signerFingerprints": [
+    "C6:0C:F9:D2:F6:D2:14:B0:C8:3C:E4:8B:9E:CC:8D:CE:82:06:82:A4:01:E6:68:62:3A:10:5A:29:80:DD:E4:56"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "de.democracydeutschland.app",
+  "signerFingerprints": [
+    "AB:ED:05:B0:B2:65:18:EB:05:03:57:22:00:BF:BA:A3:5A:0E:21:2C:98:3F:23:DD:95:BF:6A:FA:B4:5F:3A:11"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

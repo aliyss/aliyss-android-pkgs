@@ -1,0 +1,18 @@
+{
+  "apkName": "io.heckel.ntfy_63.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tLqm9mi9V61d87Tg52kWXc8lxe4Z/bBPeAd+6Blhbyo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tLqm9mi9V61d87Tg52kWXc8lxe4Z/bBPeAd+6Blhbyo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tLqm9mi9V61d87Tg52kWXc8lxe4Z/bBPeAd+6Blhbyo="
+    }
+  },
+  "version": "1.25.2"
+}

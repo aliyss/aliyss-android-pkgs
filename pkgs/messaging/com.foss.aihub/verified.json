@@ -1,0 +1,8 @@
+{
+  "package": "com.foss.aihub",
+  "signerFingerprints": [
+    "71:F8:52:08:4C:89:1C:76:91:FC:BE:3D:0A:C0:D3:A4:1D:C9:42:3F:80:EA:48:A8:91:99:2C:BF:D9:BC:9F:5B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "cat.pantsu.nyaapantsu",
+  "signerFingerprints": [
+    "C5:AF:65:73:2E:0C:FB:F9:B5:BF:89:1E:37:F1:BF:00:15:50:F4:D1:CA:EB:55:38:A7:56:22:1F:F3:F0:59:C1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.slovene_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ynDvYXqQewIEKnqeAmBB4NZZFxfdbo3lQfYWKumzwFg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ynDvYXqQewIEKnqeAmBB4NZZFxfdbo3lQfYWKumzwFg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ynDvYXqQewIEKnqeAmBB4NZZFxfdbo3lQfYWKumzwFg="
+    }
+  },
+  "version": "5.1.6158"
+}

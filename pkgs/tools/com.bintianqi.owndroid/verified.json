@@ -1,0 +1,8 @@
+{
+  "package": "com.bintianqi.owndroid",
+  "signerFingerprints": [
+    "E5:D5:DB:17:6A:74:2C:56:6B:A6:02:0A:C2:4D:93:FA:BD:A5:F6:95:2D:7F:CC:AE:9E:3A:46:E9:84:8E:83:B5"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

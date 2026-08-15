@@ -1,0 +1,18 @@
+{
+  "apkName": "info.dvkr.screenstream_44002.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-kA3gR8kS0mWdAOyMOL9t4u/63Md3h0huxEgbc+Sk8hg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kA3gR8kS0mWdAOyMOL9t4u/63Md3h0huxEgbc+Sk8hg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-kA3gR8kS0mWdAOyMOL9t4u/63Md3h0huxEgbc+Sk8hg="
+    }
+  },
+  "version": "4.4.2"
+}

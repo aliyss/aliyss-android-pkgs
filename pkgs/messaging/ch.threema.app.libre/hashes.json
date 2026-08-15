@@ -1,0 +1,18 @@
+{
+  "apkName": "ch.threema.app.libre_1210.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0wBJvHHP0k/bIKW5RvDo5NrM1m0lKvWm4eo2hTTlt6g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0wBJvHHP0k/bIKW5RvDo5NrM1m0lKvWm4eo2hTTlt6g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0wBJvHHP0k/bIKW5RvDo5NrM1m0lKvWm4eo2hTTlt6g="
+    }
+  },
+  "version": "6.5.1l"
+}

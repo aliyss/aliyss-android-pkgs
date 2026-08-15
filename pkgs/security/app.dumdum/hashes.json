@@ -1,0 +1,18 @@
+{
+  "apkName": "app.dumdum_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-b6eozpL3MeRu95kzxUsL1XmXb0xAuiBiu/gRYwuPh8g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b6eozpL3MeRu95kzxUsL1XmXb0xAuiBiu/gRYwuPh8g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b6eozpL3MeRu95kzxUsL1XmXb0xAuiBiu/gRYwuPh8g="
+    }
+  },
+  "version": "1.1.5"
+}

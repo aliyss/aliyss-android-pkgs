@@ -1,0 +1,18 @@
+{
+  "apkName": "org.baitmooth.snow_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SMpWlSQ768WdyNa5wFw0I44huPXUuUu+EJjt5tZEfi0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SMpWlSQ768WdyNa5wFw0I44huPXUuUu+EJjt5tZEfi0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SMpWlSQ768WdyNa5wFw0I44huPXUuUu+EJjt5tZEfi0="
+    }
+  },
+  "version": "1.4.5"
+}

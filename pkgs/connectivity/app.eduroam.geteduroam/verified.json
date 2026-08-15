@@ -1,0 +1,8 @@
+{
+  "package": "app.eduroam.geteduroam",
+  "signerFingerprints": [
+    "67:B7:0A:E9:3F:FB:23:70:65:1E:18:20:66:3E:17:FE:0F:BE:B7:6B:73:41:6A:31:A7:1D:D2:44:5C:A9:93:BD"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.darkrockstudios.apps.fasttrack_40.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Qk2Pr8G8FDEwIenpcTcj+GoTUHeHFZgDs4pjphZo+Qk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qk2Pr8G8FDEwIenpcTcj+GoTUHeHFZgDs4pjphZo+Qk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qk2Pr8G8FDEwIenpcTcj+GoTUHeHFZgDs4pjphZo+Qk="
+    }
+  },
+  "version": "5.0.1"
+}

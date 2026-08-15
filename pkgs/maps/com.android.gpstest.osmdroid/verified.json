@@ -1,0 +1,8 @@
+{
+  "package": "com.android.gpstest.osmdroid",
+  "signerFingerprints": [
+    "5D:72:EE:AF:8B:95:F4:45:E1:90:9E:92:CE:DD:39:95:4C:B1:29:F8:D1:D5:2D:C0:6A:1B:44:27:13:0A:4D:DA"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

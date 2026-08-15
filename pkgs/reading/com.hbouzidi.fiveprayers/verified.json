@@ -1,0 +1,8 @@
+{
+  "package": "com.hbouzidi.fiveprayers",
+  "signerFingerprints": [
+    "61:49:5B:A0:F1:25:14:C9:21:51:9D:CD:91:EC:C0:61:B9:58:F8:8A:FB:4D:08:A5:00:8D:EF:C6:00:C0:71:CE"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

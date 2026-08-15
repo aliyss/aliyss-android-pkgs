@@ -1,0 +1,18 @@
+{
+  "apkName": "at.linuxtage.Eventfahrplan_1700029.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PfJGEC/IccCrpkjWux/SB828M4bV9EzNkaVsedXxg8Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PfJGEC/IccCrpkjWux/SB828M4bV9EzNkaVsedXxg8Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PfJGEC/IccCrpkjWux/SB828M4bV9EzNkaVsedXxg8Q="
+    }
+  },
+  "version": "1.8.29-glt-Edition"
+}

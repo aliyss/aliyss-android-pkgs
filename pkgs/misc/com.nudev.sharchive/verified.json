@@ -1,0 +1,8 @@
+{
+  "package": "com.nudev.sharchive",
+  "signerFingerprints": [
+    "24:6D:E0:AD:24:DA:56:DF:2C:EE:09:1F:AA:06:86:3F:B5:B0:64:D8:6B:97:24:0E:EC:35:50:9F:64:1E:34:10"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

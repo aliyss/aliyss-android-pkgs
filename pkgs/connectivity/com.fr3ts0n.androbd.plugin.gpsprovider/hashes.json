@@ -1,0 +1,18 @@
+{
+  "apkName": "com.fr3ts0n.androbd.plugin.gpsprovider_10101.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-a8UttrM6nwUpJsJSycT2dkUE3KTGuOMlDGXy9ukbpew="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a8UttrM6nwUpJsJSycT2dkUE3KTGuOMlDGXy9ukbpew="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a8UttrM6nwUpJsJSycT2dkUE3KTGuOMlDGXy9ukbpew="
+    }
+  },
+  "version": "V1.1.1"
+}

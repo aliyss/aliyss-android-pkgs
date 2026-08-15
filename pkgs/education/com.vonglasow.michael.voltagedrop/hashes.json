@@ -1,0 +1,18 @@
+{
+  "apkName": "com.vonglasow.michael.voltagedrop_10000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iWkHS7j2IrsKaqlSCFTVvrS4FzsNXLvZPVTBaP5D7Xs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iWkHS7j2IrsKaqlSCFTVvrS4FzsNXLvZPVTBaP5D7Xs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iWkHS7j2IrsKaqlSCFTVvrS4FzsNXLvZPVTBaP5D7Xs="
+    }
+  },
+  "version": "1.0.0"
+}

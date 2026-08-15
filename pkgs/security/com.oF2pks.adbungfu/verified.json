@@ -1,0 +1,8 @@
+{
+  "package": "com.oF2pks.adbungfu",
+  "signerFingerprints": [
+    "6F:DA:77:0C:63:C9:15:4A:30:A7:9E:7B:DC:6B:B2:E2:A4:59:90:DD:6E:7B:D1:25:F5:30:AB:0D:5A:5D:A5:6D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

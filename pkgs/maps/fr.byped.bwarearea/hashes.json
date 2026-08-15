@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.byped.bwarearea_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LAQ+PqyKl0FYtSx50HDFCZ7J2n98ky/opbAIwcLrMJQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LAQ+PqyKl0FYtSx50HDFCZ7J2n98ky/opbAIwcLrMJQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LAQ+PqyKl0FYtSx50HDFCZ7J2n98ky/opbAIwcLrMJQ="
+    }
+  },
+  "version": "0.6.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.serwylo.retrowars_70.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-iIYmmsQ+jy9/iE+h244ufBaU22y8JjEf4jI874Res+w="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iIYmmsQ+jy9/iE+h244ufBaU22y8JjEf4jI874Res+w="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-iIYmmsQ+jy9/iE+h244ufBaU22y8JjEf4jI874Res+w="
+    }
+  },
+  "version": "0.32.5"
+}

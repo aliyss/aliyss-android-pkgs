@@ -1,0 +1,18 @@
+{
+  "apkName": "ir.remote.edifier.rc18a_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-rsRUMvFo/lmcBzw2A5AMPQZdf+HD5/O4dGlhRc5pQCw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rsRUMvFo/lmcBzw2A5AMPQZdf+HD5/O4dGlhRc5pQCw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-rsRUMvFo/lmcBzw2A5AMPQZdf+HD5/O4dGlhRc5pQCw="
+    }
+  },
+  "version": "1.0"
+}

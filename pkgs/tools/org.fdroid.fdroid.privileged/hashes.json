@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fdroid.fdroid.privileged_2130.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-EAhSWhe09qk6xpD5xQ3LZ1tr6/U9KHnbyYumWhyy4o0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EAhSWhe09qk6xpD5xQ3LZ1tr6/U9KHnbyYumWhyy4o0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-EAhSWhe09qk6xpD5xQ3LZ1tr6/U9KHnbyYumWhyy4o0="
+    }
+  },
+  "version": "0.2.13"
+}

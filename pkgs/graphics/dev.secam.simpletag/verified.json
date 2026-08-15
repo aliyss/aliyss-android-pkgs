@@ -1,0 +1,8 @@
+{
+  "package": "dev.secam.simpletag",
+  "signerFingerprints": [
+    "9B:30:CC:CC:B2:2C:D9:DF:FC:6E:F8:E4:FA:78:5C:F1:B4:F8:3F:9D:B1:FC:67:87:2D:09:A9:71:1C:AB:C4:88"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

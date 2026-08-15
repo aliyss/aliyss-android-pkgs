@@ -1,0 +1,8 @@
+{
+  "package": "com.darusc.mousedroid",
+  "signerFingerprints": [
+    "50:CD:CD:3E:18:A3:55:0E:AB:E5:28:64:C2:FA:E9:07:9D:4C:28:24:56:D4:A2:FF:ED:50:CA:A5:8C:5D:4A:22"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

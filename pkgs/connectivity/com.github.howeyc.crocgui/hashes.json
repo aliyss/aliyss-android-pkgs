@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.howeyc.crocgui_47.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-WEozrwB1hcagnVtRDAyVEUIvXpO6v9z+EJ9S3rcuGAQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WEozrwB1hcagnVtRDAyVEUIvXpO6v9z+EJ9S3rcuGAQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-WEozrwB1hcagnVtRDAyVEUIvXpO6v9z+EJ9S3rcuGAQ="
+    }
+  },
+  "version": "10.6.0"
+}

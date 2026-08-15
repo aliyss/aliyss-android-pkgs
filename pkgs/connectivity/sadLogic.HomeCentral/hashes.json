@@ -1,0 +1,18 @@
+{
+  "apkName": "sadLogic.HomeCentral_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vYHa/ToxzhcCX6DOy3eJ9goZwvb2A8dAVZ47C41EJxg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vYHa/ToxzhcCX6DOy3eJ9goZwvb2A8dAVZ47C41EJxg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vYHa/ToxzhcCX6DOy3eJ9goZwvb2A8dAVZ47C41EJxg="
+    }
+  },
+  "version": "3.3.0"
+}

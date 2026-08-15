@@ -1,0 +1,8 @@
+{
+  "package": "com.smartpack.kernelprofiler",
+  "signerFingerprints": [
+    "B4:27:A2:47:88:CE:5C:44:24:32:84:A6:4F:F6:29:C5:BB:72:AC:30:93:56:A1:F1:EE:7D:24:13:33:9F:E4:24"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

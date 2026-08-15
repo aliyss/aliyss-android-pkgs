@@ -1,0 +1,18 @@
+{
+  "apkName": "com.a10miaomiao.bilimiao_117.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YITlh2zglbqmg7QTUEpbctNI1pBt+vcRBTvw76axv3M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YITlh2zglbqmg7QTUEpbctNI1pBt+vcRBTvw76axv3M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YITlh2zglbqmg7QTUEpbctNI1pBt+vcRBTvw76axv3M="
+    }
+  },
+  "version": "2.4.8.1"
+}

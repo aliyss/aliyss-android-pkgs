@@ -1,0 +1,8 @@
+{
+  "package": "uk.org.platitudes.wipefiles",
+  "signerFingerprints": [
+    "56:71:5A:51:7E:09:94:F9:A5:0D:7D:B7:E9:97:4A:2A:C4:84:85:F3:F0:58:0A:BA:FE:C2:7F:CE:66:EA:8D:21"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

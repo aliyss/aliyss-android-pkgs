@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.silinote_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ghb844nlpBLu4GrTSk156ToNjpuBybIE6PUsCs4XG+A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ghb844nlpBLu4GrTSk156ToNjpuBybIE6PUsCs4XG+A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ghb844nlpBLu4GrTSk156ToNjpuBybIE6PUsCs4XG+A="
+    }
+  },
+  "version": "1.0"
+}

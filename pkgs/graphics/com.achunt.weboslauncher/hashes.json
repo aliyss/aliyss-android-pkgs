@@ -1,0 +1,18 @@
+{
+  "apkName": "com.achunt.weboslauncher_36.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bzdZnXJIg1as1/Duc2Q6zxvVODXRdpmyGTUGpy2Jzyc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bzdZnXJIg1as1/Duc2Q6zxvVODXRdpmyGTUGpy2Jzyc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bzdZnXJIg1as1/Duc2Q6zxvVODXRdpmyGTUGpy2Jzyc="
+    }
+  },
+  "version": "3.0.0"
+}

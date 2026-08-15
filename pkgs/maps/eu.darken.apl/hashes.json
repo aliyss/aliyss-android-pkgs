@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.darken.apl_803000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-VA2LziEUkq7OpXH9WkPjQBphoDWrKtqKdamJsV7xcVs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VA2LziEUkq7OpXH9WkPjQBphoDWrKtqKdamJsV7xcVs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-VA2LziEUkq7OpXH9WkPjQBphoDWrKtqKdamJsV7xcVs="
+    }
+  },
+  "version": "0.8.3-rc0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.atalk.xryptomail_19200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MZbuKiD3AtlvWQO3c2yQN1sPqnXiqm7ELQYunerfWiM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MZbuKiD3AtlvWQO3c2yQN1sPqnXiqm7ELQYunerfWiM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MZbuKiD3AtlvWQO3c2yQN1sPqnXiqm7ELQYunerfWiM="
+    }
+  },
+  "version": "5.2.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.headi.app_1200.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZBSWA6cAYb5QrBCXEwhkMEV0WP8e3tCRn06bmNmjtCM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZBSWA6cAYb5QrBCXEwhkMEV0WP8e3tCRn06bmNmjtCM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZBSWA6cAYb5QrBCXEwhkMEV0WP8e3tCRn06bmNmjtCM="
+    }
+  },
+  "version": "1.20.0"
+}

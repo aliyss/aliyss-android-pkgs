@@ -1,0 +1,18 @@
+{
+  "apkName": "s1m.hwfido2provider_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-g0BWJP0M+YFkShDMLGaLnPQ97n4nz4KNtJiwYCQ8rRI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-g0BWJP0M+YFkShDMLGaLnPQ97n4nz4KNtJiwYCQ8rRI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-g0BWJP0M+YFkShDMLGaLnPQ97n4nz4KNtJiwYCQ8rRI="
+    }
+  },
+  "version": "1.0.1"
+}

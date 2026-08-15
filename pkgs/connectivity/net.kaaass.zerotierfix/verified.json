@@ -1,0 +1,8 @@
+{
+  "package": "net.kaaass.zerotierfix",
+  "signerFingerprints": [
+    "BC:9F:24:50:BD:AD:6C:E3:3D:8B:4B:A3:5D:93:4C:3B:7F:EB:3E:DA:DC:C4:ED:EF:3A:86:10:8A:0F:21:67:A6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

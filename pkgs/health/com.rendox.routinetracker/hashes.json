@@ -1,0 +1,18 @@
+{
+  "apkName": "com.rendox.routinetracker_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fFeBe470CXcFQwbOp3uG88rciuWH1MH+UoNV79Rj/a4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fFeBe470CXcFQwbOp3uG88rciuWH1MH+UoNV79Rj/a4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fFeBe470CXcFQwbOp3uG88rciuWH1MH+UoNV79Rj/a4="
+    }
+  },
+  "version": "0.1.0"
+}

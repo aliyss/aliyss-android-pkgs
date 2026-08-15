@@ -1,0 +1,8 @@
+{
+  "package": "com.daitj.easycontrolfork.app",
+  "signerFingerprints": [
+    "CE:2A:23:70:89:B2:2C:7B:38:85:A2:93:F0:A6:DA:41:CC:94:44:14:BB:B7:64:2C:5F:55:9D:B7:FF:86:89:A4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

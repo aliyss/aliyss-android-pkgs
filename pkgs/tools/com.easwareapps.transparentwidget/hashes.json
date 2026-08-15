@@ -1,0 +1,18 @@
+{
+  "apkName": "com.easwareapps.transparentwidget_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Qm4nQ+zSP/3SuS2rZ9ca3qTSrV1xHD5/EKlv8uQDy/M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qm4nQ+zSP/3SuS2rZ9ca3qTSrV1xHD5/EKlv8uQDy/M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Qm4nQ+zSP/3SuS2rZ9ca3qTSrV1xHD5/EKlv8uQDy/M="
+    }
+  },
+  "version": "3.0.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "net.satka.bleManager",
+  "signerFingerprints": [
+    "48:8C:EC:96:AD:FC:0E:B5:B6:AF:73:1C:5E:07:6E:8A:B3:9D:AC:8C:7A:2B:59:00:63:D1:1C:71:BB:6B:61:F7"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

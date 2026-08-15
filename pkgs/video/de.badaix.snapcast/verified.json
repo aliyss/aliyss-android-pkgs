@@ -1,0 +1,8 @@
+{
+  "package": "de.badaix.snapcast",
+  "signerFingerprints": [
+    "AE:77:47:F4:E8:C8:82:96:C4:82:AE:B1:C0:FE:9B:D0:33:A0:0C:B9:1A:E7:85:BD:40:A6:F4:68:A2:DB:75:CC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

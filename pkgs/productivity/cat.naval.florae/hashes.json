@@ -1,0 +1,18 @@
+{
+  "apkName": "cat.naval.florae_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-90FdTFUhjjvbdAGHPdCxhrHxjmReICbtyFAZmjLrigE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-90FdTFUhjjvbdAGHPdCxhrHxjmReICbtyFAZmjLrigE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-90FdTFUhjjvbdAGHPdCxhrHxjmReICbtyFAZmjLrigE="
+    }
+  },
+  "version": "3.1.0"
+}

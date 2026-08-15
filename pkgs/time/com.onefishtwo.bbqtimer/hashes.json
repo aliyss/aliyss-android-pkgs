@@ -1,0 +1,18 @@
+{
+  "apkName": "com.onefishtwo.bbqtimer_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-96wancenZ6edTi1W2h22AlLEm0QVnoON0L03FH92qmk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-96wancenZ6edTi1W2h22AlLEm0QVnoON0L03FH92qmk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-96wancenZ6edTi1W2h22AlLEm0QVnoON0L03FH92qmk="
+    }
+  },
+  "version": "4.0"
+}

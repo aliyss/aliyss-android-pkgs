@@ -1,0 +1,8 @@
+{
+  "package": "fr.jnda.android.ipcalc",
+  "signerFingerprints": [
+    "72:3D:3A:D7:C9:3D:FC:B1:24:A8:BB:E6:5A:85:48:47:98:24:25:E2:4B:CD:13:78:CF:C8:92:8B:01:63:07:40"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

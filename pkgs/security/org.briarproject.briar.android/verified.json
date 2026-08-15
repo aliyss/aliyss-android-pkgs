@@ -1,0 +1,8 @@
+{
+  "package": "org.briarproject.briar.android",
+  "signerFingerprints": [
+    "50:1D:DF:14:A6:EC:F9:04:FB:20:28:5C:56:A5:65:CB:98:7A:86:7F:91:57:2E:E3:3C:2D:43:77:1C:CA:4E:37"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

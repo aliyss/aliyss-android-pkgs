@@ -1,0 +1,18 @@
+{
+  "apkName": "org.decsync.cc_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-OP1FokD6WWE/1B7w8Z6I/h0V/xEBZs1wuyAxy9V0Gxo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OP1FokD6WWE/1B7w8Z6I/h0V/xEBZs1wuyAxy9V0Gxo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-OP1FokD6WWE/1B7w8Z6I/h0V/xEBZs1wuyAxy9V0Gxo="
+    }
+  },
+  "version": "2.2.3"
+}

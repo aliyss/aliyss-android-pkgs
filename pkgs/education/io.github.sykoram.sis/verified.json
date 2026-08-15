@@ -1,0 +1,8 @@
+{
+  "package": "io.github.sykoram.sis",
+  "signerFingerprints": [
+    "35:AD:CA:2A:02:F4:BC:DB:51:63:8F:00:36:46:8B:C7:E7:56:2F:AF:20:49:74:F4:F7:8C:D1:96:A3:0A:AF:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

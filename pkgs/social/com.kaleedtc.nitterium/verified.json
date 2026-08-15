@@ -1,0 +1,8 @@
+{
+  "package": "com.kaleedtc.nitterium",
+  "signerFingerprints": [
+    "3F:92:8C:35:E5:61:61:A0:63:80:74:9B:BC:F8:02:A6:8D:E6:7D:8D:88:10:0A:B1:79:6E:4E:BE:7B:27:DA:AF"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

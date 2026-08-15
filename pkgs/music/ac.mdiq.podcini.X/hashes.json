@@ -1,0 +1,18 @@
+{
+  "apkName": "ac.mdiq.podcini.X_323.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-bv4/WfonqvQBgjStINpfa1n7f/82SIIDAYURaVlb7S4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bv4/WfonqvQBgjStINpfa1n7f/82SIIDAYURaVlb7S4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-bv4/WfonqvQBgjStINpfa1n7f/82SIIDAYURaVlb7S4="
+    }
+  },
+  "version": "11.2.2.8"
+}

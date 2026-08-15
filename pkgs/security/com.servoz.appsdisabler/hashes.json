@@ -1,0 +1,18 @@
+{
+  "apkName": "com.servoz.appsdisabler_122.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/epTP26wTm0GP/n6MU/vmFez+yrOCPyvHyhtdHK0/zU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/epTP26wTm0GP/n6MU/vmFez+yrOCPyvHyhtdHK0/zU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/epTP26wTm0GP/n6MU/vmFez+yrOCPyvHyhtdHK0/zU="
+    }
+  },
+  "version": "1.22"
+}

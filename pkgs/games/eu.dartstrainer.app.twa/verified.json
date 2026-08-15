@@ -1,0 +1,8 @@
+{
+  "package": "eu.dartstrainer.app.twa",
+  "signerFingerprints": [
+    "76:B1:76:B3:FD:7D:AD:D0:E9:3E:44:79:D0:69:A9:BF:1D:78:80:91:2C:08:5D:29:53:E5:0F:22:75:1E:35:97"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

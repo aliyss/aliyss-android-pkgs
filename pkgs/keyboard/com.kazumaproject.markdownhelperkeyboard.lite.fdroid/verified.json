@@ -1,0 +1,8 @@
+{
+  "package": "com.kazumaproject.markdownhelperkeyboard.lite.fdroid",
+  "signerFingerprints": [
+    "EC:67:6C:30:F0:5F:39:47:A1:AE:C8:6D:02:EC:EA:D1:50:F7:72:79:0B:35:FC:AF:8A:F4:84:C1:DD:5E:B4:C0"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "net.helcel.cowspent",
+  "signerFingerprints": [
+    "D3:EE:68:A8:5A:7F:35:A1:14:D2:74:B4:50:AA:CE:8C:ED:68:EA:C8:1A:A2:22:E2:7F:F5:0E:98:4C:C6:29:72"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

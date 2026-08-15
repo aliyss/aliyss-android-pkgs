@@ -1,0 +1,8 @@
+{
+  "package": "de.miraisoft.wadoku",
+  "signerFingerprints": [
+    "BB:94:9D:2C:32:09:1C:22:75:38:11:FD:4A:B5:55:64:B7:B4:C4:31:C6:C0:80:DD:3F:CB:10:F5:49:B7:55:33"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

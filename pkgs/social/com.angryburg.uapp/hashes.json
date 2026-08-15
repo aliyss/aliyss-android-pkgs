@@ -1,0 +1,18 @@
+{
+  "apkName": "com.angryburg.uapp_425.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fGzb2OcEk0ASw3Ob5Et9zXUCeqHBjL8z+xbkGeMe4dA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fGzb2OcEk0ASw3Ob5Et9zXUCeqHBjL8z+xbkGeMe4dA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fGzb2OcEk0ASw3Ob5Et9zXUCeqHBjL8z+xbkGeMe4dA="
+    }
+  },
+  "version": "4.2.5"
+}

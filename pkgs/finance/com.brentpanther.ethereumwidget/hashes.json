@@ -1,0 +1,18 @@
+{
+  "apkName": "com.brentpanther.ethereumwidget_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-n6RAu8B/rBYYqaQePldTcNW/UGV2KAKFb1OX3GO8xz4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n6RAu8B/rBYYqaQePldTcNW/UGV2KAKFb1OX3GO8xz4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-n6RAu8B/rBYYqaQePldTcNW/UGV2KAKFb1OX3GO8xz4="
+    }
+  },
+  "version": "1.4.1"
+}

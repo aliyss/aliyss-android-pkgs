@@ -1,0 +1,8 @@
+{
+  "package": "com.porg.gugal",
+  "signerFingerprints": [
+    "8B:BD:CC:D3:F2:2D:1A:B8:36:B7:3D:94:59:B7:C3:FE:B5:43:05:A0:D3:15:F4:44:A8:A1:E1:DD:E9:20:F3:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

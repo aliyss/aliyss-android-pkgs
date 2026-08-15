@@ -1,0 +1,18 @@
+{
+  "apkName": "art.pegasko.yeeemp_1009.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-YS1c01gGIbzh2zp6Latp9vd43LxjDFpI1/u8qMc8RUc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YS1c01gGIbzh2zp6Latp9vd43LxjDFpI1/u8qMc8RUc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-YS1c01gGIbzh2zp6Latp9vd43LxjDFpI1/u8qMc8RUc="
+    }
+  },
+  "version": "1.009"
+}

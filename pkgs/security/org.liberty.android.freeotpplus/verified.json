@@ -1,0 +1,8 @@
+{
+  "package": "org.liberty.android.freeotpplus",
+  "signerFingerprints": [
+    "7D:A4:77:C9:E2:E6:4A:B7:50:83:0E:D6:D7:7C:73:F6:A3:C8:72:53:67:53:77:93:0D:9F:F2:08:16:5D:8D:5B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "com.geekorum.ttrss.free_1071422.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pI1j8Dfnu6NK1aSDMuilAkoJ0jfS49Lm212S0A1Wofs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pI1j8Dfnu6NK1aSDMuilAkoJ0jfS49Lm212S0A1Wofs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pI1j8Dfnu6NK1aSDMuilAkoJ0jfS49Lm212S0A1Wofs="
+    }
+  },
+  "version": "1.6.10"
+}

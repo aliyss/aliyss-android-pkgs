@@ -1,0 +1,18 @@
+{
+  "apkName": "com.willie.mancala_12.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gn6YUOHq94TktN1KPffxHfsyPGGtqUTN6WOVvKVrS0E="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gn6YUOHq94TktN1KPffxHfsyPGGtqUTN6WOVvKVrS0E="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gn6YUOHq94TktN1KPffxHfsyPGGtqUTN6WOVvKVrS0E="
+    }
+  },
+  "version": "1.2"
+}

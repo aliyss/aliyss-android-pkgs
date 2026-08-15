@@ -1,0 +1,8 @@
+{
+  "package": "com.whitedavidp.unistroke_keyboard",
+  "signerFingerprints": [
+    "56:60:92:D1:05:AB:6D:F3:9D:85:A8:E1:7F:13:DC:B4:7B:0A:7B:F9:EC:37:BE:1A:4F:4F:60:55:71:94:9A:C7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

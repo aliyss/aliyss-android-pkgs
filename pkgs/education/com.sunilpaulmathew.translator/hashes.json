@@ -1,0 +1,18 @@
+{
+  "apkName": "com.sunilpaulmathew.translator_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-zN0FygPsCgw8Vm5RQXlQJCsKClexE1G/sY966uGZT3s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zN0FygPsCgw8Vm5RQXlQJCsKClexE1G/sY966uGZT3s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-zN0FygPsCgw8Vm5RQXlQJCsKClexE1G/sY966uGZT3s="
+    }
+  },
+  "version": "v0.18"
+}

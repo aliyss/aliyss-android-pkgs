@@ -1,0 +1,18 @@
+{
+  "apkName": "com.chesire.nekome_24081508.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aC1Bup+x0tLGKB5OtGPYobeaZrGhpC+fm/by3lLEC6Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aC1Bup+x0tLGKB5OtGPYobeaZrGhpC+fm/by3lLEC6Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aC1Bup+x0tLGKB5OtGPYobeaZrGhpC+fm/by3lLEC6Q="
+    }
+  },
+  "version": "2.2.3"
+}

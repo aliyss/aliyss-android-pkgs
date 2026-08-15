@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gorden.dayexam_10.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-umwEYoX21Z/wURESLgjQHdZHa+fD7ZwFKJwdjpVfh+M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-umwEYoX21Z/wURESLgjQHdZHa+fD7ZwFKJwdjpVfh+M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-umwEYoX21Z/wURESLgjQHdZHa+fD7ZwFKJwdjpVfh+M="
+    }
+  },
+  "version": "1.1.3"
+}

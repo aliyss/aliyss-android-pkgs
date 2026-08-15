@@ -1,0 +1,18 @@
+{
+  "apkName": "eu.veldsoft.vitoshadm_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-422bWKCVZD3maaPKmjR9aMLUqmonYtrrUBwilixCDaE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-422bWKCVZD3maaPKmjR9aMLUqmonYtrrUBwilixCDaE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-422bWKCVZD3maaPKmjR9aMLUqmonYtrrUBwilixCDaE="
+    }
+  },
+  "version": "1.5.1"
+}

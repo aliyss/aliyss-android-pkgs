@@ -1,0 +1,18 @@
+{
+  "apkName": "com.michaeltroger.gruenerpass_79.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XI54hwNpD8B+RM3l/zyxAG6NECpg91qLfQlrbbiJPog="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XI54hwNpD8B+RM3l/zyxAG6NECpg91qLfQlrbbiJPog="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XI54hwNpD8B+RM3l/zyxAG6NECpg91qLfQlrbbiJPog="
+    }
+  },
+  "version": "5.1.4"
+}

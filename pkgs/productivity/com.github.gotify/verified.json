@@ -1,0 +1,8 @@
+{
+  "package": "com.github.gotify",
+  "signerFingerprints": [
+    "5D:73:C2:2F:A3:A4:66:D6:02:C5:04:17:74:DC:B0:5B:E6:24:EA:8E:08:0D:ED:75:2C:14:25:B1:A3:9C:99:6B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

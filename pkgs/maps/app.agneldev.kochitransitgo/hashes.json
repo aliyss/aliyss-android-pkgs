@@ -1,0 +1,18 @@
+{
+  "apkName": "app.agneldev.kochitransitgo_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KqONHVLGM696LgZ3+a2wllo4rcLVpPZ/XwSz/V7beZA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KqONHVLGM696LgZ3+a2wllo4rcLVpPZ/XwSz/V7beZA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KqONHVLGM696LgZ3+a2wllo4rcLVpPZ/XwSz/V7beZA="
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "org.wikipedia_50598.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lsXih8Y+PJ7viFuxFUMVpcsV/k16ygyaFSlH8YwD0Gg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lsXih8Y+PJ7viFuxFUMVpcsV/k16ygyaFSlH8YwD0Gg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lsXih8Y+PJ7viFuxFUMVpcsV/k16ygyaFSlH8YwD0Gg="
+    }
+  },
+  "version": "r/50598-r-2026-07-13"
+}

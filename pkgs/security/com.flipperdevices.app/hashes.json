@@ -1,0 +1,18 @@
+{
+  "apkName": "com.flipperdevices.app_1878.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZtCVstmdWJY9BTgsGyNR+EH+jZEDzWvkRHxB8mxKC8A="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZtCVstmdWJY9BTgsGyNR+EH+jZEDzWvkRHxB8mxKC8A="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZtCVstmdWJY9BTgsGyNR+EH+jZEDzWvkRHxB8mxKC8A="
+    }
+  },
+  "version": "1.8.1"
+}

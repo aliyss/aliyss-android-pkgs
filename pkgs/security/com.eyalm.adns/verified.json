@@ -1,0 +1,8 @@
+{
+  "package": "com.eyalm.adns",
+  "signerFingerprints": [
+    "19:49:17:A5:3D:1C:AD:19:16:3D:A5:72:25:B9:A9:BD:88:37:0D:C2:1C:13:15:15:1E:8F:32:BB:6B:C2:7A:0B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

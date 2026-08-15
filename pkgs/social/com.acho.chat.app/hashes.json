@@ -1,0 +1,18 @@
+{
+  "apkName": "com.acho.chat.app_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wPD790qSAg0vSFngLh/4VkrOxm4DZDXVFgz3ShLiApc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wPD790qSAg0vSFngLh/4VkrOxm4DZDXVFgz3ShLiApc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wPD790qSAg0vSFngLh/4VkrOxm4DZDXVFgz3ShLiApc="
+    }
+  },
+  "version": "1.1"
+}

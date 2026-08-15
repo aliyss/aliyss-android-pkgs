@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.pilaga_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-RWgYGa2tsY7tUX+StOjBRDcjWwCv8lmWsVuZXFaFAxw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RWgYGa2tsY7tUX+StOjBRDcjWwCv8lmWsVuZXFaFAxw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-RWgYGa2tsY7tUX+StOjBRDcjWwCv8lmWsVuZXFaFAxw="
+    }
+  },
+  "version": "5.1.6158"
+}

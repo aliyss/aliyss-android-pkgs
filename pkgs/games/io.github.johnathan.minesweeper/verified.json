@@ -1,0 +1,8 @@
+{
+  "package": "io.github.johnathan.minesweeper",
+  "signerFingerprints": [
+    "65:1E:44:D8:F6:0E:EF:7B:E5:CB:65:0B:F3:F0:A0:73:EA:59:D2:6E:6F:C9:29:11:26:FE:36:96:84:E9:C5:1F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.zarathustra.mnemosyne",
+  "signerFingerprints": [
+    "5F:49:37:E1:10:02:59:31:1C:45:93:C9:FB:98:DE:53:2B:5D:A3:24:64:98:9C:D2:02:AA:CA:F8:47:BD:45:24"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

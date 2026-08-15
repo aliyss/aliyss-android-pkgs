@@ -1,0 +1,8 @@
+{
+  "package": "org.ghostsinthelab.app.rakurakuime",
+  "signerFingerprints": [
+    "BE:5C:96:BB:57:51:18:AA:03:19:99:4A:84:AE:5D:88:BC:45:9B:60:16:C7:8A:00:AD:9E:6B:3D:30:AE:42:E5"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

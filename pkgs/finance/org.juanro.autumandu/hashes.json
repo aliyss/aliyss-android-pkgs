@@ -1,0 +1,18 @@
+{
+  "apkName": "org.juanro.autumandu_604.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Gt5a16m8qVHvwIybnSDXorjzfYRv+kSmj2UX778rBIg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gt5a16m8qVHvwIybnSDXorjzfYRv+kSmj2UX778rBIg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gt5a16m8qVHvwIybnSDXorjzfYRv+kSmj2UX778rBIg="
+    }
+  },
+  "version": "6.0.4"
+}

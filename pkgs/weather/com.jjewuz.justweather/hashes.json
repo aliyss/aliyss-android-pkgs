@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jjewuz.justweather_20.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-w4CoYlUPCeU0Ht2CA0ql4siwyCBgjOx0kdEBMP33LqU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w4CoYlUPCeU0Ht2CA0ql4siwyCBgjOx0kdEBMP33LqU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-w4CoYlUPCeU0Ht2CA0ql4siwyCBgjOx0kdEBMP33LqU="
+    }
+  },
+  "version": "2.8"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "org.witness.sscphase1",
+  "signerFingerprints": [
+    "79:FC:00:8C:7F:9B:8C:6B:5B:1B:43:F0:D0:98:53:D4:40:B4:92:05:E5:CC:62:29:09:CA:91:06:3F:DE:B2:78"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

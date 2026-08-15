@@ -1,0 +1,8 @@
+{
+  "package": "com.wordtracer.app",
+  "signerFingerprints": [
+    "CA:D5:5D:3F:24:77:CB:35:90:D6:C0:9F:2F:9F:8F:0C:9E:4D:E6:81:56:FF:4C:19:AD:45:CE:6E:21:68:89:8A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

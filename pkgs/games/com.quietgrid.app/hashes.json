@@ -1,0 +1,18 @@
+{
+  "apkName": "com.quietgrid.app_25.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-u/Nv5XcaHQhOV0wOpJTf4InXzXK13YSbys3ayl9+R5g="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u/Nv5XcaHQhOV0wOpJTf4InXzXK13YSbys3ayl9+R5g="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-u/Nv5XcaHQhOV0wOpJTf4InXzXK13YSbys3ayl9+R5g="
+    }
+  },
+  "version": "1.2.8"
+}

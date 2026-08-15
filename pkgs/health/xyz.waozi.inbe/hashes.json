@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.waozi.inbe_94.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lthC9xMSIieoZ8cLXLV18Y9rwnEpvWqquoFe/N/RENM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lthC9xMSIieoZ8cLXLV18Y9rwnEpvWqquoFe/N/RENM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lthC9xMSIieoZ8cLXLV18Y9rwnEpvWqquoFe/N/RENM="
+    }
+  },
+  "version": "1.8.19"
+}

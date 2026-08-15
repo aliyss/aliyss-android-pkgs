@@ -1,0 +1,18 @@
+{
+  "apkName": "de.eknoes.inofficialgolem_148.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XQmbTxMGKww9ECyL6n1yvfGB+VlSRWsfQgmN70p9Zqw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XQmbTxMGKww9ECyL6n1yvfGB+VlSRWsfQgmN70p9Zqw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XQmbTxMGKww9ECyL6n1yvfGB+VlSRWsfQgmN70p9Zqw="
+    }
+  },
+  "version": "1.2.10"
+}

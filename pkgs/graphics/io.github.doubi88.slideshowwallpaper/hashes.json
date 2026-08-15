@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.doubi88.slideshowwallpaper_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-P5ZQyi7DY6SXakaLe2syGLeWdcvhpuWQ4adExzr1qtY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P5ZQyi7DY6SXakaLe2syGLeWdcvhpuWQ4adExzr1qtY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P5ZQyi7DY6SXakaLe2syGLeWdcvhpuWQ4adExzr1qtY="
+    }
+  },
+  "version": "1.2.5"
+}

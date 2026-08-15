@@ -1,0 +1,18 @@
+{
+  "apkName": "f.cking.software_1708536381.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-altVSYOzoQOU/3crO103Ddrbhp1yMLiTk850kjnbKI0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-altVSYOzoQOU/3crO103Ddrbhp1yMLiTk850kjnbKI0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-altVSYOzoQOU/3crO103Ddrbhp1yMLiTk850kjnbKI0="
+    }
+  },
+  "version": "0.32.1-beta"
+}

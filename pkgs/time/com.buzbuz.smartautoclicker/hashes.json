@@ -1,0 +1,18 @@
+{
+  "apkName": "com.buzbuz.smartautoclicker_85.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-4DgjXo6shYff3kUEce7fSHz3jUE7kKqH0yR5N7/djG8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4DgjXo6shYff3kUEce7fSHz3jUE7kKqH0yR5N7/djG8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-4DgjXo6shYff3kUEce7fSHz3jUE7kKqH0yR5N7/djG8="
+    }
+  },
+  "version": "3.5.1"
+}

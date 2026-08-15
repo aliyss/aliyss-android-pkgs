@@ -1,0 +1,8 @@
+{
+  "package": "dev.mslalith.focuslauncher",
+  "signerFingerprints": [
+    "F7:3F:76:46:0C:A6:68:EA:33:6E:70:46:48:C6:10:1B:F5:15:26:9A:A4:FB:A1:70:1F:7E:01:D3:A4:02:F9:29"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

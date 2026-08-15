@@ -1,0 +1,8 @@
+{
+  "package": "org.eu.exodus_privacy.exodusprivacy",
+  "signerFingerprints": [
+    "6F:44:C5:4D:12:7C:E0:5B:2B:EE:4A:B7:C2:11:CA:5C:3D:17:5A:88:F3:52:E6:31:DA:C6:D9:51:50:1B:48:7F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

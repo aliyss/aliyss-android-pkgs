@@ -1,0 +1,18 @@
+{
+  "apkName": "com.pranshulgg.weather_master_app_58.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-2ia4Ro1lnPlUuBwtxOt8djI6uYGf1lZn6OSCYPv0SA4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2ia4Ro1lnPlUuBwtxOt8djI6uYGf1lZn6OSCYPv0SA4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-2ia4Ro1lnPlUuBwtxOt8djI6uYGf1lZn6OSCYPv0SA4="
+    }
+  },
+  "version": "3.8.0"
+}

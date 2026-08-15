@@ -1,0 +1,18 @@
+{
+  "apkName": "com.correctsyntax.biblenotify_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-TMjAGS688V6W6g3Vtvotp/dFNN7A3EdMPEPnQ/xg0CI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TMjAGS688V6W6g3Vtvotp/dFNN7A3EdMPEPnQ/xg0CI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-TMjAGS688V6W6g3Vtvotp/dFNN7A3EdMPEPnQ/xg0CI="
+    }
+  },
+  "version": "4.12.0"
+}

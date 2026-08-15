@@ -1,0 +1,18 @@
+{
+  "apkName": "com.cityzen.cityzen_10200199.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-mrHY+FSgOSElkgYAGUCiwNYxHWPYEKOqZq9Z8NQgAZY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mrHY+FSgOSElkgYAGUCiwNYxHWPYEKOqZq9Z8NQgAZY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-mrHY+FSgOSElkgYAGUCiwNYxHWPYEKOqZq9Z8NQgAZY="
+    }
+  },
+  "version": "1.2.1"
+}

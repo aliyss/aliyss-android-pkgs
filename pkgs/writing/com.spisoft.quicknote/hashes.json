@@ -1,0 +1,18 @@
+{
+  "apkName": "com.spisoft.quicknote_251.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-7IIrvyPm2hIRoZZJa4XBs4pdf6opsR0fwCb0VcMZnEQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7IIrvyPm2hIRoZZJa4XBs4pdf6opsR0fwCb0VcMZnEQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-7IIrvyPm2hIRoZZJa4XBs4pdf6opsR0fwCb0VcMZnEQ="
+    }
+  },
+  "version": "0.25.1"
+}

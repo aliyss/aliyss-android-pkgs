@@ -1,0 +1,18 @@
+{
+  "apkName": "net.gitsaibot.af_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-BThSWf7thmQoYCl5BW99qBzGINTWXXvJbmclTiGPoj8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BThSWf7thmQoYCl5BW99qBzGINTWXXvJbmclTiGPoj8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-BThSWf7thmQoYCl5BW99qBzGINTWXXvJbmclTiGPoj8="
+    }
+  },
+  "version": "3.2"
+}

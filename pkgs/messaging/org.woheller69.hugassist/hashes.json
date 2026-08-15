@@ -1,0 +1,18 @@
+{
+  "apkName": "org.woheller69.hugassist_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-45AqmRVT4Ilyq6HPJE2etCwJmNjCsuqWOCigQjyJ3z0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-45AqmRVT4Ilyq6HPJE2etCwJmNjCsuqWOCigQjyJ3z0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-45AqmRVT4Ilyq6HPJE2etCwJmNjCsuqWOCigQjyJ3z0="
+    }
+  },
+  "version": "2.3"
+}

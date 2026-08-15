@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ttrssreader_1982.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-R4NKJKrjsxc7XSua9JFS5gTpeM2OjzxS2tQq1HkyXF0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R4NKJKrjsxc7XSua9JFS5gTpeM2OjzxS2tQq1HkyXF0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-R4NKJKrjsxc7XSua9JFS5gTpeM2OjzxS2tQq1HkyXF0="
+    }
+  },
+  "version": "1.98.2"
+}

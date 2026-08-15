@@ -1,0 +1,8 @@
+{
+  "package": "com.kaz.midnight",
+  "signerFingerprints": [
+    "22:3C:2E:28:FE:1E:CE:52:20:06:25:B5:C8:BD:03:12:CB:50:46:EA:AD:1D:34:B6:8D:4A:22:31:86:A3:4C:74"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

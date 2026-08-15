@@ -1,0 +1,18 @@
+{
+  "apkName": "app.fedilab.nitterizeme_35.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Bi8SpTj+coUNeo6+lUU07BDhWEiVQbbkbIYyKW0/ftI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Bi8SpTj+coUNeo6+lUU07BDhWEiVQbbkbIYyKW0/ftI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Bi8SpTj+coUNeo6+lUU07BDhWEiVQbbkbIYyKW0/ftI="
+    }
+  },
+  "version": "2.0.0"
+}

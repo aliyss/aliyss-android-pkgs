@@ -1,0 +1,18 @@
+{
+  "apkName": "com.dimtion.shaarlier_33.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qYYijlSOclWdROdDk/4cM5lxYIarQS/32IsgWw09J44="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qYYijlSOclWdROdDk/4cM5lxYIarQS/32IsgWw09J44="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qYYijlSOclWdROdDk/4cM5lxYIarQS/32IsgWw09J44="
+    }
+  },
+  "version": "1.8.0"
+}

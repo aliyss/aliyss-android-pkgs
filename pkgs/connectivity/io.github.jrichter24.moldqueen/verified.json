@@ -1,0 +1,8 @@
+{
+  "package": "io.github.jrichter24.moldqueen",
+  "signerFingerprints": [
+    "F4:0A:13:72:DE:89:0D:73:B5:EB:25:2E:4A:2D:58:4B:88:47:13:E3:30:AB:A7:69:36:F5:21:01:DC:34:FF:93"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

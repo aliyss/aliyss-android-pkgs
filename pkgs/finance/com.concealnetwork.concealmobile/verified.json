@@ -1,0 +1,8 @@
+{
+  "package": "com.concealnetwork.concealmobile",
+  "signerFingerprints": [
+    "90:DC:C6:23:57:30:8C:EE:4D:D6:2D:24:B1:50:15:42:72:BA:B6:C5:0B:30:56:CA:4F:06:C9:BB:C3:4A:A7:4B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

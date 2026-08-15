@@ -1,0 +1,8 @@
+{
+  "package": "com.stario.launcher",
+  "signerFingerprints": [
+    "FA:D5:36:A2:EE:D1:F8:97:48:1B:95:08:E7:1E:F1:6E:A0:46:B3:4D:AB:0D:B8:92:59:6C:C6:AB:AE:F9:0E:D4"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

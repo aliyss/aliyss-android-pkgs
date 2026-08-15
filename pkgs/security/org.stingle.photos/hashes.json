@@ -1,0 +1,18 @@
+{
+  "apkName": "org.stingle.photos_58.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qhkFl98JVMJhCIToHGAsuiUbWBwkPxLn/EY0H5QFG04="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qhkFl98JVMJhCIToHGAsuiUbWBwkPxLn/EY0H5QFG04="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qhkFl98JVMJhCIToHGAsuiUbWBwkPxLn/EY0H5QFG04="
+    }
+  },
+  "version": "2.12.0"
+}

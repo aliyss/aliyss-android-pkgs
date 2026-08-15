@@ -1,0 +1,8 @@
+{
+  "package": "in.digistorm.aksharam",
+  "signerFingerprints": [
+    "63:07:00:C9:14:8B:E4:5B:1C:D7:F7:C3:B6:3F:F7:07:DC:50:7C:D0:81:4E:51:78:C9:A7:9F:6E:C1:38:25:43"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

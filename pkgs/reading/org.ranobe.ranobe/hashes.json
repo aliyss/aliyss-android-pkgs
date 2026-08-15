@@ -1,0 +1,18 @@
+{
+  "apkName": "org.ranobe.ranobe_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MZglQabI04mbA5VfQ1COWCiGSVZaO67g43fYmKhjMYo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MZglQabI04mbA5VfQ1COWCiGSVZaO67g43fYmKhjMYo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MZglQabI04mbA5VfQ1COWCiGSVZaO67g43fYmKhjMYo="
+    }
+  },
+  "version": "v0.0.14"
+}

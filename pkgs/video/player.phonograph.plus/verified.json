@@ -1,0 +1,8 @@
+{
+  "package": "player.phonograph.plus",
+  "signerFingerprints": [
+    "01:65:4E:B9:34:8B:2C:80:2F:CB:F2:12:82:DE:0C:DC:A2:A2:26:33:7B:9A:2F:A2:01:E3:AC:37:6B:0C:E7:6C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

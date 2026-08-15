@@ -1,0 +1,18 @@
+{
+  "apkName": "com.anysoftkeyboard.languagepack.hungarian_oss_6158.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LNm3fIwCi7Mo/J2XvF++hB+U1GJdBIiivz3k/NONBAQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LNm3fIwCi7Mo/J2XvF++hB+U1GJdBIiivz3k/NONBAQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LNm3fIwCi7Mo/J2XvF++hB+U1GJdBIiivz3k/NONBAQ="
+    }
+  },
+  "version": "5.1.6158"
+}

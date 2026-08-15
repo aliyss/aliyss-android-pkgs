@@ -1,0 +1,18 @@
+{
+  "apkName": "fr.odrevet.bide_et_musique_59.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ED86ImW3HnkTItXHlE4sk0HfyNqvkFMZO4gZRafLMFA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ED86ImW3HnkTItXHlE4sk0HfyNqvkFMZO4gZRafLMFA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ED86ImW3HnkTItXHlE4sk0HfyNqvkFMZO4gZRafLMFA="
+    }
+  },
+  "version": "4.1.3"
+}

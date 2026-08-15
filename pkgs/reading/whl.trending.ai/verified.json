@@ -1,0 +1,8 @@
+{
+  "package": "whl.trending.ai",
+  "signerFingerprints": [
+    "D3:C6:92:B8:44:F2:99:36:2E:72:F1:5B:01:57:A8:44:D6:D7:20:68:37:99:7E:3A:4A:46:0B:C1:FC:F4:1F:DF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

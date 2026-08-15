@@ -1,0 +1,8 @@
+{
+  "package": "uk.org.ngo.squeezer",
+  "signerFingerprints": [
+    "92:35:A0:54:44:E0:AC:40:2D:F3:59:FE:70:FC:E9:B8:FD:6A:15:3B:A3:B3:9C:59:AA:AB:6F:CD:91:2A:F4:13"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

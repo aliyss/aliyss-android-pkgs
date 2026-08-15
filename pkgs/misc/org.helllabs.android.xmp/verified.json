@@ -1,0 +1,8 @@
+{
+  "package": "org.helllabs.android.xmp",
+  "signerFingerprints": [
+    "B1:5D:37:A7:33:3A:9F:55:FC:D6:0C:B9:67:11:6B:06:F8:27:67:01:75:79:FD:96:D9:F7:22:A1:98:14:4D:D3"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

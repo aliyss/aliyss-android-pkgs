@@ -1,0 +1,18 @@
+{
+  "apkName": "com.nima.mymood_13.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nutfMQdR1WJm1D/TDZytWCE1bWwf+kPUfZ/kJ13sKxI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nutfMQdR1WJm1D/TDZytWCE1bWwf+kPUfZ/kJ13sKxI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nutfMQdR1WJm1D/TDZytWCE1bWwf+kPUfZ/kJ13sKxI="
+    }
+  },
+  "version": "2.1.0"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "xyz.jienan.xkcd",
+  "signerFingerprints": [
+    "8F:C5:BF:4D:72:86:47:5B:BA:09:87:9D:3B:EE:06:75:7F:B9:84:36:46:08:06:81:BA:72:3C:7C:F5:5A:94:B7"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

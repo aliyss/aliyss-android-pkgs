@@ -1,0 +1,8 @@
+{
+  "package": "org.unifiedpush.distributor.nextpush",
+  "signerFingerprints": [
+    "BE:6B:68:16:67:94:4B:E9:1A:62:BC:0F:05:20:0C:5F:CB:9B:C7:76:A3:A9:0B:5B:67:EE:0B:9B:9B:06:3D:B4"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

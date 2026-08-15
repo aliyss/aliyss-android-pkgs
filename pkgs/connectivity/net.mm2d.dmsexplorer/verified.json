@@ -1,0 +1,8 @@
+{
+  "package": "net.mm2d.dmsexplorer",
+  "signerFingerprints": [
+    "20:57:47:DB:BE:1B:18:A5:CE:31:DE:0E:B6:44:D2:7B:05:AA:37:49:CF:CA:48:B9:14:5F:2F:DA:2F:2C:89:5B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

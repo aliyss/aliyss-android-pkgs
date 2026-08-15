@@ -1,0 +1,18 @@
+{
+  "apkName": "pl.hypeapp.endoscope_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GxTaOuLSRZLuL/I1+4FxYZ2qf5reuzTFnJklLkcY+qI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GxTaOuLSRZLuL/I1+4FxYZ2qf5reuzTFnJklLkcY+qI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GxTaOuLSRZLuL/I1+4FxYZ2qf5reuzTFnJklLkcY+qI="
+    }
+  },
+  "version": "1.4"
+}

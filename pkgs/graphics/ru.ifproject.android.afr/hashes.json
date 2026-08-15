@@ -1,0 +1,18 @@
+{
+  "apkName": "ru.ifproject.android.afr_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-G1FzCIfhuDrgDBcJxPyZiKgbOu0YfsmPZPykHsJBffY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G1FzCIfhuDrgDBcJxPyZiKgbOu0YfsmPZPykHsJBffY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-G1FzCIfhuDrgDBcJxPyZiKgbOu0YfsmPZPykHsJBffY="
+    }
+  },
+  "version": "0.4.1"
+}

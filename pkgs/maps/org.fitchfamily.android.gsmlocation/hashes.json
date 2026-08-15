@@ -1,0 +1,18 @@
+{
+  "apkName": "org.fitchfamily.android.gsmlocation_74.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-pfbGbTxV2+3kjtxbsGRJCZh7o7A86qkCQ2M+QD5AK5k="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pfbGbTxV2+3kjtxbsGRJCZh7o7A86qkCQ2M+QD5AK5k="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pfbGbTxV2+3kjtxbsGRJCZh7o7A86qkCQ2M+QD5AK5k="
+    }
+  },
+  "version": "1.5.4"
+}

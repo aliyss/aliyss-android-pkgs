@@ -1,0 +1,18 @@
+{
+  "apkName": "de.jepfa.yapm_202006.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-E1jnejhe9r4zy5hr0LdUpDJ2NcgrF7iUhRn4bKeni7o="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E1jnejhe9r4zy5hr0LdUpDJ2NcgrF7iUhRn4bKeni7o="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E1jnejhe9r4zy5hr0LdUpDJ2NcgrF7iUhRn4bKeni7o="
+    }
+  },
+  "version": "2.2.6"
+}

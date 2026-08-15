@@ -1,0 +1,18 @@
+{
+  "apkName": "info.metadude.android.clt.schedule_117.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZXBQlq3eF4ZpGBpxTGRGixJRfsP8MtiUNZYVUdujspk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZXBQlq3eF4ZpGBpxTGRGixJRfsP8MtiUNZYVUdujspk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZXBQlq3eF4ZpGBpxTGRGixJRfsP8MtiUNZYVUdujspk="
+    }
+  },
+  "version": "1.74.2-CLT-Edition"
+}

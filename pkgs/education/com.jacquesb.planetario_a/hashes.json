@@ -1,0 +1,18 @@
+{
+  "apkName": "com.jacquesb.planetario_a_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-MxI1kVSx8DQziOcbru9bunlA8IwwyUqcNe7sRficP8Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MxI1kVSx8DQziOcbru9bunlA8IwwyUqcNe7sRficP8Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MxI1kVSx8DQziOcbru9bunlA8IwwyUqcNe7sRficP8Q="
+    }
+  },
+  "version": "3.2"
+}

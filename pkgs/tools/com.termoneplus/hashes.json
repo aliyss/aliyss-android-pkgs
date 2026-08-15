@@ -1,0 +1,18 @@
+{
+  "apkName": "com.termoneplus_570.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-/Aq3xymQEVaOQXdmebGO16kocHIr7vl8Ozqd1mqM2f8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Aq3xymQEVaOQXdmebGO16kocHIr7vl8Ozqd1mqM2f8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-/Aq3xymQEVaOQXdmebGO16kocHIr7vl8Ozqd1mqM2f8="
+    }
+  },
+  "version": "5.7.0/X"
+}

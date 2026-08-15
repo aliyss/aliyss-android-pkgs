@@ -1,0 +1,8 @@
+{
+  "package": "com.jmstudios.chibe",
+  "signerFingerprints": [
+    "07:A8:11:85:C8:E7:1C:AF:AA:C1:D5:60:CC:48:4A:BF:63:C4:A0:37:73:87:E2:CE:FB:12:84:51:DF:6F:A6:96"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

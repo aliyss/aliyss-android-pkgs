@@ -1,0 +1,18 @@
+{
+  "apkName": "net.tigr.navyfleetbattle_8.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ou7RpXS8Ae0riwBLIoMti6pfk2oVT2jgc33O+cL+fKU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ou7RpXS8Ae0riwBLIoMti6pfk2oVT2jgc33O+cL+fKU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ou7RpXS8Ae0riwBLIoMti6pfk2oVT2jgc33O+cL+fKU="
+    }
+  },
+  "version": "1.3.4"
+}

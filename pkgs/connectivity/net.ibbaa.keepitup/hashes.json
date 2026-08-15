@@ -1,0 +1,18 @@
+{
+  "apkName": "net.ibbaa.keepitup_23.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tSlnpiogtboh1OhrQY2YFEzJmo/E7hR7bfXtg43dXKs="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tSlnpiogtboh1OhrQY2YFEzJmo/E7hR7bfXtg43dXKs="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tSlnpiogtboh1OhrQY2YFEzJmo/E7hR7bfXtg43dXKs="
+    }
+  },
+  "version": "1.12.1"
+}

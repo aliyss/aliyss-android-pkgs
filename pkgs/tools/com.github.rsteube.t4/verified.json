@@ -1,0 +1,8 @@
+{
+  "package": "com.github.rsteube.t4",
+  "signerFingerprints": [
+    "0D:58:ED:30:F3:67:61:20:4D:53:31:BF:EB:B0:19:96:CB:10:0F:A0:07:02:F4:F5:6D:7C:BB:3F:BD:CE:EA:60"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

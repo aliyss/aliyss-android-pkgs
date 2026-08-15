@@ -1,0 +1,18 @@
+{
+  "apkName": "lying.fengfeng.foodrecords_24.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-UqN0VDY0eNrkrSZrWFl153jOYt65TSupTFshNZeTvjU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UqN0VDY0eNrkrSZrWFl153jOYt65TSupTFshNZeTvjU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-UqN0VDY0eNrkrSZrWFl153jOYt65TSupTFshNZeTvjU="
+    }
+  },
+  "version": "2.2.10"
+}

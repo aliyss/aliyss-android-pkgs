@@ -1,0 +1,8 @@
+{
+  "package": "com.lubenard.oring_reminder",
+  "signerFingerprints": [
+    "DA:C9:8F:66:24:94:C0:83:DF:DA:DC:D0:35:72:72:04:A2:59:E1:D9:54:29:3F:F0:E9:B8:A3:14:22:5D:F6:1D"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

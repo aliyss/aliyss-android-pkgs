@@ -1,0 +1,18 @@
+{
+  "apkName": "nep.timeline.cirno_7.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-gom5B4CrnFpU31yGRKdwhC9ggzFk5YrVld5QQjDrzyY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gom5B4CrnFpU31yGRKdwhC9ggzFk5YrVld5QQjDrzyY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-gom5B4CrnFpU31yGRKdwhC9ggzFk5YrVld5QQjDrzyY="
+    }
+  },
+  "version": "7.0"
+}

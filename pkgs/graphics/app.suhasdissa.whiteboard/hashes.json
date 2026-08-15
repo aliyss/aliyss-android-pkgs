@@ -1,0 +1,18 @@
+{
+  "apkName": "app.suhasdissa.whiteboard_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-ZvHagvfH5kKKiu9asvXjJPtCLeWzMw+XWjncCsk/8Ew="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZvHagvfH5kKKiu9asvXjJPtCLeWzMw+XWjncCsk/8Ew="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-ZvHagvfH5kKKiu9asvXjJPtCLeWzMw+XWjncCsk/8Ew="
+    }
+  },
+  "version": "1.0"
+}

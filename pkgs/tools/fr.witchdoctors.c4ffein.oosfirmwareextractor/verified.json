@@ -1,0 +1,8 @@
+{
+  "package": "fr.witchdoctors.c4ffein.oosfirmwareextractor",
+  "signerFingerprints": [
+    "77:AE:EA:7B:D0:76:75:9F:AC:47:44:47:41:3A:FF:A6:EA:66:34:9A:64:9E:5C:34:CD:DC:70:9C:8C:13:ED:2B"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

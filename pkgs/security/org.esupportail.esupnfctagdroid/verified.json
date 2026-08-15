@@ -1,0 +1,8 @@
+{
+  "package": "org.esupportail.esupnfctagdroid",
+  "signerFingerprints": [
+    "A3:FB:B9:C9:EB:B8:68:F6:EF:B1:1C:07:DA:62:33:A4:9E:29:E8:A9:14:6A:72:59:36:E5:FB:CA:7F:40:53:B6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

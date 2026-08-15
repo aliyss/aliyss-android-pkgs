@@ -1,0 +1,18 @@
+{
+  "apkName": "sk.henrichg.pppputsettings_95.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-QXdYAdaTIRcxjBBC/wH/U00EgLTqCtCnqeFE4WSxce0="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QXdYAdaTIRcxjBBC/wH/U00EgLTqCtCnqeFE4WSxce0="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-QXdYAdaTIRcxjBBC/wH/U00EgLTqCtCnqeFE4WSxce0="
+    }
+  },
+  "version": "2.0.2.1"
+}

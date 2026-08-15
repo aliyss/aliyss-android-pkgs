@@ -1,0 +1,8 @@
+{
+  "package": "com.whatever.verifit",
+  "signerFingerprints": [
+    "9C:E9:98:82:BE:CB:1D:7B:83:73:5D:55:33:07:4A:C3:50:02:B1:21:4E:22:B6:35:5B:48:E3:91:9A:B0:24:71"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

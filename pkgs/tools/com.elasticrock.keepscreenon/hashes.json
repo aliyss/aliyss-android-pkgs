@@ -1,0 +1,18 @@
+{
+  "apkName": "com.elasticrock.keepscreenon_60.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6wKLN7V9suATttsmMyH+0rbFdEuuJlfPLbVJ86aXufw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6wKLN7V9suATttsmMyH+0rbFdEuuJlfPLbVJ86aXufw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6wKLN7V9suATttsmMyH+0rbFdEuuJlfPLbVJ86aXufw="
+    }
+  },
+  "version": "1.28.0"
+}

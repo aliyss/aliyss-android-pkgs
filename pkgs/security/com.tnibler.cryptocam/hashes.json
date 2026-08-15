@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tnibler.cryptocam_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IVjYi+nzR0raJ//K12O7GBQeXwOQvLOFQnOE78H5vh8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IVjYi+nzR0raJ//K12O7GBQeXwOQvLOFQnOE78H5vh8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IVjYi+nzR0raJ//K12O7GBQeXwOQvLOFQnOE78H5vh8="
+    }
+  },
+  "version": "2.4.0"
+}

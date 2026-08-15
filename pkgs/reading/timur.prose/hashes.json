@@ -1,0 +1,18 @@
+{
+  "apkName": "timur.prose_20106.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-lpf2/LU2kj0enaffFe5qPVJxo7hf6bcVulbYJchzszo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lpf2/LU2kj0enaffFe5qPVJxo7hf6bcVulbYJchzszo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-lpf2/LU2kj0enaffFe5qPVJxo7hf6bcVulbYJchzszo="
+    }
+  },
+  "version": "2.1.6"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.kitswas.virtualgamepadmobile_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-z45N2H1n5Vl9kmDrMeEmHI2SInRef82IrJfdvQfqXbc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z45N2H1n5Vl9kmDrMeEmHI2SInRef82IrJfdvQfqXbc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-z45N2H1n5Vl9kmDrMeEmHI2SInRef82IrJfdvQfqXbc="
+    }
+  },
+  "version": "0.4.2"
+}

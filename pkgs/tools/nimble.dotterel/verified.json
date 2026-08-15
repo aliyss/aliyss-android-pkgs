@@ -1,0 +1,8 @@
+{
+  "package": "nimble.dotterel",
+  "signerFingerprints": [
+    "A1:B1:7D:0A:F0:DC:87:59:65:96:D3:F9:56:A9:10:C3:37:A7:05:07:A7:9F:75:4D:CA:64:E7:82:A5:B4:E1:8D"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

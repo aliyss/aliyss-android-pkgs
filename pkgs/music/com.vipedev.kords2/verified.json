@@ -1,0 +1,8 @@
+{
+  "package": "com.vipedev.kords2",
+  "signerFingerprints": [
+    "C2:64:40:75:2D:3E:F5:19:AB:7A:B7:FA:6E:42:4B:46:2F:45:51:3C:CB:86:4D:4D:2F:9A:73:A6:3D:E8:B0:C1"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.opennotes",
+  "signerFingerprints": [
+    "73:C5:1F:64:F5:96:9F:1F:E9:CB:AF:4E:DE:A2:14:9B:DD:5B:19:C9:38:50:0D:C2:34:A3:B0:CB:20:29:51:DC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

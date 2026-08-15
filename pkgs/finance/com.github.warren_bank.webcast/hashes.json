@@ -1,0 +1,18 @@
+{
+  "apkName": "com.github.warren_bank.webcast_5020016.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-b6Z2b3XZH07aGqC06oUGxlw6U26VzPHy52ci3QCSNXA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b6Z2b3XZH07aGqC06oUGxlw6U26VzPHy52ci3QCSNXA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-b6Z2b3XZH07aGqC06oUGxlw6U26VzPHy52ci3QCSNXA="
+    }
+  },
+  "version": "005.02.00-16API"
+}

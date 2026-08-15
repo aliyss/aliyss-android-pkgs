@@ -1,0 +1,18 @@
+{
+  "apkName": "org.libre.agosto.p2play_22.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-tCrEAN00r7DQC43m4F5eT3DciFNOQzUCnwYP96Njgic="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tCrEAN00r7DQC43m4F5eT3DciFNOQzUCnwYP96Njgic="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-tCrEAN00r7DQC43m4F5eT3DciFNOQzUCnwYP96Njgic="
+    }
+  },
+  "version": "0.10.1"
+}

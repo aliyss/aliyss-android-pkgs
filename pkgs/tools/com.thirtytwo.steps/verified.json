@@ -1,0 +1,8 @@
+{
+  "package": "com.thirtytwo.steps",
+  "signerFingerprints": [
+    "B5:02:E2:F0:F3:CB:78:08:0F:85:08:B4:46:0B:C6:59:58:79:8A:10:D9:70:29:CD:59:45:A6:57:75:48:87:5B"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

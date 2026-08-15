@@ -1,0 +1,8 @@
+{
+  "package": "com.xyz.relativity.kineticespeedometer",
+  "signerFingerprints": [
+    "EF:0F:0E:ED:DE:AB:C9:B3:F6:CE:E6:11:8A:B4:74:13:22:A1:84:A4:9E:48:5F:16:CE:9F:E2:F3:61:22:54:F6"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

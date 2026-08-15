@@ -1,0 +1,18 @@
+{
+  "apkName": "com.drejo.androidvideoplayer.fdroid_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-cLe6ayqF/+nXupz5viPyWqmkKg3ITKeQ7tkjMhU3vdc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cLe6ayqF/+nXupz5viPyWqmkKg3ITKeQ7tkjMhU3vdc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-cLe6ayqF/+nXupz5viPyWqmkKg3ITKeQ7tkjMhU3vdc="
+    }
+  },
+  "version": "1.0.0-fdroid"
+}

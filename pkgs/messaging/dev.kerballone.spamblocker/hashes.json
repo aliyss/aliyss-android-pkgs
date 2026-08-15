@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.kerballone.spamblocker_612.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-JzCv9KStCCFMzfZ5lE06iqDRr1K1pxwfKRLjOnZGOjM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JzCv9KStCCFMzfZ5lE06iqDRr1K1pxwfKRLjOnZGOjM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-JzCv9KStCCFMzfZ5lE06iqDRr1K1pxwfKRLjOnZGOjM="
+    }
+  },
+  "version": "6.1.2"
+}

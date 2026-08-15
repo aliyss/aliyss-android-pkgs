@@ -1,0 +1,18 @@
+{
+  "apkName": "com.example.dozenalclock_2.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-92LAQzR8eFcG7fysX3OCaCbkxgzII8jIAyipEIMbn7Q="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-92LAQzR8eFcG7fysX3OCaCbkxgzII8jIAyipEIMbn7Q="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-92LAQzR8eFcG7fysX3OCaCbkxgzII8jIAyipEIMbn7Q="
+    }
+  },
+  "version": "v0.92"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.ominous.batterynotification",
+  "signerFingerprints": [
+    "BE:A3:E3:68:42:F7:F6:55:C1:EA:28:93:AE:62:1B:85:A6:44:6C:82:65:C0:79:B4:8A:FA:75:8F:B1:53:3B:DC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

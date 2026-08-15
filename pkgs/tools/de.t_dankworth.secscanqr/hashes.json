@@ -1,0 +1,18 @@
+{
+  "apkName": "de.t_dankworth.secscanqr_21.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fxpOspCa/dpKuwnauUKxihkunJzrVgg7anm2TsUH6oc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fxpOspCa/dpKuwnauUKxihkunJzrVgg7anm2TsUH6oc="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fxpOspCa/dpKuwnauUKxihkunJzrVgg7anm2TsUH6oc="
+    }
+  },
+  "version": "1.2.8"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.tommygeenexus.usbdonglecontrol_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IfJePlngcshlPHBgSG+HuZqfFVWflFzzCgPiKv6ariE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IfJePlngcshlPHBgSG+HuZqfFVWflFzzCgPiKv6ariE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IfJePlngcshlPHBgSG+HuZqfFVWflFzzCgPiKv6ariE="
+    }
+  },
+  "version": "3.3.0"
+}

@@ -1,0 +1,18 @@
+{
+  "apkName": "net.stargw.fok_66.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Cc9bFGzBVis8MpXyr5qA2XBg2AwnDgVlQH+IYQp9Ifk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cc9bFGzBVis8MpXyr5qA2XBg2AwnDgVlQH+IYQp9Ifk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Cc9bFGzBVis8MpXyr5qA2XBg2AwnDgVlQH+IYQp9Ifk="
+    }
+  },
+  "version": "66"
+}

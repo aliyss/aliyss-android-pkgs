@@ -1,0 +1,8 @@
+{
+  "package": "com.jerboa",
+  "signerFingerprints": [
+    "8B:FA:32:C8:A3:F0:DA:15:EC:2B:A6:C2:81:CE:CF:F2:09:30:97:FF:E5:89:2A:67:41:5C:4A:77:C1:18:50:EE"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

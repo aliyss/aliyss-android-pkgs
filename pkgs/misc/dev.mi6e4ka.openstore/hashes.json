@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.mi6e4ka.openstore_10981418.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-vIKFPk7itDDj5O/9zMsjhH4NywVQHldrxttul7AR6dk="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vIKFPk7itDDj5O/9zMsjhH4NywVQHldrxttul7AR6dk="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-vIKFPk7itDDj5O/9zMsjhH4NywVQHldrxttul7AR6dk="
+    }
+  },
+  "version": "2.2.3"
+}

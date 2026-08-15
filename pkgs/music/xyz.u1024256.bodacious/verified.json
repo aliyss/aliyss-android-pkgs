@@ -1,0 +1,8 @@
+{
+  "package": "xyz.u1024256.bodacious",
+  "signerFingerprints": [
+    "85:84:76:B6:BD:C3:65:F8:AE:82:80:71:1B:31:47:B9:A1:B6:01:47:28:C8:18:59:A7:38:5A:58:BE:02:4C:B5"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

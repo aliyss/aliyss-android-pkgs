@@ -1,0 +1,8 @@
+{
+  "package": "com.droidrops.app",
+  "signerFingerprints": [
+    "13:F3:70:D1:79:7D:D4:B2:03:62:74:27:2D:4B:D9:EF:74:85:25:5F:DD:3C:18:58:63:A8:9B:CA:14:F1:B9:8A"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

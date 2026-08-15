@@ -1,0 +1,8 @@
+{
+  "package": "com.openstablediffusion",
+  "signerFingerprints": [
+    "10:BF:79:31:42:11:46:13:FB:CC:77:F4:E5:70:36:B9:D2:50:27:A3:98:79:CA:12:A4:BA:88:92:35:34:A4:1C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

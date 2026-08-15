@@ -1,0 +1,8 @@
+{
+  "package": "com.manuelmaly.hn",
+  "signerFingerprints": [
+    "5D:D2:4F:F3:67:2C:39:0E:BA:08:A2:B0:1A:EA:9A:10:CF:18:4A:30:5E:11:56:D7:D9:13:D6:56:46:2B:55:EF"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

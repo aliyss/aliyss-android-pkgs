@@ -1,0 +1,8 @@
+{
+  "package": "com.vishal2376.snaptick",
+  "signerFingerprints": [
+    "68:25:30:97:45:04:37:10:7A:C4:6C:17:90:4E:10:2C:E3:CA:3F:A7:AE:5C:EC:F3:67:AC:38:BF:48:48:90:72"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

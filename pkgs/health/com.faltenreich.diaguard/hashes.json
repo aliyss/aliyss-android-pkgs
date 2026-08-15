@@ -1,0 +1,18 @@
+{
+  "apkName": "com.faltenreich.diaguard_68.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-E1X4JKvIXnYBsFAAj761Mw+owANKTAEsK4GJ0t5sIi4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E1X4JKvIXnYBsFAAj761Mw+owANKTAEsK4GJ0t5sIi4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E1X4JKvIXnYBsFAAj761Mw+owANKTAEsK4GJ0t5sIi4="
+    }
+  },
+  "version": "3.15.1"
+}

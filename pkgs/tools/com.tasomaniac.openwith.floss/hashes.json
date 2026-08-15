@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tasomaniac.openwith.floss_21000.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-oUesOmddoewNtZOTUXqXOQgXG7uKjqtp5fX366sEAG4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oUesOmddoewNtZOTUXqXOQgXG7uKjqtp5fX366sEAG4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-oUesOmddoewNtZOTUXqXOQgXG7uKjqtp5fX366sEAG4="
+    }
+  },
+  "version": "2.10-floss"
+}

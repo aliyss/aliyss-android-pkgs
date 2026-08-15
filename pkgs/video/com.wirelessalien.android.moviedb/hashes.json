@@ -1,0 +1,18 @@
+{
+  "apkName": "com.wirelessalien.android.moviedb_42.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-E7q5eJGMvJcoKkUu2PMvJLKZxwsSNQA7nWnBVVqiyrI="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E7q5eJGMvJcoKkUu2PMvJLKZxwsSNQA7nWnBVVqiyrI="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-E7q5eJGMvJcoKkUu2PMvJLKZxwsSNQA7nWnBVVqiyrI="
+    }
+  },
+  "version": "4.7"
+}

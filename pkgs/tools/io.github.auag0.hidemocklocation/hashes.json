@@ -1,0 +1,18 @@
+{
+  "apkName": "io.github.auag0.hidemocklocation_11.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-90wRPd0TSQGYgznhgizDsZ+1eZFUQgZ4lCIGjdiekHo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-90wRPd0TSQGYgznhgizDsZ+1eZFUQgZ4lCIGjdiekHo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-90wRPd0TSQGYgznhgizDsZ+1eZFUQgZ4lCIGjdiekHo="
+    }
+  },
+  "version": "2.3.1"
+}

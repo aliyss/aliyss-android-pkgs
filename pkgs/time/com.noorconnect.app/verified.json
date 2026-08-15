@@ -1,0 +1,8 @@
+{
+  "package": "com.noorconnect.app",
+  "signerFingerprints": [
+    "22:7A:EC:FE:91:C3:3D:C5:BB:E2:D6:FB:63:2A:94:11:F4:33:47:5F:E6:95:88:65:1A:7E:9B:20:7D:9B:93:6C"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

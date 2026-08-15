@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.rx.app2proxy_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Hhclnd0ghdcelC51cIzXcsvs1T6+/LOdBk63Km1HJYw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hhclnd0ghdcelC51cIzXcsvs1T6+/LOdBk63Km1HJYw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Hhclnd0ghdcelC51cIzXcsvs1T6+/LOdBk63Km1HJYw="
+    }
+  },
+  "version": "1.0.2"
+}

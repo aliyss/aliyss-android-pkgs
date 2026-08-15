@@ -1,0 +1,18 @@
+{
+  "apkName": "app.weatheroverview_1.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LTm6VybW/iLK9kDDwohrIkh8myPY57VzrhLMrIY8Hd4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LTm6VybW/iLK9kDDwohrIkh8myPY57VzrhLMrIY8Hd4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LTm6VybW/iLK9kDDwohrIkh8myPY57VzrhLMrIY8Hd4="
+    }
+  },
+  "version": "0.1"
+}

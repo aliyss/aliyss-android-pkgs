@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.mage.age_5.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GseCKYzItUGQOwg2N6up6ozlXSXY4lkYC/4b9HdDPc4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GseCKYzItUGQOwg2N6up6ozlXSXY4lkYC/4b9HdDPc4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GseCKYzItUGQOwg2N6up6ozlXSXY4lkYC/4b9HdDPc4="
+    }
+  },
+  "version": "0.1.3"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.samyak.repostore",
+  "signerFingerprints": [
+    "DB:DD:C7:6B:F7:05:6F:3C:FD:E5:55:C3:85:9C:3B:BF:C3:1A:6F:38:DA:89:76:4B:E9:A7:63:3C:7E:64:CE:25"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

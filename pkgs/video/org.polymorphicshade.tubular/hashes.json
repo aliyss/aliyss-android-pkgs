@@ -1,0 +1,18 @@
+{
+  "apkName": "org.polymorphicshade.tubular_1009.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-s2JgXZp6M4MmJiLQFqBpIhcmpgoSiL4bj63ktWPkmfE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s2JgXZp6M4MmJiLQFqBpIhcmpgoSiL4bj63ktWPkmfE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-s2JgXZp6M4MmJiLQFqBpIhcmpgoSiL4bj63ktWPkmfE="
+    }
+  },
+  "version": "0.28.4"
+}

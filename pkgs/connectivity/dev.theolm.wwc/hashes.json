@@ -1,0 +1,18 @@
+{
+  "apkName": "dev.theolm.wwc_30.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1US1VOySTSqjJtBcCeJcXbxM1CBQnct91jJ+aC6r/18="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1US1VOySTSqjJtBcCeJcXbxM1CBQnct91jJ+aC6r/18="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1US1VOySTSqjJtBcCeJcXbxM1CBQnct91jJ+aC6r/18="
+    }
+  },
+  "version": "v0.21.0"
+}

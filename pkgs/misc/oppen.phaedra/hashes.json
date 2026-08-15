@@ -1,0 +1,18 @@
+{
+  "apkName": "oppen.phaedra_4.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Gy5jSc0iEGjAIw9S3NCPuasT23y0lOtHzNDth1BCCcU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gy5jSc0iEGjAIw9S3NCPuasT23y0lOtHzNDth1BCCcU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gy5jSc0iEGjAIw9S3NCPuasT23y0lOtHzNDth1BCCcU="
+    }
+  },
+  "version": "1.2.1"
+}

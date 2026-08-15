@@ -1,0 +1,8 @@
+{
+  "package": "com.acutis.firewall",
+  "signerFingerprints": [
+    "B5:B1:7F:C6:F5:48:A8:92:76:5C:41:ED:E2:FD:5E:C0:41:34:E2:8C:D1:0A:65:2E:D0:EA:96:1A:B6:42:69:EB"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

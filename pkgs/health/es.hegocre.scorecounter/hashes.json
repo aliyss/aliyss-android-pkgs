@@ -1,0 +1,18 @@
+{
+  "apkName": "es.hegocre.scorecounter_361500001.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XuSsw5kgNk4dPSBliSMvFuyqkgJlEUKf+UrgZR67DU4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XuSsw5kgNk4dPSBliSMvFuyqkgJlEUKf+UrgZR67DU4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XuSsw5kgNk4dPSBliSMvFuyqkgJlEUKf+UrgZR67DU4="
+    }
+  },
+  "version": "1.5.0"
+}

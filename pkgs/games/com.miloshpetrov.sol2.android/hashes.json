@@ -1,0 +1,18 @@
+{
+  "apkName": "com.miloshpetrov.sol2.android_14.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-GbHr7Fbv/UPyBIWYaiDVyV2KKUeXNbm1DUVpnyb8ByM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GbHr7Fbv/UPyBIWYaiDVyV2KKUeXNbm1DUVpnyb8ByM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-GbHr7Fbv/UPyBIWYaiDVyV2KKUeXNbm1DUVpnyb8ByM="
+    }
+  },
+  "version": "2.1.0"
+}

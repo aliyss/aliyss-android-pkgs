@@ -1,0 +1,18 @@
+{
+  "apkName": "app.podiumpodcasts.podium_1000008.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-jXatWYEIIh92Vo+QFkWvc5oxYSl5/0TE9UZrkRD1Sbo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jXatWYEIIh92Vo+QFkWvc5oxYSl5/0TE9UZrkRD1Sbo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-jXatWYEIIh92Vo+QFkWvc5oxYSl5/0TE9UZrkRD1Sbo="
+    }
+  },
+  "version": "1.0.0-alpha08"
+}

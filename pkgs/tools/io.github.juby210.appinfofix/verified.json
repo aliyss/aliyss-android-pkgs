@@ -1,0 +1,8 @@
+{
+  "package": "io.github.juby210.appinfofix",
+  "signerFingerprints": [
+    "E0:5F:F3:09:C9:92:EE:2A:5D:55:D6:EB:AC:19:66:D9:5D:86:18:39:D6:C9:C9:97:61:BC:A4:4F:4A:60:27:22"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

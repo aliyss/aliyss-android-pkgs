@@ -1,0 +1,8 @@
+{
+  "package": "com.aistra.hail",
+  "signerFingerprints": [
+    "E3:E3:C4:92:77:98:FA:34:B0:6C:CE:56:82:3F:34:B5:42:C9:10:6F:4A:B7:7D:EE:22:CC:46:9E:F9:95:C0:C6"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

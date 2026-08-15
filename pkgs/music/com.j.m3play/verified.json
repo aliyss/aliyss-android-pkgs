@@ -1,0 +1,8 @@
+{
+  "package": "com.j.m3play",
+  "signerFingerprints": [
+    "9D:F0:60:61:26:6E:4B:9D:98:46:D1:3A:0F:49:D9:A7:53:15:D3:0C:74:C5:F4:7E:A1:2F:83:0A:D0:90:36:CB"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

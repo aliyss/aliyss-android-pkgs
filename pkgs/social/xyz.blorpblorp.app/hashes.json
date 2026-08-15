@@ -1,0 +1,18 @@
+{
+  "apkName": "xyz.blorpblorp.app_1779223086.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-SRdW8HPOPszF2rtXwJaWVOdCmQ7ovrF770MHJQDRkFw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SRdW8HPOPszF2rtXwJaWVOdCmQ7ovrF770MHJQDRkFw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-SRdW8HPOPszF2rtXwJaWVOdCmQ7ovrF770MHJQDRkFw="
+    }
+  },
+  "version": "1.14.0"
+}

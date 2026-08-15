@@ -1,0 +1,18 @@
+{
+  "apkName": "org.jwz.xscreensaver_60900.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-3lG2N9/hkW/SfFRjnREbLSqvPadPgJ97Ht3YXSNc+vM="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3lG2N9/hkW/SfFRjnREbLSqvPadPgJ97Ht3YXSNc+vM="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-3lG2N9/hkW/SfFRjnREbLSqvPadPgJ97Ht3YXSNc+vM="
+    }
+  },
+  "version": "6.09"
+}

@@ -1,0 +1,8 @@
+{
+  "package": "com.shortendesign.k9keyboard",
+  "signerFingerprints": [
+    "2C:35:3A:2E:9B:7A:AD:C5:A5:48:F3:58:DE:3E:23:C5:76:E7:3C:76:63:32:F0:48:D1:3C:22:15:87:72:8F:48"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

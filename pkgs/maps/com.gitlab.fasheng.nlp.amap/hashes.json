@@ -1,0 +1,18 @@
+{
+  "apkName": "com.gitlab.fasheng.nlp.amap_32.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-PHs20UDszmLPk3gW0dlwDo2k/YBMwK4FgzAgnizKee4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PHs20UDszmLPk3gW0dlwDo2k/YBMwK4FgzAgnizKee4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-PHs20UDszmLPk3gW0dlwDo2k/YBMwK4FgzAgnizKee4="
+    }
+  },
+  "version": "0.9.1"
+}

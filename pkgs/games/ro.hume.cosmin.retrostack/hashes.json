@@ -1,0 +1,18 @@
+{
+  "apkName": "ro.hume.cosmin.retrostack_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-i/tIqr1b2QDZ/tCw8rqUA+VDVOINbRKROzcvWHRHsZU="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i/tIqr1b2QDZ/tCw8rqUA+VDVOINbRKROzcvWHRHsZU="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-i/tIqr1b2QDZ/tCw8rqUA+VDVOINbRKROzcvWHRHsZU="
+    }
+  },
+  "version": "0.2.6"
+}

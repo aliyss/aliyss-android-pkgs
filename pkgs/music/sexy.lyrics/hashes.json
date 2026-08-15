@@ -1,0 +1,18 @@
+{
+  "apkName": "sexy.lyrics_18.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-D4XmltqoiLSBDkDhUm5dfbWd23Vmuj3YbE5SuALPM60="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D4XmltqoiLSBDkDhUm5dfbWd23Vmuj3YbE5SuALPM60="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-D4XmltqoiLSBDkDhUm5dfbWd23Vmuj3YbE5SuALPM60="
+    }
+  },
+  "version": "11.1"
+}

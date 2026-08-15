@@ -1,0 +1,8 @@
+{
+  "package": "xyz.hisname.fireflyiii",
+  "signerFingerprints": [
+    "E7:65:BA:AE:47:B7:69:1D:05:5B:40:8C:19:7D:5A:8A:E9:0E:B7:64:42:66:7E:28:6E:4F:01:CF:6F:6A:AC:9F"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

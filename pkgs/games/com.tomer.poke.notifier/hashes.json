@@ -1,0 +1,18 @@
+{
+  "apkName": "com.tomer.poke.notifier_19.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-qAjshhYRBDcQMBq7s999i2aptOdpAJN5h/nzNOAkh3Y="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qAjshhYRBDcQMBq7s999i2aptOdpAJN5h/nzNOAkh3Y="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-qAjshhYRBDcQMBq7s999i2aptOdpAJN5h/nzNOAkh3Y="
+    }
+  },
+  "version": "1.5"
+}

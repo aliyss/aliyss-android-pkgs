@@ -1,0 +1,18 @@
+{
+  "apkName": "ht.sr.git.mil.transito_9.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-a755cZYFUIDhhGD0+DZtUHx58HA9jTvuI645b33eod4="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a755cZYFUIDhhGD0+DZtUHx58HA9jTvuI645b33eod4="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-a755cZYFUIDhhGD0+DZtUHx58HA9jTvuI645b33eod4="
+    }
+  },
+  "version": "0.10.0.9"
+}

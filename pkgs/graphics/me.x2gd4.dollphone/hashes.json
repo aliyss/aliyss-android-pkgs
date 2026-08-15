@@ -1,0 +1,18 @@
+{
+  "apkName": "me.x2gd4.dollphone_17.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-d0m6PY7TsFyeyGuAhaF+zm5app6yV5OE+nPuTUCVlZo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-d0m6PY7TsFyeyGuAhaF+zm5app6yV5OE+nPuTUCVlZo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-d0m6PY7TsFyeyGuAhaF+zm5app6yV5OE+nPuTUCVlZo="
+    }
+  },
+  "version": "1.3"
+}

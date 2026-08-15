@@ -1,0 +1,18 @@
+{
+  "apkName": "org.tagspaces.mobileapp_61312.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-6Th5kKM2PMNAScr3I0s92cBePYF/OzMslUqCt/zhpTg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6Th5kKM2PMNAScr3I0s92cBePYF/OzMslUqCt/zhpTg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-6Th5kKM2PMNAScr3I0s92cBePYF/OzMslUqCt/zhpTg="
+    }
+  },
+  "version": "6.13.12"
+}

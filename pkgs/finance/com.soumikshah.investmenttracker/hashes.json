@@ -1,0 +1,18 @@
+{
+  "apkName": "com.soumikshah.investmenttracker_3.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-XvjKv03i750BX79GX1kRGujJuWqnlo0QGciqn4azOU8="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XvjKv03i750BX79GX1kRGujJuWqnlo0QGciqn4azOU8="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-XvjKv03i750BX79GX1kRGujJuWqnlo0QGciqn4azOU8="
+    }
+  },
+  "version": "1.2.0"
+}

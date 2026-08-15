@@ -1,0 +1,18 @@
+{
+  "apkName": "com.antoniegil.astronia_10710.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-LNpmx0KgorvqfQvd/ZMcuiECMbM/A2jclMq+QyhQ3EQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LNpmx0KgorvqfQvd/ZMcuiECMbM/A2jclMq+QyhQ3EQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-LNpmx0KgorvqfQvd/ZMcuiECMbM/A2jclMq+QyhQ3EQ="
+    }
+  },
+  "version": "1.0.7"
+}

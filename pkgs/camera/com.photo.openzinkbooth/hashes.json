@@ -1,0 +1,18 @@
+{
+  "apkName": "com.photo.openzinkbooth_6.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+JzjTRQU+uY6Vkn/b0c9zXp/mQ49Ur80I+SHGoCK00s="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+JzjTRQU+uY6Vkn/b0c9zXp/mQ49Ur80I+SHGoCK00s="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+JzjTRQU+uY6Vkn/b0c9zXp/mQ49Ur80I+SHGoCK00s="
+    }
+  },
+  "version": "0.6"
+}

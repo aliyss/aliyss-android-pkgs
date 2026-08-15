@@ -1,0 +1,8 @@
+{
+  "package": "com.remotephone",
+  "signerFingerprints": [
+    "DC:75:65:36:18:FA:AD:BD:4A:9B:A9:7E:2B:28:7A:54:FB:54:1A:6F:9F:38:8E:C4:EB:24:E6:AC:FE:EC:0D:CC"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

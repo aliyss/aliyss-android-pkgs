@@ -1,0 +1,8 @@
+{
+  "package": "com.yassineabou.clock",
+  "signerFingerprints": [
+    "E1:30:7A:D9:7F:84:97:3F:F1:A5:6B:85:09:A8:80:C1:22:F4:FC:D0:22:6E:8A:E1:D8:9C:07:57:20:0F:06:8F"
+  ],
+  "source": "apt.izzysoft.de F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://apt.izzysoft.de/fdroid/repo/index-v1.json"
+}

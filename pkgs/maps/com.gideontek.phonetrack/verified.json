@@ -1,0 +1,8 @@
+{
+  "package": "com.gideontek.phonetrack",
+  "signerFingerprints": [
+    "9D:00:53:CA:DF:75:61:7E:8B:8D:1F:F9:84:1B:9F:45:E0:9B:71:89:DE:B4:1B:6D:FA:08:04:16:8A:66:66:47"
+  ],
+  "source": "f-droid.org F-Droid-format repository index (index-v1.json)",
+  "source-url": "https://f-droid.org/repo/index-v1.json"
+}

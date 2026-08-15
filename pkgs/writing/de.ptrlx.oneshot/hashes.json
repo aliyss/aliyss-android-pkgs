@@ -1,0 +1,18 @@
+{
+  "apkName": "de.ptrlx.oneshot_111.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-0gwupEELmbHWYciN65YG+36Su3hER4VrMiT6oGZMsnw="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0gwupEELmbHWYciN65YG+36Su3hER4VrMiT6oGZMsnw="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-0gwupEELmbHWYciN65YG+36Su3hER4VrMiT6oGZMsnw="
+    }
+  },
+  "version": "1.1.1"
+}

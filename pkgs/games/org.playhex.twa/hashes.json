@@ -1,0 +1,18 @@
+{
+  "apkName": "org.playhex.twa_2026060400.apk",
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-aBdz2TxP6d3Oxe3khm36ppAovdON/h1qumNy43IvuIg="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aBdz2TxP6d3Oxe3khm36ppAovdON/h1qumNy43IvuIg="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-aBdz2TxP6d3Oxe3khm36ppAovdON/h1qumNy43IvuIg="
+    }
+  },
+  "version": "1.0.0.9"
+}
