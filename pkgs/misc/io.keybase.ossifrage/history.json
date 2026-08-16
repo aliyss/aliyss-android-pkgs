@@ -1,0 +1,124 @@
+{
+  "versions": [
+    {
+      "version": "6.6.3",
+      "versionCode": 10555412,
+      "date": "Jun 4, 2026",
+      "size": "129.8 MB"
+    },
+    {
+      "version": "6.6.2",
+      "versionCode": 10555375,
+      "date": "Apr 10, 2026",
+      "size": "139.8 MB"
+    },
+    {
+      "version": "6.6.1",
+      "versionCode": 10555355,
+      "date": "Mar 25, 2026",
+      "size": "124.0 MB"
+    },
+    {
+      "version": "6.6.0",
+      "versionCode": 10555333,
+      "date": "Mar 4, 2026",
+      "size": "122.6 MB"
+    },
+    {
+      "version": "6.5.3",
+      "versionCode": 10554940,
+      "date": "Jul 21, 2025",
+      "size": "122.8 MB"
+    },
+    {
+      "version": "6.5.1",
+      "versionCode": 10554925,
+      "date": "Apr 23, 2025",
+      "size": "97.5 MB"
+    },
+    {
+      "version": "6.4.0",
+      "versionCode": 10554876,
+      "date": "Aug 19, 2024",
+      "size": "123.1 MB"
+    },
+    {
+      "version": "6.3.1",
+      "versionCode": 10554851,
+      "date": "May 30, 2024",
+      "size": "151.3 MB"
+    },
+    {
+      "version": "6.3.0",
+      "versionCode": 10554848,
+      "date": "May 28, 2024",
+      "size": "151.3 MB"
+    },
+    {
+      "version": "6.2.8",
+      "versionCode": 10554556,
+      "date": "Mar 7, 2024",
+      "size": "135.9 MB"
+    },
+    {
+      "version": "4.6.0"
+    },
+    {
+      "version": "4.7.0"
+    },
+    {
+      "version": "4.7.2"
+    },
+    {
+      "version": "5.0.0"
+    },
+    {
+      "version": "5.1.0"
+    },
+    {
+      "version": "5.2.0"
+    },
+    {
+      "version": "5.3.0"
+    },
+    {
+      "version": "5.4.0"
+    },
+    {
+      "version": "5.4.1"
+    },
+    {
+      "version": "5.5.0"
+    },
+    {
+      "version": "5.6.0"
+    },
+    {
+      "version": "5.7.0"
+    },
+    {
+      "version": "5.8.0"
+    },
+    {
+      "version": "5.9.0"
+    },
+    {
+      "version": "6.0.1"
+    },
+    {
+      "version": "6.2.0"
+    },
+    {
+      "version": "6.2.1"
+    },
+    {
+      "version": "6.2.3"
+    },
+    {
+      "version": "6.2.4"
+    },
+    {
+      "version": "6.2.6"
+    }
+  ]
+}

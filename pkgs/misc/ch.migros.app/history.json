@@ -1,0 +1,124 @@
+{
+  "versions": [
+    {
+      "version": "7.80.0",
+      "versionCode": 13682,
+      "date": "Aug 13, 2026",
+      "size": "60.1 MB"
+    },
+    {
+      "version": "7.79.0",
+      "versionCode": 13634,
+      "date": "Aug 6, 2026",
+      "size": "60.0 MB"
+    },
+    {
+      "version": "7.78.0",
+      "versionCode": 13495,
+      "date": "Jul 30, 2026",
+      "size": "59.9 MB"
+    },
+    {
+      "version": "7.77.0",
+      "versionCode": 13419,
+      "date": "Jul 23, 2026",
+      "size": "59.9 MB"
+    },
+    {
+      "version": "7.76.0",
+      "versionCode": 13309,
+      "date": "Jul 16, 2026",
+      "size": "59.9 MB"
+    },
+    {
+      "version": "7.75.0",
+      "versionCode": 13172,
+      "date": "Jul 10, 2026",
+      "size": "59.9 MB"
+    },
+    {
+      "version": "7.74.0",
+      "versionCode": 13093,
+      "date": "Jul 2, 2026",
+      "size": "59.8 MB"
+    },
+    {
+      "version": "7.73.0",
+      "versionCode": 12974,
+      "date": "Jun 25, 2026",
+      "size": "60.0 MB"
+    },
+    {
+      "version": "7.72.0",
+      "versionCode": 12898,
+      "date": "Jun 18, 2026",
+      "size": "59.6 MB"
+    },
+    {
+      "version": "7.71.0",
+      "versionCode": 12801,
+      "date": "Jun 11, 2026",
+      "size": "59.5 MB"
+    },
+    {
+      "version": "7.51.0"
+    },
+    {
+      "version": "7.51.1"
+    },
+    {
+      "version": "7.52.2"
+    },
+    {
+      "version": "7.53.0"
+    },
+    {
+      "version": "7.53.1"
+    },
+    {
+      "version": "7.53.2"
+    },
+    {
+      "version": "7.54.1"
+    },
+    {
+      "version": "7.58.0"
+    },
+    {
+      "version": "7.59.2"
+    },
+    {
+      "version": "7.60.0"
+    },
+    {
+      "version": "7.61.0"
+    },
+    {
+      "version": "7.62.0"
+    },
+    {
+      "version": "7.63.0"
+    },
+    {
+      "version": "7.64.0"
+    },
+    {
+      "version": "7.65.1"
+    },
+    {
+      "version": "7.66.1"
+    },
+    {
+      "version": "7.67.1"
+    },
+    {
+      "version": "7.68.0"
+    },
+    {
+      "version": "7.69.0"
+    },
+    {
+      "version": "7.70.0"
+    }
+  ]
+}

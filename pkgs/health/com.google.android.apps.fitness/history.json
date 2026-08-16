@@ -1,0 +1,64 @@
+{
+  "versions": [
+    {
+      "version": "2026.07.02.01.x86_64.release",
+      "versionCode": 2027310467,
+      "date": "Jul 14, 2026",
+      "size": "27.6 MB"
+    },
+    {
+      "version": "2026.07.02.01.arm64-v8a.release",
+      "versionCode": 2027310465,
+      "date": "Jul 13, 2026",
+      "size": "31.3 MB"
+    },
+    {
+      "version": "2026.07.02.01.armeabi-v7a.release",
+      "versionCode": 2027310464,
+      "date": "Jul 21, 2026",
+      "size": "21.6 MB"
+    },
+    {
+      "version": "2026.06.04.01.armeabi-v7a.release",
+      "versionCode": 2027289740,
+      "date": "Jul 15, 2026",
+      "size": "21.5 MB"
+    },
+    {
+      "version": "2026.06.04.00.arm64-v8a.release",
+      "versionCode": 2027289657,
+      "date": "Jun 19, 2026",
+      "size": "24.1 MB"
+    },
+    {
+      "version": "2026.06.04.00.armeabi-v7a.release",
+      "versionCode": 2027289656,
+      "date": "Jun 22, 2026",
+      "size": "21.5 MB"
+    },
+    {
+      "version": "2026.05.07.00.release",
+      "versionCode": 2027270328,
+      "date": "Jun 15, 2026",
+      "size": "15.0 MB"
+    },
+    {
+      "version": "2026.04.09.02.arm64-v8a.release",
+      "versionCode": 2027251037,
+      "date": "Jun 20, 2026",
+      "size": "24.3 MB"
+    },
+    {
+      "version": "2026.04.09.01.x86_64.release",
+      "versionCode": 2027251023,
+      "date": "May 3, 2026",
+      "size": "28.1 MB"
+    },
+    {
+      "version": "2026.04.09.01.arm64-v8a.release",
+      "versionCode": 2027251021,
+      "date": "Apr 24, 2026",
+      "size": "24.2 MB"
+    }
+  ]
+}

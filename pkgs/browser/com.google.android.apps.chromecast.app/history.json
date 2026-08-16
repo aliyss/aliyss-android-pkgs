@@ -1,0 +1,148 @@
+{
+  "versions": [
+    {
+      "version": "4.25.18.0",
+      "versionCode": 30574413,
+      "date": "Aug 14, 2026",
+      "size": "73.6 MB"
+    },
+    {
+      "version": "4.24.28.0",
+      "versionCode": 30573207,
+      "date": "Aug 5, 2026",
+      "size": "73.2 MB"
+    },
+    {
+      "version": "4.23.26.1",
+      "versionCode": 30571764,
+      "date": "Aug 5, 2026",
+      "size": "153.2 MB"
+    },
+    {
+      "version": "4.23.26.0",
+      "versionCode": 30571751,
+      "date": "Aug 1, 2026",
+      "size": "104.4 MB"
+    },
+    {
+      "version": "4.22.28.1",
+      "versionCode": 30570318,
+      "date": "Jul 31, 2026",
+      "size": "68.1 MB"
+    },
+    {
+      "version": "4.22.28.0",
+      "versionCode": 30570305,
+      "date": "Jul 24, 2026",
+      "size": "119.4 MB"
+    },
+    {
+      "version": "4.20.63.2",
+      "versionCode": 30567419,
+      "date": "Jul 24, 2026",
+      "size": "104.0 MB"
+    },
+    {
+      "version": "4.20.63.1",
+      "versionCode": 30567414,
+      "date": "Jul 13, 2026",
+      "size": "72.5 MB"
+    },
+    {
+      "version": "4.19.63.2",
+      "versionCode": 30564542,
+      "date": "Jul 9, 2026",
+      "size": "87.4 MB"
+    },
+    {
+      "version": "3.4.1.5",
+      "versionCode": 30400119,
+      "date": "Apr 24, 2024",
+      "size": "83.4 MB"
+    },
+    {
+      "version": "3.35.55.0"
+    },
+    {
+      "version": "3.41.50.4"
+    },
+    {
+      "version": "4.0.53.4"
+    },
+    {
+      "version": "4.1.55.1"
+    },
+    {
+      "version": "4.10.57.1"
+    },
+    {
+      "version": "4.11.56.1"
+    },
+    {
+      "version": "4.11.56.2"
+    },
+    {
+      "version": "4.12.52.1"
+    },
+    {
+      "version": "4.13.52.0"
+    },
+    {
+      "version": "4.13.52.1"
+    },
+    {
+      "version": "4.14.41.1"
+    },
+    {
+      "version": "4.15.42.0"
+    },
+    {
+      "version": "4.15.42.1"
+    },
+    {
+      "version": "4.16.53.1"
+    },
+    {
+      "version": "4.16.53.3"
+    },
+    {
+      "version": "4.17.56.3"
+    },
+    {
+      "version": "4.17.56.4"
+    },
+    {
+      "version": "4.18.45.1"
+    },
+    {
+      "version": "4.19.63.1"
+    },
+    {
+      "version": "4.2.51.1"
+    },
+    {
+      "version": "4.2.51.2"
+    },
+    {
+      "version": "4.3.56.2"
+    },
+    {
+      "version": "4.5.56.2"
+    },
+    {
+      "version": "4.5.56.3"
+    },
+    {
+      "version": "4.6.55.1"
+    },
+    {
+      "version": "4.8.56.0"
+    },
+    {
+      "version": "4.9.51.0"
+    },
+    {
+      "version": "4.9.51.1"
+    }
+  ]
+}

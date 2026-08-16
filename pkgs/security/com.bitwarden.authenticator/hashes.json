@@ -1,0 +1,10 @@
+{
+  "apkName": "com.bitwarden.authenticator-release.apk",
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KPedOpw7Yx7UR+WnOlZCFXXNfHqhNZckp3u0FUqQYbc="
+    }
+  },
+  "version": "v2025.1.0"
+}

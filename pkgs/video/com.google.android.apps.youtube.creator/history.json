@@ -1,0 +1,169 @@
+{
+  "versions": [
+    {
+      "version": "26.32.000",
+      "versionCode": 126320007,
+      "date": "Aug 11, 2026",
+      "size": "53.4 MB"
+    },
+    {
+      "version": "26.31.000",
+      "versionCode": 126310007,
+      "date": "Aug 4, 2026",
+      "size": "55.1 MB"
+    },
+    {
+      "version": "26.30.001",
+      "versionCode": 126300017,
+      "date": "Jul 30, 2026",
+      "size": "54.5 MB"
+    },
+    {
+      "version": "26.30.000",
+      "versionCode": 126300007,
+      "date": "Jul 28, 2026",
+      "size": "54.2 MB"
+    },
+    {
+      "version": "26.29.000",
+      "versionCode": 126290007,
+      "date": "Jul 21, 2026",
+      "size": "36.4 MB"
+    },
+    {
+      "version": "26.28.002",
+      "versionCode": 126280027,
+      "date": "Jul 14, 2026",
+      "size": "53.2 MB"
+    },
+    {
+      "version": "26.27.001",
+      "versionCode": 126270017,
+      "date": "Jul 8, 2026",
+      "size": "52.6 MB"
+    },
+    {
+      "version": "26.27.000",
+      "versionCode": 126270007,
+      "date": "Jul 2, 2026",
+      "size": "52.3 MB"
+    },
+    {
+      "version": "26.26.000",
+      "versionCode": 126260007,
+      "date": "Jul 1, 2026",
+      "size": "53.0 MB"
+    },
+    {
+      "version": "26.25.000",
+      "versionCode": 126250007,
+      "date": "Jun 23, 2026",
+      "size": "52.8 MB"
+    },
+    {
+      "version": "24.47.100"
+    },
+    {
+      "version": "24.49.100"
+    },
+    {
+      "version": "25.21.102"
+    },
+    {
+      "version": "25.25.101"
+    },
+    {
+      "version": "25.28.100"
+    },
+    {
+      "version": "25.29.100"
+    },
+    {
+      "version": "25.29.101"
+    },
+    {
+      "version": "25.30.100"
+    },
+    {
+      "version": "25.31.100"
+    },
+    {
+      "version": "25.31.101"
+    },
+    {
+      "version": "25.32.100"
+    },
+    {
+      "version": "25.33.100"
+    },
+    {
+      "version": "25.34.100"
+    },
+    {
+      "version": "25.35.100"
+    },
+    {
+      "version": "25.35.101"
+    },
+    {
+      "version": "25.36.100"
+    },
+    {
+      "version": "25.36.102"
+    },
+    {
+      "version": "25.37.100"
+    },
+    {
+      "version": "25.38.100"
+    },
+    {
+      "version": "25.38.102"
+    },
+    {
+      "version": "25.39.102"
+    },
+    {
+      "version": "25.40.100"
+    },
+    {
+      "version": "25.41.101"
+    },
+    {
+      "version": "25.41.102"
+    },
+    {
+      "version": "25.42.100"
+    },
+    {
+      "version": "25.43.100"
+    },
+    {
+      "version": "25.44.101"
+    },
+    {
+      "version": "25.44.102"
+    },
+    {
+      "version": "25.45.100"
+    },
+    {
+      "version": "25.45.101"
+    },
+    {
+      "version": "25.46.100"
+    },
+    {
+      "version": "25.46.101"
+    },
+    {
+      "version": "25.47.100"
+    },
+    {
+      "version": "25.49.100"
+    },
+    {
+      "version": "25.49.102"
+    }
+  ]
+}

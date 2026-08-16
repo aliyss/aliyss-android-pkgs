@@ -1,0 +1,9 @@
+{
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-MevMEhiT1hRoPs5yZe6+Zy36K06pTYdoGd2v0/xaG/c="
+    }
+  },
+  "version": "2.6.0"
+}

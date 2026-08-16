@@ -1,8 +1,5 @@
-"""Pytest configuration: make the `scripts/` modules importable."""
+"""Shared pytest fixtures.
 
-import sys
-from pathlib import Path
-
-SCRIPTS_DIR = Path(__file__).resolve().parent.parent / "scripts"
-if str(SCRIPTS_DIR) not in sys.path:
-    sys.path.insert(0, str(SCRIPTS_DIR))
+The ``scripts/`` directory is made importable via ``[tool.pytest.ini_options]
+pythonpath`` in ``pyproject.toml`` — no sys.path manipulation needed here.
+"""

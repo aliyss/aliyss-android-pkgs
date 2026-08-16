@@ -1,0 +1,118 @@
+{
+  "versions": [
+    {
+      "version": "5.2606.0",
+      "versionCode": 82606013,
+      "date": "Mar 15, 2026",
+      "size": "164.2 MB"
+    },
+    {
+      "version": "5.2604.1",
+      "versionCode": 82604021,
+      "date": "Feb 28, 2026",
+      "size": "164.6 MB"
+    },
+    {
+      "version": "5.2548.3",
+      "versionCode": 82548032,
+      "date": "Jan 9, 2026",
+      "size": "163.7 MB"
+    },
+    {
+      "version": "5.2546.1",
+      "versionCode": 82546816,
+      "date": "Dec 3, 2025",
+      "size": "163.3 MB"
+    },
+    {
+      "version": "5.2541.1",
+      "versionCode": 82541835,
+      "date": "Oct 31, 2025",
+      "size": "160.4 MB"
+    },
+    {
+      "version": "4.2537.1",
+      "versionCode": 82537817,
+      "date": "Oct 3, 2025",
+      "size": "148.1 MB"
+    },
+    {
+      "version": "4.2504.2",
+      "versionCode": 82504829,
+      "date": "Feb 24, 2025",
+      "size": "154.0 MB"
+    },
+    {
+      "version": "5.2631.0",
+      "versionCode": 72631117,
+      "date": "Aug 15, 2026",
+      "size": "169.0 MB"
+    },
+    {
+      "version": "5.2630.0",
+      "versionCode": 72630118,
+      "date": "Aug 8, 2026",
+      "size": "166.8 MB"
+    },
+    {
+      "version": "5.2629.2",
+      "versionCode": 72629121,
+      "date": "Aug 1, 2026",
+      "size": "175.5 MB"
+    },
+    {
+      "version": "4.2439.1"
+    },
+    {
+      "version": "4.2441.0"
+    },
+    {
+      "version": "5.2545.0"
+    },
+    {
+      "version": "5.2546.0"
+    },
+    {
+      "version": "5.2602.0"
+    },
+    {
+      "version": "5.2603.1"
+    },
+    {
+      "version": "5.2605.2"
+    },
+    {
+      "version": "5.2607.0"
+    },
+    {
+      "version": "5.2609.1"
+    },
+    {
+      "version": "5.2613.1"
+    },
+    {
+      "version": "5.2614.0"
+    },
+    {
+      "version": "5.2617.1"
+    },
+    {
+      "version": "5.2618.2"
+    },
+    {
+      "version": "5.2619.0"
+    },
+    {
+      "version": "5.2620.1"
+    },
+    {
+      "version": "5.2621.0"
+    },
+    {
+      "version": "5.2625.1"
+    },
+    {
+      "version": "5.2628.1"
+    }
+  ]
+}

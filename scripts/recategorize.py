@@ -28,10 +28,14 @@ import json
 import sys
 from collections import Counter
 from pathlib import Path
+from typing import Any, cast
 
 import httpx
 
 from categories import category_from_index, guess_category
+
+# JSON payloads from index-v2.json are untyped by nature.
+Json = dict[str, Any]
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 PKGS_DIR = REPO_ROOT / "pkgs"
@@ -52,37 +56,39 @@ TIMEOUT = httpx.Timeout(120.0)
 HEADERS = {"User-Agent": "android-repo-recategorizer/1.0 (+https://github.com/)"}
 
 
-def load_v2(source: str | Path, repo_url: str) -> dict:
+def load_v2(source: str | Path, repo_url: str) -> Json:
     if source == "network":
         url = f"{repo_url.rstrip('/')}/index-v2.json"
         with httpx.Client(headers=HEADERS, timeout=TIMEOUT, follow_redirects=True) as client:
             resp = client.get(url)
             resp.raise_for_status()
-            return resp.json()
-    return json.loads(Path(source).read_text())
+            return cast(Json, resp.json())
+    return cast(Json, json.loads(Path(source).read_text()))
 
 
-def _localized(value) -> str:
+def _localized(value: Any) -> str:
     """index-v2 name/summary are localized maps ({'en-US': ...}); flatten them."""
     if isinstance(value, dict):
-        return value.get("en-US") or next(iter(value.values()), "")
-    return value or ""
+        return str(value.get("en-US") or next(iter(value.values()), ""))
+    return str(value or "")
 
 
-def metadata_map(data: dict) -> dict[str, dict]:
+def metadata_map(data: Json) -> dict[str, dict[str, Any]]:
     """Extract {categories, summary, name} per package from an index-v2 doc."""
-    out = {}
-    for pkg, entry in (data.get("packages") or {}).items():
-        meta = entry.get("metadata") or {}
+    out: dict[str, dict[str, Any]] = {}
+    for pkg, entry in cast(Json, data.get("packages") or {}).items():
+        meta = cast(Json, entry.get("metadata") or {})
         out[pkg] = {
-            "categories": meta.get("categories") or [],
+            "categories": list(meta.get("categories") or []),
             "summary": _localized(meta.get("summary")),
             "name": _localized(meta.get("name")),
         }
     return out
 
 
-def plan_moves(pkgs_dir: Path, metadata: dict[str, dict], all_categories: bool) -> list[tuple[str, str, str]]:
+def plan_moves(
+    pkgs_dir: Path, metadata: dict[str, dict[str, Any]], all_categories: bool
+) -> list[tuple[str, str, str]]:
     """Return (current_category, app_id, target_category) triples for apps to move."""
     moves = []
     for category in sorted(pkgs_dir.iterdir()):
@@ -96,7 +102,9 @@ def plan_moves(pkgs_dir: Path, metadata: dict[str, dict], all_categories: bool) 
             app_id = app_dir.name
             info = metadata.get(app_id)
             if info:
-                target = category_from_index(app_id, info["categories"], info["summary"], info["name"])
+                target = category_from_index(
+                    app_id, info["categories"], info["summary"], info["name"]
+                )
             else:
                 target = guess_category(app_id)
             if target != category.name:
@@ -109,7 +117,7 @@ def main(cli: argparse.Namespace) -> None:
     if cli.file:
         repos = [cli.repo]  # a single local index file cannot stand in for several repos
 
-    metadata: dict[str, dict] = {}
+    metadata: dict[str, dict[str, Any]] = {}
     for repo in repos:
         repo_url = REPO_ALIASES.get(repo, repo).rstrip("/")
         if cli.file:
@@ -124,11 +132,17 @@ def main(cli: argparse.Namespace) -> None:
     moves = plan_moves(pkgs_dir, metadata, cli.all)
     moves.sort()
 
-    misc_before = len([d for d in (pkgs_dir / "misc").iterdir() if d.is_dir()]) if (pkgs_dir / "misc").is_dir() else 0
+    misc_before = (
+        len([d for d in (pkgs_dir / "misc").iterdir() if d.is_dir()])
+        if (pkgs_dir / "misc").is_dir()
+        else 0
+    )
     leaving_misc = sum(1 for c, _, _ in moves if c == "misc")
     entering_misc = sum(1 for _, _, t in moves if t == "misc")
     per_target = Counter(target for _, _, target in moves)
-    print(f"plan: move {len(moves)} app(s); misc {misc_before} -> {misc_before - leaving_misc + entering_misc}")
+    print(
+        f"plan: move {len(moves)} app(s); misc {misc_before} -> {misc_before - leaving_misc + entering_misc}"
+    )
     for target, n in sorted(per_target.items()):
         print(f"  -> {target}: {n}")
 
@@ -150,18 +164,36 @@ def main(cli: argparse.Namespace) -> None:
         moved += 1
         print(f"[move] {old}/{app_id} -> {new}")
 
-    remaining = len([d for d in (pkgs_dir / "misc").iterdir() if d.is_dir()]) if (pkgs_dir / "misc").is_dir() else 0
+    remaining = (
+        len([d for d in (pkgs_dir / "misc").iterdir() if d.is_dir()])
+        if (pkgs_dir / "misc").is_dir()
+        else 0
+    )
     print(f"moved {moved} apps. misc/ now holds {remaining} apps. Run `nix flake check` to verify.")
 
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Re-categorize apps from curated index categories")
-    p.add_argument("--repo", default="all", choices=sorted(REPO_ALIASES),
-                   help="which index(es) to consult: fdroid | izzy | all (default: all)")
-    p.add_argument("--from-file", dest="file", metavar="PATH", help="use a local index-v2.json instead of downloading")
+    p.add_argument(
+        "--repo",
+        default="all",
+        choices=sorted(REPO_ALIASES),
+        help="which index(es) to consult: fdroid | izzy | all (default: all)",
+    )
+    p.add_argument(
+        "--from-file",
+        dest="file",
+        metavar="PATH",
+        help="use a local index-v2.json instead of downloading",
+    )
     p.add_argument("--dry-run", action="store_true", help="print the plan, move nothing")
     p.add_argument("--all", action="store_true", help="reconsider every app dir, not only misc/")
-    p.add_argument("--pkgs-dir", type=Path, default=PKGS_DIR, help="where the pkgs tree lives (default: ./pkgs)")
+    p.add_argument(
+        "--pkgs-dir",
+        type=Path,
+        default=PKGS_DIR,
+        help="where the pkgs tree lives (default: ./pkgs)",
+    )
     return p.parse_args()
 
 

@@ -1,0 +1,10 @@
+{
+  "apkName": "app-arm64-v8a-release.apk",
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-pYffujbYgy4HF0r7ue5pnJHYLc5da3syuaqP1bL4AcU="
+    }
+  },
+  "version": "1.0.5"
+}

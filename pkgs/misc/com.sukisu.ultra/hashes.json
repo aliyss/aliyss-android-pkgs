@@ -1,0 +1,10 @@
+{
+  "apkName": "SukiSU_v4.1.3_40796-release.apk",
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gx6DfApbaqNFVIgvrWfO9ttsoahNQ+B92QTPVPjSYa4="
+    }
+  },
+  "version": "v4.1.3"
+}

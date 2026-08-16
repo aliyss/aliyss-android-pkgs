@@ -53,11 +53,15 @@ import argparse
 import json
 import sys
 from pathlib import Path
+from typing import Any, cast
 
 import httpx
 
 import seed_verified_apps as sva
 from update import FLAKE_SYSTEMS, sha256_hex_to_sri
+
+# JSON payloads from the repo index are untyped by nature.
+Json = dict[str, Any]
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 PKGS_DIR = REPO_ROOT / "pkgs"
@@ -82,34 +86,34 @@ TIMEOUT = httpx.Timeout(120.0)
 HEADERS = {"User-Agent": "android-repo-seeder/1.0 (+https://github.com/)"}
 
 
-def is_universal(entry: dict) -> bool:
-    native = entry.get("nativecode") or []
-    return not native or UNIVERSAL_ABIS <= set(native)
+def is_universal(entry: Json) -> bool:
+    native = set(entry.get("nativecode") or [])
+    return not native or UNIVERSAL_ABIS <= native
 
 
-def pick_latest(entries: list[dict]) -> dict | None:
+def pick_latest(entries: list[Json]) -> Json | None:
     if not entries:
         return None
-    return max(entries, key=lambda e: e.get("versionCode", 0))
+    return max(entries, key=lambda e: int(e.get("versionCode") or 0))
 
 
 def hex_to_fingerprint(hexstr: str) -> str:
     hexstr = hexstr.replace(":", "").strip().lower()
-    return ":".join(hexstr[i:i + 2] for i in range(0, len(hexstr), 2)).upper()
+    return ":".join(hexstr[i : i + 2] for i in range(0, len(hexstr), 2)).upper()
 
 
-def load_index(source: str | Path, repo_url: str | None = None) -> dict:
+def load_index(source: str | Path, repo_url: str | None = None) -> Json:
     if source == "network":
         url = f"{(repo_url or DEFAULT_REPO).rstrip('/')}/index-v1.json"
         with httpx.Client(headers=HEADERS, timeout=TIMEOUT, follow_redirects=True) as client:
             resp = client.get(url)
             resp.raise_for_status()
-            return resp.json()
-    return json.loads(Path(source).read_text())
+            return cast(Json, resp.json())
+    return cast(Json, json.loads(Path(source).read_text()))
 
 
 def render_package(package: str, pname: str, repo_url: str) -> str:
-    return f"""{'{ fetchApk }:'}
+    return f"""{"{ fetchApk }:"}
 
 let
   pin = builtins.fromJSON (builtins.readFile ./hashes.json);
@@ -126,26 +130,31 @@ fetchApk {{
 """
 
 
-def render_pin(entry: dict) -> str:
-    sri = sha256_hex_to_sri(entry["hash"])
-    pin = {
-        "version": entry.get("versionName", ""),
-        "apkName": entry["apkName"],
+def render_pin(entry: Json) -> str:
+    sri = sha256_hex_to_sri(str(entry["hash"]))
+    pin: Json = {
+        "version": str(entry.get("versionName") or ""),
+        "apkName": str(entry["apkName"]),
         "architectures": {
-            system: {"archStr": "universal", "hash": sri}
-            for system in FLAKE_SYSTEMS
+            system: {"archStr": "universal", "hash": sri} for system in FLAKE_SYSTEMS
         },
     }
     return json.dumps(pin, indent=2, sort_keys=True) + "\n"
 
 
-def render_verified(package: str, entry: dict, index_url: str, host: str) -> str:
-    return json.dumps({
-        "package": package,
-        "signerFingerprints": [hex_to_fingerprint(entry["signer"])],
-        "source": f"{host} F-Droid-format repository index (index-v1.json)",
-        "source-url": index_url,
-    }, indent=2) + "\n"
+def render_verified(package: str, entry: Json, index_url: str, host: str) -> str:
+    return (
+        json.dumps(
+            {
+                "package": package,
+                "signerFingerprints": [hex_to_fingerprint(entry["signer"])],
+                "source": f"{host} F-Droid-format repository index (index-v1.json)",
+                "source-url": index_url,
+            },
+            indent=2,
+        )
+        + "\n"
+    )
 
 
 def main(cli: argparse.Namespace) -> None:
@@ -162,14 +171,14 @@ def main(cli: argparse.Namespace) -> None:
     pkgs_dir = cli.pkgs_dir or PKGS_DIR
 
     existing = {p.parent.name for p in pkgs_dir.rglob("package.nix")}
-    planned = []
+    planned: list[tuple[str, Json]] = []
     skipped_abi = 0
     for package, entries in sorted(packages.items()):
         if package in existing:
             continue
         if cli.only and package != cli.only:
             continue
-        latest = pick_latest(entries)
+        latest = pick_latest(cast(list[Json], entries))
         if not latest or not latest.get("hash") or not latest.get("apkName"):
             continue
         if not latest.get("versionName"):
@@ -187,7 +196,9 @@ def main(cli: argparse.Namespace) -> None:
     if cli.dry_run or not planned:
         print(f"{'[dry] would add:' if cli.dry_run else 'nothing to add'}")
         for package, entry in planned:
-            print(f"  {sva.guess_category(package)}/{package}  v{entry['versionName']}  {entry['apkName']}")
+            print(
+                f"  {sva.guess_category(package)}/{package}  v{entry['versionName']}  {entry['apkName']}"
+            )
         print(f"(skipped {skipped_abi} per-ABI-only apps; use --all to include)")
         if not planned or cli.dry_run:
             sys.exit(0)
@@ -196,27 +207,41 @@ def main(cli: argparse.Namespace) -> None:
     for package, entry in planned:
         app_dir = pkgs_dir / sva.guess_category(package) / package
         app_dir.mkdir(parents=True, exist_ok=True)
-        (app_dir / "package.nix").write_text(render_package(package, sva.derive_pname(package), repo_url))
+        (app_dir / "package.nix").write_text(
+            render_package(package, sva.derive_pname(package), repo_url)
+        )
         (app_dir / "hashes.json").write_text(render_pin(entry))
         (app_dir / "verified.json").write_text(render_verified(package, entry, index_url, host))
         created += 1
         print(f"[+] {app_dir.relative_to(pkgs_dir.parent)}  v{entry['versionName']}")
 
-    print(f"seeded {created} apps (flat hashes from signed index, no downloads). "
-          f"Next: run `nix flake check` and `python scripts/update.py --check`.")
+    print(
+        f"seeded {created} apps (flat hashes from signed index, no downloads). "
+        f"Next: run `nix flake check` and `python scripts/update.py --check`."
+    )
 
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Seed apps from a F-Droid-format repository index")
-    p.add_argument("--repo", default=DEFAULT_REPO,
-                   help="F-Droid-format repo base URL or alias (fdroid | izzy), "
-                        "e.g. https://apt.izzysoft.de/fdroid/repo")
-    p.add_argument("--from-file", dest="file", metavar="PATH", help="use a local index-v1.json instead of downloading")
+    p.add_argument(
+        "--repo",
+        default=DEFAULT_REPO,
+        help="F-Droid-format repo base URL or alias (fdroid | izzy), "
+        "e.g. https://apt.izzysoft.de/fdroid/repo",
+    )
+    p.add_argument(
+        "--from-file",
+        dest="file",
+        metavar="PATH",
+        help="use a local index-v1.json instead of downloading",
+    )
     p.add_argument("--dry-run", action="store_true", help="print the plan, write nothing")
     p.add_argument("--limit", type=int, help="cap the number of apps seeded")
     p.add_argument("--only", metavar="APP_ID", help="seed a single package")
     p.add_argument("--all", action="store_true", help="also seed per-ABI-only APKs")
-    p.add_argument("--pkgs-dir", type=Path, default=PKGS_DIR, help="where to write apps (default: ./pkgs)")
+    p.add_argument(
+        "--pkgs-dir", type=Path, default=PKGS_DIR, help="where to write apps (default: ./pkgs)"
+    )
     return p.parse_args()
 
 

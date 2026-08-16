@@ -51,6 +51,8 @@
         };
 
       # Python with everything the scripts and the offline test suite need.
+      # (ruff runs the lint/format checks, mypy the type checks; keep in sync
+      # with pyproject.toml.)
       testPython = system:
         let
           pkgs = nixpkgs.legacyPackages.${system};
@@ -62,6 +64,9 @@
             beautifulsoup4
             lxml
             pyyaml
+            mypy
+            types-pyyaml
+            ruff
           ]);
     in
     {
@@ -95,6 +100,11 @@
               cp -r ${./scripts} scripts
               cp -r ${./tests} tests
               cp -r ${./pkgs} pkgs
+              cp ${./pyproject.toml} pyproject.toml
+              # Lint + format + type gate, then the offline test suite.
+              ruff check scripts/ tests/
+              ruff format --check scripts/ tests/
+              mypy scripts/ tests/
               pytest -q tests/
               touch $out
             '';
@@ -109,8 +119,10 @@
             packages = with pkgs; [
               apkeep
               nixpkgs-fmt
+              ruff
+              mypy
               python3
-              (python3.withPackages (ps: with ps; [ httpx beautifulsoup4 lxml pyyaml pytest ]))
+              (python3.withPackages (ps: with ps; [ httpx beautifulsoup4 lxml pyyaml pytest types-pyyaml ]))
             ];
           };
         });

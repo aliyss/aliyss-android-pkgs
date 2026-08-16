@@ -1,0 +1,130 @@
+{
+  "versions": [
+    {
+      "version": "26.32.1",
+      "versionCode": 263201,
+      "date": "Aug 11, 2026",
+      "size": "169.2 MB"
+    },
+    {
+      "version": "26.32.0",
+      "versionCode": 263200,
+      "date": "Aug 5, 2026",
+      "size": "269.2 MB"
+    },
+    {
+      "version": "26.31.2",
+      "versionCode": 263102,
+      "date": "Jul 29, 2026",
+      "size": "226.9 MB"
+    },
+    {
+      "version": "26.31.1",
+      "versionCode": 263101,
+      "date": "Jul 21, 2026",
+      "size": "224.3 MB"
+    },
+    {
+      "version": "26.26.0",
+      "versionCode": 262600,
+      "date": "Jul 6, 2026",
+      "size": "272.1 MB"
+    },
+    {
+      "version": "26.25.0",
+      "versionCode": 262500,
+      "date": "Jun 25, 2026",
+      "size": "229.5 MB"
+    },
+    {
+      "version": "26.24.1",
+      "versionCode": 262401,
+      "date": "Jun 19, 2026",
+      "size": "220.9 MB"
+    },
+    {
+      "version": "26.24.0",
+      "versionCode": 262400,
+      "date": "Jun 14, 2026",
+      "size": "219.5 MB"
+    },
+    {
+      "version": "26.23.3",
+      "versionCode": 262303,
+      "date": "Jun 9, 2026",
+      "size": "218.6 MB"
+    },
+    {
+      "version": "26.23.0",
+      "versionCode": 262300,
+      "date": "Jun 1, 2026",
+      "size": "133.1 MB"
+    },
+    {
+      "version": "25.33.1"
+    },
+    {
+      "version": "25.43.1"
+    },
+    {
+      "version": "25.44.1"
+    },
+    {
+      "version": "25.45.1"
+    },
+    {
+      "version": "25.46.0"
+    },
+    {
+      "version": "25.46.1"
+    },
+    {
+      "version": "26.11.0"
+    },
+    {
+      "version": "26.11.1"
+    },
+    {
+      "version": "26.11.4"
+    },
+    {
+      "version": "26.12.1"
+    },
+    {
+      "version": "26.13.0"
+    },
+    {
+      "version": "26.13.2"
+    },
+    {
+      "version": "26.13.5"
+    },
+    {
+      "version": "26.13.6"
+    },
+    {
+      "version": "26.14.1"
+    },
+    {
+      "version": "26.14.3"
+    },
+    {
+      "version": "26.15.0"
+    },
+    {
+      "version": "26.16.0"
+    },
+    {
+      "version": "26.21.2"
+    },
+    {
+      "version": "26.21.4"
+    },
+    {
+      "version": "26.22.0"
+    },
+    {
+      "version": "26.22.1"
+    }
+  ]
+}

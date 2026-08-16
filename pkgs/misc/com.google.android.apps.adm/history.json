@@ -1,0 +1,76 @@
+{
+  "versions": [
+    {
+      "version": "3.1.664-3",
+      "versionCode": 20012611,
+      "date": "Jul 24, 2026",
+      "size": "14.9 MB"
+    },
+    {
+      "version": "3.1.664",
+      "versionCode": 20012301,
+      "date": "Jul 18, 2026",
+      "size": "22.3 MB"
+    },
+    {
+      "version": "3.1.636-1",
+      "versionCode": 20012021,
+      "date": "Jun 10, 2026",
+      "size": "15.0 MB"
+    },
+    {
+      "version": "3.1.608-5",
+      "versionCode": 20011781,
+      "date": "May 18, 2026",
+      "size": "14.6 MB"
+    },
+    {
+      "version": "3.1.572-4",
+      "versionCode": 20011531,
+      "date": "Apr 27, 2026",
+      "size": "14.1 MB"
+    },
+    {
+      "version": "3.1.547-1",
+      "versionCode": 20010982,
+      "date": "Mar 11, 2026",
+      "size": "14.1 MB"
+    },
+    {
+      "version": "3.1.532-3",
+      "versionCode": 20010820,
+      "date": "Feb 22, 2026",
+      "size": "13.9 MB"
+    },
+    {
+      "version": "3.1.485-2",
+      "versionCode": 20010370,
+      "date": "Dec 16, 2025",
+      "size": "13.7 MB"
+    },
+    {
+      "version": "3.1.458-1",
+      "versionCode": 20009911,
+      "date": "Nov 13, 2025",
+      "size": "20.3 MB"
+    },
+    {
+      "version": "3.1.399-9",
+      "versionCode": 20009263,
+      "date": "Sep 22, 2025",
+      "size": "12.7 MB"
+    },
+    {
+      "version": "2.4.065"
+    },
+    {
+      "version": "3.1.090"
+    },
+    {
+      "version": "3.1.148"
+    },
+    {
+      "version": "3.1.348"
+    }
+  ]
+}
