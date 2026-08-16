@@ -1,0 +1,10 @@
+{
+  "apkName": "app-universal-release.apk",
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-P+6tpC8CMFjAmX1b4Q3N7g6yqGSsxCI+b076jf+OKZU="
+    }
+  },
+  "version": "v1.1.4"
+}

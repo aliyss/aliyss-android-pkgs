@@ -1,0 +1,40 @@
+{
+  "versions": [
+    {
+      "version": "7.0",
+      "versionCode": 10,
+      "date": "Sep 15, 2023",
+      "size": "4.7 MB"
+    },
+    {
+      "version": "6.0",
+      "versionCode": 9,
+      "date": "Sep 13, 2023",
+      "size": "2.7 MB"
+    },
+    {
+      "version": "4.0",
+      "versionCode": 7,
+      "date": "Dec 25, 2018",
+      "size": "2.7 MB"
+    },
+    {
+      "version": "3.0",
+      "versionCode": 6,
+      "date": "Dec 18, 2018",
+      "size": "2.7 MB"
+    },
+    {
+      "version": "2.0",
+      "versionCode": 5,
+      "date": "Sep 19, 2018",
+      "size": "4.1 MB"
+    },
+    {
+      "version": "1.2",
+      "versionCode": 3,
+      "date": "Nov 8, 2017",
+      "size": "3.9 MB"
+    }
+  ]
+}

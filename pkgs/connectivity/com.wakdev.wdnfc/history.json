@@ -1,0 +1,130 @@
+{
+  "versions": [
+    {
+      "version": "9.5",
+      "versionCode": 151,
+      "date": "Jul 1, 2026",
+      "size": "10.8 MB"
+    },
+    {
+      "version": "9.4",
+      "versionCode": 150,
+      "date": "Jun 9, 2026",
+      "size": "8.6 MB"
+    },
+    {
+      "version": "9.3",
+      "versionCode": 149,
+      "date": "Apr 19, 2026",
+      "size": "8.5 MB"
+    },
+    {
+      "version": "9.2",
+      "versionCode": 148,
+      "date": "Mar 30, 2026",
+      "size": "8.5 MB"
+    },
+    {
+      "version": "9.1",
+      "versionCode": 147,
+      "date": "Jan 31, 2026",
+      "size": "8.5 MB"
+    },
+    {
+      "version": "9.0.1",
+      "versionCode": 146,
+      "date": "May 26, 2025",
+      "size": "8.4 MB"
+    },
+    {
+      "version": "8.12",
+      "versionCode": 144,
+      "date": "Mar 1, 2025",
+      "size": "8.4 MB"
+    },
+    {
+      "version": "8.11",
+      "versionCode": 143,
+      "date": "Aug 6, 2024",
+      "size": "8.3 MB"
+    },
+    {
+      "version": "8.10",
+      "versionCode": 142,
+      "date": "Nov 29, 2023",
+      "size": "8.2 MB"
+    },
+    {
+      "version": "8.9",
+      "versionCode": 141,
+      "date": "Feb 28, 2023",
+      "size": "8.1 MB"
+    },
+    {
+      "version": "6.10"
+    },
+    {
+      "version": "6.4"
+    },
+    {
+      "version": "6.5"
+    },
+    {
+      "version": "6.6"
+    },
+    {
+      "version": "6.6.2"
+    },
+    {
+      "version": "6.7"
+    },
+    {
+      "version": "6.9"
+    },
+    {
+      "version": "6.9.1"
+    },
+    {
+      "version": "6.9.2"
+    },
+    {
+      "version": "7.0"
+    },
+    {
+      "version": "7.1"
+    },
+    {
+      "version": "7.2"
+    },
+    {
+      "version": "8.0"
+    },
+    {
+      "version": "8.1"
+    },
+    {
+      "version": "8.2"
+    },
+    {
+      "version": "8.3"
+    },
+    {
+      "version": "8.4"
+    },
+    {
+      "version": "8.5"
+    },
+    {
+      "version": "8.6"
+    },
+    {
+      "version": "8.6.1"
+    },
+    {
+      "version": "8.7"
+    },
+    {
+      "version": "8.8"
+    }
+  ]
+}

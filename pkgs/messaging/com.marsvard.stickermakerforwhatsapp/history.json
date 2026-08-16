@@ -1,0 +1,64 @@
+{
+  "versions": [
+    {
+      "version": "1.0.10-5",
+      "versionCode": 1001005,
+      "date": "Jan 26, 2026",
+      "size": "76.2 MB"
+    },
+    {
+      "version": "1.0.10-3",
+      "versionCode": 1001003,
+      "date": "Dec 10, 2025",
+      "size": "178.0 MB"
+    },
+    {
+      "version": "1.0.9-34",
+      "versionCode": 1000934,
+      "date": "Aug 29, 2025",
+      "size": "59.4 MB"
+    },
+    {
+      "version": "1.0.9-31",
+      "versionCode": 1000931,
+      "date": "Aug 13, 2025",
+      "size": "88.9 MB"
+    },
+    {
+      "version": "1.0.9-29",
+      "versionCode": 1000929,
+      "date": "Jan 27, 2025",
+      "size": "75.0 MB"
+    },
+    {
+      "version": "1.0.9-28",
+      "versionCode": 1000928,
+      "date": "Dec 31, 2024",
+      "size": "52.7 MB"
+    },
+    {
+      "version": "1.0.9-22",
+      "versionCode": 1000922,
+      "date": "Nov 18, 2024",
+      "size": "73.9 MB"
+    },
+    {
+      "version": "1.0.9-18",
+      "versionCode": 1000918,
+      "date": "Oct 15, 2024",
+      "size": "52.2 MB"
+    },
+    {
+      "version": "1.0.9-17",
+      "versionCode": 1000917,
+      "date": "Oct 13, 2024",
+      "size": "51.3 MB"
+    },
+    {
+      "version": "1.0.9-15",
+      "versionCode": 1000915,
+      "date": "Oct 6, 2024",
+      "size": "51.1 MB"
+    }
+  ]
+}

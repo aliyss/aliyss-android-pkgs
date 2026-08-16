@@ -1,0 +1,64 @@
+{
+  "versions": [
+    {
+      "version": "12.56.1.189.master",
+      "versionCode": 125601001,
+      "date": "Aug 15, 2026",
+      "size": "57.8 MB"
+    },
+    {
+      "version": "12.56.0.188.master",
+      "versionCode": 125600001,
+      "date": "Aug 11, 2026",
+      "size": "57.8 MB"
+    },
+    {
+      "version": "12.55.0.186.master",
+      "versionCode": 125500001,
+      "date": "Jul 2, 2026",
+      "size": "60.8 MB"
+    },
+    {
+      "version": "12.54.0.185.master",
+      "versionCode": 125400001,
+      "date": "Jun 14, 2026",
+      "size": "60.8 MB"
+    },
+    {
+      "version": "12.53.2.183.master",
+      "versionCode": 125302001,
+      "date": "Jun 7, 2026",
+      "size": "60.7 MB"
+    },
+    {
+      "version": "12.53.1.182.master",
+      "versionCode": 125301001,
+      "date": "May 28, 2026",
+      "size": "60.7 MB"
+    },
+    {
+      "version": "12.53.0.180.master",
+      "versionCode": 125300001,
+      "date": "May 26, 2026",
+      "size": "46.9 MB"
+    },
+    {
+      "version": "12.52.4.179.master",
+      "versionCode": 125204002,
+      "date": "May 13, 2026",
+      "size": "46.9 MB"
+    },
+    {
+      "version": "12.52.3.178.master",
+      "versionCode": 125203002,
+      "date": "Apr 29, 2026",
+      "size": "60.7 MB"
+    },
+    {
+      "version": "12.52.2.176.master",
+      "versionCode": 125202002,
+      "date": "Apr 24, 2026",
+      "size": "70.2 MB"
+    }
+  ]
+}

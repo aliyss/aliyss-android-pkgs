@@ -1,0 +1,64 @@
+{
+  "versions": [
+    {
+      "version": "2026.7.24.0 (378491)",
+      "versionCode": 378491,
+      "date": "Aug 4, 2026",
+      "size": "22.1 MB"
+    },
+    {
+      "version": "2026.7.10.3 (375526)",
+      "versionCode": 375526,
+      "date": "Aug 4, 2026",
+      "size": "31.6 MB"
+    },
+    {
+      "version": "2026.7.10.2 (375521)",
+      "versionCode": 375521,
+      "date": "Jul 23, 2026",
+      "size": "22.0 MB"
+    },
+    {
+      "version": "2026.6.26.3 (372446)",
+      "versionCode": 372446,
+      "date": "Jul 28, 2026",
+      "size": "22.0 MB"
+    },
+    {
+      "version": "2026.6.26.2 (372441)",
+      "versionCode": 372441,
+      "date": "Jul 17, 2026",
+      "size": "27.2 MB"
+    },
+    {
+      "version": "2026.6.26.1 (372436)",
+      "versionCode": 372436,
+      "date": "Jul 12, 2026",
+      "size": "22.0 MB"
+    },
+    {
+      "version": "2026.6.12.3 (369471)",
+      "versionCode": 369471,
+      "date": "Jul 16, 2026",
+      "size": "19.0 MB"
+    },
+    {
+      "version": "2026.6.12.1 (369461)",
+      "versionCode": 369461,
+      "date": "Jun 28, 2026",
+      "size": "21.9 MB"
+    },
+    {
+      "version": "2026.5.29.3 (367116)",
+      "versionCode": 367116,
+      "date": "Jun 26, 2026",
+      "size": "22.0 MB"
+    },
+    {
+      "version": "2026.5.29.2 (367111)",
+      "versionCode": 367111,
+      "date": "Jun 18, 2026",
+      "size": "19.0 MB"
+    }
+  ]
+}

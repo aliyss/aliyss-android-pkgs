@@ -1,0 +1,64 @@
+{
+  "versions": [
+    {
+      "version": "2026.08.03.958818338.1-release",
+      "versionCode": 2070085,
+      "date": "Aug 6, 2026",
+      "size": "15.1 MB"
+    },
+    {
+      "version": "2026.07.27.954315211.0-release",
+      "versionCode": 2066917,
+      "date": "Jul 30, 2026",
+      "size": "15.1 MB"
+    },
+    {
+      "version": "2026.07.20.950526860.0-release",
+      "versionCode": 2063917,
+      "date": "Jul 23, 2026",
+      "size": "12.5 MB"
+    },
+    {
+      "version": "2026.07.13.948776309.1-release",
+      "versionCode": 2060905,
+      "date": "Jul 17, 2026",
+      "size": "10.1 MB"
+    },
+    {
+      "version": "2026.07.06.948165024.2-release",
+      "versionCode": 2058793,
+      "date": "Jul 16, 2026",
+      "size": "12.6 MB"
+    },
+    {
+      "version": "2026.07.06.943847899.1-release",
+      "versionCode": 2058781,
+      "date": "Jul 9, 2026",
+      "size": "15.7 MB"
+    },
+    {
+      "version": "2026.06.29.943768675.2-release",
+      "versionCode": 2055625,
+      "date": "Jul 16, 2026",
+      "size": "7.7 MB"
+    },
+    {
+      "version": "2026.06.29.943744715.1-release",
+      "versionCode": 2055613,
+      "date": "Jul 9, 2026",
+      "size": "7.7 MB"
+    },
+    {
+      "version": "2026.06.29.939537009.0-release",
+      "versionCode": 2055589,
+      "date": "Jul 2, 2026",
+      "size": "10.9 MB"
+    },
+    {
+      "version": "2026.06.15.936629520.1-release",
+      "versionCode": 2049169,
+      "date": "Jun 26, 2026",
+      "size": "7.7 MB"
+    }
+  ]
+}

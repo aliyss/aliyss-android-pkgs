@@ -1,0 +1,64 @@
+{
+  "versions": [
+    {
+      "version": "2.75.0 Build 3",
+      "versionCode": 1292075003,
+      "date": "Jun 1, 2026",
+      "size": "64.7 MB"
+    },
+    {
+      "version": "2.74.0 Build 0",
+      "versionCode": 1292074000,
+      "date": "Apr 14, 2026",
+      "size": "64.3 MB"
+    },
+    {
+      "version": "2.73.0 Build 3",
+      "versionCode": 1292073003,
+      "date": "Mar 5, 2026",
+      "size": "63.9 MB"
+    },
+    {
+      "version": "2.72.1 Build 1",
+      "versionCode": 1292072101,
+      "date": "Jan 19, 2026",
+      "size": "36.9 MB"
+    },
+    {
+      "version": "2.70.1 Build 6",
+      "versionCode": 1292070106,
+      "date": "Nov 26, 2025",
+      "size": "87.3 MB"
+    },
+    {
+      "version": "2.69.1 Build 0",
+      "versionCode": 1292069100,
+      "date": "Oct 11, 2025",
+      "size": "48.0 MB"
+    },
+    {
+      "version": "2.69.0 Build 5",
+      "versionCode": 1292069005,
+      "date": "Sep 30, 2025",
+      "size": "21.8 MB"
+    },
+    {
+      "version": "2.68.0 Build 11",
+      "versionCode": 1292068011,
+      "date": "Aug 15, 2025",
+      "size": "24.0 MB"
+    },
+    {
+      "version": "2.67.0 Build 2",
+      "versionCode": 1292067002,
+      "date": "Jul 15, 2025",
+      "size": "76.9 MB"
+    },
+    {
+      "version": "2.65.0 Build 15",
+      "versionCode": 1292065015,
+      "date": "Jun 5, 2025",
+      "size": "76.9 MB"
+    }
+  ]
+}

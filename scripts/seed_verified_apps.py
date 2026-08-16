@@ -35,11 +35,18 @@ import argparse
 import json
 import sys
 from pathlib import Path
+from typing import Any, cast
 
 import httpx
 import yaml
 
-log = None  # placeholder to keep linters happy; we print directly
+from categories import derive_pname, guess_category
+
+# Re-exported for the other seeders (seed_apkpure / seed_fdroid use them).
+__all__ = ["derive_pname", "guess_category"]
+
+# JSON payloads from the network / yaml are untyped by nature.
+Json = dict[str, Any]
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 PKGS_DIR = REPO_ROOT / "pkgs"
@@ -49,16 +56,18 @@ DATASET = "privacyguides/verified-apps"
 DATASET_LICENSE = "CC-BY-4.0"
 DATASET_LICENSE_URL = "https://github.com/privacyguides/verified-apps/blob/main/LICENSE.txt"
 
-from categories import derive_pname, guess_category  # noqa: F401 (re-exported for callers)
 
-
-def load_data(source: str | Path) -> dict:
-    text = httpx.get(VERIFIED_APPS_URL, timeout=30, follow_redirects=True).text if source == "network" else Path(source).read_text()
-    return yaml.safe_load(text)
+def load_data(source: str | Path) -> Json:
+    text = (
+        httpx.get(VERIFIED_APPS_URL, timeout=30, follow_redirects=True).text
+        if source == "network"
+        else Path(source).read_text()
+    )
+    return cast(Json, yaml.safe_load(text) or {})
 
 
 def render_package(package: str, pname: str) -> str:
-    return f"""{'{ fetchApk }:'}
+    return f"""{"{ fetchApk }:"}
 
 let
   pin = builtins.fromJSON (builtins.readFile ./hashes.json);
@@ -77,13 +86,19 @@ def render_pin() -> str:
 
 
 def render_verified(package: str, fingerprints: list[str]) -> str:
-    return json.dumps({
-        "package": package,
-        "signerFingerprints": fingerprints,
-        "source": DATASET,
-        "source-license": DATASET_LICENSE,
-        "source-license-url": DATASET_LICENSE_URL,
-    }, indent=2) + "\n"
+    return (
+        json.dumps(
+            {
+                "package": package,
+                "signerFingerprints": fingerprints,
+                "source": DATASET,
+                "source-license": DATASET_LICENSE,
+                "source-license-url": DATASET_LICENSE_URL,
+            },
+            indent=2,
+        )
+        + "\n"
+    )
 
 
 def main(cli: argparse.Namespace) -> None:
@@ -93,15 +108,15 @@ def main(cli: argparse.Namespace) -> None:
         sys.exit(1)
 
     existing = {p.parent.name for p in PKGS_DIR.rglob("package.nix")}
-    planned = []
-    for entry in data["packages"]:
+    planned: list[tuple[str, list[str]]] = []
+    for entry in cast(list[Json], data.get("packages") or []):
         package = entry.get("package")
-        fingerprints = set()
-        for sig in entry.get("signature", []):
-            fp = " ".join(sig.get("fingerprint", "").split())  # collapse multiline
+        fp_set: set[str] = set()
+        for sig in cast(list[Json], entry.get("signature") or []):
+            fp = " ".join(str(sig.get("fingerprint", "")).split())  # collapse multiline
             if fp:
-                fingerprints.add(fp)
-        fingerprints = sorted(fingerprints)
+                fp_set.add(fp)
+        fingerprints = sorted(fp_set)
         if not package or package in existing or package in [p[0] for p in planned]:
             continue
         if cli.only and package != cli.only:
@@ -113,9 +128,9 @@ def main(cli: argparse.Namespace) -> None:
 
     if cli.dry_run or not planned:
         print(f"{'[dry] would add:' if cli.dry_run else 'nothing to add'}")
-        for package, fp in planned:
+        for package, fingerprints in planned:
             cat = guess_category(package)
-            print(f"  {cat}/{package}  fingerprints={len(fp)}")
+            print(f"  {cat}/{package}  fingerprints={len(fingerprints)}")
         if not planned:
             sys.exit(0)
         if cli.dry_run:
@@ -136,7 +151,12 @@ def main(cli: argparse.Namespace) -> None:
 
 def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Seed apps from privacyguides/verified-apps")
-    p.add_argument("--from-file", dest="file", metavar="PATH", help="use a local copy of data.yml instead of downloading")
+    p.add_argument(
+        "--from-file",
+        dest="file",
+        metavar="PATH",
+        help="use a local copy of data.yml instead of downloading",
+    )
     p.add_argument("--dry-run", action="store_true", help="print the plan, write nothing")
     p.add_argument("--limit", type=int, help="cap the number of apps seeded")
     p.add_argument("--only", metavar="APP_ID", help="seed a single package")

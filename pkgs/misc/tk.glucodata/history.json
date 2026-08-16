@@ -1,0 +1,64 @@
+{
+  "versions": [
+    {
+      "version": "10.10.0-phone-li3-si-x-g",
+      "versionCode": 901,
+      "date": "Aug 12, 2026",
+      "size": "13.4 MB"
+    },
+    {
+      "version": "10.9.8-phone-li3-si-x-g",
+      "versionCode": 898,
+      "date": "Jul 23, 2026",
+      "size": "16.0 MB"
+    },
+    {
+      "version": "10.9.7-phone-li3-si-x-g",
+      "versionCode": 894,
+      "date": "Jul 21, 2026",
+      "size": "15.9 MB"
+    },
+    {
+      "version": "10.9.5-phone-li3-si-x-g",
+      "versionCode": 893,
+      "date": "Jul 2, 2026",
+      "size": "15.9 MB"
+    },
+    {
+      "version": "10.9.4-phone-li3-si-x-g",
+      "versionCode": 891,
+      "date": "Jun 26, 2026",
+      "size": "15.9 MB"
+    },
+    {
+      "version": "10.9.3-phone-li3-si-x-g",
+      "versionCode": 887,
+      "date": "Jun 21, 2026",
+      "size": "15.9 MB"
+    },
+    {
+      "version": "10.8.1-phone-li3-si-x-g",
+      "versionCode": 883,
+      "date": "Apr 27, 2026",
+      "size": "16.3 MB"
+    },
+    {
+      "version": "10.8.0-phone-li3-si-x-g",
+      "versionCode": 881,
+      "date": "Apr 15, 2026",
+      "size": "15.6 MB"
+    },
+    {
+      "version": "10.7.3-phone-li3-si-x-g",
+      "versionCode": 880,
+      "date": "Apr 10, 2026",
+      "size": "15.6 MB"
+    },
+    {
+      "version": "10.7.2-phone-li3-si-x-g",
+      "versionCode": 878,
+      "date": "Apr 10, 2026",
+      "size": "13.1 MB"
+    }
+  ]
+}

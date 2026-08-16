@@ -1,0 +1,166 @@
+{
+  "versions": [
+    {
+      "version": "1.10.4",
+      "versionCode": 31048580,
+      "date": "Jun 14, 2026",
+      "size": "87.0 MB"
+    },
+    {
+      "version": "1.10.2",
+      "versionCode": 31048578,
+      "date": "Jun 5, 2026",
+      "size": "87.5 MB"
+    },
+    {
+      "version": "1.9.12",
+      "versionCode": 11049228,
+      "date": "Mar 22, 2026",
+      "size": "71.8 MB"
+    },
+    {
+      "version": "1.9.11",
+      "versionCode": 11049227,
+      "date": "Mar 18, 2026",
+      "size": "72.2 MB"
+    },
+    {
+      "version": "1.9.10",
+      "versionCode": 11049225,
+      "date": "Mar 9, 2026",
+      "size": "72.2 MB"
+    },
+    {
+      "version": "1.9.8",
+      "versionCode": 11049221,
+      "date": "Feb 27, 2026",
+      "size": "72.2 MB"
+    },
+    {
+      "version": "1.9.4",
+      "versionCode": 11049216,
+      "date": "Feb 7, 2026",
+      "size": "72.2 MB"
+    },
+    {
+      "version": "1.9.2",
+      "versionCode": 11049212,
+      "date": "Feb 3, 2026",
+      "size": "72.1 MB"
+    },
+    {
+      "version": "1.6.12",
+      "versionCode": 11049190,
+      "date": "Sep 14, 2024",
+      "size": "150.7 MB"
+    },
+    {
+      "version": "1.6.13",
+      "versionCode": 6305991,
+      "date": "Oct 28, 2024",
+      "size": "109.7 MB"
+    },
+    {
+      "version": "1.3.3"
+    },
+    {
+      "version": "1.4.20"
+    },
+    {
+      "version": "1.4.5"
+    },
+    {
+      "version": "1.5.0"
+    },
+    {
+      "version": "1.5.6"
+    },
+    {
+      "version": "1.5.7"
+    },
+    {
+      "version": "1.5.8"
+    },
+    {
+      "version": "1.5.9"
+    },
+    {
+      "version": "1.6.0"
+    },
+    {
+      "version": "1.6.1"
+    },
+    {
+      "version": "1.6.10"
+    },
+    {
+      "version": "1.6.11"
+    },
+    {
+      "version": "1.6.6"
+    },
+    {
+      "version": "1.6.7"
+    },
+    {
+      "version": "1.6.8"
+    },
+    {
+      "version": "1.6.9"
+    },
+    {
+      "version": "1.7.3"
+    },
+    {
+      "version": "1.7.4"
+    },
+    {
+      "version": "1.8.0"
+    },
+    {
+      "version": "1.8.1"
+    },
+    {
+      "version": "1.8.2"
+    },
+    {
+      "version": "1.8.4"
+    },
+    {
+      "version": "1.9.0"
+    },
+    {
+      "version": "1.9.1"
+    },
+    {
+      "version": "2.0.0"
+    },
+    {
+      "version": "2.0.1"
+    },
+    {
+      "version": "2.1.1"
+    },
+    {
+      "version": "2.1.3"
+    },
+    {
+      "version": "2.1.4"
+    },
+    {
+      "version": "2.1.5"
+    },
+    {
+      "version": "2.2.3"
+    },
+    {
+      "version": "2.3.0"
+    },
+    {
+      "version": "2.3.1"
+    },
+    {
+      "version": "2.3.2"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "versions": [
+    {
+      "version": "2026.7.1",
+      "versionCode": 21803,
+      "date": "Aug 10, 2026",
+      "size": "50.0 MB"
+    },
+    {
+      "version": "2026.7.0",
+      "versionCode": 21756,
+      "date": "Jul 24, 2026",
+      "size": "39.8 MB"
+    },
+    {
+      "version": "2026.6.1",
+      "versionCode": 21713,
+      "date": "Jul 10, 2026",
+      "size": "39.6 MB"
+    },
+    {
+      "version": "2026.6.0",
+      "versionCode": 21686,
+      "date": "Jun 27, 2026",
+      "size": "48.3 MB"
+    },
+    {
+      "version": "2026.5.1",
+      "versionCode": 21675,
+      "date": "Jun 15, 2026",
+      "size": "41.2 MB"
+    },
+    {
+      "version": "2026.4.2",
+      "versionCode": 21562,
+      "date": "May 16, 2026",
+      "size": "45.4 MB"
+    },
+    {
+      "version": "2026.4.1",
+      "versionCode": 21464,
+      "date": "May 9, 2026",
+      "size": "45.5 MB"
+    },
+    {
+      "version": "2026.4.0",
+      "versionCode": 21434,
+      "date": "Apr 22, 2026",
+      "size": "29.6 MB"
+    },
+    {
+      "version": "2026.3.1",
+      "versionCode": 21415,
+      "date": "Apr 4, 2026",
+      "size": "19.2 MB"
+    },
+    {
+      "version": "2026.3.0",
+      "versionCode": 21345,
+      "date": "Mar 20, 2026",
+      "size": "31.9 MB"
+    },
+    {
+      "version": "2025.10.0"
+    },
+    {
+      "version": "2025.10.1"
+    },
+    {
+      "version": "2025.11.0"
+    },
+    {
+      "version": "2025.11.1"
+    },
+    {
+      "version": "2025.12.0"
+    },
+    {
+      "version": "2025.12.1"
+    },
+    {
+      "version": "2025.5.0"
+    },
+    {
+      "version": "2025.6.0"
+    },
+    {
+      "version": "2025.6.1"
+    },
+    {
+      "version": "2025.7.0"
+    },
+    {
+      "version": "2025.7.1"
+    },
+    {
+      "version": "2025.7.2"
+    },
+    {
+      "version": "2025.8.0"
+    },
+    {
+      "version": "2025.8.1"
+    },
+    {
+      "version": "2025.9.0"
+    },
+    {
+      "version": "2025.9.1"
+    },
+    {
+      "version": "2026.1.0"
+    },
+    {
+      "version": "2026.1.1"
+    },
+    {
+      "version": "2026.2.0"
+    },
+    {
+      "version": "2026.2.1"
+    }
+  ]
+}

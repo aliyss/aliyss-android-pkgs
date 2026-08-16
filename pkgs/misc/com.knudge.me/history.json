@@ -1,0 +1,124 @@
+{
+  "versions": [
+    {
+      "version": "3.17.0",
+      "versionCode": 286,
+      "date": "Feb 18, 2026",
+      "size": "25.6 MB"
+    },
+    {
+      "version": "3.16.0",
+      "versionCode": 285,
+      "date": "Dec 28, 2025",
+      "size": "25.6 MB"
+    },
+    {
+      "version": "3.15.0",
+      "versionCode": 284,
+      "date": "Oct 5, 2025",
+      "size": "28.6 MB"
+    },
+    {
+      "version": "3.14.0",
+      "versionCode": 283,
+      "date": "Sep 22, 2025",
+      "size": "28.6 MB"
+    },
+    {
+      "version": "3.13.0",
+      "versionCode": 282,
+      "date": "Sep 17, 2025",
+      "size": "14.7 MB"
+    },
+    {
+      "version": "3.12.0",
+      "versionCode": 281,
+      "date": "Aug 31, 2025",
+      "size": "32.0 MB"
+    },
+    {
+      "version": "3.11.0",
+      "versionCode": 280,
+      "date": "Aug 21, 2025",
+      "size": "17.9 MB"
+    },
+    {
+      "version": "3.10.0",
+      "versionCode": 279,
+      "date": "Feb 11, 2025",
+      "size": "21.6 MB"
+    },
+    {
+      "version": "3.8.0",
+      "versionCode": 277,
+      "date": "Oct 21, 2024",
+      "size": "18.5 MB"
+    },
+    {
+      "version": "3.7.0",
+      "versionCode": 275,
+      "date": "Jul 15, 2024",
+      "size": "21.2 MB"
+    },
+    {
+      "version": "2.22.7"
+    },
+    {
+      "version": "2.23.1"
+    },
+    {
+      "version": "2.24.0"
+    },
+    {
+      "version": "2.25.0"
+    },
+    {
+      "version": "2.26.0"
+    },
+    {
+      "version": "2.27.0"
+    },
+    {
+      "version": "2.28.0"
+    },
+    {
+      "version": "2.29.0"
+    },
+    {
+      "version": "2.30.0"
+    },
+    {
+      "version": "2.31.0"
+    },
+    {
+      "version": "3.0.0"
+    },
+    {
+      "version": "3.0.1"
+    },
+    {
+      "version": "3.0.4"
+    },
+    {
+      "version": "3.0.6"
+    },
+    {
+      "version": "3.1.0"
+    },
+    {
+      "version": "3.2.0"
+    },
+    {
+      "version": "3.3.0"
+    },
+    {
+      "version": "3.4.0"
+    },
+    {
+      "version": "3.5.0"
+    },
+    {
+      "version": "3.6.0"
+    }
+  ]
+}

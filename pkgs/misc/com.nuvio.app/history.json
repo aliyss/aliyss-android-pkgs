@@ -1,0 +1,127 @@
+{
+  "versions": [
+    {
+      "version": "0.8.3-beta",
+      "versionCode": 1044,
+      "date": "Aug 11, 2026",
+      "size": "63.7 MB"
+    },
+    {
+      "version": "0.8.2-beta",
+      "versionCode": 1041,
+      "date": "Aug 4, 2026",
+      "size": "63.1 MB"
+    },
+    {
+      "version": "0.7.20-beta",
+      "versionCode": 1038,
+      "date": "Jul 28, 2026",
+      "size": "63.1 MB"
+    },
+    {
+      "version": "0.7.19-beta",
+      "versionCode": 1037,
+      "date": "Jul 26, 2026",
+      "size": "63.0 MB"
+    },
+    {
+      "version": "0.7.18-beta",
+      "versionCode": 1036,
+      "date": "Jul 16, 2026",
+      "size": "63.0 MB"
+    },
+    {
+      "version": "0.7.16-beta",
+      "versionCode": 1034,
+      "date": "Jul 8, 2026",
+      "size": "62.7 MB"
+    },
+    {
+      "version": "0.7.14-beta",
+      "versionCode": 1031,
+      "date": "Jul 4, 2026",
+      "size": "61.9 MB"
+    },
+    {
+      "version": "0.7.9-beta",
+      "versionCode": 1026,
+      "date": "Jun 19, 2026",
+      "size": "60.4 MB"
+    },
+    {
+      "version": "0.7.7-beta",
+      "versionCode": 1024,
+      "date": "Jun 17, 2026",
+      "size": "60.2 MB"
+    },
+    {
+      "version": "0.7.5-beta",
+      "versionCode": 1022,
+      "date": "Jun 13, 2026",
+      "size": "61.4 MB"
+    },
+    {
+      "version": "0.1.9"
+    },
+    {
+      "version": "0.2.1"
+    },
+    {
+      "version": "0.2.12"
+    },
+    {
+      "version": "0.2.13"
+    },
+    {
+      "version": "0.2.14"
+    },
+    {
+      "version": "0.2.16"
+    },
+    {
+      "version": "0.2.18"
+    },
+    {
+      "version": "0.2.19"
+    },
+    {
+      "version": "0.2.20"
+    },
+    {
+      "version": "0.2.22"
+    },
+    {
+      "version": "0.2.23"
+    },
+    {
+      "version": "0.2.24"
+    },
+    {
+      "version": "0.2.25"
+    },
+    {
+      "version": "0.2.4"
+    },
+    {
+      "version": "0.2.5"
+    },
+    {
+      "version": "0.2.8"
+    },
+    {
+      "version": "0.2.9"
+    },
+    {
+      "version": "0.3.1"
+    },
+    {
+      "version": "0.4.0"
+    },
+    {
+      "version": "0.4.1"
+    },
+    {
+      "version": "0.4.4"
+    }
+  ]
+}

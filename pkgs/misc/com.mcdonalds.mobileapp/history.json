@@ -1,0 +1,148 @@
+{
+  "versions": [
+    {
+      "version": "3.46.2",
+      "versionCode": 64563,
+      "date": "Jul 22, 2026",
+      "size": "195.6 MB"
+    },
+    {
+      "version": "3.46.1",
+      "versionCode": 64559,
+      "date": "Jun 5, 2026",
+      "size": "193.5 MB"
+    },
+    {
+      "version": "3.46.0",
+      "versionCode": 64555,
+      "date": "Jun 3, 2026",
+      "size": "193.8 MB"
+    },
+    {
+      "version": "3.45.0",
+      "versionCode": 64120,
+      "date": "May 21, 2026",
+      "size": "189.9 MB"
+    },
+    {
+      "version": "3.44.0",
+      "versionCode": 62311,
+      "date": "May 6, 2026",
+      "size": "188.3 MB"
+    },
+    {
+      "version": "3.43.0",
+      "versionCode": 59642,
+      "date": "Apr 22, 2026",
+      "size": "180.1 MB"
+    },
+    {
+      "version": "3.42.0",
+      "versionCode": 55043,
+      "date": "Mar 30, 2026",
+      "size": "175.3 MB"
+    },
+    {
+      "version": "3.41.0",
+      "versionCode": 52906,
+      "date": "Mar 11, 2026",
+      "size": "174.2 MB"
+    },
+    {
+      "version": "3.40.0",
+      "versionCode": 51679,
+      "date": "Feb 27, 2026",
+      "size": "169.4 MB"
+    },
+    {
+      "version": "3.39.0",
+      "versionCode": 51004,
+      "date": "Feb 14, 2026",
+      "size": "150.3 MB"
+    },
+    {
+      "version": "3.0.1"
+    },
+    {
+      "version": "3.15.1"
+    },
+    {
+      "version": "3.17.0"
+    },
+    {
+      "version": "3.18.0"
+    },
+    {
+      "version": "3.18.1"
+    },
+    {
+      "version": "3.19.0"
+    },
+    {
+      "version": "3.20.0"
+    },
+    {
+      "version": "3.21.0"
+    },
+    {
+      "version": "3.22.0"
+    },
+    {
+      "version": "3.23.0"
+    },
+    {
+      "version": "3.24.0"
+    },
+    {
+      "version": "3.25.0"
+    },
+    {
+      "version": "3.26.0"
+    },
+    {
+      "version": "3.27.1"
+    },
+    {
+      "version": "3.28.0"
+    },
+    {
+      "version": "3.29.0"
+    },
+    {
+      "version": "3.30.0"
+    },
+    {
+      "version": "3.31.0"
+    },
+    {
+      "version": "3.32.0"
+    },
+    {
+      "version": "3.33.0"
+    },
+    {
+      "version": "3.33.1"
+    },
+    {
+      "version": "3.33.2"
+    },
+    {
+      "version": "3.34.0"
+    },
+    {
+      "version": "3.35.0"
+    },
+    {
+      "version": "3.36.0"
+    },
+    {
+      "version": "3.36.1"
+    },
+    {
+      "version": "3.37.0"
+    },
+    {
+      "version": "3.38.0"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "architectures": {
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-icprwiPq2XibWhWRk8HCXf4Z9vGCX8Rsd+W5AOOIsTs="
+    }
+  },
+  "version": "7.80.0"
+}

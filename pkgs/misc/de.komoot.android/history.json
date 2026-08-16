@@ -1,0 +1,130 @@
+{
+  "versions": [
+    {
+      "version": "2026.33.2",
+      "versionCode": 263812004,
+      "date": "Aug 15, 2026",
+      "size": "84.9 MB"
+    },
+    {
+      "version": "2026.32.3",
+      "versionCode": 263807002,
+      "date": "Aug 13, 2026",
+      "size": "84.8 MB"
+    },
+    {
+      "version": "2026.32.2",
+      "versionCode": 263805003,
+      "date": "Aug 6, 2026",
+      "size": "72.1 MB"
+    },
+    {
+      "version": "2026.31.3",
+      "versionCode": 263730002,
+      "date": "Jul 30, 2026",
+      "size": "69.4 MB"
+    },
+    {
+      "version": "2026.31.2",
+      "versionCode": 263729004,
+      "date": "Jul 30, 2026",
+      "size": "69.4 MB"
+    },
+    {
+      "version": "2026.30.3",
+      "versionCode": 263722005,
+      "date": "Jul 23, 2026",
+      "size": "69.3 MB"
+    },
+    {
+      "version": "2026.29.3",
+      "versionCode": 263715004,
+      "date": "Jul 20, 2026",
+      "size": "68.8 MB"
+    },
+    {
+      "version": "2026.29.0",
+      "versionCode": 263710002,
+      "date": "Jul 13, 2026",
+      "size": "81.4 MB"
+    },
+    {
+      "version": "2026.28.2",
+      "versionCode": 263708003,
+      "date": "Jul 10, 2026",
+      "size": "81.1 MB"
+    },
+    {
+      "version": "2026.26.7",
+      "versionCode": 263629002,
+      "date": "Jun 29, 2026",
+      "size": "80.6 MB"
+    },
+    {
+      "version": "2025.25.0"
+    },
+    {
+      "version": "2025.38.2"
+    },
+    {
+      "version": "2026.12.4"
+    },
+    {
+      "version": "2026.16.0"
+    },
+    {
+      "version": "2026.16.2"
+    },
+    {
+      "version": "2026.16.3"
+    },
+    {
+      "version": "2026.17.0"
+    },
+    {
+      "version": "2026.18.5"
+    },
+    {
+      "version": "2026.19.4"
+    },
+    {
+      "version": "2026.19.5"
+    },
+    {
+      "version": "2026.20.3"
+    },
+    {
+      "version": "2026.21.2"
+    },
+    {
+      "version": "2026.22.7"
+    },
+    {
+      "version": "2026.23.4"
+    },
+    {
+      "version": "2026.23.5"
+    },
+    {
+      "version": "2026.23.6"
+    },
+    {
+      "version": "2026.23.7"
+    },
+    {
+      "version": "2026.23.8"
+    },
+    {
+      "version": "2026.24.0"
+    },
+    {
+      "version": "2026.24.1"
+    },
+    {
+      "version": "2026.25.2"
+    },
+    {
+      "version": "2026.25.3"
+    }
+  ]
+}

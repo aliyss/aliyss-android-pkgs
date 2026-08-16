@@ -1,0 +1,64 @@
+{
+  "versions": [
+    {
+      "version": "20260616",
+      "versionCode": 231112,
+      "date": "Aug 13, 2026",
+      "size": "48.3 MB"
+    },
+    {
+      "version": "20260609",
+      "versionCode": 231097,
+      "date": "Jun 11, 2026",
+      "size": "48.2 MB"
+    },
+    {
+      "version": "20260606",
+      "versionCode": 231090,
+      "date": "Jun 7, 2026",
+      "size": "48.1 MB"
+    },
+    {
+      "version": "20260604",
+      "versionCode": 231083,
+      "date": "Jun 5, 2026",
+      "size": "48.2 MB"
+    },
+    {
+      "version": "20260530",
+      "versionCode": 231075,
+      "date": "Jun 3, 2026",
+      "size": "48.2 MB"
+    },
+    {
+      "version": "20260526",
+      "versionCode": 231059,
+      "date": "May 26, 2026",
+      "size": "47.9 MB"
+    },
+    {
+      "version": "20260519",
+      "versionCode": 231055,
+      "date": "May 20, 2026",
+      "size": "47.9 MB"
+    },
+    {
+      "version": "20260429",
+      "versionCode": 231046,
+      "date": "May 18, 2026",
+      "size": "47.8 MB"
+    },
+    {
+      "version": "20260420",
+      "versionCode": 231035,
+      "date": "Apr 24, 2026",
+      "size": "47.6 MB"
+    },
+    {
+      "version": "20260326",
+      "versionCode": 231033,
+      "date": "Apr 20, 2026",
+      "size": "47.6 MB"
+    }
+  ]
+}

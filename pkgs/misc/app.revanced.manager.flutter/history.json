@@ -1,0 +1,94 @@
+{
+  "versions": [
+    {
+      "version": "2.7.0-dev.9",
+      "versionCode": 200700009,
+      "date": "Jul 20, 2026",
+      "size": "44.8 MB"
+    },
+    {
+      "version": "2.7.0-dev.7",
+      "versionCode": 200700007,
+      "date": "Jun 29, 2026",
+      "size": "44.7 MB"
+    },
+    {
+      "version": "2.7.0-dev.5",
+      "versionCode": 200700005,
+      "date": "Jun 8, 2026",
+      "size": "44.7 MB"
+    },
+    {
+      "version": "2.7.0-dev.2",
+      "versionCode": 200700002,
+      "date": "May 18, 2026",
+      "size": "44.7 MB"
+    },
+    {
+      "version": "2.6.0",
+      "versionCode": 200600099,
+      "date": "Apr 28, 2026",
+      "size": "44.7 MB"
+    },
+    {
+      "version": "2.6.0-dev.12",
+      "versionCode": 200600012,
+      "date": "Apr 23, 2026",
+      "size": "44.6 MB"
+    },
+    {
+      "version": "2.6.0-dev.11",
+      "versionCode": 200600011,
+      "date": "Apr 16, 2026",
+      "size": "44.6 MB"
+    },
+    {
+      "version": "2.6.0-dev.10",
+      "versionCode": 200600010,
+      "date": "Apr 13, 2026",
+      "size": "44.6 MB"
+    },
+    {
+      "version": "2.6.0-dev.9",
+      "versionCode": 200600009,
+      "date": "Apr 3, 2026",
+      "size": "44.6 MB"
+    },
+    {
+      "version": "2.6.0-dev.8",
+      "versionCode": 200600008,
+      "date": "Apr 2, 2026",
+      "size": "44.6 MB"
+    },
+    {
+      "version": "1.14.2"
+    },
+    {
+      "version": "1.15.1"
+    },
+    {
+      "version": "1.17.1"
+    },
+    {
+      "version": "1.18.0"
+    },
+    {
+      "version": "1.23.2"
+    },
+    {
+      "version": "1.23.3"
+    },
+    {
+      "version": "1.24.0"
+    },
+    {
+      "version": "1.25.1"
+    },
+    {
+      "version": "2.2.2"
+    },
+    {
+      "version": "2.4.0"
+    }
+  ]
+}

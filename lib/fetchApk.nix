@@ -50,6 +50,22 @@
 #     hash     = "sha256-...";                 # flat file hash from the index
 #   }
 #
+# GitHub releases apps are also flat downloads: the pinned `version` is the
+# release tag and `apkName` the exact asset name, so the URL is
+# `https://github.com/<ghRepo>/releases/download/<version>/<apkName>`.
+# The hash is the asset file's own sha256 (scripts/update.py downloads it and
+# hashes the bytes; the GitHub API does not publish hashes).
+#
+#   fetchApk {
+#     pname    = "orbot";
+#     appId    = "org.torproject.android";
+#     source   = "github-releases";
+#     ghRepo   = "guardianproject/orbot";
+#     version  = "17.9.5-RC-4-tor-0.4.9.11";      # release tag
+#     apkName  = "Orbot-...-universal-release.apk"; # asset name (hashes.json)
+#     hash     = "sha256-...";
+#   }
+#
 { lib, stdenv, stdenvNoCC, apkeep, cacert, curl }:
 
 { pname
@@ -74,6 +90,9 @@
   # of the APK inside it (both published by the repo's signed index).
 , repoUrl ? "https://f-droid.org/repo"
 , apkName ? null
+  # GitHub releases only: `owner/repo` of the project whose release assets are
+  # pinned (e.g. "guardianproject/orbot").
+, ghRepo ? null
   # "free", "unfree", or an explicit license value. Defaults to free so that
   # only genuinely proprietary apps (e.g. from Play Store) opt into `unfree`,
   # mirroring the nixpkgs convention (meta.license / allowUnfree).
@@ -113,12 +132,24 @@ let
     fdroid = "f-droid";
     huawei-app-gallery = "huawei-app-gallery";
     huawei = "huawei-app-gallery";
+    github-releases = "github-releases";
+    github = "github-releases";
   };
   normalizedSource = sourceNames.${source} or source;
 
-  # F-Droid apps are fetched straight from the repo by exact file name; the
-  # flat hash from the signed index is the build hash, so no apkeep at all.
+  # Direct-download sources (f-droid, github-releases): the pinned `apkName`
+  # names an exact file at a deterministic URL, so we curl it with flat output
+  # mode - no apkeep, no version negotiation.
+  directSources = { f-droid = true; github-releases = true; };
+  isDirect = directSources.${normalizedSource} or false;
   isFdroid = normalizedSource == "f-droid";
+  isGithub = normalizedSource == "github-releases";
+
+  # f-droid: <repoUrl>/<apkName>   github-releases: https://github.com/<ghRepo>/releases/download/<version>/<apkName>
+  directUrl = if isGithub then
+    "https://github.com/${ghRepo}/releases/download/${version}/${apkName}"
+  else
+    "${repoUrl}/${apkName}";
 
   # Only APKPure lets apkeep pin an exact version; Play-style sources
   # always fetch the current release, so `version` is informational there.
@@ -150,36 +181,41 @@ assert lib.assertMsg (selectedHash != null) ''
     appId
   }). Add an entry to `archs` / the `hashes.json` sidecar, or pass `hash` when
   the app ships a single universal APK.'';
-assert lib.assertMsg (!isFdroid || apkName != null) ''
-  f-droid app `${pname}` (${appId}) is missing `apkName`.
-  The exact file name inside the repo is required to pin the download; it is
-  published by the repo index and stored in hashes.json by scripts/update.py.'';
+assert lib.assertMsg (!isDirect || apkName != null) ''
+  direct-download app `${pname}` (${appId}) is missing `apkName`.
+  The exact file name to fetch is required to pin the download; it is stored
+  in hashes.json by scripts/update.py.'';
+assert lib.assertMsg (!isGithub || ghRepo != null) ''
+  github-releases app `${pname}` (${appId}) is missing `ghRepo`
+  (the `owner/repo` whose release assets are pinned).'';
 stdenvNoCC.mkDerivation {
   pname = pname;
   version = version;
 
   # Fixed-output derivation: Nix re-fetches until the output matches the hash
   # selected above, which is exactly what pins (appId, version, arch, source).
-  # Non-F-Droid sources use recursive mode + preserving apkeep's filename so
-  # scripts/update.py can hash the identical layout; f-droid uses flat mode
-  # because the pinned hash is the APK file's own sha256 from the repo index.
+  # Direct sources (f-droid, github-releases) use flat mode because the pinned
+  # hash is the APK file's own sha256; everything else uses recursive mode +
+  # preserving apkeep's filename so scripts/update.py can hash the identical
+  # layout.
   outputHashAlgo = "sha256";
   outputHash = selectedHash;
-  outputHashMode = if isFdroid then "flat" else "recursive";
+  outputHashMode = if isDirect then "flat" else "recursive";
 
-  nativeBuildInputs = [ apkeep cacert ] ++ lib.optional isFdroid curl;
+  nativeBuildInputs = [ apkeep cacert ] ++ lib.optional isDirect curl;
 
   dontUnpack = true;
   dontConfigure = true;
 
-  buildPhase = if isFdroid then ''
+  buildPhase = if isDirect then ''
     runHook preBuild
 
-    # Deterministic fetch: the URL and the expected sha256 both come from the
-    # repo's signed index. The FOD check below fails the build on any mismatch.
+    # Deterministic fetch: the URL and the expected sha256 are both pinned
+    # (repo index for f-droid, release asset for github-releases). The FOD
+    # check below fails the build on any mismatch.
     mkdir -p download
     curl --fail --location --silent --show-error \
-      "${repoUrl}/${apkName}" \
+      "${directUrl}" \
       -o "download/${apkName}"
 
     runHook postBuild
@@ -197,7 +233,7 @@ stdenvNoCC.mkDerivation {
     runHook postBuild
   '';
 
-  installPhase = if isFdroid then ''
+  installPhase = if isDirect then ''
     runHook preInstall
 
     # Flat output: the derivation's output IS the APK file.
