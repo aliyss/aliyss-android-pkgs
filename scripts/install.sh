@@ -34,6 +34,10 @@ ROOT_ONLY=0
 ON_DEVICE=0
 APP_ID=""
 TARGET=""
+# Every positional target (the declarative list passes many app-ids at once).
+TARGETS=()
+# Reinstall even when the app is already present (normally it is skipped).
+REINSTALL=0
 SERIAL=""
 # Flake to build package names from (default: the current directory's flake).
 FLAKE="."
@@ -57,6 +61,8 @@ Options:
                            only connected device)
   -u, --uninstall <app-id>   uninstall instead of install
   -r, --root                 only use the root `pm` path (no plain adb attempt)
+      --reinstall            reinstall an app that is already installed
+                             (by default an installed app is skipped)
   -h, --help                 show this help
 EOF
 }
@@ -105,6 +111,10 @@ parse_args() {
         ROOT_ONLY=1
         shift
         ;;
+      --reinstall)
+        REINSTALL=1
+        shift
+        ;;
       --)
         shift
         break
@@ -119,7 +129,8 @@ parse_args() {
         ;;
     esac
   done
-  TARGET="${1:-}"
+  TARGETS=("$@")
+  TARGET="${TARGETS[0]:-}"
 }
 
 # app-id <-> flake attr. Mirror pkgs/default.nix sanitizeName: dots -> dashes,
@@ -199,6 +210,14 @@ if [[ "$SU_OK" == 0 ]]; then
     fi
   done
 fi
+
+# Is the app already installed? Asked through the same su the install
+# would use, so no build/APK resolution is involved.
+app_installed() { # $1 = app-id
+  local out
+  out="$("$SU" -c "/system/bin/pm list packages '$1'" 2>/dev/null || true)"
+  [[ "$out" == *"package:$1"* ]]
+}
 if [[ "$SU_OK" == 0 && -x "$KSUD_LINKER" && -f "$KSUD_LIB" ]]; then
   shim="$(ksud_shim)" || shim=""
   if [[ -n "$shim" ]]; then
@@ -444,13 +463,27 @@ main() {
       usage >&2
       exit 2
     fi
-    local apk
-    apk="$(resolve_target "$TARGET")" || exit $?
-    if [[ -z "$apk" ]]; then
-      echo "error: no .apk found in '$TARGET'" >&2
-      exit 1
-    fi
-    install_apk "$apk"
+    local target id apk
+    for target in "${TARGETS[@]}"; do
+      [[ -z "$target" ]] && continue
+      # On the phone the declared list says which apps should be present,
+      # not "install right now": an app that is already installed is left
+      # alone — no rebuild, no reinstall. --reinstall forces it (e.g. to move
+      # to a newly pinned version).
+      if [[ "$ON_DEVICE" == 1 && "$REINSTALL" == 0 && "$target" != */* ]]; then
+        id="$(to_app_id "$target")"
+        if app_installed "$id"; then
+          echo "already installed: $id"
+          continue
+        fi
+      fi
+      apk="$(resolve_target "$target")" || exit $?
+      if [[ -z "$apk" ]]; then
+        echo "error: no .apk found in '$target'" >&2
+        exit 1
+      fi
+      install_apk "$apk"
+    done
   fi
 }
 

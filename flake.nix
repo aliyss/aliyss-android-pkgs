@@ -50,6 +50,27 @@
           text = builtins.readFile ./scripts/install.sh;
         };
 
+      # The enforcer (scripts/enforce.sh) as a runnable package: applies the
+      # declared runtime permissions + notification access for the managed apps
+      # with root (adb, or on-device directly). install.sh puts the APK there,
+      # this makes it behave the way the config says.
+      android-enforce = system:
+        let
+          pkgs = nixpkgs.legacyPackages.${system};
+        in
+        pkgs.writeShellApplication {
+          name = "android-enforce";
+          runtimeInputs = with pkgs; [
+            bash
+            coreutils
+            gawk
+            gnugrep
+            gnused
+            jq
+          ];
+          text = builtins.readFile ./scripts/enforce.sh;
+        };
+
       # Python with everything the scripts and the offline test suite need.
       # (ruff runs the lint/format checks, mypy the type checks; keep in sync
       # with pyproject.toml.)
@@ -75,12 +96,20 @@
       # plus the shared installer:
       #   nix build .#android-install
       packages = forAllSystems (system:
-        packageSetFor system // { android-install = android-install system; });
+        packageSetFor system
+        // {
+          android-install = android-install system;
+          android-enforce = android-enforce system;
+        });
 
       # legacyPackages lets the whole set be used from within a nixpkgs-based
       # context and satisfies the flake requirements.
       legacyPackages = forAllSystems (system:
-        packageSetFor system // { android-install = android-install system; });
+        packageSetFor system
+        // {
+          android-install = android-install system;
+          android-enforce = android-enforce system;
+        });
 
       # Reusable fetcher for consumers who want to build ad-hoc APKs.
       lib.fetchApk = nixpkgs.legacyPackages.x86_64-linux.callPackage ./lib/fetchApk.nix { };

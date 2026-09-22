@@ -180,9 +180,11 @@ $ nix run .#android-install -- -f . com.darkempire78.opencalculator
 $ nix run .#android-install -- -f . -u com.darkempire78.opencalculator
 ```
 
-`-f/--flake` selects the flake to build package names from (default: the
-current directory). On a device with no adb (e.g. Termux), or with
-`-d/--on-device`, the script runs **on the device itself**: it builds the APK
+`-f/--flake` selects the flake to build package names from
+(default: the current directory). An app that is **already installed is
+skipped** — no rebuild, no reinstall — so the declared list says what
+should be present rather than "install now"; pass `--reinstall` to
+force an install/update. 
 with the local nix, stages the APK under `$HOME` (the Nix store only
 exists inside the chroot, while `pm` runs as root outside it),
 installs directly with `su -c "pm install -r"` (root), and bounds
@@ -222,6 +224,55 @@ aliyss.androidPkgs = {
   (`extraSpecialArgs = inputs`) covers it.
 - State lives in `~/.local/state/aliyss-android-pkgs` (the previously installed
   app-ids), which is what makes uninstall-on-removal work.
+
+
+### Declared app state (runtime permissions, notifications)
+
+`android-install` only puts the APK on the device. The companion
+`android-enforce` (`packages.<system>.android-enforce`) makes the app *behave*
+the way the config says, on every switch:
+
+```nix
+aliyss.androidPkgs = {
+  enable = true;
+  apps = [ "com.whatsapp" ];
+
+  # runtime permissions (pm grant / pm revoke)
+  permissions."com.whatsapp" = {
+    "android.permission.CAMERA" = "deny";
+    "android.permission.ACCESS_FINE_LOCATION" = "allow";
+  };
+
+  # notification behaviour
+  notifications."com.whatsapp" = {
+    enabled = false;                              # POST_NOTIFICATIONS
+    listeners = [ "com.whatsapp/.NotificationListener" ];
+    dnd = true;                                   # exempt from Do Not Disturb
+    bubbles = "none";
+  };
+};
+```
+
+The config is a set of **overrides**, not a full desired state: an app with no
+entry is untouched, and a permission that is not listed is never granted or
+revoked. That makes it safe to mirror what the phone already does:
+
+```console
+$ android-enforce --config <config.json> --dump   # current state, as Nix
+$ android-enforce --config <config.json> --check  # drift report (exit 1)
+$ android-enforce --config <config.json>          # apply
+```
+
+`--dump` prints only what *you* set (`USER_SET` in `dumpsys package`), so
+pasting it into the dotfiles and switching applies as a no-op until you change
+something.
+
+Implemented: runtime permissions, `notifications.enabled` (via
+`POST_NOTIFICATIONS`), `listeners` (`cmd notification allow_listener`),
+`dnd`/`bubbles` (`cmd notification allow_dnd` / `set_bubbles`). `dnd` and
+`bubbles` have no readable shell surface, so they are applied but reported as
+unverifiable by `--check`. Not implemented yet: appops, open-by-default links,
+notification channels (see `next_steps_1.md`).
 
 
 ## Development
