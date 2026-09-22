@@ -34,14 +34,24 @@
 #         "open": false,                      # open-by-default ("link handling allowed")
 #         "domains": { "wa.me": "allow" }     # allow | deny, per verified domain
 #       }
-#     }
+#     },
+#     "mode": "overrides",                    # or "managed" (deny-all-not-listed)
+#     "appModes": { "com.app": "managed" }    # per-app override of "mode"
 #   }
 #
-# Semantics: the config holds *overrides*, not a full desired state. An app with
-# no entry is untouched, an unlisted permission/op/domain is never touched, and
-# `listeners` is scoped to that app's own components. So dumping the current
-# state (`--dump`) and feeding it back is a no-op — exactly what you want when
-# the dotfiles mirror what the phone already does.
+# Semantics: the default mode (`overrides`) treats the config as additions — an
+# app with no entry is untouched and an unlisted permission/op/domain is never
+# touched, so dumping the current state (`--dump`) and feeding it back is a
+# no-op. `managed` is the other posture: for each app the config is the whole
+# intent, so anything granted but not listed is taken away. It only removes
+# grants — an unset op stays at the platform default — and it leaves
+# POST_NOTIFICATIONS to `notifications.enabled`, so a managed switch does not
+# silence every app that has no notification entry. Of the app ops only the ones
+# Settings exposes as toggles (background activity, install unknown apps, draw
+# over other apps, ...) take part; the rest are platform-internal behaviour
+# flags where `deny` would break the app rather than protect you.
+#
+# Modes: `overrides` (default) and `managed`; see the semantics note above.
 #
 # Layers implemented:
 #   * runtime permissions  `permissions.<app>."<perm>"`      pm grant / pm revoke
@@ -69,6 +79,14 @@ SERIAL="${ANDROID_SERIAL:-}"
 FAILED=0
 DRIFT=0
 DUMP_APP_OPS=0
+
+# The app ops Settings exposes as toggles. `managed` revokes these when they are
+# not listed. ACCESS_RESTRICTED_SETTINGS is deliberately absent: it is not a
+# privacy toggle but the switch that lets a sideloaded app use accessibility
+# services, notification access and install-unknown-apps at all.
+# Every other op is platform-internal (wake locks, audio focus, clipboard,
+# volume) where `deny` breaks the app rather than protecting you.
+MANAGED_APP_OPS="RUN_ANY_IN_BACKGROUND REQUEST_INSTALL_PACKAGES SYSTEM_ALERT_WINDOW WRITE_SETTINGS SCHEDULE_EXACT_ALARM GET_USAGE_STATS MANAGE_EXTERNAL_STORAGE"
 
 usage() {
   sed -n '2,/^#   scripts\/enforce\.sh -s <serial>/p' "$0" | sed 's/^# \{0,1\}//'
@@ -300,11 +318,18 @@ cfg_apps() {
   jq -r '.apps[]? // empty' "$CONFIG"
 }
 
-managed_apps() { # union of apps that have any per-app entry
+managed_apps() { # the apps to walk
+  # Globally managed: every declared app has to be visited, since the point is
+  # to take away what the config does not list.
+  if [[ "$(cfg_mode)" == "managed" ]]; then
+    cfg_apps
+    return 0
+  fi
   { jq -r '.permissions // {} | keys[]?' "$CONFIG"
     jq -r '.notifications // {} | keys[]?' "$CONFIG"
     jq -r '.appops // {} | keys[]?' "$CONFIG"
-    jq -r '.links // {} | keys[]?' "$CONFIG"; } | sort -u
+    jq -r '.links // {} | keys[]?' "$CONFIG"
+    jq -r '.appModes // {} | keys[]?' "$CONFIG"; } | sort -u
 }
 
 cfg_perms() { # $1 = app-id -> "perm action"
@@ -332,6 +357,19 @@ link_open() { # $1 = app-id -> true|false|null
 
 link_entries() { # $1 = app-id -> "domain allow|deny"
   jq -r --arg a "$1" '((.links // {})[$a].domains // {}) | to_entries[] | "\(.key) \(.value)"' "$CONFIG"
+}
+
+cfg_mode() { # global default: overrides | managed
+  jq -r '(.mode // "overrides")' "$CONFIG"
+}
+
+app_mode() { # $1 = app-id -> overrides | managed
+  local m
+  m="$(jq -r --arg a "$1" '(.appModes // {})[$a] // empty' "$CONFIG")"
+  if [[ -z "$m" ]]; then
+    m="$(cfg_mode)"
+  fi
+  printf '%s' "$m"
 }
 
 # --- actions ---------------------------------------------------------------
@@ -547,8 +585,63 @@ enforce_links() { # $1 = app-id
   done < <(link_entries "$1")
 }
 
+# --- managed mode: take away what the config does not list ----------------
+# Only grants are removed: a permission that is not currently held and an op
+# that is unset (i.e. at its platform default) are left alone.
+enforce_managed_perms() { # $1 = app-id
+  local allowed perm granted
+  allowed="$(cfg_perms "$1" | awk '$2 == "allow" { print $1 }')"
+  while read -r perm granted _rest; do
+    [[ -z "$perm" || "$granted" != "true" ]] && continue
+    # Notifications are `notifications.enabled`'s business: revoking
+    # POST_NOTIFICATIONS for every app without a notification entry would
+    # silently silence the phone.
+    [[ "$perm" == "android.permission.POST_NOTIFICATIONS" ]] && continue
+    grep -qxF "$perm" <<<"$allowed" && continue
+    apply_cmd "$1" "$perm" "deny (managed)" "pm revoke '$1' '$perm'"
+  done < <(live_runtime_perms "$1")
+}
+
+enforce_managed_appops() { # $1 = app-id
+  local listed op live dflt
+  listed="$(cfg_appops "$1" | awk '{ print $1 }')"
+  for op in $MANAGED_APP_OPS; do
+    grep -qxF "$op" <<<"$listed" && continue
+    live="$(live_appop "$1" "$op")"
+    dflt="$(appop_default "$1" "$op")"
+    [[ -z "$live" && -z "$dflt" ]] && continue
+    # An unset op already means the platform default; only explicit grants are
+    # ours to revoke.
+    case "$live" in
+      allow | foreground) ;;
+      *) continue ;;
+    esac
+    apply_cmd "$1" "appop $op" "deny (managed)" "appops set '$1' '$op' deny"
+  done
+}
+
+enforce_managed_links() { # $1 = app-id
+  local listed domain state
+  listed="$(link_entries "$1" | awk '{ print $1 }')"
+  while read -r domain state; do
+    [[ -z "$domain" || "$state" != "enabled" ]] && continue
+    grep -qxF "$domain" <<<"$listed" && continue
+    apply_cmd "$1" "link $domain" "deny (managed)" \
+      "pm set-app-links-user-selection --user 0 --package '$1' false '$domain'"
+  done < <(live_link_state "$1")
+}
+
 enforce_app() { # $1 = app-id
-  local perm action enabled dnd bubbles op mode
+  local perm action enabled dnd bubbles op opmode appmode
+  appmode="$(app_mode "$1")"
+  case "$appmode" in
+    overrides | managed) ;;
+    *)
+      log "!! unknown mode for $1: $appmode" >&2
+      FAILED=1
+      appmode=overrides
+      ;;
+  esac
   while read -r perm action; do
     [[ -z "$perm" ]] && continue
     enforce_perm "$1" "$perm" "$action"
@@ -583,18 +676,26 @@ enforce_app() { # $1 = app-id
       ;;
   esac
 
-  while read -r op mode; do
+  while read -r op opmode; do
     [[ -z "$op" ]] && continue
-    case "$mode" in
-      allow | deny | ignore | foreground | default) enforce_appop "$1" "$op" "$mode" ;;
+    case "$opmode" in
+      allow | deny | ignore | foreground | default) enforce_appop "$1" "$op" "$opmode" ;;
       *)
-        log "!! unknown appop mode for $1 $op: $mode" >&2
+        log "!! unknown appop mode for $1 $op: $opmode" >&2
         FAILED=1
         ;;
     esac
   done < <(cfg_appops "$1")
 
   enforce_links "$1"
+
+  # managed: whatever the config does not list is taken away, on top of the
+  # additions above.
+  if [[ "$appmode" == "managed" ]]; then
+    enforce_managed_perms "$1"
+    enforce_managed_appops "$1"
+    enforce_managed_links "$1"
+  fi
 }
 
 # --- dump: current state as Nix --------------------------------------------

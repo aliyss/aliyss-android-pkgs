@@ -56,6 +56,8 @@ let
     notifications = cfg.notifications;
     appops = cfg.appops;
     links = cfg.links;
+    mode = cfg.mode;
+    appModes = cfg.appModes;
   });
   appList = lib.concatStringsSep " " cfg.apps;
 in
@@ -188,6 +190,33 @@ in
         info shows as "Open by default"; `domains` picks which of the app verified
         domains open in it. Both are read back from the device, so they take part
         in `android-enforce --check` drift reporting.
+      '';
+    };
+    mode = lib.mkOption {
+      type = lib.types.enum [ "overrides" "managed" ];
+      default = "overrides";
+      description = ''
+        How the per-app state below is read.
+
+        - "overrides" (default): the config is additions only. An app with no
+          entry is untouched and an unlisted permission, app op or link domain
+          is never touched.
+        - "managed": the config is the whole intent for every declared app, so
+          anything granted but not listed is taken away. It only removes grants
+          (an app op that is unset stays at its platform default), it leaves
+          POST_NOTIFICATIONS to notifications.enabled so that a managed switch
+          does not silence every app without a notification entry, and of the
+          app ops only the toggles Android Settings exposes take part.
+      '';
+    };
+
+    appModes = lib.mkOption {
+      type = lib.types.attrsOf (lib.types.enum [ "overrides" "managed" ]);
+      default = { };
+      example = { "com.example.app" = "managed"; };
+      description = ''
+        Per-app override of `mode`, so managed can be rolled out one app at a
+        time — e.g. managed globally with a few apps left as overrides.
       '';
     };
   };

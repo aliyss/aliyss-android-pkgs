@@ -292,6 +292,48 @@ link domain an app does not declare is reported and fails the switch instead of
 silently doing nothing. Not implemented yet: notification channels.
 
 
+### Modes: overrides (default) and managed
+
+`mode` decides how the per-app state is read. The default, `overrides`, treats
+the config as additions only. `managed` treats it as the whole intent per app:
+whatever is granted but not listed is taken away. Per-app `appModes` overrides
+it, so managed can be rolled out one app at a time.
+
+```nix
+aliyss.androidPkgs = {
+  enable = true;
+  apps = [ "com.whatsapp" ];
+  mode = "managed";
+  appModes."com.whatsapp" = "overrides";   # keep this one additive
+
+  permissions."com.example.browser".ACCESS_FINE_LOCATION = "deny";
+  appops."com.example.browser".RUN_ANY_IN_BACKGROUND = "allow";
+  notifications."com.example.browser".enabled = true;
+};
+```
+
+Two carve-outs keep `managed` from being destructive by surprise:
+
+- **POST_NOTIFICATIONS is not part of it.** Notifications stay controlled by
+  `notifications.enabled`, so a managed switch does not silently silence every
+  app that has no notification entry.
+- **Only the app ops Android Settings exposes take part** (background activity,
+  install unknown apps, draw over other apps, modify system settings, exact
+  alarms, usage access, all-files access). The rest are platform-internal
+  behaviour flags — wake locks, audio focus, clipboard, volume — where `deny`
+  breaks the app rather than protecting you. `ACCESS_RESTRICTED_SETTINGS` is
+  excluded too: it is the switch that lets a sideloaded app use accessibility
+  and notification access at all, not a privacy toggle.
+
+`managed` only ever *removes grants*: a permission the app does not hold and an
+app op that is unset (i.e. still at its platform default) are left alone. Run
+`--dry-run` first — it prints exactly what would be taken away:
+
+```console
+$ android-enforce --config <config.json> --dry-run   # what managed would change
+$ android-enforce --config <config.json> --check     # drift report, exit 1
+```
+
 ## Development
 
 Tooling is declared in `pyproject.toml` (the single source of truth for
