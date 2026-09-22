@@ -8,6 +8,7 @@
 #   scripts/enforce.sh --config <config.json> --check      # drift report, exit 1
 #   scripts/enforce.sh --config <config.json> --dry-run    # print commands only
 #   scripts/enforce.sh --config <config.json> --dump       # current state as Nix
+#   scripts/enforce.sh --config <config.json> --dump --dump-appops   # + app ops
 #   scripts/enforce.sh --config <config.json> --only com.app
 #   scripts/enforce.sh -s <serial> --config <config.json>  # adb instead of on-device
 #
@@ -24,18 +25,32 @@
 #         "dnd": true,                        # exempt from Do Not Disturb
 #         "bubbles": "none"                   # none | all | selected
 #       }
+#     },
+#     "appops": {
+#       "com.app": { "RUN_ANY_IN_BACKGROUND": "allow" }
+#     },                                      # allow | deny | ignore | foreground | default
+#     "links": {
+#       "com.app": {
+#         "open": false,                      # open-by-default ("link handling allowed")
+#         "domains": { "wa.me": "allow" }     # allow | deny, per verified domain
+#       }
 #     }
 #   }
 #
 # Semantics: the config holds *overrides*, not a full desired state. An app with
-# no entry is untouched, an unlisted permission is never granted or revoked, and
+# no entry is untouched, an unlisted permission/op/domain is never touched, and
 # `listeners` is scoped to that app's own components. So dumping the current
 # state (`--dump`) and feeding it back is a no-op — exactly what you want when
 # the dotfiles mirror what the phone already does.
 #
-# Layers implemented: runtime permissions (`pm grant/revoke`) and notifications
-# (`enabled` via POST_NOTIFICATIONS, `listeners`, `dnd`, `bubbles`). Not yet:
-# appops, open-by-default links, notification channels (see next_steps_1.md).
+# Layers implemented:
+#   * runtime permissions  `permissions.<app>."<perm>"`      pm grant / pm revoke
+#   * notifications        `notifications.<app>.{enabled,listeners,dnd,bubbles}`
+#   * app ops              `appops.<app>.<OP>`               appops set
+#   * open-by-default      `links.<app>.open`                pm set-app-links-allowed
+#   * link domains         `links.<app>.domains.<domain>`    pm set-app-links-user-selection
+#
+# Not implemented: notification channels (no shell-encodable state).
 #
 # `dnd` and `bubbles` have no readable shell surface (the state lives in
 # `dumpsys notification`, which only exposes it per notification channel), so
@@ -53,9 +68,10 @@ CONFIG=""
 SERIAL="${ANDROID_SERIAL:-}"
 FAILED=0
 DRIFT=0
+DUMP_APP_OPS=0
 
 usage() {
-  sed -n '2,40p' "$0" | sed 's/^# \{0,1\}//'
+  sed -n '2,/^#   scripts\/enforce\.sh -s <serial>/p' "$0" | sed 's/^# \{0,1\}//'
 }
 
 while [[ $# -gt 0 ]]; do
@@ -74,6 +90,10 @@ while [[ $# -gt 0 ]]; do
       ;;
     --dump)
       MODE=dump
+      shift
+      ;;
+    --dump-appops)
+      DUMP_APP_OPS=1
       shift
       ;;
     --only)
@@ -213,6 +233,68 @@ app_listeners() { # $1 = app-id -> its enabled listener components
   live_listeners | tr ':' '\n' | grep -F "$1/" || true
 }
 
+# `appops get <app> <OP>` answers with "<OP>: <mode>" when the op is set and
+# "Default mode: <mode>" when it is not, so both are read here: an unset op is
+# equivalent to its default, and --check compares against that.
+live_appop() { # $1 = app-id, $2 = OP -> mode or (empty)
+  run_root "appops get '$1' '$2'" 2>/dev/null \
+    | sed -n "s/^\(Uid mode: \)\?$2: \(allow\|deny\|ignore\|foreground\|default\).*/\2/p" \
+    | head -1 || true
+}
+
+appop_default() { # $1 = app-id, $2 = OP -> the op's default mode or (empty)
+  run_root "appops get '$1' '$2'" 2>/dev/null \
+    | sed -n 's/^Default mode: \(allow\|deny\|ignore\|foreground\|default\)$/\1/p' \
+    | head -1 || true
+}
+
+# Every statically configured op (no runtime telemetry) minus the ops that only
+# mirror a runtime permission — those are the `permissions` block's job, and
+# appops reports them for every app based on its targetSdk.
+live_appop_modes() { # $1 = app-id -> "OP mode"
+  local perms
+  perms="$(live_runtime_perms "$1" | awk '{ print $1 }' | sed 's/.*\.//')"
+  run_root "appops get '$1'" 2>/dev/null | awk '
+    /^[A-Z0-9_]+: / {
+      if ($0 ~ /time=/) next          # touched at runtime, not configuration
+      op = $1; sub(/:$/, "", op)
+      mode = $2; sub(/;.*/, "", mode)
+      print op, mode
+    }' | while read -r op mode; do
+    local keep=1 p a b
+    a="$(printf '%s' "$op" | sed 's/S$//')"
+    for p in $perms; do
+      b="$(printf '%s' "$p" | sed 's/S$//')"
+      [[ "$a" == "$b" ]] && keep=0
+    done
+    [[ "$keep" == 1 ]] && printf '%s %s\n' "$op" "$mode"
+  done
+}
+
+live_link_allowed() { # $1 = app-id -> true|false|(empty)
+  run_root "pm get-app-links --user 0 '$1'" 2>/dev/null \
+    | sed -n 's/^ *Verification link handling allowed: \(true\|false\)$/\1/p' \
+    | head -1 || true
+}
+
+live_link_state() { # $1 = app-id -> "domain enabled|disabled"
+  run_root "pm get-app-links --user 0 '$1'" 2>/dev/null | awk -v app="$1" '
+    { gsub(/\r/, "") }
+    /^ *Selection state:/ { insel = 1; st = ""; next }
+    !insel { next }
+    /^ *Enabled:/ { st = "enabled"; next }
+    /^ *Disabled:/ { st = "disabled"; next }
+    /^ {10,}[A-Za-z0-9._-]+$/ { if (st != "") print $1, st; next }
+    /^ {0,8}[^ ]/ { insel = 0 }
+  '
+}
+
+declared_link_domains() { # $1 = app-id -> domains the app declares in its manifest
+  run_root "pm get-app-links --user 0 '$1'" 2>/dev/null \
+    | sed -n '/Domain verification state:/,/^ *User /p' \
+    | sed -n 's/^ *\([A-Za-z0-9._-]*\): .*/\1/p' || true
+}
+
 # --- config access ---------------------------------------------------------
 cfg_apps() {
   jq -r '.apps[]? // empty' "$CONFIG"
@@ -220,7 +302,9 @@ cfg_apps() {
 
 managed_apps() { # union of apps that have any per-app entry
   { jq -r '.permissions // {} | keys[]?' "$CONFIG"
-    jq -r '.notifications // {} | keys[]?' "$CONFIG"; } | sort -u
+    jq -r '.notifications // {} | keys[]?' "$CONFIG"
+    jq -r '.appops // {} | keys[]?' "$CONFIG"
+    jq -r '.links // {} | keys[]?' "$CONFIG"; } | sort -u
 }
 
 cfg_perms() { # $1 = app-id -> "perm action"
@@ -234,6 +318,20 @@ notif_field() { # $1 = app-id, $2 = field -> value or "null"
 
 notif_listeners() { # $1 = app-id -> desired components
   jq -r --arg a "$1" '((.notifications // {})[$a].listeners // [])[]' "$CONFIG"
+}
+
+cfg_appops() { # $1 = app-id -> "OP mode" (op names are validated: they reach sed)
+  jq -r --arg a "$1" \
+    '((.appops // {})[$a] // {}) | to_entries[] | select(.key | test("^[A-Z0-9_]+$")) | "\(.key) \(.value)"' \
+    "$CONFIG"
+}
+
+link_open() { # $1 = app-id -> true|false|null
+  jq -r --arg a "$1" '(.links // {})[$a].open | if . == null then "null" else tostring end' "$CONFIG"
+}
+
+link_entries() { # $1 = app-id -> "domain allow|deny"
+  jq -r --arg a "$1" '((.links // {})[$a].domains // {}) | to_entries[] | "\(.key) \(.value)"' "$CONFIG"
 }
 
 # --- actions ---------------------------------------------------------------
@@ -335,10 +433,6 @@ enforce_listeners() { # $1 = app-id
 }
 
 enforce_flag() { # $1 = app-id, $2 = field, $3 = value, $4 = command
-  case "$3" in
-    null) return 0 ;;
-    none | all | selected | true | false | *) ;;
-  esac
   if [[ "$MODE" == "check" ]]; then
     log "unverifiable: $1 $2=$3 (no readable state; applied on switch)"
     return 0
@@ -355,8 +449,106 @@ enforce_flag() { # $1 = app-id, $2 = field, $3 = value, $4 = command
   fi
 }
 
+apply_cmd() { # $1 = app-id, $2 = what changed, $3 = desired, $4 = command
+  if [[ "$MODE" == "check" ]]; then
+    log "drift: $1 $2 should be $3"
+    DRIFT=$((DRIFT + 1))
+    return 0
+  fi
+  if [[ "$MODE" == "dry-run" ]]; then
+    log "would: $4"
+    return 0
+  fi
+  if run_root "$4" >/dev/null 2>&1; then
+    log "applied: $1 $2=$3"
+  else
+    log "!! failed: $4" >&2
+    FAILED=1
+  fi
+}
+
+enforce_appop() { # $1 = app-id, $2 = OP, $3 = allow|deny|ignore|foreground|default
+  local live dflt
+  live="$(live_appop "$1" "$2")"
+  dflt="$(appop_default "$1" "$2")"
+  if [[ -z "$live" && -z "$dflt" ]]; then
+    log "skip: $1 app op $2 is unknown on this device"
+    return 0
+  fi
+  if [[ "$3" == "default" ]]; then
+    if [[ -z "$live" || "$live" == "default" ]]; then
+      log "ok: $1 appop $2=default"
+      return 0
+    fi
+  elif [[ "$live" == "$3" ]] || { [[ -z "$live" ]] && [[ "$dflt" == "$3" ]]; }; then
+    log "ok: $1 appop $2=$3"
+    return 0
+  fi
+  apply_cmd "$1" "appop $2" "$3" "appops set '$1' '$2' '$3'"
+}
+
+enforce_link_open() { # $1 = app-id, $2 = true|false
+  local live
+  live="$(live_link_allowed "$1")"
+  if [[ -z "$live" ]]; then
+    log "skip: $1 declares no app links"
+    return 0
+  fi
+  if [[ "$live" == "$2" ]]; then
+    log "ok: $1 link handling allowed=$2"
+    return 0
+  fi
+  apply_cmd "$1" "link handling" "$2" \
+    "pm set-app-links-allowed --user 0 --package '$1' '$2'"
+}
+
+enforce_link_domain() { # $1 = app-id, $2 = domain, $3 = allow|deny
+  local declared state want flag
+  declared="$(declared_link_domains "$1")"
+  if [[ -z "$declared" ]]; then
+    log "skip: $1 declares no app links"
+    return 0
+  fi
+  state="$(live_link_state "$1" | awk -v d="$2" '$1 == d { print $2; exit }')"
+  if [[ -z "$state" ]]; then
+    log "!! $1 does not declare the domain $2 (declares: $(printf '%s' "$declared" | tr '\n' ' '))" >&2
+    FAILED=1
+    return 0
+  fi
+  if [[ "$3" == "allow" ]]; then want=enabled flag=true; else want=disabled flag=false; fi
+  if [[ "$state" == "$want" ]]; then
+    log "ok: $1 link $2=$3"
+    return 0
+  fi
+  apply_cmd "$1" "link $2" "$3" \
+    "pm set-app-links-user-selection --user 0 --package '$1' '$flag' '$2'"
+}
+
+enforce_links() { # $1 = app-id
+  local open domain action
+  open="$(link_open "$1")"
+  case "$open" in
+    null) ;;
+    true | false) enforce_link_open "$1" "$open" ;;
+    *)
+      log "!! unknown links.open value for $1: $open" >&2
+      FAILED=1
+      ;;
+  esac
+  while read -r domain action; do
+    [[ -z "$domain" ]] && continue
+    case "$action" in
+      allow | deny) enforce_link_domain "$1" "$domain" "$action" ;;
+      *)
+        log "!! unknown link action for $1 $domain: $action" >&2
+        FAILED=1
+        ;;
+    esac
+  done < <(link_entries "$1")
+}
+
 enforce_app() { # $1 = app-id
-  local perm action enabled dnd bubbles
+  local perm action enabled dnd bubbles op mode
   while read -r perm action; do
     [[ -z "$perm" ]] && continue
     enforce_perm "$1" "$perm" "$action"
@@ -390,13 +582,27 @@ enforce_app() { # $1 = app-id
       FAILED=1
       ;;
   esac
+
+  while read -r op mode; do
+    [[ -z "$op" ]] && continue
+    case "$mode" in
+      allow | deny | ignore | foreground | default) enforce_appop "$1" "$op" "$mode" ;;
+      *)
+        log "!! unknown appop mode for $1 $op: $mode" >&2
+        FAILED=1
+        ;;
+    esac
+  done < <(cfg_appops "$1")
+
+  enforce_links "$1"
 }
 
 # --- dump: current state as Nix --------------------------------------------
 # Mirrors the *user's* choices (USER_SET) so it can be dropped into the dotfiles
 # and applied without changing anything.
 dump_nix() {
-  local app first
+  local app first perm granted enabled comp
+  local open domain state body line op mode
 
   log "{"
   log "  # Generated by \`android-enforce --dump\` — the declared apps' current"
@@ -428,7 +634,6 @@ dump_nix() {
   while IFS= read -r app; do
     [[ -z "$app" ]] && continue
     first=1
-    local enabled comp
     enabled="$(live_runtime_perms "$app" | awk '$1 == "android.permission.POST_NOTIFICATIONS" && $3 ~ /USER_SET/ { print $2; exit }')"
     if [[ -n "$enabled" ]]; then
       if [[ "$first" == 1 ]]; then
@@ -454,6 +659,59 @@ dump_nix() {
     fi
   done < <(cfg_apps)
   log "  };"
+
+  # Open-by-default links: only the user's choices. A domain listed under
+  # "Disabled" and link handling allowed is the device default, so it is not
+  # dumped; an *enabled* domain (or a disabled master switch) is.
+  first=1
+  while IFS= read -r app; do
+    [[ -z "$app" ]] && continue
+    body=""
+    if [[ "$(live_link_allowed "$app")" == "false" ]]; then
+      body+="      open = false;"$'\n'
+    fi
+    while read -r domain state; do
+      [[ -z "$domain" || "$state" != "enabled" ]] && continue
+      body+="      domains.\"$domain\" = \"allow\";"$'\n'
+    done < <(live_link_state "$app")
+    [[ -z "$body" ]] && continue
+    if [[ "$first" == 1 ]]; then
+      log "  links = {"
+      first=0
+    fi
+    log "    \"$app\" = {"
+    while IFS= read -r line; do
+      [[ -z "$line" ]] && continue
+      log "$line"
+    done <<<"$body"
+    log "    };"
+  done < <(cfg_apps)
+  if [[ "$first" == 0 ]]; then
+    log "  };"
+  fi
+
+  if [[ "$DUMP_APP_OPS" == 1 ]]; then
+    log "  # Opt-in via --dump-appops: app ops are noisy (appops reports targetSdk-"
+    log "  # derived modes too), so they are left out of a plain --dump."
+    log "  appops = {"
+    while IFS= read -r app; do
+      [[ -z "$app" ]] && continue
+      first=1
+      while read -r op mode; do
+        [[ -z "$op" ]] && continue
+        if [[ "$first" == 1 ]]; then
+          log "    \"$app\" = {"
+          first=0
+        fi
+        log "      $op = \"$mode\";"
+      done < <(live_appop_modes "$app")
+      if [[ "$first" == 0 ]]; then
+        log "    };"
+      fi
+    done < <(cfg_apps)
+    log "  };"
+  fi
+
   log "}"
 }
 
@@ -472,13 +730,18 @@ case "$MODE" in
       done < <(managed_apps)
     fi
     if [[ "$MODE" == "check" ]]; then
+      if [[ "$FAILED" != 0 ]]; then
+        log ""
+        log "!! config errors above (nothing drifted, but not everything could be checked)" >&2
+        exit 1
+      fi
       if [[ "$DRIFT" -gt 0 ]]; then
         log ""
         log "!! $DRIFT difference(s) between the config and the device"
         exit 1
       fi
       log ""
-      log "OK: declared permissions and notification access match the device"
+      log "OK: declared permissions, notifications, app ops and links match the device"
     fi
     if [[ "$FAILED" != 0 ]]; then
       exit 1

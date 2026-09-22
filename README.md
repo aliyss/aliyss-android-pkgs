@@ -226,7 +226,7 @@ aliyss.androidPkgs = {
   app-ids), which is what makes uninstall-on-removal work.
 
 
-### Declared app state (runtime permissions, notifications)
+### Declared app state (permissions, notifications, app ops, links)
 
 `android-install` only puts the APK on the device. The companion
 `android-enforce` (`packages.<system>.android-enforce`) makes the app *behave*
@@ -250,6 +250,17 @@ aliyss.androidPkgs = {
     dnd = true;                                   # exempt from Do Not Disturb
     bubbles = "none";
   };
+
+  # app ops: the toggles Android exposes outside runtime permissions
+  # (`appops set`); "default" resets the op to the platform mode
+  appops."com.whatsapp".RUN_ANY_IN_BACKGROUND = "deny";
+  appops."com.whatsapp".REQUEST_INSTALL_PACKAGES = "deny";
+
+  # app links / open by default
+  links."com.whatsapp" = {
+    open = false;                                 # the "Open by default" switch
+    domains."wa.me" = "allow";                    # per verified domain
+  };
 };
 ```
 
@@ -259,20 +270,26 @@ revoked. That makes it safe to mirror what the phone already does:
 
 ```console
 $ android-enforce --config <config.json> --dump   # current state, as Nix
+$ android-enforce --config <config.json> --dump --dump-appops  # + app ops
 $ android-enforce --config <config.json> --check  # drift report (exit 1)
 $ android-enforce --config <config.json>          # apply
 ```
 
 `--dump` prints only what *you* set (`USER_SET` in `dumpsys package`), so
 pasting it into the dotfiles and switching applies as a no-op until you change
-something.
+something. App ops are the exception: the platform reports targetSdk-derived
+modes for every app, so they are only dumped on request (`--dump-appops`).
 
 Implemented: runtime permissions, `notifications.enabled` (via
 `POST_NOTIFICATIONS`), `listeners` (`cmd notification allow_listener`),
-`dnd`/`bubbles` (`cmd notification allow_dnd` / `set_bubbles`). `dnd` and
-`bubbles` have no readable shell surface, so they are applied but reported as
-unverifiable by `--check`. Not implemented yet: appops, open-by-default links,
-notification channels (see `next_steps_1.md`).
+`dnd`/`bubbles` (`cmd notification allow_dnd` / `set_bubbles`), app ops
+(`appops set`) and app links (`pm set-app-links-allowed` /
+`pm set-app-links-user-selection`). Every layer except `dnd`/`bubbles` is read
+back from the device, so `--check` diffs it; `dnd` and `bubbles` have no
+readable shell surface (the state only exists per notification channel in
+`dumpsys notification`), so they are applied but reported as unverifiable. A
+link domain an app does not declare is reported and fails the switch instead of
+silently doing nothing. Not implemented yet: notification channels.
 
 
 ## Development

@@ -35,8 +35,9 @@
 #     hanging the switch;
 #   - apps that left the list are uninstalled (state tracked in
 #     ~/.local/state/aliyss-android-pkgs);
-#   - declared per-app state (runtime permissions + notification access) is
-#     enforced by android-enforce, after the installs;
+#   - declared per-app state (runtime permissions, notifications, app ops and
+#     open-by-default link handling) is enforced by android-enforce, after the
+#     installs;
 #   - a failed install/enforce fails the switch loudly; failed removals only
 #     warn.
 let
@@ -53,6 +54,8 @@ let
     apps = cfg.apps;
     permissions = cfg.permissions;
     notifications = cfg.notifications;
+    appops = cfg.appops;
+    links = cfg.links;
   });
   appList = lib.concatStringsSep " " cfg.apps;
 in
@@ -135,6 +138,56 @@ in
         notifications."com.whatsapp".enabled = false;. Fields left unset are
         untouched. `dnd` and `bubbles` are applied but cannot be read back, so
         they are not part of drift checks.
+      '';
+    };
+    appops = lib.mkOption {
+      type = lib.types.attrsOf (lib.types.attrsOf (lib.types.enum [ "allow" "deny" "ignore" "foreground" "default" ]));
+      default = { };
+      example = { "com.whatsapp" = { "RUN_ANY_IN_BACKGROUND" = "deny"; }; };
+      description = ''
+        App ops to enforce per app:
+        appops."<app-id>"."<OP>" = "allow" | "deny" | "ignore" | "foreground" | "default",
+        applied with `appops set` as root on every switch. `"default"` resets the
+        op to the platform mode.
+
+        Use this for the toggles Android exposes outside runtime permissions, e.g.
+        RUN_ANY_IN_BACKGROUND (background activity), REQUEST_INSTALL_PACKAGES
+        (install unknown apps), SYSTEM_ALERT_WINDOW (display over other apps),
+        WRITE_SETTINGS (modify system settings). Like `permissions`, an op that is
+        not listed is left alone.
+      '';
+    };
+
+    links = lib.mkOption {
+      type = lib.types.attrsOf (lib.types.submodule {
+        options = {
+          open = lib.mkOption {
+            type = lib.types.nullOr lib.types.bool;
+            default = null;
+            description = ''
+              Master open-by-default switch for the app (link handling allowed).
+              null leaves it alone.
+            '';
+          };
+          domains = lib.mkOption {
+            type = lib.types.attrsOf (lib.types.enum [ "allow" "deny" ]);
+            default = { };
+            example = { "wa.me" = "allow"; };
+            description = ''
+              Per-domain open-by-default state for the verified app links the app
+              declares (`pm set-app-links-user-selection`). A domain the app does
+              not declare is reported and fails the switch instead of silently
+              doing nothing.
+            '';
+          };
+        };
+      });
+      default = { };
+      description = ''
+        Android app-link (open by default) state per app. `open` is the switch app
+        info shows as "Open by default"; `domains` picks which of the app verified
+        domains open in it. Both are read back from the device, so they take part
+        in `android-enforce --check` drift reporting.
       '';
     };
   };
