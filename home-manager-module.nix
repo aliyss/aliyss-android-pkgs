@@ -60,6 +60,14 @@ let
     appModes = cfg.appModes;
   });
   appList = lib.concatStringsSep " " cfg.apps;
+  # What the enforcement pass is about to do. Under `managed` the enforcer also
+  # takes away grants the config does not list, so say so — and say what it
+  # deliberately leaves alone, so the carve-outs are visible rather than
+  # something to discover later.
+  enforceNotice =
+    "Enforcing declared app state (permissions, notifications, app ops, links)"
+    + lib.optionalString (cfg.mode == "managed")
+      " — managed: unlisted grants are taken away (platform-internal app ops and POST_NOTIFICATIONS excepted)";
 in
 {
   options.aliyss.androidPkgs = {
@@ -275,7 +283,7 @@ in
       lib.hm.dag.entryAfter [ "installAndroidPkgs" ] ''
         log() { printf '\n\033[1;34m== %s ==\033[0m\n' "$*"; }
 
-        log "Enforcing declared app state (permissions, notifications, app ops, links)"
+        log "${enforceNotice}"
         if ! ${enforceBin} --on-device --config ${enforceConfig}; then
           echo "!! android-enforce failed — fix the declaration and re-run update-home" >&2
           exit 1
