@@ -271,6 +271,7 @@ revoked. That makes it safe to mirror what the phone already does:
 ```console
 $ android-enforce --config <config.json> --dump   # current state, as Nix
 $ android-enforce --config <config.json> --dump --dump-appops  # + app ops
+$ android-enforce --config <config.json> --dump --dump-all     # the whole state
 $ android-enforce --config <config.json> --check  # drift report (exit 1)
 $ android-enforce --config <config.json>          # apply
 ```
@@ -279,6 +280,13 @@ $ android-enforce --config <config.json>          # apply
 pasting it into the dotfiles and switching applies as a no-op until you change
 something. App ops are the exception: the platform reports targetSdk-derived
 modes for every app, so they are only dumped on request (`--dump-appops`).
+
+`--dump-all` is the other fidelity: every runtime permission each app holds
+(not only the prompts you answered), notifications for every app, and the
+Settings-exposed app ops that are explicitly granted. Use it to mirror a device
+you are about to manage — applying that dump is a no-op, because it *is* the
+phone. With a USER_SET-only mirror, `managed` reads every grant the device made
+without a prompt as "not listed" and takes it away.
 
 Implemented: runtime permissions, `notifications.enabled` (via
 `POST_NOTIFICATIONS`), `listeners` (`cmd notification allow_listener`),
