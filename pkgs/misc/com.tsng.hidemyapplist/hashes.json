@@ -1,0 +1,9 @@
+{
+  "architectures": {
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-dLL/qyOIHYFnFsrx30Gi2Paafm0o2dHednykNq+VK8Y="
+    }
+  },
+  "version": "3.3"
+}
