@@ -862,6 +862,10 @@ dump_nix() {
     log "# domains you chose to open in the app."
   fi
   log "#"
+  log "# Every declared app is listed — one with nothing declared is an empty"
+  log "# block — so the file is the whole install list, not only the configured"
+  log "# part of it."
+  log "#"
   log "# Use it as:  apps = import ./android-app-state.nix;"
   log "{"
 
@@ -936,7 +940,12 @@ dump_nix() {
       body+="    links.domains.\"$domain\" = \"allow\";"$'\n'
     done < <(live_link_state "$app")
 
-    [[ -z "$body" ]] && continue
+    if [[ -z "$body" ]]; then
+      # Declared with nothing said about it: the app-id is the declaration, so
+      # it is still listed — dropping it here would uninstall the app.
+      log "  \"$app\" = { };"
+      continue
+    fi
     log "  \"$app\" = {"
     while IFS= read -r line; do
       [[ -z "$line" ]] && continue
