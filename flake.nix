@@ -126,7 +126,7 @@
 
       # Home-manager module for declarative Android app installs.
       # Import via `aliyss-android-pkgs.homeManagerModules.<system>.default`
-      # (with enable = true) and set `aliyss.androidPkgs.apps = [ ... ];`.
+      # (with enable = true) and set `aliyss.androidPkgs.apps = { "<app-id>" = { ... }; };`.
       homeManagerModules = forAllSystems (system: {
         default = import ./home-manager-module.nix;
       });
@@ -152,6 +152,19 @@
               ruff format --check scripts/ tests/
               mypy scripts/ tests/
               pytest -q tests/
+              touch $out
+            '';
+          # The config shapes android-enforce accepts (the canonical per-app
+          # layout and the older flat one) plus the curated-baseline merge. No
+          # device and no root: --print-effective only folds the config.
+          enforce-config =
+            pkgs.runCommand "android-enforce-config-test"
+              {
+                nativeBuildInputs = [ pkgs.bash pkgs.jq ];
+                ENFORCE = "${android-enforce system}/bin/android-enforce";
+              } ''
+              cp -r ${./tests} tests
+              bash tests/enforce_config_test.sh
               touch $out
             '';
         });

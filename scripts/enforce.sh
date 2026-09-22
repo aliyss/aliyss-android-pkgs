@@ -11,35 +11,45 @@
 #   scripts/enforce.sh --config <config.json> --dump --dump-all       # every grant
 #   scripts/enforce.sh --config <config.json> --recommended <index.json>  # + curated
 #   scripts/enforce.sh --config <config.json> --dump --dump-appops   # + app ops
+#   scripts/enforce.sh --config <config.json> --print-effective  # canonical config
 #   scripts/enforce.sh --config <config.json> --only com.app
 #   scripts/enforce.sh -s <serial> --config <config.json>  # adb instead of on-device
 #
 # Config shape (the home-manager module renders this from aliyss.androidPkgs):
+# one block per app, keyed by app-id — the key *is* the declaration, and the
+# block is everything declared about that app:
 #
-#   { "apps": ["com.app"],                    # the declared/managed app-ids
-#     "permissions": {
-#       "com.app": { "android.permission.CAMERA": "allow" }     # or "deny"
-#     },
-#     "notifications": {
+#   { "mode": "overrides",                    # overrides | managed | recommended
+#     "apps": {
 #       "com.app": {
-#         "enabled": false,                   # POST_NOTIFICATIONS granted/revoked
-#         "listeners": ["com.app/.Listener"], # notification-access components
-#         "dnd": true,                        # exempt from Do Not Disturb
-#         "bubbles": "none"                   # none | all | selected
-#       }
-#     },
-#     "appops": {
-#       "com.app": { "RUN_ANY_IN_BACKGROUND": "allow" }
-#     },                                      # allow | deny | ignore | foreground | default
-#     "links": {
-#       "com.app": {
-#         "open": false,                      # open-by-default ("link handling allowed")
-#         "domains": { "wa.me": "allow" }     # allow | deny, per verified domain
-#       }
-#     },
-#     "mode": "overrides",                    # or "managed" (deny-all-not-listed)
-#     "appModes": { "com.app": "managed" }    # per-app override of "mode"
+#         "mode": "managed",                  # optional per-app override
+#         "permissions": {
+#           "android.permission.CAMERA": "allow"                 # or "deny"
+#         },
+#         "notifications": {
+#           "enabled": false,                 # POST_NOTIFICATIONS granted/revoked
+#           "listeners": ["com.app/.Listener"],  # notification-access components
+#           "dnd": true,                      # exempt from Do Not Disturb
+#           "bubbles": "none"                 # none | all | selected
+#         },
+#         "appops": {
+#           "RUN_ANY_IN_BACKGROUND": "allow"
+#         },                                  # allow | deny | ignore | foreground | default
+#         "links": {
+#           "open": false,                    # open-by-default ("link handling allowed")
+#           "domains": { "wa.me": "allow" }   # allow | deny, per verified domain
+#         }
+#       },
+#       "com.other": {}                       # declared (installed), no state
+#     }
 #   }
+#
+# An app-id that is not a key is not declared: it is uninstalled, and nothing
+# about it is declared anywhere else, so an app never has to be removed from
+# several maps. The older flat layout (an `apps` array plus one map per kind —
+# `permissions`, `notifications`, `appops`, `links`, `appModes`) is still
+# accepted and folded into this form, so a config written before the change
+# keeps working unchanged.
 #
 # Semantics: the default mode (`overrides`) treats the config as additions — an
 # app with no entry is untouched and an unlisted permission/op/domain is never
@@ -57,16 +67,18 @@
 # note above. `recommended` is `managed` with the app's own curated block (a
 # `recommended.json` sidecar shipped in aliyss-android-pkgs, passed here as
 # `--recommended <index.json>`) as the baseline: the curated block first, this
-# config on top, and whatever is left unlisted taken away. An app with no
-# sidecar still works — it just falls back to this config plus the managed
-# default, and `--check` reports it as uncurated.
+# config on top, and whatever is left unlisted taken away. The index never
+# declares an app — it can only fill in state for an app the config declares —
+# so a curated app that is not installed stays uninstalled. An app with no
+# sidecar still works: it falls back to this config plus the managed default,
+# and `--check` reports it as uncurated.
 #
-# Layers implemented:
-#   * runtime permissions  `permissions.<app>."<perm>"`      pm grant / pm revoke
-#   * notifications        `notifications.<app>.{enabled,listeners,dnd,bubbles}`
-#   * app ops              `appops.<app>.<OP>`               appops set
-#   * open-by-default      `links.<app>.open`                pm set-app-links-allowed
-#   * link domains         `links.<app>.domains.<domain>`    pm set-app-links-user-selection
+# Layers implemented (all per-app, under `apps.<app-id>`):
+#   * runtime permissions  `permissions."<perm>"`      pm grant / pm revoke
+#   * notifications        `notifications.{enabled,listeners,dnd,bubbles}`
+#   * app ops              `appops.<OP>`               appops set
+#   * open-by-default      `links.open`                pm set-app-links-allowed
+#   * link domains         `links.domains.<domain>`    pm set-app-links-user-selection
 #
 # Not implemented: notification channels (no shell-encodable state).
 #
@@ -128,6 +140,10 @@ while [[ $# -gt 0 ]]; do
       DUMP_ALL=1
       shift
       ;;
+    --print-effective)
+      MODE=effective
+      shift
+      ;;
     --recommended)
       RECOMMENDED="$2"
       shift 2
@@ -169,57 +185,79 @@ if ! command -v jq >/dev/null 2>&1; then
   exit 2
 fi
 
-# recommended mode: the per-app curated block is the baseline and this config
-# goes on top of it. Only apps whose mode is actually `recommended` take the
-# sidecar into account — for the other modes it would be enforcement nobody
-# asked for. The result is written to a temp file and used as the config, so
-# every reader below works on the effective state.
-merge_recommended() { # $1 = config, $2 = recommended index -> effective config
-  jq -n --slurpfile cfg "$1" --slurpfile rec "$2" '
+# --- config ----------------------------------------------------------------
+# Fold every accepted shape into one canonical form, and (when an index is
+# given) the curated per-app blocks under this config. Everything below reads
+# the canonical form — `apps.<app-id>`, with the effective mode written per app
+# — so the shape is understood in one place instead of in every accessor.
+#
+#   * per-app (canonical: what the module renders and --dump writes)
+#   * flat (the older `apps` array + one map per kind; lifted into the bodies)
+#
+# `recommended` apps take their curated block as a baseline under this config.
+# Only apps whose effective mode is `recommended` are touched by the index, and
+# the index never declares an app: it can only fill in state for an app the
+# config declares.
+normalize_config() { # $1 = config, $2 = recommended index ("" for none)
+  local index="${2:-}"
+  jq -n --slurpfile cfg "$1" --slurpfile rec "${index:-/dev/null}" '
     ($cfg[0]) as $c
     | ($rec[0] // {}) as $r
-    | ($c.apps // []) as $apps
-    | def mode_of($a): ($c.appModes[$a] // $c.mode // "overrides");
+    | ($c.apps | type) as $ct
+    # The declared apps as one attrset of app-id -> body. The flat layout
+    # carried the ids in an array and the state in one map per kind; lift those
+    # maps into the bodies so there is a single place per app afterwards.
+    | (if $c.apps == null then {}
+       elif $ct == "array" then ($c.apps | map({ (.): {} }) | add // {})
+       else $c.apps end) as $declared
+    | (if $ct != "array" then $declared
+       else
+         reduce ($c | ["permissions", "notifications", "appops", "links"][]) as $l
+           ($declared;
+             reduce (($c[$l] // {}) | to_entries[]) as $e (.;
+               .[$e.key] = ((.[$e.key] // {}) + { ($l): $e.value })))
+       end) as $bodies
+    # Effective mode: the app own mode > the old appModes map > global.
+    | def mode_of($a): ($bodies[$a].mode // $c.appModes[$a] // $c.mode // "overrides");
+      # A null from the module means "not declared here", never "clear this":
+      # the field defaults in the option are null, so they must not overwrite a
+      # curated baseline.
+      def clean: with_entries(select(.value != null));
       def curated($a): (mode_of($a) == "recommended");
-      def rec($a): ($r[$a] // {});
-      def layer($a; $l):
-        if curated($a)
-        then ((rec($a)[$l] // {}) + ($c[$l][$a] // {}))
-        else ($c[$l][$a] // {}) end;
-      def linklayer($a):
-        if curated($a)
-        then {
-          open: (if $c.links[$a].open != null then $c.links[$a].open else rec($a).links.open end),
-          domains: ((rec($a).links.domains // {}) + ($c.links[$a].domains // {}))
-        }
-        else ($c.links[$a] // {}) end;
-      def ids($l):
-        (($apps + (($c[$l] // {}) | keys) + [$r | to_entries[] | select(.value[$l] != null) | .key]) | unique);
+      def curated_block($a): (if curated($a) then ($r[$a] // {}) else {} end);
+      def body($a):
+        ($bodies[$a]) as $b
+        | (curated_block($a)) as $cur
+        | {
+            mode: mode_of($a),
+            permissions: (($cur.permissions // {}) + ($b.permissions // {})),
+            appops: (($cur.appops // {}) + ($b.appops // {})),
+            notifications:
+              ((($cur.notifications // {}) + (($b.notifications // {}) | clean)) | clean),
+            links: {
+              open: (if $b.links.open != null then $b.links.open else $cur.links.open end),
+              domains: (($cur.links.domains // {}) + ($b.links.domains // {}))
+            }
+          };
       {
-        apps: $apps,
         mode: ($c.mode // "overrides"),
-        appModes: ($c.appModes // {}),
-        permissions: (reduce ids("permissions")[] as $a ({}; . + { ($a): layer($a; "permissions") }) | with_entries(select(.value != {}))),
-        notifications: (reduce ids("notifications")[] as $a ({}; . + { ($a): layer($a; "notifications") }) | with_entries(select(.value != {}))),
-        appops: (reduce ids("appops")[] as $a ({}; . + { ($a): layer($a; "appops") }) | with_entries(select(.value != {}))),
-        links: (reduce ids("links")[] as $a ({}; . + { ($a): linklayer($a) }) | with_entries(select(.value != {})))
+        apps: (reduce ($bodies | keys[]) as $a ({}; . + { ($a): body($a) }))
       }
   '
 }
 
-# `recommended` mode reads the curated per-app blocks the packages ship. Fold
-# them under this config once, then treat the result as the config.
-
-if [[ -n "$RECOMMENDED" ]]; then
-  if [[ ! -r "$RECOMMENDED" ]]; then
-    echo "error: cannot read the recommended index: $RECOMMENDED" >&2
-    exit 2
-  fi
-  EFFECTIVE="$(mktemp "${TMPDIR:-/tmp}/android-enforce-effective.XXXXXX")"
-  trap 'rm -f "$EFFECTIVE"' EXIT
-  merge_recommended "$CONFIG" "$RECOMMENDED" >"$EFFECTIVE"
-  CONFIG="$EFFECTIVE"
+# The canonical config every reader below uses, written once to a temp file.
+if [[ -n "$RECOMMENDED" && ! -r "$RECOMMENDED" ]]; then
+  echo "error: cannot read the recommended index: $RECOMMENDED" >&2
+  exit 2
 fi
+EFFECTIVE="$(mktemp "${TMPDIR:-/tmp}/android-enforce-effective.XXXXXX")"
+trap 'rm -f "$EFFECTIVE"' EXIT
+if ! normalize_config "$CONFIG" "$RECOMMENDED" >"$EFFECTIVE"; then
+  echo "error: could not read the config: $CONFIG" >&2
+  exit 2
+fi
+CONFIG="$EFFECTIVE"
 
 # --- transport -------------------------------------------------------------
 # adb mode for a desktop/another device; on-device mode runs `su -c` directly.
@@ -263,7 +301,8 @@ EOF
 
 SU="$(command -v su 2>/dev/null || true)"
 SU_OK=0
-if [[ ${#ADB[@]} -eq 0 ]]; then
+# --print-effective only reads the config, so it must work without root.
+if [[ "$MODE" != "effective" && ${#ADB[@]} -eq 0 ]]; then
   [[ -n "$SU" ]] && su_elevates "$SU" && SU_OK=1
   if [[ "$SU_OK" == 0 ]]; then
     for candidate in /system/bin/su /system/xbin/su /sbin/su; do
@@ -400,8 +439,10 @@ declared_link_domains() { # $1 = app-id -> domains the app declares in its manif
 }
 
 # --- config access ---------------------------------------------------------
-cfg_apps() {
-  jq -r '.apps[]? // empty' "$CONFIG"
+# One app-id is one declaration: the key says the app is declared, and its body
+# holds everything declared about it.
+cfg_apps() { # the declared app-ids
+  jq -r '.apps | keys[]' "$CONFIG"
 }
 
 managed_apps() { # the apps to walk
@@ -411,38 +452,44 @@ managed_apps() { # the apps to walk
     cfg_apps
     return 0
   fi
-  { jq -r '.permissions // {} | keys[]?' "$CONFIG"
-    jq -r '.notifications // {} | keys[]?' "$CONFIG"
-    jq -r '.appops // {} | keys[]?' "$CONFIG"
-    jq -r '.links // {} | keys[]?' "$CONFIG"
-    jq -r '.appModes // {} | keys[]?' "$CONFIG"; } | sort -u
+  # Otherwise only the apps that say something: state to apply, or a mode of
+  # their own (which is what makes a per-app managed/deny-all entry work).
+  jq -r --arg m "$(cfg_mode)" '
+    .apps | to_entries[]
+    | select(.value.mode != $m
+             or ((.value.permissions // {}) | length) > 0
+             or ((.value.appops // {}) | length) > 0
+             or ((.value.notifications // {}) | length) > 0
+             or ((.value.links.domains // {}) | length) > 0
+             or (.value.links.open != null))
+    | .key' "$CONFIG"
 }
 
 cfg_perms() { # $1 = app-id -> "perm action"
-  jq -r --arg a "$1" '(.permissions // {})[$a] // {} | to_entries[] | "\(.key) \(.value)"' "$CONFIG"
+  jq -r --arg a "$1" '(.apps[$a].permissions // {}) | to_entries[] | "\(.key) \(.value)"' "$CONFIG"
 }
 
 notif_field() { # $1 = app-id, $2 = field -> value or "null"
   jq -r --arg a "$1" --arg f "$2" \
-    '(.notifications // {})[$a][$f] | if . == null then "null" else tostring end' "$CONFIG"
+    '(.apps[$a].notifications // {})[$f] | if . == null then "null" else tostring end' "$CONFIG"
 }
 
 notif_listeners() { # $1 = app-id -> desired components
-  jq -r --arg a "$1" '((.notifications // {})[$a].listeners // [])[]' "$CONFIG"
+  jq -r --arg a "$1" '((.apps[$a].notifications // {}).listeners // [])[]' "$CONFIG"
 }
 
 cfg_appops() { # $1 = app-id -> "OP mode" (op names are validated: they reach sed)
   jq -r --arg a "$1" \
-    '((.appops // {})[$a] // {}) | to_entries[] | select(.key | test("^[A-Z0-9_]+$")) | "\(.key) \(.value)"' \
+    '(.apps[$a].appops // {}) | to_entries[] | select(.key | test("^[A-Z0-9_]+$")) | "\(.key) \(.value)"' \
     "$CONFIG"
 }
 
 link_open() { # $1 = app-id -> true|false|null
-  jq -r --arg a "$1" '(.links // {})[$a].open | if . == null then "null" else tostring end' "$CONFIG"
+  jq -r --arg a "$1" '(.apps[$a].links // {}).open | if . == null then "null" else tostring end' "$CONFIG"
 }
 
 link_entries() { # $1 = app-id -> "domain allow|deny"
-  jq -r --arg a "$1" '((.links // {})[$a].domains // {}) | to_entries[] | "\(.key) \(.value)"' "$CONFIG"
+  jq -r --arg a "$1" '((.apps[$a].links // {}).domains // {}) | to_entries[] | "\(.key) \(.value)"' "$CONFIG"
 }
 
 managed_like() { # $1 = mode -> is it the deny-all-not-listed posture?
@@ -453,14 +500,8 @@ cfg_mode() { # global default: overrides | managed | recommended
   jq -r '(.mode // "overrides")' "$CONFIG"
 }
 
-
-app_mode() { # $1 = app-id -> overrides | managed
-  local m
-  m="$(jq -r --arg a "$1" '(.appModes // {})[$a] // empty' "$CONFIG")"
-  if [[ -z "$m" ]]; then
-    m="$(cfg_mode)"
-  fi
-  printf '%s' "$m"
+app_mode() { # $1 = app-id -> overrides | managed | recommended
+  jq -r --arg a "$1" '(.apps[$a].mode // "overrides")' "$CONFIG"
 }
 
 # --- actions ---------------------------------------------------------------
@@ -510,7 +551,7 @@ enforce_perm() { # $1 = app-id, $2 = permission, $3 = action (allow|deny)
 
 enforce_listeners() { # $1 = app-id
   local has
-  has="$(jq -r --arg a "$1" '((.notifications // {})[$a] // {}) | has("listeners")' "$CONFIG")"
+  has="$(jq -r --arg a "$1" '(.apps[$a].notifications // {}) | has("listeners")' "$CONFIG")"
   if [[ "$has" != "true" ]]; then
     # No listeners declared for this app: leave its notification access
     # alone (an empty default must not switch anything off).
@@ -801,26 +842,34 @@ enforce_app() { # $1 = app-id
 
 # --- dump: current state as Nix --------------------------------------------
 # Mirrors the *user's* choices (USER_SET) so it can be dropped into the dotfiles
-# and applied without changing anything.
+# and applied without changing anything. One block per app, matching the module's
+# `apps` option, so the file is the whole declaration of the phone's apps rather
+# than one slice of it:
+#
+#   apps = import ./android-app-state.nix;
 dump_nix() {
-  local app first perm granted enabled comp perms
-  local open domain state body line op mode
+  local app body perms perm granted enabled comp op mode open domain state line
+  local listeners
 
-  log "{"
   if [[ "$DUMP_ALL" == 1 ]]; then
-    log "  # Generated by \`android-enforce --dump --dump-all\` — the declared apps'"
-    log "  # full current state: every runtime permission they hold, notification"
-    log "  # access, the app ops that are explicitly granted and the link domains"
-    log "  # that open in the app. Applying it is a no-op; it *is* the phone."
+    log "# Generated by \`android-enforce --dump --dump-all\` — the declared apps'"
+    log "# full current state: every runtime permission they hold, notification"
+    log "# access, the app ops that are explicitly granted and the link domains"
+    log "# that open in the app. Applying it is a no-op; it *is* the phone."
   else
-    log "  # Generated by \`android-enforce --dump\` — the declared apps' current"
-    log "  # runtime permissions (the ones you set), notification access and the link"
-    log "  # domains you chose to open in the app."
+    log "# Generated by \`android-enforce --dump\` — the declared apps' current"
+    log "# runtime permissions (the ones you set), notification access and the link"
+    log "# domains you chose to open in the app."
   fi
-  log "  permissions = {"
+  log "#"
+  log "# Use it as:  apps = import ./android-app-state.nix;"
+  log "{"
+
   while IFS= read -r app; do
     [[ -z "$app" ]] && continue
-    first=1
+    body=""
+
+    # Runtime permissions (POST_NOTIFICATIONS is declared under notifications).
     if [[ "$DUMP_ALL" == 1 ]]; then
       # Every permission the app holds right now, not only the ones you answered
       # a prompt for — that is what makes this file a description of the phone
@@ -832,99 +881,38 @@ dump_nix() {
     while read -r perm granted; do
       [[ -z "$perm" ]] && continue
       [[ "$perm" == "android.permission.POST_NOTIFICATIONS" ]] && continue
-      if [[ "$first" == 1 ]]; then
-        log "    \"$app\" = {"
-        first=0
-      fi
       if [[ "$granted" == "true" ]]; then
-        log "      \"$perm\" = \"allow\";"
+        body+="    permissions.\"$perm\" = \"allow\";"$'\n'
       else
-        log "      \"$perm\" = \"deny\";"
+        body+="    permissions.\"$perm\" = \"deny\";"$'\n'
       fi
     done <<<"$perms"
-    if [[ "$first" == 0 ]]; then
-      log "    };"
-    fi
-  done < <(cfg_apps)
 
-  log "  };"
-  log "  notifications = {"
-  while IFS= read -r app; do
-    [[ -z "$app" ]] && continue
-    first=1
+    # Notifications: POST_NOTIFICATIONS, plus the notification-access components
+    # this app currently has enabled (one list, not one line per component).
     if [[ "$DUMP_ALL" == 1 ]]; then
       enabled="$(live_runtime_perms "$app" | awk '$1 == "android.permission.POST_NOTIFICATIONS" { print $2; exit }')"
     else
       enabled="$(live_runtime_perms "$app" | awk '$1 == "android.permission.POST_NOTIFICATIONS" && $3 ~ /USER_SET/ { print $2; exit }')"
     fi
     if [[ -n "$enabled" ]]; then
-      if [[ "$first" == 1 ]]; then
-        log "    \"$app\" = {"
-        first=0
-      fi
-      if [[ "$enabled" == "true" ]]; then
-        log "      enabled = true;"
-      else
-        log "      enabled = false;"
-      fi
+      body+="    notifications.enabled = $enabled;"$'\n'
     fi
+    listeners=""
     while IFS= read -r comp; do
       [[ -z "$comp" ]] && continue
-      if [[ "$first" == 1 ]]; then
-        log "    \"$app\" = {"
-        first=0
-      fi
-      log "      listeners = [ \"$comp\" ];"
+      listeners+=" \"$comp\""
     done < <(app_listeners "$app")
-    if [[ "$first" == 0 ]]; then
-      log "    };"
+    if [[ -n "$listeners" ]]; then
+      body+="    notifications.listeners = [$listeners ];"$'\n'
     fi
-  done < <(cfg_apps)
-  log "  };"
 
-  # Open-by-default links: only the user's choices. A domain listed under
-  # "Disabled" and link handling allowed is the device default, so it is not
-  # dumped; an *enabled* domain (or a disabled master switch) is.
-  first=1
-  while IFS= read -r app; do
-    [[ -z "$app" ]] && continue
-    body=""
-    if [[ "$(live_link_allowed "$app")" == "false" ]]; then
-      body+="      open = false;"$'\n'
-    fi
-    while read -r domain state; do
-      [[ -z "$domain" || "$state" != "enabled" ]] && continue
-      body+="      domains.\"$domain\" = \"allow\";"$'\n'
-    done < <(live_link_state "$app")
-    [[ -z "$body" ]] && continue
-    if [[ "$first" == 1 ]]; then
-      log "  links = {"
-      first=0
-    fi
-    log "    \"$app\" = {"
-    while IFS= read -r line; do
-      [[ -z "$line" ]] && continue
-      log "$line"
-    done <<<"$body"
-    log "    };"
-  done < <(cfg_apps)
-  if [[ "$first" == 0 ]]; then
-    log "  };"
-  fi
-
-  if [[ "$DUMP_APP_OPS" == 1 || "$DUMP_ALL" == 1 ]]; then
-    if [[ "$DUMP_ALL" == 1 ]]; then
-      log "  # The app ops Settings exposes that are explicitly granted right now."
-      log "  # Platform-internal ops are never dumped: android-enforce does not"
-      log "  # manage them either."
-    else
-      log "  # Opt-in via --dump-appops: app ops are noisy (appops reports targetSdk-"
-      log "  # derived modes too), so they are left out of a plain --dump."
-    fi
-    log "  appops = {"
-    while IFS= read -r app; do
-      [[ -z "$app" ]] && continue
-      first=1
+    # App ops. `--dump-all` keeps the ones Settings exposes that are granted
+    # right now; platform-internal ops are never dumped, because
+    # android-enforce does not manage them either. A plain --dump only includes
+    # them when asked with --dump-appops (appops reports targetSdk-derived modes
+    # for every app, which would drown the mirror).
+    if [[ "$DUMP_APP_OPS" == 1 || "$DUMP_ALL" == 1 ]]; then
       while read -r op mode; do
         [[ -z "$op" ]] && continue
         if [[ "$DUMP_ALL" == 1 ]]; then
@@ -933,24 +921,39 @@ dump_nix() {
             *) continue ;;
           esac
         fi
-        if [[ "$first" == 1 ]]; then
-          log "    \"$app\" = {"
-          first=0
-        fi
-        log "      $op = \"$mode\";"
+        body+="    appops.$op = \"$mode\";"$'\n'
       done < <(if [[ "$DUMP_ALL" == 1 ]]; then live_appop_curated "$app"; else live_appop_modes "$app"; fi)
-      if [[ "$first" == 0 ]]; then
-        log "    };"
-      fi
-    done < <(cfg_apps)
+    fi
+
+    # Open-by-default links: only the user's choices. A domain listed under
+    # "Disabled" and link handling allowed is the device default, so it is not
+    # dumped; an *enabled* domain (or a disabled master switch) is.
+    if [[ "$(live_link_allowed "$app")" == "false" ]]; then
+      body+="    links.open = false;"$'\n'
+    fi
+    while read -r domain state; do
+      [[ -z "$domain" || "$state" != "enabled" ]] && continue
+      body+="    links.domains.\"$domain\" = \"allow\";"$'\n'
+    done < <(live_link_state "$app")
+
+    [[ -z "$body" ]] && continue
+    log "  \"$app\" = {"
+    while IFS= read -r line; do
+      [[ -z "$line" ]] && continue
+      log "$line"
+    done <<<"$body"
     log "  };"
-  fi
+  done < <(cfg_apps)
 
   log "}"
 }
 
 # --- main ------------------------------------------------------------------
 case "$MODE" in
+
+  effective)
+    jq '.' "$CONFIG"
+    ;;
   dump)
     dump_nix
     ;;

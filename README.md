@@ -195,7 +195,7 @@ of hanging. App-ids are accepted dotted or dashed; `-u` accepts either too.
 
 The flake also ships a home-manager module
 (`homeManagerModules.<system>.default`) that installs the declared apps on
-every switch and uninstalls the ones that left the list, so consumers need no
+every switch and uninstalls the ones that left the set, so consumers need no
 activation script of their own:
 
 ```nix
@@ -207,13 +207,23 @@ home-manager.sharedModules = [
   inputs.aliyss-android-pkgs.homeManagerModules.${system}.default
 ];
 
-# then just declare the apps
+# then declare the apps: the app-id is the key, and what is declared about an
+# app goes in its own block
 aliyss.androidPkgs = {
   enable = true;
-  apps = [ "com.darkempire78.opencalculator" ];
+  apps = {
+    "com.darkempire78.opencalculator" = { };
+    "com.whatsapp".notifications.enabled = true;
+  };
 };
 ```
 
+- `apps` is one place per app: the app-id is the key — an app-id that is not a
+  key is not installed, and one that leaves the set is uninstalled — and its
+  block holds everything declared about it (`permissions`, `notifications`,
+  `appops`, `links`, and an optional per-app `mode`). Nothing exists in a second
+  map, so an app leaving the phone is one deletion. A plain list of app-ids is
+  accepted too, for hosts that want the installs and no state.
 - `enable` defaults to `false`, so importing the module in a shared module list
   is harmless on hosts that install nothing.
 - `flakePath` (default `~/.config/flake`) is the flake the installer builds app
@@ -225,55 +235,78 @@ aliyss.androidPkgs = {
 - State lives in `~/.local/state/aliyss-android-pkgs` (the previously installed
   app-ids), which is what makes uninstall-on-removal work.
 
-
 ### Declared app state (permissions, notifications, app ops, links)
 
 `android-install` only puts the APK on the device. The companion
 `android-enforce` (`packages.<system>.android-enforce`) makes the app *behave*
-the way the config says, on every switch:
+the way the config says, on every switch — all of it inside the app's block:
 
 ```nix
 aliyss.androidPkgs = {
   enable = true;
-  apps = [ "com.whatsapp" ];
+  apps."com.whatsapp" = {
+    # runtime permissions (pm grant / pm revoke)
+    permissions = {
+      "android.permission.CAMERA" = "deny";
+      "android.permission.ACCESS_FINE_LOCATION" = "allow";
+    };
 
-  # runtime permissions (pm grant / pm revoke)
-  permissions."com.whatsapp" = {
-    "android.permission.CAMERA" = "deny";
-    "android.permission.ACCESS_FINE_LOCATION" = "allow";
-  };
+    # notification behaviour
+    notifications = {
+      enabled = false;                            # POST_NOTIFICATIONS
+      listeners = [ "com.whatsapp/.NotificationListener" ];
+      dnd = true;                                 # exempt from Do Not Disturb
+      bubbles = "none";
+    };
 
-  # notification behaviour
-  notifications."com.whatsapp" = {
-    enabled = false;                              # POST_NOTIFICATIONS
-    listeners = [ "com.whatsapp/.NotificationListener" ];
-    dnd = true;                                   # exempt from Do Not Disturb
-    bubbles = "none";
-  };
+    # app ops: the toggles Android exposes outside runtime permissions
+    # (`appops set`); "default" resets the op to the platform mode
+    appops = {
+      RUN_ANY_IN_BACKGROUND = "deny";
+      REQUEST_INSTALL_PACKAGES = "deny";
+    };
 
-  # app ops: the toggles Android exposes outside runtime permissions
-  # (`appops set`); "default" resets the op to the platform mode
-  appops."com.whatsapp".RUN_ANY_IN_BACKGROUND = "deny";
-  appops."com.whatsapp".REQUEST_INSTALL_PACKAGES = "deny";
-
-  # app links / open by default
-  links."com.whatsapp" = {
-    open = false;                                 # the "Open by default" switch
-    domains."wa.me" = "allow";                    # per verified domain
+    # app links / open by default
+    links = {
+      open = false;                               # the "Open by default" switch
+      domains."wa.me" = "allow";                  # per verified domain
+    };
   };
 };
 ```
 
-The config is a set of **overrides**, not a full desired state: an app with no
-entry is untouched, and a permission that is not listed is never granted or
-revoked. That makes it safe to mirror what the phone already does:
+The config is a set of **overrides**, not a full desired state: an app with an
+empty block is untouched, and a permission that is not listed is never granted
+or revoked. That makes it safe to mirror what the phone already does:
 
 ```console
 $ android-enforce --config <config.json> --dump   # current state, as Nix
 $ android-enforce --config <config.json> --dump --dump-appops  # + app ops
 $ android-enforce --config <config.json> --dump --dump-all     # the whole state
 $ android-enforce --config <config.json> --check  # drift report (exit 1)
+$ android-enforce --config <config.json> --print-effective  # the config it reads
 $ android-enforce --config <config.json>          # apply
+```
+
+`--dump` writes the same shape the module takes — one block per app, keyed by
+app-id — so the mirror *is* the `apps` declaration:
+
+```nix
+# generated by `android-enforce --dump-all`
+{
+  "com.discord" = {
+    permissions."android.permission.READ_MEDIA_VISUAL_USER_SELECTED" = "allow";
+    notifications.enabled = false;
+    appops.RUN_ANY_IN_BACKGROUND = "allow";
+    links.open = false;
+  };
+  "com.github.android".links.domains."github.com" = "allow";
+}
+```
+
+```nix
+# and then, on the phone host
+aliyss.androidPkgs.apps = import ./android-app-state.nix;
 ```
 
 `--dump` prints only what *you* set (`USER_SET` in `dumpsys package`), so
@@ -299,24 +332,30 @@ readable shell surface (the state only exists per notification channel in
 link domain an app does not declare is reported and fails the switch instead of
 silently doing nothing. Not implemented yet: notification channels.
 
-
 ### Modes: overrides (default) and managed
 
 `mode` decides how the per-app state is read. The default, `overrides`, treats
 the config as additions only. `managed` treats it as the whole intent per app:
-whatever is granted but not listed is taken away. Per-app `appModes` overrides
-it, so managed can be rolled out one app at a time.
+whatever is granted but not listed is taken away. An app's own `mode` overrides
+the global one, so managed can be rolled out one app at a time:
 
 ```nix
 aliyss.androidPkgs = {
   enable = true;
-  apps = [ "com.whatsapp" ];
   mode = "managed";
-  appModes."com.whatsapp" = "overrides";   # keep this one additive
 
-  permissions."com.example.browser".ACCESS_FINE_LOCATION = "deny";
-  appops."com.example.browser".RUN_ANY_IN_BACKGROUND = "allow";
-  notifications."com.example.browser".enabled = true;
+  apps = {
+    # this one takes its curated block as the baseline
+    "com.darkempire78.opencalculator".mode = "recommended";
+
+    "com.whatsapp" = {
+      mode = "overrides";                   # keep this one additive
+      notifications.enabled = true;
+      appops.RUN_ANY_IN_BACKGROUND = "allow";
+    };
+
+    "com.example.browser".permissions."android.permission.ACCESS_FINE_LOCATION" = "deny";
+  };
 };
 ```
 
@@ -359,7 +398,7 @@ $ android-enforce --config <config.json> --check     # drift report, exit 1
 
 Every key is optional — only what you list is an opinion. Precedence, per app:
 
-1. the consumer's config (`permissions` / `appops` / `notifications` / `links`),
+1. the consumer's config (the app's block: `permissions` / `appops` /
 2. then the app's `recommended.json`,
 3. then the mode's default: `recommended` (like `managed`) takes away whatever
    is left unlisted; `overrides` leaves it alone.
