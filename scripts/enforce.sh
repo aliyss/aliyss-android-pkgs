@@ -9,6 +9,7 @@
 #   scripts/enforce.sh --config <config.json> --dry-run    # print commands only
 #   scripts/enforce.sh --config <config.json> --dump       # current state as Nix
 #   scripts/enforce.sh --config <config.json> --dump --dump-all       # every grant
+#   scripts/enforce.sh --config <config.json> --recommended <index.json>  # + curated
 #   scripts/enforce.sh --config <config.json> --dump --dump-appops   # + app ops
 #   scripts/enforce.sh --config <config.json> --only com.app
 #   scripts/enforce.sh -s <serial> --config <config.json>  # adb instead of on-device
@@ -52,7 +53,13 @@
 # over other apps, ...) take part; the rest are platform-internal behaviour
 # flags where `deny` would break the app rather than protect you.
 #
-# Modes: `overrides` (default) and `managed`; see the semantics note above.
+# Modes: `overrides` (default), `managed` and `recommended`; see the semantics
+# note above. `recommended` is `managed` with the app's own curated block (a
+# `recommended.json` sidecar shipped in aliyss-android-pkgs, passed here as
+# `--recommended <index.json>`) as the baseline: the curated block first, this
+# config on top, and whatever is left unlisted taken away. An app with no
+# sidecar still works — it just falls back to this config plus the managed
+# default, and `--check` reports it as uncurated.
 #
 # Layers implemented:
 #   * runtime permissions  `permissions.<app>."<perm>"`      pm grant / pm revoke
@@ -81,6 +88,7 @@ FAILED=0
 DRIFT=0
 DUMP_APP_OPS=0
 DUMP_ALL=0
+RECOMMENDED=""
 
 # The app ops Settings exposes as toggles. `managed` revokes these when they are
 # not listed. ACCESS_RESTRICTED_SETTINGS is deliberately absent: it is not a
@@ -120,6 +128,10 @@ while [[ $# -gt 0 ]]; do
       DUMP_ALL=1
       shift
       ;;
+    --recommended)
+      RECOMMENDED="$2"
+      shift 2
+      ;;
     --only)
       ONLY="$2"
       shift 2
@@ -155,6 +167,58 @@ fi
 if ! command -v jq >/dev/null 2>&1; then
   echo "error: jq is required (the android-enforce package bundles it)" >&2
   exit 2
+fi
+
+# recommended mode: the per-app curated block is the baseline and this config
+# goes on top of it. Only apps whose mode is actually `recommended` take the
+# sidecar into account — for the other modes it would be enforcement nobody
+# asked for. The result is written to a temp file and used as the config, so
+# every reader below works on the effective state.
+merge_recommended() { # $1 = config, $2 = recommended index -> effective config
+  jq -n --slurpfile cfg "$1" --slurpfile rec "$2" '
+    ($cfg[0]) as $c
+    | ($rec[0] // {}) as $r
+    | ($c.apps // []) as $apps
+    | def mode_of($a): ($c.appModes[$a] // $c.mode // "overrides");
+      def curated($a): (mode_of($a) == "recommended");
+      def rec($a): ($r[$a] // {});
+      def layer($a; $l):
+        if curated($a)
+        then ((rec($a)[$l] // {}) + ($c[$l][$a] // {}))
+        else ($c[$l][$a] // {}) end;
+      def linklayer($a):
+        if curated($a)
+        then {
+          open: (if $c.links[$a].open != null then $c.links[$a].open else rec($a).links.open end),
+          domains: ((rec($a).links.domains // {}) + ($c.links[$a].domains // {}))
+        }
+        else ($c.links[$a] // {}) end;
+      def ids($l):
+        (($apps + (($c[$l] // {}) | keys) + [$r | to_entries[] | select(.value[$l] != null) | .key]) | unique);
+      {
+        apps: $apps,
+        mode: ($c.mode // "overrides"),
+        appModes: ($c.appModes // {}),
+        permissions: (reduce ids("permissions")[] as $a ({}; . + { ($a): layer($a; "permissions") }) | with_entries(select(.value != {}))),
+        notifications: (reduce ids("notifications")[] as $a ({}; . + { ($a): layer($a; "notifications") }) | with_entries(select(.value != {}))),
+        appops: (reduce ids("appops")[] as $a ({}; . + { ($a): layer($a; "appops") }) | with_entries(select(.value != {}))),
+        links: (reduce ids("links")[] as $a ({}; . + { ($a): linklayer($a) }) | with_entries(select(.value != {})))
+      }
+  '
+}
+
+# `recommended` mode reads the curated per-app blocks the packages ship. Fold
+# them under this config once, then treat the result as the config.
+
+if [[ -n "$RECOMMENDED" ]]; then
+  if [[ ! -r "$RECOMMENDED" ]]; then
+    echo "error: cannot read the recommended index: $RECOMMENDED" >&2
+    exit 2
+  fi
+  EFFECTIVE="$(mktemp "${TMPDIR:-/tmp}/android-enforce-effective.XXXXXX")"
+  trap 'rm -f "$EFFECTIVE"' EXIT
+  merge_recommended "$CONFIG" "$RECOMMENDED" >"$EFFECTIVE"
+  CONFIG="$EFFECTIVE"
 fi
 
 # --- transport -------------------------------------------------------------
@@ -343,7 +407,7 @@ cfg_apps() {
 managed_apps() { # the apps to walk
   # Globally managed: every declared app has to be visited, since the point is
   # to take away what the config does not list.
-  if [[ "$(cfg_mode)" == "managed" ]]; then
+  if managed_like "$(cfg_mode)"; then
     cfg_apps
     return 0
   fi
@@ -381,9 +445,14 @@ link_entries() { # $1 = app-id -> "domain allow|deny"
   jq -r --arg a "$1" '((.links // {})[$a].domains // {}) | to_entries[] | "\(.key) \(.value)"' "$CONFIG"
 }
 
-cfg_mode() { # global default: overrides | managed
+managed_like() { # $1 = mode -> is it the deny-all-not-listed posture?
+  [[ "$1" == "managed" || "$1" == "recommended" ]]
+}
+
+cfg_mode() { # global default: overrides | managed | recommended
   jq -r '(.mode // "overrides")' "$CONFIG"
 }
+
 
 app_mode() { # $1 = app-id -> overrides | managed
   local m
@@ -657,7 +726,7 @@ enforce_app() { # $1 = app-id
   local perm action enabled dnd bubbles op opmode appmode
   appmode="$(app_mode "$1")"
   case "$appmode" in
-    overrides | managed) ;;
+    overrides | managed | recommended) ;;
     *)
       log "!! unknown mode for $1: $appmode" >&2
       FAILED=1
@@ -711,9 +780,19 @@ enforce_app() { # $1 = app-id
 
   enforce_links "$1"
 
-  # managed: whatever the config does not list is taken away, on top of the
-  # additions above.
-  if [[ "$appmode" == "managed" ]]; then
+  # Not curated in the packages and running under `recommended`: say so once per
+  # app in --check, since the managed default is about to decide for it.
+  if [[ "$appmode" == "recommended" && -n "$RECOMMENDED" && "$MODE" == "check" ]]; then
+    if ! jq -e --arg a "$1" 'has($a)' "$RECOMMENDED" >/dev/null 2>&1; then
+      uncurated="$(live_runtime_perms "$1" | awk \
+        '$2 == "true" && $1 != "android.permission.POST_NOTIFICATIONS"' | wc -l | tr -d ' ')"
+      log "warn: $1 has no recommended block ($uncurated grant(s) default to deny)"
+    fi
+  fi
+
+  # managed / recommended: whatever the config (and, for recommended, the app's
+  # curated block) does not list is taken away, on top of the additions above.
+  if managed_like "$appmode"; then
     enforce_managed_perms "$1"
     enforce_managed_appops "$1"
     enforce_managed_links "$1"

@@ -49,6 +49,11 @@ let
   installerBin = "${installer}/bin/android-install";
   enforce = aliyss-android-pkgs.packages.${pkgs.system}.android-enforce;
   enforceBin = "${enforce}/bin/android-enforce";
+  # The curated per-app baselines (`recommended.json` sidecars) bundled into one
+  # index: `recommended` mode applies them under this config, so the opinion
+  # travels with the app instead of living in every consumer.
+  recommended = aliyss-android-pkgs.packages.${pkgs.system}.android-recommended;
+  recommendedIndex = "${recommended}";
   # Rendered for android-enforce: the declared apps plus their per-app state.
   enforceConfig = pkgs.writeText "aliyss-android-pkgs-enforce.json" (builtins.toJSON {
     apps = cfg.apps;
@@ -67,7 +72,9 @@ let
   enforceNotice =
     "Enforcing declared app state (permissions, notifications, app ops, links)"
     + lib.optionalString (cfg.mode == "managed")
-      " — managed: unlisted grants are taken away (platform-internal app ops and POST_NOTIFICATIONS excepted)";
+      " — managed: unlisted grants are taken away (platform-internal app ops and POST_NOTIFICATIONS excepted)"
+    + lib.optionalString (cfg.mode == "recommended")
+      " — recommended: each app's curated block + this config, everything else taken away";
 in
 {
   options.aliyss.androidPkgs = {
@@ -201,7 +208,7 @@ in
       '';
     };
     mode = lib.mkOption {
-      type = lib.types.enum [ "overrides" "managed" ];
+      type = lib.types.enum [ "overrides" "managed" "recommended" ];
       default = "overrides";
       description = ''
         How the per-app state below is read.
@@ -210,16 +217,23 @@ in
           entry is untouched and an unlisted permission, app op or link domain
           is never touched.
         - "managed": the config is the whole intent for every declared app, so
-          anything granted but not listed is taken away. It only removes grants
-          (an app op that is unset stays at its platform default), it leaves
-          POST_NOTIFICATIONS to notifications.enabled so that a managed switch
-          does not silence every app without a notification entry, and of the
-          app ops only the toggles Android Settings exposes take part.
+          anything granted but not listed is taken away.
+        - "recommended": managed, with each app's curated block from the
+          aliyss-android-pkgs packages (recommended.json, next to its pin) as the
+          baseline under this config — the packages carry the opinion and this
+          file overrides it. An app with no curated block falls back to managed
+          and --check reports it as uncurated.
+
+        The managed-style modes only remove grants: an app op that is unset stays
+        at its platform default, POST_NOTIFICATIONS stays with
+        notifications.enabled (so a switch does not silence every app without a
+        notification entry), and of the app ops only the toggles Android
+        Settings exposes take part.
       '';
     };
 
     appModes = lib.mkOption {
-      type = lib.types.attrsOf (lib.types.enum [ "overrides" "managed" ]);
+      type = lib.types.attrsOf (lib.types.enum [ "overrides" "managed" "recommended" ]);
       default = { };
       example = { "com.example.app" = "managed"; };
       description = ''
@@ -284,7 +298,7 @@ in
         log() { printf '\n\033[1;34m== %s ==\033[0m\n' "$*"; }
 
         log "${enforceNotice}"
-        if ! ${enforceBin} --on-device --config ${enforceConfig}; then
+        if ! ${enforceBin} --on-device --recommended ${recommendedIndex} --config ${enforceConfig}; then
           echo "!! android-enforce failed — fix the declaration and re-run update-home" >&2
           exit 1
         fi

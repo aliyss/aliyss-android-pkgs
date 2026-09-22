@@ -12,6 +12,7 @@ apps:
     pkgs/default.nix)
   * verified.json is valid and carries the signer fingerprints
   * f-droid apps additionally carry apkName and a flat (file) hash
+  * recommended.json (when curated) uses only known layers/keys/values
 """
 
 import json
@@ -221,3 +222,94 @@ def test_fdroid_apps_carry_apkname_and_flat_hash():
 def test_category_dirs_are_known():
     for _cat, app_dir in iter_app_dirs():
         assert app_dir.parent.name in CATEGORIES, f"unknown category dir: {app_dir.parent.name}"
+
+
+RECOMMENDED_KEYS = {"permissions", "appops", "notifications", "links"}
+PERMISSION_ACTIONS = {"allow", "deny"}
+APPOP_MODES = {"allow", "deny", "ignore", "foreground", "default"}
+NOTIFICATION_KEYS = {"enabled", "listeners", "dnd", "bubbles"}
+BUBBLES = {"none", "all", "selected"}
+LINK_KEYS = {"open", "domains"}
+
+
+def test_recommended_json_schema():
+    """The curated block for `recommended` mode must be well-formed.
+
+    It is user-facing config data, not a pin: a typo here would silently be a
+    no-op on a phone, so every key and value is checked.
+    """
+    bad: list[str] = []
+    for app_id, app_dir in iter_app_dirs():
+        sidecar = app_dir / "recommended.json"
+        if not sidecar.exists():
+            continue
+        try:
+            block = json.loads(sidecar.read_text())
+        except json.JSONDecodeError as exc:
+            bad.append(f"{app_id}: invalid recommended.json: {exc}")
+            continue
+        if not isinstance(block, dict):
+            bad.append(f"{app_id}: recommended.json must be an object")
+            continue
+        unknown = set(block) - RECOMMENDED_KEYS
+        if unknown:
+            bad.append(f"{app_id}: unknown keys {sorted(unknown)}")
+
+        permissions = block.get("permissions") or {}
+        if not isinstance(permissions, dict):
+            bad.append(f"{app_id}: permissions must be an object")
+        else:
+            for permission, action in permissions.items():
+                if "." not in permission:
+                    bad.append(f"{app_id}: {permission!r} is not a permission name")
+                if action not in PERMISSION_ACTIONS:
+                    bad.append(f"{app_id}: permission {permission} has action {action!r}")
+
+        appops = block.get("appops") or {}
+        if not isinstance(appops, dict):
+            bad.append(f"{app_id}: appops must be an object")
+        else:
+            for op, mode in appops.items():
+                if not re.fullmatch(r"[A-Z0-9_]+", op):
+                    bad.append(f"{app_id}: {op!r} is not an app-op name")
+                if mode not in APPOP_MODES:
+                    bad.append(f"{app_id}: app op {op} has mode {mode!r}")
+
+        notifications = block.get("notifications") or {}
+        if not isinstance(notifications, dict):
+            bad.append(f"{app_id}: notifications must be an object")
+        else:
+            unknown = set(notifications) - NOTIFICATION_KEYS
+            if unknown:
+                bad.append(f"{app_id}: unknown notification keys {sorted(unknown)}")
+            if not isinstance(notifications.get("enabled", True), bool):
+                bad.append(f"{app_id}: notifications.enabled must be a boolean")
+            if not isinstance(notifications.get("dnd", True), bool):
+                bad.append(f"{app_id}: notifications.dnd must be a boolean")
+            bubbles = notifications.get("bubbles")
+            if bubbles is not None and bubbles not in BUBBLES:
+                bad.append(f"{app_id}: notifications.bubbles {bubbles!r} is not none|all|selected")
+            listeners = notifications.get("listeners")
+            if listeners is not None:
+                if not isinstance(listeners, list):
+                    bad.append(f"{app_id}: notifications.listeners must be a list")
+                else:
+                    for component in listeners:
+                        if "/" not in str(component):
+                            bad.append(f"{app_id}: listener {component!r} is not package/component")
+
+        links = block.get("links") or {}
+        if not isinstance(links, dict):
+            bad.append(f"{app_id}: links must be an object")
+        else:
+            unknown = set(links) - LINK_KEYS
+            if unknown:
+                bad.append(f"{app_id}: unknown link keys {sorted(unknown)}")
+            if "open" in links and not isinstance(links["open"], bool):
+                bad.append(f"{app_id}: links.open must be a boolean")
+            for domain, action in (links.get("domains") or {}).items():
+                if "." not in domain:
+                    bad.append(f"{app_id}: {domain!r} is not a domain")
+                if action not in PERMISSION_ACTIONS:
+                    bad.append(f"{app_id}: link domain {domain} has action {action!r}")
+    assert not bad, "\n".join(bad)

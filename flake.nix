@@ -74,6 +74,14 @@
       # Python with everything the scripts and the offline test suite need.
       # (ruff runs the lint/format checks, mypy the type checks; keep in sync
       # with pyproject.toml.)
+      # The curated per-app baselines, bundled into one index for
+      # android-enforce --recommended (see lib/recommended.nix).
+      android-recommended = system:
+        let
+          pkgs = nixpkgs.legacyPackages.${system};
+        in
+        pkgs.callPackage ./lib/recommended.nix { };
+
       testPython = system:
         let
           pkgs = nixpkgs.legacyPackages.${system};
@@ -100,6 +108,7 @@
         // {
           android-install = android-install system;
           android-enforce = android-enforce system;
+          android-recommended = android-recommended system;
         });
 
       # legacyPackages lets the whole set be used from within a nixpkgs-based
@@ -109,6 +118,7 @@
         // {
           android-install = android-install system;
           android-enforce = android-enforce system;
+          android-recommended = android-recommended system;
         });
 
       # Reusable fetcher for consumers who want to build ad-hoc APKs.

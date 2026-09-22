@@ -342,6 +342,41 @@ $ android-enforce --config <config.json> --dry-run   # what managed would change
 $ android-enforce --config <config.json> --check     # drift report, exit 1
 ```
 
+### Recommended: a curated block per app
+
+`recommended` mode is `managed` with a baseline that ships next to the app: a
+`recommended.json` sidecar in `pkgs/<category>/<app-id>/` says what that app
+*should* be allowed to do, independent of any one phone.
+
+```json
+{
+  "permissions": { "android.permission.CAMERA": "allow" },
+  "appops": { "RUN_ANY_IN_BACKGROUND": "deny" },
+  "notifications": { "enabled": true, "bubbles": "none" },
+  "links": { "domains": { "wa.me": "allow" } }
+}
+```
+
+Every key is optional — only what you list is an opinion. Precedence, per app:
+
+1. the consumer's config (`permissions` / `appops` / `notifications` / `links`),
+2. then the app's `recommended.json`,
+3. then the mode's default: `recommended` (like `managed`) takes away whatever
+   is left unlisted; `overrides` leaves it alone.
+
+An app with no sidecar still works — it falls back to the consumer's config plus
+the managed default, and `--check` reports it as uncurated so the gap is visible:
+
+```console
+$ android-enforce --config <config.json> --check
+warn: com.example.app has no recommended block (47 grants default to deny)
+```
+
+`packages.<system>.android-recommended` bundles every sidecar into one index,
+which the home-manager module passes to the enforcer as `--recommended`. The
+curation therefore travels with the app (and its signer, pin and history)
+instead of living in each consumer.
+
 ## Development
 
 Tooling is declared in `pyproject.toml` (the single source of truth for
