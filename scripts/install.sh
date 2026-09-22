@@ -278,17 +278,20 @@ resolve_target() {
   fi
 }
 
-# In on-device mode the store path from `nix build` is /nix/store/..., which is
-# only visible inside the nix-chroot (Termux layout: the store lives at
-# ~/.nix/nix and is bind-mounted at /nix inside the chroot). Pick whichever
-# path is actually readable from this context.
-host_visible_apk() {
-  local p="$1"
-  if [[ -r "$p" ]]; then
-    printf '%s\n' "$p"
-  else
-    printf '%s\n' "$HOME/.nix/nix${p#/nix}"
+# pm install runs as root in Android's namespace, where the Nix store is not
+# visible: it lives inside the nix-chroot rootfs at ~/.nix/nix (bind-mounted at
+# /nix inside the chroot), so handing pm a /nix/store path fails with
+# "Can't open file: /nix/store/...". Stage the APK under $HOME — the same
+# absolute path inside and outside the chroot, and readable by root — the way
+# the adb path stages into /data/local/tmp.
+stage_apk() {
+  local p="$1" stage="$HOME/.cache/android-install-staging" dest
+  mkdir -p "$stage" || return 1
+  dest="$stage/$(basename "$p")"
+  if [[ "$p" != "$dest" ]]; then
+    cp -f "$p" "$dest" || return 1
   fi
+  printf '%s\n' "$dest"
 }
 
 # pm install runs through system_server, which can block indefinitely on a
@@ -300,7 +303,7 @@ host_visible_apk() {
 # decision.
 on_device_install() {
   local apk="$1" log marker waited status
-  apk="$(host_visible_apk "$apk")"
+  apk="$(stage_apk "$apk")"
   if [[ ! -r "$apk" ]]; then
     echo "error: cannot read built APK at $apk" >&2
     return 1
