@@ -246,7 +246,7 @@ in
       lib.hm.dag.entryAfter [ "installAndroidPkgs" ] ''
         log() { printf '\n\033[1;34m== %s ==\033[0m\n' "$*"; }
 
-        log "Enforcing declared app state (permissions, notifications)"
+        log "Enforcing declared app state (permissions, notifications, app ops, links)"
         if ! ${enforceBin} --on-device --config ${enforceConfig}; then
           echo "!! android-enforce failed — fix the declaration and re-run update-home" >&2
           exit 1
