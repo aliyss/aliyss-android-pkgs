@@ -183,10 +183,46 @@ $ nix run .#android-install -- -f . -u com.darkempire78.opencalculator
 `-f/--flake` selects the flake to build package names from (default: the
 current directory). On a device with no adb (e.g. Termux), or with
 `-d/--on-device`, the script runs **on the device itself**: it builds the APK
-with the local nix, maps the chroot store path to the host-visible
-`~/.nix/nix` layout, installs directly with `su -c 'pm install -r'` (root), and
-bounds the install at 60s so a Google Play Protect block is reported instead
+with the local nix, stages the APK under `$HOME` (the Nix store only
+exists inside the chroot, while `pm` runs as root outside it),
+installs directly with `su -c "pm install -r"` (root), and bounds
+the install at 60s so a Google Play Protect block is reported instead
 of hanging. App-ids are accepted dotted or dashed; `-u` accepts either too.
+
+### Declarative installs (home-manager module)
+
+The flake also ships a home-manager module
+(`homeManagerModules.<system>.default`) that installs the declared apps on
+every switch and uninstalls the ones that left the list, so consumers need no
+activation script of their own:
+
+```nix
+# flake.nix
+inputs.aliyss-android-pkgs.url = "github:aliyss/aliyss-android-pkgs";
+
+# home-manager, on the phone host only
+home-manager.sharedModules = [
+  inputs.aliyss-android-pkgs.homeManagerModules.${system}.default
+];
+
+# then just declare the apps
+aliyss.androidPkgs = {
+  enable = true;
+  apps = [ "com.darkempire78.opencalculator" ];
+};
+```
+
+- `enable` defaults to `false`, so importing the module in a shared module list
+  is harmless on hosts that install nothing.
+- `flakePath` (default `~/.config/flake`) is the flake the installer builds app
+  attributes from (`android-install -f`); point it elsewhere if your app
+  packages live in another flake.
+- The module uses the installer package from this same flake, which means the
+  input itself must be in scope — passing flake inputs to modules
+  (`extraSpecialArgs = inputs`) covers it.
+- State lives in `~/.local/state/aliyss-android-pkgs` (the previously installed
+  app-ids), which is what makes uninstall-on-removal work.
+
 
 ## Development
 

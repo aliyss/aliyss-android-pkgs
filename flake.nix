@@ -85,6 +85,13 @@
       # Reusable fetcher for consumers who want to build ad-hoc APKs.
       lib.fetchApk = nixpkgs.legacyPackages.x86_64-linux.callPackage ./lib/fetchApk.nix { };
 
+      # Home-manager module for declarative Android app installs.
+      # Import via `aliyss-android-pkgs.homeManagerModules.<system>.default`
+      # (with enable = true) and set `aliyss.androidPkgs.apps = [ ... ];`.
+      homeManagerModules = forAllSystems (system: {
+        default = import ./home-manager-module.nix;
+      });
+
       # Offline test suite: unit tests for the scripts plus structural
       # invariants over the whole pkgs/ tree (see ./tests).
       checks = forAllSystems (system:
