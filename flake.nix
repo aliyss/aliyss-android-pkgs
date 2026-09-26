@@ -154,6 +154,22 @@
               pytest -q tests/
               touch $out
             '';
+          # shellcheck + parse check over the two device-facing scripts. These
+          # are the only files that run as root on a phone, so they get the same
+          # gate the Python gets from ruff/mypy.
+          shell =
+            pkgs.runCommand "android-pkgs-shell"
+              {
+                nativeBuildInputs = [ pkgs.shellcheck pkgs.bash ];
+              } ''
+              cp -r ${./scripts} scripts
+              shellcheck --severity=warning -s bash scripts/*.sh
+              for f in scripts/*.sh; do
+                bash -n "$f"
+              done
+              touch $out
+            '';
+
           # The config shapes android-enforce accepts (the canonical per-app
           # layout and the older flat one) plus the curated-baseline merge. No
           # device and no root: --print-effective only folds the config.
@@ -180,6 +196,7 @@
               nixpkgs-fmt
               ruff
               mypy
+              shellcheck
               python3
               (python3.withPackages (ps: with ps; [ httpx beautifulsoup4 lxml pyyaml pytest types-pyyaml ]))
             ];

@@ -5,6 +5,26 @@ on:
   pull_request:
 
 jobs:
+  # The two device-facing scripts run as root on a phone, so they are linted
+  # even though the Python tooling has its own strict gate. No nix required:
+  # shellcheck and bash ship on the runner, mirroring the flake's `shell` check.
+  shell:
+    name: shellcheck + bash -n (device-facing scripts)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: shellcheck (warning and above)
+        run: |
+          shellcheck --version
+          shellcheck --severity=warning -s bash scripts/*.sh
+
+      - name: parse check
+        run: |
+          for f in scripts/*.sh; do
+            bash -n "$f"
+          done
+
   python-tests:
     name: ruff + mypy + pytest (scripts + repo structure)
     runs-on: ubuntu-latest
