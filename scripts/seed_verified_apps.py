@@ -12,7 +12,7 @@ of every package, which scripts/update.py can later confirm on each download.
 
 For each package this script writes::
 
-    pkgs/<category>/<package.id>/
+    pkgs/by-name/<shard>/<package.id>/
         package.nix     static template reading ./hashes.json
         hashes.json     {"version": "", "architectures": {}}  (pin me via update.py)
         verified.json   signer fingerprints + attribution
@@ -40,10 +40,11 @@ from typing import Any, cast
 import httpx
 import yaml
 
-from categories import derive_pname, guess_category
+import layout
+from layout import derive_pname
 
-# Re-exported for the other seeders (seed_apkpure / seed_fdroid use them).
-__all__ = ["derive_pname", "guess_category"]
+# Re-exported for the other seeders (seed_apkpure / seed_fdroid use it).
+__all__ = ["derive_pname"]
 
 # JSON payloads from the network / yaml are untyped by nature.
 Json = dict[str, Any]
@@ -107,7 +108,7 @@ def main(cli: argparse.Namespace) -> None:
         print(f"unexpected data.yml schema: {data.get('schema')}")
         sys.exit(1)
 
-    existing = {p.parent.name for p in PKGS_DIR.rglob("package.nix")}
+    existing = layout.existing_app_ids(PKGS_DIR)
     planned: list[tuple[str, list[str]]] = []
     for entry in cast(list[Json], data.get("packages") or []):
         package = entry.get("package")
@@ -129,8 +130,7 @@ def main(cli: argparse.Namespace) -> None:
     if cli.dry_run or not planned:
         print(f"{'[dry] would add:' if cli.dry_run else 'nothing to add'}")
         for package, fingerprints in planned:
-            cat = guess_category(package)
-            print(f"  {cat}/{package}  fingerprints={len(fingerprints)}")
+            print(f"  {layout.shard_for(package)}/{package}  fingerprints={len(fingerprints)}")
         if not planned:
             sys.exit(0)
         if cli.dry_run:
@@ -138,7 +138,7 @@ def main(cli: argparse.Namespace) -> None:
 
     created = 0
     for package, fingerprints in planned:
-        app_dir = PKGS_DIR / guess_category(package) / package
+        app_dir = layout.app_dir(package, PKGS_DIR)
         app_dir.mkdir(parents=True, exist_ok=True)
         (app_dir / "package.nix").write_text(render_package(package, derive_pname(package)))
         (app_dir / "hashes.json").write_text(render_pin())

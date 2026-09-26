@@ -15,8 +15,8 @@ version + hashes:
     python scripts/update.py --history --only com.spotify.music   # fetch version history
 
 Apps that APKPure does not carry simply stay unpinned (update.py reports the
-failure); this script itself never touches the network. Use the same
-category/pname helpers as the other seeders so everything stays consistent.
+failure); this script itself never touches the network. Apps are placed through
+scripts/layout.py, so the seeders all agree on where an app lives.
 
 Usage:
     python scripts/seed_apkpure.py <app-id> [<app-id> ...]
@@ -30,6 +30,7 @@ import json
 import sys
 from pathlib import Path
 
+import layout
 import seed_verified_apps as sva
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -39,7 +40,7 @@ APKPURE_HOMEPAGE = "https://apkpure.com"
 
 
 def existing_apps() -> set[str]:
-    return {p.parent.name for p in PKGS_DIR.rglob("package.nix")}
+    return layout.existing_app_ids(PKGS_DIR)
 
 
 def render_verified(package: str, source: str = "apk-pure") -> str:
@@ -78,7 +79,7 @@ def render_history() -> str:
 def seed_one(package: str, existing: set[str]) -> str | None:
     if package in existing:
         return None
-    app_dir = PKGS_DIR / sva.guess_category(package) / package
+    app_dir = layout.app_dir(package, PKGS_DIR)
     app_dir.mkdir(parents=True, exist_ok=True)
     (app_dir / "package.nix").write_text(sva.render_package(package, sva.derive_pname(package)))
     (app_dir / "hashes.json").write_text(sva.render_pin())
@@ -115,9 +116,11 @@ def main(cli: argparse.Namespace) -> None:
         # Heal sidecars on apps already present in the tree (apk-pure only).
         filled = []
         unchanged = 0
-        for app_dir in sorted(PKGS_DIR.rglob("package.nix")):
-            parent = app_dir.parent
-            text = app_dir.read_text()
+        for parent in sorted(layout.iter_app_dirs(PKGS_DIR)):
+            pkg_nix = parent / "package.nix"
+            if not pkg_nix.is_file():
+                continue
+            text = pkg_nix.read_text()
             if 'source = "f-droid"' in text or 'source = "google-play"' in text:
                 continue  # f-droid / play apps have their own verified.json flow
             written = fill_one(parent)

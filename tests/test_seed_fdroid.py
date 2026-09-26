@@ -121,7 +121,7 @@ def test_main_dry_run_skips_per_abi_by_default(monkeypatch, capsys):
     with pytest.raises(SystemExit):
         sfd.main(cli)
     out = capsys.readouterr().out
-    assert "misc/org.universal.app" in out
+    assert "un/org.universal.app" in out
     assert "org.armonly.app" not in out
 
 
@@ -188,7 +188,8 @@ def test_main_seeds_fully_pinned_apps(monkeypatch, tmp_path):
     )()
     sfd.main(cli)
 
-    app_dir = tmp_path / "pkgs" / "misc" / "org.universal.app"
+    # by-name: org.universal.app -> publisher "universal" -> shard "un".
+    app_dir = tmp_path / "pkgs" / "by-name" / "un" / "org.universal.app"
     assert (app_dir / "package.nix").exists()
     pin = json.loads((app_dir / "hashes.json").read_text())
     assert pin["version"] == "2.0"
@@ -202,7 +203,7 @@ def test_main_seeds_fully_pinned_apps(monkeypatch, tmp_path):
 
 
 def test_main_skips_existing(monkeypatch, tmp_path):
-    existing = tmp_path / "pkgs" / "misc" / "org.existing.app"
+    existing = tmp_path / "pkgs" / "by-name" / "ex" / "org.existing.app"
     existing.mkdir(parents=True)
     (existing / "package.nix").write_text("{ fetchApk }:\n{}\n")
     monkeypatch.setattr(
@@ -229,8 +230,8 @@ def test_main_skips_existing(monkeypatch, tmp_path):
         },
     )()
     sfd.main(cli)
-    assert not (tmp_path / "pkgs" / "misc" / "org.existing.app" / "hashes.json").exists()
-    assert (tmp_path / "pkgs" / "misc" / "org.new.app" / "hashes.json").exists()
+    assert not (tmp_path / "pkgs" / "by-name" / "ex" / "org.existing.app" / "hashes.json").exists()
+    assert (tmp_path / "pkgs" / "by-name" / "ne" / "org.new.app" / "hashes.json").exists()
 
 
 def test_main_respects_limit(monkeypatch, tmp_path):

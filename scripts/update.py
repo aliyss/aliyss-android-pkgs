@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Async updater for the Android APK repository.
 
-Each app lives in ``pkgs/<category>/<app-id>/`` with:
+Each app lives in ``pkgs/by-name/<shard>/<app-id>/`` (see scripts/layout.py
+for the shard rule) with:
 
     package.nix   static template that reads ./hashes.json
     hashes.json   generated lockfile:
@@ -67,6 +68,8 @@ from typing import Any, cast
 import httpx
 from bs4 import BeautifulSoup
 
+import layout
+
 # JSON payloads from external APIs/indexes/HTML attributes are untyped by
 # nature; Json keeps that explicit at the boundary while the rest of the code
 # stays strictly typed.
@@ -74,8 +77,9 @@ Json = dict[str, Any]
 
 log = logging.getLogger("update")
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
-PKGS_DIR = REPO_ROOT / "pkgs"
+# The app tree's location and discovery live in one place (scripts/layout.py),
+# shared with the seeders and the structural tests.
+PKGS_DIR = layout.PKGS_DIR
 
 # On some networks apkpure.com is blocked; apkpure.net is a reliable mirror.
 APKPURE_BASES = os.environ.get("APKPURE_BASES", "https://apkpure.com,https://apkpure.net").split(
@@ -785,14 +789,10 @@ async def update_github_package(pkg: Package) -> str:
 
 
 def find_packages() -> list[Package]:
-    pkgs: list[Package] = []
-    for category in sorted(PKGS_DIR.iterdir()):
-        if not category.is_dir():
-            continue
-        for app_dir in sorted(category.iterdir()):
-            if (app_dir / "package.nix").exists():
-                pkgs.append(Package(app_dir))
-    return pkgs
+    """Every seeded app, found by walking the by-name tree (no index file)."""
+    return [
+        Package(app_dir) for app_dir in layout.iter_app_dirs() if (app_dir / "package.nix").exists()
+    ]
 
 
 async def history_for_fdroid(pkg: Package, index: Json) -> list[dict[str, Any]] | None:

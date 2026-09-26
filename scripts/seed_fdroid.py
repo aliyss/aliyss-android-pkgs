@@ -20,7 +20,7 @@ and builds are deterministic.
 
 For each package this script writes::
 
-    pkgs/<category>/<package.id>/
+    pkgs/by-name/<shard>/<package.id>/
         package.nix     template reading ./hashes.json (source = "f-droid")
         hashes.json     {"version", "apkName", "architectures": {system: {archStr, hash}}}
         verified.json   signer fingerprints + attribution
@@ -57,6 +57,7 @@ from typing import Any, cast
 
 import httpx
 
+import layout
 import seed_verified_apps as sva
 from update import FLAKE_SYSTEMS, sha256_hex_to_sri
 
@@ -170,7 +171,7 @@ def main(cli: argparse.Namespace) -> None:
     host = repo_url.split("//", 1)[-1].split("/", 1)[0]
     pkgs_dir = cli.pkgs_dir or PKGS_DIR
 
-    existing = {p.parent.name for p in pkgs_dir.rglob("package.nix")}
+    existing = layout.existing_app_ids(pkgs_dir)
     planned: list[tuple[str, Json]] = []
     skipped_abi = 0
     for package, entries in sorted(packages.items()):
@@ -197,7 +198,7 @@ def main(cli: argparse.Namespace) -> None:
         print(f"{'[dry] would add:' if cli.dry_run else 'nothing to add'}")
         for package, entry in planned:
             print(
-                f"  {sva.guess_category(package)}/{package}  v{entry['versionName']}  {entry['apkName']}"
+                f"  {layout.shard_for(package)}/{package}  v{entry['versionName']}  {entry['apkName']}"
             )
         print(f"(skipped {skipped_abi} per-ABI-only apps; use --all to include)")
         if not planned or cli.dry_run:
@@ -205,7 +206,7 @@ def main(cli: argparse.Namespace) -> None:
 
     created = 0
     for package, entry in planned:
-        app_dir = pkgs_dir / sva.guess_category(package) / package
+        app_dir = layout.app_dir(package, pkgs_dir)
         app_dir.mkdir(parents=True, exist_ok=True)
         (app_dir / "package.nix").write_text(
             render_package(package, sva.derive_pname(package), repo_url)

@@ -5,16 +5,6 @@ import json
 import seed_apkpure as sap
 
 
-def _make_pkgs(tmp_path, apps):
-    pkgs = tmp_path / "pkgs"
-    for cat, names in apps:
-        for name in names:
-            d = pkgs / cat / name
-            d.mkdir(parents=True)
-            (d / "package.nix").write_text("{ fetchApk }:\n{}\n")
-    return pkgs
-
-
 def test_render_verified_attribution_only():
     data = json.loads(sap.render_verified("com.spotify.music"))
     assert data["package"] == "com.spotify.music"
@@ -30,8 +20,9 @@ def test_render_history_empty():
 def test_seed_one_writes_all_sidecars(monkeypatch, tmp_path):
     monkeypatch.setattr(sap, "PKGS_DIR", tmp_path / "pkgs")
     rel = sap.seed_one("com.spotify.music", set())
-    assert rel == "pkgs/music/com.spotify.music"
-    d = tmp_path / "pkgs" / "music" / "com.spotify.music"
+    # by-name: com.spotify.music -> publisher "spotify" -> shard "sp".
+    assert rel == "pkgs/by-name/sp/com.spotify.music"
+    d = tmp_path / "pkgs" / "by-name" / "sp" / "com.spotify.music"
     assert (d / "package.nix").exists()
     assert json.loads((d / "hashes.json").read_text()) == {"version": "", "architectures": {}}
     assert json.loads((d / "verified.json").read_text())["signerFingerprints"] == []
@@ -44,7 +35,7 @@ def test_seed_one_skips_existing(monkeypatch, tmp_path):
 
 
 def test_fill_one_adds_missing_sidecars(monkeypatch, tmp_path):
-    d = tmp_path / "pkgs" / "misc" / "com.old.app"
+    d = tmp_path / "pkgs" / "by-name" / "ol" / "com.old.app"
     d.mkdir(parents=True)
     (d / "package.nix").write_text("{ fetchApk }:\n{}\n")
     (d / "hashes.json").write_text("{}")
@@ -58,10 +49,10 @@ def test_fill_one_adds_missing_sidecars(monkeypatch, tmp_path):
 
 def test_fill_main_skips_fdroid_apps(monkeypatch, tmp_path, capsys):
     pkgs = tmp_path / "pkgs"
-    fd = pkgs / "misc" / "org.fdroid.app"
+    fd = pkgs / "by-name" / "fd" / "org.fdroid.app"
     fd.mkdir(parents=True)
     (fd / "package.nix").write_text('{ fetchApk }:\n{ source = "f-droid"; }\n')
-    ap = pkgs / "misc" / "com.apkpure.app"
+    ap = pkgs / "by-name" / "ap" / "com.apkpure.app"
     ap.mkdir(parents=True)
     (ap / "package.nix").write_text("{ fetchApk }:\n{}\n")
     monkeypatch.setattr(sap, "PKGS_DIR", pkgs)

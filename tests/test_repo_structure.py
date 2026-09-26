@@ -5,6 +5,7 @@ derivation stages) and assert that every app directory is well-formed. They
 are the guard rails that keep the repo healthy as it grows to thousands of
 apps:
 
+  * every app dir sits in the shard its app id says it belongs in
   * every app dir has package.nix + hashes.json (+ verified.json when seeded)
   * hashes.json follows the {version, architectures} pin schema
   * pinned apps have a real version and at least one hash; seeded-but-unpinned
@@ -22,57 +23,43 @@ from pathlib import Path
 
 import pytest
 
+import layout
 import update
 
 PKGS_DIR = update.PKGS_DIR
-CATEGORIES = [
-    "browser",
-    "camera",
-    "connectivity",
-    "development",
-    "education",
-    "finance",
-    "games",
-    "graphics",
-    "health",
-    "keyboard",
-    "maps",
-    "messaging",
-    "misc",
-    "music",
-    "productivity",
-    "reading",
-    "security",
-    "social",
-    "time",
-    "tools",
-    "video",
-    "weather",
-    "writing",
-]
 
 # SRI form of a sha256: base64 of 32 bytes (44 chars, ends with '=').
 SRI_HASH_RE = re.compile(r"^sha256-[A-Za-z0-9+/]{43}=$")
 
 
-def iter_app_dirs() -> Iterator[tuple[str, Path]]:
+def iter_app_dirs() -> Iterator[Path]:
     if not PKGS_DIR.is_dir():
         pytest.skip(f"pkgs dir not present: {PKGS_DIR}")
-    for category in sorted(PKGS_DIR.iterdir()):
-        if not category.is_dir():
-            continue
-        for app_dir in sorted(category.iterdir()):
-            if app_dir.is_dir():
-                yield category.name, app_dir
+    yield from layout.iter_app_dirs(PKGS_DIR)
 
 
 def test_pkgs_dir_exists():
     assert PKGS_DIR.is_dir(), f"expected pkgs dir at {PKGS_DIR}"
 
 
+def test_app_dirs_live_in_their_shard():
+    """The by-name layout is derived from the app id, so a dir can be checked.
+
+    A misplaced directory is invisible to nothing — pkgs/default.nix walks the
+    tree, not an index — but it makes the layout a lie and breaks the promise
+    that an app id names its own path.
+    """
+    misplaced = [
+        f"{app_dir.relative_to(PKGS_DIR)}: belongs in by-name/{layout.shard_for(app_dir.name)}/"
+        for app_dir in iter_app_dirs()
+        if app_dir.parent.name != layout.shard_for(app_dir.name)
+    ]
+    assert not misplaced, "\n".join(misplaced)
+
+
 def test_all_app_dirs_have_required_files():
     missing = []
-    for _cat, app_dir in iter_app_dirs():
+    for app_dir in iter_app_dirs():
         for fname in ("package.nix", "hashes.json"):
             if not (app_dir / fname).is_file():
                 missing.append(f"{app_dir.relative_to(PKGS_DIR)}: missing {fname}")
@@ -81,7 +68,7 @@ def test_all_app_dirs_have_required_files():
 
 def test_hashes_json_schema():
     bad = []
-    for _cat, app_dir in iter_app_dirs():
+    for app_dir in iter_app_dirs():
         try:
             pin = json.loads((app_dir / "hashes.json").read_text())
         except json.JSONDecodeError as exc:
@@ -112,7 +99,7 @@ def test_hashes_json_schema():
 
 def test_pinned_apps_have_hashes_unpinned_are_empty():
     bad = []
-    for _cat, app_dir in iter_app_dirs():
+    for app_dir in iter_app_dirs():
         pin = json.loads((app_dir / "hashes.json").read_text())
         version = pin.get("version", "")
         if version:
@@ -128,7 +115,7 @@ def test_pinned_apps_have_hashes_unpinned_are_empty():
 
 def _seeded_apps() -> set[str]:
     out: set[str] = set()
-    for _cat, app_dir in iter_app_dirs():
+    for app_dir in iter_app_dirs():
         if (app_dir / "verified.json").exists():
             out.add(app_dir.name)
     return out
@@ -136,7 +123,7 @@ def _seeded_apps() -> set[str]:
 
 def test_verified_json_schema():
     bad = []
-    for _cat, app_dir in iter_app_dirs():
+    for app_dir in iter_app_dirs():
         vpath = app_dir / "verified.json"
         if not vpath.exists():
             continue
@@ -165,7 +152,7 @@ def test_verified_json_schema():
 
 def test_history_json_schema():
     bad = []
-    for _cat, app_dir in iter_app_dirs():
+    for app_dir in iter_app_dirs():
         hpath = app_dir / "history.json"
         if not hpath.exists():
             continue
@@ -188,7 +175,7 @@ def test_history_json_schema():
 
 def test_package_nix_reads_hashes_json():
     bad = []
-    for _cat, app_dir in iter_app_dirs():
+    for app_dir in iter_app_dirs():
         text = (app_dir / "package.nix").read_text()
         if "hashes.json" not in text:
             bad.append(f"{app_dir.name}: package.nix does not read ./hashes.json")
@@ -199,7 +186,7 @@ def test_package_nix_reads_hashes_json():
 
 def test_fdroid_apps_carry_apkname_and_flat_hash():
     bad = []
-    for _cat, app_dir in iter_app_dirs():
+    for app_dir in iter_app_dirs():
         text = (app_dir / "package.nix").read_text()
         if 'source = "f-droid"' not in text:
             continue
@@ -219,11 +206,6 @@ def test_fdroid_apps_carry_apkname_and_flat_hash():
     assert not bad, "\n".join(bad)
 
 
-def test_category_dirs_are_known():
-    for _cat, app_dir in iter_app_dirs():
-        assert app_dir.parent.name in CATEGORIES, f"unknown category dir: {app_dir.parent.name}"
-
-
 RECOMMENDED_KEYS = {"permissions", "appops", "notifications", "links"}
 PERMISSION_ACTIONS = {"allow", "deny"}
 APPOP_MODES = {"allow", "deny", "ignore", "foreground", "default"}
@@ -239,7 +221,8 @@ def test_recommended_json_schema():
     no-op on a phone, so every key and value is checked.
     """
     bad: list[str] = []
-    for app_id, app_dir in iter_app_dirs():
+    for app_dir in iter_app_dirs():
+        app_id = app_dir.name
         sidecar = app_dir / "recommended.json"
         if not sidecar.exists():
             continue

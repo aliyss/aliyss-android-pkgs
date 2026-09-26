@@ -67,7 +67,7 @@ line-ending = "auto"
 strict = true
 python_version = "3.11"
 # Same import path pytest uses (pythonpath = ["scripts"]) so the test files
-# can `import update` / `import categories` etc.
+# can `import update` / `import layout` etc.
 mypy_path = "scripts"
 files = ["scripts/", "tests/"]
 exclude = ["tests/data/"]
@@ -89,8 +89,7 @@ ignore_missing_imports = true
 # them by name, not by type); everything else stays strict. Listed by exact
 # module name (mypy matches the top-level test module names directly).
 module = [
-    "test_categories",
-    "test_recategorize",
+    "test_layout",
     "test_repo_structure",
     "test_seed_apkpure",
     "test_seed_fdroid",

@@ -24,45 +24,6 @@ def test_derive_pname_generic_suffix_and_domains():
     assert sva.derive_pname("io.github.muntashirakon.AppManager") == "AppManager"
 
 
-# ---------------------------------------------------------------- categories
-
-
-@pytest.mark.parametrize(
-    "app_id,expected",
-    [
-        ("org.thoughtcrime.securesms", "messaging"),
-        ("org.telegram.messenger", "messaging"),
-        ("com.spotify.music", "music"),
-        ("org.mozilla.firefox", "browser"),
-        ("org.osmand.plus", "maps"),
-        ("com.nextcloud.client", "productivity"),
-        ("org.schabi.newpipe", "video"),
-        ("com.termux", "tools"),
-        ("org.fdroid.fdroid", "tools"),
-        ("org.thoughtcrime.securesms", "messaging"),
-        ("org.keepassxc.keepassxc", "security"),
-        ("org.torproject.android", "security"),
-        ("com.chess", "games"),
-        ("org.joinmastodon.android", "social"),
-        ("com.budget.budgetapp", "finance"),
-        ("org.fossify.health", "health"),
-        ("org.wikipedia", "education"),
-        ("org.breezyweather", "weather"),
-        ("com.simplemobiletools.camera", "camera"),
-        ("com.foobar.unknownapp", "misc"),
-        ("org.pocketworkstation.pckeyboard", "keyboard"),
-        ("com.termux.api", "tools"),
-        ("org.notes.notesapp", "writing"),
-        ("com.alarmclock.timer", "time"),
-        ("org.gitlab.codeforge", "development"),
-        ("com.iconpack.wallpaper", "graphics"),
-        ("org.wifianalyzer.network", "connectivity"),
-    ],
-)
-def test_guess_category(app_id, expected):
-    assert sva.guess_category(app_id) == expected
-
-
 # ----------------------------------------------------------------- rendering
 
 
@@ -113,8 +74,8 @@ def test_main_dry_run_lists_plan(monkeypatch, tmp_path, capsys):
     with pytest.raises(SystemExit):
         sva.main(cli)
     out = capsys.readouterr().out
-    assert "messaging/org.thoughtcrime.securesms" in out
-    assert "music/com.spotify.music" in out
+    assert "th/org.thoughtcrime.securesms" in out
+    assert "sp/com.spotify.music" in out
 
 
 def test_main_seeds_files_into_pkgs(monkeypatch, tmp_path):
@@ -134,7 +95,7 @@ def test_main_seeds_files_into_pkgs(monkeypatch, tmp_path):
     cli = type("Args", (), {"file": None, "only": None, "limit": None, "dry_run": False})()
     sva.main(cli)
 
-    app_dir = tmp_path / "pkgs" / "messaging" / "org.thoughtcrime.securesms"
+    app_dir = tmp_path / "pkgs" / "by-name" / "th" / "org.thoughtcrime.securesms"
     assert (app_dir / "package.nix").exists()
     assert (app_dir / "hashes.json").exists()
     verified = json.loads((app_dir / "verified.json").read_text())
@@ -143,7 +104,7 @@ def test_main_seeds_files_into_pkgs(monkeypatch, tmp_path):
 
 
 def test_main_skips_existing_apps(monkeypatch, tmp_path, capsys):
-    existing = tmp_path / "pkgs" / "misc" / "com.existing.app"
+    existing = tmp_path / "pkgs" / "by-name" / "ex" / "com.existing.app"
     existing.mkdir(parents=True)
     (existing / "package.nix").write_text("{ fetchApk }:\n{}\n")
     monkeypatch.setattr(sva, "PKGS_DIR", tmp_path / "pkgs")
@@ -159,8 +120,8 @@ def test_main_skips_existing_apps(monkeypatch, tmp_path, capsys):
     )
     cli = type("Args", (), {"file": None, "only": None, "limit": None, "dry_run": False})()
     sva.main(cli)
-    assert not (tmp_path / "pkgs" / "misc" / "com.existing.app" / "hashes.json").exists()
-    assert (tmp_path / "pkgs" / "misc" / "org.other.app" / "hashes.json").exists()
+    assert not (tmp_path / "pkgs" / "by-name" / "ex" / "com.existing.app" / "hashes.json").exists()
+    assert (tmp_path / "pkgs" / "by-name" / "ot" / "org.other.app" / "hashes.json").exists()
 
 
 def test_main_respects_only_and_limit(monkeypatch, tmp_path, capsys):

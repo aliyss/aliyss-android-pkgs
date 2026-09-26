@@ -8,8 +8,10 @@ $ nix build .#org-videolan-vlc
 $ nix build .#org-thoughtcrime-securesms
 ```
 
-Packages are organized as `pkgs/<category>/<app-id>/` where every app
-directory contains:
+Packages are organized by name, as in nixpkgs: `pkgs/by-name/<shard>/<app-id>/`,
+where the shard is the first two characters of the app's publisher label
+(`com.spotify.music` -> `by-name/sp/com.spotify.music/`). Every app directory
+contains:
 
 | file           | purpose                                                              |
 |----------------|----------------------------------------------------------------------|
@@ -70,23 +72,30 @@ reuse a downloaded `index-v1.json`.
 `scripts/seed_verified_apps.py` seeds from the privacyguides/verified-apps
 signing-certificate database (fingerprints only; pin with `update.py` after).
 
-### Categories
+### Layout
 
-Apps live under `pkgs/<category>/<app-id>/`. `scripts/recategorize.py` assigns
-categories from the **curated per-app categories in the F-Droid / IzzyOnDroid
-`index-v2.json` indexes** (falling back to keyword heuristics on the app id +
-name/summary), so re-run it after seeding:
+Apps live under `pkgs/by-name/<shard>/<app-id>/`, like nixpkgs' `pkgs/by-name`:
+the app id is the directory name and the shard is computed from that name
+alone, so seeding an app is one `mkdir` and nothing has to be listed anywhere.
 
 ```console
-python scripts/recategorize.py            # consult f-droid.org + IzzyOnDroid
-python scripts/recategorize.py --all      # also reconsider non-misc apps
-python scripts/recategorize.py --dry-run  # preview only
+pkgs/by-name/sp/com.spotify.music/{package.nix,hashes.json,verified.json}
+pkgs/by-name/th/org.thoughtcrime.securesms/...
 ```
 
-Current taxonomy: `browser`, `camera`, `connectivity`, `development`,
-`education`, `finance`, `games`, `graphics`, `health`, `keyboard`, `maps`,
-`messaging`, `misc`, `music`, `productivity`, `reading`, `security`, `social`,
-`time`, `tools`, `video`, `weather`, `writing`.
+The shard is the first two characters of the app's **publisher label** — the
+label after the TLD: `com.spotify.music` -> `sp`, `org.thoughtcrime.securesms`
+-> `th`. Android ids are reverse-DNS, so sharding on the whole id (nixpkgs'
+rule) would put every `com.*` id in one `co/` directory: 1881 of the 4199 apps.
+Sharding on the publisher label spreads them over 466 directories, the largest
+holding 285. A two-label id uses its first label (`a2dp.Vol` -> `a2`), and a
+label shorter than two characters falls back to the id (`S.N.A.K.E` -> `sn`).
+
+The rule lives in exactly one place — `scripts/layout.py`, mirrored in
+`pkgs/default.nix` — and `tests/test_layout.py` pins it, with the structural
+tests asserting that every app directory sits in its own shard. To add an app
+by hand, mkdir the two directories and write `package.nix` + `hashes.json`;
+`nix build .#<app-id-with-dashes>` picks it up immediately.
 
 ## Updating
 
@@ -390,7 +399,7 @@ $ android-enforce --config <config.json> --check     # drift report, exit 1
 ### Recommended: a curated block per app
 
 `recommended` mode is `managed` with a baseline that ships next to the app: a
-`recommended.json` sidecar in `pkgs/<category>/<app-id>/` says what that app
+`recommended.json` sidecar in `pkgs/by-name/<shard>/<app-id>/` says what that app
 *should* be allowed to do, independent of any one phone.
 
 ```json
