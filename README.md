@@ -332,7 +332,11 @@ back from the device, so `--check` diffs it; `dnd` and `bubbles` have no
 readable shell surface (the state only exists per notification channel in
 `dumpsys notification`), so they are applied but reported as unverifiable. A
 link domain an app does not declare is reported and fails the switch instead of
-silently doing nothing. Not implemented yet: notification channels.
+silently doing nothing. Not implemented yet: notification channels (the state
+lives in `/data/system/notification_policy.xml`, which is read only at boot, and
+the live binder path needs a full `NotificationChannel` parcel that
+`service call` cannot encode), and per-permission `userFixed` flags
+(`pm set-permission-flags`).
 
 ### Modes: overrides (default) and managed
 
