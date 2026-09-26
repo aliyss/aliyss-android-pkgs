@@ -40,6 +40,20 @@ def test_requested_arch_pins_default_universal():
     ]
 
 
+def test_requested_arch_pins_accepts_commas():
+    """The docs show the comma form; it must mean the same as separate args."""
+    assert update.requested_arch_pins(["x86_64-linux=universal,aarch64-linux=arm64-v8a"]) == [
+        ("x86_64-linux", "universal"),
+        ("aarch64-linux", "arm64-v8a"),
+    ]
+    # Mixed, plus the trailing/empty comma a shell script can leave behind.
+    assert update.requested_arch_pins(["a=universal,b", "c="]) == [
+        ("a", "universal"),
+        ("b", "universal"),
+        ("c", "universal"),
+    ]
+
+
 def test_normalize_sha256():
     assert update._normalize_sha256("aa:bb: cc") == "AABBCC"
     assert update._normalize_sha256(" 12 34 ") == "1234"

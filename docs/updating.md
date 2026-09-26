@@ -3,7 +3,7 @@
 `scripts/update.py` moves an app from its pinned version to the current one and
 rewrites the pin. Every source is updated from published metadata (a signed
 index, the GitHub API) rather than by downloading and guessing, which is what
-makes the daily automated run in `.github/workflows/update.yml` safe to review.
+makes the automated run below safe to review.
 
 ## Updating
 
@@ -54,4 +54,33 @@ Discord, which APKPure lists under a non-numeric "Stable" version) simply keep
 an empty history.
 
 The schema is validated by the test suite (`tests/test_repo_structure.py`).
+
+## The automated run
+
+`.github/workflows/update.yml` runs nightly (04:17 UTC) and on demand, and
+**opens a PR** rather than pushing to master:
+
+```console
+nix develop -c python scripts/update.py \
+  --systems x86_64-linux=universal,aarch64-linux=universal,aarch64-darwin=universal
+nix develop -c python scripts/update.py --history
+```
+
+It needs no credentials and no device, because the sources this repo actually
+uses publish what a pin needs: an f-droid pin is the signed index's own
+`apkName` and sha256, and a github-releases pin is the hash of a named release
+asset. (An apk-pure pin does come from a downloaded APK, which is verified
+against `verified.json` — that is the source whose first download has nothing to
+compare against, so review those bumps a little harder.) The PR is what puts CI
+— which re-evaluates every package and re-runs the structural tests — between
+the bump and master. If nothing changed, no PR is opened.
+
+The `--systems` list is explicit so a newly pinned app is buildable on every
+system the flake targets, not just the runner's: the same universal APK serves
+all three, and the hash is stamped onto each. Specs may be comma-separated or
+spread over separate arguments.
+
+Running it by hand is the same command. apk-pure apps need `apkeep` and `nix`
+on `PATH` (the devShell provides both); f-droid and github-releases apps need
+neither.
 

@@ -654,12 +654,22 @@ def requested_arch_pins(systems: list[str]) -> list[tuple[str, str]]:
     """Parse `SYSTEM[=ABI]` specs into (system-key, archStr) pairs.
 
     The default ABI is "universal" (the single artifact apkeep serves by
-    default); pass e.g. `x86_64-linux=x86_64` to pin a specific ABI.)
+    default); pass e.g. `x86_64-linux=x86_64` to pin a specific ABI.
+
+    Specs may be spread over several arguments or comma-separated inside one,
+    so both forms the docs show work:
+
+        --systems x86_64-linux=universal aarch64-linux=arm64-v8a
+        --systems x86_64-linux=universal,aarch64-linux=arm64-v8a
     """
     pins = []
     for token in systems:
-        system, _, arch = token.partition("=")
-        pins.append((system, arch or "universal"))
+        for spec in token.split(","):
+            spec = spec.strip()
+            if not spec:
+                continue
+            system, _, arch = spec.partition("=")
+            pins.append((system, arch or "universal"))
     return pins
 
 

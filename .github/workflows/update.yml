@@ -1,0 +1,85 @@
+# Nightly pin refresh.
+#
+# Every source in this repo publishes its own metadata: the F-Droid index
+# carries each APK's exact file name and sha256, and the GitHub API carries
+# release tags and asset names. A bump is therefore computed from published
+# facts rather than from a download-and-hope, which is what makes a scheduled
+# run safe to automate — and why it needs no credentials and no device.
+#
+# It opens a PR instead of pushing to master: CI then re-checks the moved pins
+# (the structural tests and the package evaluation both run on the change), so
+# nothing reaches master without a look. If there is nothing to bump, no PR is
+# opened.
+name: update
+
+on:
+  schedule:
+    # Daily, off the hour to avoid the crowd. Times are UTC.
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+    inputs:
+      history:
+        description: Also refresh history.json (update.py --history)
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+  pull-requests: write
+
+# One run at a time: two runs would race for the same branch.
+concurrency:
+  group: update-pins
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: refresh pins and open a PR
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: cachix/install-nix-action@v30
+        with:
+          extra_nix_config: |
+            experimental-features = nix-command flakes
+
+      # Run the updater inside the repo's own devShell: it carries python with
+      # the updater's dependencies, plus apkeep and nix, which the apk-pure
+      # source needs to download and hash an APK. Using the environment a
+      # developer uses is what keeps this job from drifting from the tooling.
+      - name: Update pins
+        run: |
+          nix develop -c python scripts/update.py \
+            --systems x86_64-linux=universal,aarch64-linux=universal,aarch64-darwin=universal
+
+      - name: Update version history
+        if: github.event_name != 'workflow_dispatch' || inputs.history
+        run: nix develop -c python scripts/update.py --history
+
+      # Check before opening the PR: a bump that fails the repo's own gates is
+      # not worth a review request.
+      - name: Gate the result
+        run: |
+          nix develop -c sh -c '
+            ruff check scripts/ tests/ &&
+            ruff format --check scripts/ tests/ &&
+            mypy scripts/ tests/ &&
+            pytest -q tests/
+          '
+
+      - name: Open a PR with the bumps
+        uses: peter-evans/create-pull-request@v8
+        with:
+          branch: update/pins
+          delete-branch: true
+          title: "pins: daily update"
+          commit-message: "pins: daily update"
+          body: |
+            Automated pin refresh: `scripts/update.py` for the versions and
+            hashes, and `update.py --history` for `history.json`.
+
+            Every hash here is one the source published — the F-Droid index's
+            own sha256 for the exact `apkName`, or the hash of a
+            github-releases asset — not a value this run downloaded and chose
+            to trust. `nix flake check` runs on this PR; merge it when green.
