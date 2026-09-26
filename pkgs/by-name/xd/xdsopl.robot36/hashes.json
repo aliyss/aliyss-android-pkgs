@@ -1,18 +1,18 @@
 {
-  "apkName": "xdsopl.robot36_66.apk",
+  "apkName": "xdsopl.robot36_67.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-YbsCd6hNVh9NpX3PfWmy14siIGkEe7z93IcGxBo6eOI="
+      "hash": "sha256-aOaOc7cXpX0sUdrpZHjs/rpNFxacaSkliG4nvOYMrNg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YbsCd6hNVh9NpX3PfWmy14siIGkEe7z93IcGxBo6eOI="
+      "hash": "sha256-aOaOc7cXpX0sUdrpZHjs/rpNFxacaSkliG4nvOYMrNg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YbsCd6hNVh9NpX3PfWmy14siIGkEe7z93IcGxBo6eOI="
+      "hash": "sha256-aOaOc7cXpX0sUdrpZHjs/rpNFxacaSkliG4nvOYMrNg="
     }
   },
-  "version": "2.16"
+  "version": "2.17"
 }

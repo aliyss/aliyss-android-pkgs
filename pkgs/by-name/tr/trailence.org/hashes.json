@@ -1,18 +1,18 @@
 {
-  "apkName": "trailence.org_20200.apk",
+  "apkName": "trailence.org_20301.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7a84H0715CEk3XTbWT032IAEbZIZGwfQvGCbeqwRUng="
+      "hash": "sha256-TSxbZURChrNLJo5GQELI4hzWRqrtYpcFuWXm4ijn1FE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7a84H0715CEk3XTbWT032IAEbZIZGwfQvGCbeqwRUng="
+      "hash": "sha256-TSxbZURChrNLJo5GQELI4hzWRqrtYpcFuWXm4ijn1FE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7a84H0715CEk3XTbWT032IAEbZIZGwfQvGCbeqwRUng="
+      "hash": "sha256-TSxbZURChrNLJo5GQELI4hzWRqrtYpcFuWXm4ijn1FE="
     }
   },
-  "version": "2.2.0"
+  "version": "2.3.1"
 }

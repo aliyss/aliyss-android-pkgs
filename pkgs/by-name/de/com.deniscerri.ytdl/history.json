@@ -1,0 +1,52 @@
+{
+  "versions": [
+    {
+      "version": "1.9.0",
+      "versionCode": 109000004
+    },
+    {
+      "version": "1.9.0",
+      "versionCode": 109000003
+    },
+    {
+      "version": "1.9.0",
+      "versionCode": 109000002
+    },
+    {
+      "version": "1.9.0",
+      "versionCode": 109000001
+    },
+    {
+      "version": "1.8.9.1",
+      "versionCode": 108090104
+    },
+    {
+      "version": "1.8.9.1",
+      "versionCode": 108090103
+    },
+    {
+      "version": "1.8.9.1",
+      "versionCode": 108090102
+    },
+    {
+      "version": "1.8.9.1",
+      "versionCode": 108090101
+    },
+    {
+      "version": "1.8.7.2",
+      "versionCode": 108070204
+    },
+    {
+      "version": "1.8.7.2",
+      "versionCode": 108070203
+    },
+    {
+      "version": "1.8.7.2",
+      "versionCode": 108070202
+    },
+    {
+      "version": "1.8.7.2",
+      "versionCode": 108070201
+    }
+  ]
+}

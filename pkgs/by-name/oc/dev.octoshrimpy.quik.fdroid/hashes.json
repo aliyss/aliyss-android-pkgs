@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.octoshrimpy.quik.fdroid_2238.apk",
+  "apkName": "dev.octoshrimpy.quik.fdroid_2239.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kqPccvFfQcmd1mCWR2KxGtHVcEScuLTFztEcUtfOu6k="
+      "hash": "sha256-LrGpZ1hbmO08d9ASpkTNjThZtDvx8pyoTV4VS8qq+GA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kqPccvFfQcmd1mCWR2KxGtHVcEScuLTFztEcUtfOu6k="
+      "hash": "sha256-LrGpZ1hbmO08d9ASpkTNjThZtDvx8pyoTV4VS8qq+GA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kqPccvFfQcmd1mCWR2KxGtHVcEScuLTFztEcUtfOu6k="
+      "hash": "sha256-LrGpZ1hbmO08d9ASpkTNjThZtDvx8pyoTV4VS8qq+GA="
     }
   },
-  "version": "4.3.6"
+  "version": "4.3.7"
 }

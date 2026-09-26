@@ -1,18 +1,18 @@
 {
-  "apkName": "com.limecore.nexus_28.apk",
+  "apkName": "com.limecore.nexus_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Gk/4csCZxvU0iCRwc4hSxqxJeJ0+DHMDrxugj7GRsqo="
+      "hash": "sha256-vVoOsiQvKObIXimiBNR+IoYgRby5jcYclY97ucWBp9U="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Gk/4csCZxvU0iCRwc4hSxqxJeJ0+DHMDrxugj7GRsqo="
+      "hash": "sha256-vVoOsiQvKObIXimiBNR+IoYgRby5jcYclY97ucWBp9U="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Gk/4csCZxvU0iCRwc4hSxqxJeJ0+DHMDrxugj7GRsqo="
+      "hash": "sha256-vVoOsiQvKObIXimiBNR+IoYgRby5jcYclY97ucWBp9U="
     }
   },
-  "version": "1.9.0"
+  "version": "1.14.0"
 }

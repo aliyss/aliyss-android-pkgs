@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2026.08.27-18-FDroid",
+      "versionCode": 26082718
+    },
+    {
+      "version": "2026.07.23-6-FDroid",
+      "versionCode": 26072306
+    },
+    {
+      "version": "2026.07.15-11-FDroid",
+      "versionCode": 26071511
+    }
+  ]
+}

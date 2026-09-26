@@ -1,18 +1,18 @@
 {
-  "apkName": "com.sweak.qralarm_85.apk",
+  "apkName": "com.sweak.qralarm_90.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bQ0/oxL5aR05H4E3LCBPcfYNRclaaWk9zH5K34Kzy+Y="
+      "hash": "sha256-Po/fnr0KyWwQEDzHDMRAsBwfDTAo7oHcS4h0tOlGqTM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bQ0/oxL5aR05H4E3LCBPcfYNRclaaWk9zH5K34Kzy+Y="
+      "hash": "sha256-Po/fnr0KyWwQEDzHDMRAsBwfDTAo7oHcS4h0tOlGqTM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bQ0/oxL5aR05H4E3LCBPcfYNRclaaWk9zH5K34Kzy+Y="
+      "hash": "sha256-Po/fnr0KyWwQEDzHDMRAsBwfDTAo7oHcS4h0tOlGqTM="
     }
   },
-  "version": "2.10.4"
+  "version": "2.11.1"
 }

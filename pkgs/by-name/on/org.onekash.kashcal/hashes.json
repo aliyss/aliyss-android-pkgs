@@ -1,18 +1,18 @@
 {
-  "apkName": "org.onekash.kashcal_717.apk",
+  "apkName": "org.onekash.kashcal_757.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Eijoiaju9FoABbuomULOnJhKF9yumX36c2wYBdnzsgY="
+      "hash": "sha256-/s3hO1bhmZOqXuP4OCcfwFE/v1PgwM1d2zHmAduzjyI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Eijoiaju9FoABbuomULOnJhKF9yumX36c2wYBdnzsgY="
+      "hash": "sha256-/s3hO1bhmZOqXuP4OCcfwFE/v1PgwM1d2zHmAduzjyI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Eijoiaju9FoABbuomULOnJhKF9yumX36c2wYBdnzsgY="
+      "hash": "sha256-/s3hO1bhmZOqXuP4OCcfwFE/v1PgwM1d2zHmAduzjyI="
     }
   },
-  "version": "2026.08.09"
+  "version": "2026.09.19"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.shatteredpixel.shatteredpixeldungeon_896.apk",
+  "apkName": "com.shatteredpixel.shatteredpixeldungeon_912.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vpAUBygKWzsoGWngaPcl7V1Syc2ae1UBPeaEh61BnsQ="
+      "hash": "sha256-7RtD1zEqcOhsXNFZ1Kwp19afrhAzMxpOcPmgDdNGsgc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vpAUBygKWzsoGWngaPcl7V1Syc2ae1UBPeaEh61BnsQ="
+      "hash": "sha256-7RtD1zEqcOhsXNFZ1Kwp19afrhAzMxpOcPmgDdNGsgc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vpAUBygKWzsoGWngaPcl7V1Syc2ae1UBPeaEh61BnsQ="
+      "hash": "sha256-7RtD1zEqcOhsXNFZ1Kwp19afrhAzMxpOcPmgDdNGsgc="
     }
   },
-  "version": "3.3.8"
+  "version": "4.0.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jarsilio.android.scrambledeggsif_84.apk",
+  "apkName": "com.jarsilio.android.scrambledeggsif_86.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MZ0SATotpTDSKremvXb/wUcvEtF+JDgkcikHcd20OlM="
+      "hash": "sha256-kJLsRPcYINtUPIx3OyxIrqZPtN3lbz02nSY1tQNG/qE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MZ0SATotpTDSKremvXb/wUcvEtF+JDgkcikHcd20OlM="
+      "hash": "sha256-kJLsRPcYINtUPIx3OyxIrqZPtN3lbz02nSY1tQNG/qE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MZ0SATotpTDSKremvXb/wUcvEtF+JDgkcikHcd20OlM="
+      "hash": "sha256-kJLsRPcYINtUPIx3OyxIrqZPtN3lbz02nSY1tQNG/qE="
     }
   },
-  "version": "1.7.21"
+  "version": "1.8.1"
 }

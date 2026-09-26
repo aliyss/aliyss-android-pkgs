@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "0.8_2023_10_18_stable_8_a14",
+      "versionCode": 31
+    },
+    {
+      "version": "0.8_2022_09_16_stable_8_a13",
+      "versionCode": 30
+    },
+    {
+      "version": "0.8_2022_04_03_stable_8_a12L",
+      "versionCode": 29
+    }
+  ]
+}

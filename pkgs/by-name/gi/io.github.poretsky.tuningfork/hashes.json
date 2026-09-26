@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.poretsky.tuningfork_103.apk",
+  "apkName": "io.github.poretsky.tuningfork_104.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6rgTmgZNu4z/03PO0DiT++MqI/YkzeZMytE+Kd4kTa8="
+      "hash": "sha256-nHpl0CH9QEbZQS/5rQve2shzNdtfMeqnGycbIlZHykI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6rgTmgZNu4z/03PO0DiT++MqI/YkzeZMytE+Kd4kTa8="
+      "hash": "sha256-nHpl0CH9QEbZQS/5rQve2shzNdtfMeqnGycbIlZHykI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6rgTmgZNu4z/03PO0DiT++MqI/YkzeZMytE+Kd4kTa8="
+      "hash": "sha256-nHpl0CH9QEbZQS/5rQve2shzNdtfMeqnGycbIlZHykI="
     }
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }

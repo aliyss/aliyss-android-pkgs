@@ -1,18 +1,18 @@
 {
-  "apkName": "rocks.mucke.github_12.apk",
+  "apkName": "rocks.mucke.github_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-g2uMrCWJYsXlEjenr6cJaeRPsFb5zqXFlQ92pws77cQ="
+      "hash": "sha256-IrooQVLTtMKw2jbq5begbuR4/6C++9+q0vS++qV+Gwc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-g2uMrCWJYsXlEjenr6cJaeRPsFb5zqXFlQ92pws77cQ="
+      "hash": "sha256-IrooQVLTtMKw2jbq5begbuR4/6C++9+q0vS++qV+Gwc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-g2uMrCWJYsXlEjenr6cJaeRPsFb5zqXFlQ92pws77cQ="
+      "hash": "sha256-IrooQVLTtMKw2jbq5begbuR4/6C++9+q0vS++qV+Gwc="
     }
   },
-  "version": "1.5.1"
+  "version": "1.6.0"
 }

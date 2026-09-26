@@ -1,18 +1,18 @@
 {
-  "apkName": "org.jellyfin.androidtv_190999.apk",
+  "apkName": "org.jellyfin.androidtv_191099.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-o/aS+1HRxZ5rbesHT92ONLkKpUSiVQ9F5homcFf3Nh8="
+      "hash": "sha256-hRClF8mZJwdggpF/Qb8wbdeiVGxZ1JLdEb3hjW4uRig="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-o/aS+1HRxZ5rbesHT92ONLkKpUSiVQ9F5homcFf3Nh8="
+      "hash": "sha256-hRClF8mZJwdggpF/Qb8wbdeiVGxZ1JLdEb3hjW4uRig="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-o/aS+1HRxZ5rbesHT92ONLkKpUSiVQ9F5homcFf3Nh8="
+      "hash": "sha256-hRClF8mZJwdggpF/Qb8wbdeiVGxZ1JLdEb3hjW4uRig="
     }
   },
-  "version": "0.19.9"
+  "version": "0.19.10"
 }

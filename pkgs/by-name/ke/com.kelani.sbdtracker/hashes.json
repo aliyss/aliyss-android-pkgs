@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kelani.sbdtracker_113.apk",
+  "apkName": "com.kelani.sbdtracker_142.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Rll7A7xmcu6pjCd3QQTX/g/MaNR4OmZeyaM95dwD7N8="
+      "hash": "sha256-C7Sogy5Q+MBNbYiZ+MDnc5az5ezfInG0lhlXUrU6DJ8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Rll7A7xmcu6pjCd3QQTX/g/MaNR4OmZeyaM95dwD7N8="
+      "hash": "sha256-C7Sogy5Q+MBNbYiZ+MDnc5az5ezfInG0lhlXUrU6DJ8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Rll7A7xmcu6pjCd3QQTX/g/MaNR4OmZeyaM95dwD7N8="
+      "hash": "sha256-C7Sogy5Q+MBNbYiZ+MDnc5az5ezfInG0lhlXUrU6DJ8="
     }
   },
-  "version": "2.0.13"
+  "version": "2.0.42"
 }

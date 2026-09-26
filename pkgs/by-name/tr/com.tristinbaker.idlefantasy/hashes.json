@@ -1,18 +1,18 @@
 {
-  "apkName": "com.tristinbaker.idlefantasy_130.apk",
+  "apkName": "com.tristinbaker.idlefantasy_154000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-sBmmnui1wIpGsxlngalwGv2eqpVrSiNtFg4x03w0lSc="
+      "hash": "sha256-deXWZzcY27IAd+Doq6ahlONzY32JbJxlOqXux0LHBzE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sBmmnui1wIpGsxlngalwGv2eqpVrSiNtFg4x03w0lSc="
+      "hash": "sha256-deXWZzcY27IAd+Doq6ahlONzY32JbJxlOqXux0LHBzE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sBmmnui1wIpGsxlngalwGv2eqpVrSiNtFg4x03w0lSc="
+      "hash": "sha256-deXWZzcY27IAd+Doq6ahlONzY32JbJxlOqXux0LHBzE="
     }
   },
-  "version": "1.13.3"
+  "version": "1.15.4"
 }

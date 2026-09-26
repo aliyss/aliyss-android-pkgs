@@ -1,18 +1,18 @@
 {
-  "apkName": "io.anuke.mindustry_1107.apk",
+  "apkName": "io.anuke.mindustry_1112.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-B5j5wzvi5+vkaY7buIJnlKozNimM4gssUm01uoVyC/E="
+      "hash": "sha256-lvjay9LelkomB53NGSiz5cp9m5kgdXGsyAL3x8/zRQg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-B5j5wzvi5+vkaY7buIJnlKozNimM4gssUm01uoVyC/E="
+      "hash": "sha256-lvjay9LelkomB53NGSiz5cp9m5kgdXGsyAL3x8/zRQg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-B5j5wzvi5+vkaY7buIJnlKozNimM4gssUm01uoVyC/E="
+      "hash": "sha256-lvjay9LelkomB53NGSiz5cp9m5kgdXGsyAL3x8/zRQg="
     }
   },
-  "version": "8-fdroid-159.7"
+  "version": "8-fdroid-160.4"
 }

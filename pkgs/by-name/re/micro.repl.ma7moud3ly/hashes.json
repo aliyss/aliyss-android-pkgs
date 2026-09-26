@@ -1,18 +1,18 @@
 {
-  "apkName": "micro.repl.ma7moud3ly_14.apk",
+  "apkName": "micro.repl.ma7moud3ly_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1JXQxL6AiPBoZ3EEGAyT0TBrx6bri4i2EMWj2YdU5lY="
+      "hash": "sha256-YE2ccx7uEKKLJ/Qm+7el/lczXvvmwx7fVrtlavOnB44="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1JXQxL6AiPBoZ3EEGAyT0TBrx6bri4i2EMWj2YdU5lY="
+      "hash": "sha256-YE2ccx7uEKKLJ/Qm+7el/lczXvvmwx7fVrtlavOnB44="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1JXQxL6AiPBoZ3EEGAyT0TBrx6bri4i2EMWj2YdU5lY="
+      "hash": "sha256-YE2ccx7uEKKLJ/Qm+7el/lczXvvmwx7fVrtlavOnB44="
     }
   },
-  "version": "1.9"
+  "version": "3.1"
 }

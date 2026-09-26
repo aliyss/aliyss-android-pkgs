@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kunzisoft.keepass.free_44500.apk",
+  "apkName": "com.kunzisoft.keepass.free_45500.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gD13nXbGK4HSwOKs7ok45VvEYaigI4/LJWZwsyeaHPA="
+      "hash": "sha256-y1NlCBBEhSv9/jf1FXsPugFcRJXXIHHPTBvun6Chz/I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gD13nXbGK4HSwOKs7ok45VvEYaigI4/LJWZwsyeaHPA="
+      "hash": "sha256-y1NlCBBEhSv9/jf1FXsPugFcRJXXIHHPTBvun6Chz/I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gD13nXbGK4HSwOKs7ok45VvEYaigI4/LJWZwsyeaHPA="
+      "hash": "sha256-y1NlCBBEhSv9/jf1FXsPugFcRJXXIHHPTBvun6Chz/I="
     }
   },
-  "version": "4.4.5"
+  "version": "4.5.5"
 }

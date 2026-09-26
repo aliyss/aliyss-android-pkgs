@@ -1,18 +1,18 @@
 {
-  "apkName": "com.werdeil.lyriondashboard_204.apk",
+  "apkName": "com.werdeil.lyriondashboard_300.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-oPNbWgbcuZ/TQZuSCYaMZ5v54ViJX+Q3k2TwligNigw="
+      "hash": "sha256-Afc+hAwkHMOQNvSunuAo7B/RDqOMdYCXILMn7C23SBo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oPNbWgbcuZ/TQZuSCYaMZ5v54ViJX+Q3k2TwligNigw="
+      "hash": "sha256-Afc+hAwkHMOQNvSunuAo7B/RDqOMdYCXILMn7C23SBo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oPNbWgbcuZ/TQZuSCYaMZ5v54ViJX+Q3k2TwligNigw="
+      "hash": "sha256-Afc+hAwkHMOQNvSunuAo7B/RDqOMdYCXILMn7C23SBo="
     }
   },
-  "version": "0.2.4"
+  "version": "0.3.0"
 }

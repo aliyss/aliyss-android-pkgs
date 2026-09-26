@@ -1,18 +1,18 @@
 {
-  "apkName": "com.aistra.hail_34.apk",
+  "apkName": "com.aistra.hail_35.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-dIFy19rlAqxYqlR6uCSU4k+HFOBo4xPayqbYN+GpkWo="
+      "hash": "sha256-q8MOFEMHWobFStvQ34YC12A4SSgwazuqX+Ts0HUEVvw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dIFy19rlAqxYqlR6uCSU4k+HFOBo4xPayqbYN+GpkWo="
+      "hash": "sha256-q8MOFEMHWobFStvQ34YC12A4SSgwazuqX+Ts0HUEVvw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dIFy19rlAqxYqlR6uCSU4k+HFOBo4xPayqbYN+GpkWo="
+      "hash": "sha256-q8MOFEMHWobFStvQ34YC12A4SSgwazuqX+Ts0HUEVvw="
     }
   },
-  "version": "1.10.0"
+  "version": "1.11.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "m.co.rh.id.a_personal_stuff_20.apk",
+  "apkName": "m.co.rh.id.a_personal_stuff_25.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AVouKXsHIqJ6eosOlHJWl4yX0io8L5sqNBD3zLGYgQg="
+      "hash": "sha256-rSn0KFg4EnBQeGGYzypaPz92VmWyDeiIp3/EhlOel8Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AVouKXsHIqJ6eosOlHJWl4yX0io8L5sqNBD3zLGYgQg="
+      "hash": "sha256-rSn0KFg4EnBQeGGYzypaPz92VmWyDeiIp3/EhlOel8Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AVouKXsHIqJ6eosOlHJWl4yX0io8L5sqNBD3zLGYgQg="
+      "hash": "sha256-rSn0KFg4EnBQeGGYzypaPz92VmWyDeiIp3/EhlOel8Y="
     }
   },
-  "version": "1.6.0"
+  "version": "2.1.0"
 }

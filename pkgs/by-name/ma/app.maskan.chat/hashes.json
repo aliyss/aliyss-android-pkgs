@@ -1,18 +1,18 @@
 {
-  "apkName": "app.maskan.chat_100.apk",
+  "apkName": "app.maskan.chat_150.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yxQmEfcOf7TwAYIxFFNIY1icoePtp/M9UXHGwZ/c0As="
+      "hash": "sha256-vC8T/isvRkF20khoNlbR3bDCYyV87no+x2S5VGL7dVU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yxQmEfcOf7TwAYIxFFNIY1icoePtp/M9UXHGwZ/c0As="
+      "hash": "sha256-vC8T/isvRkF20khoNlbR3bDCYyV87no+x2S5VGL7dVU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yxQmEfcOf7TwAYIxFFNIY1icoePtp/M9UXHGwZ/c0As="
+      "hash": "sha256-vC8T/isvRkF20khoNlbR3bDCYyV87no+x2S5VGL7dVU="
     }
   },
-  "version": "2.4.3"
+  "version": "2.6.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "org.sensors2.osc_32.apk",
+  "apkName": "org.sensors2.osc_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gYepTWzH1Cyy6ky77DMz2PnpyapA3BiEuKZQT4tK4/E="
+      "hash": "sha256-sBPqIbKA7G0Yxvett6GiO29Wpd5I2/13ZJ2yvZOEMno="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gYepTWzH1Cyy6ky77DMz2PnpyapA3BiEuKZQT4tK4/E="
+      "hash": "sha256-sBPqIbKA7G0Yxvett6GiO29Wpd5I2/13ZJ2yvZOEMno="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gYepTWzH1Cyy6ky77DMz2PnpyapA3BiEuKZQT4tK4/E="
+      "hash": "sha256-sBPqIbKA7G0Yxvett6GiO29Wpd5I2/13ZJ2yvZOEMno="
     }
   },
-  "version": "0.17.1"
+  "version": "0.17.8"
 }

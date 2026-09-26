@@ -1,18 +1,18 @@
 {
-  "apkName": "com.agatamessina.webinspector_3.apk",
+  "apkName": "com.agatamessina.webinspector_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gMpcoLFyUq5CkNSGia+smaNJSCHLadwUJoi7FCCFJ+c="
+      "hash": "sha256-uPL1BarZ1yi3BP7LjZi39RdraFZa3yINQeFPumNpdOU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gMpcoLFyUq5CkNSGia+smaNJSCHLadwUJoi7FCCFJ+c="
+      "hash": "sha256-uPL1BarZ1yi3BP7LjZi39RdraFZa3yINQeFPumNpdOU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gMpcoLFyUq5CkNSGia+smaNJSCHLadwUJoi7FCCFJ+c="
+      "hash": "sha256-uPL1BarZ1yi3BP7LjZi39RdraFZa3yINQeFPumNpdOU="
     }
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }

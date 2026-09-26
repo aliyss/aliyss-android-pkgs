@@ -1,18 +1,18 @@
 {
-  "apkName": "org.exbin.bined.editor.android_19.apk",
+  "apkName": "org.exbin.bined.editor.android_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TOrD8kGxMnl27f+Ya0167rBGLAUp0zcXizLyDPjF9AM="
+      "hash": "sha256-Ad6jI92bOpIcb7yrKBfnccPayJWp8JfgXXewX0/aeUs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TOrD8kGxMnl27f+Ya0167rBGLAUp0zcXizLyDPjF9AM="
+      "hash": "sha256-Ad6jI92bOpIcb7yrKBfnccPayJWp8JfgXXewX0/aeUs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TOrD8kGxMnl27f+Ya0167rBGLAUp0zcXizLyDPjF9AM="
+      "hash": "sha256-Ad6jI92bOpIcb7yrKBfnccPayJWp8JfgXXewX0/aeUs="
     }
   },
-  "version": "0.2.10"
+  "version": "0.2.11"
 }

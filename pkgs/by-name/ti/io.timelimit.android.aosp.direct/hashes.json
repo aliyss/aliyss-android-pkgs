@@ -1,18 +1,18 @@
 {
-  "apkName": "io.timelimit.android.aosp.direct_227.apk",
+  "apkName": "io.timelimit.android.aosp.direct_231.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wgvNqjvyK6CJEqSxQGC/KYFdKQhCYaSFtqFzX+1OKH8="
+      "hash": "sha256-k9xePKUHfc/4ljZ9A5ZkLAoropNrspqlJVxJ9R3ybYY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wgvNqjvyK6CJEqSxQGC/KYFdKQhCYaSFtqFzX+1OKH8="
+      "hash": "sha256-k9xePKUHfc/4ljZ9A5ZkLAoropNrspqlJVxJ9R3ybYY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wgvNqjvyK6CJEqSxQGC/KYFdKQhCYaSFtqFzX+1OKH8="
+      "hash": "sha256-k9xePKUHfc/4ljZ9A5ZkLAoropNrspqlJVxJ9R3ybYY="
     }
   },
-  "version": "7.5.0"
+  "version": "7.7.1"
 }

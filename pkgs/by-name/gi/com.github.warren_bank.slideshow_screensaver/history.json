@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "002.01.06-17API",
+      "versionCode": 2010617
+    },
+    {
+      "version": "002.01.04-17API",
+      "versionCode": 2010417
+    },
+    {
+      "version": "002.01.03-17API",
+      "versionCode": 2010317
+    }
+  ]
+}

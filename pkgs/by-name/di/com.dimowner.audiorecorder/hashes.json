@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dimowner.audiorecorder_947.apk",
+  "apkName": "com.dimowner.audiorecorder_949.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-csG0e0fgaNgizkE1ti4W/KghI0+5rXpSWf/xiAP3BlY="
+      "hash": "sha256-FUaMWgl+SysxTF+9AAkf5yTvPOy0M+Qo/bTquyjqG0k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-csG0e0fgaNgizkE1ti4W/KghI0+5rXpSWf/xiAP3BlY="
+      "hash": "sha256-FUaMWgl+SysxTF+9AAkf5yTvPOy0M+Qo/bTquyjqG0k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-csG0e0fgaNgizkE1ti4W/KghI0+5rXpSWf/xiAP3BlY="
+      "hash": "sha256-FUaMWgl+SysxTF+9AAkf5yTvPOy0M+Qo/bTquyjqG0k="
     }
   },
-  "version": "2.3.0"
+  "version": "2.4.0"
 }

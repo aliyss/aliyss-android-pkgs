@@ -1,18 +1,18 @@
 {
-  "apkName": "com.samyak.repostore_21.apk",
+  "apkName": "com.samyak.repostore_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-mbLx4XsjLJRriN1pqrLfeX1fAixPGckJ69GvR7meRtw="
+      "hash": "sha256-Jot+gIutXy5JSZAs3Of7fA02QZXINBKxqGtNlqeXY2A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mbLx4XsjLJRriN1pqrLfeX1fAixPGckJ69GvR7meRtw="
+      "hash": "sha256-Jot+gIutXy5JSZAs3Of7fA02QZXINBKxqGtNlqeXY2A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mbLx4XsjLJRriN1pqrLfeX1fAixPGckJ69GvR7meRtw="
+      "hash": "sha256-Jot+gIutXy5JSZAs3Of7fA02QZXINBKxqGtNlqeXY2A="
     }
   },
-  "version": "1.0.20"
+  "version": "1.0.21"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "app.podiumpodcasts.podium_1000008.apk",
+  "apkName": "app.podiumpodcasts.podium_1000009.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jXatWYEIIh92Vo+QFkWvc5oxYSl5/0TE9UZrkRD1Sbo="
+      "hash": "sha256-K2iYXjSv0fHkze4jmpuTh/P2mjbCQySeXLHFGZdsvn4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jXatWYEIIh92Vo+QFkWvc5oxYSl5/0TE9UZrkRD1Sbo="
+      "hash": "sha256-K2iYXjSv0fHkze4jmpuTh/P2mjbCQySeXLHFGZdsvn4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jXatWYEIIh92Vo+QFkWvc5oxYSl5/0TE9UZrkRD1Sbo="
+      "hash": "sha256-K2iYXjSv0fHkze4jmpuTh/P2mjbCQySeXLHFGZdsvn4="
     }
   },
-  "version": "1.0.0-alpha08"
+  "version": "1.0.0-alpha09"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.leonlatsch.photok_66.apk",
+  "apkName": "dev.leonlatsch.photok_75.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JFbmtz+hPuqgO5Av5Ju3pURxbHB9petDGwsMIgYz9Vw="
+      "hash": "sha256-rotl+7CSVjNG8SbOyOBwHvpL0o9T3FBHe4AzpZfQtg8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JFbmtz+hPuqgO5Av5Ju3pURxbHB9petDGwsMIgYz9Vw="
+      "hash": "sha256-rotl+7CSVjNG8SbOyOBwHvpL0o9T3FBHe4AzpZfQtg8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JFbmtz+hPuqgO5Av5Ju3pURxbHB9petDGwsMIgYz9Vw="
+      "hash": "sha256-rotl+7CSVjNG8SbOyOBwHvpL0o9T3FBHe4AzpZfQtg8="
     }
   },
-  "version": "3.1.3"
+  "version": "3.4.3"
 }

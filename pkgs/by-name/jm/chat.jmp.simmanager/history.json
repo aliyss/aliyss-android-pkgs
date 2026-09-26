@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "jmp-v1.7.2",
+      "versionCode": 307
+    },
+    {
+      "version": "jmp-v1.7.1",
+      "versionCode": 305
+    },
+    {
+      "version": "jmp-v1.7.0",
+      "versionCode": 303
+    }
+  ]
+}

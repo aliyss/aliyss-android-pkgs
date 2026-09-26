@@ -1,18 +1,18 @@
 {
-  "apkName": "de.reimardoeffinger.quickdic_131.apk",
+  "apkName": "de.reimardoeffinger.quickdic_134.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qs2HTOIQZQZLOC/bIrZ7G0Qgsg2wFAa9gw4p7yWFoVo="
+      "hash": "sha256-fAwvxQepIWkc9n59oPP3n9wt/hRSOi8UN9/cEedOdpE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qs2HTOIQZQZLOC/bIrZ7G0Qgsg2wFAa9gw4p7yWFoVo="
+      "hash": "sha256-fAwvxQepIWkc9n59oPP3n9wt/hRSOi8UN9/cEedOdpE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qs2HTOIQZQZLOC/bIrZ7G0Qgsg2wFAa9gw4p7yWFoVo="
+      "hash": "sha256-fAwvxQepIWkc9n59oPP3n9wt/hRSOi8UN9/cEedOdpE="
     }
   },
-  "version": "5.8.2"
+  "version": "5.8.5"
 }

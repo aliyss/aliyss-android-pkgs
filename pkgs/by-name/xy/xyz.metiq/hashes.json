@@ -1,18 +1,18 @@
 {
-  "apkName": "xyz.metiq_33.apk",
+  "apkName": "xyz.metiq_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OFVZYMOMcMokaicMBJQ5YBepmMKGXINBybYBlaWGwtI="
+      "hash": "sha256-yB5oyW/AV8ULm4hNRXLAKt4nClvEtNJStZ0PXv4sIwg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OFVZYMOMcMokaicMBJQ5YBepmMKGXINBybYBlaWGwtI="
+      "hash": "sha256-yB5oyW/AV8ULm4hNRXLAKt4nClvEtNJStZ0PXv4sIwg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OFVZYMOMcMokaicMBJQ5YBepmMKGXINBybYBlaWGwtI="
+      "hash": "sha256-yB5oyW/AV8ULm4hNRXLAKt4nClvEtNJStZ0PXv4sIwg="
     }
   },
-  "version": "0.18.0"
+  "version": "0.21.0"
 }

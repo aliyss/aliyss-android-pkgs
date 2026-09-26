@@ -1,18 +1,18 @@
 {
-  "apkName": "com.achunt.weboslauncher_36.apk",
+  "apkName": "com.achunt.weboslauncher_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bzdZnXJIg1as1/Duc2Q6zxvVODXRdpmyGTUGpy2Jzyc="
+      "hash": "sha256-iozhNcDPxxoWq21EtvqPtEHEVlM6vxUceGbwHzDUg8k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bzdZnXJIg1as1/Duc2Q6zxvVODXRdpmyGTUGpy2Jzyc="
+      "hash": "sha256-iozhNcDPxxoWq21EtvqPtEHEVlM6vxUceGbwHzDUg8k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bzdZnXJIg1as1/Duc2Q6zxvVODXRdpmyGTUGpy2Jzyc="
+      "hash": "sha256-iozhNcDPxxoWq21EtvqPtEHEVlM6vxUceGbwHzDUg8k="
     }
   },
-  "version": "3.0.0"
+  "version": "3.5.0"
 }

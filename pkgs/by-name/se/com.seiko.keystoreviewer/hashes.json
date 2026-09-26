@@ -1,18 +1,18 @@
 {
-  "apkName": "com.seiko.keystoreviewer_3.apk",
+  "apkName": "com.seiko.keystoreviewer_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-i1HRkeDb3Kr1ncsVZUhWhuHPNsGyJZtfHViTiPYel0g="
+      "hash": "sha256-OvwjqMZQE771/wlaoO+SSMVAOOQUNxyZ4SJlUa6N1lo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-i1HRkeDb3Kr1ncsVZUhWhuHPNsGyJZtfHViTiPYel0g="
+      "hash": "sha256-OvwjqMZQE771/wlaoO+SSMVAOOQUNxyZ4SJlUa6N1lo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-i1HRkeDb3Kr1ncsVZUhWhuHPNsGyJZtfHViTiPYel0g="
+      "hash": "sha256-OvwjqMZQE771/wlaoO+SSMVAOOQUNxyZ4SJlUa6N1lo="
     }
   },
-  "version": "1.0.0"
+  "version": "1.2.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bintianqi.owndroid_45.apk",
+  "apkName": "com.bintianqi.owndroid_47.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5yuL4n5TaqINjMkF7QMf6gs+vdp20FsORvyxWGrhCyc="
+      "hash": "sha256-f8CAio7hQBzx95AQ794dJRG+NgN3JanjJplZXG5rjpg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5yuL4n5TaqINjMkF7QMf6gs+vdp20FsORvyxWGrhCyc="
+      "hash": "sha256-f8CAio7hQBzx95AQ794dJRG+NgN3JanjJplZXG5rjpg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5yuL4n5TaqINjMkF7QMf6gs+vdp20FsORvyxWGrhCyc="
+      "hash": "sha256-f8CAio7hQBzx95AQ794dJRG+NgN3JanjJplZXG5rjpg="
     }
   },
-  "version": "8.2"
+  "version": "8.3.1"
 }

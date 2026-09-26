@@ -1,18 +1,18 @@
 {
-  "apkName": "me.timeto.app_619.apk",
+  "apkName": "me.timeto.app_624.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-b3xO0/JpvCVMBj4AOInGGXuiq2H2nrwtDu1n/qT+V3A="
+      "hash": "sha256-z/JNS1BD4mg8XeQlZirWcjzOma7lWvNbFC1Jb0t2IZE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-b3xO0/JpvCVMBj4AOInGGXuiq2H2nrwtDu1n/qT+V3A="
+      "hash": "sha256-z/JNS1BD4mg8XeQlZirWcjzOma7lWvNbFC1Jb0t2IZE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-b3xO0/JpvCVMBj4AOInGGXuiq2H2nrwtDu1n/qT+V3A="
+      "hash": "sha256-z/JNS1BD4mg8XeQlZirWcjzOma7lWvNbFC1Jb0t2IZE="
     }
   },
-  "version": "2026.07.31"
+  "version": "2026.09.19"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.armanmaurya.internetradio_14.apk",
+  "apkName": "com.armanmaurya.internetradio_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SkdOy+vAvnJ20MJnpt7ku1O6SQltAHc95/SrCodo9B8="
+      "hash": "sha256-4NvzuoOUl2ySx3dRFHTYCxGqOf5qEZoO2B+ZbrwvPFU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SkdOy+vAvnJ20MJnpt7ku1O6SQltAHc95/SrCodo9B8="
+      "hash": "sha256-4NvzuoOUl2ySx3dRFHTYCxGqOf5qEZoO2B+ZbrwvPFU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SkdOy+vAvnJ20MJnpt7ku1O6SQltAHc95/SrCodo9B8="
+      "hash": "sha256-4NvzuoOUl2ySx3dRFHTYCxGqOf5qEZoO2B+ZbrwvPFU="
     }
   },
-  "version": "0.7.1"
+  "version": "0.8.1"
 }

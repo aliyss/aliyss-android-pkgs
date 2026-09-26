@@ -1,18 +1,18 @@
 {
-  "apkName": "com.machiav3lli.fdroid_1209.apk",
+  "apkName": "com.machiav3lli.fdroid_1301.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zU+4aqy1Uz+6gVR5m5OgcHGKcbXxVg2+ebTes13PSMg="
+      "hash": "sha256-0DnNXc/cl7klNyO7kI964xwoJ0LB0LyechB9g3BfjG0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zU+4aqy1Uz+6gVR5m5OgcHGKcbXxVg2+ebTes13PSMg="
+      "hash": "sha256-0DnNXc/cl7klNyO7kI964xwoJ0LB0LyechB9g3BfjG0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zU+4aqy1Uz+6gVR5m5OgcHGKcbXxVg2+ebTes13PSMg="
+      "hash": "sha256-0DnNXc/cl7klNyO7kI964xwoJ0LB0LyechB9g3BfjG0="
     }
   },
-  "version": "1.2.6"
+  "version": "1.3.0"
 }

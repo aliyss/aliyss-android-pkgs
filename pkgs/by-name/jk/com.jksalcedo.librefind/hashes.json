@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jksalcedo.librefind_10100300.apk",
+  "apkName": "com.jksalcedo.librefind_10200102.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-S8Mat66Xl34yDN220CS6Xv4ZYIBGnelduR4Q5mJJypc="
+      "hash": "sha256-6M6qaur7iKVGWuXvqQp99YJ7a2QlZvLn9bvGFJt83lI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-S8Mat66Xl34yDN220CS6Xv4ZYIBGnelduR4Q5mJJypc="
+      "hash": "sha256-6M6qaur7iKVGWuXvqQp99YJ7a2QlZvLn9bvGFJt83lI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-S8Mat66Xl34yDN220CS6Xv4ZYIBGnelduR4Q5mJJypc="
+      "hash": "sha256-6M6qaur7iKVGWuXvqQp99YJ7a2QlZvLn9bvGFJt83lI="
     }
   },
-  "version": "1.1.0"
+  "version": "1.2.0-beta.2"
 }

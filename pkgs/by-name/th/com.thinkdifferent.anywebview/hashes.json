@@ -1,18 +1,18 @@
 {
-  "apkName": "com.thinkdifferent.anywebview_6.apk",
+  "apkName": "com.thinkdifferent.anywebview_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AAhpIdklUyloqVdvOSf6JcHRqX7MN3IJhg0UC5Da/lI="
+      "hash": "sha256-7Fu9SJk4H+IzzGNDv+UCU3orbWln6afA/EaL2wr9nBU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AAhpIdklUyloqVdvOSf6JcHRqX7MN3IJhg0UC5Da/lI="
+      "hash": "sha256-7Fu9SJk4H+IzzGNDv+UCU3orbWln6afA/EaL2wr9nBU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AAhpIdklUyloqVdvOSf6JcHRqX7MN3IJhg0UC5Da/lI="
+      "hash": "sha256-7Fu9SJk4H+IzzGNDv+UCU3orbWln6afA/EaL2wr9nBU="
     }
   },
-  "version": "1.4.1"
+  "version": "1.4.2"
 }

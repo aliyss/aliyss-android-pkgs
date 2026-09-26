@@ -1,18 +1,18 @@
 {
-  "apkName": "ch.pocketpc.nearbyglasses_10.apk",
+  "apkName": "ch.pocketpc.nearbyglasses_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JJZI5LYVXxSTtLNWkhB1KQsWc6tN6P5qB/KjjqJheEo="
+      "hash": "sha256-hbs+NQFw28OIQnPUzONPXnETmMrzrPAkzmTQOH2t3Co="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JJZI5LYVXxSTtLNWkhB1KQsWc6tN6P5qB/KjjqJheEo="
+      "hash": "sha256-hbs+NQFw28OIQnPUzONPXnETmMrzrPAkzmTQOH2t3Co="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JJZI5LYVXxSTtLNWkhB1KQsWc6tN6P5qB/KjjqJheEo="
+      "hash": "sha256-hbs+NQFw28OIQnPUzONPXnETmMrzrPAkzmTQOH2t3Co="
     }
   },
-  "version": "1.0.9"
+  "version": "1.0.11"
 }

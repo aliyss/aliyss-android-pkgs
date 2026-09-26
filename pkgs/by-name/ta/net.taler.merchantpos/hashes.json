@@ -1,18 +1,18 @@
 {
-  "apkName": "net.taler.merchantpos_25.apk",
+  "apkName": "net.taler.merchantpos_26.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-91slDpLQgUKHxRlfCnw/SViKOFBuxwyFMA0ToeL0EEA="
+      "hash": "sha256-bvx0O3jcrgtW2av80YzJ9nylulxZ1/K33DaZ8tUEPRY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-91slDpLQgUKHxRlfCnw/SViKOFBuxwyFMA0ToeL0EEA="
+      "hash": "sha256-bvx0O3jcrgtW2av80YzJ9nylulxZ1/K33DaZ8tUEPRY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-91slDpLQgUKHxRlfCnw/SViKOFBuxwyFMA0ToeL0EEA="
+      "hash": "sha256-bvx0O3jcrgtW2av80YzJ9nylulxZ1/K33DaZ8tUEPRY="
     }
   },
-  "version": "1.6.2"
+  "version": "1.6.3"
 }

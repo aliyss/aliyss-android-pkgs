@@ -1,18 +1,18 @@
 {
-  "apkName": "com.desarrollodroide.pagekeeper_53.apk",
+  "apkName": "com.desarrollodroide.pagekeeper_57.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KS37JAFOv7rDkE1Reab7Y9z8zLpdfwH08sqWd9wTNmk="
+      "hash": "sha256-Ir9rus9BG37Y7OKEl831RfxTee0OPvefRu3lme1305s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KS37JAFOv7rDkE1Reab7Y9z8zLpdfwH08sqWd9wTNmk="
+      "hash": "sha256-Ir9rus9BG37Y7OKEl831RfxTee0OPvefRu3lme1305s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KS37JAFOv7rDkE1Reab7Y9z8zLpdfwH08sqWd9wTNmk="
+      "hash": "sha256-Ir9rus9BG37Y7OKEl831RfxTee0OPvefRu3lme1305s="
     }
   },
-  "version": "1.51.01"
+  "version": "1.52.02"
 }

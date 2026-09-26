@@ -1,18 +1,18 @@
 {
-  "apkName": "ua.com.radiokot.photoprism_68.apk",
+  "apkName": "ua.com.radiokot.photoprism_72.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rjFNWohZaEvWN8hLnqDWIZmL7dggyyHFccK13vIdkcA="
+      "hash": "sha256-z1gIMJFMhQaxQPGgrhSOWrnA+wwDcQ8tdPsymBKm63k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rjFNWohZaEvWN8hLnqDWIZmL7dggyyHFccK13vIdkcA="
+      "hash": "sha256-z1gIMJFMhQaxQPGgrhSOWrnA+wwDcQ8tdPsymBKm63k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rjFNWohZaEvWN8hLnqDWIZmL7dggyyHFccK13vIdkcA="
+      "hash": "sha256-z1gIMJFMhQaxQPGgrhSOWrnA+wwDcQ8tdPsymBKm63k="
     }
   },
-  "version": "1.44.0"
+  "version": "1.47.0"
 }

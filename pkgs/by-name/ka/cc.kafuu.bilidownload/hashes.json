@@ -1,18 +1,18 @@
 {
-  "apkName": "cc.kafuu.bilidownload_20305.apk",
+  "apkName": "cc.kafuu.bilidownload_20307.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-XFUUHAwkVJp77iTsnwSWtoQYVRZqfUw3LAPhujnWRNk="
+      "hash": "sha256-R+m1jVpjAyhy+EzhPxgkIkYaNlzn6vm6Zmzmlyl58qM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XFUUHAwkVJp77iTsnwSWtoQYVRZqfUw3LAPhujnWRNk="
+      "hash": "sha256-R+m1jVpjAyhy+EzhPxgkIkYaNlzn6vm6Zmzmlyl58qM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XFUUHAwkVJp77iTsnwSWtoQYVRZqfUw3LAPhujnWRNk="
+      "hash": "sha256-R+m1jVpjAyhy+EzhPxgkIkYaNlzn6vm6Zmzmlyl58qM="
     }
   },
-  "version": "2.3.5.foss"
+  "version": "2.3.7.foss"
 }

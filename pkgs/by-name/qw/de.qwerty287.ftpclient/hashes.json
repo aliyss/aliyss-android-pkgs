@@ -1,18 +1,18 @@
 {
-  "apkName": "de.qwerty287.ftpclient_29.apk",
+  "apkName": "de.qwerty287.ftpclient_30.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-DQFUVW8Mp6/V0ucUsSLrUj6L+WnU/VkLr22jR21GgTQ="
+      "hash": "sha256-6GEdGgE/laJMrcD/6H9LGiGFFnKLcvpFP6mHa5o4vWw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DQFUVW8Mp6/V0ucUsSLrUj6L+WnU/VkLr22jR21GgTQ="
+      "hash": "sha256-6GEdGgE/laJMrcD/6H9LGiGFFnKLcvpFP6mHa5o4vWw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DQFUVW8Mp6/V0ucUsSLrUj6L+WnU/VkLr22jR21GgTQ="
+      "hash": "sha256-6GEdGgE/laJMrcD/6H9LGiGFFnKLcvpFP6mHa5o4vWw="
     }
   },
-  "version": "3.1.1"
+  "version": "3.2.0"
 }

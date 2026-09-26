@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.rubec.otoscope_9.apk",
+  "apkName": "dev.rubec.otoscope_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rxm/zta9naWh8T+hCW7fnxaXYH421tdTaPrSDN+/98E="
+      "hash": "sha256-kwq7yd2twUB7LqSM/+P5x0Vl++V9BrFzjf9rTuR5xfg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rxm/zta9naWh8T+hCW7fnxaXYH421tdTaPrSDN+/98E="
+      "hash": "sha256-kwq7yd2twUB7LqSM/+P5x0Vl++V9BrFzjf9rTuR5xfg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rxm/zta9naWh8T+hCW7fnxaXYH421tdTaPrSDN+/98E="
+      "hash": "sha256-kwq7yd2twUB7LqSM/+P5x0Vl++V9BrFzjf9rTuR5xfg="
     }
   },
-  "version": "0.6.0"
+  "version": "0.7.0"
 }

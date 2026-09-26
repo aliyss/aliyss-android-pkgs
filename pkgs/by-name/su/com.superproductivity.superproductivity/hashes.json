@@ -1,18 +1,18 @@
 {
-  "apkName": "com.superproductivity.superproductivity_1819009000.apk",
+  "apkName": "com.superproductivity.superproductivity_1901009000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-cgIFqecvtmElJuQyiwdhd2VYzifbBrZEq3Z+VF2E7lM="
+      "hash": "sha256-V22niUdB4N9Bo5Ozh4vP9YgV2GrcIBobyos2hVqx7Fc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cgIFqecvtmElJuQyiwdhd2VYzifbBrZEq3Z+VF2E7lM="
+      "hash": "sha256-V22niUdB4N9Bo5Ozh4vP9YgV2GrcIBobyos2hVqx7Fc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cgIFqecvtmElJuQyiwdhd2VYzifbBrZEq3Z+VF2E7lM="
+      "hash": "sha256-V22niUdB4N9Bo5Ozh4vP9YgV2GrcIBobyos2hVqx7Fc="
     }
   },
-  "version": "18.19.0"
+  "version": "19.1.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bily_12.apk",
+  "apkName": "com.bily_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-4wFzQc9pnAiS4yUAnSAPvZ2i5Xzyua6H/yuO8Ul43TY="
+      "hash": "sha256-ZK3XBRik31b7+gSScWGiQ7AVUaBC4WrX9oNtV4tZWJc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4wFzQc9pnAiS4yUAnSAPvZ2i5Xzyua6H/yuO8Ul43TY="
+      "hash": "sha256-ZK3XBRik31b7+gSScWGiQ7AVUaBC4WrX9oNtV4tZWJc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4wFzQc9pnAiS4yUAnSAPvZ2i5Xzyua6H/yuO8Ul43TY="
+      "hash": "sha256-ZK3XBRik31b7+gSScWGiQ7AVUaBC4WrX9oNtV4tZWJc="
     }
   },
-  "version": "2.1.0"
+  "version": "2.1.4"
 }

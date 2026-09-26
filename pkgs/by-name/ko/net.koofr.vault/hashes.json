@@ -1,18 +1,18 @@
 {
-  "apkName": "net.koofr.vault_125001.apk",
+  "apkName": "net.koofr.vault_126001.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NbNgVu5E1Ono5q2UjBA2JsLiEEbMyWQu1xN7VVRDTUQ="
+      "hash": "sha256-Rj6dUqE0eRV2DDiwihrxXrPdbZBDofwYFeJQVnhEfQg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NbNgVu5E1Ono5q2UjBA2JsLiEEbMyWQu1xN7VVRDTUQ="
+      "hash": "sha256-Rj6dUqE0eRV2DDiwihrxXrPdbZBDofwYFeJQVnhEfQg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NbNgVu5E1Ono5q2UjBA2JsLiEEbMyWQu1xN7VVRDTUQ="
+      "hash": "sha256-Rj6dUqE0eRV2DDiwihrxXrPdbZBDofwYFeJQVnhEfQg="
     }
   },
-  "version": "0.1.25"
+  "version": "0.1.26"
 }

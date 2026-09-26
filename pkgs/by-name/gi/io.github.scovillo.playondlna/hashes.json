@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.scovillo.playondlna_13.apk",
+  "apkName": "io.github.scovillo.playondlna_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8fxetxHINvfwIO/RVrOLGXOWqxEm/+3BzjjT4vmo+p0="
+      "hash": "sha256-9lbKsJVsbgN9ntFyHznWLC73HpXI19zhSASQ3DIWsG8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8fxetxHINvfwIO/RVrOLGXOWqxEm/+3BzjjT4vmo+p0="
+      "hash": "sha256-9lbKsJVsbgN9ntFyHznWLC73HpXI19zhSASQ3DIWsG8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8fxetxHINvfwIO/RVrOLGXOWqxEm/+3BzjjT4vmo+p0="
+      "hash": "sha256-9lbKsJVsbgN9ntFyHznWLC73HpXI19zhSASQ3DIWsG8="
     }
   },
-  "version": "1.12"
+  "version": "1.15"
 }

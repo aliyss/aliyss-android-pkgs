@@ -1,18 +1,18 @@
 {
-  "apkName": "si.jakobkreft.ontime_9.apk",
+  "apkName": "si.jakobkreft.ontime_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-btQYs9SRx7/tt4JmMIDPprJR1Djuskb4D/j8x03LEok="
+      "hash": "sha256-ueleFL8BevvZI3YxkCQnfWdUZYO+F2apjOWifxV9f+4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-btQYs9SRx7/tt4JmMIDPprJR1Djuskb4D/j8x03LEok="
+      "hash": "sha256-ueleFL8BevvZI3YxkCQnfWdUZYO+F2apjOWifxV9f+4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-btQYs9SRx7/tt4JmMIDPprJR1Djuskb4D/j8x03LEok="
+      "hash": "sha256-ueleFL8BevvZI3YxkCQnfWdUZYO+F2apjOWifxV9f+4="
     }
   },
-  "version": "2.6"
+  "version": "3.2"
 }

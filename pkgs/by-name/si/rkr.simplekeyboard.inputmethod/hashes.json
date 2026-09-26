@@ -1,18 +1,18 @@
 {
-  "apkName": "rkr.simplekeyboard.inputmethod_146.apk",
+  "apkName": "rkr.simplekeyboard.inputmethod_148.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FyKQ7vkIZeAEADJaQw6iv+iznnUVFS5bvcztv1ZrIDE="
+      "hash": "sha256-uK/9mGBBr8n0f1mjtZU7eRoGQB+3doLP9VHtTWjDKIU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FyKQ7vkIZeAEADJaQw6iv+iznnUVFS5bvcztv1ZrIDE="
+      "hash": "sha256-uK/9mGBBr8n0f1mjtZU7eRoGQB+3doLP9VHtTWjDKIU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FyKQ7vkIZeAEADJaQw6iv+iznnUVFS5bvcztv1ZrIDE="
+      "hash": "sha256-uK/9mGBBr8n0f1mjtZU7eRoGQB+3doLP9VHtTWjDKIU="
     }
   },
-  "version": "6.5"
+  "version": "6.7"
 }

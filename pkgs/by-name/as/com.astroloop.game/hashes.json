@@ -1,18 +1,18 @@
 {
-  "apkName": "com.astroloop.game_3.apk",
+  "apkName": "com.astroloop.game_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MvETy3TBGkaCLKAnVJseGMi3v0Ah432SYfuB7sfaLcY="
+      "hash": "sha256-0ZBMOyBQZXsEORg0bDwJ3yMg1vAcv78zV61eMoTx2Hk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MvETy3TBGkaCLKAnVJseGMi3v0Ah432SYfuB7sfaLcY="
+      "hash": "sha256-0ZBMOyBQZXsEORg0bDwJ3yMg1vAcv78zV61eMoTx2Hk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MvETy3TBGkaCLKAnVJseGMi3v0Ah432SYfuB7sfaLcY="
+      "hash": "sha256-0ZBMOyBQZXsEORg0bDwJ3yMg1vAcv78zV61eMoTx2Hk="
     }
   },
-  "version": "1.2"
+  "version": "1.3"
 }

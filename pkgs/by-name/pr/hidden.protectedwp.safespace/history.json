@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "93.0",
+      "versionCode": 93
+    },
+    {
+      "version": "92.0",
+      "versionCode": 92
+    },
+    {
+      "version": "89.0",
+      "versionCode": 89
+    }
+  ]
+}

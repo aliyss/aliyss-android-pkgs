@@ -1,18 +1,18 @@
 {
-  "apkName": "com.zfdang.touchhelper_275.apk",
+  "apkName": "com.zfdang.touchhelper_277.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-r88dEhntjKH87hR1x/oxYItruav9ZKOMFd5H9ue9Hzo="
+      "hash": "sha256-/HF/OVRnCe+X6EGEfd+SzFxbog5pP7/bmDNOIvdTNa4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-r88dEhntjKH87hR1x/oxYItruav9ZKOMFd5H9ue9Hzo="
+      "hash": "sha256-/HF/OVRnCe+X6EGEfd+SzFxbog5pP7/bmDNOIvdTNa4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-r88dEhntjKH87hR1x/oxYItruav9ZKOMFd5H9ue9Hzo="
+      "hash": "sha256-/HF/OVRnCe+X6EGEfd+SzFxbog5pP7/bmDNOIvdTNa4="
     }
   },
-  "version": "275"
+  "version": "277"
 }

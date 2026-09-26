@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.hloth.zaragoza_tarjeta_bus_1.apk",
+  "apkName": "dev.hloth.zaragoza_tarjeta_bus_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+0t7SJuWbUYmtwodqHj+WCiLcxap3jleGn9YwQ4tuM8="
+      "hash": "sha256-ypR5/Wcl+XVlpprtYSDV2vcL5IyqzRt1MSV4OqS00Jw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+0t7SJuWbUYmtwodqHj+WCiLcxap3jleGn9YwQ4tuM8="
+      "hash": "sha256-ypR5/Wcl+XVlpprtYSDV2vcL5IyqzRt1MSV4OqS00Jw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+0t7SJuWbUYmtwodqHj+WCiLcxap3jleGn9YwQ4tuM8="
+      "hash": "sha256-ypR5/Wcl+XVlpprtYSDV2vcL5IyqzRt1MSV4OqS00Jw="
     }
   },
-  "version": "1.0"
+  "version": "1.3"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jarsilio.android.magnifica_18.apk",
+  "apkName": "com.jarsilio.android.magnifica_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qvDqyZlWMuM7bFGwJzqNylDoYAeiB7s7UDBXhgre4Uk="
+      "hash": "sha256-5ipsAWSS94OzusIzbAh+4YhjeeG6Re6Jq6phe9PrYz8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qvDqyZlWMuM7bFGwJzqNylDoYAeiB7s7UDBXhgre4Uk="
+      "hash": "sha256-5ipsAWSS94OzusIzbAh+4YhjeeG6Re6Jq6phe9PrYz8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qvDqyZlWMuM7bFGwJzqNylDoYAeiB7s7UDBXhgre4Uk="
+      "hash": "sha256-5ipsAWSS94OzusIzbAh+4YhjeeG6Re6Jq6phe9PrYz8="
     }
   },
-  "version": "1.1.5"
+  "version": "1.2.5"
 }

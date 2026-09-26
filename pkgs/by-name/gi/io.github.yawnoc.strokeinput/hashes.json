@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.yawnoc.strokeinput_72.apk",
+  "apkName": "io.github.yawnoc.strokeinput_74.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-nJaIXxulRAk9BgGFFQsfKNOqTSluBxQnmyRgthCFYM8="
+      "hash": "sha256-NgBFEzjbrcA7WIMPEhtLwt8n/s/p8gSvLJzrL98sWV0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nJaIXxulRAk9BgGFFQsfKNOqTSluBxQnmyRgthCFYM8="
+      "hash": "sha256-NgBFEzjbrcA7WIMPEhtLwt8n/s/p8gSvLJzrL98sWV0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nJaIXxulRAk9BgGFFQsfKNOqTSluBxQnmyRgthCFYM8="
+      "hash": "sha256-NgBFEzjbrcA7WIMPEhtLwt8n/s/p8gSvLJzrL98sWV0="
     }
   },
-  "version": "1.6.0"
+  "version": "1.6.2"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "me.hackerchick.catima_168.apk",
+  "apkName": "me.hackerchick.catima_1002.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tlx6bVXJYgl7hVEkRTfM5ex0FWV/Q69lOIhlyia1vFc="
+      "hash": "sha256-TwH0DQbYL8W4z7vF7M0IMVGoZWT71PpCDrVKrr9mi3E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tlx6bVXJYgl7hVEkRTfM5ex0FWV/Q69lOIhlyia1vFc="
+      "hash": "sha256-TwH0DQbYL8W4z7vF7M0IMVGoZWT71PpCDrVKrr9mi3E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tlx6bVXJYgl7hVEkRTfM5ex0FWV/Q69lOIhlyia1vFc="
+      "hash": "sha256-TwH0DQbYL8W4z7vF7M0IMVGoZWT71PpCDrVKrr9mi3E="
     }
   },
-  "version": "2.44.0"
+  "version": "2.45.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mua.unmukto_3.apk",
+  "apkName": "com.mua.unmukto_6.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OxlYOo0ro3VmsD6UWPq6Cze0Dm5V6FnWv4bGBFXNZCI="
+      "hash": "sha256-qdfaklvN0dnlI2vv9zMvzxMDHM03qIpmxM7S8sKGKE0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OxlYOo0ro3VmsD6UWPq6Cze0Dm5V6FnWv4bGBFXNZCI="
+      "hash": "sha256-qdfaklvN0dnlI2vv9zMvzxMDHM03qIpmxM7S8sKGKE0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OxlYOo0ro3VmsD6UWPq6Cze0Dm5V6FnWv4bGBFXNZCI="
+      "hash": "sha256-qdfaklvN0dnlI2vv9zMvzxMDHM03qIpmxM7S8sKGKE0="
     }
   },
-  "version": "1.2"
+  "version": "1.5"
 }

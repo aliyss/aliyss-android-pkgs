@@ -1,18 +1,18 @@
 {
-  "apkName": "com.greenart7c3.nostrsigner_198.apk",
+  "apkName": "com.greenart7c3.nostrsigner_207.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-UplXV/eshFlqlAZ2ztGUpYOV+GWh06DkHHJx+kEingc="
+      "hash": "sha256-DH0cv30//3Ae8WamljCdCJHhulUo0QB/v9RZhBQfQoQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-UplXV/eshFlqlAZ2ztGUpYOV+GWh06DkHHJx+kEingc="
+      "hash": "sha256-DH0cv30//3Ae8WamljCdCJHhulUo0QB/v9RZhBQfQoQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-UplXV/eshFlqlAZ2ztGUpYOV+GWh06DkHHJx+kEingc="
+      "hash": "sha256-DH0cv30//3Ae8WamljCdCJHhulUo0QB/v9RZhBQfQoQ="
     }
   },
-  "version": "6.4.0"
+  "version": "6.6.5"
 }

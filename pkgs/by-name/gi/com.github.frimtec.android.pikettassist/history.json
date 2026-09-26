@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "3.0.4-Anchovy-oss",
+      "versionCode": 2982107
+    },
+    {
+      "version": "3.0.3-Anchovy-oss",
+      "versionCode": 2923261
+    },
+    {
+      "version": "3.0.1-Anchovy-oss",
+      "versionCode": 2914501
+    }
+  ]
+}

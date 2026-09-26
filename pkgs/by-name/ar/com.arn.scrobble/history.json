@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "4.45 GH",
+      "versionCode": 445
+    },
+    {
+      "version": "4.44 GH",
+      "versionCode": 444
+    },
+    {
+      "version": "4.42 GH",
+      "versionCode": 442
+    }
+  ]
+}

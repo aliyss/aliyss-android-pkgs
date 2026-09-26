@@ -1,18 +1,18 @@
 {
-  "apkName": "de.mm20.launcher2.release_2026053100.apk",
+  "apkName": "de.mm20.launcher2.release_2026091500.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-UCHKFpOkbsDps+x5+QDwKuPOzV9Q8F68tSspqLgyl0I="
+      "hash": "sha256-qDJkxvtDeq0IPGEgak5526VVMA29RXj6F8DEP1V5hzk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-UCHKFpOkbsDps+x5+QDwKuPOzV9Q8F68tSspqLgyl0I="
+      "hash": "sha256-qDJkxvtDeq0IPGEgak5526VVMA29RXj6F8DEP1V5hzk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-UCHKFpOkbsDps+x5+QDwKuPOzV9Q8F68tSspqLgyl0I="
+      "hash": "sha256-qDJkxvtDeq0IPGEgak5526VVMA29RXj6F8DEP1V5hzk="
     }
   },
-  "version": "1.40.2-fdroid"
+  "version": "1.41.0-fdroid"
 }

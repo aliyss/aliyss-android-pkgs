@@ -1,18 +1,18 @@
 {
-  "apkName": "com.zoffcc.applications.undereat_10035.apk",
+  "apkName": "com.zoffcc.applications.undereat_10037.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vmVinIvSfiRMAGt8Z9EId5mCfZ+5gP5/5yxI21TwcxE="
+      "hash": "sha256-QgIBzJT2HWEmvU+mOLSViTNGbb09PjRjiYc+/VX6Yz0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vmVinIvSfiRMAGt8Z9EId5mCfZ+5gP5/5yxI21TwcxE="
+      "hash": "sha256-QgIBzJT2HWEmvU+mOLSViTNGbb09PjRjiYc+/VX6Yz0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vmVinIvSfiRMAGt8Z9EId5mCfZ+5gP5/5yxI21TwcxE="
+      "hash": "sha256-QgIBzJT2HWEmvU+mOLSViTNGbb09PjRjiYc+/VX6Yz0="
     }
   },
-  "version": "1.0.35"
+  "version": "1.0.37"
 }

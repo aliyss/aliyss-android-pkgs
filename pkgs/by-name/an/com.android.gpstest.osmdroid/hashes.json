@@ -1,18 +1,18 @@
 {
-  "apkName": "com.android.gpstest.osmdroid_24099.apk",
+  "apkName": "com.android.gpstest.osmdroid_24100.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AQEZKDbBLaJbECwLbYx/WjdJemYCT/jC+a3q5/Icm3E="
+      "hash": "sha256-WErVSS2H7XxnL2DKJbd8dCQalAwC7gex5sA63XmfnvE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AQEZKDbBLaJbECwLbYx/WjdJemYCT/jC+a3q5/Icm3E="
+      "hash": "sha256-WErVSS2H7XxnL2DKJbd8dCQalAwC7gex5sA63XmfnvE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AQEZKDbBLaJbECwLbYx/WjdJemYCT/jC+a3q5/Icm3E="
+      "hash": "sha256-WErVSS2H7XxnL2DKJbd8dCQalAwC7gex5sA63XmfnvE="
     }
   },
-  "version": "3.10.5"
+  "version": "3.10.6"
 }

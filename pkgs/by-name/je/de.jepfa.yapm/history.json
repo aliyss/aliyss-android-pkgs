@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2.2.6",
+      "versionCode": 202006
+    },
+    {
+      "version": "2.2.5",
+      "versionCode": 202005
+    },
+    {
+      "version": "2.2.4",
+      "versionCode": 202004
+    }
+  ]
+}

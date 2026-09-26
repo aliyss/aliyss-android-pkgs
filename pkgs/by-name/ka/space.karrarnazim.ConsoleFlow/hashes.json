@@ -1,18 +1,18 @@
 {
-  "apkName": "space.karrarnazim.ConsoleFlow_13.apk",
+  "apkName": "space.karrarnazim.ConsoleFlow_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-4/1Ew6eOLa07IsCNBrwlu0dv/wAB9xZnAyT1dU/varY="
+      "hash": "sha256-wLAUbcYHyhIs0ui5Zebo5O8UUC146P6AukHYPJFADjs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4/1Ew6eOLa07IsCNBrwlu0dv/wAB9xZnAyT1dU/varY="
+      "hash": "sha256-wLAUbcYHyhIs0ui5Zebo5O8UUC146P6AukHYPJFADjs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4/1Ew6eOLa07IsCNBrwlu0dv/wAB9xZnAyT1dU/varY="
+      "hash": "sha256-wLAUbcYHyhIs0ui5Zebo5O8UUC146P6AukHYPJFADjs="
     }
   },
-  "version": "2.2.8"
+  "version": "2.2.11"
 }

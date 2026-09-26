@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dede.android_eggs_80.apk",
+  "apkName": "com.dede.android_eggs_81.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9PcyfpuynNXRMmgcEIR3BFueHl1QgBm+prCvrLbiXH8="
+      "hash": "sha256-6lcQqQMu/rjKi2K9PDjnsa1YpHSXpe09azif5vqBG4A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9PcyfpuynNXRMmgcEIR3BFueHl1QgBm+prCvrLbiXH8="
+      "hash": "sha256-6lcQqQMu/rjKi2K9PDjnsa1YpHSXpe09azif5vqBG4A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9PcyfpuynNXRMmgcEIR3BFueHl1QgBm+prCvrLbiXH8="
+      "hash": "sha256-6lcQqQMu/rjKi2K9PDjnsa1YpHSXpe09azif5vqBG4A="
     }
   },
-  "version": "5.4.0"
+  "version": "5.5.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "org.joinmastodon.android_189.apk",
+  "apkName": "org.joinmastodon.android_190.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-P20YRgvrnwY216PRVBESFAfn5BsQr5/OF1bpMi0bljU="
+      "hash": "sha256-G7i5pty9cNB9c3PpPtGzFkYOvRmD9VSRS6+8Uj4krHY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-P20YRgvrnwY216PRVBESFAfn5BsQr5/OF1bpMi0bljU="
+      "hash": "sha256-G7i5pty9cNB9c3PpPtGzFkYOvRmD9VSRS6+8Uj4krHY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-P20YRgvrnwY216PRVBESFAfn5BsQr5/OF1bpMi0bljU="
+      "hash": "sha256-G7i5pty9cNB9c3PpPtGzFkYOvRmD9VSRS6+8Uj4krHY="
     }
   },
-  "version": "2.13.2"
+  "version": "2.13.3"
 }

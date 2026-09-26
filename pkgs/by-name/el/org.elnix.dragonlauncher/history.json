@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "4.2.1 (Nounou)",
+      "versionCode": 66
+    },
+    {
+      "version": "4.2.0 (Nounou)",
+      "versionCode": 65
+    },
+    {
+      "version": "4.1.4 (Labyrinth)",
+      "versionCode": 64
+    }
+  ]
+}

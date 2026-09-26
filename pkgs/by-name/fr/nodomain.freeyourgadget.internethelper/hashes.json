@@ -1,18 +1,18 @@
 {
-  "apkName": "nodomain.freeyourgadget.internethelper_7.apk",
+  "apkName": "nodomain.freeyourgadget.internethelper_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ICj8tJ9o5oVcb/YrrZmhVEiEDUSJFalKLfuG7F3o8Ec="
+      "hash": "sha256-IVJDYMNj8nqtvZjN5Th8pwLFrsZ5AeAu5DPdORCYQkc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ICj8tJ9o5oVcb/YrrZmhVEiEDUSJFalKLfuG7F3o8Ec="
+      "hash": "sha256-IVJDYMNj8nqtvZjN5Th8pwLFrsZ5AeAu5DPdORCYQkc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ICj8tJ9o5oVcb/YrrZmhVEiEDUSJFalKLfuG7F3o8Ec="
+      "hash": "sha256-IVJDYMNj8nqtvZjN5Th8pwLFrsZ5AeAu5DPdORCYQkc="
     }
   },
-  "version": "0.7"
+  "version": "0.8"
 }

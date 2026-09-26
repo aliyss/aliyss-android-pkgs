@@ -1,18 +1,18 @@
 {
-  "apkName": "de.kaiserdragon.iconrequest_32.apk",
+  "apkName": "de.kaiserdragon.iconrequest_33.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KsOpe/Xexr/3kbbp0pqBCaA0Kfn35sRZeJV5YiPj0y4="
+      "hash": "sha256-M4h4bqhaWgJRtgoH9nLzqcFiW/g+ipFaUwdnunZint8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KsOpe/Xexr/3kbbp0pqBCaA0Kfn35sRZeJV5YiPj0y4="
+      "hash": "sha256-M4h4bqhaWgJRtgoH9nLzqcFiW/g+ipFaUwdnunZint8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KsOpe/Xexr/3kbbp0pqBCaA0Kfn35sRZeJV5YiPj0y4="
+      "hash": "sha256-M4h4bqhaWgJRtgoH9nLzqcFiW/g+ipFaUwdnunZint8="
     }
   },
-  "version": "2.8.0"
+  "version": "2.9.0"
 }

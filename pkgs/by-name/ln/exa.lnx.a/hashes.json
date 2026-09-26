@@ -1,18 +1,18 @@
 {
-  "apkName": "exa.lnx.a_675.apk",
+  "apkName": "exa.lnx.a_677.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-UQGvOuKj/QPth+u7eJlvv6TvljjTqSOyMlTN+NVVNlA="
+      "hash": "sha256-U2XhK0E0Sze5j18WtRvI6+nLdWfO2seDmPPBXrjWYhY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-UQGvOuKj/QPth+u7eJlvv6TvljjTqSOyMlTN+NVVNlA="
+      "hash": "sha256-U2XhK0E0Sze5j18WtRvI6+nLdWfO2seDmPPBXrjWYhY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-UQGvOuKj/QPth+u7eJlvv6TvljjTqSOyMlTN+NVVNlA="
+      "hash": "sha256-U2XhK0E0Sze5j18WtRvI6+nLdWfO2seDmPPBXrjWYhY="
     }
   },
-  "version": "6.75 Stable"
+  "version": "6.77 Stable"
 }

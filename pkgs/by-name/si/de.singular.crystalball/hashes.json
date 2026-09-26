@@ -1,18 +1,18 @@
 {
-  "apkName": "de.singular.crystalball_4.apk",
+  "apkName": "de.singular.crystalball_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qDNLTWI1vge2uud+d8KCFUXW0P4zATy2lwISgTxQWGc="
+      "hash": "sha256-s6VBNlvc/sy07WOvlb6TdMxnSMQeNbiZcqcyn/joSxk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qDNLTWI1vge2uud+d8KCFUXW0P4zATy2lwISgTxQWGc="
+      "hash": "sha256-s6VBNlvc/sy07WOvlb6TdMxnSMQeNbiZcqcyn/joSxk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qDNLTWI1vge2uud+d8KCFUXW0P4zATy2lwISgTxQWGc="
+      "hash": "sha256-s6VBNlvc/sy07WOvlb6TdMxnSMQeNbiZcqcyn/joSxk="
     }
   },
-  "version": "0.4"
+  "version": "0.5"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "app.familygem_28.apk",
+  "apkName": "app.familygem_29.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-mYOTfDGd0PFcPU0c11FwML2DMqc3WoX/Mwdu2mNPux0="
+      "hash": "sha256-YdVa8l9lhGZP7phfG7ZaoND00CEaE+q7VUwa7TvFH/c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mYOTfDGd0PFcPU0c11FwML2DMqc3WoX/Mwdu2mNPux0="
+      "hash": "sha256-YdVa8l9lhGZP7phfG7ZaoND00CEaE+q7VUwa7TvFH/c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mYOTfDGd0PFcPU0c11FwML2DMqc3WoX/Mwdu2mNPux0="
+      "hash": "sha256-YdVa8l9lhGZP7phfG7ZaoND00CEaE+q7VUwa7TvFH/c="
     }
   },
-  "version": "1.2"
+  "version": "1.3"
 }

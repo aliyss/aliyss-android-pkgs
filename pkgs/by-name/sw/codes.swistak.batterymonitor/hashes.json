@@ -1,18 +1,18 @@
 {
-  "apkName": "codes.swistak.batterymonitor_1005000.apk",
+  "apkName": "codes.swistak.batterymonitor_1007002.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VzlHVLQeHs9/mE9p82xHQv22iot3RZ7+tBm3fRxzoLA="
+      "hash": "sha256-mbi/ffBUaWPwnfYEXYw6K8PK3hdV+aIdGCow/vOqTis="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VzlHVLQeHs9/mE9p82xHQv22iot3RZ7+tBm3fRxzoLA="
+      "hash": "sha256-mbi/ffBUaWPwnfYEXYw6K8PK3hdV+aIdGCow/vOqTis="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VzlHVLQeHs9/mE9p82xHQv22iot3RZ7+tBm3fRxzoLA="
+      "hash": "sha256-mbi/ffBUaWPwnfYEXYw6K8PK3hdV+aIdGCow/vOqTis="
     }
   },
-  "version": "1.5.0"
+  "version": "1.7.2"
 }

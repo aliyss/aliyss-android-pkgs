@@ -1,18 +1,18 @@
 {
-  "apkName": "com.sarangem.zenwell_15.apk",
+  "apkName": "com.sarangem.zenwell_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2ug9I34imEnUCuVXqRNJTKfOig+JEFntizGTljEMtps="
+      "hash": "sha256-Z5qmp6FKTarbOBaRI0Gj4vQ4ZtZjvRpdWxrM3ln/ZI8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2ug9I34imEnUCuVXqRNJTKfOig+JEFntizGTljEMtps="
+      "hash": "sha256-Z5qmp6FKTarbOBaRI0Gj4vQ4ZtZjvRpdWxrM3ln/ZI8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2ug9I34imEnUCuVXqRNJTKfOig+JEFntizGTljEMtps="
+      "hash": "sha256-Z5qmp6FKTarbOBaRI0Gj4vQ4ZtZjvRpdWxrM3ln/ZI8="
     }
   },
-  "version": "1.5"
+  "version": "1.6"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "page.codeberg.lanticy.guandan_4.apk",
+  "apkName": "page.codeberg.lanticy.guandan_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-05gW+sex/tO3oZoZlfM3guXVrAEO6uW4bAhFM9j6Ilo="
+      "hash": "sha256-zMdLWUgVTn9Ttcbt2u8WQK/CKfsC9xd42nmSpli+cCE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-05gW+sex/tO3oZoZlfM3guXVrAEO6uW4bAhFM9j6Ilo="
+      "hash": "sha256-zMdLWUgVTn9Ttcbt2u8WQK/CKfsC9xd42nmSpli+cCE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-05gW+sex/tO3oZoZlfM3guXVrAEO6uW4bAhFM9j6Ilo="
+      "hash": "sha256-zMdLWUgVTn9Ttcbt2u8WQK/CKfsC9xd42nmSpli+cCE="
     }
   },
-  "version": "1.1.2"
+  "version": "1.2.2"
 }

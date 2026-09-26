@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jarsilio.android.pingoff_12.apk",
+  "apkName": "com.jarsilio.android.pingoff_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TPGGPQzaSa8VhlPLkwhOoF+J3VVlD1bTUn+v3a5KeKA="
+      "hash": "sha256-d5OvQPsn9Sv4/IYew0ioo582861xrTKyl2H4vCyG1e4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TPGGPQzaSa8VhlPLkwhOoF+J3VVlD1bTUn+v3a5KeKA="
+      "hash": "sha256-d5OvQPsn9Sv4/IYew0ioo582861xrTKyl2H4vCyG1e4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TPGGPQzaSa8VhlPLkwhOoF+J3VVlD1bTUn+v3a5KeKA="
+      "hash": "sha256-d5OvQPsn9Sv4/IYew0ioo582861xrTKyl2H4vCyG1e4="
     }
   },
-  "version": "0.4.6"
+  "version": "1.0.1"
 }

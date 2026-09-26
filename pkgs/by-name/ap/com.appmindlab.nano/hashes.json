@@ -1,18 +1,18 @@
 {
-  "apkName": "com.appmindlab.nano_1385.apk",
+  "apkName": "com.appmindlab.nano_1388.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OcUoJOTF9NuMGVv3Di2GCwxs4GgGAsHqksNRW/x06Eg="
+      "hash": "sha256-bZEbWE9ELeqMDljuzVK8ydXE+35NeI52/4aGMukt4QQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OcUoJOTF9NuMGVv3Di2GCwxs4GgGAsHqksNRW/x06Eg="
+      "hash": "sha256-bZEbWE9ELeqMDljuzVK8ydXE+35NeI52/4aGMukt4QQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OcUoJOTF9NuMGVv3Di2GCwxs4GgGAsHqksNRW/x06Eg="
+      "hash": "sha256-bZEbWE9ELeqMDljuzVK8ydXE+35NeI52/4aGMukt4QQ="
     }
   },
-  "version": "4.6.5"
+  "version": "4.6.8"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "info.plateaukao.einkbro_160202.apk",
+  "apkName": "info.plateaukao.einkbro_160700.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-y0pAJmB1w1/1PXx/pCBY4rNEeI/K3CNC4QfJZ3T323U="
+      "hash": "sha256-TXkizsniIofAefqkOHf0QLCX4iUt32Fv1NNeawXC0wQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-y0pAJmB1w1/1PXx/pCBY4rNEeI/K3CNC4QfJZ3T323U="
+      "hash": "sha256-TXkizsniIofAefqkOHf0QLCX4iUt32Fv1NNeawXC0wQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-y0pAJmB1w1/1PXx/pCBY4rNEeI/K3CNC4QfJZ3T323U="
+      "hash": "sha256-TXkizsniIofAefqkOHf0QLCX4iUt32Fv1NNeawXC0wQ="
     }
   },
-  "version": "16.2.2"
+  "version": "16.7.0"
 }

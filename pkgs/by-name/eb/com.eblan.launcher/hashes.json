@@ -1,18 +1,18 @@
 {
-  "apkName": "com.eblan.launcher_90.apk",
+  "apkName": "com.eblan.launcher_98.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5iofZITCsMz6MJNAbqzWpXC6avQrBKITyBdFMI0jnvA="
+      "hash": "sha256-Zl9purYgIDwhUq4ns3ow9b4RI+kD84py8Yggu7sy7So="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5iofZITCsMz6MJNAbqzWpXC6avQrBKITyBdFMI0jnvA="
+      "hash": "sha256-Zl9purYgIDwhUq4ns3ow9b4RI+kD84py8Yggu7sy7So="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5iofZITCsMz6MJNAbqzWpXC6avQrBKITyBdFMI0jnvA="
+      "hash": "sha256-Zl9purYgIDwhUq4ns3ow9b4RI+kD84py8Yggu7sy7So="
     }
   },
-  "version": "0.9.0-alpha"
+  "version": "0.9.8-alpha"
 }

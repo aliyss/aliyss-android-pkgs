@@ -1,18 +1,18 @@
 {
-  "apkName": "com.opennotes_14.apk",
+  "apkName": "com.opennotes_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wwldKOieGc/5Od7j4qgCtATuYVIRzeEBIhpCYtcTxXo="
+      "hash": "sha256-on7IM3jHqtltY4E+xhGwNeRIed3gx4QtOJazN9x2Nn8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wwldKOieGc/5Od7j4qgCtATuYVIRzeEBIhpCYtcTxXo="
+      "hash": "sha256-on7IM3jHqtltY4E+xhGwNeRIed3gx4QtOJazN9x2Nn8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wwldKOieGc/5Od7j4qgCtATuYVIRzeEBIhpCYtcTxXo="
+      "hash": "sha256-on7IM3jHqtltY4E+xhGwNeRIed3gx4QtOJazN9x2Nn8="
     }
   },
-  "version": "1.4.0"
+  "version": "1.4.1"
 }

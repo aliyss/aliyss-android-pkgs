@@ -1,18 +1,18 @@
 {
-  "apkName": "ch.cryptobit.letterbox_1.apk",
+  "apkName": "ch.cryptobit.letterbox_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-dr4KWcwgd8svnfSzHoazjIAkP+yOVD9Km438efo6218="
+      "hash": "sha256-aan5F12l1YWHzsjZDAIMnVs6F1oa1Slb+MDuTwyPD48="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dr4KWcwgd8svnfSzHoazjIAkP+yOVD9Km438efo6218="
+      "hash": "sha256-aan5F12l1YWHzsjZDAIMnVs6F1oa1Slb+MDuTwyPD48="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dr4KWcwgd8svnfSzHoazjIAkP+yOVD9Km438efo6218="
+      "hash": "sha256-aan5F12l1YWHzsjZDAIMnVs6F1oa1Slb+MDuTwyPD48="
     }
   },
-  "version": "0.0.3"
+  "version": "1.5.0"
 }

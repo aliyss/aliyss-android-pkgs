@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ventoid.app_13.apk",
+  "apkName": "com.ventoid.app_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kwd0tplCNlsdFtocjXndGfxF4QdDHlhb4ibHRnLiQfQ="
+      "hash": "sha256-Iw1dhG3LWiLiRex5Zu3ET6andDRzW0/2Ii15NwHmxyc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kwd0tplCNlsdFtocjXndGfxF4QdDHlhb4ibHRnLiQfQ="
+      "hash": "sha256-Iw1dhG3LWiLiRex5Zu3ET6andDRzW0/2Ii15NwHmxyc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kwd0tplCNlsdFtocjXndGfxF4QdDHlhb4ibHRnLiQfQ="
+      "hash": "sha256-Iw1dhG3LWiLiRex5Zu3ET6andDRzW0/2Ii15NwHmxyc="
     }
   },
-  "version": "0.3.1"
+  "version": "0.3.3"
 }

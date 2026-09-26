@@ -1,18 +1,18 @@
 {
-  "apkName": "com.neuronencrypt.app_5.apk",
+  "apkName": "com.neuronencrypt.app_6.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-nieWFWrCzq+L2S+DdPg+mXmiEKBti5rHPQ8N3dzQgpY="
+      "hash": "sha256-093MyCyNFcF2W1SVUluzB42Q6sO9Vf9waGOv4aZ5IlY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nieWFWrCzq+L2S+DdPg+mXmiEKBti5rHPQ8N3dzQgpY="
+      "hash": "sha256-093MyCyNFcF2W1SVUluzB42Q6sO9Vf9waGOv4aZ5IlY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nieWFWrCzq+L2S+DdPg+mXmiEKBti5rHPQ8N3dzQgpY="
+      "hash": "sha256-093MyCyNFcF2W1SVUluzB42Q6sO9Vf9waGOv4aZ5IlY="
     }
   },
-  "version": "2.1.2"
+  "version": "2.2.0"
 }

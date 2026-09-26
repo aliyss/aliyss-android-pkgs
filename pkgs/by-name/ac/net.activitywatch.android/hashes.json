@@ -1,18 +1,18 @@
 {
-  "apkName": "net.activitywatch.android_34.apk",
+  "apkName": "net.activitywatch.android_42.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-F8zGwyBWHEA6dkh0NvxBjSBgZFQjGcNHZ0Gw+O/tAfo="
+      "hash": "sha256-y1/2CdXuHUSDH+z/yTKj6b2XNUpZTPDoTaX60vVwqz4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-F8zGwyBWHEA6dkh0NvxBjSBgZFQjGcNHZ0Gw+O/tAfo="
+      "hash": "sha256-y1/2CdXuHUSDH+z/yTKj6b2XNUpZTPDoTaX60vVwqz4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-F8zGwyBWHEA6dkh0NvxBjSBgZFQjGcNHZ0Gw+O/tAfo="
+      "hash": "sha256-y1/2CdXuHUSDH+z/yTKj6b2XNUpZTPDoTaX60vVwqz4="
     }
   },
-  "version": "0.12.1"
+  "version": "0.14.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "ru.wohlsoft.opnmidiplayer_1060100.apk",
+  "apkName": "ru.wohlsoft.opnmidiplayer_1060200.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gYMzqupy/8MDOeyRQYe/aYe1wRbBJNGytOYRl4IyEXA="
+      "hash": "sha256-hCh/MdmF0G2R+zYjDPLVc12afEBWcHwaq0LPAi14lGw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gYMzqupy/8MDOeyRQYe/aYe1wRbBJNGytOYRl4IyEXA="
+      "hash": "sha256-hCh/MdmF0G2R+zYjDPLVc12afEBWcHwaq0LPAi14lGw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gYMzqupy/8MDOeyRQYe/aYe1wRbBJNGytOYRl4IyEXA="
+      "hash": "sha256-hCh/MdmF0G2R+zYjDPLVc12afEBWcHwaq0LPAi14lGw="
     }
   },
-  "version": "1.6.1"
+  "version": "1.6.2"
 }

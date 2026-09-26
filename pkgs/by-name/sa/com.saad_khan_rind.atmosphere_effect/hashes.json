@@ -1,18 +1,18 @@
 {
-  "apkName": "com.saad_khan_rind.atmosphere_effect_300711.apk",
+  "apkName": "com.saad_khan_rind.atmosphere_effect_300723.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-iQER3v6K21F527cmLo2WIGUaOX8cinw75g/nlPwPpPU="
+      "hash": "sha256-k4cGs3fXbHrKQYi0pvGQ6oMMkeCx3yrRiewWB6gmhpc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-iQER3v6K21F527cmLo2WIGUaOX8cinw75g/nlPwPpPU="
+      "hash": "sha256-k4cGs3fXbHrKQYi0pvGQ6oMMkeCx3yrRiewWB6gmhpc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-iQER3v6K21F527cmLo2WIGUaOX8cinw75g/nlPwPpPU="
+      "hash": "sha256-k4cGs3fXbHrKQYi0pvGQ6oMMkeCx3yrRiewWB6gmhpc="
     }
   },
-  "version": "7.1.1"
+  "version": "7.2.3"
 }

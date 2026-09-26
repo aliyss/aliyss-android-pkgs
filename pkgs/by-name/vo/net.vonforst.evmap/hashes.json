@@ -1,18 +1,18 @@
 {
-  "apkName": "net.vonforst.evmap_276.apk",
+  "apkName": "net.vonforst.evmap_280.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0FKrWjO8e+76iTPeXw7IPz5S0v3pGzaLkeadsruPV2Q="
+      "hash": "sha256-35VsU6lSS87x7TD05qJpiQGBsxs+HMm6iuMtbPSE48A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0FKrWjO8e+76iTPeXw7IPz5S0v3pGzaLkeadsruPV2Q="
+      "hash": "sha256-35VsU6lSS87x7TD05qJpiQGBsxs+HMm6iuMtbPSE48A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0FKrWjO8e+76iTPeXw7IPz5S0v3pGzaLkeadsruPV2Q="
+      "hash": "sha256-35VsU6lSS87x7TD05qJpiQGBsxs+HMm6iuMtbPSE48A="
     }
   },
-  "version": "2.1.3"
+  "version": "2.1.4"
 }

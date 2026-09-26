@@ -1,18 +1,18 @@
 {
-  "apkName": "app.fayaz.otgmaster_43.apk",
+  "apkName": "app.fayaz.otgmaster_44.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-I7vlehRUQkrfNZvI953XjBNo5qyyaRns7f69kv/lPrI="
+      "hash": "sha256-5vGHrWwMaRhLHj79uRXXwlmyijormnocrwUrEI5WiG8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-I7vlehRUQkrfNZvI953XjBNo5qyyaRns7f69kv/lPrI="
+      "hash": "sha256-5vGHrWwMaRhLHj79uRXXwlmyijormnocrwUrEI5WiG8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-I7vlehRUQkrfNZvI953XjBNo5qyyaRns7f69kv/lPrI="
+      "hash": "sha256-5vGHrWwMaRhLHj79uRXXwlmyijormnocrwUrEI5WiG8="
     }
   },
-  "version": "0.3.10"
+  "version": "0.3.11"
 }

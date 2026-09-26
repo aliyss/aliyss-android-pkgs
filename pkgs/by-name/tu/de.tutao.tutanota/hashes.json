@@ -1,18 +1,18 @@
 {
-  "apkName": "de.tutao.tutanota_396691.apk",
+  "apkName": "de.tutao.tutanota_396714.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ni2x0tEkoi878sxnhu4JwlLKvCTy1zoN2Vq4Wcq36Gc="
+      "hash": "sha256-LncuUneA12ni4RsS67tCnUsDOZYvBYq16JgHWMzuF4I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ni2x0tEkoi878sxnhu4JwlLKvCTy1zoN2Vq4Wcq36Gc="
+      "hash": "sha256-LncuUneA12ni4RsS67tCnUsDOZYvBYq16JgHWMzuF4I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ni2x0tEkoi878sxnhu4JwlLKvCTy1zoN2Vq4Wcq36Gc="
+      "hash": "sha256-LncuUneA12ni4RsS67tCnUsDOZYvBYq16JgHWMzuF4I="
     }
   },
-  "version": "356.260806.1"
+  "version": "360.260921.0"
 }

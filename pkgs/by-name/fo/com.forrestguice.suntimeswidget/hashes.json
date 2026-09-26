@@ -1,18 +1,18 @@
 {
-  "apkName": "com.forrestguice.suntimeswidget_134.apk",
+  "apkName": "com.forrestguice.suntimeswidget_135.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kRJ86sThhDfQ/CP4aOU2dhOxu9SIkQ5fuCqUSwH/SEg="
+      "hash": "sha256-vQ++UfaEiV2OF3ggOHXNCFCvU4fsA2gRxUCxPOPsChE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kRJ86sThhDfQ/CP4aOU2dhOxu9SIkQ5fuCqUSwH/SEg="
+      "hash": "sha256-vQ++UfaEiV2OF3ggOHXNCFCvU4fsA2gRxUCxPOPsChE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kRJ86sThhDfQ/CP4aOU2dhOxu9SIkQ5fuCqUSwH/SEg="
+      "hash": "sha256-vQ++UfaEiV2OF3ggOHXNCFCvU4fsA2gRxUCxPOPsChE="
     }
   },
-  "version": "0.17.4"
+  "version": "0.17.5"
 }

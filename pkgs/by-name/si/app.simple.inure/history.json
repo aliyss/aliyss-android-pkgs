@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "build107.2.3",
+      "versionCode": 10723
+    },
+    {
+      "version": "build107.2.2",
+      "versionCode": 10722
+    },
+    {
+      "version": "build107.2.1",
+      "versionCode": 10721
+    }
+  ]
+}

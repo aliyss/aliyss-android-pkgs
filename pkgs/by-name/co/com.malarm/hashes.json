@@ -1,18 +1,18 @@
 {
-  "apkName": "com.malarm_5.apk",
+  "apkName": "com.malarm_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jSrU9c+aku2wONQc4X13toBnhT7h7gpNhl+u5b0moHA="
+      "hash": "sha256-X97UHL/RzcRpHxAqCS2bZ+Fd0D6ZYn8ffHw9qcB4y0M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jSrU9c+aku2wONQc4X13toBnhT7h7gpNhl+u5b0moHA="
+      "hash": "sha256-X97UHL/RzcRpHxAqCS2bZ+Fd0D6ZYn8ffHw9qcB4y0M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jSrU9c+aku2wONQc4X13toBnhT7h7gpNhl+u5b0moHA="
+      "hash": "sha256-X97UHL/RzcRpHxAqCS2bZ+Fd0D6ZYn8ffHw9qcB4y0M="
     }
   },
-  "version": "0.5.0"
+  "version": "0.6.3"
 }

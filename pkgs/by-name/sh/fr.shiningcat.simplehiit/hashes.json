@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.shiningcat.simplehiit_23100104.apk",
+  "apkName": "fr.shiningcat.simplehiit_23100105.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ePpNEhxO8vW3JdtxBsK9gp4sMJ4i6bnDV50u0KxRlE8="
+      "hash": "sha256-3dENau25KAjDMmLH7Qh4JG3Yh6E0BlPGHZlkMg1vWNo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ePpNEhxO8vW3JdtxBsK9gp4sMJ4i6bnDV50u0KxRlE8="
+      "hash": "sha256-3dENau25KAjDMmLH7Qh4JG3Yh6E0BlPGHZlkMg1vWNo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ePpNEhxO8vW3JdtxBsK9gp4sMJ4i6bnDV50u0KxRlE8="
+      "hash": "sha256-3dENau25KAjDMmLH7Qh4JG3Yh6E0BlPGHZlkMg1vWNo="
     }
   },
-  "version": "1.04"
+  "version": "1.05"
 }

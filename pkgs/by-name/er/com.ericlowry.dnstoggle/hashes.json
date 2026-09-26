@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ericlowry.dnstoggle_23.apk",
+  "apkName": "com.ericlowry.dnstoggle_29.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+cSXHXVLc0E/hTB8qUoXPvU8ArZDeN9Yv7qS98rZPu4="
+      "hash": "sha256-7EBfYyeuGtJjKVBfhLPuHfljFZQWgw1RjjD4Pr79AzQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+cSXHXVLc0E/hTB8qUoXPvU8ArZDeN9Yv7qS98rZPu4="
+      "hash": "sha256-7EBfYyeuGtJjKVBfhLPuHfljFZQWgw1RjjD4Pr79AzQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+cSXHXVLc0E/hTB8qUoXPvU8ArZDeN9Yv7qS98rZPu4="
+      "hash": "sha256-7EBfYyeuGtJjKVBfhLPuHfljFZQWgw1RjjD4Pr79AzQ="
     }
   },
-  "version": "2.1.0"
+  "version": "3.0.1"
 }

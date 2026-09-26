@@ -1,18 +1,18 @@
 {
-  "apkName": "com.schwegelbin.openbible_46.apk",
+  "apkName": "com.schwegelbin.openbible_47.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qtNAEQqbroAGNVrBS9SLhKFOZuPyGCNy6phg0hJyLS8="
+      "hash": "sha256-MQnOaoe4vwY5r78b6AlH0BEFw1nqy9MftAHv3EDzzcw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qtNAEQqbroAGNVrBS9SLhKFOZuPyGCNy6phg0hJyLS8="
+      "hash": "sha256-MQnOaoe4vwY5r78b6AlH0BEFw1nqy9MftAHv3EDzzcw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qtNAEQqbroAGNVrBS9SLhKFOZuPyGCNy6phg0hJyLS8="
+      "hash": "sha256-MQnOaoe4vwY5r78b6AlH0BEFw1nqy9MftAHv3EDzzcw="
     }
   },
-  "version": "3.2.3"
+  "version": "3.3.0"
 }

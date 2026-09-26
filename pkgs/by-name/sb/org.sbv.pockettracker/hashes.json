@@ -1,18 +1,18 @@
 {
-  "apkName": "org.sbv.pockettracker_30.apk",
+  "apkName": "org.sbv.pockettracker_32.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-4io6Ke9P4YSlL5Qji39rg0N8JLhMoV8t03YxSiajAo8="
+      "hash": "sha256-1WvYinXiNlPqObtCHRrwmquBvn2+nmOgdBWjnWzk6/U="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4io6Ke9P4YSlL5Qji39rg0N8JLhMoV8t03YxSiajAo8="
+      "hash": "sha256-1WvYinXiNlPqObtCHRrwmquBvn2+nmOgdBWjnWzk6/U="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4io6Ke9P4YSlL5Qji39rg0N8JLhMoV8t03YxSiajAo8="
+      "hash": "sha256-1WvYinXiNlPqObtCHRrwmquBvn2+nmOgdBWjnWzk6/U="
     }
   },
-  "version": "2.5.9"
+  "version": "2.5.11"
 }

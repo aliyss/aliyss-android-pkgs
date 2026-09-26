@@ -1,18 +1,18 @@
 {
-  "apkName": "com.inspiredandroid.linuxcommandbibliotheca_170.apk",
+  "apkName": "com.inspiredandroid.linuxcommandbibliotheca_173.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ck2LqveREMAgtTSmutA1LADheJ5eLGbE+uFCDdfTE/A="
+      "hash": "sha256-GVVPsmu5iCg8nJ5mESjdBMugbx2QuE3eZpmi52s1g6U="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ck2LqveREMAgtTSmutA1LADheJ5eLGbE+uFCDdfTE/A="
+      "hash": "sha256-GVVPsmu5iCg8nJ5mESjdBMugbx2QuE3eZpmi52s1g6U="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ck2LqveREMAgtTSmutA1LADheJ5eLGbE+uFCDdfTE/A="
+      "hash": "sha256-GVVPsmu5iCg8nJ5mESjdBMugbx2QuE3eZpmi52s1g6U="
     }
   },
-  "version": "4.5.0"
+  "version": "4.8.0"
 }

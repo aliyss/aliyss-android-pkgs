@@ -1,18 +1,18 @@
 {
-  "apkName": "com.trougnouf.cfait_10104.apk",
+  "apkName": "com.trougnouf.cfait_10108.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-z0cw28d119JNnJhFDnjnywSnre7GOrehSUXaD0CzLZE="
+      "hash": "sha256-+P6ILusQEPvfR9OQVYCCwKIDD9zVEqG8rWimu5enecw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-z0cw28d119JNnJhFDnjnywSnre7GOrehSUXaD0CzLZE="
+      "hash": "sha256-+P6ILusQEPvfR9OQVYCCwKIDD9zVEqG8rWimu5enecw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-z0cw28d119JNnJhFDnjnywSnre7GOrehSUXaD0CzLZE="
+      "hash": "sha256-+P6ILusQEPvfR9OQVYCCwKIDD9zVEqG8rWimu5enecw="
     }
   },
-  "version": "1.1.4"
+  "version": "1.1.8"
 }

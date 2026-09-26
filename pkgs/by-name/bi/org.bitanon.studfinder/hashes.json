@@ -1,18 +1,18 @@
 {
-  "apkName": "org.bitanon.studfinder_16.apk",
+  "apkName": "org.bitanon.studfinder_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ZUT786uZAvmOoYLtQ7cFKb7qVxsYd1pjwDRS3zKOurg="
+      "hash": "sha256-AhhOLMipbq0fKgCEwEzH1O92bil3C0gpeqZ3H3Fk4Rs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZUT786uZAvmOoYLtQ7cFKb7qVxsYd1pjwDRS3zKOurg="
+      "hash": "sha256-AhhOLMipbq0fKgCEwEzH1O92bil3C0gpeqZ3H3Fk4Rs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZUT786uZAvmOoYLtQ7cFKb7qVxsYd1pjwDRS3zKOurg="
+      "hash": "sha256-AhhOLMipbq0fKgCEwEzH1O92bil3C0gpeqZ3H3Fk4Rs="
     }
   },
-  "version": "2.0.1"
+  "version": "2.0.2"
 }

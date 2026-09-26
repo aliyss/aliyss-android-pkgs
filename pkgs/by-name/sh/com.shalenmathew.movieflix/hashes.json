@@ -1,18 +1,18 @@
 {
-  "apkName": "com.shalenmathew.movieflix_7.apk",
+  "apkName": "com.shalenmathew.movieflix_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-77k/NB+VNN9Ta0Xp/s4c39c6RhGSRHgfCoHnELvkylA="
+      "hash": "sha256-O8H1eD2DMo/4hVpLbvM3ZVe+bFTDT1D6Tn54zhfvgt8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-77k/NB+VNN9Ta0Xp/s4c39c6RhGSRHgfCoHnELvkylA="
+      "hash": "sha256-O8H1eD2DMo/4hVpLbvM3ZVe+bFTDT1D6Tn54zhfvgt8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-77k/NB+VNN9Ta0Xp/s4c39c6RhGSRHgfCoHnELvkylA="
+      "hash": "sha256-O8H1eD2DMo/4hVpLbvM3ZVe+bFTDT1D6Tn54zhfvgt8="
     }
   },
-  "version": "2.0"
+  "version": "2.1"
 }

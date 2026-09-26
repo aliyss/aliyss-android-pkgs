@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "4.5.20-beta.1-ose",
+      "versionCode": 405200002
+    },
+    {
+      "version": "4.5.19-ose",
+      "versionCode": 405190003
+    },
+    {
+      "version": "4.5.18-ose",
+      "versionCode": 405180002
+    }
+  ]
+}

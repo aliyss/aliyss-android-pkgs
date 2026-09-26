@@ -1,18 +1,18 @@
 {
-  "apkName": "com.nevar.nzik.foss_84.apk",
+  "apkName": "com.nevar.nzik.foss_87.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-cqyWrGpltQulN7BIgMwoeJwg2/rcVhUdt2QunZWBRsI="
+      "hash": "sha256-Tec4oUWDZPVOZ6rO0yxHkzdD3og2HN1kp7HZi9ojwSs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cqyWrGpltQulN7BIgMwoeJwg2/rcVhUdt2QunZWBRsI="
+      "hash": "sha256-Tec4oUWDZPVOZ6rO0yxHkzdD3og2HN1kp7HZi9ojwSs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cqyWrGpltQulN7BIgMwoeJwg2/rcVhUdt2QunZWBRsI="
+      "hash": "sha256-Tec4oUWDZPVOZ6rO0yxHkzdD3og2HN1kp7HZi9ojwSs="
     }
   },
-  "version": "7.4.6-f"
+  "version": "7.5.1-f"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.metromusic_4.apk",
+  "apkName": "com.metromusic_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kODpL77WHPirFYhAPtZBmQstGRIOP2IwxVjhp6qlR3M="
+      "hash": "sha256-NrjpG87LN6qWkQYt2KM+V5y8bMnPxjf/vGOTSeLbRI0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kODpL77WHPirFYhAPtZBmQstGRIOP2IwxVjhp6qlR3M="
+      "hash": "sha256-NrjpG87LN6qWkQYt2KM+V5y8bMnPxjf/vGOTSeLbRI0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kODpL77WHPirFYhAPtZBmQstGRIOP2IwxVjhp6qlR3M="
+      "hash": "sha256-NrjpG87LN6qWkQYt2KM+V5y8bMnPxjf/vGOTSeLbRI0="
     }
   },
-  "version": "1.2"
+  "version": "1.4.1"
 }

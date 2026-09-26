@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ferlagod.rocinante_30.apk",
+  "apkName": "com.ferlagod.rocinante_45.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-a5fo4/EgYvfvLJ0JjqN1h6GDplfONrmRxTnacS7WoCM="
+      "hash": "sha256-aTyEoruuUemLlyVnyEnyh2KKZeOEZQRDWSnVduWt9YU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-a5fo4/EgYvfvLJ0JjqN1h6GDplfONrmRxTnacS7WoCM="
+      "hash": "sha256-aTyEoruuUemLlyVnyEnyh2KKZeOEZQRDWSnVduWt9YU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-a5fo4/EgYvfvLJ0JjqN1h6GDplfONrmRxTnacS7WoCM="
+      "hash": "sha256-aTyEoruuUemLlyVnyEnyh2KKZeOEZQRDWSnVduWt9YU="
     }
   },
-  "version": "1.2.3"
+  "version": "1.3.3"
 }

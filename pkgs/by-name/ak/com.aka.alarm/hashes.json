@@ -1,18 +1,18 @@
 {
-  "apkName": "com.aka.alarm_7.apk",
+  "apkName": "com.aka.alarm_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6k3irTZAO1UgUDLl0AEnkmtv0lw8K/klc0Z9guDzKFA="
+      "hash": "sha256-zmlBRJjf6VehAG040E+VaA6Y7iDK8GiBxmhpLMAn+yw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6k3irTZAO1UgUDLl0AEnkmtv0lw8K/klc0Z9guDzKFA="
+      "hash": "sha256-zmlBRJjf6VehAG040E+VaA6Y7iDK8GiBxmhpLMAn+yw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6k3irTZAO1UgUDLl0AEnkmtv0lw8K/klc0Z9guDzKFA="
+      "hash": "sha256-zmlBRJjf6VehAG040E+VaA6Y7iDK8GiBxmhpLMAn+yw="
     }
   },
-  "version": "1.1.4"
+  "version": "1.2.0"
 }

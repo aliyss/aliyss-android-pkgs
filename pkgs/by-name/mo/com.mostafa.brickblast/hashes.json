@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mostafa.brickblast_9.apk",
+  "apkName": "com.mostafa.brickblast_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lNeAXDeG2jmzwEV4tI3r9GXHJknzu75PBAiBjcVEPJk="
+      "hash": "sha256-jaPM5GMMkE5Odg14s9TBMO3Ya+1KS1D9R1HakiS/61Q="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lNeAXDeG2jmzwEV4tI3r9GXHJknzu75PBAiBjcVEPJk="
+      "hash": "sha256-jaPM5GMMkE5Odg14s9TBMO3Ya+1KS1D9R1HakiS/61Q="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lNeAXDeG2jmzwEV4tI3r9GXHJknzu75PBAiBjcVEPJk="
+      "hash": "sha256-jaPM5GMMkE5Odg14s9TBMO3Ya+1KS1D9R1HakiS/61Q="
     }
   },
-  "version": "1.5.1"
+  "version": "1.6.0"
 }

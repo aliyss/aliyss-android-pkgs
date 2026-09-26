@@ -1,0 +1,28 @@
+{
+  "versions": [
+    {
+      "version": "2.45.0",
+      "versionCode": 1002
+    },
+    {
+      "version": "2.45.0 (F-Droid)",
+      "versionCode": 1001
+    },
+    {
+      "version": "1.0.1 Wear OS",
+      "versionCode": 201
+    },
+    {
+      "version": "1.0.0 Wear OS",
+      "versionCode": 200
+    },
+    {
+      "version": "2.44.0",
+      "versionCode": 168
+    },
+    {
+      "version": "2.43.0",
+      "versionCode": 167
+    }
+  ]
+}

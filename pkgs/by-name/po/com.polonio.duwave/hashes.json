@@ -1,18 +1,18 @@
 {
-  "apkName": "com.polonio.duwave_7.apk",
+  "apkName": "com.polonio.duwave_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+FhJcMEHoz4pFQcFZfkF8ZHfZ6QqCBQkGDjXqoFN0hA="
+      "hash": "sha256-Cd6LJmScs0ZfOr98AOMz8xG0L0RckaDVYt45e0OaHlI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+FhJcMEHoz4pFQcFZfkF8ZHfZ6QqCBQkGDjXqoFN0hA="
+      "hash": "sha256-Cd6LJmScs0ZfOr98AOMz8xG0L0RckaDVYt45e0OaHlI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+FhJcMEHoz4pFQcFZfkF8ZHfZ6QqCBQkGDjXqoFN0hA="
+      "hash": "sha256-Cd6LJmScs0ZfOr98AOMz8xG0L0RckaDVYt45e0OaHlI="
     }
   },
-  "version": "1.4.3"
+  "version": "2.1.1"
 }

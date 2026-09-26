@@ -1,18 +1,18 @@
 {
-  "apkName": "com.minimo.launcher_134.apk",
+  "apkName": "com.minimo.launcher_144.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LsQzkIfDWEBAe8JoUsKRfdlEWGR5YDIOsatomXwtPTs="
+      "hash": "sha256-hR9LOAeFlE98liD3CZIFeS8gSvGC+CANk7O4ANjHI5s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LsQzkIfDWEBAe8JoUsKRfdlEWGR5YDIOsatomXwtPTs="
+      "hash": "sha256-hR9LOAeFlE98liD3CZIFeS8gSvGC+CANk7O4ANjHI5s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LsQzkIfDWEBAe8JoUsKRfdlEWGR5YDIOsatomXwtPTs="
+      "hash": "sha256-hR9LOAeFlE98liD3CZIFeS8gSvGC+CANk7O4ANjHI5s="
     }
   },
-  "version": "1.33.0"
+  "version": "1.35.0"
 }

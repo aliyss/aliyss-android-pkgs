@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.darken.bluemusic_30404010.apk",
+  "apkName": "eu.darken.bluemusic_30600000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-fKhlh+olt2iw65WgFyx8ww7L9o81OlNInR+5unnZZM8="
+      "hash": "sha256-4nLymmyHPK4zAsfkLGyZ+6qmEwZjgVl14J/NwaHJpOw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fKhlh+olt2iw65WgFyx8ww7L9o81OlNInR+5unnZZM8="
+      "hash": "sha256-4nLymmyHPK4zAsfkLGyZ+6qmEwZjgVl14J/NwaHJpOw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fKhlh+olt2iw65WgFyx8ww7L9o81OlNInR+5unnZZM8="
+      "hash": "sha256-4nLymmyHPK4zAsfkLGyZ+6qmEwZjgVl14J/NwaHJpOw="
     }
   },
-  "version": "3.4.4-rc1"
+  "version": "3.6.0-rc0"
 }

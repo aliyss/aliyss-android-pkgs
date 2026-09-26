@@ -1,18 +1,18 @@
 {
-  "apkName": "cos.premy.mines_14.apk",
+  "apkName": "cos.premy.mines_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+s4jMaGu03Vs/AoAXGozQBF8xh9hzdkQTofFlW0uF1I="
+      "hash": "sha256-GPrvcChFf00SOsjXgfPs2/nim0UUaNXWo0jfKOiEKqc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+s4jMaGu03Vs/AoAXGozQBF8xh9hzdkQTofFlW0uF1I="
+      "hash": "sha256-GPrvcChFf00SOsjXgfPs2/nim0UUaNXWo0jfKOiEKqc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+s4jMaGu03Vs/AoAXGozQBF8xh9hzdkQTofFlW0uF1I="
+      "hash": "sha256-GPrvcChFf00SOsjXgfPs2/nim0UUaNXWo0jfKOiEKqc="
     }
   },
-  "version": "1.7.0"
+  "version": "1.7.1"
 }

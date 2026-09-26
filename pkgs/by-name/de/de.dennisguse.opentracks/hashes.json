@@ -1,18 +1,18 @@
 {
-  "apkName": "de.dennisguse.opentracks_6733.apk",
+  "apkName": "de.dennisguse.opentracks_6751.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-m0jUVIK2SvUQWiDreFw+5eRHVstP6mnoE9XDVv6rsxs="
+      "hash": "sha256-vMtdIAaeKhn7ZanrXnRTTPxEnqjvUry/sIzvnEtcDMc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-m0jUVIK2SvUQWiDreFw+5eRHVstP6mnoE9XDVv6rsxs="
+      "hash": "sha256-vMtdIAaeKhn7ZanrXnRTTPxEnqjvUry/sIzvnEtcDMc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-m0jUVIK2SvUQWiDreFw+5eRHVstP6mnoE9XDVv6rsxs="
+      "hash": "sha256-vMtdIAaeKhn7ZanrXnRTTPxEnqjvUry/sIzvnEtcDMc="
     }
   },
-  "version": "v4.28.1irreproducible"
+  "version": "v4.28.3irreproducible"
 }

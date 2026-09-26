@@ -1,18 +1,18 @@
 {
-  "apkName": "com.shalenmathew.quotesapp_44.apk",
+  "apkName": "com.shalenmathew.quotesapp_47.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7LgNwykCW330Pf9vZeJpxLIISOFfmiqYGgPdxSEa7uc="
+      "hash": "sha256-IXHAEiTizBgkO8w3KVjuHln7k49GGy6mSMooPUIC5qI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7LgNwykCW330Pf9vZeJpxLIISOFfmiqYGgPdxSEa7uc="
+      "hash": "sha256-IXHAEiTizBgkO8w3KVjuHln7k49GGy6mSMooPUIC5qI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7LgNwykCW330Pf9vZeJpxLIISOFfmiqYGgPdxSEa7uc="
+      "hash": "sha256-IXHAEiTizBgkO8w3KVjuHln7k49GGy6mSMooPUIC5qI="
     }
   },
-  "version": "5.4"
+  "version": "6.1"
 }

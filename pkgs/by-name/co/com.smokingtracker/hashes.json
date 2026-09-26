@@ -1,18 +1,18 @@
 {
-  "apkName": "com.smokingtracker_10401.apk",
+  "apkName": "com.smokingtracker_10500.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vTsopFEb+svJsEO6vlxCSZvrgjhgA8NRsTNF+h3cSvA="
+      "hash": "sha256-vYxugQ96o6s8KZbipcJ+x2GgFHqu/RD8SIcLHvzJcfc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vTsopFEb+svJsEO6vlxCSZvrgjhgA8NRsTNF+h3cSvA="
+      "hash": "sha256-vYxugQ96o6s8KZbipcJ+x2GgFHqu/RD8SIcLHvzJcfc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vTsopFEb+svJsEO6vlxCSZvrgjhgA8NRsTNF+h3cSvA="
+      "hash": "sha256-vYxugQ96o6s8KZbipcJ+x2GgFHqu/RD8SIcLHvzJcfc="
     }
   },
-  "version": "1.4.1"
+  "version": "1.5.0"
 }

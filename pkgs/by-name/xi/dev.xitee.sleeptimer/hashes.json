@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.xitee.sleeptimer_101020.apk",
+  "apkName": "dev.xitee.sleeptimer_102000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-PqM+Z4p2RFgQN6hMpLe0nH5fnj7Rh/+YEzdg/64AD7k="
+      "hash": "sha256-H/LbhUuYoRqfU69b1Gt75WNAQ1fAN+BU2Qpyc1BZbwo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PqM+Z4p2RFgQN6hMpLe0nH5fnj7Rh/+YEzdg/64AD7k="
+      "hash": "sha256-H/LbhUuYoRqfU69b1Gt75WNAQ1fAN+BU2Qpyc1BZbwo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PqM+Z4p2RFgQN6hMpLe0nH5fnj7Rh/+YEzdg/64AD7k="
+      "hash": "sha256-H/LbhUuYoRqfU69b1Gt75WNAQ1fAN+BU2Qpyc1BZbwo="
     }
   },
-  "version": "1.1.2"
+  "version": "1.2.0"
 }

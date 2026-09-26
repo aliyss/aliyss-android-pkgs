@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.arthurcose.languagedex_58.apk",
+  "apkName": "dev.arthurcose.languagedex_61.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6OGlxnrQQ+IEZjj7icOO52/rJM9AWxYSdApIr8E5b9g="
+      "hash": "sha256-YY/ICnSZ/k5poYE7tGO4ChjVOLZDxJDdSPQlBcUQg0Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6OGlxnrQQ+IEZjj7icOO52/rJM9AWxYSdApIr8E5b9g="
+      "hash": "sha256-YY/ICnSZ/k5poYE7tGO4ChjVOLZDxJDdSPQlBcUQg0Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6OGlxnrQQ+IEZjj7icOO52/rJM9AWxYSdApIr8E5b9g="
+      "hash": "sha256-YY/ICnSZ/k5poYE7tGO4ChjVOLZDxJDdSPQlBcUQg0Y="
     }
   },
-  "version": "0.29.6"
+  "version": "0.30.0"
 }

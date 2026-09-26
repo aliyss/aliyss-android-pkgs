@@ -1,18 +1,18 @@
 {
-  "apkName": "com.searchlauncher.app_252.apk",
+  "apkName": "com.searchlauncher.app_283.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-M+bVU9OXvQQI7ou8XiPlgC8ax4SopCH6aeDh0C6JAd8="
+      "hash": "sha256-bJ5tEaZhVXWPJE1QIxqviIGTxGG7DVhr8tTwI8eefX4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-M+bVU9OXvQQI7ou8XiPlgC8ax4SopCH6aeDh0C6JAd8="
+      "hash": "sha256-bJ5tEaZhVXWPJE1QIxqviIGTxGG7DVhr8tTwI8eefX4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-M+bVU9OXvQQI7ou8XiPlgC8ax4SopCH6aeDh0C6JAd8="
+      "hash": "sha256-bJ5tEaZhVXWPJE1QIxqviIGTxGG7DVhr8tTwI8eefX4="
     }
   },
-  "version": "0.0.14"
+  "version": "0.0.45"
 }

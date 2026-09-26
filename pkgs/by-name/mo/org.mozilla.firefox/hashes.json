@@ -1,9 +1,17 @@
 {
-  "version": "153.0.4",
   "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-+tjizjFAqJE2F/nV31lsqO0g1wDm9ATVDjHzuPAL7Gc="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-+tjizjFAqJE2F/nV31lsqO0g1wDm9ATVDjHzuPAL7Gc="
+    },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-u6xjGOdjuKQcrtKo1j9Bn5NWmB0O9uCtKN7x45NMeco="
+      "hash": "sha256-+tjizjFAqJE2F/nV31lsqO0g1wDm9ATVDjHzuPAL7Gc="
     }
-  }
+  },
+  "version": "156.0.1"
 }

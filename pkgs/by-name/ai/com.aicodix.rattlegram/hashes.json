@@ -1,18 +1,18 @@
 {
-  "apkName": "com.aicodix.rattlegram_19.apk",
+  "apkName": "com.aicodix.rattlegram_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-C+7RdQ5QbcLwZuyKhCtZMtdd6FibUlDQ4DoSyQSUpmI="
+      "hash": "sha256-MJgRTgNa7B30gPb8IiCkFc/uUPYE8XxDdMtLRtL+mSg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-C+7RdQ5QbcLwZuyKhCtZMtdd6FibUlDQ4DoSyQSUpmI="
+      "hash": "sha256-MJgRTgNa7B30gPb8IiCkFc/uUPYE8XxDdMtLRtL+mSg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-C+7RdQ5QbcLwZuyKhCtZMtdd6FibUlDQ4DoSyQSUpmI="
+      "hash": "sha256-MJgRTgNa7B30gPb8IiCkFc/uUPYE8XxDdMtLRtL+mSg="
     }
   },
-  "version": "1.18"
+  "version": "1.19"
 }

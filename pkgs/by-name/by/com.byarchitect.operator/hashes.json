@@ -1,18 +1,18 @@
 {
-  "apkName": "com.byarchitect.operator_1.apk",
+  "apkName": "com.byarchitect.operator_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-EUND+40xPjeeCKO7g3OpBOxTATRnjxe3TnvXOPTHgjw="
+      "hash": "sha256-vbkwtGF8kp4ZnInjX++jclfJeTBnw7JXlzSh1/s8GQI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EUND+40xPjeeCKO7g3OpBOxTATRnjxe3TnvXOPTHgjw="
+      "hash": "sha256-vbkwtGF8kp4ZnInjX++jclfJeTBnw7JXlzSh1/s8GQI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EUND+40xPjeeCKO7g3OpBOxTATRnjxe3TnvXOPTHgjw="
+      "hash": "sha256-vbkwtGF8kp4ZnInjX++jclfJeTBnw7JXlzSh1/s8GQI="
     }
   },
-  "version": "0.0.7"
+  "version": "2.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jarsilio.android.waveup_137.apk",
+  "apkName": "com.jarsilio.android.waveup_144.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LdwuRr6I6AZVBcpQWTc7ndYUUx2BywtFFoGOe7GZe+I="
+      "hash": "sha256-KTowGweTZ8xhJJUNJa68AF44Wgct/uZin1Pm9zfJKR8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LdwuRr6I6AZVBcpQWTc7ndYUUx2BywtFFoGOe7GZe+I="
+      "hash": "sha256-KTowGweTZ8xhJJUNJa68AF44Wgct/uZin1Pm9zfJKR8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LdwuRr6I6AZVBcpQWTc7ndYUUx2BywtFFoGOe7GZe+I="
+      "hash": "sha256-KTowGweTZ8xhJJUNJa68AF44Wgct/uZin1Pm9zfJKR8="
     }
   },
-  "version": "3.2.32"
+  "version": "3.2.39"
 }

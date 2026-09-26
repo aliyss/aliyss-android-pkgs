@@ -1,18 +1,18 @@
 {
-  "apkName": "org.woheller69.exifedit_14.apk",
+  "apkName": "org.woheller69.exifedit_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-4OE5gz5CP1asL00ZQ8T7qE677QD9FPlKSWiWup/UF+0="
+      "hash": "sha256-i1E8Ary/up1ptszCGBGhCPBOj3NSAt9CMCQiuYB4r6M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4OE5gz5CP1asL00ZQ8T7qE677QD9FPlKSWiWup/UF+0="
+      "hash": "sha256-i1E8Ary/up1ptszCGBGhCPBOj3NSAt9CMCQiuYB4r6M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4OE5gz5CP1asL00ZQ8T7qE677QD9FPlKSWiWup/UF+0="
+      "hash": "sha256-i1E8Ary/up1ptszCGBGhCPBOj3NSAt9CMCQiuYB4r6M="
     }
   },
-  "version": "1.4"
+  "version": "1.6"
 }

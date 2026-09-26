@@ -1,18 +1,18 @@
 {
-  "apkName": "com.thomaskuenneth.tkweek_23401.apk",
+  "apkName": "com.thomaskuenneth.tkweek_24201.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-djQNvRX/x54fYSs6pcfOZcJDOHdNGwj4fvThadNDfWg="
+      "hash": "sha256-rFiONPLhDKgBHVVLR/0YM/Z3d+Q+plEiMU5Ek5pKTc8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-djQNvRX/x54fYSs6pcfOZcJDOHdNGwj4fvThadNDfWg="
+      "hash": "sha256-rFiONPLhDKgBHVVLR/0YM/Z3d+Q+plEiMU5Ek5pKTc8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-djQNvRX/x54fYSs6pcfOZcJDOHdNGwj4fvThadNDfWg="
+      "hash": "sha256-rFiONPLhDKgBHVVLR/0YM/Z3d+Q+plEiMU5Ek5pKTc8="
     }
   },
-  "version": "2.3.4"
+  "version": "2.4.2"
 }

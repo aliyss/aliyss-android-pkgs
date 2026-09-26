@@ -1,18 +1,18 @@
 {
-  "apkName": "projects.medicationtracker_58.apk",
+  "apkName": "projects.medicationtracker_59.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-sxuBvAYzdFuonjDZHyf1c/9Gxl+nZSme6/c3SBvssvM="
+      "hash": "sha256-1awZow0VZhXEP3RyOmpn2w6g7LBpdYdwOy53ecRTu/s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sxuBvAYzdFuonjDZHyf1c/9Gxl+nZSme6/c3SBvssvM="
+      "hash": "sha256-1awZow0VZhXEP3RyOmpn2w6g7LBpdYdwOy53ecRTu/s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sxuBvAYzdFuonjDZHyf1c/9Gxl+nZSme6/c3SBvssvM="
+      "hash": "sha256-1awZow0VZhXEP3RyOmpn2w6g7LBpdYdwOy53ecRTu/s="
     }
   },
-  "version": "0.17.10"
+  "version": "0.17.11"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.faircode.email_2328.apk",
+  "apkName": "eu.faircode.email_2337.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SsjmZZIQK9BSzJ8tu47lkwkxoOwyAZvJN6/ZwmGtz8A="
+      "hash": "sha256-Hlm9HYLM3wr5Dnop58shnqoYkDFnWzdleOfajsZJ5Tk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SsjmZZIQK9BSzJ8tu47lkwkxoOwyAZvJN6/ZwmGtz8A="
+      "hash": "sha256-Hlm9HYLM3wr5Dnop58shnqoYkDFnWzdleOfajsZJ5Tk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SsjmZZIQK9BSzJ8tu47lkwkxoOwyAZvJN6/ZwmGtz8A="
+      "hash": "sha256-Hlm9HYLM3wr5Dnop58shnqoYkDFnWzdleOfajsZJ5Tk="
     }
   },
-  "version": "1.2328"
+  "version": "1.2337"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "de.markusfisch.android.binaryeye_176.apk",
+  "apkName": "de.markusfisch.android.binaryeye_179.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2CvxCBx91VQJKeQI6AYkxDzvtkI/8L1/egCry8Nm9PQ="
+      "hash": "sha256-QowmJJxwa9eWENA6GphdzA79ndVGn8m+kscDRZpNX5M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2CvxCBx91VQJKeQI6AYkxDzvtkI/8L1/egCry8Nm9PQ="
+      "hash": "sha256-QowmJJxwa9eWENA6GphdzA79ndVGn8m+kscDRZpNX5M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2CvxCBx91VQJKeQI6AYkxDzvtkI/8L1/egCry8Nm9PQ="
+      "hash": "sha256-QowmJJxwa9eWENA6GphdzA79ndVGn8m+kscDRZpNX5M="
     }
   },
-  "version": "1.75.1"
+  "version": "1.75.4"
 }

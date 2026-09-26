@@ -1,18 +1,18 @@
 {
-  "apkName": "com.utazukin.ichaival_48.apk",
+  "apkName": "com.utazukin.ichaival_49.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SvlQt9hYBsXYyiah3WJ8qv2CcrvBAaaFYtIxrv49lOQ="
+      "hash": "sha256-FZsS9F61HLsfQo4Pv7mH6qCjtdjlZJDdIxyAkZPjG44="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SvlQt9hYBsXYyiah3WJ8qv2CcrvBAaaFYtIxrv49lOQ="
+      "hash": "sha256-FZsS9F61HLsfQo4Pv7mH6qCjtdjlZJDdIxyAkZPjG44="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SvlQt9hYBsXYyiah3WJ8qv2CcrvBAaaFYtIxrv49lOQ="
+      "hash": "sha256-FZsS9F61HLsfQo4Pv7mH6qCjtdjlZJDdIxyAkZPjG44="
     }
   },
-  "version": "1.10.0"
+  "version": "1.11.0"
 }

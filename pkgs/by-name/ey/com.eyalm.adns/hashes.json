@@ -1,18 +1,18 @@
 {
-  "apkName": "com.eyalm.adns_15.apk",
+  "apkName": "com.eyalm.adns_21.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-u1/yI5J7Nwse1RxrYvjZxml78i6niFMNR1BW/rBTLGk="
+      "hash": "sha256-UC5G8RjgkffS7k0dQ+wjfO0r4lPqsXJUAx4SW/7ODJM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-u1/yI5J7Nwse1RxrYvjZxml78i6niFMNR1BW/rBTLGk="
+      "hash": "sha256-UC5G8RjgkffS7k0dQ+wjfO0r4lPqsXJUAx4SW/7ODJM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-u1/yI5J7Nwse1RxrYvjZxml78i6niFMNR1BW/rBTLGk="
+      "hash": "sha256-UC5G8RjgkffS7k0dQ+wjfO0r4lPqsXJUAx4SW/7ODJM="
     }
   },
-  "version": "2.0.2"
+  "version": "2.1.7"
 }

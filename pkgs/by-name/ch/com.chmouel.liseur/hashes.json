@@ -1,18 +1,18 @@
 {
-  "apkName": "com.chmouel.liseur_10.apk",
+  "apkName": "com.chmouel.liseur_43_394e041.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0VZRG8kJHVoQZTMg7o9nmgauzFXYBHbRTJOdgDphYJk="
+      "hash": "sha256-wtIMLymGrS3n60YPKKa9HYKtAbBG/btP2DmCiz3AOIY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0VZRG8kJHVoQZTMg7o9nmgauzFXYBHbRTJOdgDphYJk="
+      "hash": "sha256-wtIMLymGrS3n60YPKKa9HYKtAbBG/btP2DmCiz3AOIY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0VZRG8kJHVoQZTMg7o9nmgauzFXYBHbRTJOdgDphYJk="
+      "hash": "sha256-wtIMLymGrS3n60YPKKa9HYKtAbBG/btP2DmCiz3AOIY="
     }
   },
-  "version": "0.5.0"
+  "version": "0.18.0"
 }

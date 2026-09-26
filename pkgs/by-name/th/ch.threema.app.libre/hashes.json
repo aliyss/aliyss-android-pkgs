@@ -1,18 +1,18 @@
 {
-  "apkName": "ch.threema.app.libre_1210.apk",
+  "apkName": "ch.threema.app.libre_1216.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0wBJvHHP0k/bIKW5RvDo5NrM1m0lKvWm4eo2hTTlt6g="
+      "hash": "sha256-ex63rqAjgNXIITuewCsFYg0mDa+eWmgQN27Js0M/eQM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0wBJvHHP0k/bIKW5RvDo5NrM1m0lKvWm4eo2hTTlt6g="
+      "hash": "sha256-ex63rqAjgNXIITuewCsFYg0mDa+eWmgQN27Js0M/eQM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0wBJvHHP0k/bIKW5RvDo5NrM1m0lKvWm4eo2hTTlt6g="
+      "hash": "sha256-ex63rqAjgNXIITuewCsFYg0mDa+eWmgQN27Js0M/eQM="
     }
   },
-  "version": "6.5.1l"
+  "version": "6.5.3l"
 }

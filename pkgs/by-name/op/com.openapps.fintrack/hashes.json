@@ -1,18 +1,18 @@
 {
-  "apkName": "com.openapps.fintrack_7.apk",
+  "apkName": "com.openapps.fintrack_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-3xHKrhBOXUw3Eeu+giw5ieJgKugPJbTOccbZYlO/60k="
+      "hash": "sha256-V64jMklOVEyT0yYi1yyw/LhFzSmALTWqgnavRwNpWwA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3xHKrhBOXUw3Eeu+giw5ieJgKugPJbTOccbZYlO/60k="
+      "hash": "sha256-V64jMklOVEyT0yYi1yyw/LhFzSmALTWqgnavRwNpWwA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3xHKrhBOXUw3Eeu+giw5ieJgKugPJbTOccbZYlO/60k="
+      "hash": "sha256-V64jMklOVEyT0yYi1yyw/LhFzSmALTWqgnavRwNpWwA="
     }
   },
-  "version": "1.0.16"
+  "version": "1.0.19"
 }

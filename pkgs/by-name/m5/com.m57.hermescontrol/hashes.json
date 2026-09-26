@@ -1,18 +1,18 @@
 {
-  "apkName": "com.m57.hermescontrol_1211.apk",
+  "apkName": "com.m57.hermescontrol_1294.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-XsexA2y0mgJeO8VgNtAYc0OeZDkVNYAZfA1jlbmR034="
+      "hash": "sha256-bkPK2OIs70At4o6gwPN58ytwhtU7RMRlI3s3+hs6cnQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XsexA2y0mgJeO8VgNtAYc0OeZDkVNYAZfA1jlbmR034="
+      "hash": "sha256-bkPK2OIs70At4o6gwPN58ytwhtU7RMRlI3s3+hs6cnQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XsexA2y0mgJeO8VgNtAYc0OeZDkVNYAZfA1jlbmR034="
+      "hash": "sha256-bkPK2OIs70At4o6gwPN58ytwhtU7RMRlI3s3+hs6cnQ="
     }
   },
-  "version": "1.21.1"
+  "version": "1.29.4"
 }

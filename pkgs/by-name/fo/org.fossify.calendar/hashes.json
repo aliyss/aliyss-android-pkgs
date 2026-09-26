@@ -1,18 +1,18 @@
 {
-  "apkName": "org.fossify.calendar_20.apk",
+  "apkName": "org.fossify.calendar_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KsvUf6Krxt1IRuQG7S/WDFwBuGExWNEOASE1kj7iSJQ="
+      "hash": "sha256-S5Rr7oILUW755Ik6f5K6KqGHIBsVkV4VnG8EVnZI+T4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KsvUf6Krxt1IRuQG7S/WDFwBuGExWNEOASE1kj7iSJQ="
+      "hash": "sha256-S5Rr7oILUW755Ik6f5K6KqGHIBsVkV4VnG8EVnZI+T4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KsvUf6Krxt1IRuQG7S/WDFwBuGExWNEOASE1kj7iSJQ="
+      "hash": "sha256-S5Rr7oILUW755Ik6f5K6KqGHIBsVkV4VnG8EVnZI+T4="
     }
   },
-  "version": "1.10.3"
+  "version": "1.11.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.froxot.cuscon.foss_4107.apk",
+  "apkName": "com.froxot.cuscon.foss_4111.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-4mbwfQlcnsJY3dVx+q0uApRuSgK/XHPvsgwkG9W9To4="
+      "hash": "sha256-PS+z3uDdwNRem2ZXy4+ZxHZdU0PK7tvCSzs3Mrl0UXU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4mbwfQlcnsJY3dVx+q0uApRuSgK/XHPvsgwkG9W9To4="
+      "hash": "sha256-PS+z3uDdwNRem2ZXy4+ZxHZdU0PK7tvCSzs3Mrl0UXU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4mbwfQlcnsJY3dVx+q0uApRuSgK/XHPvsgwkG9W9To4="
+      "hash": "sha256-PS+z3uDdwNRem2ZXy4+ZxHZdU0PK7tvCSzs3Mrl0UXU="
     }
   },
-  "version": "4.1.0.7"
+  "version": "4.1.1.1"
 }

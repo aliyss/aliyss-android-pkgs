@@ -1,18 +1,18 @@
 {
-  "apkName": "net.yukh.currency_60700.apk",
+  "apkName": "net.yukh.currency_60800.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-mCGrNGgdvQRctRiXymAiiu9dU9isFVPcgo4q5FXLuFE="
+      "hash": "sha256-rZlR8Pv1IIyjKzpon8imIBn3cOd86O93gWP7tKKe0rI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mCGrNGgdvQRctRiXymAiiu9dU9isFVPcgo4q5FXLuFE="
+      "hash": "sha256-rZlR8Pv1IIyjKzpon8imIBn3cOd86O93gWP7tKKe0rI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mCGrNGgdvQRctRiXymAiiu9dU9isFVPcgo4q5FXLuFE="
+      "hash": "sha256-rZlR8Pv1IIyjKzpon8imIBn3cOd86O93gWP7tKKe0rI="
     }
   },
-  "version": "0.6.7"
+  "version": "0.6.8"
 }

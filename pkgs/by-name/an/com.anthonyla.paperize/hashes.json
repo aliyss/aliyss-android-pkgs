@@ -1,18 +1,18 @@
 {
-  "apkName": "com.anthonyla.paperize_54.apk",
+  "apkName": "com.anthonyla.paperize_56.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wvJY7CMt0gRmUO6GggEZbOTPdCvEyApiv09f+UrmcKA="
+      "hash": "sha256-bYt4qDzKO2ilGVTC+CFz+e7A4XFG5Y4pOAJXBvBkOXk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wvJY7CMt0gRmUO6GggEZbOTPdCvEyApiv09f+UrmcKA="
+      "hash": "sha256-bYt4qDzKO2ilGVTC+CFz+e7A4XFG5Y4pOAJXBvBkOXk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wvJY7CMt0gRmUO6GggEZbOTPdCvEyApiv09f+UrmcKA="
+      "hash": "sha256-bYt4qDzKO2ilGVTC+CFz+e7A4XFG5Y4pOAJXBvBkOXk="
     }
   },
-  "version": "4.0.3"
+  "version": "4.1.1"
 }

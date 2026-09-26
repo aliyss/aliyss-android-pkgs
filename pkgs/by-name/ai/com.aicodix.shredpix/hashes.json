@@ -1,18 +1,18 @@
 {
-  "apkName": "com.aicodix.shredpix_22.apk",
+  "apkName": "com.aicodix.shredpix_23.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-sbyrq6WuI1tr+WqCOPTkQHJXWLN0w5kbPHYgXkoVxKA="
+      "hash": "sha256-amPyTi2AAdhoKPmQBkomK75BEyW/Iv3gWXQkJaIErVc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sbyrq6WuI1tr+WqCOPTkQHJXWLN0w5kbPHYgXkoVxKA="
+      "hash": "sha256-amPyTi2AAdhoKPmQBkomK75BEyW/Iv3gWXQkJaIErVc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sbyrq6WuI1tr+WqCOPTkQHJXWLN0w5kbPHYgXkoVxKA="
+      "hash": "sha256-amPyTi2AAdhoKPmQBkomK75BEyW/Iv3gWXQkJaIErVc="
     }
   },
-  "version": "1.21"
+  "version": "1.22"
 }

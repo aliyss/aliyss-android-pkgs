@@ -1,18 +1,18 @@
 {
-  "apkName": "org.fdroid.basic_2000040.apk",
+  "apkName": "org.fdroid.basic_2000050.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-EVXY9GlQtQqHavie4pgjUlEtUaz00/ODWLGwJu4pBWA="
+      "hash": "sha256-PY0VDWantJeIFDEEpygMdKiuBCjoFeEjSjiqMYxrRaY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EVXY9GlQtQqHavie4pgjUlEtUaz00/ODWLGwJu4pBWA="
+      "hash": "sha256-PY0VDWantJeIFDEEpygMdKiuBCjoFeEjSjiqMYxrRaY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EVXY9GlQtQqHavie4pgjUlEtUaz00/ODWLGwJu4pBWA="
+      "hash": "sha256-PY0VDWantJeIFDEEpygMdKiuBCjoFeEjSjiqMYxrRaY="
     }
   },
-  "version": "2.0-rc0"
+  "version": "2.0.0"
 }

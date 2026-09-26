@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.db1996.taskerha_20003.apk",
+  "apkName": "com.github.db1996.taskerha_20005.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Is+62XG/QKF61FiINQwnX9+LigzIdBa0zK4m9s0GBqg="
+      "hash": "sha256-AAxwF8Os5dhyZBgnjQeSkSw8Rc9/FZlBCfC/SR7d4p4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Is+62XG/QKF61FiINQwnX9+LigzIdBa0zK4m9s0GBqg="
+      "hash": "sha256-AAxwF8Os5dhyZBgnjQeSkSw8Rc9/FZlBCfC/SR7d4p4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Is+62XG/QKF61FiINQwnX9+LigzIdBa0zK4m9s0GBqg="
+      "hash": "sha256-AAxwF8Os5dhyZBgnjQeSkSw8Rc9/FZlBCfC/SR7d4p4="
     }
   },
-  "version": "2.0.3"
+  "version": "2.0.5"
 }

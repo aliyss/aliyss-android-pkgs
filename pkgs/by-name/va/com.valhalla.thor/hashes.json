@@ -1,18 +1,18 @@
 {
-  "apkName": "com.valhalla.thor_1940.apk",
+  "apkName": "com.valhalla.thor_1961.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yuJ2TwdNvDzS2iT3z+/rzMfZvEG6bT82RHb1T39gd0k="
+      "hash": "sha256-zBA5vaEYIpVaKwvEQkf1IXS3MDC9j9tqfFEsDZgdx4g="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yuJ2TwdNvDzS2iT3z+/rzMfZvEG6bT82RHb1T39gd0k="
+      "hash": "sha256-zBA5vaEYIpVaKwvEQkf1IXS3MDC9j9tqfFEsDZgdx4g="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yuJ2TwdNvDzS2iT3z+/rzMfZvEG6bT82RHb1T39gd0k="
+      "hash": "sha256-zBA5vaEYIpVaKwvEQkf1IXS3MDC9j9tqfFEsDZgdx4g="
     }
   },
-  "version": "1.94.0-foss"
+  "version": "1.96.1"
 }

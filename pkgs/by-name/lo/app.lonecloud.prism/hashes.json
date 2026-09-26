@@ -1,18 +1,18 @@
 {
-  "apkName": "app.lonecloud.prism_10302.apk",
+  "apkName": "app.lonecloud.prism_10402.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-u1lSokBDlV2lpv7TEzucvXQd/FgDpiGNcOOqM7DXBAA="
+      "hash": "sha256-zzNIGoQa5vUV6haYQ6ln2a7ukCO8jcikYjiEpPYKi58="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-u1lSokBDlV2lpv7TEzucvXQd/FgDpiGNcOOqM7DXBAA="
+      "hash": "sha256-zzNIGoQa5vUV6haYQ6ln2a7ukCO8jcikYjiEpPYKi58="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-u1lSokBDlV2lpv7TEzucvXQd/FgDpiGNcOOqM7DXBAA="
+      "hash": "sha256-zzNIGoQa5vUV6haYQ6ln2a7ukCO8jcikYjiEpPYKi58="
     }
   },
-  "version": "1.3.2"
+  "version": "1.4.2"
 }

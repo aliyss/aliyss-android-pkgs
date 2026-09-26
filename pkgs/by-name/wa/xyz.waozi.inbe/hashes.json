@@ -1,18 +1,18 @@
 {
-  "apkName": "xyz.waozi.inbe_94.apk",
+  "apkName": "xyz.waozi.inbe_121.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lthC9xMSIieoZ8cLXLV18Y9rwnEpvWqquoFe/N/RENM="
+      "hash": "sha256-KS4utahkTO2iweSfYCb59IoeXUOucS3bPdUVw6P49Ck="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lthC9xMSIieoZ8cLXLV18Y9rwnEpvWqquoFe/N/RENM="
+      "hash": "sha256-KS4utahkTO2iweSfYCb59IoeXUOucS3bPdUVw6P49Ck="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lthC9xMSIieoZ8cLXLV18Y9rwnEpvWqquoFe/N/RENM="
+      "hash": "sha256-KS4utahkTO2iweSfYCb59IoeXUOucS3bPdUVw6P49Ck="
     }
   },
-  "version": "1.8.19"
+  "version": "1.9.19"
 }

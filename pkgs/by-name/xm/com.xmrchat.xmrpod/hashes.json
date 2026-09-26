@@ -1,18 +1,18 @@
 {
-  "apkName": "com.xmrchat.xmrpod_12.apk",
+  "apkName": "com.xmrchat.xmrpod_23.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-DkzqekyCtZfk5dEc/VmK+FZo1mwUbyXTbAVuKqKqz1s="
+      "hash": "sha256-vi+7zKICSAqj4i6rnnD5uTaAECySDT5FvyVvnqYt5Po="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DkzqekyCtZfk5dEc/VmK+FZo1mwUbyXTbAVuKqKqz1s="
+      "hash": "sha256-vi+7zKICSAqj4i6rnnD5uTaAECySDT5FvyVvnqYt5Po="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DkzqekyCtZfk5dEc/VmK+FZo1mwUbyXTbAVuKqKqz1s="
+      "hash": "sha256-vi+7zKICSAqj4i6rnnD5uTaAECySDT5FvyVvnqYt5Po="
     }
   },
-  "version": "0.1.11"
+  "version": "0.1.22"
 }

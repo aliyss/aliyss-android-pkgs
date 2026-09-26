@@ -1,18 +1,18 @@
 {
-  "apkName": "org.quantumbadger.redreader_117.apk",
+  "apkName": "org.quantumbadger.redreader_118.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Vy3HWzV4AiBHEdZ0ikSag5hMg6/mdxDdBgVTqnu7HY4="
+      "hash": "sha256-ZBUSzuVRVM0MgR5DXV9gubnm1lohA+CjQ4nJ/ltEhPI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Vy3HWzV4AiBHEdZ0ikSag5hMg6/mdxDdBgVTqnu7HY4="
+      "hash": "sha256-ZBUSzuVRVM0MgR5DXV9gubnm1lohA+CjQ4nJ/ltEhPI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Vy3HWzV4AiBHEdZ0ikSag5hMg6/mdxDdBgVTqnu7HY4="
+      "hash": "sha256-ZBUSzuVRVM0MgR5DXV9gubnm1lohA+CjQ4nJ/ltEhPI="
     }
   },
-  "version": "1.25.2"
+  "version": "1.26"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.qfs.pagan_168.apk",
+  "apkName": "com.qfs.pagan_175.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7Cq7yXKpkraFbX55BXJbl4Szmwy9KZ6mCJfeBG7Py8Q="
+      "hash": "sha256-binh++r4DN0O0G3HoyPzdyyGHHOoTIvgpwZVO8B5zgo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7Cq7yXKpkraFbX55BXJbl4Szmwy9KZ6mCJfeBG7Py8Q="
+      "hash": "sha256-binh++r4DN0O0G3HoyPzdyyGHHOoTIvgpwZVO8B5zgo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7Cq7yXKpkraFbX55BXJbl4Szmwy9KZ6mCJfeBG7Py8Q="
+      "hash": "sha256-binh++r4DN0O0G3HoyPzdyyGHHOoTIvgpwZVO8B5zgo="
     }
   },
-  "version": "1.8.26"
+  "version": "1.8.31"
 }

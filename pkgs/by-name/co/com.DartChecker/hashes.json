@@ -1,18 +1,18 @@
 {
-  "apkName": "com.DartChecker_47.apk",
+  "apkName": "com.DartChecker_49.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-u7YiTcnt7kEI3PbIc1f9fFhRyHqt3a5wsojI2kuc+TY="
+      "hash": "sha256-KO7zCmmMRCc2skNO6fzlgG7brqXpe6QkhZ4ONvGCSxU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-u7YiTcnt7kEI3PbIc1f9fFhRyHqt3a5wsojI2kuc+TY="
+      "hash": "sha256-KO7zCmmMRCc2skNO6fzlgG7brqXpe6QkhZ4ONvGCSxU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-u7YiTcnt7kEI3PbIc1f9fFhRyHqt3a5wsojI2kuc+TY="
+      "hash": "sha256-KO7zCmmMRCc2skNO6fzlgG7brqXpe6QkhZ4ONvGCSxU="
     }
   },
-  "version": "0.8.6"
+  "version": "0.9.1"
 }

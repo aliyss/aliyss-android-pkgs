@@ -1,18 +1,18 @@
 {
-  "apkName": "com.freetime.geoweather_64.apk",
+  "apkName": "com.freetime.geoweather_71.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ksvpppYGvEfB64XYR5TvIDAAsr1LykryL//R8pc7gps="
+      "hash": "sha256-Xos9wWuSd+3xIwQ5gSg+00Abt8KcWJMMIEom3+etphw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ksvpppYGvEfB64XYR5TvIDAAsr1LykryL//R8pc7gps="
+      "hash": "sha256-Xos9wWuSd+3xIwQ5gSg+00Abt8KcWJMMIEom3+etphw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ksvpppYGvEfB64XYR5TvIDAAsr1LykryL//R8pc7gps="
+      "hash": "sha256-Xos9wWuSd+3xIwQ5gSg+00Abt8KcWJMMIEom3+etphw="
     }
   },
-  "version": "2.2.2"
+  "version": "3.1.3"
 }

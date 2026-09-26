@@ -1,18 +1,18 @@
 {
-  "apkName": "org.briarproject.briar.android_10519.apk",
+  "apkName": "org.briarproject.briar.android_10520.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SwrRaqyRKr76lfJyQateeVijBnScgRunEDTmwYJMwTY="
+      "hash": "sha256-kCWIikpfUmjhzLzYQL0H5R6erx17vzBcomK4r8Zi43I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SwrRaqyRKr76lfJyQateeVijBnScgRunEDTmwYJMwTY="
+      "hash": "sha256-kCWIikpfUmjhzLzYQL0H5R6erx17vzBcomK4r8Zi43I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SwrRaqyRKr76lfJyQateeVijBnScgRunEDTmwYJMwTY="
+      "hash": "sha256-kCWIikpfUmjhzLzYQL0H5R6erx17vzBcomK4r8Zi43I="
     }
   },
-  "version": "1.5.19"
+  "version": "1.5.20"
 }

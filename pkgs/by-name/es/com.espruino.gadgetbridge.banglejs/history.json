@@ -1,0 +1,32 @@
+{
+  "versions": [
+    {
+      "version": "0.94.0-banglejs",
+      "versionCode": 253
+    },
+    {
+      "version": "0.94.0-banglejs",
+      "versionCode": 253
+    },
+    {
+      "version": "0.93.0-banglejs",
+      "versionCode": 252
+    },
+    {
+      "version": "0.93.0-banglejs",
+      "versionCode": 252
+    },
+    {
+      "version": "0.92.2-banglejs",
+      "versionCode": 251
+    },
+    {
+      "version": "0.92.2-banglejs",
+      "versionCode": 251
+    },
+    {
+      "version": "0.92.1-banglejs",
+      "versionCode": 250
+    }
+  ]
+}

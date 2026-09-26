@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bearinmind.launcher314_31.apk",
+  "apkName": "com.bearinmind.launcher314_35.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jfgcwp1GNPEKG7l6KMwLDmDBfGnAfkPv3u+9ajFXCU8="
+      "hash": "sha256-d4TGHV7CjPeQhk2Ent2aDLr9X4PjSS3vyXBMIsj9TyE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jfgcwp1GNPEKG7l6KMwLDmDBfGnAfkPv3u+9ajFXCU8="
+      "hash": "sha256-d4TGHV7CjPeQhk2Ent2aDLr9X4PjSS3vyXBMIsj9TyE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jfgcwp1GNPEKG7l6KMwLDmDBfGnAfkPv3u+9ajFXCU8="
+      "hash": "sha256-d4TGHV7CjPeQhk2Ent2aDLr9X4PjSS3vyXBMIsj9TyE="
     }
   },
-  "version": "0.0.22-beta"
+  "version": "0.0.25-beta"
 }

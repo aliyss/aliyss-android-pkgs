@@ -1,18 +1,18 @@
 {
-  "apkName": "live.pageless.mobile_816585.apk",
+  "apkName": "live.pageless.mobile_886512.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7Gd/5xahI/MJH2UKlx0g+xSU9DqbSZlZTT6sbrFxGyM="
+      "hash": "sha256-fCVOdiKeAmZLsLzRd2jtJkQLn0nzJOb010uWLjfC6e4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7Gd/5xahI/MJH2UKlx0g+xSU9DqbSZlZTT6sbrFxGyM="
+      "hash": "sha256-fCVOdiKeAmZLsLzRd2jtJkQLn0nzJOb010uWLjfC6e4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7Gd/5xahI/MJH2UKlx0g+xSU9DqbSZlZTT6sbrFxGyM="
+      "hash": "sha256-fCVOdiKeAmZLsLzRd2jtJkQLn0nzJOb010uWLjfC6e4="
     }
   },
-  "version": "2026-07-22"
+  "version": "2026-09-08"
 }

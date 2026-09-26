@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kylecorry.trail_sense_147.apk",
+  "apkName": "com.kylecorry.trail_sense_148.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-PXUNnJ1+A0ow5u3hvJbx78BXZDfztdzVCAvszZ2nPdI="
+      "hash": "sha256-hGJJJ0oOMAYizJSBX9J50lhzi/yvYO6eJ27fdPX+vBw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PXUNnJ1+A0ow5u3hvJbx78BXZDfztdzVCAvszZ2nPdI="
+      "hash": "sha256-hGJJJ0oOMAYizJSBX9J50lhzi/yvYO6eJ27fdPX+vBw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PXUNnJ1+A0ow5u3hvJbx78BXZDfztdzVCAvszZ2nPdI="
+      "hash": "sha256-hGJJJ0oOMAYizJSBX9J50lhzi/yvYO6eJ27fdPX+vBw="
     }
   },
-  "version": "8.1.1"
+  "version": "8.2.0"
 }

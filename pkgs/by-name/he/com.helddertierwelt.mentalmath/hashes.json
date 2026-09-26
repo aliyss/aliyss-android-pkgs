@@ -1,18 +1,18 @@
 {
-  "apkName": "com.helddertierwelt.mentalmath_26.apk",
+  "apkName": "com.helddertierwelt.mentalmath_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NU9ZFjCP6WBqvfXPZB8k/q0oEUHRLWLYGeouUOMPNZE="
+      "hash": "sha256-aK9lPR3AsYQTdBAEYhY8EqNv5cmv5LGHvRoEAP5Ubcc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NU9ZFjCP6WBqvfXPZB8k/q0oEUHRLWLYGeouUOMPNZE="
+      "hash": "sha256-aK9lPR3AsYQTdBAEYhY8EqNv5cmv5LGHvRoEAP5Ubcc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NU9ZFjCP6WBqvfXPZB8k/q0oEUHRLWLYGeouUOMPNZE="
+      "hash": "sha256-aK9lPR3AsYQTdBAEYhY8EqNv5cmv5LGHvRoEAP5Ubcc="
     }
   },
-  "version": "26"
+  "version": "27"
 }

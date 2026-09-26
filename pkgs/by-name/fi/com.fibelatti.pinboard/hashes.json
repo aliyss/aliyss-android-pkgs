@@ -1,18 +1,18 @@
 {
-  "apkName": "com.fibelatti.pinboard_3180100.apk",
+  "apkName": "com.fibelatti.pinboard_3190200.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zez+W02wE1ioeu2kflL8J93TurlzIxhePNb71YJkps8="
+      "hash": "sha256-/q2WfVKX3RHwY2tpYjAd7fCR1UqIBlDi8+zIcmvUcHA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zez+W02wE1ioeu2kflL8J93TurlzIxhePNb71YJkps8="
+      "hash": "sha256-/q2WfVKX3RHwY2tpYjAd7fCR1UqIBlDi8+zIcmvUcHA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zez+W02wE1ioeu2kflL8J93TurlzIxhePNb71YJkps8="
+      "hash": "sha256-/q2WfVKX3RHwY2tpYjAd7fCR1UqIBlDi8+zIcmvUcHA="
     }
   },
-  "version": "3.18.1"
+  "version": "3.19.2"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.cipher.notes_14.apk",
+  "apkName": "dev.cipher.notes_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rnWWepuGmkMsdQbg5fS5vcztK9OmZwytU429bCwWxU4="
+      "hash": "sha256-NmkI7IXBSu9MXw04DbwM5tr+JH+AS1VFw3eGgUPbMCw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rnWWepuGmkMsdQbg5fS5vcztK9OmZwytU429bCwWxU4="
+      "hash": "sha256-NmkI7IXBSu9MXw04DbwM5tr+JH+AS1VFw3eGgUPbMCw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rnWWepuGmkMsdQbg5fS5vcztK9OmZwytU429bCwWxU4="
+      "hash": "sha256-NmkI7IXBSu9MXw04DbwM5tr+JH+AS1VFw3eGgUPbMCw="
     }
   },
-  "version": "2.0.1"
+  "version": "2.3.0"
 }

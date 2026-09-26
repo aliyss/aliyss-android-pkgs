@@ -1,18 +1,18 @@
 {
-  "apkName": "net.millaguie.cosmovisor_10004.apk",
+  "apkName": "net.millaguie.cosmovisor_10005.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bHNwAtRzUyWm3BRKPCmSd/qdVdOtvr9RncKoOa6/4pg="
+      "hash": "sha256-jIkCRfjanahve32nGj/M3oneUP+1WWjFsffKWhYgfIw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bHNwAtRzUyWm3BRKPCmSd/qdVdOtvr9RncKoOa6/4pg="
+      "hash": "sha256-jIkCRfjanahve32nGj/M3oneUP+1WWjFsffKWhYgfIw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bHNwAtRzUyWm3BRKPCmSd/qdVdOtvr9RncKoOa6/4pg="
+      "hash": "sha256-jIkCRfjanahve32nGj/M3oneUP+1WWjFsffKWhYgfIw="
     }
   },
-  "version": "1.0.4"
+  "version": "1.0.5"
 }

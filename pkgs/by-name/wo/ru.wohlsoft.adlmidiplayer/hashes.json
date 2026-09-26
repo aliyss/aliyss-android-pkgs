@@ -1,18 +1,18 @@
 {
-  "apkName": "ru.wohlsoft.adlmidiplayer_1060100.apk",
+  "apkName": "ru.wohlsoft.adlmidiplayer_1060200.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-O+5LZ96j6T/TN+/ZVuGfWYwYh0pndNUxARbx2d0BT5k="
+      "hash": "sha256-KMshQcz5ogZAiBwTfDcG5idbpNS6G9mRSZr5q8BjgYc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-O+5LZ96j6T/TN+/ZVuGfWYwYh0pndNUxARbx2d0BT5k="
+      "hash": "sha256-KMshQcz5ogZAiBwTfDcG5idbpNS6G9mRSZr5q8BjgYc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-O+5LZ96j6T/TN+/ZVuGfWYwYh0pndNUxARbx2d0BT5k="
+      "hash": "sha256-KMshQcz5ogZAiBwTfDcG5idbpNS6G9mRSZr5q8BjgYc="
     }
   },
-  "version": "1.6.1"
+  "version": "1.6.2"
 }

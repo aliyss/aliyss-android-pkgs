@@ -1,18 +1,18 @@
 {
-  "apkName": "com.klee.sapio_98.apk",
+  "apkName": "com.klee.sapio_99.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7wGRDMdVeE4jETNUmV8S1bKDTErn+bUOneBjgvaDeew="
+      "hash": "sha256-v5+S0d5aWIFav+0UKvlswE8ubE4ZLvTHbwcyPc3gPaM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7wGRDMdVeE4jETNUmV8S1bKDTErn+bUOneBjgvaDeew="
+      "hash": "sha256-v5+S0d5aWIFav+0UKvlswE8ubE4ZLvTHbwcyPc3gPaM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7wGRDMdVeE4jETNUmV8S1bKDTErn+bUOneBjgvaDeew="
+      "hash": "sha256-v5+S0d5aWIFav+0UKvlswE8ubE4ZLvTHbwcyPc3gPaM="
     }
   },
-  "version": "2.8.0"
+  "version": "2.9.0"
 }

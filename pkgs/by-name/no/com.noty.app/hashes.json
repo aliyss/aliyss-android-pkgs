@@ -1,18 +1,18 @@
 {
-  "apkName": "com.noty.app_3.apk",
+  "apkName": "com.noty.app_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NQegNeWArSCa82q/qYXKeTVieQb61BysrWGcOFeUmWA="
+      "hash": "sha256-6LirsIhP9FXMzL9yEWhv4Sk0cb9/lpgj8OzgQmGe4I0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NQegNeWArSCa82q/qYXKeTVieQb61BysrWGcOFeUmWA="
+      "hash": "sha256-6LirsIhP9FXMzL9yEWhv4Sk0cb9/lpgj8OzgQmGe4I0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NQegNeWArSCa82q/qYXKeTVieQb61BysrWGcOFeUmWA="
+      "hash": "sha256-6LirsIhP9FXMzL9yEWhv4Sk0cb9/lpgj8OzgQmGe4I0="
     }
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }

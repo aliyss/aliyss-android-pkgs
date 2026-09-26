@@ -1,18 +1,18 @@
 {
-  "apkName": "m.co.rh.id.a_medic_log_25.apk",
+  "apkName": "m.co.rh.id.a_medic_log_28.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9T3ePPHfQocbDgrORiXuFScLudXymLwwm4J0HJObVFo="
+      "hash": "sha256-sJmluxC4lC2TfbIRByrj6+PXOmatLpDqo5cEevKojQs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9T3ePPHfQocbDgrORiXuFScLudXymLwwm4J0HJObVFo="
+      "hash": "sha256-sJmluxC4lC2TfbIRByrj6+PXOmatLpDqo5cEevKojQs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9T3ePPHfQocbDgrORiXuFScLudXymLwwm4J0HJObVFo="
+      "hash": "sha256-sJmluxC4lC2TfbIRByrj6+PXOmatLpDqo5cEevKojQs="
     }
   },
-  "version": "1.4.1"
+  "version": "2.0.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "net.hyx.app.volumenotification_12820.apk",
+  "apkName": "net.hyx.app.volumenotification_14110.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LAYeXQLYixfXOKZ6XaHyMTsVXUkjKdFpJ2qkG0iy3Zc="
+      "hash": "sha256-82qRZslqmGsu8fbNnCJEOeWqPsuHDtAL8HuB4sAoctw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LAYeXQLYixfXOKZ6XaHyMTsVXUkjKdFpJ2qkG0iy3Zc="
+      "hash": "sha256-82qRZslqmGsu8fbNnCJEOeWqPsuHDtAL8HuB4sAoctw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LAYeXQLYixfXOKZ6XaHyMTsVXUkjKdFpJ2qkG0iy3Zc="
+      "hash": "sha256-82qRZslqmGsu8fbNnCJEOeWqPsuHDtAL8HuB4sAoctw="
     }
   },
-  "version": "1.2.8.2"
+  "version": "1.4.1.1"
 }

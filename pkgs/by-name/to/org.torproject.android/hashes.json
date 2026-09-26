@@ -1,10 +1,18 @@
 {
-  "apkName": "Orbot-17.9.5-RC-4-tor-0.4.9.11-fullperm-universal-release.apk",
+  "apkName": "Orbot-17.9.6-BETA-1-tor-0.4.9.12-2-g7b2bb2571-fullperm-arm64-v8a-release.apk",
   "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-KQXryBIUy5P4ka7kaQswDN+PGIKY3SOHihTdSGSdRds="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-KQXryBIUy5P4ka7kaQswDN+PGIKY3SOHihTdSGSdRds="
+    },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-a3nLMNWSeP1msnQCI+BZKh+DYydKyEmJYEkbAgG5tPI="
+      "hash": "sha256-KQXryBIUy5P4ka7kaQswDN+PGIKY3SOHihTdSGSdRds="
     }
   },
-  "version": "17.9.5-RC-4-tor-0.4.9.11"
+  "version": "17.9.6-BETA-1-tor-0.4.9.12"
 }

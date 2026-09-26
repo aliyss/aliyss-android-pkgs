@@ -1,18 +1,18 @@
 {
-  "apkName": "com.best.deskclock_2035.apk",
+  "apkName": "com.best.deskclock_2036.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Tvw0fNFNzW4bkQd7ivnjdLamfhlWOnZDIz2XK4UceEg="
+      "hash": "sha256-ZNYVL/OlyE7kXKlrPAAD4FiWU3H2psUGDlalQwDmmgE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Tvw0fNFNzW4bkQd7ivnjdLamfhlWOnZDIz2XK4UceEg="
+      "hash": "sha256-ZNYVL/OlyE7kXKlrPAAD4FiWU3H2psUGDlalQwDmmgE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Tvw0fNFNzW4bkQd7ivnjdLamfhlWOnZDIz2XK4UceEg="
+      "hash": "sha256-ZNYVL/OlyE7kXKlrPAAD4FiWU3H2psUGDlalQwDmmgE="
     }
   },
-  "version": "2.31"
+  "version": "2.32"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "site.leos.apps.lespas_117.apk",
+  "apkName": "site.leos.apps.lespas_118.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-nUlf1kIPnp32etQhH3txmFNPiAvMc3lFWybODep/aBU="
+      "hash": "sha256-vhKbQ/hHUuSvLqJHW2gTT78L2rF7pdZf50LmYh//tkA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nUlf1kIPnp32etQhH3txmFNPiAvMc3lFWybODep/aBU="
+      "hash": "sha256-vhKbQ/hHUuSvLqJHW2gTT78L2rF7pdZf50LmYh//tkA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nUlf1kIPnp32etQhH3txmFNPiAvMc3lFWybODep/aBU="
+      "hash": "sha256-vhKbQ/hHUuSvLqJHW2gTT78L2rF7pdZf50LmYh//tkA="
     }
   },
-  "version": "2.11.4"
+  "version": "2.11.5"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.vipedev.kords2_15.apk",
+  "apkName": "com.vipedev.kords2_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vOW37lW9ebFoJMs8nEzw/xbP8omqf1oAdrBghAfM9o4="
+      "hash": "sha256-0E6WK7WkYULZElIPdQo5BUd8mkuqDieeH4DxqhhskY0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vOW37lW9ebFoJMs8nEzw/xbP8omqf1oAdrBghAfM9o4="
+      "hash": "sha256-0E6WK7WkYULZElIPdQo5BUd8mkuqDieeH4DxqhhskY0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vOW37lW9ebFoJMs8nEzw/xbP8omqf1oAdrBghAfM9o4="
+      "hash": "sha256-0E6WK7WkYULZElIPdQo5BUd8mkuqDieeH4DxqhhskY0="
     }
   },
-  "version": "1.3.0"
+  "version": "1.4.1"
 }

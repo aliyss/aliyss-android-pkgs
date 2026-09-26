@@ -1,18 +1,18 @@
 {
-  "apkName": "net.minetest.minetest_5160001.apk",
+  "apkName": "net.minetest.minetest_5170000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qecMQd592VmjWkTtqMcnAS2SCjArwxHseMRUCwVr1Xs="
+      "hash": "sha256-h6E21AjtVg09VuVcoqx4Det6iUFjWxaWDIiDH7M/kjM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qecMQd592VmjWkTtqMcnAS2SCjArwxHseMRUCwVr1Xs="
+      "hash": "sha256-h6E21AjtVg09VuVcoqx4Det6iUFjWxaWDIiDH7M/kjM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qecMQd592VmjWkTtqMcnAS2SCjArwxHseMRUCwVr1Xs="
+      "hash": "sha256-h6E21AjtVg09VuVcoqx4Det6iUFjWxaWDIiDH7M/kjM="
     }
   },
-  "version": "5.16.1"
+  "version": "5.17.0"
 }

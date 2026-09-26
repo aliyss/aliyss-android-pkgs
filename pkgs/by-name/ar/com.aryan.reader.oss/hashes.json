@@ -1,18 +1,18 @@
 {
-  "apkName": "com.aryan.reader.oss_56.apk",
+  "apkName": "com.aryan.reader.oss_60.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-i/1SR12fpcWgyCyRNlpulMPH4HHUPdOfXXeBcO5a4mQ="
+      "hash": "sha256-ilbINZxbTfyxlFEYpo8Zs6bo8XXA1ExVHeIbBH+/0dg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-i/1SR12fpcWgyCyRNlpulMPH4HHUPdOfXXeBcO5a4mQ="
+      "hash": "sha256-ilbINZxbTfyxlFEYpo8Zs6bo8XXA1ExVHeIbBH+/0dg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-i/1SR12fpcWgyCyRNlpulMPH4HHUPdOfXXeBcO5a4mQ="
+      "hash": "sha256-ilbINZxbTfyxlFEYpo8Zs6bo8XXA1ExVHeIbBH+/0dg="
     }
   },
-  "version": "1.0.52-oss"
+  "version": "1.0.55-oss"
 }

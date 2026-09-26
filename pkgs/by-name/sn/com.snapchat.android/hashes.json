@@ -1,4 +1,17 @@
 {
-  "version": "",
-  "architectures": {}
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-1KFaR5q+LG1K+uSsuOQUitGhLVkx7H7MRXvWJYHTcFE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1KFaR5q+LG1K+uSsuOQUitGhLVkx7H7MRXvWJYHTcFE="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-1KFaR5q+LG1K+uSsuOQUitGhLVkx7H7MRXvWJYHTcFE="
+    }
+  },
+  "version": "14.25.0.43"
 }
