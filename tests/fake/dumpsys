@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Fake `dumpsys` for the offline walk test: `dumpsys package <pkg>` prints the
+# fixture at $AS_FAKE_DIR/<pkg>.pkg.
+[[ "${1:-}" == "package" ]] || exit 0
+pkg="${2:-}"
+[[ -n "$pkg" ]] || exit 0
+cat "${AS_FAKE_DIR:?}/$pkg.pkg" 2>/dev/null || true

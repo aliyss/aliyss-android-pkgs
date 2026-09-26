@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# Fake `appops` for the offline walk test.
+#
+#   appops get <pkg>       -> the whole fixture $AS_FAKE_DIR/<pkg>.appops
+#   appops get <pkg> <OP>  -> only the lines for that op (the real command
+#                             prints "No operations.\nDefault mode: X" when the
+#                             op is unset; the fixture can carry that verbatim)
+[[ "${1:-}" == "get" ]] || exit 0
+pkg="${2:-}"
+op="${3:-}"
+f="${AS_FAKE_DIR:?}/$pkg.appops"
+[[ -f "$f" ]] || exit 0
+if [[ -n "$op" ]]; then
+  grep -E "^Uid mode: $op:|^$op:" "$f" || true
+else
+  cat "$f"
+fi

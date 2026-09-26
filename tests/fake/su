@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Fake `su` for the offline walk test.
+#
+# android-enforce probes elevation with `su -c 'id -u'` and then hands every
+# root script to `su -c "sh '<script>'"`. This answers the probe with 0 and runs
+# the handed-over script locally, where the fake system binaries on
+# $AS_SYSTEM_PATH take the place of dumpsys/appops/pm/settings.
+[[ "${1:-}" == "-c" ]] && shift
+if [[ "$*" == "id -u" ]]; then
+  printf '0\n'
+  exit 0
+fi
+exec bash -c "$*"

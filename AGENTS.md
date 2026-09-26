@@ -59,6 +59,14 @@ baseline that ships next to the app. `tests/test_repo_structure.py` validates th
 sidecar schema — every key and value, because a typo in config data is silently
 a no-op on a phone.
 
+The walk reads the device once and writes once, each as a single root script,
+and the config is loaded into arrays once (`tests/enforce_walk_test.sh` guards
+this off the device). Keep it that way: a root spawn per setting or a `jq` per
+field is the difference between a switch taking seconds and minutes. The
+snapshot the reads fill is addressed by key, so a marker and its lookup must
+agree — an off-by-one in the key reads as "empty", which silently turns a
+comparison into a no-op.
+
 ## Gates
 
 Run these before committing. CI runs the same things:
@@ -69,7 +77,9 @@ ruff check scripts/ tests/
 ruff format --check scripts/ tests/
 mypy scripts/ tests/             # strict
 pytest -q tests/
-shellcheck --severity=warning -s bash scripts/*.sh
+shellcheck --severity=warning -s bash scripts/*.sh tests/*.sh tests/fake/*
+bash tests/enforce_config_test.sh   # config folding (--print-effective)
+bash tests/enforce_walk_test.sh     # the enforce walk, off the device
 nix flake check                  # the above, plus the Nix-side checks
 ```
 

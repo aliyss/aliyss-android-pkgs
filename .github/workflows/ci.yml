@@ -17,11 +17,11 @@ jobs:
       - name: shellcheck (warning and above)
         run: |
           shellcheck --version
-          shellcheck --severity=warning -s bash scripts/*.sh
+          shellcheck --severity=warning -s bash scripts/*.sh tests/*.sh tests/fake/*
 
       - name: parse check
         run: |
-          for f in scripts/*.sh; do
+          for f in scripts/*.sh tests/*.sh tests/fake/*; do
             bash -n "$f"
           done
 

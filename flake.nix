@@ -163,8 +163,9 @@
                 nativeBuildInputs = [ pkgs.shellcheck pkgs.bash ];
               } ''
               cp -r ${./scripts} scripts
-              shellcheck --severity=warning -s bash scripts/*.sh
-              for f in scripts/*.sh; do
+              cp -r ${./tests} tests
+              shellcheck --severity=warning -s bash scripts/*.sh tests/*.sh tests/fake/*
+              for f in scripts/*.sh tests/*.sh tests/fake/*; do
                 bash -n "$f"
               done
               touch $out
@@ -181,6 +182,22 @@
               } ''
               cp -r ${./tests} tests
               bash tests/enforce_config_test.sh
+              touch $out
+            '';
+
+          # The enforce walk off the device: the root scripts android-enforce
+          # generates are run under a fake su, and fake dumpsys/appops/pm/
+          # settings answer from fixtures, so the walk's decisions (the managed
+          # posture, the drift report, the listener state) are exercised with no
+          # device and no root.
+          enforce-walk =
+            pkgs.runCommand "android-enforce-walk-test"
+              {
+                nativeBuildInputs = with pkgs; [ bash coreutils gnugrep gnused jq ];
+                ENFORCE = "${android-enforce system}/bin/android-enforce";
+              } ''
+              cp -r ${./tests} tests
+              bash tests/enforce_walk_test.sh
               touch $out
             '';
         });

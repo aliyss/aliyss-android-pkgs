@@ -252,7 +252,19 @@ if [[ -n "$RECOMMENDED" && ! -r "$RECOMMENDED" ]]; then
   exit 2
 fi
 EFFECTIVE="$(mktemp "${TMPDIR:-/tmp}/android-enforce-effective.XXXXXX")"
-trap 'rm -f "$EFFECTIVE"' EXIT
+# Live state is fetched once into $SNAP (see "live state" below): every read the
+# walk makes is a file lookup, not a root round trip. The captured output never
+# leaves this process, so it lives in TMPDIR.
+SNAP="$(mktemp -d "${TMPDIR:-/tmp}/android-enforce-live.XXXXXX")"
+# The scripts handed to root are different: root runs in the *global* mount
+# namespace (that is what the ksud shim's `-g` does, and the activation runs
+# inside a chroot), so a TMPDIR path may not exist there. $HOME is a real path in
+# both namespaces — the su shim already lives under it for the same reason.
+ROOT_TMP="${HOME:-/data/data/com.termux/files/home}/.local/state/aliyss-android-pkgs.d"
+mkdir -p "$ROOT_TMP" 2>/dev/null || ROOT_TMP="${TMPDIR:-/tmp}"
+READ_SCRIPT="$ROOT_TMP/enforce-read.$$.sh"
+APPLY_SCRIPT="$ROOT_TMP/enforce-apply.$$.sh"
+trap 'rm -rf "$EFFECTIVE" "$SNAP" "$READ_SCRIPT" "$APPLY_SCRIPT"' EXIT
 if ! normalize_config "$CONFIG" "$RECOMMENDED" >"$EFFECTIVE"; then
   echo "error: could not read the config: $CONFIG" >&2
   exit 2
@@ -272,6 +284,10 @@ fi
 
 KSUD_LIB="${KSUD_LIB:-$HOME/sukisu-mgr/lib/arm64-v8a/libksud.so}"
 KSUD_LINKER="${KSUD_LINKER:-/system/bin/linker64}"
+
+# The Android system binaries the generated root scripts must find (dumpsys,
+# appops, pm, settings). Overridable so the walk can be exercised against fakes.
+SYSTEM_PATH="${AS_SYSTEM_PATH:-/system/bin:/system/xbin:/vendor/bin}"
 
 # `</dev/null` keeps a desktop su (util-linux) from prompting for a password.
 su_elevates() { # $1 = candidate
@@ -326,20 +342,125 @@ if [[ "$MODE" != "effective" && ${#ADB[@]} -eq 0 ]]; then
   fi
 fi
 
-run_root() { # $1 = command (only app-ids/permissions/components are interpolated)
+# A root round trip is a process spawn on the phone (~35ms idle, ~150ms with a
+# `dumpsys` behind it), so a command per setting does not scale: the walk used
+# to issue ~2000 of them for a 113-app config. Everything root does is therefore
+# written into a script and handed over ONCE — this is that hand-over.
+#
+# On-device the script sits under $HOME where root can read it. Over adb the file
+# is on the *host*, so the script is piped through stdin instead (`sh -s`).
+run_root_script() { # $1 = local script path
   if [[ ${#ADB[@]} -gt 0 ]]; then
-    "${ADB[@]}" shell "su -c '$1'"
+    "${ADB[@]}" shell "su -c 'sh -s'" <"$1"
   else
-    "$SU" -c "$1"
+    "$SU" -c "sh '$1'"
   fi
 }
 
-# --- live state ------------------------------------------------------------
+# Single-quote a value for a generated script. App ids, permissions, ops and
+# domains are interpolated into commands that root's sh will parse, so a quote
+# in the config must not be able to escape its argument.
+sq() { printf "'%s'" "${1//\'/\'\\\'\'}"; }
+
+# --- live state: one root round trip ---------------------------------------
+# Every read the walk makes is answered from a snapshot fetched up front. The
+# walk asks the same questions over and over — the grant for each declared
+# permission, each op's mode *and* its default, the link state per domain — and
+# each answer used to be its own `su` spawn (a 113-app config measured 2006 of
+# them, 2m04s). One script now fetches everything, and the answers are files.
+
+# App ids and op names are interpolated into that script, so they are validated
+# first. Both are identifiers: app ids are reverse-DNS package names, ops are
+# upper-snake-case.
+safe_key() { [[ "$1" =~ ^[A-Za-z0-9._-]+$ ]]; }
+
+# The ops this app's walk asks about per-op. `appops get <pkg>` lists only the
+# ops that are explicitly set; an op's *default* mode (which depends on the
+# app's targetSdk) is only answered by the per-op query — so exactly those are
+# prefetched: only the ops the config declares (the managed set is read from the
+# full listing instead).
+app_ops_of_interest() { # $1 = app-id -> OP names, one per line
+  # Only the ops the config names: a per-op query is needed to learn an op's
+  # *default*, and only a declared op is ever compared against its default. The
+  # managed posture does not need it — it only revokes ops that are explicitly
+  # allowed, which the full `appops get <pkg>` listing already carries (see
+  # live_appop_curated). Fetching the managed set per op cost ~7 root reads per
+  # app and was most of the walk's remaining time.
+  cfg_appops "$1" | awk '{ print $1 }'
+}
+
+# Fetch everything in one root script: the global notification-listener setting,
+# then per app the package dump, the app-link state, the app-op listing and the
+# per-op queries.
+prefetch_live() { # $1 = newline-separated app ids
+  local app op script="$READ_SCRIPT"
+  local -a apps=()
+  while IFS= read -r app; do
+    [[ -z "$app" ]] && continue
+    if ! safe_key "$app"; then
+      log "!! unsafe app id, not read: $app" >&2
+      FAILED=1
+      continue
+    fi
+    apps+=("$app")
+  done <<<"$1"
+
+  {
+    printf 'PATH=%s\nexport PATH\n' "$SYSTEM_PATH"
+    # The marker has to be ECHOED — as a bare word sh would try to run it, and
+    # the answer it labels would arrive unlabelled.
+    printf 'echo "@@AS@@ listeners"\n'
+    printf 'settings get secure enabled_notification_listeners 2>/dev/null || true\n'
+    for app in "${apps[@]}"; do
+      printf 'echo "@@AS@@ pkg %s"\ndumpsys package %s 2>/dev/null || true\n' "$app" "$app"
+      printf 'echo "@@AS@@ links %s"\npm get-app-links --user 0 %s 2>/dev/null || true\n' "$app" "$app"
+      printf 'echo "@@AS@@ appops %s"\nappops get %s 2>/dev/null || true\n' "$app" "$app"
+      while IFS= read -r op; do
+        [[ -z "$op" ]] && continue
+        safe_key "$op" || continue
+        printf 'echo "@@AS@@ appop %s %s"\nappops get %s %s 2>/dev/null || true\n' \
+          "$app" "$op" "$app" "$op"
+      done < <(app_ops_of_interest "$app")
+    done
+    printf 'exit 0\n'
+  } >"$script"
+
+  if ! run_root_script "$script" >"$SNAP/raw" 2>/dev/null; then
+    log "!! could not read the device state (root denied?)" >&2
+    return 1
+  fi
+  split_snapshot "$SNAP/raw"
+  rm -f "$script"
+}
+
+# Split the marked output into one file per answer: <kind>.<key>. An app-op
+# answer is keyed by app and op, so live_appop and appop_default share one call.
+split_snapshot() { # $1 = raw output
+  local dir="$SNAP/live"
+  mkdir -p "$dir"
+  awk -v dir="$dir" '
+    /^@@AS@@ / {
+      kind = $2; key = $3
+      if (kind == "appop") key = $3 "." $4
+      if (key == "") key = "-"
+      file = dir "/" kind "." key
+      next
+    }
+    file != "" { print > file }
+  ' "$1"
+}
+
+snap() { # $1 = kind, $2 = key -> the captured text (empty when never fetched)
+  local f="$SNAP/live/$1.${2:--}"
+  [[ -f "$f" ]] && cat "$f"
+  return 0
+}
+
 # `dumpsys package` lists every runtime permission with its grant state; the
 # trailing flags say whether the *user* set it (USER_SET), which is what --dump
 # mirrors: the choices you made, not the OS defaults.
 live_runtime_perms() { # $1 = app-id -> "perm granted flags"
-  run_root "dumpsys package '$1'" 2>/dev/null \
+  snap pkg "$1" \
     | sed -n '/runtime permissions:/,/^$/p' \
     | sed -n 's/^ *\([a-zA-Z0-9_.]*\): granted=\(true\|false\), flags=\[\(.*\)\]$/\1 \2 \3/p' || true
 }
@@ -353,7 +474,7 @@ user_set_perms() { # $1 = app-id -> "perm granted" for user-set permissions only
 }
 
 live_listeners() { # enabled notification listeners, colon-separated
-  run_root "settings get secure enabled_notification_listeners" 2>/dev/null | tr -d '\r' || true
+  snap listeners | tr -d '\r'
 }
 
 app_listeners() { # $1 = app-id -> its enabled listener components
@@ -364,13 +485,13 @@ app_listeners() { # $1 = app-id -> its enabled listener components
 # "Default mode: <mode>" when it is not, so both are read here: an unset op is
 # equivalent to its default, and --check compares against that.
 live_appop() { # $1 = app-id, $2 = OP -> mode or (empty)
-  run_root "appops get '$1' '$2'" 2>/dev/null \
+  snap appop "$1.$2" \
     | sed -n "s/^\(Uid mode: \)\?$2: \(allow\|deny\|ignore\|foreground\|default\).*/\2/p" \
     | head -1 || true
 }
 
 appop_default() { # $1 = app-id, $2 = OP -> the op's default mode or (empty)
-  run_root "appops get '$1' '$2'" 2>/dev/null \
+  snap appop "$1.$2" \
     | sed -n 's/^Default mode: \(allow\|deny\|ignore\|foreground\|default\)$/\1/p' \
     | head -1 || true
 }
@@ -381,7 +502,7 @@ appop_default() { # $1 = app-id, $2 = OP -> the op's default mode or (empty)
 live_appop_modes() { # $1 = app-id -> "OP mode"
   local perms
   perms="$(live_runtime_perms "$1" | awk '{ print $1 }' | sed 's/.*\.//')"
-  run_root "appops get '$1'" 2>/dev/null | awk '
+  snap appops "$1" | awk '
     /^[A-Z0-9_]+: / {
       if ($0 ~ /time=/) next          # touched at runtime, not configuration
       op = $1; sub(/:$/, "", op)
@@ -402,26 +523,31 @@ live_appop_modes() { # $1 = app-id -> "OP mode"
 # `live_appop_modes` filters runtime noise, which is right for browsing but
 # wrong here: an op like `allow; time=...` is still a grant.
 live_appop_curated() { # $1 = app-id -> "OP mode"
-  run_root "appops get '$1'" 2>/dev/null | awk -v list="$MANAGED_APP_OPS" '
+  # First entry per op wins: the listing repeats an op when its mode was changed
+  # at runtime (`... allow`, then `... deny; time=...`), and the untimed line is
+  # the configured mode. `seen` keeps the configured one.
+  snap appops "$1" | awk -v list="$MANAGED_APP_OPS" '
     BEGIN { n = split(list, ops, " "); for (i = 1; i <= n; i++) want[ops[i]] = 1 }
     {
       l = $0; sub(/\r$/, "", l); sub(/^Uid mode: /, "", l)
       if (l !~ /^[A-Z0-9_]+: /) next
       op = l; sub(/:.*/, "", op)
       if (!(op in want)) next
+      if (op in seen) next
+      seen[op] = 1
       mode = l; sub(/^[^:]*: /, "", mode); sub(/;.*/, "", mode)
       print op, mode
     }'
 }
 
 live_link_allowed() { # $1 = app-id -> true|false|(empty)
-  run_root "pm get-app-links --user 0 '$1'" 2>/dev/null \
+  snap links "$1" \
     | sed -n 's/^ *Verification link handling allowed: \(true\|false\)$/\1/p' \
     | head -1 || true
 }
 
 live_link_state() { # $1 = app-id -> "domain enabled|disabled"
-  run_root "pm get-app-links --user 0 '$1'" 2>/dev/null | awk -v app="$1" '
+  snap links "$1" | awk -v app="$1" '
     { gsub(/\r/, "") }
     /^ *Selection state:/ { insel = 1; st = ""; next }
     !insel { next }
@@ -433,7 +559,7 @@ live_link_state() { # $1 = app-id -> "domain enabled|disabled"
 }
 
 declared_link_domains() { # $1 = app-id -> domains the app declares in its manifest
-  run_root "pm get-app-links --user 0 '$1'" 2>/dev/null \
+  snap links "$1" \
     | sed -n '/Domain verification state:/,/^ *User /p' \
     | sed -n 's/^ *\([A-Za-z0-9._-]*\): .*/\1/p' || true
 }
@@ -441,55 +567,150 @@ declared_link_domains() { # $1 = app-id -> domains the app declares in its manif
 # --- config access ---------------------------------------------------------
 # One app-id is one declaration: the key says the app is declared, and its body
 # holds everything declared about it.
+#
+# The config is read ONCE into bash arrays. Each accessor below used to be its
+# own `jq`, which is ~31ms on a phone and the walk asks about a dozen things per
+# app: for a 113-app config that was ~42s, more than all the root calls it had
+# just replaced. Reading the file is one `jq`; a lookup is an array read.
+declare -A CFG_MODE=() CFG_PERM=() CFG_APPOP=() CFG_NOTIF=() CFG_DOMAIN=() CFG_LINK_OPEN=()
+declare -A CFG_PERM_LIST=() CFG_APPOP_LIST=() CFG_DOMAIN_LIST=() CFG_LISTENER_LIST=()
+declare -A CFG_HAS_LISTENERS=() CFG_RECURATED=()
+CFG_APPS=()
+CFG_MODE_GLOBAL=overrides
+
+# Flatten the canonical config (and, when one was given, the curated index) into
+# tab-separated records: app, kind, key, value. `@tsv` keeps a value with a tab
+# or a newline readable as one field.
+load_config() { # $1 = config, $2 = recommended index ("" for none)
+  local app kind key value
+  # An empty field must never reach `read`: IFS=$'\t' is a whitespace IFS, so a
+  # run of two tabs collapses into one and every field after the gap shifts left
+  # (the global/app `mode` records, whose key is empty, were dropped this way).
+  # `rec` writes "-" for an empty field and it is decoded back here.
+  while IFS=$'\t' read -r app kind key value; do
+    [[ "$app" == "-" ]] && app=""
+    [[ "$key" == "-" ]] && key=""
+    [[ "$value" == "-" ]] && value=""
+    case "$kind" in
+      global) CFG_MODE_GLOBAL="$value" ;;
+      app)
+        CFG_MODE[$app]="$value"
+        CFG_APPS+=("$app")
+        ;;
+      perm)
+        CFG_PERM["$app|$key"]="$value"
+        CFG_PERM_LIST[$app]+="$key"$'\n'
+        ;;
+      appop)
+        CFG_APPOP["$app|$key"]="$value"
+        CFG_APPOP_LIST[$app]+="$key"$'\n'
+        ;;
+      notif) CFG_NOTIF["$app|$key"]="$value" ;;
+      listener)
+        CFG_LISTENER_LIST[$app]+="$key"$'\n'
+        CFG_HAS_LISTENERS[$app]=1
+        ;;
+      haslisteners) CFG_HAS_LISTENERS[$app]=1 ;;
+      domain)
+        CFG_DOMAIN["$app|$key"]="$value"
+        CFG_DOMAIN_LIST[$app]+="$key"$'\n'
+        ;;
+      linkopen) CFG_LINK_OPEN[$app]="$value" ;;
+      curated) CFG_RECURATED[$app]=1 ;;
+    esac
+  done < <(jq -r --slurpfile idx "${2:-/dev/null}" '
+    def rec($a; $k; $key; $v): ([$a, $k, $key, ($v | tostring)]
+      | map(if . == "" then "-" else . end) | @tsv);
+    (.mode // "overrides") as $g
+    | ((($idx[0] // {}) | keys[]) as $c | rec($c; "curated"; ""; "1")),
+      rec(""; "global"; ""; $g),
+      (.apps | to_entries[] | .key as $a | .value as $b
+       | rec($a; "app"; ""; ($b.mode // $g)),
+         (($b.permissions // {}) | to_entries[] | rec($a; "perm"; .key; .value)),
+         (($b.appops // {}) | to_entries[]
+          | select(.key | test("^[A-Z0-9_]+$"))
+          | rec($a; "appop"; .key; .value)),
+         (($b.notifications // {}) | to_entries[]
+          | select((.value | type) != "array")
+          | rec($a; "notif"; .key; .value)),
+         ((($b.notifications // {}).listeners // []) | .[] | rec($a; "listener"; .; "")),
+         (if (($b.notifications // {}) | has("listeners"))
+          then rec($a; "haslisteners"; ""; "1") else empty end),
+         (if (($b.links // {}).open // null) != null
+          then rec($a; "linkopen"; ""; ($b.links // {}).open) else empty end),
+         (($b.links.domains // {}) | to_entries[] | rec($a; "domain"; .key; .value))
+      )' "$CONFIG")
+}
+
 cfg_apps() { # the declared app-ids
-  jq -r '.apps | keys[]' "$CONFIG"
+  printf '%s\n' "${CFG_APPS[@]:-}"
 }
 
 managed_apps() { # the apps to walk
   # Globally managed: every declared app has to be visited, since the point is
   # to take away what the config does not list.
-  if managed_like "$(cfg_mode)"; then
+  if managed_like "$CFG_MODE_GLOBAL"; then
     cfg_apps
     return 0
   fi
   # Otherwise only the apps that say something: state to apply, or a mode of
   # their own (which is what makes a per-app managed/deny-all entry work).
-  jq -r --arg m "$(cfg_mode)" '
-    .apps | to_entries[]
-    | select(.value.mode != $m
-             or ((.value.permissions // {}) | length) > 0
-             or ((.value.appops // {}) | length) > 0
-             or ((.value.notifications // {}) | length) > 0
-             or ((.value.links.domains // {}) | length) > 0
-             or (.value.links.open != null))
-    | .key' "$CONFIG"
+  local a
+  for a in "${CFG_APPS[@]:-}"; do
+    [[ -z "$a" ]] && continue
+    if [[ "$(app_mode "$a")" != "$CFG_MODE_GLOBAL" ]] \
+      || [[ -n "${CFG_PERM_LIST[$a]:-}" || -n "${CFG_APPOP_LIST[$a]:-}" ]] \
+      || [[ -n "${CFG_DOMAIN_LIST[$a]:-}" || -n "${CFG_LINK_OPEN[$a]:-}" ]] \
+      || [[ -n "${CFG_HAS_LISTENERS[$a]:-}" ]] \
+      || [[ -n "${CFG_NOTIF["$a|enabled"]:-}" || -n "${CFG_NOTIF["$a|dnd"]:-}" \
+        || -n "${CFG_NOTIF["$a|bubbles"]:-}" ]]; then
+      printf '%s\n' "$a"
+    fi
+  done
 }
 
 cfg_perms() { # $1 = app-id -> "perm action"
-  jq -r --arg a "$1" '(.apps[$a].permissions // {}) | to_entries[] | "\(.key) \(.value)"' "$CONFIG"
+  local p
+  while IFS= read -r p; do
+    [[ -z "$p" ]] && continue
+    printf '%s %s\n' "$p" "${CFG_PERM["$1|$p"]:-}"
+  done <<<"${CFG_PERM_LIST[$1]:-}"
 }
 
 notif_field() { # $1 = app-id, $2 = field -> value or "null"
-  jq -r --arg a "$1" --arg f "$2" \
-    '(.apps[$a].notifications // {})[$f] | if . == null then "null" else tostring end' "$CONFIG"
+  printf '%s' "${CFG_NOTIF["$1|$2"]:-null}"
 }
 
 notif_listeners() { # $1 = app-id -> desired components
-  jq -r --arg a "$1" '((.apps[$a].notifications // {}).listeners // [])[]' "$CONFIG"
+  printf '%s\n' "${CFG_LISTENER_LIST[$1]:-}"
+}
+
+notif_has_listeners() { # $1 = app-id -> did the config declare `listeners` at all?
+  [[ -n "${CFG_HAS_LISTENERS[$1]:-}" ]]
 }
 
 cfg_appops() { # $1 = app-id -> "OP mode" (op names are validated: they reach sed)
-  jq -r --arg a "$1" \
-    '(.apps[$a].appops // {}) | to_entries[] | select(.key | test("^[A-Z0-9_]+$")) | "\(.key) \(.value)"' \
-    "$CONFIG"
+  local op
+  while IFS= read -r op; do
+    [[ -z "$op" ]] && continue
+    printf '%s %s\n' "$op" "${CFG_APPOP["$1|$op"]:-}"
+  done <<<"${CFG_APPOP_LIST[$1]:-}"
 }
 
 link_open() { # $1 = app-id -> true|false|null
-  jq -r --arg a "$1" '(.apps[$a].links // {}).open | if . == null then "null" else tostring end' "$CONFIG"
+  printf '%s' "${CFG_LINK_OPEN[$1]:-null}"
 }
 
 link_entries() { # $1 = app-id -> "domain allow|deny"
-  jq -r --arg a "$1" '((.apps[$a].links // {}).domains // {}) | to_entries[] | "\(.key) \(.value)"' "$CONFIG"
+  local d
+  while IFS= read -r d; do
+    [[ -z "$d" ]] && continue
+    printf '%s %s\n' "$d" "${CFG_DOMAIN["$1|$d"]:-}"
+  done <<<"${CFG_DOMAIN_LIST[$1]:-}"
+}
+
+curated_app() { # $1 = app-id -> does the recommended index carry it?
+  [[ -n "${CFG_RECURATED[$1]:-}" ]]
 }
 
 managed_like() { # $1 = mode -> is it the deny-all-not-listed posture?
@@ -497,15 +718,57 @@ managed_like() { # $1 = mode -> is it the deny-all-not-listed posture?
 }
 
 cfg_mode() { # global default: overrides | managed | recommended
-  jq -r '(.mode // "overrides")' "$CONFIG"
+  printf '%s' "$CFG_MODE_GLOBAL"
 }
 
 app_mode() { # $1 = app-id -> overrides | managed | recommended
-  jq -r --arg a "$1" '(.apps[$a].mode // "overrides")' "$CONFIG"
+  printf '%s' "${CFG_MODE[$1]:-$CFG_MODE_GLOBAL}"
 }
 
 # --- actions ---------------------------------------------------------------
 log() { printf '%s\n' "$*"; }
+
+# Changes are collected and applied in ONE root script at the end, for the same
+# reason the reads are prefetched: a root spawn per setting does not scale. Each
+# command reports its own exit status, so a failure is still attributable and
+# still fails the switch.
+QUEUE_DESC=()
+QUEUE_CMD=()
+
+queue_cmd() { # $1 = description, $2 = root command
+  QUEUE_DESC+=("$1")
+  QUEUE_CMD+=("$2")
+  log "apply: $1"
+}
+
+flush_queue() {
+  [[ ${#QUEUE_CMD[@]} -eq 0 ]] && return 0
+  local script="$APPLY_SCRIPT" i rc out
+  {
+    printf 'PATH=%s\nexport PATH\n' "$SYSTEM_PATH"
+    for i in "${!QUEUE_CMD[@]}"; do
+      printf '%s\n' "${QUEUE_CMD[$i]}"
+      # Marker per command: the batch runs to completion either way, so one
+      # failure cannot hide the commands after it.
+      printf 'printf "@@AS@@ %s %%s\\n" "$?"\n' "$i"
+    done
+    printf 'exit 0\n'
+  } >"$script"
+
+  out="$(run_root_script "$script" 2>/dev/null)" || true
+
+  for i in "${!QUEUE_CMD[@]}"; do
+    rc="$(awk -v i="$i" '$1 == "@@AS@@" && $2 == i { print $3; exit }' <<<"$out")"
+    if [[ "$rc" == 0 ]]; then
+      log "applied: ${QUEUE_DESC[$i]}"
+    else
+      log "!! failed: ${QUEUE_DESC[$i]} (exit ${rc:-?}): ${QUEUE_CMD[$i]}" >&2
+      FAILED=1
+    fi
+  done
+  log "changed ${#QUEUE_CMD[@]} setting(s)"
+  rm -f "$script"
+}
 
 desired_perms() { # $1 = app-id, $2 = permission -> allow|deny
   if [[ "$2" == "allow" ]]; then printf 'true'; else printf 'false'; fi
@@ -514,9 +777,9 @@ desired_perms() { # $1 = app-id, $2 = permission -> allow|deny
 apply_perm() { # $1 = app-id, $2 = permission, $3 = action
   local cmd
   if [[ "$3" == "allow" ]]; then
-    cmd="pm grant '$1' '$2'"
+    cmd="pm grant $(sq "$1") $(sq "$2")"
   else
-    cmd="pm revoke '$1' '$2'"
+    cmd="pm revoke $(sq "$1") $(sq "$2")"
   fi
   if [[ "$MODE" == "check" ]]; then
     log "drift: $1 $2 should be $3"
@@ -527,12 +790,7 @@ apply_perm() { # $1 = app-id, $2 = permission, $3 = action
     log "would: $cmd"
     return 0
   fi
-  if run_root "$cmd" >/dev/null 2>&1; then
-    log "applied: $1 $2=$3"
-  else
-    log "!! failed: $cmd" >&2
-    FAILED=1
-  fi
+  queue_cmd "$1 $2=$3" "$cmd"
 }
 
 enforce_perm() { # $1 = app-id, $2 = permission, $3 = action (allow|deny)
@@ -550,9 +808,7 @@ enforce_perm() { # $1 = app-id, $2 = permission, $3 = action (allow|deny)
 }
 
 enforce_listeners() { # $1 = app-id
-  local has
-  has="$(jq -r --arg a "$1" '(.apps[$a].notifications // {}) | has("listeners")' "$CONFIG")"
-  if [[ "$has" != "true" ]]; then
+  if ! notif_has_listeners "$1"; then
     # No listeners declared for this app: leave its notification access
     # alone (an empty default must not switch anything off).
     return 0
@@ -573,12 +829,9 @@ enforce_listeners() { # $1 = app-id
       log "drift: listener $comp should be enabled"
       DRIFT=$((DRIFT + 1))
     elif [[ "$MODE" == "dry-run" ]]; then
-      log "would: cmd notification allow_listener '$comp'"
-    elif run_root "cmd notification allow_listener '$comp'" >/dev/null 2>&1; then
-      log "applied: listener $comp enabled"
+      log "would: cmd notification allow_listener $(sq "$comp")"
     else
-      log "!! failed: enable listener $comp" >&2
-      FAILED=1
+      queue_cmd "listener $comp enabled" "cmd notification allow_listener $(sq "$comp")"
     fi
   done <<<"$desired"
   # An app component that is enabled on the device but not in the config is
@@ -592,12 +845,9 @@ enforce_listeners() { # $1 = app-id
       log "drift: listener $comp should be disabled"
       DRIFT=$((DRIFT + 1))
     elif [[ "$MODE" == "dry-run" ]]; then
-      log "would: cmd notification disallow_listener '$comp'"
-    elif run_root "cmd notification disallow_listener '$comp'" >/dev/null 2>&1; then
-      log "applied: listener $comp disabled"
+      log "would: cmd notification disallow_listener $(sq "$comp")"
     else
-      log "!! failed: disable listener $comp" >&2
-      FAILED=1
+      queue_cmd "listener $comp disabled" "cmd notification disallow_listener $(sq "$comp")"
     fi
   done <<<"$live"
 }
@@ -611,12 +861,7 @@ enforce_flag() { # $1 = app-id, $2 = field, $3 = value, $4 = command
     log "would: $4"
     return 0
   fi
-  if run_root "$4" >/dev/null 2>&1; then
-    log "applied: $1 $2=$3"
-  else
-    log "!! failed: $4" >&2
-    FAILED=1
-  fi
+  queue_cmd "$1 $2=$3" "$4"
 }
 
 apply_cmd() { # $1 = app-id, $2 = what changed, $3 = desired, $4 = command
@@ -629,12 +874,7 @@ apply_cmd() { # $1 = app-id, $2 = what changed, $3 = desired, $4 = command
     log "would: $4"
     return 0
   fi
-  if run_root "$4" >/dev/null 2>&1; then
-    log "applied: $1 $2=$3"
-  else
-    log "!! failed: $4" >&2
-    FAILED=1
-  fi
+  queue_cmd "$1 $2=$3" "$4"
 }
 
 enforce_appop() { # $1 = app-id, $2 = OP, $3 = allow|deny|ignore|foreground|default
@@ -654,7 +894,7 @@ enforce_appop() { # $1 = app-id, $2 = OP, $3 = allow|deny|ignore|foreground|defa
     log "ok: $1 appop $2=$3"
     return 0
   fi
-  apply_cmd "$1" "appop $2" "$3" "appops set '$1' '$2' '$3'"
+  apply_cmd "$1" "appop $2" "$3" "appops set $(sq "$1") $(sq "$2") $(sq "$3")"
 }
 
 enforce_link_open() { # $1 = app-id, $2 = true|false
@@ -669,7 +909,7 @@ enforce_link_open() { # $1 = app-id, $2 = true|false
     return 0
   fi
   apply_cmd "$1" "link handling" "$2" \
-    "pm set-app-links-allowed --user 0 --package '$1' '$2'"
+    "pm set-app-links-allowed --user 0 --package $(sq "$1") $(sq "$2")"
 }
 
 enforce_link_domain() { # $1 = app-id, $2 = domain, $3 = allow|deny
@@ -691,7 +931,7 @@ enforce_link_domain() { # $1 = app-id, $2 = domain, $3 = allow|deny
     return 0
   fi
   apply_cmd "$1" "link $2" "$3" \
-    "pm set-app-links-user-selection --user 0 --package '$1' '$flag' '$2'"
+    "pm set-app-links-user-selection --user 0 --package $(sq "$1") $(sq "$flag") $(sq "$2")"
 }
 
 enforce_links() { # $1 = app-id
@@ -730,26 +970,26 @@ enforce_managed_perms() { # $1 = app-id
     # silently silence the phone.
     [[ "$perm" == "android.permission.POST_NOTIFICATIONS" ]] && continue
     grep -qxF "$perm" <<<"$allowed" && continue
-    apply_cmd "$1" "$perm" "deny (managed)" "pm revoke '$1' '$perm'"
+    apply_cmd "$1" "$perm" "deny (managed)" "pm revoke $(sq "$1") $(sq "$perm")"
   done < <(live_runtime_perms "$1")
 }
 
 enforce_managed_appops() { # $1 = app-id
-  local listed op live dflt
+  local listed op live
   listed="$(cfg_appops "$1" | awk '{ print $1 }')"
-  for op in $MANAGED_APP_OPS; do
+  # The ops explicitly set for this app, read from the full listing the snapshot
+  # already holds — one root read per app instead of one per managed op.
+  while read -r op live; do
+    [[ -z "$op" ]] && continue
     grep -qxF "$op" <<<"$listed" && continue
-    live="$(live_appop "$1" "$op")"
-    dflt="$(appop_default "$1" "$op")"
-    [[ -z "$live" && -z "$dflt" ]] && continue
     # An unset op already means the platform default; only explicit grants are
     # ours to revoke.
     case "$live" in
       allow | foreground) ;;
       *) continue ;;
     esac
-    apply_cmd "$1" "appop $op" "deny (managed)" "appops set '$1' '$op' deny"
-  done
+    apply_cmd "$1" "appop $op" "deny (managed)" "appops set $(sq "$1") $(sq "$op") deny"
+  done < <(live_appop_curated "$1")
 }
 
 enforce_managed_links() { # $1 = app-id
@@ -759,7 +999,7 @@ enforce_managed_links() { # $1 = app-id
     [[ -z "$domain" || "$state" != "enabled" ]] && continue
     grep -qxF "$domain" <<<"$listed" && continue
     apply_cmd "$1" "link $domain" "deny (managed)" \
-      "pm set-app-links-user-selection --user 0 --package '$1' false '$domain'"
+      "pm set-app-links-user-selection --user 0 --package $(sq "$1") false $(sq "$domain")"
   done < <(live_link_state "$1")
 }
 
@@ -824,7 +1064,7 @@ enforce_app() { # $1 = app-id
   # Not curated in the packages and running under `recommended`: say so once per
   # app in --check, since the managed default is about to decide for it.
   if [[ "$appmode" == "recommended" && -n "$RECOMMENDED" && "$MODE" == "check" ]]; then
-    if ! jq -e --arg a "$1" 'has($a)' "$RECOMMENDED" >/dev/null 2>&1; then
+    if ! curated_app "$1"; then
       uncurated="$(live_runtime_perms "$1" | awk \
         '$2 == "true" && $1 != "android.permission.POST_NOTIFICATIONS"' | wc -l | tr -d ' ')"
       log "warn: $1 has no recommended block ($uncurated grant(s) default to deny)"
@@ -964,17 +1204,33 @@ case "$MODE" in
     jq '.' "$CONFIG"
     ;;
   dump)
+    # Read once, then render from the snapshot.
+    load_config "$CONFIG" "$RECOMMENDED"
+    if ! prefetch_live "$(cfg_apps)"; then
+      exit 1
+    fi
     dump_nix
     ;;
   *)
+    # The list to walk is known before anything is read, so every answer the
+    # walk will ask for is fetched in one root round trip; the changes it then
+    # decides on are applied in a second one.
+    load_config "$CONFIG" "$RECOMMENDED"
     if [[ -n "$ONLY" ]]; then
-      enforce_app "$ONLY"
+      walk_apps="$ONLY"
     else
-      while IFS= read -r app; do
-        [[ -z "$app" ]] && continue
-        enforce_app "$app"
-      done < <(managed_apps)
+      walk_apps="$(managed_apps)"
     fi
+    if ! prefetch_live "$walk_apps"; then
+      log "!! nothing could be read from the device" >&2
+      exit 1
+    fi
+    while IFS= read -r app; do
+      [[ -z "$app" ]] && continue
+      enforce_app "$app"
+    done <<<"$walk_apps"
+    flush_queue
+
     if [[ "$MODE" == "check" ]]; then
       if [[ "$FAILED" != 0 ]]; then
         log ""

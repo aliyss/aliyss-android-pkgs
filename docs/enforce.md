@@ -94,6 +94,29 @@ you are about to manage — applying that dump is a no-op, because it *is* the
 phone. With a USER_SET-only mirror, `managed` reads every grant the device made
 without a prompt as "not listed" and takes it away.
 
+## One root round trip
+
+The walk reads the device once and writes to it once, each as a single root
+script. A root spawn is a process spawn on the phone, so a read or a write per
+setting does not scale: a 113-app config used to issue about 2000 `su` calls and
+take roughly two minutes for one `--check`. It now issues two and takes about
+fifteen seconds.
+
+- **Reads** are prefetched into one script — per app the package dump, the app
+  links, the full app-op listing, and a per-op query for each op the config
+  names. The answers are split into files, and every comparison afterwards is a
+  file lookup.
+- **The config** is folded once (one `jq`) and loaded into arrays, so a lookup
+  is an array read rather than a `jq` start-up per field.
+- **Writes** are queued and applied in one script at the end, each command
+  followed by a status marker, so a failure is still attributable and still
+  fails the switch.
+
+The only ops fetched per op are the ones the config names. An op's *default*
+is only readable per op, and only a declared op is ever compared against its
+default; the managed posture only revokes ops that are explicitly allowed,
+which the full listing already carries.
+
 Implemented: runtime permissions, `notifications.enabled` (via
 `POST_NOTIFICATIONS`), `listeners` (`cmd notification allow_listener`),
 `dnd`/`bubbles` (`cmd notification allow_dnd` / `set_bubbles`), app ops

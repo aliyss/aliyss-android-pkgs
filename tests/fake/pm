@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Fake `pm` for the offline walk test: `pm get-app-links --user 0 <pkg>` prints
+# the fixture at $AS_FAKE_DIR/<pkg>.links.
+[[ "${1:-}" == "get-app-links" ]] || exit 0
+pkg="${!#}"
+[[ -n "$pkg" ]] || exit 0
+cat "${AS_FAKE_DIR:?}/$pkg.links" 2>/dev/null || true

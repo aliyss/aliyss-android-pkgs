@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Fake `settings` for the offline walk test: the only secure setting the walk
+# reads is the notification-listener list, printed from
+# $AS_FAKE_DIR/listeners.
+[[ "${1:-}" == "get" && "${2:-}" == "secure" ]] || exit 0
+case "${3:-}" in
+  enabled_notification_listeners) cat "${AS_FAKE_DIR:?}/listeners" 2>/dev/null || true ;;
+  *) printf 'null\n' ;;
+esac

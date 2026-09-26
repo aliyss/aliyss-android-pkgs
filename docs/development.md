@@ -48,13 +48,14 @@ ruff check scripts/ tests/          # lint (E/F/I/UP/B rule set)
 ruff format --check scripts/ tests/ # formatting
 mypy scripts/ tests/                # strict type checking
 pytest tests/                       # unit tests + structural invariants
-shellcheck --severity=warning -s bash scripts/*.sh   # the device-facing scripts
+shellcheck --severity=warning -s bash scripts/*.sh tests/*.sh tests/fake/*   # device-facing scripts + tests
 ruff format scripts/ tests/         # auto-format
 ```
 
 `nix develop` provides all of it (`shellcheck`, `ruff`, `mypy`, `pytest`,
-`apkeep`). `nix flake check` runs the same gates as `checks.{shell,tests,enforce-config}`,
-so a green CI never covers something the flake does not.
+`apkeep`). `nix flake check` runs the same gates as
+`checks.{shell,tests,enforce-config,enforce-walk}`, so a green CI never covers
+something the flake does not.
 
 The scripts are strictly typed (`mypy --strict`): JSON payloads from external
 APIs are explicitly `dict[str, Any]`/`cast` at the boundary, everything else
@@ -78,6 +79,22 @@ must have `package.nix` + `hashes.json`, pins must follow the schema, pinned
 apps must have hashes, unpinned seeds must be empty, f-droid apps must carry
 `apkName` + a flat hash, and each f-droid app's `repoUrl` must identify its
 own provider. New invariants belong there when they must hold for every app.
+
+`android-enforce` has two device-free shell tests, both run by `nix flake check`
+(`checks.enforce-config`, `checks.enforce-walk`):
+
+- `tests/enforce_config_test.sh` covers how a config is folded — the canonical
+  per-app layout, the older flat one, the curated baseline and its precedence.
+  It only needs `--print-effective`.
+- `tests/enforce_walk_test.sh` covers what the walk then *decides*. A fake `su`
+  runs the root scripts the enforcer generates, and fake `dumpsys`/`appops`/
+  `pm`/`settings` on `$AS_SYSTEM_PATH` answer from fixtures, so the managed
+  posture, the drift report and the listener state are exercised with no device
+  and no root. It is the regression guard for the mode-loading and
+  listener-snapshot bugs.
+
+Both take `ENFORCE=<path to android-enforce>` to run against a built binary
+(otherwise they `nix build` it).
 
 CI runs the same three things (`shell`, `python-tests`, `nix`) — see
 `.github/workflows/ci.yml`.
