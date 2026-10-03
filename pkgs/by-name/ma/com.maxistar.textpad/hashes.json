@@ -1,18 +1,18 @@
 {
-  "apkName": "com.maxistar.textpad_61.apk",
+  "apkName": "com.maxistar.textpad_62.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-c02wEKMQFV8g2l4YXSMczQ7Jd3Ht3zweoNu84vO7np8="
+      "hash": "sha256-aCxnHIthkQK1nnHDi5xQACZ48WdSS8LE4BhezupZp4s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-c02wEKMQFV8g2l4YXSMczQ7Jd3Ht3zweoNu84vO7np8="
+      "hash": "sha256-aCxnHIthkQK1nnHDi5xQACZ48WdSS8LE4BhezupZp4s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-c02wEKMQFV8g2l4YXSMczQ7Jd3Ht3zweoNu84vO7np8="
+      "hash": "sha256-aCxnHIthkQK1nnHDi5xQACZ48WdSS8LE4BhezupZp4s="
     }
   },
-  "version": "1.31.0"
+  "version": "1.31.1"
 }

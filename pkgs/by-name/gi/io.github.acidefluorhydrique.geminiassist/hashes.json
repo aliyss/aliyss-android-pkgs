@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.acidefluorhydrique.geminiassist_3.apk",
+  "apkName": "io.github.acidefluorhydrique.geminiassist_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tVva5DoENKkm+anUZP0fkTP68HAPp/6HtUHFoVa5Nrs="
+      "hash": "sha256-rSihvSNvGl1G63Q58dorpIKEaiMttTCHED1oE0XZrQA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tVva5DoENKkm+anUZP0fkTP68HAPp/6HtUHFoVa5Nrs="
+      "hash": "sha256-rSihvSNvGl1G63Q58dorpIKEaiMttTCHED1oE0XZrQA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tVva5DoENKkm+anUZP0fkTP68HAPp/6HtUHFoVa5Nrs="
+      "hash": "sha256-rSihvSNvGl1G63Q58dorpIKEaiMttTCHED1oE0XZrQA="
     }
   },
-  "version": "1.2"
+  "version": "1.3"
 }

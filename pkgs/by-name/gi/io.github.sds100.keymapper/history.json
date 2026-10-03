@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "4.5.0-foss",
+      "versionCode": 271
+    },
+    {
+      "version": "4.4.0-foss",
+      "versionCode": 264
+    },
+    {
+      "version": "4.3.1-foss",
+      "versionCode": 259
+    }
+  ]
+}

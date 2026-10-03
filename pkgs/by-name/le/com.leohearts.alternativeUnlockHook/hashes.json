@@ -1,18 +1,18 @@
 {
-  "apkName": "com.leohearts.alternativeUnlockHook_8.apk",
+  "apkName": "com.leohearts.alternativeUnlockHook_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1ShfK4YTVthYrz99TWfUVMrMH/aeSVZgVKmL+nkXXLU="
+      "hash": "sha256-lO5KuJ+5g8J6Id6gfmRC10DcBPGzAb5pwgYAPW2aSdQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1ShfK4YTVthYrz99TWfUVMrMH/aeSVZgVKmL+nkXXLU="
+      "hash": "sha256-lO5KuJ+5g8J6Id6gfmRC10DcBPGzAb5pwgYAPW2aSdQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1ShfK4YTVthYrz99TWfUVMrMH/aeSVZgVKmL+nkXXLU="
+      "hash": "sha256-lO5KuJ+5g8J6Id6gfmRC10DcBPGzAb5pwgYAPW2aSdQ="
     }
   },
-  "version": "1.6"
+  "version": "1.7.1"
 }

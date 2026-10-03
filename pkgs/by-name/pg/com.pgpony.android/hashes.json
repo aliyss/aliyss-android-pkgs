@@ -1,18 +1,18 @@
 {
-  "apkName": "com.pgpony.android_404.apk",
+  "apkName": "com.pgpony.android_462.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Uo+baoto9EZR+BGj2M+uj/7bvsA/PFaOashBFtuJC2I="
+      "hash": "sha256-hWq1N0HqyRVEdKXk6oxyi4LU9GUtRo9M5aCD/Hs8x0M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Uo+baoto9EZR+BGj2M+uj/7bvsA/PFaOashBFtuJC2I="
+      "hash": "sha256-hWq1N0HqyRVEdKXk6oxyi4LU9GUtRo9M5aCD/Hs8x0M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Uo+baoto9EZR+BGj2M+uj/7bvsA/PFaOashBFtuJC2I="
+      "hash": "sha256-hWq1N0HqyRVEdKXk6oxyi4LU9GUtRo9M5aCD/Hs8x0M="
     }
   },
-  "version": "4.0.4"
+  "version": "4.6.2"
 }

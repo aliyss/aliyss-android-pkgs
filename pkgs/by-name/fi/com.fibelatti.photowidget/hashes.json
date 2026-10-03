@@ -1,18 +1,18 @@
 {
-  "apkName": "com.fibelatti.photowidget_1450000.apk",
+  "apkName": "com.fibelatti.photowidget_1470100.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-RpuqJqjuSqXFujul3+d9yXaGXAlbJtx+/eNieEglJKo="
+      "hash": "sha256-qyoRtSu6aM5meuosnbC986krEjsywBxnIQdtH+6qVJ4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RpuqJqjuSqXFujul3+d9yXaGXAlbJtx+/eNieEglJKo="
+      "hash": "sha256-qyoRtSu6aM5meuosnbC986krEjsywBxnIQdtH+6qVJ4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RpuqJqjuSqXFujul3+d9yXaGXAlbJtx+/eNieEglJKo="
+      "hash": "sha256-qyoRtSu6aM5meuosnbC986krEjsywBxnIQdtH+6qVJ4="
     }
   },
-  "version": "1.45"
+  "version": "1.47.1"
 }

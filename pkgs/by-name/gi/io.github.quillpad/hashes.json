@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.quillpad_54.apk",
+  "apkName": "io.github.quillpad_56.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/UsbOBSYPaKuRPLR8OKFVZJnCUX2SFwEpVEKULtdiME="
+      "hash": "sha256-9jZLxuAzcDHwZJB/iXCUk5hsfc1tdephFAtffCxtRPU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/UsbOBSYPaKuRPLR8OKFVZJnCUX2SFwEpVEKULtdiME="
+      "hash": "sha256-9jZLxuAzcDHwZJB/iXCUk5hsfc1tdephFAtffCxtRPU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/UsbOBSYPaKuRPLR8OKFVZJnCUX2SFwEpVEKULtdiME="
+      "hash": "sha256-9jZLxuAzcDHwZJB/iXCUk5hsfc1tdephFAtffCxtRPU="
     }
   },
-  "version": "1.5.12"
+  "version": "1.5.14"
 }

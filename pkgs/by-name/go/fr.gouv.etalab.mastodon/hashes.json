@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.gouv.etalab.mastodon_566.apk",
+  "apkName": "fr.gouv.etalab.mastodon_570.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-DUcX2MLq5M3Ysk558dFiYdmNi8jvUf5YiqgEKOypvz8="
+      "hash": "sha256-pXq/4bzYbjlLZwHSUVf/QztE6vuoQxCq4sTcvvI9kNs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DUcX2MLq5M3Ysk558dFiYdmNi8jvUf5YiqgEKOypvz8="
+      "hash": "sha256-pXq/4bzYbjlLZwHSUVf/QztE6vuoQxCq4sTcvvI9kNs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DUcX2MLq5M3Ysk558dFiYdmNi8jvUf5YiqgEKOypvz8="
+      "hash": "sha256-pXq/4bzYbjlLZwHSUVf/QztE6vuoQxCq4sTcvvI9kNs="
     }
   },
-  "version": "3.43.1"
+  "version": "3.44.0"
 }

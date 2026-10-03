@@ -1,18 +1,18 @@
 {
-  "apkName": "com.vsmartcard.acardemulator_8.apk",
+  "apkName": "com.vsmartcard.acardemulator_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VNCkRCTp/1k4/2wyltgSZGD+lGKdiEbykWt9tWhcFCE="
+      "hash": "sha256-bZZ6qmA3D+jXDzfO8UsoHCJmYf9B80WtT0JuovBq6cs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VNCkRCTp/1k4/2wyltgSZGD+lGKdiEbykWt9tWhcFCE="
+      "hash": "sha256-bZZ6qmA3D+jXDzfO8UsoHCJmYf9B80WtT0JuovBq6cs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VNCkRCTp/1k4/2wyltgSZGD+lGKdiEbykWt9tWhcFCE="
+      "hash": "sha256-bZZ6qmA3D+jXDzfO8UsoHCJmYf9B80WtT0JuovBq6cs="
     }
   },
-  "version": "3.5"
+  "version": "4.0"
 }

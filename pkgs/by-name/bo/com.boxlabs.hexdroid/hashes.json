@@ -1,18 +1,18 @@
 {
-  "apkName": "com.boxlabs.hexdroid_29.apk",
+  "apkName": "com.boxlabs.hexdroid_34.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-C/GrbhAAGIYVxFR9WwTIAR/61a3hCzTcZ02/HQ5cMes="
+      "hash": "sha256-hQliuz7JzsuZxuOhFKeal25eeAYr4CoHhnRLw3a5cE8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-C/GrbhAAGIYVxFR9WwTIAR/61a3hCzTcZ02/HQ5cMes="
+      "hash": "sha256-hQliuz7JzsuZxuOhFKeal25eeAYr4CoHhnRLw3a5cE8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-C/GrbhAAGIYVxFR9WwTIAR/61a3hCzTcZ02/HQ5cMes="
+      "hash": "sha256-hQliuz7JzsuZxuOhFKeal25eeAYr4CoHhnRLw3a5cE8="
     }
   },
-  "version": "1.7.1"
+  "version": "1.7.6"
 }

@@ -1,8 +1,16 @@
 {
   "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-wYWyoCf6RFEXiAOKLRAb4GUwwOntzy415QdVY0JMU5M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-wYWyoCf6RFEXiAOKLRAb4GUwwOntzy415QdVY0JMU5M="
+    },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wuE93wY81x41yvH73Fuj3/1rqKFR7tSG9HhU2Ojqabs="
+      "hash": "sha256-wYWyoCf6RFEXiAOKLRAb4GUwwOntzy415QdVY0JMU5M="
     }
   },
   "version": "0.118.0"

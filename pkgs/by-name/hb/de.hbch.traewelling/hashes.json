@@ -1,18 +1,18 @@
 {
-  "apkName": "de.hbch.traewelling_227.apk",
+  "apkName": "de.hbch.traewelling_229.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rxv0/XhZ0hcbf8eEKVgZe2cM3QbQKJc4XStqx1vylMo="
+      "hash": "sha256-+UQmeDRM66kgf8JIeifeDts9WZT/qyGUSzBsiF5sISE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rxv0/XhZ0hcbf8eEKVgZe2cM3QbQKJc4XStqx1vylMo="
+      "hash": "sha256-+UQmeDRM66kgf8JIeifeDts9WZT/qyGUSzBsiF5sISE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rxv0/XhZ0hcbf8eEKVgZe2cM3QbQKJc4XStqx1vylMo="
+      "hash": "sha256-+UQmeDRM66kgf8JIeifeDts9WZT/qyGUSzBsiF5sISE="
     }
   },
-  "version": "2.26.3"
+  "version": "2.26.5"
 }

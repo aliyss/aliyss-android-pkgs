@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.padconnect_8.apk",
+  "apkName": "io.github.padconnect_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2T0Wk//Q5k7sdUg0jTMv2dmV80DL1QcdkBQmz8QzNU4="
+      "hash": "sha256-OEL2MmLbywaghXgGdVi9+ZsfA9H9dFwOdFiAorZMtgc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2T0Wk//Q5k7sdUg0jTMv2dmV80DL1QcdkBQmz8QzNU4="
+      "hash": "sha256-OEL2MmLbywaghXgGdVi9+ZsfA9H9dFwOdFiAorZMtgc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2T0Wk//Q5k7sdUg0jTMv2dmV80DL1QcdkBQmz8QzNU4="
+      "hash": "sha256-OEL2MmLbywaghXgGdVi9+ZsfA9H9dFwOdFiAorZMtgc="
     }
   },
-  "version": "0.6.2"
+  "version": "0.7.0"
 }

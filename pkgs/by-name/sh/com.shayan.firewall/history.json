@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "version": "1.5.shynoid",
+      "versionCode": 8
+    },
+    {
+      "version": "1.4.2.shynoid",
+      "versionCode": 7
+    }
+  ]
+}

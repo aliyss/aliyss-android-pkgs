@@ -1,18 +1,18 @@
 {
-  "apkName": "com.inspiredandroid.kai_114.apk",
+  "apkName": "com.inspiredandroid.kai_116.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5d5cVAMXh/Hf1oy8mjbD/fIeVPM5psreowoFfWVpCeQ="
+      "hash": "sha256-k8f06XIihqop7UQJMLSQv5/vhts5DA+oE9js9vRyXGs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5d5cVAMXh/Hf1oy8mjbD/fIeVPM5psreowoFfWVpCeQ="
+      "hash": "sha256-k8f06XIihqop7UQJMLSQv5/vhts5DA+oE9js9vRyXGs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5d5cVAMXh/Hf1oy8mjbD/fIeVPM5psreowoFfWVpCeQ="
+      "hash": "sha256-k8f06XIihqop7UQJMLSQv5/vhts5DA+oE9js9vRyXGs="
     }
   },
-  "version": "3.0.0"
+  "version": "3.2.0"
 }

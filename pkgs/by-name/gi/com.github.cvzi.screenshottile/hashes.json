@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.cvzi.screenshottile_149.apk",
+  "apkName": "com.github.cvzi.screenshottile_150.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VvgnZe8Rs7t3180OtL7croLugjtSQyxNQfOFZxRBHBI="
+      "hash": "sha256-b+XmvzPcON5+1+BEdNn+jROM/mijN2YBbVgykFOyfC0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VvgnZe8Rs7t3180OtL7croLugjtSQyxNQfOFZxRBHBI="
+      "hash": "sha256-b+XmvzPcON5+1+BEdNn+jROM/mijN2YBbVgykFOyfC0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VvgnZe8Rs7t3180OtL7croLugjtSQyxNQfOFZxRBHBI="
+      "hash": "sha256-b+XmvzPcON5+1+BEdNn+jROM/mijN2YBbVgykFOyfC0="
     }
   },
-  "version": "2.21.3"
+  "version": "2.21.4"
 }

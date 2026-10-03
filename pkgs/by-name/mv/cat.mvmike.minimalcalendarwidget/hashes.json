@@ -1,18 +1,18 @@
 {
-  "apkName": "cat.mvmike.minimalcalendarwidget_93.apk",
+  "apkName": "cat.mvmike.minimalcalendarwidget_94.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-O31mNRptG3+tLC9X5YfpDyFYQmTeXZpjqHOdXFZksZs="
+      "hash": "sha256-YcyYPDuNC+7G+GrXNyYokycThhz/yoPVYsQyccA+a1U="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-O31mNRptG3+tLC9X5YfpDyFYQmTeXZpjqHOdXFZksZs="
+      "hash": "sha256-YcyYPDuNC+7G+GrXNyYokycThhz/yoPVYsQyccA+a1U="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-O31mNRptG3+tLC9X5YfpDyFYQmTeXZpjqHOdXFZksZs="
+      "hash": "sha256-YcyYPDuNC+7G+GrXNyYokycThhz/yoPVYsQyccA+a1U="
     }
   },
-  "version": "2.19.0"
+  "version": "2.20.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.gorunjinian.metrovault_7.apk",
+  "apkName": "com.gorunjinian.metrovault_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Bx0+GiSTuPFw7zruoruUkaaAB6axRQFBIy3ooEzRLZA="
+      "hash": "sha256-CGGhAH2E+4JNno8cVb3+3F+9uFiYSx1oP+HgY0cT7bc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Bx0+GiSTuPFw7zruoruUkaaAB6axRQFBIy3ooEzRLZA="
+      "hash": "sha256-CGGhAH2E+4JNno8cVb3+3F+9uFiYSx1oP+HgY0cT7bc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Bx0+GiSTuPFw7zruoruUkaaAB6axRQFBIy3ooEzRLZA="
+      "hash": "sha256-CGGhAH2E+4JNno8cVb3+3F+9uFiYSx1oP+HgY0cT7bc="
     }
   },
-  "version": "3.9.0"
+  "version": "3.9.5"
 }

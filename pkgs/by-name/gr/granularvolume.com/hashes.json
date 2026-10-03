@@ -1,18 +1,18 @@
 {
-  "apkName": "granularvolume.com_11.apk",
+  "apkName": "granularvolume.com_28.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-hDPy55JRRt2VpRKvf+++i97NU5L3gsSbUxPP6X+2X78="
+      "hash": "sha256-fJfkO9Z+WbrnRQ5vzuorfeQsR+jQ4pyfT6Mv8E/m3BE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hDPy55JRRt2VpRKvf+++i97NU5L3gsSbUxPP6X+2X78="
+      "hash": "sha256-fJfkO9Z+WbrnRQ5vzuorfeQsR+jQ4pyfT6Mv8E/m3BE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hDPy55JRRt2VpRKvf+++i97NU5L3gsSbUxPP6X+2X78="
+      "hash": "sha256-fJfkO9Z+WbrnRQ5vzuorfeQsR+jQ4pyfT6Mv8E/m3BE="
     }
   },
-  "version": "1.3.4"
+  "version": "1.4.8"
 }

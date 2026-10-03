@@ -1,18 +1,18 @@
 {
-  "apkName": "app.organicmaps_26072306.apk",
+  "apkName": "app.organicmaps_26082718.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-24yl7C4qh5RwyP02pGqDoEyTpwSI5GuIHZYivxQgwyk="
+      "hash": "sha256-wfwDqLrU2sPEAMUHZKkp7HoHsCulcjNr/dnnIqT5ZRk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-24yl7C4qh5RwyP02pGqDoEyTpwSI5GuIHZYivxQgwyk="
+      "hash": "sha256-wfwDqLrU2sPEAMUHZKkp7HoHsCulcjNr/dnnIqT5ZRk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-24yl7C4qh5RwyP02pGqDoEyTpwSI5GuIHZYivxQgwyk="
+      "hash": "sha256-wfwDqLrU2sPEAMUHZKkp7HoHsCulcjNr/dnnIqT5ZRk="
     }
   },
-  "version": "2026.07.23-6-FDroid"
+  "version": "2026.08.27-18-FDroid"
 }

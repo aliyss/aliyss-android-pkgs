@@ -1,18 +1,18 @@
 {
-  "apkName": "com.rtbishop.look4sat_445.apk",
+  "apkName": "com.rtbishop.look4sat_448.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jReKf8oarIAgtw1gtsvuVRkNOoVYQ9aYqmnRBzByM5s="
+      "hash": "sha256-Xs70vqGLMwSIwj/9ItDf2Iv/B4qDOYVsEIy6DxwNaxo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jReKf8oarIAgtw1gtsvuVRkNOoVYQ9aYqmnRBzByM5s="
+      "hash": "sha256-Xs70vqGLMwSIwj/9ItDf2Iv/B4qDOYVsEIy6DxwNaxo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jReKf8oarIAgtw1gtsvuVRkNOoVYQ9aYqmnRBzByM5s="
+      "hash": "sha256-Xs70vqGLMwSIwj/9ItDf2Iv/B4qDOYVsEIy6DxwNaxo="
     }
   },
-  "version": "4.4.5"
+  "version": "4.4.8"
 }

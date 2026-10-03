@@ -1,18 +1,18 @@
 {
-  "apkName": "hidden.protectedwp.safespace_82.apk",
+  "apkName": "hidden.protectedwp.safespace_93.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-G6mTYZxfLFL4PN91b1acJahI5hc3h3SbtDRdVCV5tyQ="
+      "hash": "sha256-OF+xenKSCM3fbqH0IOzP43xEJVjmSAeeL2PTx8maXuA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-G6mTYZxfLFL4PN91b1acJahI5hc3h3SbtDRdVCV5tyQ="
+      "hash": "sha256-OF+xenKSCM3fbqH0IOzP43xEJVjmSAeeL2PTx8maXuA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-G6mTYZxfLFL4PN91b1acJahI5hc3h3SbtDRdVCV5tyQ="
+      "hash": "sha256-OF+xenKSCM3fbqH0IOzP43xEJVjmSAeeL2PTx8maXuA="
     }
   },
-  "version": "82.0"
+  "version": "93.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.tideo.autobrightness_20.apk",
+  "apkName": "com.tideo.autobrightness_26.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yOCw8bWGzHfD9NkvE0+qzwJAyato3Or+lCKS8G9zAIc="
+      "hash": "sha256-QqkNyH64knwNOnyAs91zia0gRQAswsJe2xmZzcHeTBU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yOCw8bWGzHfD9NkvE0+qzwJAyato3Or+lCKS8G9zAIc="
+      "hash": "sha256-QqkNyH64knwNOnyAs91zia0gRQAswsJe2xmZzcHeTBU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yOCw8bWGzHfD9NkvE0+qzwJAyato3Or+lCKS8G9zAIc="
+      "hash": "sha256-QqkNyH64knwNOnyAs91zia0gRQAswsJe2xmZzcHeTBU="
     }
   },
-  "version": "1.8.2"
+  "version": "1.12.0"
 }

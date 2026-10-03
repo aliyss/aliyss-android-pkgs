@@ -1,18 +1,18 @@
 {
-  "apkName": "com.standardnotes_3005224.apk",
+  "apkName": "com.standardnotes_3005233.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Za93QLj9LYutZe8Fj/geTc7lLfbpdGDBNdy0HuphqF4="
+      "hash": "sha256-Vlx5z9WDmvvPIa+ClBVL1eG6871aRVVGZjzMHi8+7Jw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Za93QLj9LYutZe8Fj/geTc7lLfbpdGDBNdy0HuphqF4="
+      "hash": "sha256-Vlx5z9WDmvvPIa+ClBVL1eG6871aRVVGZjzMHi8+7Jw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Za93QLj9LYutZe8Fj/geTc7lLfbpdGDBNdy0HuphqF4="
+      "hash": "sha256-Vlx5z9WDmvvPIa+ClBVL1eG6871aRVVGZjzMHi8+7Jw="
     }
   },
-  "version": "3.201.35"
+  "version": "3.202.8"
 }

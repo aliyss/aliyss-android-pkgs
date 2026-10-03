@@ -1,18 +1,18 @@
 {
-  "apkName": "org.y20k.escapepod_52.apk",
+  "apkName": "org.y20k.escapepod_53.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2ym95AHKLzU5VzlEE12ndyTaxDWl9tCuTU0yNwY5gTI="
+      "hash": "sha256-kNMs7w/B8rmsGtJuxOTtj1S4HRF2mKEyHJgvJj8iViM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2ym95AHKLzU5VzlEE12ndyTaxDWl9tCuTU0yNwY5gTI="
+      "hash": "sha256-kNMs7w/B8rmsGtJuxOTtj1S4HRF2mKEyHJgvJj8iViM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2ym95AHKLzU5VzlEE12ndyTaxDWl9tCuTU0yNwY5gTI="
+      "hash": "sha256-kNMs7w/B8rmsGtJuxOTtj1S4HRF2mKEyHJgvJj8iViM="
     }
   },
-  "version": "1.6.6"
+  "version": "1.6.7"
 }

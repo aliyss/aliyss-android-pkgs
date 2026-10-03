@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.johnathan.minesweeper_4.apk",
+  "apkName": "io.github.johnathan.minesweeper_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-hUWCkUnYJpV90+z4TGnVAU/GWVqqVKLh4xUDXFw4sh0="
+      "hash": "sha256-2xcqep5hiDFU5Bn5o3JyIqXzJ1+P6gSRucxjHxgu/hw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hUWCkUnYJpV90+z4TGnVAU/GWVqqVKLh4xUDXFw4sh0="
+      "hash": "sha256-2xcqep5hiDFU5Bn5o3JyIqXzJ1+P6gSRucxjHxgu/hw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hUWCkUnYJpV90+z4TGnVAU/GWVqqVKLh4xUDXFw4sh0="
+      "hash": "sha256-2xcqep5hiDFU5Bn5o3JyIqXzJ1+P6gSRucxjHxgu/hw="
     }
   },
-  "version": "1.3"
+  "version": "1.8"
 }

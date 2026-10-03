@@ -1,18 +1,18 @@
 {
-  "apkName": "lu.knaff.alain.share_to_folder_105.apk",
+  "apkName": "lu.knaff.alain.share_to_folder_109.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-f4p7TzDscaTn/b/Te9D2bVqK0XH2LF7no6DV5wal9Bg="
+      "hash": "sha256-yg2XZTq7sFJ6CRESeRe4jBkn2OefhYrtEewymfRNSPs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-f4p7TzDscaTn/b/Te9D2bVqK0XH2LF7no6DV5wal9Bg="
+      "hash": "sha256-yg2XZTq7sFJ6CRESeRe4jBkn2OefhYrtEewymfRNSPs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-f4p7TzDscaTn/b/Te9D2bVqK0XH2LF7no6DV5wal9Bg="
+      "hash": "sha256-yg2XZTq7sFJ6CRESeRe4jBkn2OefhYrtEewymfRNSPs="
     }
   },
-  "version": "0.1.5"
+  "version": "0.1.9"
 }

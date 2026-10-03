@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "version": "5.0.2-gao-full",
+      "versionCode": 50020
+    },
+    {
+      "version": "5.0.1-gao-full",
+      "versionCode": 50010
+    }
+  ]
+}

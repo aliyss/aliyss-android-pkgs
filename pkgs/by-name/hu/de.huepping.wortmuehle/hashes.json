@@ -1,18 +1,18 @@
 {
-  "apkName": "de.huepping.wortmuehle_2.apk",
+  "apkName": "de.huepping.wortmuehle_3.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-n5yilKWEK8WkzKUxLFBvd5hZ7DS24b4sR7WqWSRIuiI="
+      "hash": "sha256-5BQak+5FxWwJXm+6eNduRJp781MDO8xgKg+mUAzwM74="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-n5yilKWEK8WkzKUxLFBvd5hZ7DS24b4sR7WqWSRIuiI="
+      "hash": "sha256-5BQak+5FxWwJXm+6eNduRJp781MDO8xgKg+mUAzwM74="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-n5yilKWEK8WkzKUxLFBvd5hZ7DS24b4sR7WqWSRIuiI="
+      "hash": "sha256-5BQak+5FxWwJXm+6eNduRJp781MDO8xgKg+mUAzwM74="
     }
   },
-  "version": "1.1"
+  "version": "1.2"
 }

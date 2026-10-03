@@ -1,18 +1,18 @@
 {
-  "apkName": "com.vecturagames.android.app.passwordgenerator_60.apk",
+  "apkName": "com.vecturagames.android.app.passwordgenerator_62.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-myQT4cGUSyedS4x2Xs4aiq+KliofIN96HwWxjHCs9pM="
+      "hash": "sha256-uXd4KZ1vr8wpbVP8MONV6rS8IRNcvtlYTUMUbFFmlLU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-myQT4cGUSyedS4x2Xs4aiq+KliofIN96HwWxjHCs9pM="
+      "hash": "sha256-uXd4KZ1vr8wpbVP8MONV6rS8IRNcvtlYTUMUbFFmlLU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-myQT4cGUSyedS4x2Xs4aiq+KliofIN96HwWxjHCs9pM="
+      "hash": "sha256-uXd4KZ1vr8wpbVP8MONV6rS8IRNcvtlYTUMUbFFmlLU="
     }
   },
-  "version": "1.11.1"
+  "version": "1.12.0"
 }

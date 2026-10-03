@@ -1,18 +1,18 @@
 {
-  "apkName": "de.dennisguse.opentracks.playstore_6733.apk",
+  "apkName": "de.dennisguse.opentracks.playstore_6766.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aEXX8Op+U6W9xl1X9VcX70vdsfkwM+KfqYW+f4ebVC0="
+      "hash": "sha256-36o0YlnxmDmpe9+KH0NMXPpJqEdyMcY0/Blav61MZN0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aEXX8Op+U6W9xl1X9VcX70vdsfkwM+KfqYW+f4ebVC0="
+      "hash": "sha256-36o0YlnxmDmpe9+KH0NMXPpJqEdyMcY0/Blav61MZN0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aEXX8Op+U6W9xl1X9VcX70vdsfkwM+KfqYW+f4ebVC0="
+      "hash": "sha256-36o0YlnxmDmpe9+KH0NMXPpJqEdyMcY0/Blav61MZN0="
     }
   },
-  "version": "v4.28.1"
+  "version": "v4.29.0"
 }

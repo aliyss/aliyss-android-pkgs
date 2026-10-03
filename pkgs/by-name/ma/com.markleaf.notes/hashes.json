@@ -1,18 +1,18 @@
 {
-  "apkName": "com.markleaf.notes_124.apk",
+  "apkName": "com.markleaf.notes_168.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Opvm8SY0NoPkxT+uuJjjPfMclY+keLXyGFBjSoOkSDs="
+      "hash": "sha256-dnHf56nuPXfL9K6+ZQ1sqYPTuIiK6mIwqql7F9QqDqI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Opvm8SY0NoPkxT+uuJjjPfMclY+keLXyGFBjSoOkSDs="
+      "hash": "sha256-dnHf56nuPXfL9K6+ZQ1sqYPTuIiK6mIwqql7F9QqDqI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Opvm8SY0NoPkxT+uuJjjPfMclY+keLXyGFBjSoOkSDs="
+      "hash": "sha256-dnHf56nuPXfL9K6+ZQ1sqYPTuIiK6mIwqql7F9QqDqI="
     }
   },
-  "version": "2.32.2"
+  "version": "2.59.0"
 }

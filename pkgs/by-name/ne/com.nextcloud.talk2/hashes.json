@@ -1,18 +1,18 @@
 {
-  "apkName": "com.nextcloud.talk2_240000092.apk",
+  "apkName": "com.nextcloud.talk2_250000190.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MuzhV4Mu8LCJNQ3rC7FVzinCUD0/8NHF+UX/WfYI2+0="
+      "hash": "sha256-1LAwWiS1cpSmVKPRXvSimxj8ngfglygR33SWifW74gs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MuzhV4Mu8LCJNQ3rC7FVzinCUD0/8NHF+UX/WfYI2+0="
+      "hash": "sha256-1LAwWiS1cpSmVKPRXvSimxj8ngfglygR33SWifW74gs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MuzhV4Mu8LCJNQ3rC7FVzinCUD0/8NHF+UX/WfYI2+0="
+      "hash": "sha256-1LAwWiS1cpSmVKPRXvSimxj8ngfglygR33SWifW74gs="
     }
   },
-  "version": "24.0.2"
+  "version": "25.0.1"
 }

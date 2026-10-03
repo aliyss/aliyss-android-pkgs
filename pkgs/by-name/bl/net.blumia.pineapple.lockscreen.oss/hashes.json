@@ -1,18 +1,18 @@
 {
-  "apkName": "net.blumia.pineapple.lockscreen.oss_26.apk",
+  "apkName": "net.blumia.pineapple.lockscreen.oss_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8/xHqm2FiGREgaferI8Qqt2Qd19HT/6tfmCWruuUs5g="
+      "hash": "sha256-kvu8Ws808L8CxBAQ3IQnRnJFZT2ul8UYY+7bsBmvHto="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8/xHqm2FiGREgaferI8Qqt2Qd19HT/6tfmCWruuUs5g="
+      "hash": "sha256-kvu8Ws808L8CxBAQ3IQnRnJFZT2ul8UYY+7bsBmvHto="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8/xHqm2FiGREgaferI8Qqt2Qd19HT/6tfmCWruuUs5g="
+      "hash": "sha256-kvu8Ws808L8CxBAQ3IQnRnJFZT2ul8UYY+7bsBmvHto="
     }
   },
-  "version": "3.0.1.1-oss"
+  "version": "3.0.2-oss"
 }

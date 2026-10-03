@@ -1,18 +1,18 @@
 {
-  "apkName": "com.musheer360.swiftslate_218.apk",
+  "apkName": "com.musheer360.swiftslate_283.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-s0IozczLk3ALbArww1UK8B8qXhpMpC4mJWfFWRimv1A="
+      "hash": "sha256-gIIeFchoudIzkKDAHy6u2XuaD0FBOFPvWqhgYQjQcDk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-s0IozczLk3ALbArww1UK8B8qXhpMpC4mJWfFWRimv1A="
+      "hash": "sha256-gIIeFchoudIzkKDAHy6u2XuaD0FBOFPvWqhgYQjQcDk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-s0IozczLk3ALbArww1UK8B8qXhpMpC4mJWfFWRimv1A="
+      "hash": "sha256-gIIeFchoudIzkKDAHy6u2XuaD0FBOFPvWqhgYQjQcDk="
     }
   },
-  "version": "1.0.75"
+  "version": "1.0.82"
 }

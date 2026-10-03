@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.warren_bank.exoplayer_airplay_receiver_3140823.apk",
+  "apkName": "com.github.warren_bank.exoplayer_airplay_receiver_3150223.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AMvGu70mKf1hCIMnVzKgI+fm8gstcLdSdOlygoqnWFE="
+      "hash": "sha256-ED243oFOCp5xs5qnu3RI4V7iPdXA15rAim44l/s0IKU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AMvGu70mKf1hCIMnVzKgI+fm8gstcLdSdOlygoqnWFE="
+      "hash": "sha256-ED243oFOCp5xs5qnu3RI4V7iPdXA15rAim44l/s0IKU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AMvGu70mKf1hCIMnVzKgI+fm8gstcLdSdOlygoqnWFE="
+      "hash": "sha256-ED243oFOCp5xs5qnu3RI4V7iPdXA15rAim44l/s0IKU="
     }
   },
-  "version": "003.14.08-23API"
+  "version": "003.15.02-23API"
 }

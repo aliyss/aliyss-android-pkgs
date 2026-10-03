@@ -1,18 +1,18 @@
 {
-  "apkName": "com.cuscus.wifiaudiostreaming_9.apk",
+  "apkName": "com.cuscus.wifiaudiostreaming_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OqgIHW7Vimo9MjiTKyovY+T5RBNBokZnCHKyDUwLmGY="
+      "hash": "sha256-YQI00ZdsASvONJ6Lzu1DIL6A7qfup9IcBj/4LgbLSj4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OqgIHW7Vimo9MjiTKyovY+T5RBNBokZnCHKyDUwLmGY="
+      "hash": "sha256-YQI00ZdsASvONJ6Lzu1DIL6A7qfup9IcBj/4LgbLSj4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OqgIHW7Vimo9MjiTKyovY+T5RBNBokZnCHKyDUwLmGY="
+      "hash": "sha256-YQI00ZdsASvONJ6Lzu1DIL6A7qfup9IcBj/4LgbLSj4="
     }
   },
-  "version": "1.1.0"
+  "version": "1.2"
 }

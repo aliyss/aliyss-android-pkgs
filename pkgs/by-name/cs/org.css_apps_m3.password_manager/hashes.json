@@ -1,18 +1,18 @@
 {
-  "apkName": "org.css_apps_m3.password_manager_16.apk",
+  "apkName": "org.css_apps_m3.password_manager_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5+vmAAVQ0Ux4nLFk0rscQfVHXchqM9FkDB0sGG8lx48="
+      "hash": "sha256-lkxyZhjhR2vwPGxyiCOllaAJ8mwA1g9oAogtB2fILHQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5+vmAAVQ0Ux4nLFk0rscQfVHXchqM9FkDB0sGG8lx48="
+      "hash": "sha256-lkxyZhjhR2vwPGxyiCOllaAJ8mwA1g9oAogtB2fILHQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5+vmAAVQ0Ux4nLFk0rscQfVHXchqM9FkDB0sGG8lx48="
+      "hash": "sha256-lkxyZhjhR2vwPGxyiCOllaAJ8mwA1g9oAogtB2fILHQ="
     }
   },
-  "version": "1.0.1"
+  "version": "2.0.0"
 }

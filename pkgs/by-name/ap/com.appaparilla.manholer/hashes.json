@@ -1,18 +1,18 @@
 {
-  "apkName": "com.appaparilla.manholer_78.apk",
+  "apkName": "com.appaparilla.manholer_85.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JlokvyFM5DxMbby9zmkCbNBpOhGNVA2bd2j48VJwZq8="
+      "hash": "sha256-HWfd61ICTTbaLydhm5RV8N4wPnnQQMwJ6I677qTaLmY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JlokvyFM5DxMbby9zmkCbNBpOhGNVA2bd2j48VJwZq8="
+      "hash": "sha256-HWfd61ICTTbaLydhm5RV8N4wPnnQQMwJ6I677qTaLmY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JlokvyFM5DxMbby9zmkCbNBpOhGNVA2bd2j48VJwZq8="
+      "hash": "sha256-HWfd61ICTTbaLydhm5RV8N4wPnnQQMwJ6I677qTaLmY="
     }
   },
-  "version": "2026-08-10-79eebf6d81"
+  "version": "2026-09-29-7445fe59b5"
 }

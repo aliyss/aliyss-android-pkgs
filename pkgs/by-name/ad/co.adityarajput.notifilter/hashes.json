@@ -1,18 +1,18 @@
 {
-  "apkName": "co.adityarajput.notifilter_35.apk",
+  "apkName": "co.adityarajput.notifilter_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KABSrBldAjwnNxixC5RAzHaEMk8u8vc/kSbr0Bz8KME="
+      "hash": "sha256-URoqWKp1OEwFz/hJrvks9Nnfy1pm+ipPA93LS9lm8GM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KABSrBldAjwnNxixC5RAzHaEMk8u8vc/kSbr0Bz8KME="
+      "hash": "sha256-URoqWKp1OEwFz/hJrvks9Nnfy1pm+ipPA93LS9lm8GM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KABSrBldAjwnNxixC5RAzHaEMk8u8vc/kSbr0Bz8KME="
+      "hash": "sha256-URoqWKp1OEwFz/hJrvks9Nnfy1pm+ipPA93LS9lm8GM="
     }
   },
-  "version": "4.14.0"
+  "version": "4.15.0"
 }

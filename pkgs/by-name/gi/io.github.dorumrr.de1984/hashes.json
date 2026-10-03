@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.dorumrr.de1984_33.apk",
+  "apkName": "io.github.dorumrr.de1984_48.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rAZKSN7pAsM/35vFulF+W77X6ck2r/ga+l5rt8GAf/Y="
+      "hash": "sha256-7fL9znEpEe92jAuniDBs66q42j0ICkzdijULihoJ5FA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rAZKSN7pAsM/35vFulF+W77X6ck2r/ga+l5rt8GAf/Y="
+      "hash": "sha256-7fL9znEpEe92jAuniDBs66q42j0ICkzdijULihoJ5FA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rAZKSN7pAsM/35vFulF+W77X6ck2r/ga+l5rt8GAf/Y="
+      "hash": "sha256-7fL9znEpEe92jAuniDBs66q42j0ICkzdijULihoJ5FA="
     }
   },
-  "version": "2.6.2"
+  "version": "2.7.8"
 }

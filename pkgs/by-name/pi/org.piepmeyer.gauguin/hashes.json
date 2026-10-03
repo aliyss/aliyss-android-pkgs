@@ -1,18 +1,18 @@
 {
-  "apkName": "org.piepmeyer.gauguin_76.apk",
+  "apkName": "org.piepmeyer.gauguin_77.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vjwfM01pbxLO6vTnksMKBQ+4CxMmDYiWD0zISJlfVVM="
+      "hash": "sha256-8UnX/k22GrDaGHlgp9TbfMjaQv3I555VrPvzqLZoAiM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vjwfM01pbxLO6vTnksMKBQ+4CxMmDYiWD0zISJlfVVM="
+      "hash": "sha256-8UnX/k22GrDaGHlgp9TbfMjaQv3I555VrPvzqLZoAiM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vjwfM01pbxLO6vTnksMKBQ+4CxMmDYiWD0zISJlfVVM="
+      "hash": "sha256-8UnX/k22GrDaGHlgp9TbfMjaQv3I555VrPvzqLZoAiM="
     }
   },
-  "version": "0.52.0"
+  "version": "0.52.1"
 }

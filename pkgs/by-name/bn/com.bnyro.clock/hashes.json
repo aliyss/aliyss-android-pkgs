@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bnyro.clock_23.apk",
+  "apkName": "com.bnyro.clock_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yq+G8bCa3VRZnG3AIsMKFeN3oXmUwIxJ0Dd2QNB0a3U="
+      "hash": "sha256-x7tZyBbChNwlNJwOObTwiAjZqUqvkBPXbuQf3vOHxSc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yq+G8bCa3VRZnG3AIsMKFeN3oXmUwIxJ0Dd2QNB0a3U="
+      "hash": "sha256-x7tZyBbChNwlNJwOObTwiAjZqUqvkBPXbuQf3vOHxSc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yq+G8bCa3VRZnG3AIsMKFeN3oXmUwIxJ0Dd2QNB0a3U="
+      "hash": "sha256-x7tZyBbChNwlNJwOObTwiAjZqUqvkBPXbuQf3vOHxSc="
     }
   },
-  "version": "11.0"
+  "version": "12.0"
 }

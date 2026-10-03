@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mubarak.mbcompass_18.apk",
+  "apkName": "com.mubarak.mbcompass_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FS+via+9kHrRkeECcRo/KG1qHmbNJ+/K1D85qiI2x8U="
+      "hash": "sha256-AXCBm7pA4oQU2qrKnx76BAmPzev+kpoXm7+CRT1YbM0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FS+via+9kHrRkeECcRo/KG1qHmbNJ+/K1D85qiI2x8U="
+      "hash": "sha256-AXCBm7pA4oQU2qrKnx76BAmPzev+kpoXm7+CRT1YbM0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FS+via+9kHrRkeECcRo/KG1qHmbNJ+/K1D85qiI2x8U="
+      "hash": "sha256-AXCBm7pA4oQU2qrKnx76BAmPzev+kpoXm7+CRT1YbM0="
     }
   },
-  "version": "1.1.17"
+  "version": "1.1.18"
 }

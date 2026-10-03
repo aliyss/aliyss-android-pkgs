@@ -1,18 +1,18 @@
 {
-  "apkName": "org.anonomi.android_10400.apk",
+  "apkName": "org.anonomi.android_10500.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Ch8GUSL7uuwKkWvl4PupZTa6Ftg3EP4+A+hBEsRP/D8="
+      "hash": "sha256-mvDbRc46xgVf52Ck3B6DZEWxqA4EWLunxYl30ClGlkI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ch8GUSL7uuwKkWvl4PupZTa6Ftg3EP4+A+hBEsRP/D8="
+      "hash": "sha256-mvDbRc46xgVf52Ck3B6DZEWxqA4EWLunxYl30ClGlkI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ch8GUSL7uuwKkWvl4PupZTa6Ftg3EP4+A+hBEsRP/D8="
+      "hash": "sha256-mvDbRc46xgVf52Ck3B6DZEWxqA4EWLunxYl30ClGlkI="
     }
   },
-  "version": "1.4.0"
+  "version": "1.5.0"
 }

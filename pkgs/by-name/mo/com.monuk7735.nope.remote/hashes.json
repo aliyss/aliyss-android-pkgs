@@ -1,18 +1,18 @@
 {
-  "apkName": "com.monuk7735.nope.remote_23.apk",
+  "apkName": "com.monuk7735.nope.remote_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bEsQ2JcuvlgC0X7laKMdHAPPogIbN2IMQxlvbKpTHng="
+      "hash": "sha256-huTbeDVpJ5pSgZ8kukeRfk/e5T6jf9tIC9fp6j61teI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bEsQ2JcuvlgC0X7laKMdHAPPogIbN2IMQxlvbKpTHng="
+      "hash": "sha256-huTbeDVpJ5pSgZ8kukeRfk/e5T6jf9tIC9fp6j61teI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bEsQ2JcuvlgC0X7laKMdHAPPogIbN2IMQxlvbKpTHng="
+      "hash": "sha256-huTbeDVpJ5pSgZ8kukeRfk/e5T6jf9tIC9fp6j61teI="
     }
   },
-  "version": "2.3"
+  "version": "2.4"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.anisync.android_19.apk",
+  "apkName": "com.anisync.android_21.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CZXW1Iu7Lr7WyJvrIKHDU6ydhIrtS5YFZDiej0iqXeI="
+      "hash": "sha256-a7jV4mD5Bng0sI/Ln20r7cg/95XV9CRoR/y93cGew5I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CZXW1Iu7Lr7WyJvrIKHDU6ydhIrtS5YFZDiej0iqXeI="
+      "hash": "sha256-a7jV4mD5Bng0sI/Ln20r7cg/95XV9CRoR/y93cGew5I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CZXW1Iu7Lr7WyJvrIKHDU6ydhIrtS5YFZDiej0iqXeI="
+      "hash": "sha256-a7jV4mD5Bng0sI/Ln20r7cg/95XV9CRoR/y93cGew5I="
     }
   },
-  "version": "3.1.0"
+  "version": "3.2.1"
 }

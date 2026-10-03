@@ -1,18 +1,18 @@
 {
-  "apkName": "host.stjin.anonaddy_376410100.apk",
+  "apkName": "host.stjin.anonaddy_376500300.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qxKuf3I59/L03r/45XwWMuzgGIzU9Yf/r4evqkDku+g="
+      "hash": "sha256-6MsnWEIPddNn6RWjoOZYXWH5Bm+Rz/7+/3MlMPVK3dc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qxKuf3I59/L03r/45XwWMuzgGIzU9Yf/r4evqkDku+g="
+      "hash": "sha256-6MsnWEIPddNn6RWjoOZYXWH5Bm+Rz/7+/3MlMPVK3dc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qxKuf3I59/L03r/45XwWMuzgGIzU9Yf/r4evqkDku+g="
+      "hash": "sha256-6MsnWEIPddNn6RWjoOZYXWH5Bm+Rz/7+/3MlMPVK3dc="
     }
   },
-  "version": "v6.4.1"
+  "version": "v6.5.0"
 }

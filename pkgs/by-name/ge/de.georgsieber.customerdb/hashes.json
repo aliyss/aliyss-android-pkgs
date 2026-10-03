@@ -1,18 +1,18 @@
 {
-  "apkName": "de.georgsieber.customerdb_99.apk",
+  "apkName": "de.georgsieber.customerdb_102.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0gNdbrDVCJbbdlePfxEY3U509SkkxBcRmbr6y3a5ayk="
+      "hash": "sha256-IrSYJXZ5SU8uqypTNkte9+ZcFwlNjAllzxgv/mR0THw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0gNdbrDVCJbbdlePfxEY3U509SkkxBcRmbr6y3a5ayk="
+      "hash": "sha256-IrSYJXZ5SU8uqypTNkte9+ZcFwlNjAllzxgv/mR0THw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0gNdbrDVCJbbdlePfxEY3U509SkkxBcRmbr6y3a5ayk="
+      "hash": "sha256-IrSYJXZ5SU8uqypTNkte9+ZcFwlNjAllzxgv/mR0THw="
     }
   },
-  "version": "3.11.6"
+  "version": "3.12.2"
 }

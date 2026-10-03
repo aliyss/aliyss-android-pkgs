@@ -1,18 +1,18 @@
 {
-  "apkName": "com.fauxx.full_601.apk",
+  "apkName": "com.fauxx.full_800.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8h7Y4zb0upZph9TBj1XWwcaFgcx7/hNtRY9vexcL0d8="
+      "hash": "sha256-62Nvg20swQE8logteRFvXfn8cVkoziLrtJTbfgr3fEQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8h7Y4zb0upZph9TBj1XWwcaFgcx7/hNtRY9vexcL0d8="
+      "hash": "sha256-62Nvg20swQE8logteRFvXfn8cVkoziLrtJTbfgr3fEQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8h7Y4zb0upZph9TBj1XWwcaFgcx7/hNtRY9vexcL0d8="
+      "hash": "sha256-62Nvg20swQE8logteRFvXfn8cVkoziLrtJTbfgr3fEQ="
     }
   },
-  "version": "0.6.1"
+  "version": "0.8.0"
 }

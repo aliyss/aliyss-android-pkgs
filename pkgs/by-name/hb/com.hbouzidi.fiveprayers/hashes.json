@@ -1,18 +1,18 @@
 {
-  "apkName": "com.hbouzidi.fiveprayers_44.apk",
+  "apkName": "com.hbouzidi.fiveprayers_47.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-eUmI5qmr0myxURtcNwW7jjFvN0AilMWRgZEGHwVpG3E="
+      "hash": "sha256-cq+0uLTyiccF7U59+YWDfPMFnqZTIo//0RzDPDDSq1I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eUmI5qmr0myxURtcNwW7jjFvN0AilMWRgZEGHwVpG3E="
+      "hash": "sha256-cq+0uLTyiccF7U59+YWDfPMFnqZTIo//0RzDPDDSq1I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eUmI5qmr0myxURtcNwW7jjFvN0AilMWRgZEGHwVpG3E="
+      "hash": "sha256-cq+0uLTyiccF7U59+YWDfPMFnqZTIo//0RzDPDDSq1I="
     }
   },
-  "version": "2.12.0-R"
+  "version": "2.13.2-R"
 }

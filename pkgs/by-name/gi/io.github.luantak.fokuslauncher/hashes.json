@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.luantak.fokuslauncher_47.apk",
+  "apkName": "io.github.luantak.fokuslauncher_52.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-959mhl0JPzn6Tb2iCkdXh1qtUo38U20lm5Ulh+ItP/Y="
+      "hash": "sha256-Ofy55XpFs4slzqROJVmQoWnBYzQ+CZrdsBEse3Sh04g="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-959mhl0JPzn6Tb2iCkdXh1qtUo38U20lm5Ulh+ItP/Y="
+      "hash": "sha256-Ofy55XpFs4slzqROJVmQoWnBYzQ+CZrdsBEse3Sh04g="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-959mhl0JPzn6Tb2iCkdXh1qtUo38U20lm5Ulh+ItP/Y="
+      "hash": "sha256-Ofy55XpFs4slzqROJVmQoWnBYzQ+CZrdsBEse3Sh04g="
     }
   },
-  "version": "1.9.1"
+  "version": "1.9.6"
 }

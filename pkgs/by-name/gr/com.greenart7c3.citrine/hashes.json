@@ -1,18 +1,18 @@
 {
-  "apkName": "com.greenart7c3.citrine_61.apk",
+  "apkName": "com.greenart7c3.citrine_63.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-E1EXAAQCeVEThJISXIsC55vVr8aepn6He3Jt7JIOqWw="
+      "hash": "sha256-RMQaK4iwjNj0X3+5mq+NZ0lO0J+tk737xgXAUjJBMfk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-E1EXAAQCeVEThJISXIsC55vVr8aepn6He3Jt7JIOqWw="
+      "hash": "sha256-RMQaK4iwjNj0X3+5mq+NZ0lO0J+tk737xgXAUjJBMfk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-E1EXAAQCeVEThJISXIsC55vVr8aepn6He3Jt7JIOqWw="
+      "hash": "sha256-RMQaK4iwjNj0X3+5mq+NZ0lO0J+tk737xgXAUjJBMfk="
     }
   },
-  "version": "3.0.1"
+  "version": "3.1.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.glosdalen.app_22.apk",
+  "apkName": "com.glosdalen.app_23.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-g4lCy0vaocCo1/thuGB8vu0903cXvo4KonhKeZnLxt8="
+      "hash": "sha256-6XnPy0aiIvcrcAp/xIiUJOVpo1CaQQpHDr8I59ey8dk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-g4lCy0vaocCo1/thuGB8vu0903cXvo4KonhKeZnLxt8="
+      "hash": "sha256-6XnPy0aiIvcrcAp/xIiUJOVpo1CaQQpHDr8I59ey8dk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-g4lCy0vaocCo1/thuGB8vu0903cXvo4KonhKeZnLxt8="
+      "hash": "sha256-6XnPy0aiIvcrcAp/xIiUJOVpo1CaQQpHDr8I59ey8dk="
     }
   },
-  "version": "2.5.0"
+  "version": "2.5.1"
 }

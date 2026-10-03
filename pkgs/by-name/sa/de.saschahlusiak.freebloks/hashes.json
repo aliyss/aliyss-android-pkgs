@@ -1,18 +1,18 @@
 {
-  "apkName": "de.saschahlusiak.freebloks_183.apk",
+  "apkName": "de.saschahlusiak.freebloks_184.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6Ao8SiIeT1PjtPu41Wo2S9MttUBMp8adSTZzx5ry1NE="
+      "hash": "sha256-EZCFGda47d6jGD04B9joX17+0NDjrpfTFtS+lnSicH4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6Ao8SiIeT1PjtPu41Wo2S9MttUBMp8adSTZzx5ry1NE="
+      "hash": "sha256-EZCFGda47d6jGD04B9joX17+0NDjrpfTFtS+lnSicH4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6Ao8SiIeT1PjtPu41Wo2S9MttUBMp8adSTZzx5ry1NE="
+      "hash": "sha256-EZCFGda47d6jGD04B9joX17+0NDjrpfTFtS+lnSicH4="
     }
   },
-  "version": "1.8.3"
+  "version": "1.8.4"
 }

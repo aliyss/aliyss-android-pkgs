@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.soundpod_31.apk",
+  "apkName": "com.github.soundpod_32.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-xSpsYj1ipeDkELDn7wsxmvU87/pZT+qktlqyIoiOW4k="
+      "hash": "sha256-4MykFDJZXToUYY+N9+fzpAl0iJxs3w6+ZKHN0kocSIQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xSpsYj1ipeDkELDn7wsxmvU87/pZT+qktlqyIoiOW4k="
+      "hash": "sha256-4MykFDJZXToUYY+N9+fzpAl0iJxs3w6+ZKHN0kocSIQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xSpsYj1ipeDkELDn7wsxmvU87/pZT+qktlqyIoiOW4k="
+      "hash": "sha256-4MykFDJZXToUYY+N9+fzpAl0iJxs3w6+ZKHN0kocSIQ="
     }
   },
-  "version": "1.3.5"
+  "version": "1.3.6"
 }

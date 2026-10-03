@@ -1,18 +1,18 @@
 {
-  "apkName": "com.voyagerfiles_15.apk",
+  "apkName": "com.voyagerfiles_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Yt4aFpAkxIB1/lXAqipms/J2y2w7+RTM2uycGwN6Sko="
+      "hash": "sha256-YYaT1cm6EV3hTAoIp0N047+QHckDQQdD/1EFoMjgfpM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Yt4aFpAkxIB1/lXAqipms/J2y2w7+RTM2uycGwN6Sko="
+      "hash": "sha256-YYaT1cm6EV3hTAoIp0N047+QHckDQQdD/1EFoMjgfpM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Yt4aFpAkxIB1/lXAqipms/J2y2w7+RTM2uycGwN6Sko="
+      "hash": "sha256-YYaT1cm6EV3hTAoIp0N047+QHckDQQdD/1EFoMjgfpM="
     }
   },
-  "version": "1.7.0"
+  "version": "1.11.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.howeyc.crocgui_47.apk",
+  "apkName": "com.github.howeyc.crocgui_48.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WEozrwB1hcagnVtRDAyVEUIvXpO6v9z+EJ9S3rcuGAQ="
+      "hash": "sha256-8mrJeTLuHI6zsjPcI9axEEyv87bcSXhoDoxoKcmdrjM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WEozrwB1hcagnVtRDAyVEUIvXpO6v9z+EJ9S3rcuGAQ="
+      "hash": "sha256-8mrJeTLuHI6zsjPcI9axEEyv87bcSXhoDoxoKcmdrjM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WEozrwB1hcagnVtRDAyVEUIvXpO6v9z+EJ9S3rcuGAQ="
+      "hash": "sha256-8mrJeTLuHI6zsjPcI9axEEyv87bcSXhoDoxoKcmdrjM="
     }
   },
-  "version": "10.6.0"
+  "version": "11.5.2"
 }

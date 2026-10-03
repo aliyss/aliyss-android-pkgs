@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.mi6e4ka.openstore_10981418.apk",
+  "apkName": "dev.mi6e4ka.openstore_11586824.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vIKFPk7itDDj5O/9zMsjhH4NywVQHldrxttul7AR6dk="
+      "hash": "sha256-E2YUefmEq1rEjwaTLn13t/sHma+j1giJ3Te8Ew52D88="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vIKFPk7itDDj5O/9zMsjhH4NywVQHldrxttul7AR6dk="
+      "hash": "sha256-E2YUefmEq1rEjwaTLn13t/sHma+j1giJ3Te8Ew52D88="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vIKFPk7itDDj5O/9zMsjhH4NywVQHldrxttul7AR6dk="
+      "hash": "sha256-E2YUefmEq1rEjwaTLn13t/sHma+j1giJ3Te8Ew52D88="
     }
   },
-  "version": "2.2.3"
+  "version": "2.2.4"
 }

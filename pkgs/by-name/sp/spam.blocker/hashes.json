@@ -1,18 +1,18 @@
 {
-  "apkName": "spam.blocker_514.apk",
+  "apkName": "spam.blocker_516.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rAeuAy3YyfPapBXr5XORrliXPnS/7kwDz0Bg+IL68vg="
+      "hash": "sha256-Dk33ki60ubt48HiIulBmccT4WAGMGIz4E+KPkU3vGC8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rAeuAy3YyfPapBXr5XORrliXPnS/7kwDz0Bg+IL68vg="
+      "hash": "sha256-Dk33ki60ubt48HiIulBmccT4WAGMGIz4E+KPkU3vGC8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rAeuAy3YyfPapBXr5XORrliXPnS/7kwDz0Bg+IL68vg="
+      "hash": "sha256-Dk33ki60ubt48HiIulBmccT4WAGMGIz4E+KPkU3vGC8="
     }
   },
-  "version": "5.14"
+  "version": "5.16"
 }

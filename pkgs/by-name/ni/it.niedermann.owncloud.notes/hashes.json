@@ -1,18 +1,18 @@
 {
-  "apkName": "it.niedermann.owncloud.notes_340000151.apk",
+  "apkName": "it.niedermann.owncloud.notes_350000090.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-COwspUjV8Qa9WX+KIj+AU3MeUUF5gS8znweFe+jVD/o="
+      "hash": "sha256-jt37y2TFdhawkmnyNpOB6/YDJK+zevVCmmKyPNYzVz0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-COwspUjV8Qa9WX+KIj+AU3MeUUF5gS8znweFe+jVD/o="
+      "hash": "sha256-jt37y2TFdhawkmnyNpOB6/YDJK+zevVCmmKyPNYzVz0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-COwspUjV8Qa9WX+KIj+AU3MeUUF5gS8znweFe+jVD/o="
+      "hash": "sha256-jt37y2TFdhawkmnyNpOB6/YDJK+zevVCmmKyPNYzVz0="
     }
   },
-  "version": "34.0.1 RC1"
+  "version": "35.0.0"
 }

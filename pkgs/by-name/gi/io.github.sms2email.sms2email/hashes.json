@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.sms2email.sms2email_45.apk",
+  "apkName": "io.github.sms2email.sms2email_48.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6/XC3am3OZC0pWO8Bq6AwYVZPm+uXmQHqazxYXkDGzg="
+      "hash": "sha256-rWpCW132VL5mNcLe6xkVcuM307/lHZPuZKi8peYu4JU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6/XC3am3OZC0pWO8Bq6AwYVZPm+uXmQHqazxYXkDGzg="
+      "hash": "sha256-rWpCW132VL5mNcLe6xkVcuM307/lHZPuZKi8peYu4JU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6/XC3am3OZC0pWO8Bq6AwYVZPm+uXmQHqazxYXkDGzg="
+      "hash": "sha256-rWpCW132VL5mNcLe6xkVcuM307/lHZPuZKi8peYu4JU="
     }
   },
-  "version": "1.1.32"
+  "version": "1.1.35"
 }

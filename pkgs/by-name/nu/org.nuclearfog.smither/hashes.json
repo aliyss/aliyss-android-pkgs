@@ -1,18 +1,18 @@
 {
-  "apkName": "org.nuclearfog.smither_120.apk",
+  "apkName": "org.nuclearfog.smither_121.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6eKUd/hc563I9VP/IK5KDMBBYZSodEI8ZFWWLA04aJ0="
+      "hash": "sha256-5Ot8fCVvAzsJHIvxlNbLtQY7Iiw78KoWvRnZIxqBRqU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6eKUd/hc563I9VP/IK5KDMBBYZSodEI8ZFWWLA04aJ0="
+      "hash": "sha256-5Ot8fCVvAzsJHIvxlNbLtQY7Iiw78KoWvRnZIxqBRqU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6eKUd/hc563I9VP/IK5KDMBBYZSodEI8ZFWWLA04aJ0="
+      "hash": "sha256-5Ot8fCVvAzsJHIvxlNbLtQY7Iiw78KoWvRnZIxqBRqU="
     }
   },
-  "version": "3.6.4"
+  "version": "3.6.5"
 }

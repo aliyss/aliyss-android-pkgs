@@ -1,18 +1,18 @@
 {
-  "apkName": "chromahub.rhythm.app_534401160.apk",
+  "apkName": "chromahub.rhythm.app_554871274.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-g4a4U/1op8AFqro32JVyYBbDiHY3NQDXA9RKfXOTC/A="
+      "hash": "sha256-dnfqK2anzcjJDa9wZZGVNywvubqvlayHU1Lt+Q6giZg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-g4a4U/1op8AFqro32JVyYBbDiHY3NQDXA9RKfXOTC/A="
+      "hash": "sha256-dnfqK2anzcjJDa9wZZGVNywvubqvlayHU1Lt+Q6giZg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-g4a4U/1op8AFqro32JVyYBbDiHY3NQDXA9RKfXOTC/A="
+      "hash": "sha256-dnfqK2anzcjJDa9wZZGVNywvubqvlayHU1Lt+Q6giZg="
     }
   },
-  "version": "5.3.440.1160-fdroid"
+  "version": "5.5.487.1274-fdroid"
 }

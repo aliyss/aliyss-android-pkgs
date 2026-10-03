@@ -1,18 +1,18 @@
 {
-  "apkName": "com.nerdoftheherd.tasker.rsync_541.apk",
+  "apkName": "com.nerdoftheherd.tasker.rsync_565.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-X16wxnN9Yr+i6pndPG7D7GaEzlLhhYhrePAyUOOL3YM="
+      "hash": "sha256-zaOAS6fRHNZDm2vFUL0tC16L6tpJpK5kQsT5JYsAmRM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-X16wxnN9Yr+i6pndPG7D7GaEzlLhhYhrePAyUOOL3YM="
+      "hash": "sha256-zaOAS6fRHNZDm2vFUL0tC16L6tpJpK5kQsT5JYsAmRM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-X16wxnN9Yr+i6pndPG7D7GaEzlLhhYhrePAyUOOL3YM="
+      "hash": "sha256-zaOAS6fRHNZDm2vFUL0tC16L6tpJpK5kQsT5JYsAmRM="
     }
   },
-  "version": "0.19"
+  "version": "0.20"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.flux_18.apk",
+  "apkName": "com.flux_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-nlaVlfIdd56ACDemqj9YoAAgxT2uF9vSnNUOPXaW4yw="
+      "hash": "sha256-Luq8j4rStHLEnBCMPiv51/38grq4jiiOqnEmZls8qUo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nlaVlfIdd56ACDemqj9YoAAgxT2uF9vSnNUOPXaW4yw="
+      "hash": "sha256-Luq8j4rStHLEnBCMPiv51/38grq4jiiOqnEmZls8qUo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nlaVlfIdd56ACDemqj9YoAAgxT2uF9vSnNUOPXaW4yw="
+      "hash": "sha256-Luq8j4rStHLEnBCMPiv51/38grq4jiiOqnEmZls8qUo="
     }
   },
-  "version": "3.2.1"
+  "version": "3.2.3"
 }

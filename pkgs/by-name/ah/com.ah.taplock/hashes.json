@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ah.taplock_19.apk",
+  "apkName": "com.ah.taplock_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-XuKxcpAJfcLW604vM8IXDcUGHIkp8qKmM8qsSrc1sjY="
+      "hash": "sha256-JHV8IGzD917ZrT9LH/zmAkWWrzQO3XxcPhmdwvHidJA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XuKxcpAJfcLW604vM8IXDcUGHIkp8qKmM8qsSrc1sjY="
+      "hash": "sha256-JHV8IGzD917ZrT9LH/zmAkWWrzQO3XxcPhmdwvHidJA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XuKxcpAJfcLW604vM8IXDcUGHIkp8qKmM8qsSrc1sjY="
+      "hash": "sha256-JHV8IGzD917ZrT9LH/zmAkWWrzQO3XxcPhmdwvHidJA="
     }
   },
-  "version": "1.15"
+  "version": "1.17"
 }

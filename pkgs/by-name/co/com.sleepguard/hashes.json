@@ -1,18 +1,18 @@
 {
-  "apkName": "com.sleepguard_13.apk",
+  "apkName": "com.sleepguard_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-mG7J4hVnCCZU2amUblisGUoaQc6ZvP1/jzpr8sGRvqk="
+      "hash": "sha256-LwqSBWv67wtxm12f+IhFjHgDYzUDzUbw30vTNYnTitc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mG7J4hVnCCZU2amUblisGUoaQc6ZvP1/jzpr8sGRvqk="
+      "hash": "sha256-LwqSBWv67wtxm12f+IhFjHgDYzUDzUbw30vTNYnTitc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mG7J4hVnCCZU2amUblisGUoaQc6ZvP1/jzpr8sGRvqk="
+      "hash": "sha256-LwqSBWv67wtxm12f+IhFjHgDYzUDzUbw30vTNYnTitc="
     }
   },
-  "version": "1.6.1"
+  "version": "1.7.0"
 }

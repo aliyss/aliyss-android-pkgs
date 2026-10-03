@@ -1,18 +1,18 @@
 {
-  "apkName": "com.autismprime.fall_3.apk",
+  "apkName": "com.autismprime.fall_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-fGh1eKP3rqfKT76iR0S7POuypeAeTaz5IsDXg50hBUs="
+      "hash": "sha256-pLb6MKAtt69/IbBk63qETvg5T6z9RRXRG1Ut8r+aCCg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fGh1eKP3rqfKT76iR0S7POuypeAeTaz5IsDXg50hBUs="
+      "hash": "sha256-pLb6MKAtt69/IbBk63qETvg5T6z9RRXRG1Ut8r+aCCg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fGh1eKP3rqfKT76iR0S7POuypeAeTaz5IsDXg50hBUs="
+      "hash": "sha256-pLb6MKAtt69/IbBk63qETvg5T6z9RRXRG1Ut8r+aCCg="
     }
   },
-  "version": "1.2"
+  "version": "1.3"
 }

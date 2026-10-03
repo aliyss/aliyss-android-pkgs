@@ -1,18 +1,18 @@
 {
-  "apkName": "com.sobuumedia.sobuu_14.apk",
+  "apkName": "com.sobuumedia.sobuu_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ohTR0n/aib7vAjmitLEFkhqletJG23LYqvlVkXvJzxk="
+      "hash": "sha256-+p2aQaP/9iOXnbKzhCflhb7b+6j8st4D79OKZL9uNRw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ohTR0n/aib7vAjmitLEFkhqletJG23LYqvlVkXvJzxk="
+      "hash": "sha256-+p2aQaP/9iOXnbKzhCflhb7b+6j8st4D79OKZL9uNRw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ohTR0n/aib7vAjmitLEFkhqletJG23LYqvlVkXvJzxk="
+      "hash": "sha256-+p2aQaP/9iOXnbKzhCflhb7b+6j8st4D79OKZL9uNRw="
     }
   },
-  "version": "1.4.4"
+  "version": "1.5.0"
 }

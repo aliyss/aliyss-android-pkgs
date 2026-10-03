@@ -1,18 +1,18 @@
 {
-  "apkName": "com.donnnno.arcticons.light_1550.apk",
+  "apkName": "com.donnnno.arcticons.light_1570.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-n2AqdMMigI81nwlae6FGxX8/VbDNOXMcd/ies8WUCTw="
+      "hash": "sha256-6sp0I+g2xUXR2sWtr8foDJHmmVJvbA3R1XhQwmiaJ14="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-n2AqdMMigI81nwlae6FGxX8/VbDNOXMcd/ies8WUCTw="
+      "hash": "sha256-6sp0I+g2xUXR2sWtr8foDJHmmVJvbA3R1XhQwmiaJ14="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-n2AqdMMigI81nwlae6FGxX8/VbDNOXMcd/ies8WUCTw="
+      "hash": "sha256-6sp0I+g2xUXR2sWtr8foDJHmmVJvbA3R1XhQwmiaJ14="
     }
   },
-  "version": "14.9.1"
+  "version": "15.3.2"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.livingwithhippos.unchained_60.apk",
+  "apkName": "com.github.livingwithhippos.unchained_62.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-v4BLA9fTeEr4R83GM8m6GcAOuiasQtd3hCDymlBxzac="
+      "hash": "sha256-rP+FRJymxdEBqBEo5bGcIu4WIVaSqZn0AKrkfdJXKa8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-v4BLA9fTeEr4R83GM8m6GcAOuiasQtd3hCDymlBxzac="
+      "hash": "sha256-rP+FRJymxdEBqBEo5bGcIu4WIVaSqZn0AKrkfdJXKa8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-v4BLA9fTeEr4R83GM8m6GcAOuiasQtd3hCDymlBxzac="
+      "hash": "sha256-rP+FRJymxdEBqBEo5bGcIu4WIVaSqZn0AKrkfdJXKa8="
     }
   },
-  "version": "1.7.1"
+  "version": "1.8.1"
 }

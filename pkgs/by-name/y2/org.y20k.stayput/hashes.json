@@ -1,18 +1,18 @@
 {
-  "apkName": "org.y20k.stayput_11.apk",
+  "apkName": "org.y20k.stayput_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-EdPgMzr3pU8p4vuVo1vZXUKs57YzLkij3hEy+GzVqx8="
+      "hash": "sha256-1DDgvxtd8EIO3EOOj4ZaGQxdR7Q/jUXUeSC6Q7pCJp8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EdPgMzr3pU8p4vuVo1vZXUKs57YzLkij3hEy+GzVqx8="
+      "hash": "sha256-1DDgvxtd8EIO3EOOj4ZaGQxdR7Q/jUXUeSC6Q7pCJp8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EdPgMzr3pU8p4vuVo1vZXUKs57YzLkij3hEy+GzVqx8="
+      "hash": "sha256-1DDgvxtd8EIO3EOOj4ZaGQxdR7Q/jUXUeSC6Q7pCJp8="
     }
   },
-  "version": "0.8.10"
+  "version": "0.8.11"
 }

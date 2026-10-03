@@ -1,18 +1,18 @@
 {
-  "apkName": "org.moire.opensudoku_20260625.apk",
+  "apkName": "org.moire.opensudoku_20260923.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-O+CSWLOn2M6jKufgSUTQnkYD6y/zQPUnuvHNaImbbsk="
+      "hash": "sha256-xXgRPBS3lIqzV17gOl4eAL5jHXM5Lu/EO9VH7SBz38k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-O+CSWLOn2M6jKufgSUTQnkYD6y/zQPUnuvHNaImbbsk="
+      "hash": "sha256-xXgRPBS3lIqzV17gOl4eAL5jHXM5Lu/EO9VH7SBz38k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-O+CSWLOn2M6jKufgSUTQnkYD6y/zQPUnuvHNaImbbsk="
+      "hash": "sha256-xXgRPBS3lIqzV17gOl4eAL5jHXM5Lu/EO9VH7SBz38k="
     }
   },
-  "version": "4.7.0"
+  "version": "4.11.1"
 }

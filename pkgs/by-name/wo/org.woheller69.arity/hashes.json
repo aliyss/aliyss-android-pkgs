@@ -1,18 +1,18 @@
 {
-  "apkName": "org.woheller69.arity_158.apk",
+  "apkName": "org.woheller69.arity_159.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-nsbdIeiYTBT1n0wVIF0iQoOxUmN6gQiNqEWPm5qtK9U="
+      "hash": "sha256-LeYB5nEOkjafYWX6bjlKttGzf5WdXtatHSNekci0Y4c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nsbdIeiYTBT1n0wVIF0iQoOxUmN6gQiNqEWPm5qtK9U="
+      "hash": "sha256-LeYB5nEOkjafYWX6bjlKttGzf5WdXtatHSNekci0Y4c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nsbdIeiYTBT1n0wVIF0iQoOxUmN6gQiNqEWPm5qtK9U="
+      "hash": "sha256-LeYB5nEOkjafYWX6bjlKttGzf5WdXtatHSNekci0Y4c="
     }
   },
-  "version": "1.58"
+  "version": "1.59"
 }

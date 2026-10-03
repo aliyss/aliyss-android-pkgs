@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.premnirmal.tickerwidget_400100002.apk",
+  "apkName": "com.github.premnirmal.tickerwidget_400100003.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-s0na8cmH7FOaOqSRrFLP2wZ9DZHffrS7ROHVE2j5GZ4="
+      "hash": "sha256-tag02Eku6DduNDbjM+y9ex5VpqIxXtrIO+EMVmUgDaU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-s0na8cmH7FOaOqSRrFLP2wZ9DZHffrS7ROHVE2j5GZ4="
+      "hash": "sha256-tag02Eku6DduNDbjM+y9ex5VpqIxXtrIO+EMVmUgDaU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-s0na8cmH7FOaOqSRrFLP2wZ9DZHffrS7ROHVE2j5GZ4="
+      "hash": "sha256-tag02Eku6DduNDbjM+y9ex5VpqIxXtrIO+EMVmUgDaU="
     }
   },
-  "version": "4.1.002"
+  "version": "4.1.003"
 }

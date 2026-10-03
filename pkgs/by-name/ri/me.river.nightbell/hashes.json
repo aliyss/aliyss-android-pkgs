@@ -1,18 +1,18 @@
 {
-  "apkName": "me.river.nightbell_27.apk",
+  "apkName": "me.river.nightbell_43.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/nyWZDSXva2XeyDUdSq9ahfJfk6SxZDi3yHszWpoqsg="
+      "hash": "sha256-xrYjabzbyl3mD0w2wcew0NsaWQZGL2ojoc22LuZgKhc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/nyWZDSXva2XeyDUdSq9ahfJfk6SxZDi3yHszWpoqsg="
+      "hash": "sha256-xrYjabzbyl3mD0w2wcew0NsaWQZGL2ojoc22LuZgKhc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/nyWZDSXva2XeyDUdSq9ahfJfk6SxZDi3yHszWpoqsg="
+      "hash": "sha256-xrYjabzbyl3mD0w2wcew0NsaWQZGL2ojoc22LuZgKhc="
     }
   },
-  "version": "3.0.5"
+  "version": "3.14.0"
 }

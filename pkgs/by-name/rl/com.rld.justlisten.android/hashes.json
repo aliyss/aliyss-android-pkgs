@@ -1,18 +1,18 @@
 {
-  "apkName": "com.rld.justlisten.android_31.apk",
+  "apkName": "com.rld.justlisten.android_32.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-PLfqHCKYEck39qah2CqgRRhs7etTpPJMEakpc4fXKpA="
+      "hash": "sha256-pDvX4GqVdFCldL9mheC38P63l2oGsvyUTLe46+YcU9o="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PLfqHCKYEck39qah2CqgRRhs7etTpPJMEakpc4fXKpA="
+      "hash": "sha256-pDvX4GqVdFCldL9mheC38P63l2oGsvyUTLe46+YcU9o="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PLfqHCKYEck39qah2CqgRRhs7etTpPJMEakpc4fXKpA="
+      "hash": "sha256-pDvX4GqVdFCldL9mheC38P63l2oGsvyUTLe46+YcU9o="
     }
   },
-  "version": "2.0.3"
+  "version": "2.1.0"
 }

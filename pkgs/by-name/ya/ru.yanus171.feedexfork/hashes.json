@@ -1,18 +1,18 @@
 {
-  "apkName": "ru.yanus171.feedexfork_339.apk",
+  "apkName": "ru.yanus171.feedexfork_341.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Tr7NLQlemH8NGxQA7RqXoPEXCfk65KhSIzKp1lTI1+M="
+      "hash": "sha256-A+fYj5LuPekpxbHFQpYhjax6jrA7UeErt351UYaGtlM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Tr7NLQlemH8NGxQA7RqXoPEXCfk65KhSIzKp1lTI1+M="
+      "hash": "sha256-A+fYj5LuPekpxbHFQpYhjax6jrA7UeErt351UYaGtlM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Tr7NLQlemH8NGxQA7RqXoPEXCfk65KhSIzKp1lTI1+M="
+      "hash": "sha256-A+fYj5LuPekpxbHFQpYhjax6jrA7UeErt351UYaGtlM="
     }
   },
-  "version": "1.1.4"
+  "version": "1.1.6"
 }

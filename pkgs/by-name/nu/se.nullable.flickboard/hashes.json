@@ -1,18 +1,18 @@
 {
-  "apkName": "se.nullable.flickboard_112.apk",
+  "apkName": "se.nullable.flickboard_116.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KRitgiOtkrrOgITJMDpnI/soO4ov+rgprwRrBqfrJf8="
+      "hash": "sha256-Zhe22S9w0n9wStpuO8AP7XNOwtd2WQGQm7fdW31uYcg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KRitgiOtkrrOgITJMDpnI/soO4ov+rgprwRrBqfrJf8="
+      "hash": "sha256-Zhe22S9w0n9wStpuO8AP7XNOwtd2WQGQm7fdW31uYcg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KRitgiOtkrrOgITJMDpnI/soO4ov+rgprwRrBqfrJf8="
+      "hash": "sha256-Zhe22S9w0n9wStpuO8AP7XNOwtd2WQGQm7fdW31uYcg="
     }
   },
-  "version": "0.3.4.1"
+  "version": "0.3.5"
 }

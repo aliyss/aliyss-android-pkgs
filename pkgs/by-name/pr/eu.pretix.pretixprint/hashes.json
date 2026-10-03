@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.pretix.pretixprint_84.apk",
+  "apkName": "eu.pretix.pretixprint_85.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-v2fg14uo0YRZzej8U3KPg9s6QwRyM8ZyRogKq2ZzbKI="
+      "hash": "sha256-TfnrlNNZZiIbbeS36etR20wpHvruVTNgTSW+GOlGZlM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-v2fg14uo0YRZzej8U3KPg9s6QwRyM8ZyRogKq2ZzbKI="
+      "hash": "sha256-TfnrlNNZZiIbbeS36etR20wpHvruVTNgTSW+GOlGZlM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-v2fg14uo0YRZzej8U3KPg9s6QwRyM8ZyRogKq2ZzbKI="
+      "hash": "sha256-TfnrlNNZZiIbbeS36etR20wpHvruVTNgTSW+GOlGZlM="
     }
   },
-  "version": "2.23.0-foss"
+  "version": "2.24.0-foss"
 }

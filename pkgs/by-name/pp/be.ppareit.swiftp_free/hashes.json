@@ -1,18 +1,18 @@
 {
-  "apkName": "be.ppareit.swiftp_free_30100.apk",
+  "apkName": "be.ppareit.swiftp_free_30500.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SbiXfz0EqaGEEUreTHyL8i45VCl0r5COicYIuLN0zpI="
+      "hash": "sha256-SwSAce0dz+uqws+fnX46lKbWoZZf0bthevF4bUy0wUA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SbiXfz0EqaGEEUreTHyL8i45VCl0r5COicYIuLN0zpI="
+      "hash": "sha256-SwSAce0dz+uqws+fnX46lKbWoZZf0bthevF4bUy0wUA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SbiXfz0EqaGEEUreTHyL8i45VCl0r5COicYIuLN0zpI="
+      "hash": "sha256-SwSAce0dz+uqws+fnX46lKbWoZZf0bthevF4bUy0wUA="
     }
   },
-  "version": "3.1"
+  "version": "3.5.0"
 }

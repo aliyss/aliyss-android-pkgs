@@ -1,18 +1,18 @@
 {
-  "apkName": "com.tunefriend.app_58.apk",
+  "apkName": "com.tunefriend.app_64.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tUNOu2X6SgqKZGzULwoMdy0IV/vf+4N211DFQg3nxe8="
+      "hash": "sha256-nUeYgzHCm09b09DzAIf+9lilE3lOgl2HkzQkDQFBv8A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tUNOu2X6SgqKZGzULwoMdy0IV/vf+4N211DFQg3nxe8="
+      "hash": "sha256-nUeYgzHCm09b09DzAIf+9lilE3lOgl2HkzQkDQFBv8A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tUNOu2X6SgqKZGzULwoMdy0IV/vf+4N211DFQg3nxe8="
+      "hash": "sha256-nUeYgzHCm09b09DzAIf+9lilE3lOgl2HkzQkDQFBv8A="
     }
   },
-  "version": "2.44"
+  "version": "2.47"
 }

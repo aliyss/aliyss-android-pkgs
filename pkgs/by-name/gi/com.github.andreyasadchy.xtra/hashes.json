@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.andreyasadchy.xtra_348.apk",
+  "apkName": "com.github.andreyasadchy.xtra_360.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ag1E5NAyydtEAneLVv2d9N++VRzWMyScRY0GGGg8YHw="
+      "hash": "sha256-E+h6SIUj2fCpcTE2DqWnGWjUnja0XZhgZVXULr86FPE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ag1E5NAyydtEAneLVv2d9N++VRzWMyScRY0GGGg8YHw="
+      "hash": "sha256-E+h6SIUj2fCpcTE2DqWnGWjUnja0XZhgZVXULr86FPE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ag1E5NAyydtEAneLVv2d9N++VRzWMyScRY0GGGg8YHw="
+      "hash": "sha256-E+h6SIUj2fCpcTE2DqWnGWjUnja0XZhgZVXULr86FPE="
     }
   },
-  "version": "2.58.5"
+  "version": "2.60.5"
 }
