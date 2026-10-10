@@ -1,18 +1,18 @@
 {
-  "apkName": "itkach.aard2_58.apk",
+  "apkName": "itkach.aard2_59.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Ch57IWQ5iUoRuH1iHjrJQG+VD7c6vXmDQUQHyz+Tczo="
+      "hash": "sha256-EG3msRMKxvET/zh61l3sQJ3tk/RSu/7f8Rfs7pObh9M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ch57IWQ5iUoRuH1iHjrJQG+VD7c6vXmDQUQHyz+Tczo="
+      "hash": "sha256-EG3msRMKxvET/zh61l3sQJ3tk/RSu/7f8Rfs7pObh9M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ch57IWQ5iUoRuH1iHjrJQG+VD7c6vXmDQUQHyz+Tczo="
+      "hash": "sha256-EG3msRMKxvET/zh61l3sQJ3tk/RSu/7f8Rfs7pObh9M="
     }
   },
-  "version": "0.58"
+  "version": "0.59"
 }

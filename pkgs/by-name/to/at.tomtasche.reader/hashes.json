@@ -1,18 +1,18 @@
 {
-  "apkName": "at.tomtasche.reader_41400.apk",
+  "apkName": "at.tomtasche.reader_42100.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7toQfc/cQcL8U0s+JTKJv20jyw9sIIXTG8g+fJ8UU4c="
+      "hash": "sha256-SsyX/dOx71rH+S0ABYqTfwrQ66h3JcVbzt1IV0QGatg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7toQfc/cQcL8U0s+JTKJv20jyw9sIIXTG8g+fJ8UU4c="
+      "hash": "sha256-SsyX/dOx71rH+S0ABYqTfwrQ66h3JcVbzt1IV0QGatg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7toQfc/cQcL8U0s+JTKJv20jyw9sIIXTG8g+fJ8UU4c="
+      "hash": "sha256-SsyX/dOx71rH+S0ABYqTfwrQ66h3JcVbzt1IV0QGatg="
     }
   },
-  "version": "4.14.0"
+  "version": "4.21.0"
 }

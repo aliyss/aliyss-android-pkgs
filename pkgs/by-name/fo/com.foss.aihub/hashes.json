@@ -1,18 +1,18 @@
 {
-  "apkName": "com.foss.aihub_13.apk",
+  "apkName": "com.foss.aihub_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2WoSUZvR5DkaCPZOKgVXB4DsLH0JMyLUEO9yHCJLMAg="
+      "hash": "sha256-8nC13C4vghma5QvsWOkLqBU7FYiYG8M2o6QGuF6cVcM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2WoSUZvR5DkaCPZOKgVXB4DsLH0JMyLUEO9yHCJLMAg="
+      "hash": "sha256-8nC13C4vghma5QvsWOkLqBU7FYiYG8M2o6QGuF6cVcM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2WoSUZvR5DkaCPZOKgVXB4DsLH0JMyLUEO9yHCJLMAg="
+      "hash": "sha256-8nC13C4vghma5QvsWOkLqBU7FYiYG8M2o6QGuF6cVcM="
     }
   },
-  "version": "3.0.0"
+  "version": "3.0.1"
 }

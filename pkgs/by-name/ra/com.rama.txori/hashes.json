@@ -1,18 +1,18 @@
 {
-  "apkName": "com.rama.txori_15.apk",
+  "apkName": "com.rama.txori_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2wCMfYuVCk8rvSa5EFFnG4ylBUk+Y+KSo/eL2t3KoC4="
+      "hash": "sha256-SRM1Z3mqU4i8pus96rc69InFIeJBoe2VQ+uUv270pMU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2wCMfYuVCk8rvSa5EFFnG4ylBUk+Y+KSo/eL2t3KoC4="
+      "hash": "sha256-SRM1Z3mqU4i8pus96rc69InFIeJBoe2VQ+uUv270pMU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2wCMfYuVCk8rvSa5EFFnG4ylBUk+Y+KSo/eL2t3KoC4="
+      "hash": "sha256-SRM1Z3mqU4i8pus96rc69InFIeJBoe2VQ+uUv270pMU="
     }
   },
-  "version": "2026.15"
+  "version": "2026.18"
 }

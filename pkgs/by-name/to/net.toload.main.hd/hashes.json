@@ -1,18 +1,18 @@
 {
-  "apkName": "net.toload.main.hd_750.apk",
+  "apkName": "net.toload.main.hd_760.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-xUOnuCV6JWkse+0alE/cMtKJrYRhFfRnw2d3gr/cOvA="
+      "hash": "sha256-dwy3aoF5WShuSVlHeU6c/HW0lId1ZwhyODKwrV3GqCM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xUOnuCV6JWkse+0alE/cMtKJrYRhFfRnw2d3gr/cOvA="
+      "hash": "sha256-dwy3aoF5WShuSVlHeU6c/HW0lId1ZwhyODKwrV3GqCM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xUOnuCV6JWkse+0alE/cMtKJrYRhFfRnw2d3gr/cOvA="
+      "hash": "sha256-dwy3aoF5WShuSVlHeU6c/HW0lId1ZwhyODKwrV3GqCM="
     }
   },
-  "version": "7.5.0"
+  "version": "7.6.0"
 }

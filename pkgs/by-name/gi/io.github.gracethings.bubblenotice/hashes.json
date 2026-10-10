@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.gracethings.bubblenotice_15.apk",
+  "apkName": "io.github.gracethings.bubblenotice_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-egXLkzAkMlNYMUTyu7DVBItGwWRrjof5n689F8zChDc="
+      "hash": "sha256-qgKEsuwPKsNkIN5zRdc+ob4ogWQ08aup+/ZG0LOlgHI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-egXLkzAkMlNYMUTyu7DVBItGwWRrjof5n689F8zChDc="
+      "hash": "sha256-qgKEsuwPKsNkIN5zRdc+ob4ogWQ08aup+/ZG0LOlgHI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-egXLkzAkMlNYMUTyu7DVBItGwWRrjof5n689F8zChDc="
+      "hash": "sha256-qgKEsuwPKsNkIN5zRdc+ob4ogWQ08aup+/ZG0LOlgHI="
     }
   },
-  "version": "1.0.4"
+  "version": "1.0.8"
 }

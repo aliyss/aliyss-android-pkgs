@@ -1,18 +1,18 @@
 {
-  "apkName": "com.fpf.smartscan_23.apk",
+  "apkName": "com.fpf.smartscan_25.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-dEao8tS9NK8hUB+onUXYTHC+ZWpIbCMQVb1FNOTVtFk="
+      "hash": "sha256-J44wq+aG+sXSFog2N6Cso+cQ3QYap1CSKpi+iSMX3Jg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dEao8tS9NK8hUB+onUXYTHC+ZWpIbCMQVb1FNOTVtFk="
+      "hash": "sha256-J44wq+aG+sXSFog2N6Cso+cQ3QYap1CSKpi+iSMX3Jg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dEao8tS9NK8hUB+onUXYTHC+ZWpIbCMQVb1FNOTVtFk="
+      "hash": "sha256-J44wq+aG+sXSFog2N6Cso+cQ3QYap1CSKpi+iSMX3Jg="
     }
   },
-  "version": "1.3.4"
+  "version": "2.0.1"
 }

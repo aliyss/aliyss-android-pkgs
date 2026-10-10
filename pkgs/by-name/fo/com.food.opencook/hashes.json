@@ -1,18 +1,18 @@
 {
-  "apkName": "com.food.opencook_2.apk",
+  "apkName": "com.food.opencook_3.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-xZtg8OEhuZRIeUu1OrSeRgxIn2bJKt0bWDJY4JHZHdI="
+      "hash": "sha256-bKRxt8HXW0ME3laE71+shibMBd1fcDzg0d7AM0DCxjc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xZtg8OEhuZRIeUu1OrSeRgxIn2bJKt0bWDJY4JHZHdI="
+      "hash": "sha256-bKRxt8HXW0ME3laE71+shibMBd1fcDzg0d7AM0DCxjc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xZtg8OEhuZRIeUu1OrSeRgxIn2bJKt0bWDJY4JHZHdI="
+      "hash": "sha256-bKRxt8HXW0ME3laE71+shibMBd1fcDzg0d7AM0DCxjc="
     }
   },
-  "version": "0.2"
+  "version": "0.3"
 }

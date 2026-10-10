@@ -1,18 +1,18 @@
 {
-  "apkName": "com.aistudio.snoredetector.afkwd_1.apk",
+  "apkName": "com.aistudio.snoredetector.afkwd_2.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-csx5VB0DjFoTm9VMEkf0A9CscPh8TIEMZqdujPa6aw8="
+      "hash": "sha256-X9yP1wkQX9b4umFI2StvanEHTaUzyTWHX1/dO+uyLas="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-csx5VB0DjFoTm9VMEkf0A9CscPh8TIEMZqdujPa6aw8="
+      "hash": "sha256-X9yP1wkQX9b4umFI2StvanEHTaUzyTWHX1/dO+uyLas="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-csx5VB0DjFoTm9VMEkf0A9CscPh8TIEMZqdujPa6aw8="
+      "hash": "sha256-X9yP1wkQX9b4umFI2StvanEHTaUzyTWHX1/dO+uyLas="
     }
   },
-  "version": "1.0.0"
+  "version": "1.1.0"
 }

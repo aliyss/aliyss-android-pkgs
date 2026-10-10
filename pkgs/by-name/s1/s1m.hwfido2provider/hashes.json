@@ -1,18 +1,18 @@
 {
-  "apkName": "s1m.hwfido2provider_10.apk",
+  "apkName": "s1m.hwfido2provider_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-g0BWJP0M+YFkShDMLGaLnPQ97n4nz4KNtJiwYCQ8rRI="
+      "hash": "sha256-naGa0tdJ+VBEIuIjKyAEPV682empOk4QSYQ3p6EyONU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-g0BWJP0M+YFkShDMLGaLnPQ97n4nz4KNtJiwYCQ8rRI="
+      "hash": "sha256-naGa0tdJ+VBEIuIjKyAEPV682empOk4QSYQ3p6EyONU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-g0BWJP0M+YFkShDMLGaLnPQ97n4nz4KNtJiwYCQ8rRI="
+      "hash": "sha256-naGa0tdJ+VBEIuIjKyAEPV682empOk4QSYQ3p6EyONU="
     }
   },
-  "version": "1.0.1"
+  "version": "1.1.1-rc1"
 }

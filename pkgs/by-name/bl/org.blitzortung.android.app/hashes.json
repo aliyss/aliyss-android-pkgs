@@ -1,18 +1,18 @@
 {
-  "apkName": "org.blitzortung.android.app_352.apk",
+  "apkName": "org.blitzortung.android.app_358.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-xfICrmdvCcaoxC1yQLUc2unGIYyjkZa9NBvrBG18XDo="
+      "hash": "sha256-xDREwLfBemhC2WkD+4e6nhTtis2lsrubqsZStIcPasE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xfICrmdvCcaoxC1yQLUc2unGIYyjkZa9NBvrBG18XDo="
+      "hash": "sha256-xDREwLfBemhC2WkD+4e6nhTtis2lsrubqsZStIcPasE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xfICrmdvCcaoxC1yQLUc2unGIYyjkZa9NBvrBG18XDo="
+      "hash": "sha256-xDREwLfBemhC2WkD+4e6nhTtis2lsrubqsZStIcPasE="
     }
   },
-  "version": "2.5.2"
+  "version": "2.5.4"
 }

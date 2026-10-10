@@ -1,4 +1,17 @@
 {
-  "version": "",
-  "architectures": {}
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-nWo/5xB97tuJ9dDPisNFsWS66uEUQC2itP8J44qASeA="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nWo/5xB97tuJ9dDPisNFsWS66uEUQC2itP8J44qASeA="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-nWo/5xB97tuJ9dDPisNFsWS66uEUQC2itP8J44qASeA="
+    }
+  },
+  "version": "8.5.2819"
 }

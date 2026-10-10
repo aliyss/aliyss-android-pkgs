@@ -1,18 +1,18 @@
 {
-  "apkName": "it.reyboz.bustorino_76.apk",
+  "apkName": "it.reyboz.bustorino_77.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+kQAAg1+cAWRFnclp5cRFdlxRxOjxceubYeP0O2iTaI="
+      "hash": "sha256-bAAvcQ+19/ZXaSaKOW9rspjszuw/jpqy0lDuZPhuieM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+kQAAg1+cAWRFnclp5cRFdlxRxOjxceubYeP0O2iTaI="
+      "hash": "sha256-bAAvcQ+19/ZXaSaKOW9rspjszuw/jpqy0lDuZPhuieM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+kQAAg1+cAWRFnclp5cRFdlxRxOjxceubYeP0O2iTaI="
+      "hash": "sha256-bAAvcQ+19/ZXaSaKOW9rspjszuw/jpqy0lDuZPhuieM="
     }
   },
-  "version": "2.6.46"
+  "version": "2.6.5"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "page.ooooo.geoshare_45.apk",
+  "apkName": "page.ooooo.geoshare_50.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-fzANtx02iKuUVmhw7h86r2pRQq6rBd2KdmLA00ID0Ac="
+      "hash": "sha256-rGMLRpN02YnYfqeJYLHvzoDfXlJZ9aOPbRoPXQ2D99w="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fzANtx02iKuUVmhw7h86r2pRQq6rBd2KdmLA00ID0Ac="
+      "hash": "sha256-rGMLRpN02YnYfqeJYLHvzoDfXlJZ9aOPbRoPXQ2D99w="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fzANtx02iKuUVmhw7h86r2pRQq6rBd2KdmLA00ID0Ac="
+      "hash": "sha256-rGMLRpN02YnYfqeJYLHvzoDfXlJZ9aOPbRoPXQ2D99w="
     }
   },
-  "version": "6.5.0"
+  "version": "6.9.0"
 }

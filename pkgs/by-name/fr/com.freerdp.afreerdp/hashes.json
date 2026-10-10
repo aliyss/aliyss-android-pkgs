@@ -1,18 +1,18 @@
 {
-  "apkName": "com.freerdp.afreerdp_3026000.apk",
+  "apkName": "com.freerdp.afreerdp_3320109.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+rlQaqsIR9W2rnK8Kv8LF30cXTT0EI/pQXyjFMh7fn8="
+      "hash": "sha256-2FUYQjA1O8f+DuRmy4vv9BV2HSJ7ds01fbCrOx+wpg4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+rlQaqsIR9W2rnK8Kv8LF30cXTT0EI/pQXyjFMh7fn8="
+      "hash": "sha256-2FUYQjA1O8f+DuRmy4vv9BV2HSJ7ds01fbCrOx+wpg4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+rlQaqsIR9W2rnK8Kv8LF30cXTT0EI/pQXyjFMh7fn8="
+      "hash": "sha256-2FUYQjA1O8f+DuRmy4vv9BV2HSJ7ds01fbCrOx+wpg4="
     }
   },
-  "version": "3.26.0"
+  "version": "3.32.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "app.simple.peri_974.apk",
+  "apkName": "app.simple.peri_981.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VZPEBmWzAqkZowaXEIlH2UQM4uYMv209+xfOZ4MHeQ0="
+      "hash": "sha256-zJth0qCfqClPiaPnz5BI4vcnuComNxorBsrUcUumQn8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VZPEBmWzAqkZowaXEIlH2UQM4uYMv209+xfOZ4MHeQ0="
+      "hash": "sha256-zJth0qCfqClPiaPnz5BI4vcnuComNxorBsrUcUumQn8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VZPEBmWzAqkZowaXEIlH2UQM4uYMv209+xfOZ4MHeQ0="
+      "hash": "sha256-zJth0qCfqClPiaPnz5BI4vcnuComNxorBsrUcUumQn8="
     }
   },
-  "version": "v9.7.4"
+  "version": "v9.8.1"
 }

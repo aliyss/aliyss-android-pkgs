@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.cvzi.darkmodewallpaper_65.apk",
+  "apkName": "com.github.cvzi.darkmodewallpaper_66.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2cVlx1r1cne7cbUbcJeLNXEgalK91b+ItlMPf+wvWjY="
+      "hash": "sha256-niZLQ+wHv9D9z+12LXOcYM5Q+K6K13M6AjtQ56DNPTM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2cVlx1r1cne7cbUbcJeLNXEgalK91b+ItlMPf+wvWjY="
+      "hash": "sha256-niZLQ+wHv9D9z+12LXOcYM5Q+K6K13M6AjtQ56DNPTM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2cVlx1r1cne7cbUbcJeLNXEgalK91b+ItlMPf+wvWjY="
+      "hash": "sha256-niZLQ+wHv9D9z+12LXOcYM5Q+K6K13M6AjtQ56DNPTM="
     }
   },
-  "version": "1.9.1"
+  "version": "1.9.2"
 }

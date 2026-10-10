@@ -1,18 +1,18 @@
 {
-  "apkName": "app.getknit.knit_11.apk",
+  "apkName": "app.getknit.knit_25.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TZ4sy/sAFk/PWGv7/S9n5/6NgWiq0NppucvUj4EL9VA="
+      "hash": "sha256-hTfrtK6kL03dtRVmre4oQ2cy8ea9xMvdM5jUgweJgfk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TZ4sy/sAFk/PWGv7/S9n5/6NgWiq0NppucvUj4EL9VA="
+      "hash": "sha256-hTfrtK6kL03dtRVmre4oQ2cy8ea9xMvdM5jUgweJgfk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TZ4sy/sAFk/PWGv7/S9n5/6NgWiq0NppucvUj4EL9VA="
+      "hash": "sha256-hTfrtK6kL03dtRVmre4oQ2cy8ea9xMvdM5jUgweJgfk="
     }
   },
-  "version": "2.2.2"
+  "version": "2.8.0"
 }

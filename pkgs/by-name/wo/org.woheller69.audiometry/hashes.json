@@ -1,18 +1,18 @@
 {
-  "apkName": "org.woheller69.audiometry_220.apk",
+  "apkName": "org.woheller69.audiometry_230.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-EOwNsfEgGlIeB5HAnpPOi4m7wISXHxiV5+pjEVlJHcA="
+      "hash": "sha256-Wek+zZltZbJR3xJLtSykiozgn6xePzL9srgFEMKiCcM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EOwNsfEgGlIeB5HAnpPOi4m7wISXHxiV5+pjEVlJHcA="
+      "hash": "sha256-Wek+zZltZbJR3xJLtSykiozgn6xePzL9srgFEMKiCcM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EOwNsfEgGlIeB5HAnpPOi4m7wISXHxiV5+pjEVlJHcA="
+      "hash": "sha256-Wek+zZltZbJR3xJLtSykiozgn6xePzL9srgFEMKiCcM="
     }
   },
-  "version": "2.2"
+  "version": "2.3"
 }

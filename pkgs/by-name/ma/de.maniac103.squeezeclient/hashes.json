@@ -1,18 +1,18 @@
 {
-  "apkName": "de.maniac103.squeezeclient_11.apk",
+  "apkName": "de.maniac103.squeezeclient_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wTirhv3IPBlt0UqK3z2hK/cuS2v3b0YQKzwjYvcxvKk="
+      "hash": "sha256-3bwM8kx6xyLTksqrfK3D6mxe2NzQSniNG0ZVK5af2lM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wTirhv3IPBlt0UqK3z2hK/cuS2v3b0YQKzwjYvcxvKk="
+      "hash": "sha256-3bwM8kx6xyLTksqrfK3D6mxe2NzQSniNG0ZVK5af2lM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wTirhv3IPBlt0UqK3z2hK/cuS2v3b0YQKzwjYvcxvKk="
+      "hash": "sha256-3bwM8kx6xyLTksqrfK3D6mxe2NzQSniNG0ZVK5af2lM="
     }
   },
-  "version": "2.3"
+  "version": "2.5"
 }

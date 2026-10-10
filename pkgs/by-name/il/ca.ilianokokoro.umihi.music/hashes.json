@@ -1,18 +1,18 @@
 {
-  "apkName": "ca.ilianokokoro.umihi.music_11304.apk",
+  "apkName": "ca.ilianokokoro.umihi.music_11600.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-QXRswmvncHrh3v9T5HaNjB067W9KG4iAbAdqA3u8rnw="
+      "hash": "sha256-npMoiDcx89+qLq+CKYvBNnueCws0uS7GLBviTIqZLVM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-QXRswmvncHrh3v9T5HaNjB067W9KG4iAbAdqA3u8rnw="
+      "hash": "sha256-npMoiDcx89+qLq+CKYvBNnueCws0uS7GLBviTIqZLVM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-QXRswmvncHrh3v9T5HaNjB067W9KG4iAbAdqA3u8rnw="
+      "hash": "sha256-npMoiDcx89+qLq+CKYvBNnueCws0uS7GLBviTIqZLVM="
     }
   },
-  "version": "1.13.4-store"
+  "version": "1.16.0-store"
 }

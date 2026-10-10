@@ -1,18 +1,18 @@
 {
-  "apkName": "com.roozbehzarei.filester_21.apk",
+  "apkName": "com.roozbehzarei.filester_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Em66fY3YffQ1AZSZZ4B+C4pJvupxewIh7Ebuc4y5KFo="
+      "hash": "sha256-6dJ1ABFXM8aB789ePauR7oVix2aUsQvbVVRgF/CVEAc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Em66fY3YffQ1AZSZZ4B+C4pJvupxewIh7Ebuc4y5KFo="
+      "hash": "sha256-6dJ1ABFXM8aB789ePauR7oVix2aUsQvbVVRgF/CVEAc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Em66fY3YffQ1AZSZZ4B+C4pJvupxewIh7Ebuc4y5KFo="
+      "hash": "sha256-6dJ1ABFXM8aB789ePauR7oVix2aUsQvbVVRgF/CVEAc="
     }
   },
-  "version": "3.1.1-foss"
+  "version": "3.3.1-foss"
 }

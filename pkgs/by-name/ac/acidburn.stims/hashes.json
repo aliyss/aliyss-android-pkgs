@@ -1,18 +1,18 @@
 {
-  "apkName": "acidburn.stims_6.apk",
+  "apkName": "acidburn.stims_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ufTxQ8wglaLlp+YN9H9DkUKYLUp2CpzNw/tefQqO+8E="
+      "hash": "sha256-8Q4SVJqGRmPDilCWnMyKsfQJMeErVAuVbXG4xbmyccA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ufTxQ8wglaLlp+YN9H9DkUKYLUp2CpzNw/tefQqO+8E="
+      "hash": "sha256-8Q4SVJqGRmPDilCWnMyKsfQJMeErVAuVbXG4xbmyccA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ufTxQ8wglaLlp+YN9H9DkUKYLUp2CpzNw/tefQqO+8E="
+      "hash": "sha256-8Q4SVJqGRmPDilCWnMyKsfQJMeErVAuVbXG4xbmyccA="
     }
   },
-  "version": "1.4"
+  "version": "1.5"
 }

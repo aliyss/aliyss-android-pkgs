@@ -1,18 +1,18 @@
 {
-  "apkName": "org.ntust.app.tigerduck.fdroid_20.apk",
+  "apkName": "org.ntust.app.tigerduck.fdroid_28.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-F0mtZnqZMYyC2MUdxlGJTZAZT4GvJgnlF00pOVx1uNA="
+      "hash": "sha256-iO4Cee1agNVHMzR2ZBXswo+0g17UQEi69x51GqRAzYs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-F0mtZnqZMYyC2MUdxlGJTZAZT4GvJgnlF00pOVx1uNA="
+      "hash": "sha256-iO4Cee1agNVHMzR2ZBXswo+0g17UQEi69x51GqRAzYs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-F0mtZnqZMYyC2MUdxlGJTZAZT4GvJgnlF00pOVx1uNA="
+      "hash": "sha256-iO4Cee1agNVHMzR2ZBXswo+0g17UQEi69x51GqRAzYs="
     }
   },
-  "version": "1.4.2-fdroid"
+  "version": "2.3.0-fdroid"
 }

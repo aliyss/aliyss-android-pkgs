@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mikifus.padland_33.apk",
+  "apkName": "com.mikifus.padland_34.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5/VMZ70G/90l37nPLO9W5lzpBihMY9KC/9E4Mj/JLl8="
+      "hash": "sha256-Olhp4CP8+xx2w0eva5RlI1VpMUUodBn+rXz+vhwoSYQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5/VMZ70G/90l37nPLO9W5lzpBihMY9KC/9E4Mj/JLl8="
+      "hash": "sha256-Olhp4CP8+xx2w0eva5RlI1VpMUUodBn+rXz+vhwoSYQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5/VMZ70G/90l37nPLO9W5lzpBihMY9KC/9E4Mj/JLl8="
+      "hash": "sha256-Olhp4CP8+xx2w0eva5RlI1VpMUUodBn+rXz+vhwoSYQ="
     }
   },
-  "version": "3.6"
+  "version": "4.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.shinydiscoballsdev.kifossk_3.apk",
+  "apkName": "com.shinydiscoballsdev.kifossk_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5Aw+wvdAJgF5Cmi3aMGiEngmJzl6D/HC+1Me7qAh0JA="
+      "hash": "sha256-ZGa8QWwTWS4dskm7INpPq20pcARwyNI7qRLjs6cT3tc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5Aw+wvdAJgF5Cmi3aMGiEngmJzl6D/HC+1Me7qAh0JA="
+      "hash": "sha256-ZGa8QWwTWS4dskm7INpPq20pcARwyNI7qRLjs6cT3tc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5Aw+wvdAJgF5Cmi3aMGiEngmJzl6D/HC+1Me7qAh0JA="
+      "hash": "sha256-ZGa8QWwTWS4dskm7INpPq20pcARwyNI7qRLjs6cT3tc="
     }
   },
-  "version": "1.0.2"
+  "version": "1.1.2"
 }

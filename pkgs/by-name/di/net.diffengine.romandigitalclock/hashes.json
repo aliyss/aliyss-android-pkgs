@@ -1,18 +1,18 @@
 {
-  "apkName": "net.diffengine.romandigitalclock_17.apk",
+  "apkName": "net.diffengine.romandigitalclock_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kDlMQOD6RTOeHAqCeFKVL/+QwIeU0t4oqyjHPz6IQso="
+      "hash": "sha256-3sVzm0uR/zh204CwbxxGT6RmNAE9tweRkmIkIihBr2o="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kDlMQOD6RTOeHAqCeFKVL/+QwIeU0t4oqyjHPz6IQso="
+      "hash": "sha256-3sVzm0uR/zh204CwbxxGT6RmNAE9tweRkmIkIihBr2o="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kDlMQOD6RTOeHAqCeFKVL/+QwIeU0t4oqyjHPz6IQso="
+      "hash": "sha256-3sVzm0uR/zh204CwbxxGT6RmNAE9tweRkmIkIihBr2o="
     }
   },
-  "version": "3.0.2"
+  "version": "3.1.0"
 }

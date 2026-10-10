@@ -1,18 +1,18 @@
 {
-  "apkName": "com.craigd.lmsmaterial.app_1000.apk",
+  "apkName": "com.craigd.lmsmaterial.app_1001.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-xUnO3y38RAkSIy5hn0l6eC5ifffuLSZkINm3poyew0c="
+      "hash": "sha256-vqg/ifwLwjkWu8n3tnE0KOhET0WPZeNYCpCSLDSGvRI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xUnO3y38RAkSIy5hn0l6eC5ifffuLSZkINm3poyew0c="
+      "hash": "sha256-vqg/ifwLwjkWu8n3tnE0KOhET0WPZeNYCpCSLDSGvRI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xUnO3y38RAkSIy5hn0l6eC5ifffuLSZkINm3poyew0c="
+      "hash": "sha256-vqg/ifwLwjkWu8n3tnE0KOhET0WPZeNYCpCSLDSGvRI="
     }
   },
-  "version": "0.10.0"
+  "version": "0.10.1"
 }

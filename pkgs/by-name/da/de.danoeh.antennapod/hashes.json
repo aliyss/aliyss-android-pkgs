@@ -1,18 +1,18 @@
 {
-  "apkName": "de.danoeh.antennapod_3110495.apk",
+  "apkName": "de.danoeh.antennapod_3120295.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-j67kWflS5i5cEr4YYgkRsBwVtfoO5ndo3PiuHhposJw="
+      "hash": "sha256-P0OkM3ppPNtJFBr+BstZbojHlgCe13v/UelETOLR6/w="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-j67kWflS5i5cEr4YYgkRsBwVtfoO5ndo3PiuHhposJw="
+      "hash": "sha256-P0OkM3ppPNtJFBr+BstZbojHlgCe13v/UelETOLR6/w="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-j67kWflS5i5cEr4YYgkRsBwVtfoO5ndo3PiuHhposJw="
+      "hash": "sha256-P0OkM3ppPNtJFBr+BstZbojHlgCe13v/UelETOLR6/w="
     }
   },
-  "version": "3.11.4"
+  "version": "3.12.2"
 }

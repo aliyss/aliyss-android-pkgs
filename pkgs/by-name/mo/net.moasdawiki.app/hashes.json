@@ -1,18 +1,18 @@
 {
-  "apkName": "net.moasdawiki.app_51.apk",
+  "apkName": "net.moasdawiki.app_53.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rNx6aozlTN4IE1CVKw+wWAwdlCi47Trgf5mNxMH8rpA="
+      "hash": "sha256-5+KI1A3aid+ynl3XLDpGp57R//kpoqgXuzmpmt0Hn18="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rNx6aozlTN4IE1CVKw+wWAwdlCi47Trgf5mNxMH8rpA="
+      "hash": "sha256-5+KI1A3aid+ynl3XLDpGp57R//kpoqgXuzmpmt0Hn18="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rNx6aozlTN4IE1CVKw+wWAwdlCi47Trgf5mNxMH8rpA="
+      "hash": "sha256-5+KI1A3aid+ynl3XLDpGp57R//kpoqgXuzmpmt0Hn18="
     }
   },
-  "version": "3.9.7.1"
+  "version": "3.9.7.3"
 }

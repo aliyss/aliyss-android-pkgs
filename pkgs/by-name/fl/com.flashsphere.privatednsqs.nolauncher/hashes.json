@@ -1,18 +1,18 @@
 {
-  "apkName": "com.flashsphere.privatednsqs.nolauncher_54.apk",
+  "apkName": "com.flashsphere.privatednsqs.nolauncher_60.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LOZxbMLZNi5o0hbC+ht7JheyCnEVVxNZSw2lMsU3Jps="
+      "hash": "sha256-A9pyfVLa3bQTn4rLP2a/5vI7+5eEM+n7sGkL8XiYSRU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LOZxbMLZNi5o0hbC+ht7JheyCnEVVxNZSw2lMsU3Jps="
+      "hash": "sha256-A9pyfVLa3bQTn4rLP2a/5vI7+5eEM+n7sGkL8XiYSRU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LOZxbMLZNi5o0hbC+ht7JheyCnEVVxNZSw2lMsU3Jps="
+      "hash": "sha256-A9pyfVLa3bQTn4rLP2a/5vI7+5eEM+n7sGkL8XiYSRU="
     }
   },
-  "version": "2.4"
+  "version": "3.0"
 }

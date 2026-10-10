@@ -1,18 +1,18 @@
 {
-  "apkName": "com.retekey_94.apk",
+  "apkName": "com.retekey_204.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-V2EbTqOV3mf2EnrNRALlVJeMli45rcVGrDkomOM4a/g="
+      "hash": "sha256-TVcjUimlAEpaAUwc26oRwgwbmF8KWGM9UY5vJILOIms="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-V2EbTqOV3mf2EnrNRALlVJeMli45rcVGrDkomOM4a/g="
+      "hash": "sha256-TVcjUimlAEpaAUwc26oRwgwbmF8KWGM9UY5vJILOIms="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-V2EbTqOV3mf2EnrNRALlVJeMli45rcVGrDkomOM4a/g="
+      "hash": "sha256-TVcjUimlAEpaAUwc26oRwgwbmF8KWGM9UY5vJILOIms="
     }
   },
-  "version": "0.1.93"
+  "version": "0.2.1"
 }

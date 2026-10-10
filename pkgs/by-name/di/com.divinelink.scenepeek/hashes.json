@@ -1,18 +1,18 @@
 {
-  "apkName": "com.divinelink.scenepeek_55.apk",
+  "apkName": "com.divinelink.scenepeek_62.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-dWJ3INMop8OR+si38YoNYTanCVjed9HXSlVfm7nMLkA="
+      "hash": "sha256-eOKy4K+BEqYc6Yt53qdR8BGcBHX3+5838Qlfyf8cp6I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dWJ3INMop8OR+si38YoNYTanCVjed9HXSlVfm7nMLkA="
+      "hash": "sha256-eOKy4K+BEqYc6Yt53qdR8BGcBHX3+5838Qlfyf8cp6I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dWJ3INMop8OR+si38YoNYTanCVjed9HXSlVfm7nMLkA="
+      "hash": "sha256-eOKy4K+BEqYc6Yt53qdR8BGcBHX3+5838Qlfyf8cp6I="
     }
   },
-  "version": "0.36.0 F-Droid"
+  "version": "0.39.2 F-Droid"
 }

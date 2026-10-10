@@ -1,18 +1,18 @@
 {
-  "apkName": "net.cozic.joplin_2097809.apk",
+  "apkName": "net.cozic.joplin_2097817.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-I0MnRImu+tHwoQqlrr53mGMaRw4AA89EoLf8hwpVPDY="
+      "hash": "sha256-eazSSGbvXD+Hefzfkm3W4NbiQsz/2oWBxVbyqA9LJ4I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-I0MnRImu+tHwoQqlrr53mGMaRw4AA89EoLf8hwpVPDY="
+      "hash": "sha256-eazSSGbvXD+Hefzfkm3W4NbiQsz/2oWBxVbyqA9LJ4I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-I0MnRImu+tHwoQqlrr53mGMaRw4AA89EoLf8hwpVPDY="
+      "hash": "sha256-eazSSGbvXD+Hefzfkm3W4NbiQsz/2oWBxVbyqA9LJ4I="
     }
   },
-  "version": "3.6.21"
+  "version": "3.7.8"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.nvllz.piggsy_5.apk",
+  "apkName": "com.nvllz.piggsy_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WizeMAihh6ICJaYkagLrT+6YPsTjzrEoQlEW8bF6NnY="
+      "hash": "sha256-qWxl/9MZSUGoA8KHru/KPaq7Hw5KGF6QeDXgWrDcOzc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WizeMAihh6ICJaYkagLrT+6YPsTjzrEoQlEW8bF6NnY="
+      "hash": "sha256-qWxl/9MZSUGoA8KHru/KPaq7Hw5KGF6QeDXgWrDcOzc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WizeMAihh6ICJaYkagLrT+6YPsTjzrEoQlEW8bF6NnY="
+      "hash": "sha256-qWxl/9MZSUGoA8KHru/KPaq7Hw5KGF6QeDXgWrDcOzc="
     }
   },
-  "version": "1.11.1"
+  "version": "1.12.1"
 }

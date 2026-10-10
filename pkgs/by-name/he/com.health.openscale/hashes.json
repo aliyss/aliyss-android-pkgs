@@ -1,18 +1,18 @@
 {
-  "apkName": "com.health.openscale_76.apk",
+  "apkName": "com.health.openscale_77.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-s0BFloC0aRKEIDYz3EC3o28ySeLZqmvW4ZDvlFXdKEM="
+      "hash": "sha256-rjIVmSF/V7+kgl2QGVTXxZCVJopaL5eWUWalzJy6lO4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-s0BFloC0aRKEIDYz3EC3o28ySeLZqmvW4ZDvlFXdKEM="
+      "hash": "sha256-rjIVmSF/V7+kgl2QGVTXxZCVJopaL5eWUWalzJy6lO4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-s0BFloC0aRKEIDYz3EC3o28ySeLZqmvW4ZDvlFXdKEM="
+      "hash": "sha256-rjIVmSF/V7+kgl2QGVTXxZCVJopaL5eWUWalzJy6lO4="
     }
   },
-  "version": "3.1.2"
+  "version": "3.1.3"
 }

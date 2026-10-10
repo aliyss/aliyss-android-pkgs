@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.bg.bikebridge_10.apk",
+  "apkName": "dev.bg.bikebridge_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-am7ZOqNZ9D+DUjkbofLIEJIIGyFgH3sfMzaNUin7ZpE="
+      "hash": "sha256-VqGCpAiGfNq/WRGOcezdRLY91ucQV+4KT/VwHU5KjnY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-am7ZOqNZ9D+DUjkbofLIEJIIGyFgH3sfMzaNUin7ZpE="
+      "hash": "sha256-VqGCpAiGfNq/WRGOcezdRLY91ucQV+4KT/VwHU5KjnY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-am7ZOqNZ9D+DUjkbofLIEJIIGyFgH3sfMzaNUin7ZpE="
+      "hash": "sha256-VqGCpAiGfNq/WRGOcezdRLY91ucQV+4KT/VwHU5KjnY="
     }
   },
-  "version": "0.1.3"
+  "version": "0.2.0"
 }

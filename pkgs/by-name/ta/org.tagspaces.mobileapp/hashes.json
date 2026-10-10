@@ -1,18 +1,18 @@
 {
-  "apkName": "org.tagspaces.mobileapp_61312.apk",
+  "apkName": "org.tagspaces.mobileapp_61401.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6Th5kKM2PMNAScr3I0s92cBePYF/OzMslUqCt/zhpTg="
+      "hash": "sha256-uiu1pg2Lq7XWL2eymwl1YGHMTWLDFIwrLw726kyxZdQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6Th5kKM2PMNAScr3I0s92cBePYF/OzMslUqCt/zhpTg="
+      "hash": "sha256-uiu1pg2Lq7XWL2eymwl1YGHMTWLDFIwrLw726kyxZdQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6Th5kKM2PMNAScr3I0s92cBePYF/OzMslUqCt/zhpTg="
+      "hash": "sha256-uiu1pg2Lq7XWL2eymwl1YGHMTWLDFIwrLw726kyxZdQ="
     }
   },
-  "version": "6.13.12"
+  "version": "6.14.1"
 }

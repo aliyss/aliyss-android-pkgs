@@ -1,18 +1,18 @@
 {
-  "apkName": "com.hmdm.launcher_15360.apk",
+  "apkName": "com.hmdm.launcher_15390.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vYVWcqougUpU87670Rs/X7M8Z+6wBfkVMpZh5XrmxUM="
+      "hash": "sha256-4xu09fjFwz10+gNwTsiKz6tCwVlAXGKuc4AnVbjw/gk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vYVWcqougUpU87670Rs/X7M8Z+6wBfkVMpZh5XrmxUM="
+      "hash": "sha256-4xu09fjFwz10+gNwTsiKz6tCwVlAXGKuc4AnVbjw/gk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vYVWcqougUpU87670Rs/X7M8Z+6wBfkVMpZh5XrmxUM="
+      "hash": "sha256-4xu09fjFwz10+gNwTsiKz6tCwVlAXGKuc4AnVbjw/gk="
     }
   },
-  "version": "6.36"
+  "version": "6.39"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ltrademark.hourly_12.apk",
+  "apkName": "com.ltrademark.hourly_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-eJbDiD5ZjYq465xSsRx28RTGLCHosWYLGjiYvMNw35A="
+      "hash": "sha256-ATl721Riwna02SlMqyvTKxriRlP5TfXQ8IgSvINqIhk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eJbDiD5ZjYq465xSsRx28RTGLCHosWYLGjiYvMNw35A="
+      "hash": "sha256-ATl721Riwna02SlMqyvTKxriRlP5TfXQ8IgSvINqIhk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eJbDiD5ZjYq465xSsRx28RTGLCHosWYLGjiYvMNw35A="
+      "hash": "sha256-ATl721Riwna02SlMqyvTKxriRlP5TfXQ8IgSvINqIhk="
     }
   },
-  "version": "1.8"
+  "version": "1.81"
 }

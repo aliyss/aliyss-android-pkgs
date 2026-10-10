@@ -1,18 +1,18 @@
 {
-  "apkName": "net.slions.fulguris.full.fdroid_261.apk",
+  "apkName": "net.slions.fulguris.full.fdroid_264.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zBUeRgjWj6MqugtbgMnImihgUNewcQoIHne8Hd28yLY="
+      "hash": "sha256-w7UJmyZ2dyDEj0j4xJ61VfPULs8AL5i2jXE7wmXdejw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zBUeRgjWj6MqugtbgMnImihgUNewcQoIHne8Hd28yLY="
+      "hash": "sha256-w7UJmyZ2dyDEj0j4xJ61VfPULs8AL5i2jXE7wmXdejw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zBUeRgjWj6MqugtbgMnImihgUNewcQoIHne8Hd28yLY="
+      "hash": "sha256-w7UJmyZ2dyDEj0j4xJ61VfPULs8AL5i2jXE7wmXdejw="
     }
   },
-  "version": "2.0.10"
+  "version": "2.1.1"
 }

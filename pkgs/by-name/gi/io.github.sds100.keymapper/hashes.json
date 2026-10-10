@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.sds100.keymapper_259.apk",
+  "apkName": "io.github.sds100.keymapper_278.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1FWTm5iupTDtzHoTAaa/ZBI1BTP5enchfS0T4b9EH+A="
+      "hash": "sha256-5hkBc17EYlA7wNZvB26fc+MAzLxbfbelgJJz6MOtHoE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1FWTm5iupTDtzHoTAaa/ZBI1BTP5enchfS0T4b9EH+A="
+      "hash": "sha256-5hkBc17EYlA7wNZvB26fc+MAzLxbfbelgJJz6MOtHoE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1FWTm5iupTDtzHoTAaa/ZBI1BTP5enchfS0T4b9EH+A="
+      "hash": "sha256-5hkBc17EYlA7wNZvB26fc+MAzLxbfbelgJJz6MOtHoE="
     }
   },
-  "version": "4.3.1-foss"
+  "version": "4.6.0-foss"
 }

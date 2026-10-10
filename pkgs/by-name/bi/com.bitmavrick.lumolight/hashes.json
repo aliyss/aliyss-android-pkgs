@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bitmavrick.lumolight_23.apk",
+  "apkName": "com.bitmavrick.lumolight_35.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-DfYfftQOdU6QStDNNhQE6yC+s6imD+xsDkdTa/UgVyQ="
+      "hash": "sha256-xoPwVoA1dWfpObM9C+cAOJaINcunaX3Z0Eg8E3nWpS4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DfYfftQOdU6QStDNNhQE6yC+s6imD+xsDkdTa/UgVyQ="
+      "hash": "sha256-xoPwVoA1dWfpObM9C+cAOJaINcunaX3Z0Eg8E3nWpS4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DfYfftQOdU6QStDNNhQE6yC+s6imD+xsDkdTa/UgVyQ="
+      "hash": "sha256-xoPwVoA1dWfpObM9C+cAOJaINcunaX3Z0Eg8E3nWpS4="
     }
   },
-  "version": "3.0.0.23"
+  "version": "5.1.0.35"
 }

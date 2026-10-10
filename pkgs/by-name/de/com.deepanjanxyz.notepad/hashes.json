@@ -1,18 +1,18 @@
 {
-  "apkName": "com.deepanjanxyz.notepad_4.apk",
+  "apkName": "com.deepanjanxyz.notepad_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-a/QKPM4BML/p5m9O+jSjxdfA4j+YyAsnSRqHWaxy7Q4="
+      "hash": "sha256-9DVGYCulii/Ssla0lSHKX/jLVqg3k2zs8KxX2bJJt4s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-a/QKPM4BML/p5m9O+jSjxdfA4j+YyAsnSRqHWaxy7Q4="
+      "hash": "sha256-9DVGYCulii/Ssla0lSHKX/jLVqg3k2zs8KxX2bJJt4s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-a/QKPM4BML/p5m9O+jSjxdfA4j+YyAsnSRqHWaxy7Q4="
+      "hash": "sha256-9DVGYCulii/Ssla0lSHKX/jLVqg3k2zs8KxX2bJJt4s="
     }
   },
-  "version": "1.0.4"
+  "version": "1.0.15"
 }

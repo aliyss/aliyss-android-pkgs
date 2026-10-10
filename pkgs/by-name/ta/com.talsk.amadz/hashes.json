@@ -1,18 +1,18 @@
 {
-  "apkName": "com.talsk.amadz_14.apk",
+  "apkName": "com.talsk.amadz_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-M3OfRXGnk6H++gi9N+YENNl1osq3h6hFqIApEb8Bmic="
+      "hash": "sha256-SGU8uCKmfjFkTYwA3sdK0SOqboYrew3gM6G1tG2dCWA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-M3OfRXGnk6H++gi9N+YENNl1osq3h6hFqIApEb8Bmic="
+      "hash": "sha256-SGU8uCKmfjFkTYwA3sdK0SOqboYrew3gM6G1tG2dCWA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-M3OfRXGnk6H++gi9N+YENNl1osq3h6hFqIApEb8Bmic="
+      "hash": "sha256-SGU8uCKmfjFkTYwA3sdK0SOqboYrew3gM6G1tG2dCWA="
     }
   },
-  "version": "1.1.4"
+  "version": "1.1.6"
 }

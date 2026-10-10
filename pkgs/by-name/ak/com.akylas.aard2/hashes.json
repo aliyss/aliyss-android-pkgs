@@ -1,18 +1,18 @@
 {
-  "apkName": "com.akylas.aard2_79.apk",
+  "apkName": "com.akylas.aard2_80.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Ui2wVjPm8yp0zgKasijdf5K+vU8nS7Z162ctUTwsZSM="
+      "hash": "sha256-o+dx4Nv0yGacfX2yknVt56VIJKwIfiQcNXbzCliVjAg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ui2wVjPm8yp0zgKasijdf5K+vU8nS7Z162ctUTwsZSM="
+      "hash": "sha256-o+dx4Nv0yGacfX2yknVt56VIJKwIfiQcNXbzCliVjAg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ui2wVjPm8yp0zgKasijdf5K+vU8nS7Z162ctUTwsZSM="
+      "hash": "sha256-o+dx4Nv0yGacfX2yknVt56VIJKwIfiQcNXbzCliVjAg="
     }
   },
-  "version": "2.0.6"
+  "version": "2.1.0"
 }

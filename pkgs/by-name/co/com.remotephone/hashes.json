@@ -1,18 +1,18 @@
 {
-  "apkName": "com.remotephone_4.apk",
+  "apkName": "com.remotephone_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Ih4RffTBCNMpc5/Yp7OhVitgXscbzY4p2MfSmopn1ik="
+      "hash": "sha256-gmFQida4UXqXrCI3KC8dzMLySKVrdf8xsn/5X2mk7SE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ih4RffTBCNMpc5/Yp7OhVitgXscbzY4p2MfSmopn1ik="
+      "hash": "sha256-gmFQida4UXqXrCI3KC8dzMLySKVrdf8xsn/5X2mk7SE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ih4RffTBCNMpc5/Yp7OhVitgXscbzY4p2MfSmopn1ik="
+      "hash": "sha256-gmFQida4UXqXrCI3KC8dzMLySKVrdf8xsn/5X2mk7SE="
     }
   },
-  "version": "1.1.0"
+  "version": "2.0.0"
 }

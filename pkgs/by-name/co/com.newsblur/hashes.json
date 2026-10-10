@@ -1,18 +1,18 @@
 {
-  "apkName": "com.newsblur_281.apk",
+  "apkName": "com.newsblur_290.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Mm/yObzbsSeG+7QeWb87f7ytj8qRm3mYZRNIx2CWOKo="
+      "hash": "sha256-9Qtg58wZSTl1ljk1NUmhOWtW9POZ4FrtlmB0ep+tcjs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Mm/yObzbsSeG+7QeWb87f7ytj8qRm3mYZRNIx2CWOKo="
+      "hash": "sha256-9Qtg58wZSTl1ljk1NUmhOWtW9POZ4FrtlmB0ep+tcjs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Mm/yObzbsSeG+7QeWb87f7ytj8qRm3mYZRNIx2CWOKo="
+      "hash": "sha256-9Qtg58wZSTl1ljk1NUmhOWtW9POZ4FrtlmB0ep+tcjs="
     }
   },
-  "version": "14.5.6"
+  "version": "15.0.5"
 }

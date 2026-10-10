@@ -1,18 +1,18 @@
 {
-  "apkName": "com.surfaceocean.nexttraceroute_16.apk",
+  "apkName": "com.surfaceocean.nexttraceroute_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-YT5VEahA3jWxyl3fRFMjtjU6FLxv/2HV0PlkDVBUTj4="
+      "hash": "sha256-cCsjNkveiQWsyLi2qqc3qwN881RKhQeg56wlfGTrPHw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YT5VEahA3jWxyl3fRFMjtjU6FLxv/2HV0PlkDVBUTj4="
+      "hash": "sha256-cCsjNkveiQWsyLi2qqc3qwN881RKhQeg56wlfGTrPHw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YT5VEahA3jWxyl3fRFMjtjU6FLxv/2HV0PlkDVBUTj4="
+      "hash": "sha256-cCsjNkveiQWsyLi2qqc3qwN881RKhQeg56wlfGTrPHw="
     }
   },
-  "version": "0.1.6"
+  "version": "0.1.7"
 }

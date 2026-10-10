@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kgurgul.cpuinfo_60601.apk",
+  "apkName": "com.kgurgul.cpuinfo_60700.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VMxVlbmgfoySuZSWQnlM8lA7vkLXcRoKssbWCX6gw+M="
+      "hash": "sha256-rdWxBlE8hcmWiRNJWfHtUiu9nvVEeNnlIrfVZYszhJ0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VMxVlbmgfoySuZSWQnlM8lA7vkLXcRoKssbWCX6gw+M="
+      "hash": "sha256-rdWxBlE8hcmWiRNJWfHtUiu9nvVEeNnlIrfVZYszhJ0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VMxVlbmgfoySuZSWQnlM8lA7vkLXcRoKssbWCX6gw+M="
+      "hash": "sha256-rdWxBlE8hcmWiRNJWfHtUiu9nvVEeNnlIrfVZYszhJ0="
     }
   },
-  "version": "6.6.1"
+  "version": "6.7.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.rk.xededitor_98.apk",
+  "apkName": "com.rk.xededitor_107.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Rs9jBftEBUJdJxh6XuhPDYqIXc3t51toxM9Wtnqlcao="
+      "hash": "sha256-g6KjPvsvuR1eTGJciVw9UNzn6+zaJAQhulk15ZTo4Uw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Rs9jBftEBUJdJxh6XuhPDYqIXc3t51toxM9Wtnqlcao="
+      "hash": "sha256-g6KjPvsvuR1eTGJciVw9UNzn6+zaJAQhulk15ZTo4Uw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Rs9jBftEBUJdJxh6XuhPDYqIXc3t51toxM9Wtnqlcao="
+      "hash": "sha256-g6KjPvsvuR1eTGJciVw9UNzn6+zaJAQhulk15ZTo4Uw="
     }
   },
-  "version": "3.3.4"
+  "version": "3.4.5"
 }

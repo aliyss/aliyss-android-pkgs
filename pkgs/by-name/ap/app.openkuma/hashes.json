@@ -1,18 +1,18 @@
 {
-  "apkName": "app.openkuma_5.apk",
+  "apkName": "app.openkuma_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-dFp0ej6scjJNEZ68qUR51P1KMAN8KRoXd/H1z7/MuG8="
+      "hash": "sha256-PSovUzD30zDLBPZYFXAS6shI8mBHoWyY3aFV9866mDs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dFp0ej6scjJNEZ68qUR51P1KMAN8KRoXd/H1z7/MuG8="
+      "hash": "sha256-PSovUzD30zDLBPZYFXAS6shI8mBHoWyY3aFV9866mDs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dFp0ej6scjJNEZ68qUR51P1KMAN8KRoXd/H1z7/MuG8="
+      "hash": "sha256-PSovUzD30zDLBPZYFXAS6shI8mBHoWyY3aFV9866mDs="
     }
   },
-  "version": "0.1.4"
+  "version": "0.4.1"
 }

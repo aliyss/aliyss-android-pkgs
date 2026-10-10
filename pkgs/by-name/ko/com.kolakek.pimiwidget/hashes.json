@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kolakek.pimiwidget_22.apk",
+  "apkName": "com.kolakek.pimiwidget_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aSWcbC1kL+IILA+mELW7YvUOg9cRQbegcWCtlGQsu7A="
+      "hash": "sha256-UzjhaFmss600UbpmEflycpZMh7CsYwd1n0YIePxi/50="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aSWcbC1kL+IILA+mELW7YvUOg9cRQbegcWCtlGQsu7A="
+      "hash": "sha256-UzjhaFmss600UbpmEflycpZMh7CsYwd1n0YIePxi/50="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aSWcbC1kL+IILA+mELW7YvUOg9cRQbegcWCtlGQsu7A="
+      "hash": "sha256-UzjhaFmss600UbpmEflycpZMh7CsYwd1n0YIePxi/50="
     }
   },
-  "version": "2.0.0"
+  "version": "3.1.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.bg.skylib_9.apk",
+  "apkName": "dev.bg.skylib_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TJeI8ZLdYs1XXjPeuFGqGzj0EXaB0qxlZ6HBibzDpX4="
+      "hash": "sha256-zQ9DDGfe4yZLJEJCJ9NPOUbXYVUuq1eTtfzmeGkShdE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TJeI8ZLdYs1XXjPeuFGqGzj0EXaB0qxlZ6HBibzDpX4="
+      "hash": "sha256-zQ9DDGfe4yZLJEJCJ9NPOUbXYVUuq1eTtfzmeGkShdE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TJeI8ZLdYs1XXjPeuFGqGzj0EXaB0qxlZ6HBibzDpX4="
+      "hash": "sha256-zQ9DDGfe4yZLJEJCJ9NPOUbXYVUuq1eTtfzmeGkShdE="
     }
   },
-  "version": "1.1.0"
+  "version": "1.2.1"
 }

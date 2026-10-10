@@ -1,18 +1,18 @@
 {
-  "apkName": "website.leifs.delta.foss_218003.apk",
+  "apkName": "website.leifs.delta.foss_220004.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-W6rF23bYLO7OPLvxE2FpjLAYVnUf0CE863NjieLyM54="
+      "hash": "sha256-0Gj/SHbvnF7nidLDynt5dW6cc8+eG55mtE4sjB63dqc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-W6rF23bYLO7OPLvxE2FpjLAYVnUf0CE863NjieLyM54="
+      "hash": "sha256-0Gj/SHbvnF7nidLDynt5dW6cc8+eG55mtE4sjB63dqc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-W6rF23bYLO7OPLvxE2FpjLAYVnUf0CE863NjieLyM54="
+      "hash": "sha256-0Gj/SHbvnF7nidLDynt5dW6cc8+eG55mtE4sjB63dqc="
     }
   },
-  "version": "2.18.0"
+  "version": "2.20.0"
 }

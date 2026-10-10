@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "4.4.1 (Smaug)",
+      "versionCode": 69
+    },
+    {
+      "version": "4.3.0 (Nounou)",
+      "versionCode": 67
+    },
+    {
+      "version": "4.2.1 (Nounou)",
+      "versionCode": 66
+    }
+  ]
+}

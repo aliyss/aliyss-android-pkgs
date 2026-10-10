@@ -1,18 +1,18 @@
 {
-  "apkName": "com.davidtakac.bura_18.apk",
+  "apkName": "com.davidtakac.bura_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-48W9zEYWIn8+FCVjyhdQV2HvNOcrelXZciwjb0o29GE="
+      "hash": "sha256-bljvCQqesyIMsddsKyFpAQJIPbIK18No9QWJTR384mg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-48W9zEYWIn8+FCVjyhdQV2HvNOcrelXZciwjb0o29GE="
+      "hash": "sha256-bljvCQqesyIMsddsKyFpAQJIPbIK18No9QWJTR384mg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-48W9zEYWIn8+FCVjyhdQV2HvNOcrelXZciwjb0o29GE="
+      "hash": "sha256-bljvCQqesyIMsddsKyFpAQJIPbIK18No9QWJTR384mg="
     }
   },
-  "version": "1.8.1"
+  "version": "1.9.0"
 }

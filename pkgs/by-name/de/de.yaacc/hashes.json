@@ -1,18 +1,18 @@
 {
-  "apkName": "de.yaacc_50200.apk",
+  "apkName": "de.yaacc_50300.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-hJ0tqc5LlB5s5LG476j7T4jJKZQSwFRqQIPAY2sLrM8="
+      "hash": "sha256-rkFsXcpSfvsMlHhyxzpUVmdqvIYV53KOmVq0bEBicH8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hJ0tqc5LlB5s5LG476j7T4jJKZQSwFRqQIPAY2sLrM8="
+      "hash": "sha256-rkFsXcpSfvsMlHhyxzpUVmdqvIYV53KOmVq0bEBicH8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hJ0tqc5LlB5s5LG476j7T4jJKZQSwFRqQIPAY2sLrM8="
+      "hash": "sha256-rkFsXcpSfvsMlHhyxzpUVmdqvIYV53KOmVq0bEBicH8="
     }
   },
-  "version": "5.2.0"
+  "version": "5.3.0"
 }

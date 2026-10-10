@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.jnda.android.flashalert_23384374.apk",
+  "apkName": "fr.jnda.android.flashalert_23384375.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gCVKM6EXH/PONvvfqpuKFMrSIOzQyiTOChcNYCRYdEg="
+      "hash": "sha256-u2FfBsCmasjvPtoi1v60qAajnqeKCrMG47C8qiJ910U="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gCVKM6EXH/PONvvfqpuKFMrSIOzQyiTOChcNYCRYdEg="
+      "hash": "sha256-u2FfBsCmasjvPtoi1v60qAajnqeKCrMG47C8qiJ910U="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gCVKM6EXH/PONvvfqpuKFMrSIOzQyiTOChcNYCRYdEg="
+      "hash": "sha256-u2FfBsCmasjvPtoi1v60qAajnqeKCrMG47C8qiJ910U="
     }
   },
-  "version": "2.9.0"
+  "version": "2.9.1"
 }

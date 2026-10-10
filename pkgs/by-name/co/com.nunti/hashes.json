@@ -1,18 +1,18 @@
 {
-  "apkName": "com.nunti_26.apk",
+  "apkName": "com.nunti_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Lab5lsjg7y5DYlqJA/T0ur9CrkNDUgjdoBObOc7SFic="
+      "hash": "sha256-w6NdsqvdPY4FauDViQx2WaNaZ4/DGuASMS5WgUQLNm4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Lab5lsjg7y5DYlqJA/T0ur9CrkNDUgjdoBObOc7SFic="
+      "hash": "sha256-w6NdsqvdPY4FauDViQx2WaNaZ4/DGuASMS5WgUQLNm4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Lab5lsjg7y5DYlqJA/T0ur9CrkNDUgjdoBObOc7SFic="
+      "hash": "sha256-w6NdsqvdPY4FauDViQx2WaNaZ4/DGuASMS5WgUQLNm4="
     }
   },
-  "version": "v2.9.0"
+  "version": "v2.10.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.mistermo_vibecode.voiceplus_5408001.apk",
+  "apkName": "com.github.mistermo_vibecode.voiceplus_5408022.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-toXS0eKJ+j0lbTC1zVTUInbS71Mv9lDdkrI+frYZYBc="
+      "hash": "sha256-sEdUEAEiRTfRhMB+mPPrQIN+fTVTTqGjzxVGW5xVPPk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-toXS0eKJ+j0lbTC1zVTUInbS71Mv9lDdkrI+frYZYBc="
+      "hash": "sha256-sEdUEAEiRTfRhMB+mPPrQIN+fTVTTqGjzxVGW5xVPPk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-toXS0eKJ+j0lbTC1zVTUInbS71Mv9lDdkrI+frYZYBc="
+      "hash": "sha256-sEdUEAEiRTfRhMB+mPPrQIN+fTVTTqGjzxVGW5xVPPk="
     }
   },
-  "version": "1.24"
+  "version": "1.29"
 }

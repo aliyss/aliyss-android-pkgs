@@ -1,18 +1,18 @@
 {
-  "apkName": "org.nitri.opentopo_76.apk",
+  "apkName": "org.nitri.opentopo_83.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yGoH5fJfvCnOIatCUMxKkF00a58dm8nqtdHUZTiBlkY="
+      "hash": "sha256-SL1B7rJnUWAUqj7KCwtCDwE2yIhqqQr/QK8MljukaAc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yGoH5fJfvCnOIatCUMxKkF00a58dm8nqtdHUZTiBlkY="
+      "hash": "sha256-SL1B7rJnUWAUqj7KCwtCDwE2yIhqqQr/QK8MljukaAc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yGoH5fJfvCnOIatCUMxKkF00a58dm8nqtdHUZTiBlkY="
+      "hash": "sha256-SL1B7rJnUWAUqj7KCwtCDwE2yIhqqQr/QK8MljukaAc="
     }
   },
-  "version": "1.33.3"
+  "version": "1.39"
 }

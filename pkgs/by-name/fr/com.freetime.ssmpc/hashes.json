@@ -1,18 +1,18 @@
 {
-  "apkName": "com.freetime.ssmpc_19.apk",
+  "apkName": "com.freetime.ssmpc_23.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-IDv6885Mc/808RGoQ3/mfdFnF8ZyPnghl56hQuWSs2Y="
+      "hash": "sha256-YGn3r9IgS+rsfiF7n+oh3xw3uguEb+Er91OpMO6E4C8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IDv6885Mc/808RGoQ3/mfdFnF8ZyPnghl56hQuWSs2Y="
+      "hash": "sha256-YGn3r9IgS+rsfiF7n+oh3xw3uguEb+Er91OpMO6E4C8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IDv6885Mc/808RGoQ3/mfdFnF8ZyPnghl56hQuWSs2Y="
+      "hash": "sha256-YGn3r9IgS+rsfiF7n+oh3xw3uguEb+Er91OpMO6E4C8="
     }
   },
-  "version": "1.5.0"
+  "version": "2.0.1"
 }

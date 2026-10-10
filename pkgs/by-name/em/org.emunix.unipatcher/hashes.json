@@ -1,18 +1,18 @@
 {
-  "apkName": "org.emunix.unipatcher_170300.apk",
+  "apkName": "org.emunix.unipatcher_180000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ENnf/nEYZStSIjXM+qC5LQHn0E9hKvR4s7tLSIjdPDM="
+      "hash": "sha256-fqvDGp5do8acLRT3fxpe5Pv9ltquYsKkY28T2YjSDJo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ENnf/nEYZStSIjXM+qC5LQHn0E9hKvR4s7tLSIjdPDM="
+      "hash": "sha256-fqvDGp5do8acLRT3fxpe5Pv9ltquYsKkY28T2YjSDJo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ENnf/nEYZStSIjXM+qC5LQHn0E9hKvR4s7tLSIjdPDM="
+      "hash": "sha256-fqvDGp5do8acLRT3fxpe5Pv9ltquYsKkY28T2YjSDJo="
     }
   },
-  "version": "0.17.3"
+  "version": "0.18"
 }

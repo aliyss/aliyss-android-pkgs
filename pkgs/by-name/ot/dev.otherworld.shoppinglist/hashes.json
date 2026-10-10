@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.otherworld.shoppinglist_4.apk",
+  "apkName": "dev.otherworld.shoppinglist_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zf0hD/ycovjBXz42EQuloTqfmZRVzy+ojiZUwo14leA="
+      "hash": "sha256-30HkmBwV6VjXTmk3TT+NB75Ro2nIe0Zjoh0yc2TwdnE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zf0hD/ycovjBXz42EQuloTqfmZRVzy+ojiZUwo14leA="
+      "hash": "sha256-30HkmBwV6VjXTmk3TT+NB75Ro2nIe0Zjoh0yc2TwdnE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zf0hD/ycovjBXz42EQuloTqfmZRVzy+ojiZUwo14leA="
+      "hash": "sha256-30HkmBwV6VjXTmk3TT+NB75Ro2nIe0Zjoh0yc2TwdnE="
     }
   },
-  "version": "0.4.0"
+  "version": "0.8.0"
 }

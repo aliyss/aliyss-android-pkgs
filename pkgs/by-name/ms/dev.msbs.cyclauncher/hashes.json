@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.msbs.cyclauncher_8.apk",
+  "apkName": "dev.msbs.cyclauncher_23.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9qZOB0n8QmQJgTZSgpSBMFwxNqPJ82WFcyXA/CvjMlE="
+      "hash": "sha256-e7NTf+D1ZsGlpB1RLsHHUNFCGMD0IZ9Z9WFTHYGqG0w="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9qZOB0n8QmQJgTZSgpSBMFwxNqPJ82WFcyXA/CvjMlE="
+      "hash": "sha256-e7NTf+D1ZsGlpB1RLsHHUNFCGMD0IZ9Z9WFTHYGqG0w="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9qZOB0n8QmQJgTZSgpSBMFwxNqPJ82WFcyXA/CvjMlE="
+      "hash": "sha256-e7NTf+D1ZsGlpB1RLsHHUNFCGMD0IZ9Z9WFTHYGqG0w="
     }
   },
-  "version": "0.6.2 Alpha"
+  "version": "v1.0.0-rc.1"
 }

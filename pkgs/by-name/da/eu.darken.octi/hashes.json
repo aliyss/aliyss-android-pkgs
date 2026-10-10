@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.darken.octi_10200010.apk",
+  "apkName": "eu.darken.octi_10300000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-3dltDP7p737jX3stMzFZ5cX1mD4qG+kUp1WBB6vI4ak="
+      "hash": "sha256-FdoMkpnj1P7kf2kdxrLVJt1KzQ2qoT8ulW9SZZdDMu0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3dltDP7p737jX3stMzFZ5cX1mD4qG+kUp1WBB6vI4ak="
+      "hash": "sha256-FdoMkpnj1P7kf2kdxrLVJt1KzQ2qoT8ulW9SZZdDMu0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3dltDP7p737jX3stMzFZ5cX1mD4qG+kUp1WBB6vI4ak="
+      "hash": "sha256-FdoMkpnj1P7kf2kdxrLVJt1KzQ2qoT8ulW9SZZdDMu0="
     }
   },
-  "version": "1.2.0-rc1"
+  "version": "1.3.0-rc0"
 }

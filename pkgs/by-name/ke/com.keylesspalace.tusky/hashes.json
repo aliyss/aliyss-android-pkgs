@@ -1,18 +1,18 @@
 {
-  "apkName": "com.keylesspalace.tusky_142.apk",
+  "apkName": "com.keylesspalace.tusky_144.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Po/MSagNTDCrb2A35RQCx34mlNJ+wZrluKk80Itsr/o="
+      "hash": "sha256-Q1iowtTqNoAQUZl1O2FB86DLOztlR/REfqe09DkgDDQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Po/MSagNTDCrb2A35RQCx34mlNJ+wZrluKk80Itsr/o="
+      "hash": "sha256-Q1iowtTqNoAQUZl1O2FB86DLOztlR/REfqe09DkgDDQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Po/MSagNTDCrb2A35RQCx34mlNJ+wZrluKk80Itsr/o="
+      "hash": "sha256-Q1iowtTqNoAQUZl1O2FB86DLOztlR/REfqe09DkgDDQ="
     }
   },
-  "version": "32.2"
+  "version": "33.0"
 }

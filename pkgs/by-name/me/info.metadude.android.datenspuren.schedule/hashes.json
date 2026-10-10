@@ -1,18 +1,18 @@
 {
-  "apkName": "info.metadude.android.datenspuren.schedule_110.apk",
+  "apkName": "info.metadude.android.datenspuren.schedule_121.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qevstESfPZnl943DKKh0xRfW+muhMxUF8c02LNmmaSk="
+      "hash": "sha256-hAtt0Z9yLHFaKds/3so8k2frC7FqRhiwBDCGusKqCJs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qevstESfPZnl943DKKh0xRfW+muhMxUF8c02LNmmaSk="
+      "hash": "sha256-hAtt0Z9yLHFaKds/3so8k2frC7FqRhiwBDCGusKqCJs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qevstESfPZnl943DKKh0xRfW+muhMxUF8c02LNmmaSk="
+      "hash": "sha256-hAtt0Z9yLHFaKds/3so8k2frC7FqRhiwBDCGusKqCJs="
     }
   },
-  "version": "1.72.0-Datenspuren-Edition"
+  "version": "1.77.1-Datenspuren-Edition"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.uli.bokyfivavahana2_10.apk",
+  "apkName": "com.uli.bokyfivavahana2_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Gisu7l7gqopiIRtikPSdCxfg/V2sHnbvwqXrYrNlAFw="
+      "hash": "sha256-iOk5QgYTtAkSJfdJBZHFLXCKdFlLduyKBlfi7bvla70="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Gisu7l7gqopiIRtikPSdCxfg/V2sHnbvwqXrYrNlAFw="
+      "hash": "sha256-iOk5QgYTtAkSJfdJBZHFLXCKdFlLduyKBlfi7bvla70="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Gisu7l7gqopiIRtikPSdCxfg/V2sHnbvwqXrYrNlAFw="
+      "hash": "sha256-iOk5QgYTtAkSJfdJBZHFLXCKdFlLduyKBlfi7bvla70="
     }
   },
-  "version": "2.4.0"
+  "version": "2.6.0"
 }

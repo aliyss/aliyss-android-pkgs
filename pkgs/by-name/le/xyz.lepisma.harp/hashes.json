@@ -1,18 +1,18 @@
 {
-  "apkName": "xyz.lepisma.harp_34.apk",
+  "apkName": "xyz.lepisma.harp_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-a/q79mqZLRbv4mP5YJeMUdxxLjLnA1EfVUi3GZvsavg="
+      "hash": "sha256-/isW1bfdTjLdmZA9kWBlVXDHf9Ys2MHYlYG3XjvbxqY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-a/q79mqZLRbv4mP5YJeMUdxxLjLnA1EfVUi3GZvsavg="
+      "hash": "sha256-/isW1bfdTjLdmZA9kWBlVXDHf9Ys2MHYlYG3XjvbxqY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-a/q79mqZLRbv4mP5YJeMUdxxLjLnA1EfVUi3GZvsavg="
+      "hash": "sha256-/isW1bfdTjLdmZA9kWBlVXDHf9Ys2MHYlYG3XjvbxqY="
     }
   },
-  "version": "1.6.13"
+  "version": "1.6.16"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.yepgoryo.CaptureCap_38.apk",
+  "apkName": "com.yepgoryo.CaptureCap_44.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Kseg8BQpKiiy/BOWRLes6fT1T9RqYsX1dSaKSXhvmkc="
+      "hash": "sha256-OGD8eBzSNAn1PwpT8Pj75Vu4cFUHmUYUWyHR86W2h38="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Kseg8BQpKiiy/BOWRLes6fT1T9RqYsX1dSaKSXhvmkc="
+      "hash": "sha256-OGD8eBzSNAn1PwpT8Pj75Vu4cFUHmUYUWyHR86W2h38="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Kseg8BQpKiiy/BOWRLes6fT1T9RqYsX1dSaKSXhvmkc="
+      "hash": "sha256-OGD8eBzSNAn1PwpT8Pj75Vu4cFUHmUYUWyHR86W2h38="
     }
   },
-  "version": "3.9.6"
+  "version": "3.9.8.3"
 }

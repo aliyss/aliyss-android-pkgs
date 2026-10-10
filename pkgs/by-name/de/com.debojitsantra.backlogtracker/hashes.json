@@ -1,18 +1,18 @@
 {
-  "apkName": "com.debojitsantra.backlogtracker_7.apk",
+  "apkName": "com.debojitsantra.backlogtracker_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zH9j7lWW6tWN08NI+Sn0gntJbDXgLy/T5cxbOQpqKK8="
+      "hash": "sha256-XBKtYwf8osaYyA0F7Ss6CHIsGm//gmMcJ6dDtxQFfM4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zH9j7lWW6tWN08NI+Sn0gntJbDXgLy/T5cxbOQpqKK8="
+      "hash": "sha256-XBKtYwf8osaYyA0F7Ss6CHIsGm//gmMcJ6dDtxQFfM4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zH9j7lWW6tWN08NI+Sn0gntJbDXgLy/T5cxbOQpqKK8="
+      "hash": "sha256-XBKtYwf8osaYyA0F7Ss6CHIsGm//gmMcJ6dDtxQFfM4="
     }
   },
-  "version": "1.2.4"
+  "version": "1.2.5"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.anysoftkeyboard.janus_11.apk",
+  "apkName": "com.anysoftkeyboard.janus_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-EQUnIIFDyEm5lf/W6a3J+V8McdJoc6Ion0uvE50EoD0="
+      "hash": "sha256-tLK1Hmz8J7Cncm6fQjD5XzVCkAu3U2MzyJu/+D6fCl8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EQUnIIFDyEm5lf/W6a3J+V8McdJoc6Ion0uvE50EoD0="
+      "hash": "sha256-tLK1Hmz8J7Cncm6fQjD5XzVCkAu3U2MzyJu/+D6fCl8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EQUnIIFDyEm5lf/W6a3J+V8McdJoc6Ion0uvE50EoD0="
+      "hash": "sha256-tLK1Hmz8J7Cncm6fQjD5XzVCkAu3U2MzyJu/+D6fCl8="
     }
   },
-  "version": "0.1.6"
+  "version": "0.1.8"
 }

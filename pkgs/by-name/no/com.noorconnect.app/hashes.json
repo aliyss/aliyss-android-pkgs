@@ -1,18 +1,18 @@
 {
-  "apkName": "com.noorconnect.app_6.apk",
+  "apkName": "com.noorconnect.app_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kwZYJ40NFDVJirOjC4/KAGtwXuPBWkgb7bnrKj160/g="
+      "hash": "sha256-8nEKz9U5t4O51ipnAY19rGqn2b2k3PKQwb3cg6FkR0k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kwZYJ40NFDVJirOjC4/KAGtwXuPBWkgb7bnrKj160/g="
+      "hash": "sha256-8nEKz9U5t4O51ipnAY19rGqn2b2k3PKQwb3cg6FkR0k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kwZYJ40NFDVJirOjC4/KAGtwXuPBWkgb7bnrKj160/g="
+      "hash": "sha256-8nEKz9U5t4O51ipnAY19rGqn2b2k3PKQwb3cg6FkR0k="
     }
   },
-  "version": "2.0.1"
+  "version": "2.2.1"
 }

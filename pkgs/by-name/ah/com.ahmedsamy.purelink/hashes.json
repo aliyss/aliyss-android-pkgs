@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ahmedsamy.purelink_4.apk",
+  "apkName": "com.ahmedsamy.purelink_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tdRKbtKv2NWby/8j7VeOJeHO5FR0rbR8+wxQIEkgqh0="
+      "hash": "sha256-BtUhAJSHzQxvXpgMVLJtfikVSklv6CrSRoI0Za9kC14="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tdRKbtKv2NWby/8j7VeOJeHO5FR0rbR8+wxQIEkgqh0="
+      "hash": "sha256-BtUhAJSHzQxvXpgMVLJtfikVSklv6CrSRoI0Za9kC14="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tdRKbtKv2NWby/8j7VeOJeHO5FR0rbR8+wxQIEkgqh0="
+      "hash": "sha256-BtUhAJSHzQxvXpgMVLJtfikVSklv6CrSRoI0Za9kC14="
     }
   },
-  "version": "3.0.0"
+  "version": "4.0.0"
 }

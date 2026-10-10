@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.nuage.souvenirs_42.apk",
+  "apkName": "fr.nuage.souvenirs_43.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/qCVXt8C9n7JZfCSPfnJzsrBBM4XfN3DF7Bfm3ecm7I="
+      "hash": "sha256-X5xatUx6NN9Va6R0H0S0yxDvMsLtR6vunQLdF7FEpUo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/qCVXt8C9n7JZfCSPfnJzsrBBM4XfN3DF7Bfm3ecm7I="
+      "hash": "sha256-X5xatUx6NN9Va6R0H0S0yxDvMsLtR6vunQLdF7FEpUo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/qCVXt8C9n7JZfCSPfnJzsrBBM4XfN3DF7Bfm3ecm7I="
+      "hash": "sha256-X5xatUx6NN9Va6R0H0S0yxDvMsLtR6vunQLdF7FEpUo="
     }
   },
-  "version": "3.0.1"
+  "version": "3.0.2"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "xyz.linerly.nontrinsic_20260731.apk",
+  "apkName": "xyz.linerly.nontrinsic_20260930.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-22cKwt4gW3QcHkwqtgF8kUDLRlJ8fGF0SRMrzHnsHHM="
+      "hash": "sha256-DduQdA3kDFaKvb040alL/bfSRRM/ij8SIwfWrCHRsxo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-22cKwt4gW3QcHkwqtgF8kUDLRlJ8fGF0SRMrzHnsHHM="
+      "hash": "sha256-DduQdA3kDFaKvb040alL/bfSRRM/ij8SIwfWrCHRsxo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-22cKwt4gW3QcHkwqtgF8kUDLRlJ8fGF0SRMrzHnsHHM="
+      "hash": "sha256-DduQdA3kDFaKvb040alL/bfSRRM/ij8SIwfWrCHRsxo="
     }
   },
-  "version": "2026.07.31"
+  "version": "2026.09.30"
 }

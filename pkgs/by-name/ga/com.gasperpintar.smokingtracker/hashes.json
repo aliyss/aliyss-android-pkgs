@@ -1,18 +1,18 @@
 {
-  "apkName": "com.gasperpintar.smokingtracker_13.apk",
+  "apkName": "com.gasperpintar.smokingtracker_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5Rgcp2oyj/Ocfr1MIDOSIfYLeKgPY6RawUEPOR/P5Bo="
+      "hash": "sha256-6ukSf26Bp8EWcy6USkzz/FSoFw/nwbZspAxeooBAoN8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5Rgcp2oyj/Ocfr1MIDOSIfYLeKgPY6RawUEPOR/P5Bo="
+      "hash": "sha256-6ukSf26Bp8EWcy6USkzz/FSoFw/nwbZspAxeooBAoN8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5Rgcp2oyj/Ocfr1MIDOSIfYLeKgPY6RawUEPOR/P5Bo="
+      "hash": "sha256-6ukSf26Bp8EWcy6USkzz/FSoFw/nwbZspAxeooBAoN8="
     }
   },
-  "version": "1.7.0"
+  "version": "1.9.1"
 }

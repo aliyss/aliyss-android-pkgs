@@ -1,18 +1,18 @@
 {
-  "apkName": "org.elnix.dragonlauncher_56.apk",
+  "apkName": "org.elnix.dragonlauncher_69.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-h+hDuLO4HOCs3Te0nBN5eCWVJ6doSJCgs6YjIYlOLXQ="
+      "hash": "sha256-agPVpQtsqZB3jy1qMeE2AJXJjKpLhB7NasjyBjqdwOo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h+hDuLO4HOCs3Te0nBN5eCWVJ6doSJCgs6YjIYlOLXQ="
+      "hash": "sha256-agPVpQtsqZB3jy1qMeE2AJXJjKpLhB7NasjyBjqdwOo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h+hDuLO4HOCs3Te0nBN5eCWVJ6doSJCgs6YjIYlOLXQ="
+      "hash": "sha256-agPVpQtsqZB3jy1qMeE2AJXJjKpLhB7NasjyBjqdwOo="
     }
   },
-  "version": "3.2.2 (Worm)"
+  "version": "4.4.1 (Smaug)"
 }

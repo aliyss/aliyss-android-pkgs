@@ -1,18 +1,18 @@
 {
-  "apkName": "org.kaqui_103.apk",
+  "apkName": "org.kaqui_105.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rgLzPol6eov1nknfnMn4sm8SXj5o3+XR6bvEOkWRukM="
+      "hash": "sha256-PrLFyl+bpQYrJdvB/LnEerfYv/Ksk0o98oDAbg4K2N8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rgLzPol6eov1nknfnMn4sm8SXj5o3+XR6bvEOkWRukM="
+      "hash": "sha256-PrLFyl+bpQYrJdvB/LnEerfYv/Ksk0o98oDAbg4K2N8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rgLzPol6eov1nknfnMn4sm8SXj5o3+XR6bvEOkWRukM="
+      "hash": "sha256-PrLFyl+bpQYrJdvB/LnEerfYv/Ksk0o98oDAbg4K2N8="
     }
   },
-  "version": "1.45"
+  "version": "1.46"
 }

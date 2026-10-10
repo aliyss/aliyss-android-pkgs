@@ -1,18 +1,18 @@
 {
-  "apkName": "joshuatee.wx_55990.apk",
+  "apkName": "joshuatee.wx_55997.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-4/Gs3Ja8E6t3ACvl18uXjcDPnmKUT+6ZPzFc0qKHZU8="
+      "hash": "sha256-N8rnVyl0MUjyFwTcNs8f0xBh2qpb3E6Pl7JgNGudPYw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4/Gs3Ja8E6t3ACvl18uXjcDPnmKUT+6ZPzFc0qKHZU8="
+      "hash": "sha256-N8rnVyl0MUjyFwTcNs8f0xBh2qpb3E6Pl7JgNGudPYw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4/Gs3Ja8E6t3ACvl18uXjcDPnmKUT+6ZPzFc0qKHZU8="
+      "hash": "sha256-N8rnVyl0MUjyFwTcNs8f0xBh2qpb3E6Pl7JgNGudPYw="
     }
   },
-  "version": "55990"
+  "version": "55997"
 }

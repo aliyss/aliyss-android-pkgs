@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jvdegithub.aiscatcher_118.apk",
+  "apkName": "com.jvdegithub.aiscatcher_121.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/qbINtLfspWKBahdRBl1NlFS3n/scSE8JVMZi3cxu94="
+      "hash": "sha256-qEyAI+VfbYp37RJb3CqxoqGKGjq6RGmQL4+5a1r87f4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/qbINtLfspWKBahdRBl1NlFS3n/scSE8JVMZi3cxu94="
+      "hash": "sha256-qEyAI+VfbYp37RJb3CqxoqGKGjq6RGmQL4+5a1r87f4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/qbINtLfspWKBahdRBl1NlFS3n/scSE8JVMZi3cxu94="
+      "hash": "sha256-qEyAI+VfbYp37RJb3CqxoqGKGjq6RGmQL4+5a1r87f4="
     }
   },
-  "version": "1.18"
+  "version": "1.21"
 }

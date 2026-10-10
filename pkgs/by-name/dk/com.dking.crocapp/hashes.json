@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dking.crocapp_9.apk",
+  "apkName": "com.dking.crocapp_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-h2wOKmNwbAxWKVrG9WpysVF+dkpDPIiUfn7M009DmTY="
+      "hash": "sha256-6IEWMVrxKeGjJiVfIyAtF/gjAxOSguSmYlWA9V7WeQk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h2wOKmNwbAxWKVrG9WpysVF+dkpDPIiUfn7M009DmTY="
+      "hash": "sha256-6IEWMVrxKeGjJiVfIyAtF/gjAxOSguSmYlWA9V7WeQk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h2wOKmNwbAxWKVrG9WpysVF+dkpDPIiUfn7M009DmTY="
+      "hash": "sha256-6IEWMVrxKeGjJiVfIyAtF/gjAxOSguSmYlWA9V7WeQk="
     }
   },
-  "version": "5.1.0"
+  "version": "6.1.0"
 }

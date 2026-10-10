@@ -1,18 +1,18 @@
 {
-  "apkName": "xyz.philei.ddnsupdater_15.apk",
+  "apkName": "xyz.philei.ddnsupdater_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8qV5DOYTHxVwlbRqdKMNBCHES4IV9dfTK5H4S96IqhU="
+      "hash": "sha256-w1M0wsP+CVfopv+sXIxS90oN+Qf5mdWghxOe7ZpmF0k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8qV5DOYTHxVwlbRqdKMNBCHES4IV9dfTK5H4S96IqhU="
+      "hash": "sha256-w1M0wsP+CVfopv+sXIxS90oN+Qf5mdWghxOe7ZpmF0k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8qV5DOYTHxVwlbRqdKMNBCHES4IV9dfTK5H4S96IqhU="
+      "hash": "sha256-w1M0wsP+CVfopv+sXIxS90oN+Qf5mdWghxOe7ZpmF0k="
     }
   },
-  "version": "0.6.0"
+  "version": "0.6.1"
 }

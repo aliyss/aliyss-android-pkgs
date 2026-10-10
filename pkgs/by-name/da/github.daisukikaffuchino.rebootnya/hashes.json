@@ -1,18 +1,18 @@
 {
-  "apkName": "github.daisukikaffuchino.rebootnya_260428.apk",
+  "apkName": "github.daisukikaffuchino.rebootnya_260820.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-T+k0Fk4p1vFa9/k96kB+zBFdFqUhlu955Q0dvtptZMA="
+      "hash": "sha256-9wQviiAzYOAdWGtCLL0jiLrXeYJyGojatDQyNAYM55s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-T+k0Fk4p1vFa9/k96kB+zBFdFqUhlu955Q0dvtptZMA="
+      "hash": "sha256-9wQviiAzYOAdWGtCLL0jiLrXeYJyGojatDQyNAYM55s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-T+k0Fk4p1vFa9/k96kB+zBFdFqUhlu955Q0dvtptZMA="
+      "hash": "sha256-9wQviiAzYOAdWGtCLL0jiLrXeYJyGojatDQyNAYM55s="
     }
   },
-  "version": "1.8.0"
+  "version": "1.9.0"
 }

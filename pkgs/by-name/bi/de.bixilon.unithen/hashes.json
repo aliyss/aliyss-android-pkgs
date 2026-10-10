@@ -1,18 +1,18 @@
 {
-  "apkName": "de.bixilon.unithen_5.apk",
+  "apkName": "de.bixilon.unithen_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-GE2Rak0H9rO5RijsDnW7dhTl0BUW3TNt3prhv2K5Ie8="
+      "hash": "sha256-weLHQuL8AOKOxWyZzognJZqmRg3Msso9ck/2UpTxvts="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GE2Rak0H9rO5RijsDnW7dhTl0BUW3TNt3prhv2K5Ie8="
+      "hash": "sha256-weLHQuL8AOKOxWyZzognJZqmRg3Msso9ck/2UpTxvts="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GE2Rak0H9rO5RijsDnW7dhTl0BUW3TNt3prhv2K5Ie8="
+      "hash": "sha256-weLHQuL8AOKOxWyZzognJZqmRg3Msso9ck/2UpTxvts="
     }
   },
-  "version": "1.2.2"
+  "version": "1.3.1"
 }

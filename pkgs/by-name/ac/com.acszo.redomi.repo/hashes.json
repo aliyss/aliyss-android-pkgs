@@ -1,18 +1,18 @@
 {
-  "apkName": "com.acszo.redomi.repo_10402.apk",
+  "apkName": "com.acszo.redomi.repo_10403.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KDoaOl9VFL/1iJCRmg80oa+7+7dkZQ/k5HGmmSF3gho="
+      "hash": "sha256-JnbpOgF5NW3wzMucdg58VrEU6wScXlOYkwFFhsSJv8k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KDoaOl9VFL/1iJCRmg80oa+7+7dkZQ/k5HGmmSF3gho="
+      "hash": "sha256-JnbpOgF5NW3wzMucdg58VrEU6wScXlOYkwFFhsSJv8k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KDoaOl9VFL/1iJCRmg80oa+7+7dkZQ/k5HGmmSF3gho="
+      "hash": "sha256-JnbpOgF5NW3wzMucdg58VrEU6wScXlOYkwFFhsSJv8k="
     }
   },
-  "version": "1.4.2"
+  "version": "1.4.3"
 }

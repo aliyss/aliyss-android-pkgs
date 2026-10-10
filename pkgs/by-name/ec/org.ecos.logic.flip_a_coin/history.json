@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "DVNE",
+      "versionCode": 3
+    },
+    {
+      "version": "MnowR",
+      "versionCode": 2
+    },
+    {
+      "version": "BTBAM",
+      "versionCode": 1
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.sshborg_25.apk",
+  "apkName": "com.sshborg_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LvRPb8XqLtOsq/d/ugwxYTApPcOBS23+MLNyBrd5ELg="
+      "hash": "sha256-2vi5ZObP5xWjNbrwstMdUVmQGm7Pt+fPlRET+xGe/Cs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LvRPb8XqLtOsq/d/ugwxYTApPcOBS23+MLNyBrd5ELg="
+      "hash": "sha256-2vi5ZObP5xWjNbrwstMdUVmQGm7Pt+fPlRET+xGe/Cs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LvRPb8XqLtOsq/d/ugwxYTApPcOBS23+MLNyBrd5ELg="
+      "hash": "sha256-2vi5ZObP5xWjNbrwstMdUVmQGm7Pt+fPlRET+xGe/Cs="
     }
   },
-  "version": "1.13.0"
+  "version": "1.19.0"
 }

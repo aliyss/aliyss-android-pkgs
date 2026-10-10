@@ -1,18 +1,18 @@
 {
-  "apkName": "com.terminator.app_7.apk",
+  "apkName": "com.terminator.app_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-hBh565Oej1wIoqi8F/IKnFOxBmMbymiq3ov8XLIWL9g="
+      "hash": "sha256-UU29Ga2w7rQqrVP8auFxmqc8dc1dBWuPPr4OOC3ZXEM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hBh565Oej1wIoqi8F/IKnFOxBmMbymiq3ov8XLIWL9g="
+      "hash": "sha256-UU29Ga2w7rQqrVP8auFxmqc8dc1dBWuPPr4OOC3ZXEM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hBh565Oej1wIoqi8F/IKnFOxBmMbymiq3ov8XLIWL9g="
+      "hash": "sha256-UU29Ga2w7rQqrVP8auFxmqc8dc1dBWuPPr4OOC3ZXEM="
     }
   },
-  "version": "0.3.0"
+  "version": "2.3.3"
 }

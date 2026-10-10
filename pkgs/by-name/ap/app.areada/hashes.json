@@ -1,18 +1,18 @@
 {
-  "apkName": "app.areada_13.apk",
+  "apkName": "app.areada_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-4WPlsA+gna4zly2y4nd3OuygA6u6KZz7rA4elEWH190="
+      "hash": "sha256-U/SySD87QazoEYJ4/X//BO+3F/BhYas16GRMSWlak2s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4WPlsA+gna4zly2y4nd3OuygA6u6KZz7rA4elEWH190="
+      "hash": "sha256-U/SySD87QazoEYJ4/X//BO+3F/BhYas16GRMSWlak2s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4WPlsA+gna4zly2y4nd3OuygA6u6KZz7rA4elEWH190="
+      "hash": "sha256-U/SySD87QazoEYJ4/X//BO+3F/BhYas16GRMSWlak2s="
     }
   },
-  "version": "1.1.2"
+  "version": "1.1.4"
 }

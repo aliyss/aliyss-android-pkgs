@@ -1,18 +1,18 @@
 {
-  "apkName": "org.birthdayadapter_31304.apk",
+  "apkName": "org.birthdayadapter_31307.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-3lqg/SE83l43AXS2iDOoJdyM5C7G8dgRkJFA4WQffzs="
+      "hash": "sha256-VCqm8RhNqdWYLB0VH6yxaY5m+uzV2GpqUP6O1YnIZK4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3lqg/SE83l43AXS2iDOoJdyM5C7G8dgRkJFA4WQffzs="
+      "hash": "sha256-VCqm8RhNqdWYLB0VH6yxaY5m+uzV2GpqUP6O1YnIZK4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3lqg/SE83l43AXS2iDOoJdyM5C7G8dgRkJFA4WQffzs="
+      "hash": "sha256-VCqm8RhNqdWYLB0VH6yxaY5m+uzV2GpqUP6O1YnIZK4="
     }
   },
-  "version": "3.13.4"
+  "version": "3.13.7"
 }

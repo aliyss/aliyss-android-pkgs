@@ -1,18 +1,18 @@
 {
-  "apkName": "com.prof18.feedflow_6182.apk",
+  "apkName": "com.prof18.feedflow_6223.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Syvk4djBE4B7jELJ13MPrLwEbpBEI5CRrYWYDLi+zh0="
+      "hash": "sha256-ctYCeeYo1eL8MM8NcBblURmMNMSW7sbeP1TkPZdjpIM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Syvk4djBE4B7jELJ13MPrLwEbpBEI5CRrYWYDLi+zh0="
+      "hash": "sha256-ctYCeeYo1eL8MM8NcBblURmMNMSW7sbeP1TkPZdjpIM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Syvk4djBE4B7jELJ13MPrLwEbpBEI5CRrYWYDLi+zh0="
+      "hash": "sha256-ctYCeeYo1eL8MM8NcBblURmMNMSW7sbeP1TkPZdjpIM="
     }
   },
-  "version": "1.15.1"
+  "version": "1.18.0"
 }

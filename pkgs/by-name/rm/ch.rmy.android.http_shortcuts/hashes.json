@@ -1,18 +1,18 @@
 {
-  "apkName": "ch.rmy.android.http_shortcuts_1104060001.apk",
+  "apkName": "ch.rmy.android.http_shortcuts_1104080003.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jEO1RW9Sg1hN/NSM7o0HKL9VvtuvjDAf6VtniusgOHw="
+      "hash": "sha256-9hlEjhEmXTtZx+K7LZ41hHUKIRPH+A+i4P1FWYJVg38="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jEO1RW9Sg1hN/NSM7o0HKL9VvtuvjDAf6VtniusgOHw="
+      "hash": "sha256-9hlEjhEmXTtZx+K7LZ41hHUKIRPH+A+i4P1FWYJVg38="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jEO1RW9Sg1hN/NSM7o0HKL9VvtuvjDAf6VtniusgOHw="
+      "hash": "sha256-9hlEjhEmXTtZx+K7LZ41hHUKIRPH+A+i4P1FWYJVg38="
     }
   },
-  "version": "4.6.0"
+  "version": "4.8.0"
 }

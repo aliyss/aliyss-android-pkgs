@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.sourzo.a_rithist_8.apk",
+  "apkName": "com.github.sourzo.a_rithist_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MVZiuNjB6piDz59zyL4AfJQOIXwy0JrMzf/e42UhhJQ="
+      "hash": "sha256-CJ2plh6ZqMKjLN1LI93v7VIx+B7OhYlh7WpTV75MYgs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MVZiuNjB6piDz59zyL4AfJQOIXwy0JrMzf/e42UhhJQ="
+      "hash": "sha256-CJ2plh6ZqMKjLN1LI93v7VIx+B7OhYlh7WpTV75MYgs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MVZiuNjB6piDz59zyL4AfJQOIXwy0JrMzf/e42UhhJQ="
+      "hash": "sha256-CJ2plh6ZqMKjLN1LI93v7VIx+B7OhYlh7WpTV75MYgs="
     }
   },
-  "version": "1.0.7"
+  "version": "1.0.8"
 }

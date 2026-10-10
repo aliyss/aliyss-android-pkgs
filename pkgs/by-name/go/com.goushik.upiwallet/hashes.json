@@ -1,18 +1,18 @@
 {
-  "apkName": "com.goushik.upiwallet_7.apk",
+  "apkName": "com.goushik.upiwallet_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5tj0tGlYHe249w0BXHfRYt93fE4NtbP3SXjjvkwNigQ="
+      "hash": "sha256-1sik1EDkBjWkQnQTIg2lWZlBMLBeIZ8HUg+ehCx4TX0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5tj0tGlYHe249w0BXHfRYt93fE4NtbP3SXjjvkwNigQ="
+      "hash": "sha256-1sik1EDkBjWkQnQTIg2lWZlBMLBeIZ8HUg+ehCx4TX0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5tj0tGlYHe249w0BXHfRYt93fE4NtbP3SXjjvkwNigQ="
+      "hash": "sha256-1sik1EDkBjWkQnQTIg2lWZlBMLBeIZ8HUg+ehCx4TX0="
     }
   },
-  "version": "1.1.5"
+  "version": "1.1.7"
 }

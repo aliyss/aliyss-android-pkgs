@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ahad.macat_3.apk",
+  "apkName": "com.ahad.macat_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Q+KemqfjaUcVXuZiMFPOOYT0PwjcB4t7ueha+VAkO90="
+      "hash": "sha256-M9TWlVhf2hbx2f5WSMb7wZc2h+X2ETwt7V+IRNdYv9w="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Q+KemqfjaUcVXuZiMFPOOYT0PwjcB4t7ueha+VAkO90="
+      "hash": "sha256-M9TWlVhf2hbx2f5WSMb7wZc2h+X2ETwt7V+IRNdYv9w="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Q+KemqfjaUcVXuZiMFPOOYT0PwjcB4t7ueha+VAkO90="
+      "hash": "sha256-M9TWlVhf2hbx2f5WSMb7wZc2h+X2ETwt7V+IRNdYv9w="
     }
   },
-  "version": "1.2"
+  "version": "1.6"
 }

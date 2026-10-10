@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bnyro.wallpaper_41.apk",
+  "apkName": "com.bnyro.wallpaper_42.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AA16FWBZxWBI86UdVIS/zTd63TjF0hZLRao9VJ39ds8="
+      "hash": "sha256-KYSbKE2DlOYp5+ekUKrNpTf02OVOUhaiJiLZyFO/evs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AA16FWBZxWBI86UdVIS/zTd63TjF0hZLRao9VJ39ds8="
+      "hash": "sha256-KYSbKE2DlOYp5+ekUKrNpTf02OVOUhaiJiLZyFO/evs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AA16FWBZxWBI86UdVIS/zTd63TjF0hZLRao9VJ39ds8="
+      "hash": "sha256-KYSbKE2DlOYp5+ekUKrNpTf02OVOUhaiJiLZyFO/evs="
     }
   },
-  "version": "16.0"
+  "version": "17.0"
 }
