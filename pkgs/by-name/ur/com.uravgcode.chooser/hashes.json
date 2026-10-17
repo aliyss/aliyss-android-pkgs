@@ -1,18 +1,18 @@
 {
-  "apkName": "com.uravgcode.chooser_25.apk",
+  "apkName": "com.uravgcode.chooser_26.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-eYo2KXMIE49ZqbjFHQd7XmX8otxnVvjjRPlpi3/1wYQ="
+      "hash": "sha256-uBdGwXX/Z+ManOe/QCNyw7O044pH1SWbnE7ywL7TVkM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eYo2KXMIE49ZqbjFHQd7XmX8otxnVvjjRPlpi3/1wYQ="
+      "hash": "sha256-uBdGwXX/Z+ManOe/QCNyw7O044pH1SWbnE7ywL7TVkM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eYo2KXMIE49ZqbjFHQd7XmX8otxnVvjjRPlpi3/1wYQ="
+      "hash": "sha256-uBdGwXX/Z+ManOe/QCNyw7O044pH1SWbnE7ywL7TVkM="
     }
   },
-  "version": "1.4.11"
+  "version": "1.5.0"
 }

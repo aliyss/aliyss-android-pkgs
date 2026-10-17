@@ -1,18 +1,18 @@
 {
-  "apkName": "com.defang.launcher_15.apk",
+  "apkName": "com.defang.launcher_23.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-sWIf7NKCYvJ61BjogxU2be5aP6bGpf6rgMQjDdAKFuI="
+      "hash": "sha256-T2Qvk1niwOLx2ckzZOCgagh3/ML/8OtLiVMT4I2BgzU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sWIf7NKCYvJ61BjogxU2be5aP6bGpf6rgMQjDdAKFuI="
+      "hash": "sha256-T2Qvk1niwOLx2ckzZOCgagh3/ML/8OtLiVMT4I2BgzU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sWIf7NKCYvJ61BjogxU2be5aP6bGpf6rgMQjDdAKFuI="
+      "hash": "sha256-T2Qvk1niwOLx2ckzZOCgagh3/ML/8OtLiVMT4I2BgzU="
     }
   },
-  "version": "0.1.14"
+  "version": "0.1.22"
 }

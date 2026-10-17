@@ -1,18 +1,18 @@
 {
-  "apkName": "io.atticusc.atmosweather_3010000.apk",
+  "apkName": "io.atticusc.atmosweather_3010010.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zqeIhhQhj4xJ7PG0MdrKPBbTCFgMyVS45zQGnw0xCEo="
+      "hash": "sha256-cf76pI3fKErzEIoXx9Th9kGjwZCiu458wg81NeQnFg8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zqeIhhQhj4xJ7PG0MdrKPBbTCFgMyVS45zQGnw0xCEo="
+      "hash": "sha256-cf76pI3fKErzEIoXx9Th9kGjwZCiu458wg81NeQnFg8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zqeIhhQhj4xJ7PG0MdrKPBbTCFgMyVS45zQGnw0xCEo="
+      "hash": "sha256-cf76pI3fKErzEIoXx9Th9kGjwZCiu458wg81NeQnFg8="
     }
   },
-  "version": "3.1.0"
+  "version": "3.1.1"
 }

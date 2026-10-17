@@ -1,18 +1,18 @@
 {
-  "apkName": "com.privateinternetaccess.android_10711.apk",
+  "apkName": "com.privateinternetaccess.android_10717.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MS4XkTm1VGQYTO9UNItCxHY/1oFrg8YDzXw2aUNblxk="
+      "hash": "sha256-grrs0a0kvLqiN/j/ogDgvR0Qn34Rp+jtHSiui5GchMQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MS4XkTm1VGQYTO9UNItCxHY/1oFrg8YDzXw2aUNblxk="
+      "hash": "sha256-grrs0a0kvLqiN/j/ogDgvR0Qn34Rp+jtHSiui5GchMQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MS4XkTm1VGQYTO9UNItCxHY/1oFrg8YDzXw2aUNblxk="
+      "hash": "sha256-grrs0a0kvLqiN/j/ogDgvR0Qn34Rp+jtHSiui5GchMQ="
     }
   },
-  "version": "4.0.39"
+  "version": "4.1.4"
 }

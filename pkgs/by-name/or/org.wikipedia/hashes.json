@@ -1,18 +1,18 @@
 {
-  "apkName": "org.wikipedia_50598.apk",
+  "apkName": "org.wikipedia_50610.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lsXih8Y+PJ7viFuxFUMVpcsV/k16ygyaFSlH8YwD0Gg="
+      "hash": "sha256-RgKXcJm/8SvySvu+WlFsCXnLblEipPu/IVacP+RqcEA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lsXih8Y+PJ7viFuxFUMVpcsV/k16ygyaFSlH8YwD0Gg="
+      "hash": "sha256-RgKXcJm/8SvySvu+WlFsCXnLblEipPu/IVacP+RqcEA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lsXih8Y+PJ7viFuxFUMVpcsV/k16ygyaFSlH8YwD0Gg="
+      "hash": "sha256-RgKXcJm/8SvySvu+WlFsCXnLblEipPu/IVacP+RqcEA="
     }
   },
-  "version": "r/50598-r-2026-07-13"
+  "version": "r/50610-r-2026-10-06"
 }

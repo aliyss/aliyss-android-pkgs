@@ -1,18 +1,18 @@
 {
-  "apkName": "org.knightstalker.app_3.apk",
+  "apkName": "org.knightstalker.app_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-apSynYguTUXoDRg41P/vdUQEyXbzTxlcZUxo3Ci77Ds="
+      "hash": "sha256-1/R5QMk9YTYHAgx4sVgLO/cJVoTWF+6KOxnDdG+KJRw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-apSynYguTUXoDRg41P/vdUQEyXbzTxlcZUxo3Ci77Ds="
+      "hash": "sha256-1/R5QMk9YTYHAgx4sVgLO/cJVoTWF+6KOxnDdG+KJRw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-apSynYguTUXoDRg41P/vdUQEyXbzTxlcZUxo3Ci77Ds="
+      "hash": "sha256-1/R5QMk9YTYHAgx4sVgLO/cJVoTWF+6KOxnDdG+KJRw="
     }
   },
-  "version": "1.2.0"
+  "version": "1.4.0"
 }

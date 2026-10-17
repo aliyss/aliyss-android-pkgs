@@ -1,18 +1,18 @@
 {
-  "apkName": "com.demonlab.lune_9.apk",
+  "apkName": "com.demonlab.lune_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rmZAgvVRNtfps9KVex6Swtp2DqQFvV3Q+OQkyxT8yzY="
+      "hash": "sha256-ue1pLDTa9b2gAOg/Chrr7HUKkKtoFMEQmaqzAbGHCmQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rmZAgvVRNtfps9KVex6Swtp2DqQFvV3Q+OQkyxT8yzY="
+      "hash": "sha256-ue1pLDTa9b2gAOg/Chrr7HUKkKtoFMEQmaqzAbGHCmQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rmZAgvVRNtfps9KVex6Swtp2DqQFvV3Q+OQkyxT8yzY="
+      "hash": "sha256-ue1pLDTa9b2gAOg/Chrr7HUKkKtoFMEQmaqzAbGHCmQ="
     }
   },
-  "version": "1.5.1"
+  "version": "1.5.4"
 }

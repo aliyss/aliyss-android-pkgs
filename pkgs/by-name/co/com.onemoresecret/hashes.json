@@ -1,18 +1,18 @@
 {
-  "apkName": "com.onemoresecret_42.apk",
+  "apkName": "com.onemoresecret_44.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ECW7XfpMWBHXuXTqTR9UFHSpnSb+AN7Dro+IPzQ0hgI="
+      "hash": "sha256-WvZlhKy7kjGIO/BR1E06afVib8hYJtix3mu8WcrPXyU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ECW7XfpMWBHXuXTqTR9UFHSpnSb+AN7Dro+IPzQ0hgI="
+      "hash": "sha256-WvZlhKy7kjGIO/BR1E06afVib8hYJtix3mu8WcrPXyU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ECW7XfpMWBHXuXTqTR9UFHSpnSb+AN7Dro+IPzQ0hgI="
+      "hash": "sha256-WvZlhKy7kjGIO/BR1E06afVib8hYJtix3mu8WcrPXyU="
     }
   },
-  "version": "0.42-beta"
+  "version": "1.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.googol.android.apps.oneplayer_37.apk",
+  "apkName": "com.googol.android.apps.oneplayer_43.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VhsWEZvEx2tTjDj3b2SBrGZ5lyPjDoYIynpb9Rkx9Rg="
+      "hash": "sha256-lRv9fiy1lk0w5MC3AZspCn1SS5oFw1TBB0gPG/xsqN0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VhsWEZvEx2tTjDj3b2SBrGZ5lyPjDoYIynpb9Rkx9Rg="
+      "hash": "sha256-lRv9fiy1lk0w5MC3AZspCn1SS5oFw1TBB0gPG/xsqN0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VhsWEZvEx2tTjDj3b2SBrGZ5lyPjDoYIynpb9Rkx9Rg="
+      "hash": "sha256-lRv9fiy1lk0w5MC3AZspCn1SS5oFw1TBB0gPG/xsqN0="
     }
   },
-  "version": "1.6.9-foss"
+  "version": "1.7.3-foss"
 }

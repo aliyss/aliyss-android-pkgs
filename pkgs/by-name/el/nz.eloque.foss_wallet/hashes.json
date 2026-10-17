@@ -1,18 +1,18 @@
 {
-  "apkName": "nz.eloque.foss_wallet_119.apk",
+  "apkName": "nz.eloque.foss_wallet_121.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ZlDoF+ohJ9FgRpaf3AFO8WT8oim1WHpBB5fGZPLi/i4="
+      "hash": "sha256-Zcza+w+JKJWnlfKUc8A6tYoPcEqxsZaGhMAXQZPbyQo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZlDoF+ohJ9FgRpaf3AFO8WT8oim1WHpBB5fGZPLi/i4="
+      "hash": "sha256-Zcza+w+JKJWnlfKUc8A6tYoPcEqxsZaGhMAXQZPbyQo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZlDoF+ohJ9FgRpaf3AFO8WT8oim1WHpBB5fGZPLi/i4="
+      "hash": "sha256-Zcza+w+JKJWnlfKUc8A6tYoPcEqxsZaGhMAXQZPbyQo="
     }
   },
-  "version": "0.49.1"
+  "version": "0.51.0"
 }

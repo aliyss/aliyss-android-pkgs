@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ispindle.plotter_28.apk",
+  "apkName": "com.ispindle.plotter_29.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-l7zz3qHWKz/1xj7L+k8SOX3waKAU0z6HSlnLlPBCNLY="
+      "hash": "sha256-I+zV3LaztQG477XcQ7PLb/4BI+UeNbAtZHMqILKotEs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-l7zz3qHWKz/1xj7L+k8SOX3waKAU0z6HSlnLlPBCNLY="
+      "hash": "sha256-I+zV3LaztQG477XcQ7PLb/4BI+UeNbAtZHMqILKotEs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-l7zz3qHWKz/1xj7L+k8SOX3waKAU0z6HSlnLlPBCNLY="
+      "hash": "sha256-I+zV3LaztQG477XcQ7PLb/4BI+UeNbAtZHMqILKotEs="
     }
   },
-  "version": "0.5.23"
+  "version": "0.5.24"
 }

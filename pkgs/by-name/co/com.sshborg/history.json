@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "1.19.1",
+      "versionCode": 37
+    },
+    {
+      "version": "1.19.0",
+      "versionCode": 36
+    },
+    {
+      "version": "1.18.0",
+      "versionCode": 35
+    }
+  ]
+}

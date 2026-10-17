@@ -1,18 +1,18 @@
 {
-  "apkName": "de.nulide.findmydevice_43.apk",
+  "apkName": "de.nulide.findmydevice_45.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aohKUtYufMFcb/z+Oiu6E1mwhmpsRZHjnS99w7vaeVA="
+      "hash": "sha256-nl8m0qB4n8KmxeVwz01xFO1t8QOAy729Hd9+Cf3Ra/c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aohKUtYufMFcb/z+Oiu6E1mwhmpsRZHjnS99w7vaeVA="
+      "hash": "sha256-nl8m0qB4n8KmxeVwz01xFO1t8QOAy729Hd9+Cf3Ra/c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aohKUtYufMFcb/z+Oiu6E1mwhmpsRZHjnS99w7vaeVA="
+      "hash": "sha256-nl8m0qB4n8KmxeVwz01xFO1t8QOAy729Hd9+Cf3Ra/c="
     }
   },
-  "version": "0.16.1"
+  "version": "0.17.0"
 }

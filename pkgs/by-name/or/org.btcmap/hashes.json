@@ -1,18 +1,18 @@
 {
-  "apkName": "org.btcmap_56.apk",
+  "apkName": "org.btcmap_160.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rwSEAfQAAe73P+vr+m7QCTUQTxRz7g/7VtdWPA7tvng="
+      "hash": "sha256-+K5mV6/eaZ66qjX7RmdD00JxbCMMDsoAE7WHbOvymVw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rwSEAfQAAe73P+vr+m7QCTUQTxRz7g/7VtdWPA7tvng="
+      "hash": "sha256-+K5mV6/eaZ66qjX7RmdD00JxbCMMDsoAE7WHbOvymVw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rwSEAfQAAe73P+vr+m7QCTUQTxRz7g/7VtdWPA7tvng="
+      "hash": "sha256-+K5mV6/eaZ66qjX7RmdD00JxbCMMDsoAE7WHbOvymVw="
     }
   },
-  "version": "1.1.0"
+  "version": "1.2.0"
 }

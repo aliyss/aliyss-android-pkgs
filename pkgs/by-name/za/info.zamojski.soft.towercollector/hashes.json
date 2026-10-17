@@ -1,18 +1,18 @@
 {
-  "apkName": "info.zamojski.soft.towercollector_2180528.apk",
+  "apkName": "info.zamojski.soft.towercollector_3000134.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ocxAnJSXcKreQOwCa57d+Z+TPruUy8qW6fzk1Dy3Ssk="
+      "hash": "sha256-YlFktVHym6OnzncSpt0V29ebkKgEMZfcdjv0rhX5SYY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ocxAnJSXcKreQOwCa57d+Z+TPruUy8qW6fzk1Dy3Ssk="
+      "hash": "sha256-YlFktVHym6OnzncSpt0V29ebkKgEMZfcdjv0rhX5SYY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ocxAnJSXcKreQOwCa57d+Z+TPruUy8qW6fzk1Dy3Ssk="
+      "hash": "sha256-YlFktVHym6OnzncSpt0V29ebkKgEMZfcdjv0rhX5SYY="
     }
   },
-  "version": "2.18.0"
+  "version": "3.0.1"
 }

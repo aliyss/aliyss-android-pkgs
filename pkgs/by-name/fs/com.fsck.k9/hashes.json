@@ -1,18 +1,18 @@
 {
-  "apkName": "com.fsck.k9_39043.apk",
+  "apkName": "com.fsck.k9_39045.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-oI9PGBaXfZltzkq5FzLZGKE+nAK+1ggKwrNyw3C52oA="
+      "hash": "sha256-qabUIZ/kS/tOR2k++pc8DBc3QQdBk9jp1+N6NU56r8o="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oI9PGBaXfZltzkq5FzLZGKE+nAK+1ggKwrNyw3C52oA="
+      "hash": "sha256-qabUIZ/kS/tOR2k++pc8DBc3QQdBk9jp1+N6NU56r8o="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oI9PGBaXfZltzkq5FzLZGKE+nAK+1ggKwrNyw3C52oA="
+      "hash": "sha256-qabUIZ/kS/tOR2k++pc8DBc3QQdBk9jp1+N6NU56r8o="
     }
   },
-  "version": "22.0"
+  "version": "23.1"
 }

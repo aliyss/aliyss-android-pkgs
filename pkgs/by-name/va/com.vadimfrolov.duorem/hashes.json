@@ -1,18 +1,18 @@
 {
-  "apkName": "com.vadimfrolov.duorem_6.apk",
+  "apkName": "com.vadimfrolov.duorem_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vbpAbCtlc/ysoY61oCunsXKDOPgbQw5EIUuJm3FVYC8="
+      "hash": "sha256-+iFqGc0d3G9M6ubWpFBs49/cN8Y5yHSr9eU3kUm7IuQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vbpAbCtlc/ysoY61oCunsXKDOPgbQw5EIUuJm3FVYC8="
+      "hash": "sha256-+iFqGc0d3G9M6ubWpFBs49/cN8Y5yHSr9eU3kUm7IuQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vbpAbCtlc/ysoY61oCunsXKDOPgbQw5EIUuJm3FVYC8="
+      "hash": "sha256-+iFqGc0d3G9M6ubWpFBs49/cN8Y5yHSr9eU3kUm7IuQ="
     }
   },
-  "version": "1.1.4"
+  "version": "1.2.0"
 }

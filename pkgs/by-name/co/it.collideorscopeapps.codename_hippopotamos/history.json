@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "0.5.14-pre-alpha",
+      "versionCode": 14
+    },
+    {
+      "version": "0.5.13-pre-alpha",
+      "versionCode": 13
+    },
+    {
+      "version": "0.5.7-pre-alpha",
+      "versionCode": 8
+    }
+  ]
+}

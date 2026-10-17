@@ -1,18 +1,18 @@
 {
-  "apkName": "net.pgaskin.batterytile_4.apk",
+  "apkName": "net.pgaskin.batterytile_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OPZXaGJT0XR047+qJjUCIk4ZP9HIe1sdbF9kGniwD88="
+      "hash": "sha256-BS3zgv7O7nTl2vvW5oHGPOsyiuklYO5GHp5q4KlOMB4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OPZXaGJT0XR047+qJjUCIk4ZP9HIe1sdbF9kGniwD88="
+      "hash": "sha256-BS3zgv7O7nTl2vvW5oHGPOsyiuklYO5GHp5q4KlOMB4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OPZXaGJT0XR047+qJjUCIk4ZP9HIe1sdbF9kGniwD88="
+      "hash": "sha256-BS3zgv7O7nTl2vvW5oHGPOsyiuklYO5GHp5q4KlOMB4="
     }
   },
-  "version": "4"
+  "version": "5"
 }

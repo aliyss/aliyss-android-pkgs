@@ -1,18 +1,18 @@
 {
-  "apkName": "com.networkscanner.app_12.apk",
+  "apkName": "com.networkscanner.app_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-so89274Ll/9NVAwm8AlTlzlhlwvK/W8rU4+HWIsLykU="
+      "hash": "sha256-7/m6UtDghrSoe+0juHeNOFOMsB/MzVms7dek5SzogFQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-so89274Ll/9NVAwm8AlTlzlhlwvK/W8rU4+HWIsLykU="
+      "hash": "sha256-7/m6UtDghrSoe+0juHeNOFOMsB/MzVms7dek5SzogFQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-so89274Ll/9NVAwm8AlTlzlhlwvK/W8rU4+HWIsLykU="
+      "hash": "sha256-7/m6UtDghrSoe+0juHeNOFOMsB/MzVms7dek5SzogFQ="
     }
   },
-  "version": "1.1.7"
+  "version": "1.1.10"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "me.rosuh.easywatermark_21000.apk",
+  "apkName": "me.rosuh.easywatermark_30003.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kH3DP2JxE+EdEutNLIEJF39CgzFG+IAPsf1i3ySCcE0="
+      "hash": "sha256-zGAqoVVdj890yN2nB+ak893FzxyIrkwq/Fte3bLepZY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kH3DP2JxE+EdEutNLIEJF39CgzFG+IAPsf1i3ySCcE0="
+      "hash": "sha256-zGAqoVVdj890yN2nB+ak893FzxyIrkwq/Fte3bLepZY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kH3DP2JxE+EdEutNLIEJF39CgzFG+IAPsf1i3ySCcE0="
+      "hash": "sha256-zGAqoVVdj890yN2nB+ak893FzxyIrkwq/Fte3bLepZY="
     }
   },
-  "version": "2.10.0"
+  "version": "3.0.3"
 }

@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "3.0.4-paranoia",
+      "versionCode": 116
+    },
+    {
+      "version": "3.0.3-paranoia",
+      "versionCode": 115
+    },
+    {
+      "version": "3.0.0-paranoia",
+      "versionCode": 111
+    }
+  ]
+}

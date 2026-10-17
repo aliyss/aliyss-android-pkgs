@@ -1,18 +1,18 @@
 {
-  "apkName": "org.nuclearfog.apollo_76.apk",
+  "apkName": "org.nuclearfog.apollo_77.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8zqhnwYI0nQShZtr6nKF/oebGaS6I1PKvvBqh7vZhgg="
+      "hash": "sha256-HLBzMHjZEJZjgqwiJjUwxncqi2SCAK6E0fWncFhmQnE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8zqhnwYI0nQShZtr6nKF/oebGaS6I1PKvvBqh7vZhgg="
+      "hash": "sha256-HLBzMHjZEJZjgqwiJjUwxncqi2SCAK6E0fWncFhmQnE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8zqhnwYI0nQShZtr6nKF/oebGaS6I1PKvvBqh7vZhgg="
+      "hash": "sha256-HLBzMHjZEJZjgqwiJjUwxncqi2SCAK6E0fWncFhmQnE="
     }
   },
-  "version": "1.7.8"
+  "version": "1.7.9"
 }

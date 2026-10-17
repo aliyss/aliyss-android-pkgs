@@ -1,18 +1,18 @@
 {
-  "apkName": "com.donnnno.arcticons.daynight_1550.apk",
+  "apkName": "com.donnnno.arcticons.daynight_1570.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KFJuVBo9lmxL7R+4isH1bZRJPBFAr/skh+c7q5AhGo0="
+      "hash": "sha256-1a7J+h4CcYdDwhYZMAa/oLpxpq3nRQTQbgRqZrKe1Lg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KFJuVBo9lmxL7R+4isH1bZRJPBFAr/skh+c7q5AhGo0="
+      "hash": "sha256-1a7J+h4CcYdDwhYZMAa/oLpxpq3nRQTQbgRqZrKe1Lg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KFJuVBo9lmxL7R+4isH1bZRJPBFAr/skh+c7q5AhGo0="
+      "hash": "sha256-1a7J+h4CcYdDwhYZMAa/oLpxpq3nRQTQbgRqZrKe1Lg="
     }
   },
-  "version": "14.9.1"
+  "version": "15.3.2"
 }

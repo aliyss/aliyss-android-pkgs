@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.pgaxis.musicaxs_32.apk",
+  "apkName": "dev.pgaxis.musicaxs_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-b6+Gxu4OwF91osUpFuyYfxjiQgwGXO09467RVlrATjk="
+      "hash": "sha256-DS9Fe9CxEfTdMQKkAEE9NhBYic9UwKf3dBW7Kamn7mU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-b6+Gxu4OwF91osUpFuyYfxjiQgwGXO09467RVlrATjk="
+      "hash": "sha256-DS9Fe9CxEfTdMQKkAEE9NhBYic9UwKf3dBW7Kamn7mU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-b6+Gxu4OwF91osUpFuyYfxjiQgwGXO09467RVlrATjk="
+      "hash": "sha256-DS9Fe9CxEfTdMQKkAEE9NhBYic9UwKf3dBW7Kamn7mU="
     }
   },
-  "version": "1.12.3"
+  "version": "1.14.0"
 }

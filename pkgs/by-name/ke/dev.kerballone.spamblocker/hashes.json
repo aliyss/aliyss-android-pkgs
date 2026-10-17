@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.kerballone.spamblocker_612.apk",
+  "apkName": "dev.kerballone.spamblocker_620.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JzCv9KStCCFMzfZ5lE06iqDRr1K1pxwfKRLjOnZGOjM="
+      "hash": "sha256-b2sjts7f/tK1XalmszWj6P0UFUN9pZOOQWxnuLk9AT4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JzCv9KStCCFMzfZ5lE06iqDRr1K1pxwfKRLjOnZGOjM="
+      "hash": "sha256-b2sjts7f/tK1XalmszWj6P0UFUN9pZOOQWxnuLk9AT4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JzCv9KStCCFMzfZ5lE06iqDRr1K1pxwfKRLjOnZGOjM="
+      "hash": "sha256-b2sjts7f/tK1XalmszWj6P0UFUN9pZOOQWxnuLk9AT4="
     }
   },
-  "version": "6.1.2"
+  "version": "6.2.0"
 }

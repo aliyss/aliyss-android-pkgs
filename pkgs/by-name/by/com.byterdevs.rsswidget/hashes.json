@@ -1,18 +1,18 @@
 {
-  "apkName": "com.byterdevs.rsswidget_12.apk",
+  "apkName": "com.byterdevs.rsswidget_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/+xE1IrGsUF/Mfyd6lc0OidE0ucsGsEya9UU+FTWziU="
+      "hash": "sha256-FmOqAV5GWztyZ7ulom/Kg1bQWKpPZnoOvvA/K0cQyDY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/+xE1IrGsUF/Mfyd6lc0OidE0ucsGsEya9UU+FTWziU="
+      "hash": "sha256-FmOqAV5GWztyZ7ulom/Kg1bQWKpPZnoOvvA/K0cQyDY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/+xE1IrGsUF/Mfyd6lc0OidE0ucsGsEya9UU+FTWziU="
+      "hash": "sha256-FmOqAV5GWztyZ7ulom/Kg1bQWKpPZnoOvvA/K0cQyDY="
     }
   },
-  "version": "1.7.0"
+  "version": "1.8.0"
 }

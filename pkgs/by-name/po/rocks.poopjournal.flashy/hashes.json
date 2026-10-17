@@ -1,18 +1,18 @@
 {
-  "apkName": "rocks.poopjournal.flashy_33.apk",
+  "apkName": "rocks.poopjournal.flashy_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-xrAvqpRF8LTFw6lySDwLFwEHaxwDXU88sHPsZXN12JI="
+      "hash": "sha256-WCV62gvM5uj+K1JorzXNsuouS7hyM/4i7L7n6SniGKc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xrAvqpRF8LTFw6lySDwLFwEHaxwDXU88sHPsZXN12JI="
+      "hash": "sha256-WCV62gvM5uj+K1JorzXNsuouS7hyM/4i7L7n6SniGKc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xrAvqpRF8LTFw6lySDwLFwEHaxwDXU88sHPsZXN12JI="
+      "hash": "sha256-WCV62gvM5uj+K1JorzXNsuouS7hyM/4i7L7n6SniGKc="
     }
   },
-  "version": "3.3"
+  "version": "3.7"
 }

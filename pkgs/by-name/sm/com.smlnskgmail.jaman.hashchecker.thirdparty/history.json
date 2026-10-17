@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "3.7.3-thirdparty",
+      "versionCode": 99
+    },
+    {
+      "version": "3.7.2-thirdparty",
+      "versionCode": 98
+    },
+    {
+      "version": "3.7.1-thirdparty",
+      "versionCode": 97
+    }
+  ]
+}

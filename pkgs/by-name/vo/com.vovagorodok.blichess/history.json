@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "8.0.0+ble2.5.1",
+      "versionCode": 29
+    },
+    {
+      "version": "8.0.0+ble2.5.0",
+      "versionCode": 28
+    },
+    {
+      "version": "8.0.0+ble2.4.1",
+      "versionCode": 27
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "apkName": "app.crossword.yourealwaysbe.forkyz_8500000.apk",
+  "apkName": "app.crossword.yourealwaysbe.forkyz_8600000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-M+4+/K7kZBXauFAwKGElcWL+Yl63RSrVqtqcd7Lp3Tk="
+      "hash": "sha256-7XN9cOdI9nAHaqhJQdIYtogqb+hnmzIZFRVwlTvVhSg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-M+4+/K7kZBXauFAwKGElcWL+Yl63RSrVqtqcd7Lp3Tk="
+      "hash": "sha256-7XN9cOdI9nAHaqhJQdIYtogqb+hnmzIZFRVwlTvVhSg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-M+4+/K7kZBXauFAwKGElcWL+Yl63RSrVqtqcd7Lp3Tk="
+      "hash": "sha256-7XN9cOdI9nAHaqhJQdIYtogqb+hnmzIZFRVwlTvVhSg="
     }
   },
-  "version": "85"
+  "version": "86"
 }

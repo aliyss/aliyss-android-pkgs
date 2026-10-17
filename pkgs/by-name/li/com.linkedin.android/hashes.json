@@ -1,4 +1,17 @@
 {
-  "version": "",
-  "architectures": {}
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-IDi1cI3XIwGc7+x/+7u9ziPZuOESe3Culc4ZwcZYshY="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IDi1cI3XIwGc7+x/+7u9ziPZuOESe3Culc4ZwcZYshY="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-IDi1cI3XIwGc7+x/+7u9ziPZuOESe3Culc4ZwcZYshY="
+    }
+  },
+  "version": "6.1.1"
 }

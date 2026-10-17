@@ -1,18 +1,18 @@
 {
-  "apkName": "com.nononsenseapps.notepad_72600.apk",
+  "apkName": "com.nononsenseapps.notepad_72700.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7UTXr/eEmKWYrJLoMchZZJKByM29TQ4XEwy93oB1URQ="
+      "hash": "sha256-DXmIQCDyoJ4HhyguNF1+iAiCbg+wkTX2IABwFbMGMLA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7UTXr/eEmKWYrJLoMchZZJKByM29TQ4XEwy93oB1URQ="
+      "hash": "sha256-DXmIQCDyoJ4HhyguNF1+iAiCbg+wkTX2IABwFbMGMLA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7UTXr/eEmKWYrJLoMchZZJKByM29TQ4XEwy93oB1URQ="
+      "hash": "sha256-DXmIQCDyoJ4HhyguNF1+iAiCbg+wkTX2IABwFbMGMLA="
     }
   },
-  "version": "7.2.6"
+  "version": "7.2.7"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "ru.nsu.bobrofon.easysshfs_103.apk",
+  "apkName": "ru.nsu.bobrofon.easysshfs_105.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-fii3QeI5IDJ4M2eKLV6GaKFR2lyYU0ta12SQ6iVvzWc="
+      "hash": "sha256-GOC1zMHfecUQX5tGEWew7PR2aYOX6jfVwH4MQ8hGHlI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fii3QeI5IDJ4M2eKLV6GaKFR2lyYU0ta12SQ6iVvzWc="
+      "hash": "sha256-GOC1zMHfecUQX5tGEWew7PR2aYOX6jfVwH4MQ8hGHlI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fii3QeI5IDJ4M2eKLV6GaKFR2lyYU0ta12SQ6iVvzWc="
+      "hash": "sha256-GOC1zMHfecUQX5tGEWew7PR2aYOX6jfVwH4MQ8hGHlI="
     }
   },
-  "version": "0.5.18"
+  "version": "0.5.19"
 }

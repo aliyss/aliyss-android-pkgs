@@ -1,18 +1,18 @@
 {
-  "apkName": "com.novadial.phone_30.apk",
+  "apkName": "com.novadial.phone_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-U519ajNYAv02l4DGLRElMccGY5VgCslG+Gcehy2uMzY="
+      "hash": "sha256-IiufMMhhnaxrlt7pNbDJbHLq0ARaSmgy0hAb4c1avow="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-U519ajNYAv02l4DGLRElMccGY5VgCslG+Gcehy2uMzY="
+      "hash": "sha256-IiufMMhhnaxrlt7pNbDJbHLq0ARaSmgy0hAb4c1avow="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-U519ajNYAv02l4DGLRElMccGY5VgCslG+Gcehy2uMzY="
+      "hash": "sha256-IiufMMhhnaxrlt7pNbDJbHLq0ARaSmgy0hAb4c1avow="
     }
   },
-  "version": "1.3.3"
+  "version": "1.5.3"
 }

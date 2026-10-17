@@ -1,18 +1,18 @@
 {
-  "apkName": "com.hwloc.lstopo_80284.apk",
+  "apkName": "com.hwloc.lstopo_80285.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TGfcY+90vm80kMiBTiLpLU+eMcQsyxf0D1gkImew23o="
+      "hash": "sha256-kOFeRgBi5jzSR4FUFV6sSWQasVth4F6wJIhvtju+Zak="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TGfcY+90vm80kMiBTiLpLU+eMcQsyxf0D1gkImew23o="
+      "hash": "sha256-kOFeRgBi5jzSR4FUFV6sSWQasVth4F6wJIhvtju+Zak="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TGfcY+90vm80kMiBTiLpLU+eMcQsyxf0D1gkImew23o="
+      "hash": "sha256-kOFeRgBi5jzSR4FUFV6sSWQasVth4F6wJIhvtju+Zak="
     }
   },
-  "version": "2.14.0-2-1.6.2"
+  "version": "2.15.0-1-1.6.2"
 }

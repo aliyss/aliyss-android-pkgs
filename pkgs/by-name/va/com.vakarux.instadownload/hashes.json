@@ -1,18 +1,18 @@
 {
-  "apkName": "com.vakarux.instadownload_13.apk",
+  "apkName": "com.vakarux.instadownload_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-waKYbz5bD7QDS47BKE8Y9ZSVLkqjzhqr9MLXK2wwljg="
+      "hash": "sha256-GGY3et9vjAe2PL86Ja+rLJqbLFFFeKiKoar6xrFy4ko="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-waKYbz5bD7QDS47BKE8Y9ZSVLkqjzhqr9MLXK2wwljg="
+      "hash": "sha256-GGY3et9vjAe2PL86Ja+rLJqbLFFFeKiKoar6xrFy4ko="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-waKYbz5bD7QDS47BKE8Y9ZSVLkqjzhqr9MLXK2wwljg="
+      "hash": "sha256-GGY3et9vjAe2PL86Ja+rLJqbLFFFeKiKoar6xrFy4ko="
     }
   },
-  "version": "2.5.0"
+  "version": "2.8.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "org.cryptomator.lite_3030.apk",
+  "apkName": "org.cryptomator.lite_3157.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1ctsC7QLWoL+TqVolZmqhxu3JcJfDW0b3kQSC2lgc7k="
+      "hash": "sha256-/IosfwIJXUqkbxo0UWAS3ZfQIPZ1U4VOfkGJrGK8ZZc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1ctsC7QLWoL+TqVolZmqhxu3JcJfDW0b3kQSC2lgc7k="
+      "hash": "sha256-/IosfwIJXUqkbxo0UWAS3ZfQIPZ1U4VOfkGJrGK8ZZc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1ctsC7QLWoL+TqVolZmqhxu3JcJfDW0b3kQSC2lgc7k="
+      "hash": "sha256-/IosfwIJXUqkbxo0UWAS3ZfQIPZ1U4VOfkGJrGK8ZZc="
     }
   },
-  "version": "1.12.3"
+  "version": "2.1.0-beta1"
 }

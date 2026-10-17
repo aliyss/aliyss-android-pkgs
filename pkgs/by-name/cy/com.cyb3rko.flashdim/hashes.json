@@ -1,18 +1,18 @@
 {
-  "apkName": "com.cyb3rko.flashdim_31.apk",
+  "apkName": "com.cyb3rko.flashdim_35.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bzSHZ8rKb9pAbt3PvwI5lbYe4Rgr+PYkEj6VoPaQ0dk="
+      "hash": "sha256-2D2OX7KbCe20WmV6CrzdljCtHgSPKb5DmVj4YjZWmzM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bzSHZ8rKb9pAbt3PvwI5lbYe4Rgr+PYkEj6VoPaQ0dk="
+      "hash": "sha256-2D2OX7KbCe20WmV6CrzdljCtHgSPKb5DmVj4YjZWmzM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bzSHZ8rKb9pAbt3PvwI5lbYe4Rgr+PYkEj6VoPaQ0dk="
+      "hash": "sha256-2D2OX7KbCe20WmV6CrzdljCtHgSPKb5DmVj4YjZWmzM="
     }
   },
-  "version": "2.4.3"
+  "version": "2.5.3"
 }

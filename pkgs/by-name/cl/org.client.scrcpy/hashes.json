@@ -1,18 +1,18 @@
 {
-  "apkName": "org.client.scrcpy_14.apk",
+  "apkName": "org.client.scrcpy_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9sSNrNOTcsoEMq0XKwYr3NdosX8Mlz+RPMlNU+LVbHI="
+      "hash": "sha256-OqqPeRvPdcXNkFdyG1GcJr7+HVWdvwxBqTlGmYvgskg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9sSNrNOTcsoEMq0XKwYr3NdosX8Mlz+RPMlNU+LVbHI="
+      "hash": "sha256-OqqPeRvPdcXNkFdyG1GcJr7+HVWdvwxBqTlGmYvgskg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9sSNrNOTcsoEMq0XKwYr3NdosX8Mlz+RPMlNU+LVbHI="
+      "hash": "sha256-OqqPeRvPdcXNkFdyG1GcJr7+HVWdvwxBqTlGmYvgskg="
     }
   },
-  "version": "1.5.1"
+  "version": "1.6.1"
 }

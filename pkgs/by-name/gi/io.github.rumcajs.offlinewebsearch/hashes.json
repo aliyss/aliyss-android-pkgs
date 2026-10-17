@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.rumcajs.offlinewebsearch_14.apk",
+  "apkName": "io.github.rumcajs.offlinewebsearch_40.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zY29HcHdlEVArQQR/uOAScKOwC77QV9TRmArmp3vT0U="
+      "hash": "sha256-R6pMWvWgpG27vBiWZxQYys+DYt27x4w6TT7nyVHw1eQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zY29HcHdlEVArQQR/uOAScKOwC77QV9TRmArmp3vT0U="
+      "hash": "sha256-R6pMWvWgpG27vBiWZxQYys+DYt27x4w6TT7nyVHw1eQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zY29HcHdlEVArQQR/uOAScKOwC77QV9TRmArmp3vT0U="
+      "hash": "sha256-R6pMWvWgpG27vBiWZxQYys+DYt27x4w6TT7nyVHw1eQ="
     }
   },
-  "version": "1.0.12"
+  "version": "1.0.38"
 }

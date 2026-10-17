@@ -1,18 +1,18 @@
 {
-  "apkName": "com.klee.volumelockr_19.apk",
+  "apkName": "com.klee.volumelockr_21.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-QZSAY1gypVTsv5zMfUpU1+fn+Od3ShUg6CQ1RdBMePw="
+      "hash": "sha256-LEjOiHUAQhrLWHT00tnc2efXr06paXUJjuw0l9n3etU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-QZSAY1gypVTsv5zMfUpU1+fn+Od3ShUg6CQ1RdBMePw="
+      "hash": "sha256-LEjOiHUAQhrLWHT00tnc2efXr06paXUJjuw0l9n3etU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-QZSAY1gypVTsv5zMfUpU1+fn+Od3ShUg6CQ1RdBMePw="
+      "hash": "sha256-LEjOiHUAQhrLWHT00tnc2efXr06paXUJjuw0l9n3etU="
     }
   },
-  "version": "1.8.2"
+  "version": "1.9.0"
 }

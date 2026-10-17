@@ -1,18 +1,18 @@
 {
-  "apkName": "com.codedead.advancedpassgen_4.apk",
+  "apkName": "com.codedead.advancedpassgen_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-QOGDZTol+sTL6j15Rnn1v1oAIZaa+qop7MNrQljFkc8="
+      "hash": "sha256-Izoj7Hrllhr+OL6Lz1o3xEsnGZSuirsBKENOdICnSxc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-QOGDZTol+sTL6j15Rnn1v1oAIZaa+qop7MNrQljFkc8="
+      "hash": "sha256-Izoj7Hrllhr+OL6Lz1o3xEsnGZSuirsBKENOdICnSxc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-QOGDZTol+sTL6j15Rnn1v1oAIZaa+qop7MNrQljFkc8="
+      "hash": "sha256-Izoj7Hrllhr+OL6Lz1o3xEsnGZSuirsBKENOdICnSxc="
     }
   },
-  "version": "1.0.3"
+  "version": "1.0.4"
 }

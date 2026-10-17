@@ -1,18 +1,18 @@
 {
-  "apkName": "de.moroway.oc_100313.apk",
+  "apkName": "de.moroway.oc_100314.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-psOQUph98pNQ32VVDLE6EQ+E+z2n+fW3ZXCccWjJEvA="
+      "hash": "sha256-4k1wKLRMr+rWDQmFkrcmKn1lqhnnHoH9zazZw7tbk1I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-psOQUph98pNQ32VVDLE6EQ+E+z2n+fW3ZXCccWjJEvA="
+      "hash": "sha256-4k1wKLRMr+rWDQmFkrcmKn1lqhnnHoH9zazZw7tbk1I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-psOQUph98pNQ32VVDLE6EQ+E+z2n+fW3ZXCccWjJEvA="
+      "hash": "sha256-4k1wKLRMr+rWDQmFkrcmKn1lqhnnHoH9zazZw7tbk1I="
     }
   },
-  "version": "10.3.13"
+  "version": "10.3.14"
 }

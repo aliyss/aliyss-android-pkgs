@@ -1,18 +1,18 @@
 {
-  "apkName": "com.apk.editor_35.apk",
+  "apkName": "com.apk.editor_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aGO7m47y3eINTKgRvBwtaDSKUR1b+08y6QXFLMd/FEU="
+      "hash": "sha256-VDs1aytUCpPOb1SGztHws/lxyCDzLjotQ8LRU4+0Xgg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aGO7m47y3eINTKgRvBwtaDSKUR1b+08y6QXFLMd/FEU="
+      "hash": "sha256-VDs1aytUCpPOb1SGztHws/lxyCDzLjotQ8LRU4+0Xgg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aGO7m47y3eINTKgRvBwtaDSKUR1b+08y6QXFLMd/FEU="
+      "hash": "sha256-VDs1aytUCpPOb1SGztHws/lxyCDzLjotQ8LRU4+0Xgg="
     }
   },
-  "version": "v0.35"
+  "version": "v0.36"
 }

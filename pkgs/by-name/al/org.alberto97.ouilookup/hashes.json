@@ -1,18 +1,18 @@
 {
-  "apkName": "org.alberto97.ouilookup_25.apk",
+  "apkName": "org.alberto97.ouilookup_26.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-sKgoWQJY2uXKueWDYDO7SAvXYJK8p4Wuqw8Rr2lXt+Y="
+      "hash": "sha256-+E841cnuRFFh57+S/CtV1xq24wrcUNdb0hAhoCBE8NQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sKgoWQJY2uXKueWDYDO7SAvXYJK8p4Wuqw8Rr2lXt+Y="
+      "hash": "sha256-+E841cnuRFFh57+S/CtV1xq24wrcUNdb0hAhoCBE8NQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sKgoWQJY2uXKueWDYDO7SAvXYJK8p4Wuqw8Rr2lXt+Y="
+      "hash": "sha256-+E841cnuRFFh57+S/CtV1xq24wrcUNdb0hAhoCBE8NQ="
     }
   },
-  "version": "1.6.6"
+  "version": "1.6.7"
 }

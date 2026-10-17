@@ -1,18 +1,18 @@
 {
-  "apkName": "com.techtrest.privamatic_6.apk",
+  "apkName": "com.techtrest.privamatic_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-19rDQBcnkDwkQCjS8wyHGdTBREyZK8H5JSWypjQy2YY="
+      "hash": "sha256-yoKoMiM/5HEb5Y4+iymoX7/f0hIuu89xIEi5KC0gTdU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-19rDQBcnkDwkQCjS8wyHGdTBREyZK8H5JSWypjQy2YY="
+      "hash": "sha256-yoKoMiM/5HEb5Y4+iymoX7/f0hIuu89xIEi5KC0gTdU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-19rDQBcnkDwkQCjS8wyHGdTBREyZK8H5JSWypjQy2YY="
+      "hash": "sha256-yoKoMiM/5HEb5Y4+iymoX7/f0hIuu89xIEi5KC0gTdU="
     }
   },
-  "version": "1.4.0"
+  "version": "1.5.1"
 }

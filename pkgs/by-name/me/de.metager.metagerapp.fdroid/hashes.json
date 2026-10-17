@@ -1,18 +1,18 @@
 {
-  "apkName": "de.metager.metagerapp.fdroid_50111.apk",
+  "apkName": "de.metager.metagerapp.fdroid_62500.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FQEagrAR4odgffV0rotZfvgpbAF2ew38NBVMLTDGvc0="
+      "hash": "sha256-yWOF/iynhaedtrfvM/7B8r5B6KRkO3fsp70eh8vLNIk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FQEagrAR4odgffV0rotZfvgpbAF2ew38NBVMLTDGvc0="
+      "hash": "sha256-yWOF/iynhaedtrfvM/7B8r5B6KRkO3fsp70eh8vLNIk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FQEagrAR4odgffV0rotZfvgpbAF2ew38NBVMLTDGvc0="
+      "hash": "sha256-yWOF/iynhaedtrfvM/7B8r5B6KRkO3fsp70eh8vLNIk="
     }
   },
-  "version": "5.1.11"
+  "version": "6.25.0"
 }

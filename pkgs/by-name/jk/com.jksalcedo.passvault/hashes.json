@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jksalcedo.passvault_42.apk",
+  "apkName": "com.jksalcedo.passvault_44.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-p1Kje4NwwTiTP9UK+0CVAiV5LpVivVC53fOi3Atg590="
+      "hash": "sha256-ugXIQUyEbsY+pMN2P38o6FaGPqiitxQ9kPeRWo50Pa0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-p1Kje4NwwTiTP9UK+0CVAiV5LpVivVC53fOi3Atg590="
+      "hash": "sha256-ugXIQUyEbsY+pMN2P38o6FaGPqiitxQ9kPeRWo50Pa0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-p1Kje4NwwTiTP9UK+0CVAiV5LpVivVC53fOi3Atg590="
+      "hash": "sha256-ugXIQUyEbsY+pMN2P38o6FaGPqiitxQ9kPeRWo50Pa0="
     }
   },
-  "version": "2.2.0"
+  "version": "2.2.2"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.craxiom.networksurvey_115.apk",
+  "apkName": "com.craxiom.networksurvey_118.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qbI2aIlwrQZqOsODiorUmW5mx4hkbsff8e/IaaO8eac="
+      "hash": "sha256-abIRjjBfAe4VvCAgaFerz63OZk8x75/CikC0OZa1aYw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qbI2aIlwrQZqOsODiorUmW5mx4hkbsff8e/IaaO8eac="
+      "hash": "sha256-abIRjjBfAe4VvCAgaFerz63OZk8x75/CikC0OZa1aYw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qbI2aIlwrQZqOsODiorUmW5mx4hkbsff8e/IaaO8eac="
+      "hash": "sha256-abIRjjBfAe4VvCAgaFerz63OZk8x75/CikC0OZa1aYw="
     }
   },
-  "version": "1.56"
+  "version": "1.59"
 }

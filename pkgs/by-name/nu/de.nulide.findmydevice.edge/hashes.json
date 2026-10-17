@@ -1,18 +1,18 @@
 {
-  "apkName": "de.nulide.findmydevice.edge_43.apk",
+  "apkName": "de.nulide.findmydevice.edge_45.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-RWzwoyhJ23irld34y4iRLuJSz9UkmetAxYmyb4M/p48="
+      "hash": "sha256-trboniEdo3CnmdnRCAX/Qn+GZUzN0Ch/H4hJzwyjnpA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RWzwoyhJ23irld34y4iRLuJSz9UkmetAxYmyb4M/p48="
+      "hash": "sha256-trboniEdo3CnmdnRCAX/Qn+GZUzN0Ch/H4hJzwyjnpA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RWzwoyhJ23irld34y4iRLuJSz9UkmetAxYmyb4M/p48="
+      "hash": "sha256-trboniEdo3CnmdnRCAX/Qn+GZUzN0Ch/H4hJzwyjnpA="
     }
   },
-  "version": "0.16.1"
+  "version": "0.17.0"
 }

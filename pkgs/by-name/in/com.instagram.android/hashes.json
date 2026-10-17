@@ -1,4 +1,17 @@
 {
-  "version": "",
-  "architectures": {}
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-skyRMSS2kWKAVRydlvvYGGTL7fqfyT4t4BYUTiqBaWo="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-skyRMSS2kWKAVRydlvvYGGTL7fqfyT4t4BYUTiqBaWo="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-skyRMSS2kWKAVRydlvvYGGTL7fqfyT4t4BYUTiqBaWo="
+    }
+  },
+  "version": "451.0.0.53.80"
 }

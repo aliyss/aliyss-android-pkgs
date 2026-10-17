@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.aedev.flow_17.apk",
+  "apkName": "io.github.aedev.flow_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6FBYsTNpaOUETHS7RC/XW7dZSCjFKkqqJmlS3ucIa78="
+      "hash": "sha256-LnDo30Sgl1458f05WZJleLK5LGBLcUuX5eC21+9p6us="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6FBYsTNpaOUETHS7RC/XW7dZSCjFKkqqJmlS3ucIa78="
+      "hash": "sha256-LnDo30Sgl1458f05WZJleLK5LGBLcUuX5eC21+9p6us="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6FBYsTNpaOUETHS7RC/XW7dZSCjFKkqqJmlS3ucIa78="
+      "hash": "sha256-LnDo30Sgl1458f05WZJleLK5LGBLcUuX5eC21+9p6us="
     }
   },
-  "version": "2.2.0"
+  "version": "2.2.1"
 }

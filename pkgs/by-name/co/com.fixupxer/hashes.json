@@ -1,18 +1,18 @@
 {
-  "apkName": "com.fixupxer_44.apk",
+  "apkName": "com.fixupxer_57.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-cULC4vmIt6Y7Ig/sywnaS9bMnHZuzIMFgIO+aKS5/ac="
+      "hash": "sha256-7wpzdBysXSRuZMtYAMKasYbjR0Zzlc78ayo3r7+3w8E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cULC4vmIt6Y7Ig/sywnaS9bMnHZuzIMFgIO+aKS5/ac="
+      "hash": "sha256-7wpzdBysXSRuZMtYAMKasYbjR0Zzlc78ayo3r7+3w8E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cULC4vmIt6Y7Ig/sywnaS9bMnHZuzIMFgIO+aKS5/ac="
+      "hash": "sha256-7wpzdBysXSRuZMtYAMKasYbjR0Zzlc78ayo3r7+3w8E="
     }
   },
-  "version": "2.6.2"
+  "version": "2.9.2"
 }

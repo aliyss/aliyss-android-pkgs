@@ -1,4 +1,17 @@
 {
-  "version": "",
-  "architectures": {}
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-fdMnQ2XNOdB/U8GpHc0p9uU7barYlon+dMMgIuIkw8M="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fdMnQ2XNOdB/U8GpHc0p9uU7barYlon+dMMgIuIkw8M="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-fdMnQ2XNOdB/U8GpHc0p9uU7barYlon+dMMgIuIkw8M="
+    }
+  },
+  "version": "2026.42.2"
 }

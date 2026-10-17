@@ -1,18 +1,18 @@
 {
-  "apkName": "cube.run_5.apk",
+  "apkName": "cube.run_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9abWKYSg9gzm/AJDl2COldydvFA3DLuiGZiGveal/iw="
+      "hash": "sha256-5b/mHi+J6eXGUBFM2H7e4pyiMU+MzcKXOwefMlRMdsM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9abWKYSg9gzm/AJDl2COldydvFA3DLuiGZiGveal/iw="
+      "hash": "sha256-5b/mHi+J6eXGUBFM2H7e4pyiMU+MzcKXOwefMlRMdsM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9abWKYSg9gzm/AJDl2COldydvFA3DLuiGZiGveal/iw="
+      "hash": "sha256-5b/mHi+J6eXGUBFM2H7e4pyiMU+MzcKXOwefMlRMdsM="
     }
   },
-  "version": "1.4"
+  "version": "2.7"
 }

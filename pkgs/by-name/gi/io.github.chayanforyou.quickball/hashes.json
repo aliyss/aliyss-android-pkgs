@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.chayanforyou.quickball_18.apk",
+  "apkName": "io.github.chayanforyou.quickball_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-QdQRHX8SYGooyPfH12b4hQquaUyDtJSkBzwHIcf+2WY="
+      "hash": "sha256-S+pWKi9NieKmY9FX8MFnanrxY6fxRos/5Ouk3o7ISjs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-QdQRHX8SYGooyPfH12b4hQquaUyDtJSkBzwHIcf+2WY="
+      "hash": "sha256-S+pWKi9NieKmY9FX8MFnanrxY6fxRos/5Ouk3o7ISjs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-QdQRHX8SYGooyPfH12b4hQquaUyDtJSkBzwHIcf+2WY="
+      "hash": "sha256-S+pWKi9NieKmY9FX8MFnanrxY6fxRos/5Ouk3o7ISjs="
     }
   },
-  "version": "4.3.3"
+  "version": "6.0.0"
 }

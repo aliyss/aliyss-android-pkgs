@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.probably_oxy.drift_10.apk",
+  "apkName": "io.github.probably_oxy.drift_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-B0j9eHqNDJ1VjX84e3GCuLbS7l2PP5i2VH9zzB7ZgmY="
+      "hash": "sha256-R7DGOO0d/Z971Hhwtzv3dSdyWwKfEkr5n0KbTMv8xPI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-B0j9eHqNDJ1VjX84e3GCuLbS7l2PP5i2VH9zzB7ZgmY="
+      "hash": "sha256-R7DGOO0d/Z971Hhwtzv3dSdyWwKfEkr5n0KbTMv8xPI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-B0j9eHqNDJ1VjX84e3GCuLbS7l2PP5i2VH9zzB7ZgmY="
+      "hash": "sha256-R7DGOO0d/Z971Hhwtzv3dSdyWwKfEkr5n0KbTMv8xPI="
     }
   },
-  "version": "0.4.1"
+  "version": "0.5.0"
 }

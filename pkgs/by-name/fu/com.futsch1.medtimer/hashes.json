@@ -1,18 +1,18 @@
 {
-  "apkName": "com.futsch1.medtimer_183.apk",
+  "apkName": "com.futsch1.medtimer_187.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-4maiS3Mvpor5dtv1sMb4btLDSkRcWsPeG2DN+kniTNs="
+      "hash": "sha256-bPKCybqws1B9hNIHiVKloKD4mOp7YvYBQn2Wr5CDgxo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4maiS3Mvpor5dtv1sMb4btLDSkRcWsPeG2DN+kniTNs="
+      "hash": "sha256-bPKCybqws1B9hNIHiVKloKD4mOp7YvYBQn2Wr5CDgxo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4maiS3Mvpor5dtv1sMb4btLDSkRcWsPeG2DN+kniTNs="
+      "hash": "sha256-bPKCybqws1B9hNIHiVKloKD4mOp7YvYBQn2Wr5CDgxo="
     }
   },
-  "version": "1.25.0"
+  "version": "1.26.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "ac.stresa.uturn_16.apk",
+  "apkName": "ac.stresa.uturn_21.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0BioyEm8jJZVI7KEpsu7ApsEMrJr1+yGzRw3JircCRc="
+      "hash": "sha256-CIyYNf3gplfDvlvfTEB1Vwm51BOH2Z9r4nOjXEFf+cs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0BioyEm8jJZVI7KEpsu7ApsEMrJr1+yGzRw3JircCRc="
+      "hash": "sha256-CIyYNf3gplfDvlvfTEB1Vwm51BOH2Z9r4nOjXEFf+cs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0BioyEm8jJZVI7KEpsu7ApsEMrJr1+yGzRw3JircCRc="
+      "hash": "sha256-CIyYNf3gplfDvlvfTEB1Vwm51BOH2Z9r4nOjXEFf+cs="
     }
   },
-  "version": "1.1.1"
+  "version": "1.1.6"
 }

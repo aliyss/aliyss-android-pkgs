@@ -1,18 +1,18 @@
 {
-  "apkName": "com.furthersecrets.chemsearch_11308.apk",
+  "apkName": "com.furthersecrets.chemsearch_11501.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gxCmS9R8YK5nsOuqvEfv0DxJI9hF3TwgGaMFympHv/0="
+      "hash": "sha256-cecqv6J6zzW/6uX2XR0u5XlkM9UeFgYfk1+vJhTzKwM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gxCmS9R8YK5nsOuqvEfv0DxJI9hF3TwgGaMFympHv/0="
+      "hash": "sha256-cecqv6J6zzW/6uX2XR0u5XlkM9UeFgYfk1+vJhTzKwM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gxCmS9R8YK5nsOuqvEfv0DxJI9hF3TwgGaMFympHv/0="
+      "hash": "sha256-cecqv6J6zzW/6uX2XR0u5XlkM9UeFgYfk1+vJhTzKwM="
     }
   },
-  "version": "1.13.8"
+  "version": "1.15.1"
 }

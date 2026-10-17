@@ -1,18 +1,18 @@
 {
-  "apkName": "app.passwordstore.pando85_12000.apk",
+  "apkName": "app.passwordstore.pando85_12502.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-EoqrHMOgrRCLNygckOCN6CeF/AjqoYLa9AwJSrGGc+Q="
+      "hash": "sha256-dmzKFlgPQqpzCzsq4f/0oGepthJksSolQeTNPF5nC20="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EoqrHMOgrRCLNygckOCN6CeF/AjqoYLa9AwJSrGGc+Q="
+      "hash": "sha256-dmzKFlgPQqpzCzsq4f/0oGepthJksSolQeTNPF5nC20="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EoqrHMOgrRCLNygckOCN6CeF/AjqoYLa9AwJSrGGc+Q="
+      "hash": "sha256-dmzKFlgPQqpzCzsq4f/0oGepthJksSolQeTNPF5nC20="
     }
   },
-  "version": "1.20.0"
+  "version": "1.25.2"
 }

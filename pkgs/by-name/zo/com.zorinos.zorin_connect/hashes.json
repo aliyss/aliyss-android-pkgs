@@ -1,18 +1,18 @@
 {
-  "apkName": "com.zorinos.zorin_connect_13304.apk",
+  "apkName": "com.zorinos.zorin_connect_13513.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tTIPuSMALry47578u+z4vLN8tEIZDMxtlivP0dK11HE="
+      "hash": "sha256-9J+sYyeubCPR2JG6tOqrb+h1AT5P065GqARjfT3tM74="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tTIPuSMALry47578u+z4vLN8tEIZDMxtlivP0dK11HE="
+      "hash": "sha256-9J+sYyeubCPR2JG6tOqrb+h1AT5P065GqARjfT3tM74="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tTIPuSMALry47578u+z4vLN8tEIZDMxtlivP0dK11HE="
+      "hash": "sha256-9J+sYyeubCPR2JG6tOqrb+h1AT5P065GqARjfT3tM74="
     }
   },
-  "version": "1.33.4"
+  "version": "1.35.13"
 }

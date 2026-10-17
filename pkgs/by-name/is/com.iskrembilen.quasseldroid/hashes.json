@@ -1,18 +1,18 @@
 {
-  "apkName": "com.iskrembilen.quasseldroid_1398.apk",
+  "apkName": "com.iskrembilen.quasseldroid_1401.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6wtEWApD8ATNwF+3zzw5AAby3Opu+d/g/p+mS2LiZ40="
+      "hash": "sha256-1X0tyxIa6bBK6CDM4Exl1gLFNFH1+QlYxU6uUV6ONTA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6wtEWApD8ATNwF+3zzw5AAby3Opu+d/g/p+mS2LiZ40="
+      "hash": "sha256-1X0tyxIa6bBK6CDM4Exl1gLFNFH1+QlYxU6uUV6ONTA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6wtEWApD8ATNwF+3zzw5AAby3Opu+d/g/p+mS2LiZ40="
+      "hash": "sha256-1X0tyxIa6bBK6CDM4Exl1gLFNFH1+QlYxU6uUV6ONTA="
     }
   },
-  "version": "1.8.0"
+  "version": "1.8.1"
 }

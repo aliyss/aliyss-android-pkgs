@@ -1,18 +1,18 @@
 {
-  "apkName": "de.readeckapp_1100.apk",
+  "apkName": "de.readeckapp_1200.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-R04Djv1RKtPsok3sa+PVk6l4bp5x6vu9Id5tOsaNiTk="
+      "hash": "sha256-kCT6J3goGDf+JX0yu62BfwdS/IvE5MozpzogZwpDVyY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-R04Djv1RKtPsok3sa+PVk6l4bp5x6vu9Id5tOsaNiTk="
+      "hash": "sha256-kCT6J3goGDf+JX0yu62BfwdS/IvE5MozpzogZwpDVyY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-R04Djv1RKtPsok3sa+PVk6l4bp5x6vu9Id5tOsaNiTk="
+      "hash": "sha256-kCT6J3goGDf+JX0yu62BfwdS/IvE5MozpzogZwpDVyY="
     }
   },
-  "version": "0.11.0"
+  "version": "0.12.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.phnem.vetro_334.apk",
+  "apkName": "com.phnem.vetro_340.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FobYabZ3i6WdSoA6xq77P0ItuYxuQ2X6Px1LvMVpC1A="
+      "hash": "sha256-hMwTqMBx81zmXsYPOA/SaAfkRxAam/DBJqRlDk7AGkI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FobYabZ3i6WdSoA6xq77P0ItuYxuQ2X6Px1LvMVpC1A="
+      "hash": "sha256-hMwTqMBx81zmXsYPOA/SaAfkRxAam/DBJqRlDk7AGkI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FobYabZ3i6WdSoA6xq77P0ItuYxuQ2X6Px1LvMVpC1A="
+      "hash": "sha256-hMwTqMBx81zmXsYPOA/SaAfkRxAam/DBJqRlDk7AGkI="
     }
   },
-  "version": "V3.3.4-Beta"
+  "version": "v3.4.0-Stable"
 }

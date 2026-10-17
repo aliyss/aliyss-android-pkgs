@@ -1,18 +1,18 @@
 {
-  "apkName": "com.zygisk_enc.notivault_4.apk",
+  "apkName": "com.zygisk_enc.notivault_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-P+zCeKyAnal8w55U2H2qNqKH4mMkHexId5HRS23RMyc="
+      "hash": "sha256-s04urYRNavm7MW9h9pZTCy+DL8FViuTXOnP3UpZelDg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-P+zCeKyAnal8w55U2H2qNqKH4mMkHexId5HRS23RMyc="
+      "hash": "sha256-s04urYRNavm7MW9h9pZTCy+DL8FViuTXOnP3UpZelDg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-P+zCeKyAnal8w55U2H2qNqKH4mMkHexId5HRS23RMyc="
+      "hash": "sha256-s04urYRNavm7MW9h9pZTCy+DL8FViuTXOnP3UpZelDg="
     }
   },
-  "version": "2.1.0"
+  "version": "3.0.0"
 }

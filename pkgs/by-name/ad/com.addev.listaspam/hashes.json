@@ -1,18 +1,18 @@
 {
-  "apkName": "com.addev.listaspam_32.apk",
+  "apkName": "com.addev.listaspam_34.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zIObgAhagL06bbauPRQ98axan/p1fCztFdkgwVnBiDo="
+      "hash": "sha256-6GwAaXJlxDavHPcl5LZNSKVUSkZ2lRSL9IIpeJLwTW0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zIObgAhagL06bbauPRQ98axan/p1fCztFdkgwVnBiDo="
+      "hash": "sha256-6GwAaXJlxDavHPcl5LZNSKVUSkZ2lRSL9IIpeJLwTW0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zIObgAhagL06bbauPRQ98axan/p1fCztFdkgwVnBiDo="
+      "hash": "sha256-6GwAaXJlxDavHPcl5LZNSKVUSkZ2lRSL9IIpeJLwTW0="
     }
   },
-  "version": "2.5.8"
+  "version": "2.5.10"
 }

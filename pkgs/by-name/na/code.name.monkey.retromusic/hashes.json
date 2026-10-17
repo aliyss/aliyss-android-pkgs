@@ -1,18 +1,18 @@
 {
-  "apkName": "code.name.monkey.retromusic_10660.apk",
+  "apkName": "code.name.monkey.retromusic_10703.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wYmOH873POtLYOAYVhZ0rTfHH2HQUQIO0Fw/4gl0P4k="
+      "hash": "sha256-74xgEvghyS95h/XyqBZaXqIw+0qGpZnQUUMPvcMFf8c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wYmOH873POtLYOAYVhZ0rTfHH2HQUQIO0Fw/4gl0P4k="
+      "hash": "sha256-74xgEvghyS95h/XyqBZaXqIw+0qGpZnQUUMPvcMFf8c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wYmOH873POtLYOAYVhZ0rTfHH2HQUQIO0Fw/4gl0P4k="
+      "hash": "sha256-74xgEvghyS95h/XyqBZaXqIw+0qGpZnQUUMPvcMFf8c="
     }
   },
-  "version": "6.6.0"
+  "version": "7.0.3"
 }

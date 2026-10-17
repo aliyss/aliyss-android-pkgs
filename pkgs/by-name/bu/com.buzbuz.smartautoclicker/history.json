@@ -1,0 +1,52 @@
+{
+  "versions": [
+    {
+      "version": "4.0.5",
+      "versionCode": 1000004
+    },
+    {
+      "version": "4.0.5",
+      "versionCode": 1000003
+    },
+    {
+      "version": "4.0.5",
+      "versionCode": 1000002
+    },
+    {
+      "version": "4.0.5",
+      "versionCode": 1000001
+    },
+    {
+      "version": "4.0.4",
+      "versionCode": 990004
+    },
+    {
+      "version": "4.0.4",
+      "versionCode": 990003
+    },
+    {
+      "version": "4.0.4",
+      "versionCode": 990002
+    },
+    {
+      "version": "4.0.4",
+      "versionCode": 990001
+    },
+    {
+      "version": "4.0.2",
+      "versionCode": 970004
+    },
+    {
+      "version": "4.0.2",
+      "versionCode": 970003
+    },
+    {
+      "version": "4.0.2",
+      "versionCode": 970002
+    },
+    {
+      "version": "4.0.2",
+      "versionCode": 970001
+    }
+  ]
+}

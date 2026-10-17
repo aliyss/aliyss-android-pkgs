@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.muntashirakon.AppManager_450.apk",
+  "apkName": "io.github.muntashirakon.AppManager_451.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5ZkD7cShTj/diTwd5KFYQU9t2xa64X5ZxXELIEANABQ="
+      "hash": "sha256-4fa6EIEsdAFq1ibhHiehrkUK7CwJZKEUZqu556nI74Q="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5ZkD7cShTj/diTwd5KFYQU9t2xa64X5ZxXELIEANABQ="
+      "hash": "sha256-4fa6EIEsdAFq1ibhHiehrkUK7CwJZKEUZqu556nI74Q="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5ZkD7cShTj/diTwd5KFYQU9t2xa64X5ZxXELIEANABQ="
+      "hash": "sha256-4fa6EIEsdAFq1ibhHiehrkUK7CwJZKEUZqu556nI74Q="
     }
   },
-  "version": "4.1.0"
+  "version": "4.1.1"
 }

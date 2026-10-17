@@ -1,18 +1,18 @@
 {
-  "apkName": "com.openappslabs.coffee_5.apk",
+  "apkName": "com.openappslabs.coffee_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JJs9Z364WFk5ofg58PmFhVDTHNjtNn5ZqoE1cbApo6Y="
+      "hash": "sha256-UMmFcc6s04ETjkQKrvXL7szGt9h/IpnPuFUhwrCR1R8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JJs9Z364WFk5ofg58PmFhVDTHNjtNn5ZqoE1cbApo6Y="
+      "hash": "sha256-UMmFcc6s04ETjkQKrvXL7szGt9h/IpnPuFUhwrCR1R8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JJs9Z364WFk5ofg58PmFhVDTHNjtNn5ZqoE1cbApo6Y="
+      "hash": "sha256-UMmFcc6s04ETjkQKrvXL7szGt9h/IpnPuFUhwrCR1R8="
     }
   },
-  "version": "1.4.0"
+  "version": "1.5.1"
 }
