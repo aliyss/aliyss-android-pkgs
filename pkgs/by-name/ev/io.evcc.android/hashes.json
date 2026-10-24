@@ -1,18 +1,18 @@
 {
-  "apkName": "io.evcc.android_47.apk",
+  "apkName": "io.evcc.android_50.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yVzzGq01DzRmqlDTZ0XpQV25XCYia3hCauC/uqzBZYU="
+      "hash": "sha256-s6oyT+bUZZbvC7iarkN76EsGwHaJxSgC5/GqMJaon8Q="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yVzzGq01DzRmqlDTZ0XpQV25XCYia3hCauC/uqzBZYU="
+      "hash": "sha256-s6oyT+bUZZbvC7iarkN76EsGwHaJxSgC5/GqMJaon8Q="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yVzzGq01DzRmqlDTZ0XpQV25XCYia3hCauC/uqzBZYU="
+      "hash": "sha256-s6oyT+bUZZbvC7iarkN76EsGwHaJxSgC5/GqMJaon8Q="
     }
   },
-  "version": "1.4.1"
+  "version": "1.6.0"
 }

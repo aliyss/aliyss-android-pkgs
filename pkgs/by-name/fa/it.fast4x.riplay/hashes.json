@@ -1,18 +1,18 @@
 {
-  "apkName": "it.fast4x.riplay_88.apk",
+  "apkName": "it.fast4x.riplay_101.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gssEkvKCugvYOw0LYvdNncGe25BD7AvTmhpce/6NV+Q="
+      "hash": "sha256-drbn2/vpbyksv3VOTTXTWz7BGq8jT0f0avoEGsjQVpU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gssEkvKCugvYOw0LYvdNncGe25BD7AvTmhpce/6NV+Q="
+      "hash": "sha256-drbn2/vpbyksv3VOTTXTWz7BGq8jT0f0avoEGsjQVpU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gssEkvKCugvYOw0LYvdNncGe25BD7AvTmhpce/6NV+Q="
+      "hash": "sha256-drbn2/vpbyksv3VOTTXTWz7BGq8jT0f0avoEGsjQVpU="
     }
   },
-  "version": "0.7.87"
+  "version": "0.8.0"
 }

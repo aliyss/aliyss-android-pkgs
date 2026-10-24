@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "4.5.2 (Komodo)",
+      "versionCode": 73
+    },
+    {
+      "version": "4.5.1 (Komodo)",
+      "versionCode": 72
+    },
+    {
+      "version": "4.5.0 (Komodo)",
+      "versionCode": 71
+    }
+  ]
+}

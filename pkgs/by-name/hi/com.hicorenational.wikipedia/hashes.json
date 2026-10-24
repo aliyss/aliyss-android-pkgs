@@ -1,18 +1,18 @@
 {
-  "apkName": "com.hicorenational.wikipedia_50598.apk",
+  "apkName": "com.hicorenational.wikipedia_50611.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-f34CcaMvRTK7x/wa5jln054fzkvvrOi8LwCslv6xxWY="
+      "hash": "sha256-OC9XQpk6jAr0oDW3yOp/I3jNzVIQhfL1GzTahd7F/QI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-f34CcaMvRTK7x/wa5jln054fzkvvrOi8LwCslv6xxWY="
+      "hash": "sha256-OC9XQpk6jAr0oDW3yOp/I3jNzVIQhfL1GzTahd7F/QI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-f34CcaMvRTK7x/wa5jln054fzkvvrOi8LwCslv6xxWY="
+      "hash": "sha256-OC9XQpk6jAr0oDW3yOp/I3jNzVIQhfL1GzTahd7F/QI="
     }
   },
-  "version": "r/50598-r-2026-07-13"
+  "version": "r/50611-r-2026-10-07"
 }

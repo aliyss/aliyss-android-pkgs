@@ -1,18 +1,18 @@
 {
-  "apkName": "com.wmstein.tourcount_383.apk",
+  "apkName": "com.wmstein.tourcount_384.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1T+r8Riktvtr19SuUOQIoeWLw2PFTsRb5M9xOttMIfM="
+      "hash": "sha256-6vWRrxGP0+gNFw1di9flwIWL5noYgRyjdQ8m981iJVY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1T+r8Riktvtr19SuUOQIoeWLw2PFTsRb5M9xOttMIfM="
+      "hash": "sha256-6vWRrxGP0+gNFw1di9flwIWL5noYgRyjdQ8m981iJVY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1T+r8Riktvtr19SuUOQIoeWLw2PFTsRb5M9xOttMIfM="
+      "hash": "sha256-6vWRrxGP0+gNFw1di9flwIWL5noYgRyjdQ8m981iJVY="
     }
   },
-  "version": "3.8.3"
+  "version": "3.8.4"
 }

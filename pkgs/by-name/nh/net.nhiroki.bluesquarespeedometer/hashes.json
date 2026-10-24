@@ -1,18 +1,18 @@
 {
-  "apkName": "net.nhiroki.bluesquarespeedometer_13.apk",
+  "apkName": "net.nhiroki.bluesquarespeedometer_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-YQW82iicHv5sCvhAoIzjuz8hsh5ySyGqi2WqhokrX3w="
+      "hash": "sha256-Jga2v3NZAD19pZOMHW4t3rKHQYKVLkqAoasx25wuzBI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YQW82iicHv5sCvhAoIzjuz8hsh5ySyGqi2WqhokrX3w="
+      "hash": "sha256-Jga2v3NZAD19pZOMHW4t3rKHQYKVLkqAoasx25wuzBI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YQW82iicHv5sCvhAoIzjuz8hsh5ySyGqi2WqhokrX3w="
+      "hash": "sha256-Jga2v3NZAD19pZOMHW4t3rKHQYKVLkqAoasx25wuzBI="
     }
   },
-  "version": "1.1.0"
+  "version": "1.2.0"
 }

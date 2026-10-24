@@ -1,18 +1,18 @@
 {
-  "apkName": "org.fossify.documents_6.apk",
+  "apkName": "org.fossify.documents_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Xr1BopWwKEZ9TjSGk4SW/vpAHwt0xPWA/Ym5j+2gIuo="
+      "hash": "sha256-SIVWp44W0X76XyN8gNKcMtwt/Yvr0wCi0Wez8PIyOYc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Xr1BopWwKEZ9TjSGk4SW/vpAHwt0xPWA/Ym5j+2gIuo="
+      "hash": "sha256-SIVWp44W0X76XyN8gNKcMtwt/Yvr0wCi0Wez8PIyOYc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Xr1BopWwKEZ9TjSGk4SW/vpAHwt0xPWA/Ym5j+2gIuo="
+      "hash": "sha256-SIVWp44W0X76XyN8gNKcMtwt/Yvr0wCi0Wez8PIyOYc="
     }
   },
-  "version": "1.0.1"
+  "version": "1.1.0"
 }

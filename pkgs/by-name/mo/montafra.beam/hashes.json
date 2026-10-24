@@ -1,18 +1,18 @@
 {
-  "apkName": "montafra.beam_31.apk",
+  "apkName": "montafra.beam_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0Tcx0Dh7j7lvBbwlahhQ6vbAO+lHhYU0gIUpTbmaWiM="
+      "hash": "sha256-J8UUMKJA4dEaB9EWp7zg4vYJcdnv8HetRIhoBKmfV7c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0Tcx0Dh7j7lvBbwlahhQ6vbAO+lHhYU0gIUpTbmaWiM="
+      "hash": "sha256-J8UUMKJA4dEaB9EWp7zg4vYJcdnv8HetRIhoBKmfV7c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0Tcx0Dh7j7lvBbwlahhQ6vbAO+lHhYU0gIUpTbmaWiM="
+      "hash": "sha256-J8UUMKJA4dEaB9EWp7zg4vYJcdnv8HetRIhoBKmfV7c="
     }
   },
-  "version": "1.9"
+  "version": "2.1"
 }

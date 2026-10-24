@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kbul.spicycrab_12.apk",
+  "apkName": "com.kbul.spicycrab_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kirJWXE1EVUQ/Xp0gnJyMZHflqoC86ejgDzBAry5CvI="
+      "hash": "sha256-ONtiRtUhe62VfxALh4ivTkOUGK5dDLVEaZB4XKp4SHo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kirJWXE1EVUQ/Xp0gnJyMZHflqoC86ejgDzBAry5CvI="
+      "hash": "sha256-ONtiRtUhe62VfxALh4ivTkOUGK5dDLVEaZB4XKp4SHo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kirJWXE1EVUQ/Xp0gnJyMZHflqoC86ejgDzBAry5CvI="
+      "hash": "sha256-ONtiRtUhe62VfxALh4ivTkOUGK5dDLVEaZB4XKp4SHo="
     }
   },
-  "version": "0.6.0"
+  "version": "0.9.0"
 }

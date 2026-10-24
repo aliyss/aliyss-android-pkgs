@@ -1,18 +1,18 @@
 {
-  "apkName": "xtr.keymapper_23.apk",
+  "apkName": "xtr.keymapper_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WuAb8P9pGgwSWOohGAbFgFlhBeHrw/ZqcvwEkFeNlWk="
+      "hash": "sha256-ci2M9aTv5pPL6IkQ5WqqeJ6yo2ULZDYsfuDh5Gj3Enc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WuAb8P9pGgwSWOohGAbFgFlhBeHrw/ZqcvwEkFeNlWk="
+      "hash": "sha256-ci2M9aTv5pPL6IkQ5WqqeJ6yo2ULZDYsfuDh5Gj3Enc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WuAb8P9pGgwSWOohGAbFgFlhBeHrw/ZqcvwEkFeNlWk="
+      "hash": "sha256-ci2M9aTv5pPL6IkQ5WqqeJ6yo2ULZDYsfuDh5Gj3Enc="
     }
   },
-  "version": "2.4.3"
+  "version": "2.5.0"
 }

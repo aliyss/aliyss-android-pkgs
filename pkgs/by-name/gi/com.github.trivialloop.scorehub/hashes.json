@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.trivialloop.scorehub_22.apk",
+  "apkName": "com.github.trivialloop.scorehub_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-xUc48E+sCxS+9jdhr2r1ITWXLD+49RZ/n1bKL0RPOeE="
+      "hash": "sha256-lbkD+t1NZG2QxvXg1rcN4GlpbgQHwZsaQpGvImlSdCc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xUc48E+sCxS+9jdhr2r1ITWXLD+49RZ/n1bKL0RPOeE="
+      "hash": "sha256-lbkD+t1NZG2QxvXg1rcN4GlpbgQHwZsaQpGvImlSdCc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xUc48E+sCxS+9jdhr2r1ITWXLD+49RZ/n1bKL0RPOeE="
+      "hash": "sha256-lbkD+t1NZG2QxvXg1rcN4GlpbgQHwZsaQpGvImlSdCc="
     }
   },
-  "version": "1.13.3"
+  "version": "1.18.0"
 }

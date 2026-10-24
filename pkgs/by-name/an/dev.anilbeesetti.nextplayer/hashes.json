@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.anilbeesetti.nextplayer_42.apk",
+  "apkName": "dev.anilbeesetti.nextplayer_75.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VG6RYuGv1AxJA1n5T9StsFgpfuTWF/YXNWRfwLWK99Y="
+      "hash": "sha256-eqRrO/X0DaRebcE28iscakQ/Hw62fzKGTQjbD1+SmxU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VG6RYuGv1AxJA1n5T9StsFgpfuTWF/YXNWRfwLWK99Y="
+      "hash": "sha256-eqRrO/X0DaRebcE28iscakQ/Hw62fzKGTQjbD1+SmxU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VG6RYuGv1AxJA1n5T9StsFgpfuTWF/YXNWRfwLWK99Y="
+      "hash": "sha256-eqRrO/X0DaRebcE28iscakQ/Hw62fzKGTQjbD1+SmxU="
     }
   },
-  "version": "0.14.1"
+  "version": "0.19.0"
 }

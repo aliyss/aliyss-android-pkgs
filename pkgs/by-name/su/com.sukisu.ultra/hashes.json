@@ -1,10 +1,18 @@
 {
-  "apkName": "SukiSU_v4.1.3_40796-release.apk",
+  "apkName": "SukiSU_v4.2.1-r1_41049-release-spoofed.apk",
   "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-adZJX/r8+XpwmPFDe3Q1XDOb4FVO8SKGbLXoAbbNync="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-adZJX/r8+XpwmPFDe3Q1XDOb4FVO8SKGbLXoAbbNync="
+    },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Gx6DfApbaqNFVIgvrWfO9ttsoahNQ+B92QTPVPjSYa4="
+      "hash": "sha256-adZJX/r8+XpwmPFDe3Q1XDOb4FVO8SKGbLXoAbbNync="
     }
   },
-  "version": "v4.1.3"
+  "version": "v4.2.1-r1"
 }

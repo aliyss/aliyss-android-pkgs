@@ -1,18 +1,18 @@
 {
-  "apkName": "com.alovoa.expo_48.apk",
+  "apkName": "com.alovoa.expo_50.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Q8ysSuPvqP+AD5M5D9ggDPpNSoIL6qdQ2muX2MtWJh4="
+      "hash": "sha256-cDstqWvmBdgqciPPLUfBTnYI2uZCBMeXZ/W58f82tuo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Q8ysSuPvqP+AD5M5D9ggDPpNSoIL6qdQ2muX2MtWJh4="
+      "hash": "sha256-cDstqWvmBdgqciPPLUfBTnYI2uZCBMeXZ/W58f82tuo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Q8ysSuPvqP+AD5M5D9ggDPpNSoIL6qdQ2muX2MtWJh4="
+      "hash": "sha256-cDstqWvmBdgqciPPLUfBTnYI2uZCBMeXZ/W58f82tuo="
     }
   },
-  "version": "2.3.4"
+  "version": "2.4.1"
 }

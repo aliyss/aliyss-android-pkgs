@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.autodiag2.elm327emu_29.apk",
+  "apkName": "com.github.autodiag2.elm327emu_30.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-igyLnB1U6Fsu77Hmk1LbNu+HEET3YiOmga+XXV0Np2M="
+      "hash": "sha256-xpBlLR/5QiDwR8isJRkt3GuoNNpJ3Tk/COMQThZdNe4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-igyLnB1U6Fsu77Hmk1LbNu+HEET3YiOmga+XXV0Np2M="
+      "hash": "sha256-xpBlLR/5QiDwR8isJRkt3GuoNNpJ3Tk/COMQThZdNe4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-igyLnB1U6Fsu77Hmk1LbNu+HEET3YiOmga+XXV0Np2M="
+      "hash": "sha256-xpBlLR/5QiDwR8isJRkt3GuoNNpJ3Tk/COMQThZdNe4="
     }
   },
-  "version": "29"
+  "version": "30"
 }

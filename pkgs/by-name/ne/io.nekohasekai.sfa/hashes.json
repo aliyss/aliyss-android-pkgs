@@ -1,18 +1,18 @@
 {
-  "apkName": "io.nekohasekai.sfa_715.apk",
+  "apkName": "io.nekohasekai.sfa_743.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-sveNOAJzGliRo9o7qKBy7btyX2+wpVxJudohO6YT9mM="
+      "hash": "sha256-FZ7DIIivCsuifdGljplWn696lbdR/dIoHq1dsLJAng0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sveNOAJzGliRo9o7qKBy7btyX2+wpVxJudohO6YT9mM="
+      "hash": "sha256-FZ7DIIivCsuifdGljplWn696lbdR/dIoHq1dsLJAng0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sveNOAJzGliRo9o7qKBy7btyX2+wpVxJudohO6YT9mM="
+      "hash": "sha256-FZ7DIIivCsuifdGljplWn696lbdR/dIoHq1dsLJAng0="
     }
   },
-  "version": "1.13.18"
+  "version": "1.14.3"
 }

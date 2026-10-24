@@ -1,18 +1,18 @@
 {
-  "apkName": "com.harsh.shah.saavnmp3_12.apk",
+  "apkName": "com.harsh.shah.saavnmp3_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ChC9DQoqlz6dzJU7kocU2GE6Xk9tYNljzy0ltdiSMxs="
+      "hash": "sha256-WurtvYMsiSPVkgAQIBwy6knNyfEG94Z+e50OC+yNhLc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ChC9DQoqlz6dzJU7kocU2GE6Xk9tYNljzy0ltdiSMxs="
+      "hash": "sha256-WurtvYMsiSPVkgAQIBwy6knNyfEG94Z+e50OC+yNhLc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ChC9DQoqlz6dzJU7kocU2GE6Xk9tYNljzy0ltdiSMxs="
+      "hash": "sha256-WurtvYMsiSPVkgAQIBwy6knNyfEG94Z+e50OC+yNhLc="
     }
   },
-  "version": "1.0.18"
+  "version": "1.0.21"
 }

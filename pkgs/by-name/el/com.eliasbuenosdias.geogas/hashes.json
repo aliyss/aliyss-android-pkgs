@@ -1,18 +1,18 @@
 {
-  "apkName": "com.eliasbuenosdias.geogas_5.apk",
+  "apkName": "com.eliasbuenosdias.geogas_6.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jaPZr5lh8w+S6K5JDrR1JOCh4J0SldLc6INkZl9tkn4="
+      "hash": "sha256-UlVAs22iDPx5D9pPY1l/+Ccmh+3v3G2zV9o8lhkVCqo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jaPZr5lh8w+S6K5JDrR1JOCh4J0SldLc6INkZl9tkn4="
+      "hash": "sha256-UlVAs22iDPx5D9pPY1l/+Ccmh+3v3G2zV9o8lhkVCqo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jaPZr5lh8w+S6K5JDrR1JOCh4J0SldLc6INkZl9tkn4="
+      "hash": "sha256-UlVAs22iDPx5D9pPY1l/+Ccmh+3v3G2zV9o8lhkVCqo="
     }
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }

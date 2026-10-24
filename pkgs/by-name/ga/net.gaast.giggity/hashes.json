@@ -1,18 +1,18 @@
 {
-  "apkName": "net.gaast.giggity_769.apk",
+  "apkName": "net.gaast.giggity_771.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-RgZuG70bHNi9qRDYYuIUXz+DsDZlI8Tr42x6HwiB7uw="
+      "hash": "sha256-m8oLcFGh2myWK2IPds2ssyVMfw9SZCzVoUqJw2JmCCI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RgZuG70bHNi9qRDYYuIUXz+DsDZlI8Tr42x6HwiB7uw="
+      "hash": "sha256-m8oLcFGh2myWK2IPds2ssyVMfw9SZCzVoUqJw2JmCCI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RgZuG70bHNi9qRDYYuIUXz+DsDZlI8Tr42x6HwiB7uw="
+      "hash": "sha256-m8oLcFGh2myWK2IPds2ssyVMfw9SZCzVoUqJw2JmCCI="
     }
   },
-  "version": "3.0.1"
+  "version": "3.0.3"
 }

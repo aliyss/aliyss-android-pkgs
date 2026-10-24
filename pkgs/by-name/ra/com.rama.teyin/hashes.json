@@ -1,18 +1,18 @@
 {
-  "apkName": "com.rama.teyin_6.apk",
+  "apkName": "com.rama.teyin_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jSacyWLh9qftRUQHt2s13sAS998tvj2Rrg4uulS1uiQ="
+      "hash": "sha256-Xye9N3WjCVWtHyoADj13zKGFHMootvpqm8jy7yYZi48="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jSacyWLh9qftRUQHt2s13sAS998tvj2Rrg4uulS1uiQ="
+      "hash": "sha256-Xye9N3WjCVWtHyoADj13zKGFHMootvpqm8jy7yYZi48="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jSacyWLh9qftRUQHt2s13sAS998tvj2Rrg4uulS1uiQ="
+      "hash": "sha256-Xye9N3WjCVWtHyoADj13zKGFHMootvpqm8jy7yYZi48="
     }
   },
-  "version": "2026.6"
+  "version": "2026.8"
 }

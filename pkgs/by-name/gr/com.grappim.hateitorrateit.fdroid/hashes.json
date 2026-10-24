@@ -1,18 +1,18 @@
 {
-  "apkName": "com.grappim.hateitorrateit.fdroid_31.apk",
+  "apkName": "com.grappim.hateitorrateit.fdroid_32.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VPcf4nudaog/ots2KQDfIxMUSaSMjqSYi4g3jcTo40s="
+      "hash": "sha256-0j94R0VOTxZuKfKEXN98PWv8JCKcPnB8d3icnnGA8bY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VPcf4nudaog/ots2KQDfIxMUSaSMjqSYi4g3jcTo40s="
+      "hash": "sha256-0j94R0VOTxZuKfKEXN98PWv8JCKcPnB8d3icnnGA8bY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VPcf4nudaog/ots2KQDfIxMUSaSMjqSYi4g3jcTo40s="
+      "hash": "sha256-0j94R0VOTxZuKfKEXN98PWv8JCKcPnB8d3icnnGA8bY="
     }
   },
-  "version": "1.5.2"
+  "version": "1.5.3"
 }

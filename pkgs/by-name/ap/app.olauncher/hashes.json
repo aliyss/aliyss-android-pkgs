@@ -1,18 +1,18 @@
 {
-  "apkName": "app.olauncher_110.apk",
+  "apkName": "app.olauncher_113.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-n3dJf2LwOnqa3nnBrU5x75x+fyEl80/YtKdpZOgmMFU="
+      "hash": "sha256-qDM6L0zIvxoAHZpDhLHqn/WbhPz2QQJ/qLA0cHEV5Ew="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-n3dJf2LwOnqa3nnBrU5x75x+fyEl80/YtKdpZOgmMFU="
+      "hash": "sha256-qDM6L0zIvxoAHZpDhLHqn/WbhPz2QQJ/qLA0cHEV5Ew="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-n3dJf2LwOnqa3nnBrU5x75x+fyEl80/YtKdpZOgmMFU="
+      "hash": "sha256-qDM6L0zIvxoAHZpDhLHqn/WbhPz2QQJ/qLA0cHEV5Ew="
     }
   },
-  "version": "v6.7.19"
+  "version": "v6.9.17"
 }

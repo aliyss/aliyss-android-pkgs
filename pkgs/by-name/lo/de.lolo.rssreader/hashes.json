@@ -1,18 +1,18 @@
 {
-  "apkName": "de.lolo.rssreader_158.apk",
+  "apkName": "de.lolo.rssreader_168.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Fvv7U1sD+iVV+fRHM4oghvUzdY2IdxzOjxfcYbEAMic="
+      "hash": "sha256-MEVZ0uzeNVi4UfBYc8vatJudZH/zJCvehEOcreF8yVo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Fvv7U1sD+iVV+fRHM4oghvUzdY2IdxzOjxfcYbEAMic="
+      "hash": "sha256-MEVZ0uzeNVi4UfBYc8vatJudZH/zJCvehEOcreF8yVo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Fvv7U1sD+iVV+fRHM4oghvUzdY2IdxzOjxfcYbEAMic="
+      "hash": "sha256-MEVZ0uzeNVi4UfBYc8vatJudZH/zJCvehEOcreF8yVo="
     }
   },
-  "version": "1.87.29"
+  "version": "1.87.39"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "uk.nktnet.webviewkiosk_132.apk",
+  "apkName": "uk.nktnet.webviewkiosk_137.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AnzKfZ+D4euSCZd3An2c1uI2+7XMTq5+gtBzmtT3ORY="
+      "hash": "sha256-Hzm3ZqzIZiTakLFfAkOSW++Mq8b9ZipgGmy2dxAT60c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AnzKfZ+D4euSCZd3An2c1uI2+7XMTq5+gtBzmtT3ORY="
+      "hash": "sha256-Hzm3ZqzIZiTakLFfAkOSW++Mq8b9ZipgGmy2dxAT60c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AnzKfZ+D4euSCZd3An2c1uI2+7XMTq5+gtBzmtT3ORY="
+      "hash": "sha256-Hzm3ZqzIZiTakLFfAkOSW++Mq8b9ZipgGmy2dxAT60c="
     }
   },
-  "version": "0.26.18"
+  "version": "0.26.23"
 }

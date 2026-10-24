@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "6-fdroid",
+      "versionCode": 6
+    },
+    {
+      "version": "4-fdroid",
+      "versionCode": 4
+    },
+    {
+      "version": "3-fdroid",
+      "versionCode": 3
+    }
+  ]
+}

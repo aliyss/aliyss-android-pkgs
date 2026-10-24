@@ -1,18 +1,18 @@
 {
-  "apkName": "de.marionoll.wgautoconnect_2.apk",
+  "apkName": "de.marionoll.wgautoconnect_3.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-dBtMKsv7VCu4XrJy1WyezOLwgRX5ztJ6GgTd4L9O6dQ="
+      "hash": "sha256-pwEQjmeS9iGfofdCrHHLhTw7m5dw4h7xSqw1dC9yihk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dBtMKsv7VCu4XrJy1WyezOLwgRX5ztJ6GgTd4L9O6dQ="
+      "hash": "sha256-pwEQjmeS9iGfofdCrHHLhTw7m5dw4h7xSqw1dC9yihk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dBtMKsv7VCu4XrJy1WyezOLwgRX5ztJ6GgTd4L9O6dQ="
+      "hash": "sha256-pwEQjmeS9iGfofdCrHHLhTw7m5dw4h7xSqw1dC9yihk="
     }
   },
-  "version": "1.1.0"
+  "version": "1.1.1"
 }

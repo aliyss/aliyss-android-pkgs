@@ -1,18 +1,18 @@
 {
-  "apkName": "br.com.colman.petals_3043004.apk",
+  "apkName": "br.com.colman.petals_3046000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-oQMfoyBWofMj6j14bu8qkJ3ky1v6nqquHyza22X1EjY="
+      "hash": "sha256-otfqFhYhfdBu+4GPEXz/ivooQn0jwQFNHez9+xRp5JE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oQMfoyBWofMj6j14bu8qkJ3ky1v6nqquHyza22X1EjY="
+      "hash": "sha256-otfqFhYhfdBu+4GPEXz/ivooQn0jwQFNHez9+xRp5JE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oQMfoyBWofMj6j14bu8qkJ3ky1v6nqquHyza22X1EjY="
+      "hash": "sha256-otfqFhYhfdBu+4GPEXz/ivooQn0jwQFNHez9+xRp5JE="
     }
   },
-  "version": "3.43.4"
+  "version": "3.46.0"
 }

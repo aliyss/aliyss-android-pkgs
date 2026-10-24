@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mskd.flux_31.apk",
+  "apkName": "com.mskd.flux_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-f2z01UFNU1vMpdpuu+RH/y5BQXM6hS6c2lY7OkTjZRE="
+      "hash": "sha256-o9G30RW2Cya45C5Dme17xgIhjYF6u1fYKcDe6oVjs50="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-f2z01UFNU1vMpdpuu+RH/y5BQXM6hS6c2lY7OkTjZRE="
+      "hash": "sha256-o9G30RW2Cya45C5Dme17xgIhjYF6u1fYKcDe6oVjs50="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-f2z01UFNU1vMpdpuu+RH/y5BQXM6hS6c2lY7OkTjZRE="
+      "hash": "sha256-o9G30RW2Cya45C5Dme17xgIhjYF6u1fYKcDe6oVjs50="
     }
   },
-  "version": "1.7.0"
+  "version": "1.8.3"
 }

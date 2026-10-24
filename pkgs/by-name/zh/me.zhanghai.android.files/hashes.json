@@ -1,18 +1,18 @@
 {
-  "apkName": "me.zhanghai.android.files_39.apk",
+  "apkName": "me.zhanghai.android.files_40.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-68UTi29xPw9ztUZ6GopKw8z8sughNTcmZbaBGolHZB8="
+      "hash": "sha256-L+kAv0PXJbZVAI1Dj1ykbQ2g8wHjeEQDtblsP8Lfboo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-68UTi29xPw9ztUZ6GopKw8z8sughNTcmZbaBGolHZB8="
+      "hash": "sha256-L+kAv0PXJbZVAI1Dj1ykbQ2g8wHjeEQDtblsP8Lfboo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-68UTi29xPw9ztUZ6GopKw8z8sughNTcmZbaBGolHZB8="
+      "hash": "sha256-L+kAv0PXJbZVAI1Dj1ykbQ2g8wHjeEQDtblsP8Lfboo="
     }
   },
-  "version": "1.7.4"
+  "version": "1.7.5"
 }

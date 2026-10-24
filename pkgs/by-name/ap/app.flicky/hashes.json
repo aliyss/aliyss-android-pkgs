@@ -1,18 +1,18 @@
 {
-  "apkName": "app.flicky_971.apk",
+  "apkName": "app.flicky_1021.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CCgF39o+Q23O48pFwD5bOYWViepyZhPDOooLC3QlgrQ="
+      "hash": "sha256-rbTBkoFL3SaXDuVCwAp0+QCDshR6XIpgMzuJRa4IyUA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CCgF39o+Q23O48pFwD5bOYWViepyZhPDOooLC3QlgrQ="
+      "hash": "sha256-rbTBkoFL3SaXDuVCwAp0+QCDshR6XIpgMzuJRa4IyUA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CCgF39o+Q23O48pFwD5bOYWViepyZhPDOooLC3QlgrQ="
+      "hash": "sha256-rbTBkoFL3SaXDuVCwAp0+QCDshR6XIpgMzuJRa4IyUA="
     }
   },
-  "version": "4.5.2"
+  "version": "4.6.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dresos.dressecurecomms_16.apk",
+  "apkName": "com.dresos.dressecurecomms_21.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OAR/2qaL66VfdcJXJqSZqz/B4E2W89DkOM/BFWPwy4E="
+      "hash": "sha256-W2Ug6geWHuTlfa+jb6frVvYczA94s7b2wsJUMVJ7bBg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OAR/2qaL66VfdcJXJqSZqz/B4E2W89DkOM/BFWPwy4E="
+      "hash": "sha256-W2Ug6geWHuTlfa+jb6frVvYczA94s7b2wsJUMVJ7bBg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OAR/2qaL66VfdcJXJqSZqz/B4E2W89DkOM/BFWPwy4E="
+      "hash": "sha256-W2Ug6geWHuTlfa+jb6frVvYczA94s7b2wsJUMVJ7bBg="
     }
   },
-  "version": "1.8.5"
+  "version": "1.9.2"
 }

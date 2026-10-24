@@ -1,18 +1,18 @@
 {
-  "apkName": "org.ranobe.ranobe_14.apk",
+  "apkName": "org.ranobe.ranobe_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MZglQabI04mbA5VfQ1COWCiGSVZaO67g43fYmKhjMYo="
+      "hash": "sha256-MR7pJJWteAMfKE7tr/JPCg05sL9yTY68RrK3Q1ZpzGE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MZglQabI04mbA5VfQ1COWCiGSVZaO67g43fYmKhjMYo="
+      "hash": "sha256-MR7pJJWteAMfKE7tr/JPCg05sL9yTY68RrK3Q1ZpzGE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MZglQabI04mbA5VfQ1COWCiGSVZaO67g43fYmKhjMYo="
+      "hash": "sha256-MR7pJJWteAMfKE7tr/JPCg05sL9yTY68RrK3Q1ZpzGE="
     }
   },
-  "version": "v0.0.14"
+  "version": "v0.0.19"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.pedronveloso.a11ybutton_3.apk",
+  "apkName": "com.pedronveloso.a11ybutton_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8ipTnDWUXV7qgXzuSfW/FRSEEvwkOlS6qzAIHFqSVyo="
+      "hash": "sha256-Y4CjKOKnw/RTu3/j0v0uCQuMX999IdAvL5l2bowhQTo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8ipTnDWUXV7qgXzuSfW/FRSEEvwkOlS6qzAIHFqSVyo="
+      "hash": "sha256-Y4CjKOKnw/RTu3/j0v0uCQuMX999IdAvL5l2bowhQTo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8ipTnDWUXV7qgXzuSfW/FRSEEvwkOlS6qzAIHFqSVyo="
+      "hash": "sha256-Y4CjKOKnw/RTu3/j0v0uCQuMX999IdAvL5l2bowhQTo="
     }
   },
-  "version": "Beta 3"
+  "version": "Beta 4"
 }

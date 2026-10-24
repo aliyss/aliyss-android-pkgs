@@ -1,18 +1,18 @@
 {
-  "apkName": "com.atharok.screentime_12.apk",
+  "apkName": "com.atharok.screentime_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7sSVQwUohdJ4T54kXju0KCJI8Mazz86z30wbQXr4tfk="
+      "hash": "sha256-hPUs0xzX+SdudxojNPKPApFV8xuwEfhKqSJRU0mVH8U="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7sSVQwUohdJ4T54kXju0KCJI8Mazz86z30wbQXr4tfk="
+      "hash": "sha256-hPUs0xzX+SdudxojNPKPApFV8xuwEfhKqSJRU0mVH8U="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7sSVQwUohdJ4T54kXju0KCJI8Mazz86z30wbQXr4tfk="
+      "hash": "sha256-hPUs0xzX+SdudxojNPKPApFV8xuwEfhKqSJRU0mVH8U="
     }
   },
-  "version": "1.4.0"
+  "version": "1.4.1"
 }

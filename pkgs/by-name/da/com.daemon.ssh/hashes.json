@@ -1,18 +1,18 @@
 {
-  "apkName": "com.daemon.ssh_59.apk",
+  "apkName": "com.daemon.ssh_65.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-j5kNZii4rkkxUrjfDK2uRdtxf+B7wfdvgHedo2rsAuk="
+      "hash": "sha256-rzjMXcVqd+9l32kT0x6B91/v9eyj7mths6y3cptXz0Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-j5kNZii4rkkxUrjfDK2uRdtxf+B7wfdvgHedo2rsAuk="
+      "hash": "sha256-rzjMXcVqd+9l32kT0x6B91/v9eyj7mths6y3cptXz0Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-j5kNZii4rkkxUrjfDK2uRdtxf+B7wfdvgHedo2rsAuk="
+      "hash": "sha256-rzjMXcVqd+9l32kT0x6B91/v9eyj7mths6y3cptXz0Y="
     }
   },
-  "version": "2.1.41"
+  "version": "2.1.47"
 }

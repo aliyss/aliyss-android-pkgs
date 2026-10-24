@@ -1,18 +1,18 @@
 {
-  "apkName": "com.rbn.qtsettings_8.apk",
+  "apkName": "com.rbn.qtsettings_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CiyJ8i8LKENtlKoUnPoig2UJk21DEh144RfpewK+qgM="
+      "hash": "sha256-OpwGwYduJUaOJVMzbioct5PuGXeUUlZ4yBQvsi5qrsA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CiyJ8i8LKENtlKoUnPoig2UJk21DEh144RfpewK+qgM="
+      "hash": "sha256-OpwGwYduJUaOJVMzbioct5PuGXeUUlZ4yBQvsi5qrsA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CiyJ8i8LKENtlKoUnPoig2UJk21DEh144RfpewK+qgM="
+      "hash": "sha256-OpwGwYduJUaOJVMzbioct5PuGXeUUlZ4yBQvsi5qrsA="
     }
   },
-  "version": "1.3.0"
+  "version": "1.5.1"
 }

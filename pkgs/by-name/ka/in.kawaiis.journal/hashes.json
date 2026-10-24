@@ -1,18 +1,18 @@
 {
-  "apkName": "in.kawaiis.journal_1100200.apk",
+  "apkName": "in.kawaiis.journal_1100800.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LhAGAreZwm0uQ/C1vYyHRPObJSS3DuYipUGSqP5q2SE="
+      "hash": "sha256-b0Y0hZGIjo6R2UNx/L6KDPoSC/VknRpgCR4ftpqsad8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LhAGAreZwm0uQ/C1vYyHRPObJSS3DuYipUGSqP5q2SE="
+      "hash": "sha256-b0Y0hZGIjo6R2UNx/L6KDPoSC/VknRpgCR4ftpqsad8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LhAGAreZwm0uQ/C1vYyHRPObJSS3DuYipUGSqP5q2SE="
+      "hash": "sha256-b0Y0hZGIjo6R2UNx/L6KDPoSC/VknRpgCR4ftpqsad8="
     }
   },
-  "version": "11.2"
+  "version": "11.8"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.eddyizm.degoogled.tempus_41.apk",
+  "apkName": "com.eddyizm.degoogled.tempus_51.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NNovx41xrZczqA8MSjmFIc+aC6oVNnmwnMoQgmGoy5U="
+      "hash": "sha256-Nfkfj5k8fBIkOqn2dWKm4fUEOvPCeQI+8R7gXsdTEUQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NNovx41xrZczqA8MSjmFIc+aC6oVNnmwnMoQgmGoy5U="
+      "hash": "sha256-Nfkfj5k8fBIkOqn2dWKm4fUEOvPCeQI+8R7gXsdTEUQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NNovx41xrZczqA8MSjmFIc+aC6oVNnmwnMoQgmGoy5U="
+      "hash": "sha256-Nfkfj5k8fBIkOqn2dWKm4fUEOvPCeQI+8R7gXsdTEUQ="
     }
   },
-  "version": "4.23.2"
+  "version": "4.30.0"
 }

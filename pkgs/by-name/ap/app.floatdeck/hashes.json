@@ -1,18 +1,18 @@
 {
-  "apkName": "app.floatdeck_4.apk",
+  "apkName": "app.floatdeck_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0HGZIaBxyAFnn7ZIzv75nqqLHp8RL3rY0zMVQr5LiAU="
+      "hash": "sha256-EVq5jayw+Yn1h7NCeJbtnz45I3K2vOLcawkZTFzhYus="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0HGZIaBxyAFnn7ZIzv75nqqLHp8RL3rY0zMVQr5LiAU="
+      "hash": "sha256-EVq5jayw+Yn1h7NCeJbtnz45I3K2vOLcawkZTFzhYus="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0HGZIaBxyAFnn7ZIzv75nqqLHp8RL3rY0zMVQr5LiAU="
+      "hash": "sha256-EVq5jayw+Yn1h7NCeJbtnz45I3K2vOLcawkZTFzhYus="
     }
   },
-  "version": "0.3.1"
+  "version": "0.5.0"
 }

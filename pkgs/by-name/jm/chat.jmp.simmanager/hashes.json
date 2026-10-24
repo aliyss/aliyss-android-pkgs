@@ -1,18 +1,18 @@
 {
-  "apkName": "chat.jmp.simmanager_301.apk",
+  "apkName": "chat.jmp.simmanager_307.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8Rw1JRGjmKk1w9es3nPLH+PVV4LZk5vquEhaSJZevKo="
+      "hash": "sha256-pZrByh/XYT7lK2GaZaKjSJ39JJLo0WuOEbShY+2MCdY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8Rw1JRGjmKk1w9es3nPLH+PVV4LZk5vquEhaSJZevKo="
+      "hash": "sha256-pZrByh/XYT7lK2GaZaKjSJ39JJLo0WuOEbShY+2MCdY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8Rw1JRGjmKk1w9es3nPLH+PVV4LZk5vquEhaSJZevKo="
+      "hash": "sha256-pZrByh/XYT7lK2GaZaKjSJ39JJLo0WuOEbShY+2MCdY="
     }
   },
-  "version": "jmp-v1.6.2"
+  "version": "jmp-v1.7.2"
 }

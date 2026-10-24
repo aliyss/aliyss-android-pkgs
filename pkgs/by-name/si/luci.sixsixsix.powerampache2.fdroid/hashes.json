@@ -1,18 +1,18 @@
 {
-  "apkName": "luci.sixsixsix.powerampache2.fdroid_94.apk",
+  "apkName": "luci.sixsixsix.powerampache2.fdroid_95.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ZhQA9L/W8Y30jVWbLZrDOEZ4B2tCD4/zLv33FcNk/sw="
+      "hash": "sha256-Dm8oyXu+B7exXms9IX+7xgCEWb0D+dEyc0byBih/xqM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZhQA9L/W8Y30jVWbLZrDOEZ4B2tCD4/zLv33FcNk/sw="
+      "hash": "sha256-Dm8oyXu+B7exXms9IX+7xgCEWb0D+dEyc0byBih/xqM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZhQA9L/W8Y30jVWbLZrDOEZ4B2tCD4/zLv33FcNk/sw="
+      "hash": "sha256-Dm8oyXu+B7exXms9IX+7xgCEWb0D+dEyc0byBih/xqM="
     }
   },
-  "version": "1.01-88-fdroid"
+  "version": "1.01-89-fdroid"
 }

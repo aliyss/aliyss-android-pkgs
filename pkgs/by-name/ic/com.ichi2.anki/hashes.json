@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ichi2.anki_22400300.apk",
+  "apkName": "com.ichi2.anki_22503300.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OmQdSiaa79BhBOifV4gPC5cj+jgNh4hdkJx2JJ5vCBs="
+      "hash": "sha256-vQrIy53f9C4cMW437h5fLL6Uow+BSF+jF9U2ZFdMKzo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OmQdSiaa79BhBOifV4gPC5cj+jgNh4hdkJx2JJ5vCBs="
+      "hash": "sha256-vQrIy53f9C4cMW437h5fLL6Uow+BSF+jF9U2ZFdMKzo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OmQdSiaa79BhBOifV4gPC5cj+jgNh4hdkJx2JJ5vCBs="
+      "hash": "sha256-vQrIy53f9C4cMW437h5fLL6Uow+BSF+jF9U2ZFdMKzo="
     }
   },
-  "version": "2.24.0"
+  "version": "2.25.3"
 }

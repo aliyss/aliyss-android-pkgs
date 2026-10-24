@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.dettmer.simplenotes_55.apk",
+  "apkName": "dev.dettmer.simplenotes_67.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-sSxYhh0Nlq2cdvr376FHaL307IsVCO2kYucMa9rq5pI="
+      "hash": "sha256-8OmmdI38GZ6x/UWPq2uOX+3hvD3dRZnWiQaI/Wd9p5Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sSxYhh0Nlq2cdvr376FHaL307IsVCO2kYucMa9rq5pI="
+      "hash": "sha256-8OmmdI38GZ6x/UWPq2uOX+3hvD3dRZnWiQaI/Wd9p5Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sSxYhh0Nlq2cdvr376FHaL307IsVCO2kYucMa9rq5pI="
+      "hash": "sha256-8OmmdI38GZ6x/UWPq2uOX+3hvD3dRZnWiQaI/Wd9p5Y="
     }
   },
-  "version": "2.14.0"
+  "version": "2.20.1"
 }

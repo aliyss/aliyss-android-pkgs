@@ -1,18 +1,18 @@
 {
-  "apkName": "com.amaze.filemanager_125.apk",
+  "apkName": "com.amaze.filemanager_126.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NeAzjawb8CbyLZHhsJbBxu/xQkrX1r5Sp/jT/lCYdTA="
+      "hash": "sha256-YnuM1qX3UNyDFeuw+t7d/qj/dnAJIgSdTb8Moi8zl/0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NeAzjawb8CbyLZHhsJbBxu/xQkrX1r5Sp/jT/lCYdTA="
+      "hash": "sha256-YnuM1qX3UNyDFeuw+t7d/qj/dnAJIgSdTb8Moi8zl/0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NeAzjawb8CbyLZHhsJbBxu/xQkrX1r5Sp/jT/lCYdTA="
+      "hash": "sha256-YnuM1qX3UNyDFeuw+t7d/qj/dnAJIgSdTb8Moi8zl/0="
     }
   },
-  "version": "3.11.3"
+  "version": "3.11.4"
 }

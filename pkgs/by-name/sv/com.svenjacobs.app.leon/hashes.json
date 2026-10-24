@@ -1,18 +1,18 @@
 {
-  "apkName": "com.svenjacobs.app.leon_280.apk",
+  "apkName": "com.svenjacobs.app.leon_290.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-twiYd/NN7p+8OWWfytNZtql4U1X4W0zRUuukwb8q3mg="
+      "hash": "sha256-CjW6Gh7Zg1eJ+VWBz9MLURXM+RZ/YnRUK3SMF62CxSk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-twiYd/NN7p+8OWWfytNZtql4U1X4W0zRUuukwb8q3mg="
+      "hash": "sha256-CjW6Gh7Zg1eJ+VWBz9MLURXM+RZ/YnRUK3SMF62CxSk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-twiYd/NN7p+8OWWfytNZtql4U1X4W0zRUuukwb8q3mg="
+      "hash": "sha256-CjW6Gh7Zg1eJ+VWBz9MLURXM+RZ/YnRUK3SMF62CxSk="
     }
   },
-  "version": "59"
+  "version": "69"
 }

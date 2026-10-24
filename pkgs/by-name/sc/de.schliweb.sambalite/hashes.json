@@ -1,18 +1,18 @@
 {
-  "apkName": "de.schliweb.sambalite_20504.apk",
+  "apkName": "de.schliweb.sambalite_20505.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lFZSaQcYpBShc4CzCa6iRHRctL/qoidlIZgne8ewicw="
+      "hash": "sha256-1ZMa6KW7+FHnBvfh0Anhu4gFsjYHKzwpTAQJsfYdx1s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lFZSaQcYpBShc4CzCa6iRHRctL/qoidlIZgne8ewicw="
+      "hash": "sha256-1ZMa6KW7+FHnBvfh0Anhu4gFsjYHKzwpTAQJsfYdx1s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lFZSaQcYpBShc4CzCa6iRHRctL/qoidlIZgne8ewicw="
+      "hash": "sha256-1ZMa6KW7+FHnBvfh0Anhu4gFsjYHKzwpTAQJsfYdx1s="
     }
   },
-  "version": "2.5.4"
+  "version": "2.5.5"
 }

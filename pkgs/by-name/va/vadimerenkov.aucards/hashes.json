@@ -1,18 +1,18 @@
 {
-  "apkName": "vadimerenkov.aucards_21.apk",
+  "apkName": "vadimerenkov.aucards_23.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-sER4JYuUWa4FjDiHX55dS2MKoGfUAE8SOO23LizhmPc="
+      "hash": "sha256-QR9sUSCZ7g9U/Y4VX2hKS9nMDu0MvaiGIV9pfoduQWo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sER4JYuUWa4FjDiHX55dS2MKoGfUAE8SOO23LizhmPc="
+      "hash": "sha256-QR9sUSCZ7g9U/Y4VX2hKS9nMDu0MvaiGIV9pfoduQWo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sER4JYuUWa4FjDiHX55dS2MKoGfUAE8SOO23LizhmPc="
+      "hash": "sha256-QR9sUSCZ7g9U/Y4VX2hKS9nMDu0MvaiGIV9pfoduQWo="
     }
   },
-  "version": "2.6.1"
+  "version": "2.6.3"
 }

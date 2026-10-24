@@ -1,18 +1,18 @@
 {
-  "apkName": "com.vishaltelangre.nerdcalci_496.apk",
+  "apkName": "com.vishaltelangre.nerdcalci_498.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0+lvHICuxdh3RzKmJnBQNxGNl8JVjIEI/+lf0+kkfzg="
+      "hash": "sha256-rC9WkEW8gYvJr2yQbZTVjcK1BjWH28ZvWbwpbV4IB6E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0+lvHICuxdh3RzKmJnBQNxGNl8JVjIEI/+lf0+kkfzg="
+      "hash": "sha256-rC9WkEW8gYvJr2yQbZTVjcK1BjWH28ZvWbwpbV4IB6E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0+lvHICuxdh3RzKmJnBQNxGNl8JVjIEI/+lf0+kkfzg="
+      "hash": "sha256-rC9WkEW8gYvJr2yQbZTVjcK1BjWH28ZvWbwpbV4IB6E="
     }
   },
-  "version": "4.9.6"
+  "version": "4.9.8"
 }

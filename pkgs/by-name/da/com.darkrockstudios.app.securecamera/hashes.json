@@ -1,18 +1,18 @@
 {
-  "apkName": "com.darkrockstudios.app.securecamera_31.apk",
+  "apkName": "com.darkrockstudios.app.securecamera_32.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yMCBEwvpH+8kuFv3erFz65P9J/a44INF7s/UEWZjJRM="
+      "hash": "sha256-yQixMybCUeZduDXdnGDb3rQxG1bkKPS0YRyEeWiVG5k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yMCBEwvpH+8kuFv3erFz65P9J/a44INF7s/UEWZjJRM="
+      "hash": "sha256-yQixMybCUeZduDXdnGDb3rQxG1bkKPS0YRyEeWiVG5k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yMCBEwvpH+8kuFv3erFz65P9J/a44INF7s/UEWZjJRM="
+      "hash": "sha256-yQixMybCUeZduDXdnGDb3rQxG1bkKPS0YRyEeWiVG5k="
     }
   },
-  "version": "4.1.3"
+  "version": "4.2.0"
 }

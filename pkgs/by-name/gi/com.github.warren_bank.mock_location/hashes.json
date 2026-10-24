@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.warren_bank.mock_location_2050204.apk",
+  "apkName": "com.github.warren_bank.mock_location_2050304.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SuvkwBaVzaufy7SoOZ6W8ETlh2NbEkoa7k4eaf/9rkA="
+      "hash": "sha256-O6RFMsPxZcXJlz0nzMKncprdp8ns4ZJamPc5Vw+I7cw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SuvkwBaVzaufy7SoOZ6W8ETlh2NbEkoa7k4eaf/9rkA="
+      "hash": "sha256-O6RFMsPxZcXJlz0nzMKncprdp8ns4ZJamPc5Vw+I7cw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SuvkwBaVzaufy7SoOZ6W8ETlh2NbEkoa7k4eaf/9rkA="
+      "hash": "sha256-O6RFMsPxZcXJlz0nzMKncprdp8ns4ZJamPc5Vw+I7cw="
     }
   },
-  "version": "002.05.02-04API"
+  "version": "002.05.03-04API"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.unprompted.tildefriends.fdroid_64.apk",
+  "apkName": "com.unprompted.tildefriends.fdroid_66.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-t5kCouePYlmoYWVCXZaL3/g0tln8TouR0vDt44ksDZw="
+      "hash": "sha256-jtFecOv478wr1cY3rwS6NOVG9a8sGnjdLvv1+w08Lhw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-t5kCouePYlmoYWVCXZaL3/g0tln8TouR0vDt44ksDZw="
+      "hash": "sha256-jtFecOv478wr1cY3rwS6NOVG9a8sGnjdLvv1+w08Lhw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-t5kCouePYlmoYWVCXZaL3/g0tln8TouR0vDt44ksDZw="
+      "hash": "sha256-jtFecOv478wr1cY3rwS6NOVG9a8sGnjdLvv1+w08Lhw="
     }
   },
-  "version": "0.2026.7"
+  "version": "0.2026.9"
 }

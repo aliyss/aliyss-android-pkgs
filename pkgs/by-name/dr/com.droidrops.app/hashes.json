@@ -1,18 +1,18 @@
 {
-  "apkName": "com.droidrops.app_24.apk",
+  "apkName": "com.droidrops.app_44.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-mPm4Q3L03FcC2Y5x2t//1M7f708d1bhBqQ+daxgXGJ8="
+      "hash": "sha256-P/hZYlVKOZFjhcv+DlxoRPEa+dp0ZPRd/VKU4gd7t1c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mPm4Q3L03FcC2Y5x2t//1M7f708d1bhBqQ+daxgXGJ8="
+      "hash": "sha256-P/hZYlVKOZFjhcv+DlxoRPEa+dp0ZPRd/VKU4gd7t1c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mPm4Q3L03FcC2Y5x2t//1M7f708d1bhBqQ+daxgXGJ8="
+      "hash": "sha256-P/hZYlVKOZFjhcv+DlxoRPEa+dp0ZPRd/VKU4gd7t1c="
     }
   },
-  "version": "2.2.3"
+  "version": "2.2.23"
 }

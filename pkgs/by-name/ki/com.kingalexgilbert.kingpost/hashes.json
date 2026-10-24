@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kingalexgilbert.kingpost_2.apk",
+  "apkName": "com.kingalexgilbert.kingpost_3.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-HOZpf0TPq+UNBW7Rm2W5E69fKhNdCEXlK3o00mRCZxo="
+      "hash": "sha256-+2/5diGEBEjD7UJ9T5SsJwvrZvztyKKEBfLhXf0vnnQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HOZpf0TPq+UNBW7Rm2W5E69fKhNdCEXlK3o00mRCZxo="
+      "hash": "sha256-+2/5diGEBEjD7UJ9T5SsJwvrZvztyKKEBfLhXf0vnnQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HOZpf0TPq+UNBW7Rm2W5E69fKhNdCEXlK3o00mRCZxo="
+      "hash": "sha256-+2/5diGEBEjD7UJ9T5SsJwvrZvztyKKEBfLhXf0vnnQ="
     }
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

@@ -1,4 +1,17 @@
 {
-  "version": "",
-  "architectures": {}
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8HLr8bb2PMVY4MDmOCW+eLSO+0WS1/LDNMs1e14kz2c="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8HLr8bb2PMVY4MDmOCW+eLSO+0WS1/LDNMs1e14kz2c="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8HLr8bb2PMVY4MDmOCW+eLSO+0WS1/LDNMs1e14kz2c="
+    }
+  },
+  "version": "10.152"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "org.unifiedpush.distributor.fcm_25.apk",
+  "apkName": "org.unifiedpush.distributor.fcm_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-q+GIblRaJEYkX4eElnqWiyz68cVkk6oLauA5Ubu1I3k="
+      "hash": "sha256-NHeni+MIoSyztViDrlaGlyRyhR73VielQTcsCC/zSL4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-q+GIblRaJEYkX4eElnqWiyz68cVkk6oLauA5Ubu1I3k="
+      "hash": "sha256-NHeni+MIoSyztViDrlaGlyRyhR73VielQTcsCC/zSL4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-q+GIblRaJEYkX4eElnqWiyz68cVkk6oLauA5Ubu1I3k="
+      "hash": "sha256-NHeni+MIoSyztViDrlaGlyRyhR73VielQTcsCC/zSL4="
     }
   },
-  "version": "2.1.1"
+  "version": "2.1.2"
 }

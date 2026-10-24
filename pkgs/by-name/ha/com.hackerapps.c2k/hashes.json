@@ -1,18 +1,18 @@
 {
-  "apkName": "com.hackerapps.c2k_20.apk",
+  "apkName": "com.hackerapps.c2k_29.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7+VE8mQC6s5/4Y7ivPKfsZwLXt3C32gbsGDWJ5GTKgQ="
+      "hash": "sha256-WsOQal2NEkaAFjPUmABKVUm+U4N435SKN3aL5eKmeQs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7+VE8mQC6s5/4Y7ivPKfsZwLXt3C32gbsGDWJ5GTKgQ="
+      "hash": "sha256-WsOQal2NEkaAFjPUmABKVUm+U4N435SKN3aL5eKmeQs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7+VE8mQC6s5/4Y7ivPKfsZwLXt3C32gbsGDWJ5GTKgQ="
+      "hash": "sha256-WsOQal2NEkaAFjPUmABKVUm+U4N435SKN3aL5eKmeQs="
     }
   },
-  "version": "1.2.13"
+  "version": "1.2.22"
 }

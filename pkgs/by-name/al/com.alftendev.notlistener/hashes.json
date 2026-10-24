@@ -1,18 +1,18 @@
 {
-  "apkName": "com.alftendev.notlistener_51.apk",
+  "apkName": "com.alftendev.notlistener_53.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Lni9iy6DmmJxK5tobvJC0bJiOmVB80LOwoXcoODaIIQ="
+      "hash": "sha256-ll8+IC6z6+IGnk2DUZthJSfZPdzzJ6INc49AxwUX7Jg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Lni9iy6DmmJxK5tobvJC0bJiOmVB80LOwoXcoODaIIQ="
+      "hash": "sha256-ll8+IC6z6+IGnk2DUZthJSfZPdzzJ6INc49AxwUX7Jg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Lni9iy6DmmJxK5tobvJC0bJiOmVB80LOwoXcoODaIIQ="
+      "hash": "sha256-ll8+IC6z6+IGnk2DUZthJSfZPdzzJ6INc49AxwUX7Jg="
     }
   },
-  "version": "2.7.3"
+  "version": "2.7.6"
 }

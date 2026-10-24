@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mrmannwood.hexlauncher_51.apk",
+  "apkName": "com.mrmannwood.hexlauncher_54.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CpYvXEe9sU1YEobPnGl/wE8KMks8UF4WRvAs8BQTiIo="
+      "hash": "sha256-dB+KLpx2BvMgwwsmTPotT6jJhj26jc1AxNJlyFGc8oI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CpYvXEe9sU1YEobPnGl/wE8KMks8UF4WRvAs8BQTiIo="
+      "hash": "sha256-dB+KLpx2BvMgwwsmTPotT6jJhj26jc1AxNJlyFGc8oI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CpYvXEe9sU1YEobPnGl/wE8KMks8UF4WRvAs8BQTiIo="
+      "hash": "sha256-dB+KLpx2BvMgwwsmTPotT6jJhj26jc1AxNJlyFGc8oI="
     }
   },
-  "version": "1.4.9"
+  "version": "1.4.12"
 }

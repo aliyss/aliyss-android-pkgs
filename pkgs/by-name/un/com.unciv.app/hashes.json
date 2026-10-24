@@ -1,18 +1,18 @@
 {
-  "apkName": "com.unciv.app_1245.apk",
+  "apkName": "com.unciv.app_1274.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MKNfdKo+oYo5v+RL4kp19RHHIa/S4VWfwZKoirlNY54="
+      "hash": "sha256-ozTROLZoYoJe31MQSRN1wYJumdNb2WqEks5/aRLRnlc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MKNfdKo+oYo5v+RL4kp19RHHIa/S4VWfwZKoirlNY54="
+      "hash": "sha256-ozTROLZoYoJe31MQSRN1wYJumdNb2WqEks5/aRLRnlc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MKNfdKo+oYo5v+RL4kp19RHHIa/S4VWfwZKoirlNY54="
+      "hash": "sha256-ozTROLZoYoJe31MQSRN1wYJumdNb2WqEks5/aRLRnlc="
     }
   },
-  "version": "4.21.7-patch2"
+  "version": "4.22.12"
 }

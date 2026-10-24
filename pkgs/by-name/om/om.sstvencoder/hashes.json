@@ -1,18 +1,18 @@
 {
-  "apkName": "om.sstvencoder_34.apk",
+  "apkName": "om.sstvencoder_35.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lZjPFqLp9bs2lZVAC5ljGTY/T7kw4XKAMf0bmeEKS/s="
+      "hash": "sha256-GJmPHWijVGwfkX5tRgfiInOAp5VscqTfqBIVpHOyf/Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lZjPFqLp9bs2lZVAC5ljGTY/T7kw4XKAMf0bmeEKS/s="
+      "hash": "sha256-GJmPHWijVGwfkX5tRgfiInOAp5VscqTfqBIVpHOyf/Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lZjPFqLp9bs2lZVAC5ljGTY/T7kw4XKAMf0bmeEKS/s="
+      "hash": "sha256-GJmPHWijVGwfkX5tRgfiInOAp5VscqTfqBIVpHOyf/Y="
     }
   },
-  "version": "2.13"
+  "version": "2.14"
 }

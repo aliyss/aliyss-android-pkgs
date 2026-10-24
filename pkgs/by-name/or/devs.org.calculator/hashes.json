@@ -1,18 +1,18 @@
 {
-  "apkName": "devs.org.calculator_13.apk",
+  "apkName": "devs.org.calculator_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ytiwsky+u46MxbBBonhiLJ1hqVZ6N8+3H+3RQ1vmQxA="
+      "hash": "sha256-541vP/fqXbORsenrfK3bh6vGg/FPYIvfNWkxXI4waDw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ytiwsky+u46MxbBBonhiLJ1hqVZ6N8+3H+3RQ1vmQxA="
+      "hash": "sha256-541vP/fqXbORsenrfK3bh6vGg/FPYIvfNWkxXI4waDw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ytiwsky+u46MxbBBonhiLJ1hqVZ6N8+3H+3RQ1vmQxA="
+      "hash": "sha256-541vP/fqXbORsenrfK3bh6vGg/FPYIvfNWkxXI4waDw="
     }
   },
-  "version": "2.0.2"
+  "version": "2.0.3"
 }

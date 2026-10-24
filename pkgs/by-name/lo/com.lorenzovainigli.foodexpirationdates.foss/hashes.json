@@ -1,18 +1,18 @@
 {
-  "apkName": "com.lorenzovainigli.foodexpirationdates.foss_61.apk",
+  "apkName": "com.lorenzovainigli.foodexpirationdates.foss_75.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-i/E1M1Skau6NCqZPirJAaqP2WgZV0gA8dveZvyfLS+8="
+      "hash": "sha256-qS5nMNgUWKGgR9hxA14Jl59If+RYk4CE+ZhOA7XGt4A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-i/E1M1Skau6NCqZPirJAaqP2WgZV0gA8dveZvyfLS+8="
+      "hash": "sha256-qS5nMNgUWKGgR9hxA14Jl59If+RYk4CE+ZhOA7XGt4A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-i/E1M1Skau6NCqZPirJAaqP2WgZV0gA8dveZvyfLS+8="
+      "hash": "sha256-qS5nMNgUWKGgR9hxA14Jl59If+RYk4CE+ZhOA7XGt4A="
     }
   },
-  "version": "2.11-foss"
+  "version": "2.12-foss"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.enteraname74.soulsearching_38.apk",
+  "apkName": "com.github.enteraname74.soulsearching_39.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tGsm42XQPJ04TOUzRdvemhriOUndGVQ/5dqSHENg3N8="
+      "hash": "sha256-0TO0gKfcthIOwhgCjfOlDuWQsDC5UyvmVepQy47cCDI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tGsm42XQPJ04TOUzRdvemhriOUndGVQ/5dqSHENg3N8="
+      "hash": "sha256-0TO0gKfcthIOwhgCjfOlDuWQsDC5UyvmVepQy47cCDI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tGsm42XQPJ04TOUzRdvemhriOUndGVQ/5dqSHENg3N8="
+      "hash": "sha256-0TO0gKfcthIOwhgCjfOlDuWQsDC5UyvmVepQy47cCDI="
     }
   },
-  "version": "0.15.2"
+  "version": "0.16.0"
 }

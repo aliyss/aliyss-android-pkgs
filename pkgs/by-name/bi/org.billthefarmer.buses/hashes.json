@@ -1,18 +1,18 @@
 {
-  "apkName": "org.billthefarmer.buses_110.apk",
+  "apkName": "org.billthefarmer.buses_112.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1p7anJ6UAcIrE4FxSNWzVuIWGLRfN5Nt6TfZLb5Uouo="
+      "hash": "sha256-0QOgNOwrqcpCFyZaEF1XVzI0HDqyzwQndFvxVaXOM9U="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1p7anJ6UAcIrE4FxSNWzVuIWGLRfN5Nt6TfZLb5Uouo="
+      "hash": "sha256-0QOgNOwrqcpCFyZaEF1XVzI0HDqyzwQndFvxVaXOM9U="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1p7anJ6UAcIrE4FxSNWzVuIWGLRfN5Nt6TfZLb5Uouo="
+      "hash": "sha256-0QOgNOwrqcpCFyZaEF1XVzI0HDqyzwQndFvxVaXOM9U="
     }
   },
-  "version": "1.10"
+  "version": "1.12"
 }

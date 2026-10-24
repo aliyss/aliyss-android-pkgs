@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.nicorac.bcrgui_1015002.apk",
+  "apkName": "com.github.nicorac.bcrgui_1015003.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SYJbTj9tGCzUDl9GyT+FTw/aqOReUicNYNNhLFTVW8M="
+      "hash": "sha256-94XMEHhFfb9rRFkKuiqa1nHcwKBRqlAaHjwBFdgzHoE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SYJbTj9tGCzUDl9GyT+FTw/aqOReUicNYNNhLFTVW8M="
+      "hash": "sha256-94XMEHhFfb9rRFkKuiqa1nHcwKBRqlAaHjwBFdgzHoE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SYJbTj9tGCzUDl9GyT+FTw/aqOReUicNYNNhLFTVW8M="
+      "hash": "sha256-94XMEHhFfb9rRFkKuiqa1nHcwKBRqlAaHjwBFdgzHoE="
     }
   },
-  "version": "1.15.2"
+  "version": "1.15.3"
 }

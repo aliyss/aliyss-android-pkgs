@@ -1,18 +1,18 @@
 {
-  "apkName": "org.fossify.voicerecorder_18.apk",
+  "apkName": "org.fossify.voicerecorder_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vU68S4X++0OmgSbYcE04Ii6I7zIFs2Zuei+gCzJaaWs="
+      "hash": "sha256-7o1vISGkMhgf8BCICMmBOIP1Bl+suUQ0PTv94y53DSU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vU68S4X++0OmgSbYcE04Ii6I7zIFs2Zuei+gCzJaaWs="
+      "hash": "sha256-7o1vISGkMhgf8BCICMmBOIP1Bl+suUQ0PTv94y53DSU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vU68S4X++0OmgSbYcE04Ii6I7zIFs2Zuei+gCzJaaWs="
+      "hash": "sha256-7o1vISGkMhgf8BCICMmBOIP1Bl+suUQ0PTv94y53DSU="
     }
   },
-  "version": "1.7.1"
+  "version": "1.7.3"
 }

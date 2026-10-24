@@ -1,18 +1,18 @@
 {
-  "apkName": "nodomain.freeyourgadget.gadgetbridge_252_01cce93.apk",
+  "apkName": "nodomain.freeyourgadget.gadgetbridge_255_01cce93.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-02B16ZnQcIeutNHF1jW0IqrPbo33cefxlv9tJXPWqLQ="
+      "hash": "sha256-GHzmYGrV/INy4/baFGhvazUA26uBpQP3vlr72oduQFA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-02B16ZnQcIeutNHF1jW0IqrPbo33cefxlv9tJXPWqLQ="
+      "hash": "sha256-GHzmYGrV/INy4/baFGhvazUA26uBpQP3vlr72oduQFA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-02B16ZnQcIeutNHF1jW0IqrPbo33cefxlv9tJXPWqLQ="
+      "hash": "sha256-GHzmYGrV/INy4/baFGhvazUA26uBpQP3vlr72oduQFA="
     }
   },
-  "version": "0.93.0"
+  "version": "0.95.1"
 }

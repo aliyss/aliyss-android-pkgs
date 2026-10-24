@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2026.08.05-fdroid",
+      "versionCode": 2026080501
+    },
+    {
+      "version": "2026.07.27-fdroid",
+      "versionCode": 2026072702
+    },
+    {
+      "version": "2026.04.03-fdroid",
+      "versionCode": 2026040301
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "apkName": "de.blau.android_3409.apk",
+  "apkName": "de.blau.android_3504.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kuoMOmqvNCXWEzcUqihN0Pw1oM5q03A3HyBwFJalPZg="
+      "hash": "sha256-0SCEf4CZYchn/y9CsGEfvrTTCEyqhY5AfwjWGXlKEWM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kuoMOmqvNCXWEzcUqihN0Pw1oM5q03A3HyBwFJalPZg="
+      "hash": "sha256-0SCEf4CZYchn/y9CsGEfvrTTCEyqhY5AfwjWGXlKEWM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kuoMOmqvNCXWEzcUqihN0Pw1oM5q03A3HyBwFJalPZg="
+      "hash": "sha256-0SCEf4CZYchn/y9CsGEfvrTTCEyqhY5AfwjWGXlKEWM="
     }
   },
-  "version": "22.0.8.0"
+  "version": "22.1.3.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.example.deeplviewer_50.apk",
+  "apkName": "com.example.deeplviewer_51.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NeHHMWhN/QGWIVB4a0MaM+SNLYywTUMzBMmQh/u+FNc="
+      "hash": "sha256-mjFZY4rsgXAZMWK6iA3dldIztoOfcG/qwPh4lE3xck8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NeHHMWhN/QGWIVB4a0MaM+SNLYywTUMzBMmQh/u+FNc="
+      "hash": "sha256-mjFZY4rsgXAZMWK6iA3dldIztoOfcG/qwPh4lE3xck8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NeHHMWhN/QGWIVB4a0MaM+SNLYywTUMzBMmQh/u+FNc="
+      "hash": "sha256-mjFZY4rsgXAZMWK6iA3dldIztoOfcG/qwPh4lE3xck8="
     }
   },
-  "version": "9.6"
+  "version": "10.0"
 }

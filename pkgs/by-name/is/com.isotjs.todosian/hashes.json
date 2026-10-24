@@ -1,18 +1,18 @@
 {
-  "apkName": "com.isotjs.todosian_7.apk",
+  "apkName": "com.isotjs.todosian_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NIMQpmvw9zAVs8t2rUIEFlw5Roy1bWwAUuEOliwoC/Q="
+      "hash": "sha256-mxVpjMo4vUEwgcGOHBY1/NhAB9+yRRoz9FBHMArUp1w="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NIMQpmvw9zAVs8t2rUIEFlw5Roy1bWwAUuEOliwoC/Q="
+      "hash": "sha256-mxVpjMo4vUEwgcGOHBY1/NhAB9+yRRoz9FBHMArUp1w="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NIMQpmvw9zAVs8t2rUIEFlw5Roy1bWwAUuEOliwoC/Q="
+      "hash": "sha256-mxVpjMo4vUEwgcGOHBY1/NhAB9+yRRoz9FBHMArUp1w="
     }
   },
-  "version": "1.7"
+  "version": "2.1"
 }

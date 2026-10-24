@@ -1,18 +1,18 @@
 {
-  "apkName": "org.mian.gitnex_1400.apk",
+  "apkName": "org.mian.gitnex_1500.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0v4ReuRojJrgV1aS0+zMdyD2ijqPZ0IpLp+MRj3SvX4="
+      "hash": "sha256-YWZoKEa9yXOpvdCiUaTaZA26ao5BC+h8n9pjPvfIeU8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0v4ReuRojJrgV1aS0+zMdyD2ijqPZ0IpLp+MRj3SvX4="
+      "hash": "sha256-YWZoKEa9yXOpvdCiUaTaZA26ao5BC+h8n9pjPvfIeU8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0v4ReuRojJrgV1aS0+zMdyD2ijqPZ0IpLp+MRj3SvX4="
+      "hash": "sha256-YWZoKEa9yXOpvdCiUaTaZA26ao5BC+h8n9pjPvfIeU8="
     }
   },
-  "version": "14.0.0"
+  "version": "15.0.0"
 }

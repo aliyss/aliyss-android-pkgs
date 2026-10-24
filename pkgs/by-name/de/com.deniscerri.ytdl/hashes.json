@@ -1,18 +1,18 @@
 {
-  "apkName": "com.deniscerri.ytdl_108090104.apk",
+  "apkName": "com.deniscerri.ytdl_109000004.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TpX7EO/fN+7w24z/4MCdFPuvmsiJe96hgInWPGzquqA="
+      "hash": "sha256-tdxy3mEts46MYmkioF6QdZOdLK3Ykayu0VRwuYHGl4Q="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TpX7EO/fN+7w24z/4MCdFPuvmsiJe96hgInWPGzquqA="
+      "hash": "sha256-tdxy3mEts46MYmkioF6QdZOdLK3Ykayu0VRwuYHGl4Q="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TpX7EO/fN+7w24z/4MCdFPuvmsiJe96hgInWPGzquqA="
+      "hash": "sha256-tdxy3mEts46MYmkioF6QdZOdLK3Ykayu0VRwuYHGl4Q="
     }
   },
-  "version": "1.8.9.1"
+  "version": "1.9.0"
 }

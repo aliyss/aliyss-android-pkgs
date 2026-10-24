@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.digitallyrefined.androidipcamera_100.apk",
+  "apkName": "com.github.digitallyrefined.androidipcamera_140.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WxfN7GDFW+4cgXL3T6Aixp+XIFoSYWRV6LjMJgfgNpI="
+      "hash": "sha256-eeXvFyARucPkxPDuG5UWAcvm0sv/Amd7Z+cYgS052wA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WxfN7GDFW+4cgXL3T6Aixp+XIFoSYWRV6LjMJgfgNpI="
+      "hash": "sha256-eeXvFyARucPkxPDuG5UWAcvm0sv/Amd7Z+cYgS052wA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WxfN7GDFW+4cgXL3T6Aixp+XIFoSYWRV6LjMJgfgNpI="
+      "hash": "sha256-eeXvFyARucPkxPDuG5UWAcvm0sv/Amd7Z+cYgS052wA="
     }
   },
-  "version": "0.10.0"
+  "version": "0.14.0"
 }

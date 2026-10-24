@@ -1,18 +1,18 @@
 {
-  "apkName": "com.lostf1sh.pixelplayeross_2.apk",
+  "apkName": "com.lostf1sh.pixelplayeross_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-R7Wsud2PDFmZP8rxxaTol/UiY7VQyT/I4q9d/6mS3rU="
+      "hash": "sha256-0B44Fr41afPjL6xnu9+RqsOqf9fLsfMd4yMtzQfP08Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-R7Wsud2PDFmZP8rxxaTol/UiY7VQyT/I4q9d/6mS3rU="
+      "hash": "sha256-0B44Fr41afPjL6xnu9+RqsOqf9fLsfMd4yMtzQfP08Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-R7Wsud2PDFmZP8rxxaTol/UiY7VQyT/I4q9d/6mS3rU="
+      "hash": "sha256-0B44Fr41afPjL6xnu9+RqsOqf9fLsfMd4yMtzQfP08Y="
     }
   },
-  "version": "0.2.0"
+  "version": "0.4.0"
 }

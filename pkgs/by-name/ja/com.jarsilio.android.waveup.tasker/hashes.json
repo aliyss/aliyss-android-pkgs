@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jarsilio.android.waveup.tasker_13.apk",
+  "apkName": "com.jarsilio.android.waveup.tasker_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tU5VCRqUxq9t7wLmZ5VemPc+rVHcq8w8RDHStaGpxpU="
+      "hash": "sha256-wiSPWRQRV8Rn+3sfXKQrhnJQPtdwT+yXwwdgKdpgBds="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tU5VCRqUxq9t7wLmZ5VemPc+rVHcq8w8RDHStaGpxpU="
+      "hash": "sha256-wiSPWRQRV8Rn+3sfXKQrhnJQPtdwT+yXwwdgKdpgBds="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tU5VCRqUxq9t7wLmZ5VemPc+rVHcq8w8RDHStaGpxpU="
+      "hash": "sha256-wiSPWRQRV8Rn+3sfXKQrhnJQPtdwT+yXwwdgKdpgBds="
     }
   },
-  "version": "0.1.12"
+  "version": "0.1.13"
 }

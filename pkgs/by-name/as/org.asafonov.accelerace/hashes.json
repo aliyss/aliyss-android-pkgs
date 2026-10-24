@@ -1,18 +1,18 @@
 {
-  "apkName": "org.asafonov.accelerace_11.apk",
+  "apkName": "org.asafonov.accelerace_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CtxASRFQJfcQnz7Gt1UL+eXzvYY0dQWJSud4tNPvX/k="
+      "hash": "sha256-/nBaFZnmzgyG9qKIvDYcn/s/aIXc/MC6rMoZIf56Wp4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CtxASRFQJfcQnz7Gt1UL+eXzvYY0dQWJSud4tNPvX/k="
+      "hash": "sha256-/nBaFZnmzgyG9qKIvDYcn/s/aIXc/MC6rMoZIf56Wp4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CtxASRFQJfcQnz7Gt1UL+eXzvYY0dQWJSud4tNPvX/k="
+      "hash": "sha256-/nBaFZnmzgyG9qKIvDYcn/s/aIXc/MC6rMoZIf56Wp4="
     }
   },
-  "version": "0.11"
+  "version": "0.12"
 }

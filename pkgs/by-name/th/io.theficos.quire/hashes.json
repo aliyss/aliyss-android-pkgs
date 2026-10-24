@@ -1,18 +1,18 @@
 {
-  "apkName": "io.theficos.quire_26072925.apk",
+  "apkName": "io.theficos.quire_260929000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-O6jvo+kL+02iQccEmdJ2HgCAFPrnthzcIPGlpzrriVA="
+      "hash": "sha256-FXKyW61Xn1FAfKD21gJnABppwQeE9YfBEFg1Dd8jL5I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-O6jvo+kL+02iQccEmdJ2HgCAFPrnthzcIPGlpzrriVA="
+      "hash": "sha256-FXKyW61Xn1FAfKD21gJnABppwQeE9YfBEFg1Dd8jL5I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-O6jvo+kL+02iQccEmdJ2HgCAFPrnthzcIPGlpzrriVA="
+      "hash": "sha256-FXKyW61Xn1FAfKD21gJnABppwQeE9YfBEFg1Dd8jL5I="
     }
   },
-  "version": "2026.07.29.225"
+  "version": "2026.09.29.274"
 }

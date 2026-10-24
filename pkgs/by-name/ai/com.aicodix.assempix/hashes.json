@@ -1,18 +1,18 @@
 {
-  "apkName": "com.aicodix.assempix_19.apk",
+  "apkName": "com.aicodix.assempix_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AbVHaIezl7Pk3+a0RdiSPQl7BGcswQHuqspkcqGYCik="
+      "hash": "sha256-DKdy3vMB7kI9w4cot5k25mwzcz/S5dmqvEDHy5dz9CE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AbVHaIezl7Pk3+a0RdiSPQl7BGcswQHuqspkcqGYCik="
+      "hash": "sha256-DKdy3vMB7kI9w4cot5k25mwzcz/S5dmqvEDHy5dz9CE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AbVHaIezl7Pk3+a0RdiSPQl7BGcswQHuqspkcqGYCik="
+      "hash": "sha256-DKdy3vMB7kI9w4cot5k25mwzcz/S5dmqvEDHy5dz9CE="
     }
   },
-  "version": "1.18"
+  "version": "1.19"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "org.shano.assistral_325.apk",
+  "apkName": "org.shano.assistral_328.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Ybyo5OR/3KYspir+bT9kIKe8R/Jx0wVL0jvSUCgg6aQ="
+      "hash": "sha256-PCnNN16Q+HJVpOgL39+ocpakScUOM4V9VCSzu9fPiXU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ybyo5OR/3KYspir+bT9kIKe8R/Jx0wVL0jvSUCgg6aQ="
+      "hash": "sha256-PCnNN16Q+HJVpOgL39+ocpakScUOM4V9VCSzu9fPiXU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ybyo5OR/3KYspir+bT9kIKe8R/Jx0wVL0jvSUCgg6aQ="
+      "hash": "sha256-PCnNN16Q+HJVpOgL39+ocpakScUOM4V9VCSzu9fPiXU="
     }
   },
-  "version": "3.2.5"
+  "version": "3.2.8"
 }

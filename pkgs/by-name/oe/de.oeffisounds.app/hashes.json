@@ -1,18 +1,18 @@
 {
-  "apkName": "de.oeffisounds.app_36.apk",
+  "apkName": "de.oeffisounds.app_44.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-eaRSW/HChSqy/fbE7fS/unLLpbtru2evMJlBHCMP29M="
+      "hash": "sha256-nbgE/1dvM63Qw1sOBp63iyJUtXDE+v7z3QGSs+KQQ6Q="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eaRSW/HChSqy/fbE7fS/unLLpbtru2evMJlBHCMP29M="
+      "hash": "sha256-nbgE/1dvM63Qw1sOBp63iyJUtXDE+v7z3QGSs+KQQ6Q="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eaRSW/HChSqy/fbE7fS/unLLpbtru2evMJlBHCMP29M="
+      "hash": "sha256-nbgE/1dvM63Qw1sOBp63iyJUtXDE+v7z3QGSs+KQQ6Q="
     }
   },
-  "version": "2.8.4"
+  "version": "2.11.1"
 }

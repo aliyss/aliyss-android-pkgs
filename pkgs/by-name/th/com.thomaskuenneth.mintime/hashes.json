@@ -1,18 +1,18 @@
 {
-  "apkName": "com.thomaskuenneth.mintime_65.apk",
+  "apkName": "com.thomaskuenneth.mintime_70.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MG0qH+ZzwfmirJRwE2nZrxRz5xbjFQvA3Oq6FXNCzRQ="
+      "hash": "sha256-3ehwHo+O5EYGdtrua2XYZuwEXDNvyhpKjMxfCjVQ/p4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MG0qH+ZzwfmirJRwE2nZrxRz5xbjFQvA3Oq6FXNCzRQ="
+      "hash": "sha256-3ehwHo+O5EYGdtrua2XYZuwEXDNvyhpKjMxfCjVQ/p4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MG0qH+ZzwfmirJRwE2nZrxRz5xbjFQvA3Oq6FXNCzRQ="
+      "hash": "sha256-3ehwHo+O5EYGdtrua2XYZuwEXDNvyhpKjMxfCjVQ/p4="
     }
   },
-  "version": "2.0.1"
+  "version": "2.0.6"
 }
