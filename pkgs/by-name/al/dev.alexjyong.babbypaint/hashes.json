@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.alexjyong.babbypaint_9.apk",
+  "apkName": "dev.alexjyong.babbypaint_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zRQz39yldyM8B3QxiDOab0P2ivr9gebTbH/rDlGCcGs="
+      "hash": "sha256-dwIZNdKS2FGqQvvum5SpepFsltUCqqWDG2dqP5OxHs0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zRQz39yldyM8B3QxiDOab0P2ivr9gebTbH/rDlGCcGs="
+      "hash": "sha256-dwIZNdKS2FGqQvvum5SpepFsltUCqqWDG2dqP5OxHs0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zRQz39yldyM8B3QxiDOab0P2ivr9gebTbH/rDlGCcGs="
+      "hash": "sha256-dwIZNdKS2FGqQvvum5SpepFsltUCqqWDG2dqP5OxHs0="
     }
   },
-  "version": "0.1.2"
+  "version": "0.2.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "org.xcsoar_182.apk",
+  "apkName": "org.xcsoar_74600000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AVsM3AKyhfe1SaIbXAckLvcPIwIZeOsuWT+M+HxZTt0="
+      "hash": "sha256-Cvh4E1Ccdy/UsH4JDuU3VkzRI4KnkvLdrlgU/SBlSUg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AVsM3AKyhfe1SaIbXAckLvcPIwIZeOsuWT+M+HxZTt0="
+      "hash": "sha256-Cvh4E1Ccdy/UsH4JDuU3VkzRI4KnkvLdrlgU/SBlSUg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AVsM3AKyhfe1SaIbXAckLvcPIwIZeOsuWT+M+HxZTt0="
+      "hash": "sha256-Cvh4E1Ccdy/UsH4JDuU3VkzRI4KnkvLdrlgU/SBlSUg="
     }
   },
-  "version": "7.44"
+  "version": "7.46"
 }

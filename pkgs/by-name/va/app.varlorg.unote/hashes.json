@@ -1,18 +1,18 @@
 {
-  "apkName": "app.varlorg.unote_32.apk",
+  "apkName": "app.varlorg.unote_33.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ZjmKuVx0gQUYYk697Hd/MPZ/m/WuzM2l6j+1TlnadMg="
+      "hash": "sha256-JUvZcYA/PP3ktm49A6qiQ0V97yGfLfjQJ+Hakm67vkw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZjmKuVx0gQUYYk697Hd/MPZ/m/WuzM2l6j+1TlnadMg="
+      "hash": "sha256-JUvZcYA/PP3ktm49A6qiQ0V97yGfLfjQJ+Hakm67vkw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZjmKuVx0gQUYYk697Hd/MPZ/m/WuzM2l6j+1TlnadMg="
+      "hash": "sha256-JUvZcYA/PP3ktm49A6qiQ0V97yGfLfjQJ+Hakm67vkw="
     }
   },
-  "version": "1.9.1"
+  "version": "1.9.2"
 }

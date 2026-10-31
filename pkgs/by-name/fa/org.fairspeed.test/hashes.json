@@ -1,18 +1,18 @@
 {
-  "apkName": "org.fairspeed.test_3.apk",
+  "apkName": "org.fairspeed.test_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/qBcmmMn75h7VuOlzSMLZE8Rl9PBKghh0ZtV2svt1YE="
+      "hash": "sha256-DCw68Tj3QBgTemQBIlCCi8D7H8n4M4sNvtKIvroAa2A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/qBcmmMn75h7VuOlzSMLZE8Rl9PBKghh0ZtV2svt1YE="
+      "hash": "sha256-DCw68Tj3QBgTemQBIlCCi8D7H8n4M4sNvtKIvroAa2A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/qBcmmMn75h7VuOlzSMLZE8Rl9PBKghh0ZtV2svt1YE="
+      "hash": "sha256-DCw68Tj3QBgTemQBIlCCi8D7H8n4M4sNvtKIvroAa2A="
     }
   },
-  "version": "1.0.2"
+  "version": "1.0.10"
 }

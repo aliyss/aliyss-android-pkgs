@@ -1,18 +1,18 @@
 {
-  "apkName": "org.billthefarmer.gridle_123.apk",
+  "apkName": "org.billthefarmer.gridle_125.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-esUqb5O1jXuCg8Byca2j8kUhBdTluHAAVcmA+hcuvT4="
+      "hash": "sha256-fBvL32kt48pktVyQlyd8R84HsXDHTPkw+MKCdDddmRE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-esUqb5O1jXuCg8Byca2j8kUhBdTluHAAVcmA+hcuvT4="
+      "hash": "sha256-fBvL32kt48pktVyQlyd8R84HsXDHTPkw+MKCdDddmRE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-esUqb5O1jXuCg8Byca2j8kUhBdTluHAAVcmA+hcuvT4="
+      "hash": "sha256-fBvL32kt48pktVyQlyd8R84HsXDHTPkw+MKCdDddmRE="
     }
   },
-  "version": "1.23"
+  "version": "1.25"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.epione.app_11.apk",
+  "apkName": "com.epione.app_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-szYg0g/9+Xi1YjvuwuPHgYKKGOKxE2D8SzivpFKveGw="
+      "hash": "sha256-ZO8EuV2yEdenqaTjAbRhpWG9W/la0P273DOtDI9D3k4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-szYg0g/9+Xi1YjvuwuPHgYKKGOKxE2D8SzivpFKveGw="
+      "hash": "sha256-ZO8EuV2yEdenqaTjAbRhpWG9W/la0P273DOtDI9D3k4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-szYg0g/9+Xi1YjvuwuPHgYKKGOKxE2D8SzivpFKveGw="
+      "hash": "sha256-ZO8EuV2yEdenqaTjAbRhpWG9W/la0P273DOtDI9D3k4="
     }
   },
-  "version": "1.7.0"
+  "version": "1.10.0"
 }

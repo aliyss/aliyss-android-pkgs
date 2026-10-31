@@ -1,18 +1,18 @@
 {
-  "apkName": "org.hzontal.tellaFOSS_248.apk",
+  "apkName": "org.hzontal.tellaFOSS_260.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-z6BG0nvQTVnXhRC1+twh1NmiYaBLL86JoPyl2i7lv8E="
+      "hash": "sha256-JLxAeh1y54IOiSGTK4kI8Pas0W6dky+JFgFcq27JYiY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-z6BG0nvQTVnXhRC1+twh1NmiYaBLL86JoPyl2i7lv8E="
+      "hash": "sha256-JLxAeh1y54IOiSGTK4kI8Pas0W6dky+JFgFcq27JYiY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-z6BG0nvQTVnXhRC1+twh1NmiYaBLL86JoPyl2i7lv8E="
+      "hash": "sha256-JLxAeh1y54IOiSGTK4kI8Pas0W6dky+JFgFcq27JYiY="
     }
   },
-  "version": "3.2.0"
+  "version": "3.4.1"
 }

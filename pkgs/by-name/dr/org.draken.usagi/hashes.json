@@ -1,18 +1,18 @@
 {
-  "apkName": "org.draken.usagi_18.apk",
+  "apkName": "org.draken.usagi_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rKzMQdv2GSUtEpRoG/GqPgmtlnTcM6Mu4oGq9i89nFo="
+      "hash": "sha256-hVvggSz0CLDGf822l3HyuwAlYyfbsCcoY0AWFIexUr0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rKzMQdv2GSUtEpRoG/GqPgmtlnTcM6Mu4oGq9i89nFo="
+      "hash": "sha256-hVvggSz0CLDGf822l3HyuwAlYyfbsCcoY0AWFIexUr0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rKzMQdv2GSUtEpRoG/GqPgmtlnTcM6Mu4oGq9i89nFo="
+      "hash": "sha256-hVvggSz0CLDGf822l3HyuwAlYyfbsCcoY0AWFIexUr0="
     }
   },
-  "version": "1.0.0-rc1"
+  "version": "2.0-beta1"
 }

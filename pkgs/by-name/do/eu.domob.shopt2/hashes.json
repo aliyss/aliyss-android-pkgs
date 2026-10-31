@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.domob.shopt2_6.apk",
+  "apkName": "eu.domob.shopt2_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rT/MKcg3eql6/jflpfnGvnJOg9P8HhKCy9rH5WFSJ6g="
+      "hash": "sha256-ivQcMipVZkC6YW6YbRH43D6offlThNzO6Vt5Ddr8Kq4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rT/MKcg3eql6/jflpfnGvnJOg9P8HhKCy9rH5WFSJ6g="
+      "hash": "sha256-ivQcMipVZkC6YW6YbRH43D6offlThNzO6Vt5Ddr8Kq4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rT/MKcg3eql6/jflpfnGvnJOg9P8HhKCy9rH5WFSJ6g="
+      "hash": "sha256-ivQcMipVZkC6YW6YbRH43D6offlThNzO6Vt5Ddr8Kq4="
     }
   },
-  "version": "2.4.0"
+  "version": "2.5.0"
 }

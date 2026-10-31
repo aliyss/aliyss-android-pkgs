@@ -1,18 +1,18 @@
 {
-  "apkName": "app.passwordstore.agrahn_20001.apk",
+  "apkName": "app.passwordstore.agrahn_20003.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FFOVPfKdBgeAOKbMQR+SukEsWwJQ3/UN3jPqiU6thBw="
+      "hash": "sha256-LsYrXMMGhcT8MXQ9CCO2mPOe8sXKdoxlIQ15V147DuI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FFOVPfKdBgeAOKbMQR+SukEsWwJQ3/UN3jPqiU6thBw="
+      "hash": "sha256-LsYrXMMGhcT8MXQ9CCO2mPOe8sXKdoxlIQ15V147DuI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FFOVPfKdBgeAOKbMQR+SukEsWwJQ3/UN3jPqiU6thBw="
+      "hash": "sha256-LsYrXMMGhcT8MXQ9CCO2mPOe8sXKdoxlIQ15V147DuI="
     }
   },
-  "version": "2.0.1"
+  "version": "2.0.3"
 }

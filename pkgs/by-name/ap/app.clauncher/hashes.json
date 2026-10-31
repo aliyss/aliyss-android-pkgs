@@ -1,18 +1,18 @@
 {
-  "apkName": "app.clauncher_430.apk",
+  "apkName": "app.clauncher_480.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JtQ1P8n295jJIcOgAcXihoqaUqbeaozXb/588BCDDG4="
+      "hash": "sha256-rtt4IWgi1ciSTrElUp8t+pFA5IQbh+0wnsqPEvOJVus="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JtQ1P8n295jJIcOgAcXihoqaUqbeaozXb/588BCDDG4="
+      "hash": "sha256-rtt4IWgi1ciSTrElUp8t+pFA5IQbh+0wnsqPEvOJVus="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JtQ1P8n295jJIcOgAcXihoqaUqbeaozXb/588BCDDG4="
+      "hash": "sha256-rtt4IWgi1ciSTrElUp8t+pFA5IQbh+0wnsqPEvOJVus="
     }
   },
-  "version": "v5.2.11"
+  "version": "v5.3.0"
 }

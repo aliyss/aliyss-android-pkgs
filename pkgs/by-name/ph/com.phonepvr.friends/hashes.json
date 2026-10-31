@@ -1,18 +1,18 @@
 {
-  "apkName": "com.phonepvr.friends_1.apk",
+  "apkName": "com.phonepvr.friends_30002.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-cUz3sgsFzyAu50FvmOS1pRCmvEdPdzmKmJtiI/hinYY="
+      "hash": "sha256-lm0Y/68X4JEsiajCeLcbq3Q8TLCSyj7lEXbKLVF7NyM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cUz3sgsFzyAu50FvmOS1pRCmvEdPdzmKmJtiI/hinYY="
+      "hash": "sha256-lm0Y/68X4JEsiajCeLcbq3Q8TLCSyj7lEXbKLVF7NyM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cUz3sgsFzyAu50FvmOS1pRCmvEdPdzmKmJtiI/hinYY="
+      "hash": "sha256-lm0Y/68X4JEsiajCeLcbq3Q8TLCSyj7lEXbKLVF7NyM="
     }
   },
-  "version": "1.0.0"
+  "version": "1.1.3"
 }

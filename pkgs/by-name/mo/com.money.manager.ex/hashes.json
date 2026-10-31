@@ -1,18 +1,18 @@
 {
-  "apkName": "com.money.manager.ex_1114.apk",
+  "apkName": "com.money.manager.ex_2000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-t++6hZqSNfeIzYAAVQiMFRyePov0LvrTpT+AD7WbXM4="
+      "hash": "sha256-R7lCRLhWUFPe2p0ySxhoWEIDh4R9BhXqqF88tSGp8IE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-t++6hZqSNfeIzYAAVQiMFRyePov0LvrTpT+AD7WbXM4="
+      "hash": "sha256-R7lCRLhWUFPe2p0ySxhoWEIDh4R9BhXqqF88tSGp8IE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-t++6hZqSNfeIzYAAVQiMFRyePov0LvrTpT+AD7WbXM4="
+      "hash": "sha256-R7lCRLhWUFPe2p0ySxhoWEIDh4R9BhXqqF88tSGp8IE="
     }
   },
-  "version": "5.5.9"
+  "version": "5.5.14-release"
 }

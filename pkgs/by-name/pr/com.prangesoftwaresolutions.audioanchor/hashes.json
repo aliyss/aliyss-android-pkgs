@@ -1,18 +1,18 @@
 {
-  "apkName": "com.prangesoftwaresolutions.audioanchor_32.apk",
+  "apkName": "com.prangesoftwaresolutions.audioanchor_33.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Zn7x6pcUjF4XCQk76JfmAmw7o+j1ZKERdQeJEjydMPk="
+      "hash": "sha256-4PQQmA1u6M6xUhk7/cKHgj38axJ+3WTXKUpxEnFscuo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Zn7x6pcUjF4XCQk76JfmAmw7o+j1ZKERdQeJEjydMPk="
+      "hash": "sha256-4PQQmA1u6M6xUhk7/cKHgj38axJ+3WTXKUpxEnFscuo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Zn7x6pcUjF4XCQk76JfmAmw7o+j1ZKERdQeJEjydMPk="
+      "hash": "sha256-4PQQmA1u6M6xUhk7/cKHgj38axJ+3WTXKUpxEnFscuo="
     }
   },
-  "version": "2.5.0"
+  "version": "2.6.0"
 }

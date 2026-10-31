@@ -1,18 +1,18 @@
 {
-  "apkName": "de.seemoo.at_tracking_detection_67.apk",
+  "apkName": "de.seemoo.at_tracking_detection_69.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WMY0OggTqQfVv5rgBRrjeMQWc/R4h7UgrIwGJSg4MUA="
+      "hash": "sha256-E9eL9ojM88eYRmCEF/tqdBU6Tp4dAlUszIEzFoaB9UU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WMY0OggTqQfVv5rgBRrjeMQWc/R4h7UgrIwGJSg4MUA="
+      "hash": "sha256-E9eL9ojM88eYRmCEF/tqdBU6Tp4dAlUszIEzFoaB9UU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WMY0OggTqQfVv5rgBRrjeMQWc/R4h7UgrIwGJSg4MUA="
+      "hash": "sha256-E9eL9ojM88eYRmCEF/tqdBU6Tp4dAlUszIEzFoaB9UU="
     }
   },
-  "version": "3.1.1"
+  "version": "3.1.3"
 }

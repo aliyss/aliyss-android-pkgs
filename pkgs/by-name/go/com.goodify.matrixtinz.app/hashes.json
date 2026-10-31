@@ -1,18 +1,18 @@
 {
-  "apkName": "com.goodify.matrixtinz.app_2.apk",
+  "apkName": "com.goodify.matrixtinz.app_3.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-W9DI/Hd8H3gXCjFyy5N8c57f905E70aUZV8lVnQxsTo="
+      "hash": "sha256-dxNmX0l7H1ihrxj/1Oo2D7QwhvYa50DP45ebjI1th5I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-W9DI/Hd8H3gXCjFyy5N8c57f905E70aUZV8lVnQxsTo="
+      "hash": "sha256-dxNmX0l7H1ihrxj/1Oo2D7QwhvYa50DP45ebjI1th5I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-W9DI/Hd8H3gXCjFyy5N8c57f905E70aUZV8lVnQxsTo="
+      "hash": "sha256-dxNmX0l7H1ihrxj/1Oo2D7QwhvYa50DP45ebjI1th5I="
     }
   },
-  "version": "1.0.3"
+  "version": "1.1.0"
 }

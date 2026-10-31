@@ -1,18 +1,18 @@
 {
-  "apkName": "com.yacgroup.yacguide.dev_20260415.apk",
+  "apkName": "com.yacgroup.yacguide.dev_20261023.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-xNo3R06FY4r3sq3S2i7xLHOAQqh+n7EBBbGTjJ7Alsw="
+      "hash": "sha256-CtbbGxhYj4YgB2UeOH//UPCzjUKmHr9dMQy5hbP5hQ8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xNo3R06FY4r3sq3S2i7xLHOAQqh+n7EBBbGTjJ7Alsw="
+      "hash": "sha256-CtbbGxhYj4YgB2UeOH//UPCzjUKmHr9dMQy5hbP5hQ8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xNo3R06FY4r3sq3S2i7xLHOAQqh+n7EBBbGTjJ7Alsw="
+      "hash": "sha256-CtbbGxhYj4YgB2UeOH//UPCzjUKmHr9dMQy5hbP5hQ8="
     }
   },
-  "version": "20260415"
+  "version": "20261023"
 }

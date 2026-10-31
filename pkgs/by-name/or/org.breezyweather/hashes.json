@@ -1,18 +1,18 @@
 {
-  "apkName": "org.breezyweather_60201.apk",
+  "apkName": "org.breezyweather_60202.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rCcV9hZbQvs0pr/Sv+T7WBLnT78jOX/YcnEPNiCCdB4="
+      "hash": "sha256-E2nYF9QmSYcV+My2dQuv8Z2t146F9wcIjpvKQ5d1cMA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rCcV9hZbQvs0pr/Sv+T7WBLnT78jOX/YcnEPNiCCdB4="
+      "hash": "sha256-E2nYF9QmSYcV+My2dQuv8Z2t146F9wcIjpvKQ5d1cMA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rCcV9hZbQvs0pr/Sv+T7WBLnT78jOX/YcnEPNiCCdB4="
+      "hash": "sha256-E2nYF9QmSYcV+My2dQuv8Z2t146F9wcIjpvKQ5d1cMA="
     }
   },
-  "version": "6.2.1_freenet"
+  "version": "6.2.2_freenet"
 }

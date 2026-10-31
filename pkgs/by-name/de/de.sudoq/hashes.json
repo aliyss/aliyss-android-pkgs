@@ -1,18 +1,18 @@
 {
-  "apkName": "de.sudoq_46.apk",
+  "apkName": "de.sudoq_65.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-h5THmYJ0vrm+6FvxPgFZBIPR+5DOrwAvpigZ1wyUydo="
+      "hash": "sha256-pT8nVFUXEgjTCLobrxZnARsY/Frn4WfLOoN9Axflohg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h5THmYJ0vrm+6FvxPgFZBIPR+5DOrwAvpigZ1wyUydo="
+      "hash": "sha256-pT8nVFUXEgjTCLobrxZnARsY/Frn4WfLOoN9Axflohg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h5THmYJ0vrm+6FvxPgFZBIPR+5DOrwAvpigZ1wyUydo="
+      "hash": "sha256-pT8nVFUXEgjTCLobrxZnARsY/Frn4WfLOoN9Axflohg="
     }
   },
-  "version": "3.0.1"
+  "version": "3.3.3"
 }

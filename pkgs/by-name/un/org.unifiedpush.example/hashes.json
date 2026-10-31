@@ -1,18 +1,18 @@
 {
-  "apkName": "org.unifiedpush.example_30.apk",
+  "apkName": "org.unifiedpush.example_32.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0inJTrDAuMcD5QU3UhfMudnCfL2cfT3HJ6rZJZsFz2g="
+      "hash": "sha256-PElj2gibcFk57bPVJE9qZfb/VslU53O7TMi7RMeRqlc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0inJTrDAuMcD5QU3UhfMudnCfL2cfT3HJ6rZJZsFz2g="
+      "hash": "sha256-PElj2gibcFk57bPVJE9qZfb/VslU53O7TMi7RMeRqlc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0inJTrDAuMcD5QU3UhfMudnCfL2cfT3HJ6rZJZsFz2g="
+      "hash": "sha256-PElj2gibcFk57bPVJE9qZfb/VslU53O7TMi7RMeRqlc="
     }
   },
-  "version": "2.3.0-rc1"
+  "version": "2.3.1"
 }

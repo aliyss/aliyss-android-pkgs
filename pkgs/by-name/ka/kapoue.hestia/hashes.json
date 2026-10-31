@@ -1,18 +1,18 @@
 {
-  "apkName": "kapoue.hestia_30.apk",
+  "apkName": "kapoue.hestia_58.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bUjhK4hx68oHGeel+HpZq03FeUqGmiBoHITSxh4C5qg="
+      "hash": "sha256-fPQFEKG8thgZJFKXCASKiT7nfMs1ukwYTx/0zkbi3T0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bUjhK4hx68oHGeel+HpZq03FeUqGmiBoHITSxh4C5qg="
+      "hash": "sha256-fPQFEKG8thgZJFKXCASKiT7nfMs1ukwYTx/0zkbi3T0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bUjhK4hx68oHGeel+HpZq03FeUqGmiBoHITSxh4C5qg="
+      "hash": "sha256-fPQFEKG8thgZJFKXCASKiT7nfMs1ukwYTx/0zkbi3T0="
     }
   },
-  "version": "1.0.0"
+  "version": "2.18.0"
 }

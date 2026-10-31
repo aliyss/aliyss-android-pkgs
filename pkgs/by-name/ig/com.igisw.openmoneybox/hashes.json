@@ -1,18 +1,18 @@
 {
-  "apkName": "com.igisw.openmoneybox_71.apk",
+  "apkName": "com.igisw.openmoneybox_73.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yQmYDfC3xSOVpstJCg+aAiacZvlD1GQZPmy2/XdPs44="
+      "hash": "sha256-T8gB9k0tTCIdQtrxInuFIURJYT+iIhFlL0BaT3bZT9M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yQmYDfC3xSOVpstJCg+aAiacZvlD1GQZPmy2/XdPs44="
+      "hash": "sha256-T8gB9k0tTCIdQtrxInuFIURJYT+iIhFlL0BaT3bZT9M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yQmYDfC3xSOVpstJCg+aAiacZvlD1GQZPmy2/XdPs44="
+      "hash": "sha256-T8gB9k0tTCIdQtrxInuFIURJYT+iIhFlL0BaT3bZT9M="
     }
   },
-  "version": "3.5.1.13"
+  "version": "3.5.1.15"
 }

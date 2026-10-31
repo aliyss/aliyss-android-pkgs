@@ -1,18 +1,18 @@
 {
-  "apkName": "ch.joshuah.bibleverseapp_9.apk",
+  "apkName": "ch.joshuah.bibleverseapp_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-S7pi69QOveSn9CbeuUXlliVW50UJdIDJjhHqUFIsIdM="
+      "hash": "sha256-zZHS3pTKyGSPmBqhRsPmQXw5pZ1ooERbokrY0iECfCU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-S7pi69QOveSn9CbeuUXlliVW50UJdIDJjhHqUFIsIdM="
+      "hash": "sha256-zZHS3pTKyGSPmBqhRsPmQXw5pZ1ooERbokrY0iECfCU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-S7pi69QOveSn9CbeuUXlliVW50UJdIDJjhHqUFIsIdM="
+      "hash": "sha256-zZHS3pTKyGSPmBqhRsPmQXw5pZ1ooERbokrY0iECfCU="
     }
   },
-  "version": "1.8"
+  "version": "1.8.3"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.aa.mynotes_8.apk",
+  "apkName": "com.aa.mynotes_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tzuY4l2HFNArrTFHnTlPt7hMIylBOvc768Z6qkcmeDk="
+      "hash": "sha256-6tL7Sw7KRKvqPGOjP/jgV5xa4BN4yCg4wGL5wSg8HQc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tzuY4l2HFNArrTFHnTlPt7hMIylBOvc768Z6qkcmeDk="
+      "hash": "sha256-6tL7Sw7KRKvqPGOjP/jgV5xa4BN4yCg4wGL5wSg8HQc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tzuY4l2HFNArrTFHnTlPt7hMIylBOvc768Z6qkcmeDk="
+      "hash": "sha256-6tL7Sw7KRKvqPGOjP/jgV5xa4BN4yCg4wGL5wSg8HQc="
     }
   },
-  "version": "1.6.0"
+  "version": "1.6.1"
 }

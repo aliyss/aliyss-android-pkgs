@@ -1,18 +1,18 @@
 {
-  "apkName": "app.mlauncher_1120000.apk",
+  "apkName": "app.mlauncher_1120200.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ZgtWQtL87dSi489yaRWT85x8zCdyGJBX8CAj0gTVzFI="
+      "hash": "sha256-Q3dA9Bm2Vl6I85R61cYr/iXSOWNBsVF1B9Re8R2Og1Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZgtWQtL87dSi489yaRWT85x8zCdyGJBX8CAj0gTVzFI="
+      "hash": "sha256-Q3dA9Bm2Vl6I85R61cYr/iXSOWNBsVF1B9Re8R2Og1Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZgtWQtL87dSi489yaRWT85x8zCdyGJBX8CAj0gTVzFI="
+      "hash": "sha256-Q3dA9Bm2Vl6I85R61cYr/iXSOWNBsVF1B9Re8R2Og1Y="
     }
   },
-  "version": "1.12.0 Build 0"
+  "version": "1.12.2 Build 0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "net.kollnig.missioncontrol_2026080501.apk",
+  "apkName": "net.kollnig.missioncontrol_2026102901.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TtbUF55J52+wWQaPznPFLMA1U6bMsAjvvkXnMXHvY8U="
+      "hash": "sha256-sbXzWetDRXZEqdVG54DZDAlSYlTGXq/Qc+HfcRB7a1E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TtbUF55J52+wWQaPznPFLMA1U6bMsAjvvkXnMXHvY8U="
+      "hash": "sha256-sbXzWetDRXZEqdVG54DZDAlSYlTGXq/Qc+HfcRB7a1E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TtbUF55J52+wWQaPznPFLMA1U6bMsAjvvkXnMXHvY8U="
+      "hash": "sha256-sbXzWetDRXZEqdVG54DZDAlSYlTGXq/Qc+HfcRB7a1E="
     }
   },
-  "version": "2026.08.05"
+  "version": "2026.10.29"
 }

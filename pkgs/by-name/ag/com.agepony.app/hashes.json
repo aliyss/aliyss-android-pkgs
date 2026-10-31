@@ -1,18 +1,18 @@
 {
-  "apkName": "com.agepony.app_9.apk",
+  "apkName": "com.agepony.app_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-uOnAP7zr8qLIeNXNWcCIAoulnXMFRm+EFaxy+y4pxCk="
+      "hash": "sha256-mBPl9EUf1iaDiKc13pME1Jbj6UnT6hwBlCNDxPUsMkY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uOnAP7zr8qLIeNXNWcCIAoulnXMFRm+EFaxy+y4pxCk="
+      "hash": "sha256-mBPl9EUf1iaDiKc13pME1Jbj6UnT6hwBlCNDxPUsMkY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uOnAP7zr8qLIeNXNWcCIAoulnXMFRm+EFaxy+y4pxCk="
+      "hash": "sha256-mBPl9EUf1iaDiKc13pME1Jbj6UnT6hwBlCNDxPUsMkY="
     }
   },
-  "version": "3.2.0"
+  "version": "5.0.1"
 }

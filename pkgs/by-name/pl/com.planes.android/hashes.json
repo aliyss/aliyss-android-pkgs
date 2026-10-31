@@ -1,18 +1,18 @@
 {
-  "apkName": "com.planes.android_35.apk",
+  "apkName": "com.planes.android_41.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-pJRYmFOt83FMoIJfUyYHkCu73iWZKcp4hLjDzpbzQDo="
+      "hash": "sha256-CZaNLWso89zGIuVwBMw1aj0l48nGo/o4oBE5jdVhZDI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pJRYmFOt83FMoIJfUyYHkCu73iWZKcp4hLjDzpbzQDo="
+      "hash": "sha256-CZaNLWso89zGIuVwBMw1aj0l48nGo/o4oBE5jdVhZDI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pJRYmFOt83FMoIJfUyYHkCu73iWZKcp4hLjDzpbzQDo="
+      "hash": "sha256-CZaNLWso89zGIuVwBMw1aj0l48nGo/o4oBE5jdVhZDI="
     }
   },
-  "version": "0.5.0"
+  "version": "0.5.0.6"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "io.pcontacts.app_14.apk",
+  "apkName": "io.pcontacts.app_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7lUCZvLISZxYKMvmE3pGTYmH+2E58abmdB3gi0i3YSo="
+      "hash": "sha256-A9YtPE3ERoiJ2D8Ci+Fx9jGTiexr9/taA/w6/j6ATE4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7lUCZvLISZxYKMvmE3pGTYmH+2E58abmdB3gi0i3YSo="
+      "hash": "sha256-A9YtPE3ERoiJ2D8Ci+Fx9jGTiexr9/taA/w6/j6ATE4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7lUCZvLISZxYKMvmE3pGTYmH+2E58abmdB3gi0i3YSo="
+      "hash": "sha256-A9YtPE3ERoiJ2D8Ci+Fx9jGTiexr9/taA/w6/j6ATE4="
     }
   },
-  "version": "1.5.0"
+  "version": "2.5.0"
 }

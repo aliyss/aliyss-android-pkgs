@@ -1,18 +1,18 @@
 {
-  "apkName": "com.siddharthagolu.fastlog_6.apk",
+  "apkName": "com.siddharthagolu.fastlog_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-iBRFK5NhU2wxbLykEF4twiX+j0CMGKwkEQkYGrdJePA="
+      "hash": "sha256-WnP1x8cNJXnYzfu5BlNO/dDOqQZTLNkQMivLTkSe59s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-iBRFK5NhU2wxbLykEF4twiX+j0CMGKwkEQkYGrdJePA="
+      "hash": "sha256-WnP1x8cNJXnYzfu5BlNO/dDOqQZTLNkQMivLTkSe59s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-iBRFK5NhU2wxbLykEF4twiX+j0CMGKwkEQkYGrdJePA="
+      "hash": "sha256-WnP1x8cNJXnYzfu5BlNO/dDOqQZTLNkQMivLTkSe59s="
     }
   },
-  "version": "1.5.0"
+  "version": "1.6.0"
 }

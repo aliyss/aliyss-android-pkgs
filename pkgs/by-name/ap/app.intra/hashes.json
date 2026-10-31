@@ -1,18 +1,18 @@
 {
-  "apkName": "app.intra_74.apk",
+  "apkName": "app.intra_75.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FD4MnbtN2QHeFxjhWHJWkvL3E/dof99LimdkHaAKBzk="
+      "hash": "sha256-KM8RNhxmAfXV+L5Fx+K9+nbGM8t97QPpCDOBIEJOC+0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FD4MnbtN2QHeFxjhWHJWkvL3E/dof99LimdkHaAKBzk="
+      "hash": "sha256-KM8RNhxmAfXV+L5Fx+K9+nbGM8t97QPpCDOBIEJOC+0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FD4MnbtN2QHeFxjhWHJWkvL3E/dof99LimdkHaAKBzk="
+      "hash": "sha256-KM8RNhxmAfXV+L5Fx+K9+nbGM8t97QPpCDOBIEJOC+0="
     }
   },
-  "version": "1.5.0"
+  "version": "1.5.1"
 }

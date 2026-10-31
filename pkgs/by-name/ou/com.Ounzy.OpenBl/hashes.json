@@ -1,18 +1,18 @@
 {
-  "apkName": "com.Ounzy.OpenBl_11.apk",
+  "apkName": "com.Ounzy.OpenBl_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-svohIZ1hrW7zirWvs0l6cYfmIM8N2iK9d3LTfKtP+Sk="
+      "hash": "sha256-8vKP+Z6c6TWVbk/7YXOkWz0H2zCbT8xK9hHaPkejuD0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-svohIZ1hrW7zirWvs0l6cYfmIM8N2iK9d3LTfKtP+Sk="
+      "hash": "sha256-8vKP+Z6c6TWVbk/7YXOkWz0H2zCbT8xK9hHaPkejuD0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-svohIZ1hrW7zirWvs0l6cYfmIM8N2iK9d3LTfKtP+Sk="
+      "hash": "sha256-8vKP+Z6c6TWVbk/7YXOkWz0H2zCbT8xK9hHaPkejuD0="
     }
   },
-  "version": "3.3"
+  "version": "4.0"
 }

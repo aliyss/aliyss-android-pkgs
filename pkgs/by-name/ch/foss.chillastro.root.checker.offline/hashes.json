@@ -1,18 +1,18 @@
 {
-  "apkName": "foss.chillastro.root.checker.offline_2.apk",
+  "apkName": "foss.chillastro.root.checker.offline_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/IyuOtijt7W41LTPQlWi+ZQWwI040NyreYhsmoSVOVM="
+      "hash": "sha256-/ssEbMHLse6Yt4pMP6hfqkcq3EiGW8Ql4hpvgfOS6ck="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/IyuOtijt7W41LTPQlWi+ZQWwI040NyreYhsmoSVOVM="
+      "hash": "sha256-/ssEbMHLse6Yt4pMP6hfqkcq3EiGW8Ql4hpvgfOS6ck="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/IyuOtijt7W41LTPQlWi+ZQWwI040NyreYhsmoSVOVM="
+      "hash": "sha256-/ssEbMHLse6Yt4pMP6hfqkcq3EiGW8Ql4hpvgfOS6ck="
     }
   },
-  "version": "v36.23.2.0-OFFLINE"
+  "version": "v37.24.4.0-OFFLINE"
 }

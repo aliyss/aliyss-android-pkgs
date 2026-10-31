@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.imouto.hupl_200308.apk",
+  "apkName": "eu.imouto.hupl_200313.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-XpGmBGjzaIuA0gZcCjSKZ2CnWx/MTpzUgjQ2q/x1Ni8="
+      "hash": "sha256-XnAwtny1k98r5K73KBjPnlbfzY+Onu75kClcQnpaeBc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XpGmBGjzaIuA0gZcCjSKZ2CnWx/MTpzUgjQ2q/x1Ni8="
+      "hash": "sha256-XnAwtny1k98r5K73KBjPnlbfzY+Onu75kClcQnpaeBc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XpGmBGjzaIuA0gZcCjSKZ2CnWx/MTpzUgjQ2q/x1Ni8="
+      "hash": "sha256-XnAwtny1k98r5K73KBjPnlbfzY+Onu75kClcQnpaeBc="
     }
   },
-  "version": "2.3.8"
+  "version": "2.3.13"
 }

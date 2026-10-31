@@ -1,18 +1,18 @@
 {
-  "apkName": "org.woheller69.gpscockpit_290.apk",
+  "apkName": "org.woheller69.gpscockpit_300.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6P5h69GsxmxSmY+eAg/r8DH3KXCL0eSonao65MQkPek="
+      "hash": "sha256-X3j2+fJDRibimTHJdfW863g4vnoy1xCwSJSwsdy3eBY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6P5h69GsxmxSmY+eAg/r8DH3KXCL0eSonao65MQkPek="
+      "hash": "sha256-X3j2+fJDRibimTHJdfW863g4vnoy1xCwSJSwsdy3eBY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6P5h69GsxmxSmY+eAg/r8DH3KXCL0eSonao65MQkPek="
+      "hash": "sha256-X3j2+fJDRibimTHJdfW863g4vnoy1xCwSJSwsdy3eBY="
     }
   },
-  "version": "2.9"
+  "version": "3.0"
 }

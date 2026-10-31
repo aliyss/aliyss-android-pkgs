@@ -1,18 +1,18 @@
 {
-  "apkName": "org.ojrandom.paiesque_90.apk",
+  "apkName": "org.ojrandom.paiesque_123.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6J2L8+PgUWrUundL9cyPQicOw9G+DINS+RKJBI+E4vM="
+      "hash": "sha256-xVQTz7J/Oox/HRT/QsA/eASh3Op0T9eB1KJimuKptSM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6J2L8+PgUWrUundL9cyPQicOw9G+DINS+RKJBI+E4vM="
+      "hash": "sha256-xVQTz7J/Oox/HRT/QsA/eASh3Op0T9eB1KJimuKptSM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6J2L8+PgUWrUundL9cyPQicOw9G+DINS+RKJBI+E4vM="
+      "hash": "sha256-xVQTz7J/Oox/HRT/QsA/eASh3Op0T9eB1KJimuKptSM="
     }
   },
-  "version": "90"
+  "version": "123"
 }

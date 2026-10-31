@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.ottop.yamlauncher_16.apk",
+  "apkName": "eu.ottop.yamlauncher_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0jhfif/bU+vXtbSBoVOcEDeeM6A4L58UI4z3OtQuxaQ="
+      "hash": "sha256-wjnoybUb00wrhroG5caV5vcbCsDE6eY3Ftv1Ey4pr44="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0jhfif/bU+vXtbSBoVOcEDeeM6A4L58UI4z3OtQuxaQ="
+      "hash": "sha256-wjnoybUb00wrhroG5caV5vcbCsDE6eY3Ftv1Ey4pr44="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0jhfif/bU+vXtbSBoVOcEDeeM6A4L58UI4z3OtQuxaQ="
+      "hash": "sha256-wjnoybUb00wrhroG5caV5vcbCsDE6eY3Ftv1Ey4pr44="
     }
   },
-  "version": "2.2"
+  "version": "2.3"
 }

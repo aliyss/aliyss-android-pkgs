@@ -1,18 +1,18 @@
 {
-  "apkName": "com.password.monitor_106.apk",
+  "apkName": "com.password.monitor_107.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NzDI87pSpzGgLZhj6nCUR2gdEVdNkeL1rVIjN2OHiC8="
+      "hash": "sha256-HzRjTvlch/rPTZodzeNXkZFKae1M9pvgoPNr7VsRm94="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NzDI87pSpzGgLZhj6nCUR2gdEVdNkeL1rVIjN2OHiC8="
+      "hash": "sha256-HzRjTvlch/rPTZodzeNXkZFKae1M9pvgoPNr7VsRm94="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NzDI87pSpzGgLZhj6nCUR2gdEVdNkeL1rVIjN2OHiC8="
+      "hash": "sha256-HzRjTvlch/rPTZodzeNXkZFKae1M9pvgoPNr7VsRm94="
     }
   },
-  "version": "1.0.6"
+  "version": "1.0.7"
 }

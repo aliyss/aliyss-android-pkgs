@@ -1,18 +1,18 @@
 {
-  "apkName": "org.asafonov.spass_20.apk",
+  "apkName": "org.asafonov.spass_21.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-YWB7CI39cjnMTcYPlk3lIXXu8Jt0Vtb8ZvjSv0L29PQ="
+      "hash": "sha256-iRxgt3EmcQmamoHBKolPiJNV+5OWuJr/ujphqL+aBlQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YWB7CI39cjnMTcYPlk3lIXXu8Jt0Vtb8ZvjSv0L29PQ="
+      "hash": "sha256-iRxgt3EmcQmamoHBKolPiJNV+5OWuJr/ujphqL+aBlQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YWB7CI39cjnMTcYPlk3lIXXu8Jt0Vtb8ZvjSv0L29PQ="
+      "hash": "sha256-iRxgt3EmcQmamoHBKolPiJNV+5OWuJr/ujphqL+aBlQ="
     }
   },
-  "version": "2.2"
+  "version": "2.3"
 }

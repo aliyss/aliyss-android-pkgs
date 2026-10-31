@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "1.8.29-glt-Edition",
+      "versionCode": 1700029
+    },
+    {
+      "version": "1.8.28-glt-Edition",
+      "versionCode": 1700028
+    },
+    {
+      "version": "1.8.27-glt-Edition",
+      "versionCode": 1700027
+    }
+  ]
+}

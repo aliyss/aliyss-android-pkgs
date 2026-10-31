@@ -1,18 +1,18 @@
 {
-  "apkName": "free.rm.skytube.oss_59.apk",
+  "apkName": "free.rm.skytube.oss_61.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/WjzaJtT5Wvflnz7bVh2+jUEmuNIMwOirK1s58/dd74="
+      "hash": "sha256-ujA2OPKwrSWYLesem2bcZVoleyvGuUov9DXk9o+wQTg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/WjzaJtT5Wvflnz7bVh2+jUEmuNIMwOirK1s58/dd74="
+      "hash": "sha256-ujA2OPKwrSWYLesem2bcZVoleyvGuUov9DXk9o+wQTg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/WjzaJtT5Wvflnz7bVh2+jUEmuNIMwOirK1s58/dd74="
+      "hash": "sha256-ujA2OPKwrSWYLesem2bcZVoleyvGuUov9DXk9o+wQTg="
     }
   },
-  "version": "2.999"
+  "version": "3.001"
 }

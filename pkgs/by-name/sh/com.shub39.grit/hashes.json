@@ -1,18 +1,18 @@
 {
-  "apkName": "com.shub39.grit_6060.apk",
+  "apkName": "com.shub39.grit_6300.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aDQ8C5j7uf0I/DLqlGD/8AaDxsIjUp74dCNPRqyUDvE="
+      "hash": "sha256-+WrI2qolJMtbW8GSln2M5CU5C9nE/qgxJKFOsybMi+Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aDQ8C5j7uf0I/DLqlGD/8AaDxsIjUp74dCNPRqyUDvE="
+      "hash": "sha256-+WrI2qolJMtbW8GSln2M5CU5C9nE/qgxJKFOsybMi+Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aDQ8C5j7uf0I/DLqlGD/8AaDxsIjUp74dCNPRqyUDvE="
+      "hash": "sha256-+WrI2qolJMtbW8GSln2M5CU5C9nE/qgxJKFOsybMi+Y="
     }
   },
-  "version": "6.0.6"
+  "version": "6.3.0"
 }

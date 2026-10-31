@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kapoue.maintask_35.apk",
+  "apkName": "com.kapoue.maintask_75.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+VJIOBc+4nyaWuSUhP/3Ny5KV1wpoR7QjPRlEhsnu+0="
+      "hash": "sha256-T4PIa2yfuO+UBZYoUmNO/KomC8cY+3CxbIB93fol7K4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+VJIOBc+4nyaWuSUhP/3Ny5KV1wpoR7QjPRlEhsnu+0="
+      "hash": "sha256-T4PIa2yfuO+UBZYoUmNO/KomC8cY+3CxbIB93fol7K4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+VJIOBc+4nyaWuSUhP/3Ny5KV1wpoR7QjPRlEhsnu+0="
+      "hash": "sha256-T4PIa2yfuO+UBZYoUmNO/KomC8cY+3CxbIB93fol7K4="
     }
   },
-  "version": "3.15.1"
+  "version": "4.3.0"
 }

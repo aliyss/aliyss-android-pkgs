@@ -1,18 +1,18 @@
 {
-  "apkName": "de.metaviewsoft.chordprogressionhelper_2.apk",
+  "apkName": "de.metaviewsoft.chordprogressionhelper_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TuIXBybDV9o3SB9HMyGLEVIE2QP1ivF+pOYlwNEP3QM="
+      "hash": "sha256-F20/j557/tsWJq1+boUirG5LHQ+RzOCbIpYsS8KJwx8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TuIXBybDV9o3SB9HMyGLEVIE2QP1ivF+pOYlwNEP3QM="
+      "hash": "sha256-F20/j557/tsWJq1+boUirG5LHQ+RzOCbIpYsS8KJwx8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TuIXBybDV9o3SB9HMyGLEVIE2QP1ivF+pOYlwNEP3QM="
+      "hash": "sha256-F20/j557/tsWJq1+boUirG5LHQ+RzOCbIpYsS8KJwx8="
     }
   },
-  "version": "0.95"
+  "version": "1.02"
 }

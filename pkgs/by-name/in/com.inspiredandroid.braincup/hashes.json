@@ -1,18 +1,18 @@
 {
-  "apkName": "com.inspiredandroid.braincup_152.apk",
+  "apkName": "com.inspiredandroid.braincup_163.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zHYJKsmJc2Y1G2ROY8OmcD1XWLkf6qPKARIgkWKueYw="
+      "hash": "sha256-XAxBd26lLy2zxzr+zGXJgvzN6EgcLIjfMqgMeOyM6dI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zHYJKsmJc2Y1G2ROY8OmcD1XWLkf6qPKARIgkWKueYw="
+      "hash": "sha256-XAxBd26lLy2zxzr+zGXJgvzN6EgcLIjfMqgMeOyM6dI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zHYJKsmJc2Y1G2ROY8OmcD1XWLkf6qPKARIgkWKueYw="
+      "hash": "sha256-XAxBd26lLy2zxzr+zGXJgvzN6EgcLIjfMqgMeOyM6dI="
     }
   },
-  "version": "2.32.0"
+  "version": "3.8.1"
 }

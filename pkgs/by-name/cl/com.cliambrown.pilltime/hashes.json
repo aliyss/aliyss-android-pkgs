@@ -1,18 +1,18 @@
 {
-  "apkName": "com.cliambrown.pilltime_20.apk",
+  "apkName": "com.cliambrown.pilltime_25.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-nmI9iDXVSyJPlrnCM5KkRida4UobJmPlylJDHbP4INU="
+      "hash": "sha256-TtofybLnVBvmpMP8gpLwqCRk5DZIWuEi9QyegPSd2LY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nmI9iDXVSyJPlrnCM5KkRida4UobJmPlylJDHbP4INU="
+      "hash": "sha256-TtofybLnVBvmpMP8gpLwqCRk5DZIWuEi9QyegPSd2LY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nmI9iDXVSyJPlrnCM5KkRida4UobJmPlylJDHbP4INU="
+      "hash": "sha256-TtofybLnVBvmpMP8gpLwqCRk5DZIWuEi9QyegPSd2LY="
     }
   },
-  "version": "20.0"
+  "version": "25.0"
 }

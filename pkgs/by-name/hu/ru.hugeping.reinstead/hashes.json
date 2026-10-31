@@ -1,18 +1,18 @@
 {
-  "apkName": "ru.hugeping.reinstead_9.apk",
+  "apkName": "ru.hugeping.reinstead_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-31lAjPZbqKJ+OauOpbI56TyBzJj3wTxxxseCB1qn6II="
+      "hash": "sha256-xBtZv8TdDujb78ReurKYBa91LVoMBVxczR+gk1mDpZw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-31lAjPZbqKJ+OauOpbI56TyBzJj3wTxxxseCB1qn6II="
+      "hash": "sha256-xBtZv8TdDujb78ReurKYBa91LVoMBVxczR+gk1mDpZw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-31lAjPZbqKJ+OauOpbI56TyBzJj3wTxxxseCB1qn6II="
+      "hash": "sha256-xBtZv8TdDujb78ReurKYBa91LVoMBVxczR+gk1mDpZw="
     }
   },
-  "version": "0.9"
+  "version": "0.10"
 }

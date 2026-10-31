@@ -1,18 +1,18 @@
 {
-  "apkName": "de.westnordost.streetcomplete_6308.apk",
+  "apkName": "de.westnordost.streetcomplete_6405.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-mEWy6G9ukkQNeh7UdCuGHvRthm4/FB5mb8fkHc3UQ+w="
+      "hash": "sha256-aUkBiJSvmgi5lv815GtgCP18fM/CcwufoixxBOVyD0I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mEWy6G9ukkQNeh7UdCuGHvRthm4/FB5mb8fkHc3UQ+w="
+      "hash": "sha256-aUkBiJSvmgi5lv815GtgCP18fM/CcwufoixxBOVyD0I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mEWy6G9ukkQNeh7UdCuGHvRthm4/FB5mb8fkHc3UQ+w="
+      "hash": "sha256-aUkBiJSvmgi5lv815GtgCP18fM/CcwufoixxBOVyD0I="
     }
   },
-  "version": "63.4"
+  "version": "64.0"
 }

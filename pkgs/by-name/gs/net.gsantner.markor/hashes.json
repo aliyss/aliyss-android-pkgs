@@ -1,18 +1,18 @@
 {
-  "apkName": "net.gsantner.markor_163.apk",
+  "apkName": "net.gsantner.markor_164.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-P58mDcPjKhKBy4gD7qb5Ju74l1efaKXTX5IlI5dLhLk="
+      "hash": "sha256-wpQS4C0D5PBRF0ahvO9Ixrc/wfcMECT78EkDsLP0xIU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-P58mDcPjKhKBy4gD7qb5Ju74l1efaKXTX5IlI5dLhLk="
+      "hash": "sha256-wpQS4C0D5PBRF0ahvO9Ixrc/wfcMECT78EkDsLP0xIU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-P58mDcPjKhKBy4gD7qb5Ju74l1efaKXTX5IlI5dLhLk="
+      "hash": "sha256-wpQS4C0D5PBRF0ahvO9Ixrc/wfcMECT78EkDsLP0xIU="
     }
   },
-  "version": "2.16.1"
+  "version": "2026.10.0"
 }

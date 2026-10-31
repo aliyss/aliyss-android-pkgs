@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.tmo1.sms_ie_10119.apk",
+  "apkName": "com.github.tmo1.sms_ie_10120.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-It9I8EwwGbbtpiCsvtN/dP1OFARFsjHR+JPdbKZEkbI="
+      "hash": "sha256-gvXsAS46BjyvFLCK3PVePJEH1AlENpv+T6QpA6N40QM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-It9I8EwwGbbtpiCsvtN/dP1OFARFsjHR+JPdbKZEkbI="
+      "hash": "sha256-gvXsAS46BjyvFLCK3PVePJEH1AlENpv+T6QpA6N40QM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-It9I8EwwGbbtpiCsvtN/dP1OFARFsjHR+JPdbKZEkbI="
+      "hash": "sha256-gvXsAS46BjyvFLCK3PVePJEH1AlENpv+T6QpA6N40QM="
     }
   },
-  "version": "2.11.1-standard"
+  "version": "2.12.0-standard"
 }

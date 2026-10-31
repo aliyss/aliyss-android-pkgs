@@ -1,18 +1,18 @@
 {
-  "apkName": "com.pcapdroid.mitm_21.apk",
+  "apkName": "com.pcapdroid.mitm_28.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TxYiw3zuiCkn5GqmC09hPEz1mRU2fd0BrRmhK4gOYWU="
+      "hash": "sha256-avedrVb6qE4a6AJ4yAGttOTL2c/+5zuTyYbnikrGryI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TxYiw3zuiCkn5GqmC09hPEz1mRU2fd0BrRmhK4gOYWU="
+      "hash": "sha256-avedrVb6qE4a6AJ4yAGttOTL2c/+5zuTyYbnikrGryI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TxYiw3zuiCkn5GqmC09hPEz1mRU2fd0BrRmhK4gOYWU="
+      "hash": "sha256-avedrVb6qE4a6AJ4yAGttOTL2c/+5zuTyYbnikrGryI="
     }
   },
-  "version": "1.4"
+  "version": "2.6"
 }

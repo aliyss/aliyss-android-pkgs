@@ -1,18 +1,18 @@
 {
-  "apkName": "com.pcinpact_296.apk",
+  "apkName": "com.pcinpact_297.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-z2kbtpn+gA1Cp0rB4pW8VJ/+FpoY8zifj8YP7jQV/TU="
+      "hash": "sha256-ahgGr36YqFgZyvDV9NLxOb1VlCj9hepuJcakP/9rQuw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-z2kbtpn+gA1Cp0rB4pW8VJ/+FpoY8zifj8YP7jQV/TU="
+      "hash": "sha256-ahgGr36YqFgZyvDV9NLxOb1VlCj9hepuJcakP/9rQuw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-z2kbtpn+gA1Cp0rB4pW8VJ/+FpoY8zifj8YP7jQV/TU="
+      "hash": "sha256-ahgGr36YqFgZyvDV9NLxOb1VlCj9hepuJcakP/9rQuw="
     }
   },
-  "version": "2.9.6"
+  "version": "2.9.7"
 }

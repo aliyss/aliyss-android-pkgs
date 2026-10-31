@@ -1,18 +1,18 @@
 {
-  "apkName": "de.monde_diplomatique.android.app.free_20301900.apk",
+  "apkName": "de.monde_diplomatique.android.app.free_20400900.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zN6blF35dWHecyVA/9xY11LTVMFpUZuIL/oE29UYyYs="
+      "hash": "sha256-XuldStazPAJxL+aIifsL9VvFYS/NcNwEoP1QE/e4UIY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zN6blF35dWHecyVA/9xY11LTVMFpUZuIL/oE29UYyYs="
+      "hash": "sha256-XuldStazPAJxL+aIifsL9VvFYS/NcNwEoP1QE/e4UIY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zN6blF35dWHecyVA/9xY11LTVMFpUZuIL/oE29UYyYs="
+      "hash": "sha256-XuldStazPAJxL+aIifsL9VvFYS/NcNwEoP1QE/e4UIY="
     }
   },
-  "version": "2.3.1"
+  "version": "2.4.0"
 }

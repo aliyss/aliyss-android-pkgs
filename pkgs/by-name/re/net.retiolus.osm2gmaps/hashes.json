@@ -1,18 +1,18 @@
 {
-  "apkName": "net.retiolus.osm2gmaps_38.apk",
+  "apkName": "net.retiolus.osm2gmaps_43.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-szQ1iIPyxq2JlaX30PcA6jnI5yu2MjW7n1S2V+FtXTM="
+      "hash": "sha256-vYKdycq2H5M7NfYZ255azjke2EExhSCG44G0OfAG7o8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-szQ1iIPyxq2JlaX30PcA6jnI5yu2MjW7n1S2V+FtXTM="
+      "hash": "sha256-vYKdycq2H5M7NfYZ255azjke2EExhSCG44G0OfAG7o8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-szQ1iIPyxq2JlaX30PcA6jnI5yu2MjW7n1S2V+FtXTM="
+      "hash": "sha256-vYKdycq2H5M7NfYZ255azjke2EExhSCG44G0OfAG7o8="
     }
   },
-  "version": "0.6.0"
+  "version": "0.11.0"
 }

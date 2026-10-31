@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kaleedtc.nitterium_12.apk",
+  "apkName": "com.kaleedtc.nitterium_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Ov4GppvGVGkWYNryidmGBkgsYSjtUJ+Lufbzwq+ujnw="
+      "hash": "sha256-LSh45hONALmTwVmRDjlJDT5xkHAPC+w1q/uIXj0lXvM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ov4GppvGVGkWYNryidmGBkgsYSjtUJ+Lufbzwq+ujnw="
+      "hash": "sha256-LSh45hONALmTwVmRDjlJDT5xkHAPC+w1q/uIXj0lXvM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ov4GppvGVGkWYNryidmGBkgsYSjtUJ+Lufbzwq+ujnw="
+      "hash": "sha256-LSh45hONALmTwVmRDjlJDT5xkHAPC+w1q/uIXj0lXvM="
     }
   },
-  "version": "1.5.2"
+  "version": "2.0.0"
 }

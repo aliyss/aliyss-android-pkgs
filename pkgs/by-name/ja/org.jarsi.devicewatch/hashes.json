@@ -1,18 +1,18 @@
 {
-  "apkName": "org.jarsi.devicewatch_16.apk",
+  "apkName": "org.jarsi.devicewatch_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-B7whCYMu0l474I1EqDGlYWOsK4jTZ2uM/r2EUrSQlj8="
+      "hash": "sha256-K7hsGmMXO/o/TuyDz5eZT/981CgHYBYRsQL2W6KG34c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-B7whCYMu0l474I1EqDGlYWOsK4jTZ2uM/r2EUrSQlj8="
+      "hash": "sha256-K7hsGmMXO/o/TuyDz5eZT/981CgHYBYRsQL2W6KG34c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-B7whCYMu0l474I1EqDGlYWOsK4jTZ2uM/r2EUrSQlj8="
+      "hash": "sha256-K7hsGmMXO/o/TuyDz5eZT/981CgHYBYRsQL2W6KG34c="
     }
   },
-  "version": "1.4.1"
+  "version": "1.10.0"
 }

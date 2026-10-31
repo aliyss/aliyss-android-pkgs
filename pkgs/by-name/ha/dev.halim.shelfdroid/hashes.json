@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.halim.shelfdroid_22.apk",
+  "apkName": "dev.halim.shelfdroid_26.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-DEfOgFH6uD+epBo9118uipnqCu7HI/KAEmY0Yp2IkHo="
+      "hash": "sha256-64euMELXEeC7WHT+CDVp4EUsmly49mJU0pCDE8FolI0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DEfOgFH6uD+epBo9118uipnqCu7HI/KAEmY0Yp2IkHo="
+      "hash": "sha256-64euMELXEeC7WHT+CDVp4EUsmly49mJU0pCDE8FolI0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DEfOgFH6uD+epBo9118uipnqCu7HI/KAEmY0Yp2IkHo="
+      "hash": "sha256-64euMELXEeC7WHT+CDVp4EUsmly49mJU0pCDE8FolI0="
     }
   },
-  "version": "0.5.0"
+  "version": "0.6.2"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.afkanerd.sw0b_81.apk",
+  "apkName": "com.afkanerd.sw0b_8703.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-oPR86F3rVgpjJASGJrLCHn1rTFRZMZjw+lWo+OGNSkE="
+      "hash": "sha256-6gnUbrq6N3EFElEKuqDM5GHLfE7AAlkblr76KXbzuyw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oPR86F3rVgpjJASGJrLCHn1rTFRZMZjw+lWo+OGNSkE="
+      "hash": "sha256-6gnUbrq6N3EFElEKuqDM5GHLfE7AAlkblr76KXbzuyw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oPR86F3rVgpjJASGJrLCHn1rTFRZMZjw+lWo+OGNSkE="
+      "hash": "sha256-6gnUbrq6N3EFElEKuqDM5GHLfE7AAlkblr76KXbzuyw="
     }
   },
-  "version": "0.40.0"
+  "version": "0.82.0"
 }

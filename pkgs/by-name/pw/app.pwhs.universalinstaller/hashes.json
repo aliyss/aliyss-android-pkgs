@@ -1,18 +1,18 @@
 {
-  "apkName": "app.pwhs.universalinstaller_31.apk",
+  "apkName": "app.pwhs.universalinstaller_44.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KqButxEF/2gioWgxZ5nUfVfQ/s5GXvVrPG6AurUUhv0="
+      "hash": "sha256-jJgONZWhiCAMy54+wiDEOZP9MUoeXMFixNLqoBTfiiw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KqButxEF/2gioWgxZ5nUfVfQ/s5GXvVrPG6AurUUhv0="
+      "hash": "sha256-jJgONZWhiCAMy54+wiDEOZP9MUoeXMFixNLqoBTfiiw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KqButxEF/2gioWgxZ5nUfVfQ/s5GXvVrPG6AurUUhv0="
+      "hash": "sha256-jJgONZWhiCAMy54+wiDEOZP9MUoeXMFixNLqoBTfiiw="
     }
   },
-  "version": "1.9.11"
+  "version": "1.20.0"
 }

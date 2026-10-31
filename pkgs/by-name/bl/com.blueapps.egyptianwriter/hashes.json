@@ -1,18 +1,18 @@
 {
-  "apkName": "com.blueapps.egyptianwriter_10.apk",
+  "apkName": "com.blueapps.egyptianwriter_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NW8lkYzEBPclNJLscJO/1Iy/4VNIsTsl1mMLncte5Yk="
+      "hash": "sha256-0nrZ4hLvry6w3MH4MiYEge1HMeBQd+9MbBMe42xtC0A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NW8lkYzEBPclNJLscJO/1Iy/4VNIsTsl1mMLncte5Yk="
+      "hash": "sha256-0nrZ4hLvry6w3MH4MiYEge1HMeBQd+9MbBMe42xtC0A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NW8lkYzEBPclNJLscJO/1Iy/4VNIsTsl1mMLncte5Yk="
+      "hash": "sha256-0nrZ4hLvry6w3MH4MiYEge1HMeBQd+9MbBMe42xtC0A="
     }
   },
-  "version": "14.05.2026@0.1.0.1"
+  "version": "24.08.2026@0.1.1"
 }

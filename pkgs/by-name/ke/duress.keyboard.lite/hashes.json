@@ -1,18 +1,18 @@
 {
-  "apkName": "duress.keyboard.lite_13.apk",
+  "apkName": "duress.keyboard.lite_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Vl3gOK32qDsW2/JA2VKvNdl5R7OZTZmlcXtGgc6/cFE="
+      "hash": "sha256-DuKQM0Z6eOBDkPNWLd6Yr3ecYDP4OwOXj8RBHCSsHJM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Vl3gOK32qDsW2/JA2VKvNdl5R7OZTZmlcXtGgc6/cFE="
+      "hash": "sha256-DuKQM0Z6eOBDkPNWLd6Yr3ecYDP4OwOXj8RBHCSsHJM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Vl3gOK32qDsW2/JA2VKvNdl5R7OZTZmlcXtGgc6/cFE="
+      "hash": "sha256-DuKQM0Z6eOBDkPNWLd6Yr3ecYDP4OwOXj8RBHCSsHJM="
     }
   },
-  "version": "13.0"
+  "version": "17.0"
 }

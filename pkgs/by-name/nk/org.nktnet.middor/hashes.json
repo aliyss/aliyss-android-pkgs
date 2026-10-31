@@ -1,18 +1,18 @@
 {
-  "apkName": "org.nktnet.middor_8.apk",
+  "apkName": "org.nktnet.middor_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-x+rQPyanbvim7CW+dSG3VcWRgRUBL9ZLhI1sGet8gs4="
+      "hash": "sha256-5ZOFA7PvTlkccQGDnC1oyU3DZC7X36+Ala00bH2+afQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-x+rQPyanbvim7CW+dSG3VcWRgRUBL9ZLhI1sGet8gs4="
+      "hash": "sha256-5ZOFA7PvTlkccQGDnC1oyU3DZC7X36+Ala00bH2+afQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-x+rQPyanbvim7CW+dSG3VcWRgRUBL9ZLhI1sGet8gs4="
+      "hash": "sha256-5ZOFA7PvTlkccQGDnC1oyU3DZC7X36+Ala00bH2+afQ="
     }
   },
-  "version": "0.1.7"
+  "version": "0.2.0"
 }

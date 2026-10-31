@@ -1,18 +1,18 @@
 {
-  "apkName": "com.forrestguice.suntimescalendars_21.apk",
+  "apkName": "com.forrestguice.suntimescalendars_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6sJn/DCHsGJGUcpNxk8yBjVE6BYb+vNJQ5Eaa2mPe9s="
+      "hash": "sha256-z06StAOTXpl6X5vYP0ZuPupQV2Q8aGzIgbwgfGmvH38="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6sJn/DCHsGJGUcpNxk8yBjVE6BYb+vNJQ5Eaa2mPe9s="
+      "hash": "sha256-z06StAOTXpl6X5vYP0ZuPupQV2Q8aGzIgbwgfGmvH38="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6sJn/DCHsGJGUcpNxk8yBjVE6BYb+vNJQ5Eaa2mPe9s="
+      "hash": "sha256-z06StAOTXpl6X5vYP0ZuPupQV2Q8aGzIgbwgfGmvH38="
     }
   },
-  "version": "0.6.3"
+  "version": "0.7.0"
 }

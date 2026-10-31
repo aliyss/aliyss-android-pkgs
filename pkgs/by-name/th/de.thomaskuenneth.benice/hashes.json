@@ -1,18 +1,18 @@
 {
-  "apkName": "de.thomaskuenneth.benice_153.apk",
+  "apkName": "de.thomaskuenneth.benice_176.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-w2YVNV4fQO+ZvTMyDl0HBXQvVi6/1RIqbITTnT9V9rU="
+      "hash": "sha256-55VV8/4DDxmwM9TwyVhxNDI3t62+lJKVFvbIymrOijg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-w2YVNV4fQO+ZvTMyDl0HBXQvVi6/1RIqbITTnT9V9rU="
+      "hash": "sha256-55VV8/4DDxmwM9TwyVhxNDI3t62+lJKVFvbIymrOijg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-w2YVNV4fQO+ZvTMyDl0HBXQvVi6/1RIqbITTnT9V9rU="
+      "hash": "sha256-55VV8/4DDxmwM9TwyVhxNDI3t62+lJKVFvbIymrOijg="
     }
   },
-  "version": "2.1.11"
+  "version": "2.4.1"
 }

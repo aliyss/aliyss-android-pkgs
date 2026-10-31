@@ -1,18 +1,18 @@
 {
-  "apkName": "com.flxrs.dankchat_40041.apk",
+  "apkName": "com.flxrs.dankchat_40046.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bDJbzufCsgzKuRmyFsob6t9EwPlMQovgBKKTxYLnEfw="
+      "hash": "sha256-LjSFqMoafc1wI0+qSTde1ETaAJ58uYPwoRHbrLTbldM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bDJbzufCsgzKuRmyFsob6t9EwPlMQovgBKKTxYLnEfw="
+      "hash": "sha256-LjSFqMoafc1wI0+qSTde1ETaAJ58uYPwoRHbrLTbldM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bDJbzufCsgzKuRmyFsob6t9EwPlMQovgBKKTxYLnEfw="
+      "hash": "sha256-LjSFqMoafc1wI0+qSTde1ETaAJ58uYPwoRHbrLTbldM="
     }
   },
-  "version": "4.0.41"
+  "version": "4.0.46"
 }

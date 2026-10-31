@@ -1,18 +1,18 @@
 {
-  "apkName": "com.hebrewcal_4.apk",
+  "apkName": "com.hebrewcal_28.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Y30OjWQJvIVieE7gdVeXtr2oVfXrPXzxY0FiVk6glmo="
+      "hash": "sha256-4zROrgg0bka+EYWOVc8W78UXutACH6oMv825kv2MCNM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Y30OjWQJvIVieE7gdVeXtr2oVfXrPXzxY0FiVk6glmo="
+      "hash": "sha256-4zROrgg0bka+EYWOVc8W78UXutACH6oMv825kv2MCNM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Y30OjWQJvIVieE7gdVeXtr2oVfXrPXzxY0FiVk6glmo="
+      "hash": "sha256-4zROrgg0bka+EYWOVc8W78UXutACH6oMv825kv2MCNM="
     }
   },
-  "version": "1.3"
+  "version": "1.21"
 }

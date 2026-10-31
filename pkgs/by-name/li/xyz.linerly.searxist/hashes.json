@@ -1,18 +1,18 @@
 {
-  "apkName": "xyz.linerly.searxist_20260430.apk",
+  "apkName": "xyz.linerly.searxist_20261010.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tfae4BEJUEzcAnbquLS5i23mdEpn0SVFcGxT3gO/f0M="
+      "hash": "sha256-AjAbwRz7gdDCXoIdfA8V8waw/aMmHnGzQn+jxl4HF30="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tfae4BEJUEzcAnbquLS5i23mdEpn0SVFcGxT3gO/f0M="
+      "hash": "sha256-AjAbwRz7gdDCXoIdfA8V8waw/aMmHnGzQn+jxl4HF30="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tfae4BEJUEzcAnbquLS5i23mdEpn0SVFcGxT3gO/f0M="
+      "hash": "sha256-AjAbwRz7gdDCXoIdfA8V8waw/aMmHnGzQn+jxl4HF30="
     }
   },
-  "version": "2026.04.30"
+  "version": "2026.10.10"
 }

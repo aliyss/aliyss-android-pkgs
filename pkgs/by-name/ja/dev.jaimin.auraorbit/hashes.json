@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.jaimin.auraorbit_10.apk",
+  "apkName": "dev.jaimin.auraorbit_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-HQk7sfCOPKJ0ozolfn5EEPuS8m/MDWZjh26d3+TXHFY="
+      "hash": "sha256-cU/S1KiO89qTAyt/LEgyN4UHH2HOiI/zsbBJhv8xOGY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HQk7sfCOPKJ0ozolfn5EEPuS8m/MDWZjh26d3+TXHFY="
+      "hash": "sha256-cU/S1KiO89qTAyt/LEgyN4UHH2HOiI/zsbBJhv8xOGY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HQk7sfCOPKJ0ozolfn5EEPuS8m/MDWZjh26d3+TXHFY="
+      "hash": "sha256-cU/S1KiO89qTAyt/LEgyN4UHH2HOiI/zsbBJhv8xOGY="
     }
   },
-  "version": "3.0.0"
+  "version": "3.0.1"
 }

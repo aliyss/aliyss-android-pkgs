@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dsalmun.luxalarm_12.apk",
+  "apkName": "com.dsalmun.luxalarm_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VjkL4plhGOYe5lfyUUAHJCpcI7gvyAJuJnGgeyxptfs="
+      "hash": "sha256-4F+qgH+vyA1jDxtGl/lwsDjIRNyUnX46G3gslmsuCdo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VjkL4plhGOYe5lfyUUAHJCpcI7gvyAJuJnGgeyxptfs="
+      "hash": "sha256-4F+qgH+vyA1jDxtGl/lwsDjIRNyUnX46G3gslmsuCdo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VjkL4plhGOYe5lfyUUAHJCpcI7gvyAJuJnGgeyxptfs="
+      "hash": "sha256-4F+qgH+vyA1jDxtGl/lwsDjIRNyUnX46G3gslmsuCdo="
     }
   },
-  "version": "2.3.0"
+  "version": "2.4.2"
 }

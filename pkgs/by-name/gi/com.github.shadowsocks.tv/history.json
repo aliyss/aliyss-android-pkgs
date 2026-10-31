@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "5.3.5-nightly",
+      "versionCode": 5030550
+    },
+    {
+      "version": "5.3.4-nightly",
+      "versionCode": 5030450
+    },
+    {
+      "version": "5.3.3-nightly",
+      "versionCode": 5030350
+    }
+  ]
+}

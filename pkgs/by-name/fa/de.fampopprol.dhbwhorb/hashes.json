@@ -1,18 +1,18 @@
 {
-  "apkName": "de.fampopprol.dhbwhorb_25.apk",
+  "apkName": "de.fampopprol.dhbwhorb_30.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ijWk2tQ1TxSgjieyiWhQsWy6ARkCtnIaS7n/jhU/LDY="
+      "hash": "sha256-9O92Uy3jvGWdZadphETbA0ygMmPaIOFFZAE2rz+rnJg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ijWk2tQ1TxSgjieyiWhQsWy6ARkCtnIaS7n/jhU/LDY="
+      "hash": "sha256-9O92Uy3jvGWdZadphETbA0ygMmPaIOFFZAE2rz+rnJg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ijWk2tQ1TxSgjieyiWhQsWy6ARkCtnIaS7n/jhU/LDY="
+      "hash": "sha256-9O92Uy3jvGWdZadphETbA0ygMmPaIOFFZAE2rz+rnJg="
     }
   },
-  "version": "v2.1.1"
+  "version": "v3.0.4"
 }

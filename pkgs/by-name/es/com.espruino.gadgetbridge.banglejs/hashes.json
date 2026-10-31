@@ -1,18 +1,18 @@
 {
-  "apkName": "com.espruino.gadgetbridge.banglejs_252_01cce93.apk",
+  "apkName": "com.espruino.gadgetbridge.banglejs_255_01cce93.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bZK3frqCL7WWgoCsBdOkl9trAwotAK5wuFuo7yuztK0="
+      "hash": "sha256-w9z4rpKUyYJtsMRYWw/2HCkUng+nLgd347TPWnlZ20A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bZK3frqCL7WWgoCsBdOkl9trAwotAK5wuFuo7yuztK0="
+      "hash": "sha256-w9z4rpKUyYJtsMRYWw/2HCkUng+nLgd347TPWnlZ20A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bZK3frqCL7WWgoCsBdOkl9trAwotAK5wuFuo7yuztK0="
+      "hash": "sha256-w9z4rpKUyYJtsMRYWw/2HCkUng+nLgd347TPWnlZ20A="
     }
   },
-  "version": "0.93.0-banglejs"
+  "version": "0.95.1-banglejs"
 }

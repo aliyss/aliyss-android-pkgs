@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.mkalmousli.floating_mute_3.apk",
+  "apkName": "com.github.mkalmousli.floating_mute_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-88XY70TUQeKXTYH3x2tGRxg/fvHmplx7oAIlR+dGPvM="
+      "hash": "sha256-bTotDl8P55NvRh9+c2bZ/pV27V8Q8GC02FPk+7Yk0z4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-88XY70TUQeKXTYH3x2tGRxg/fvHmplx7oAIlR+dGPvM="
+      "hash": "sha256-bTotDl8P55NvRh9+c2bZ/pV27V8Q8GC02FPk+7Yk0z4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-88XY70TUQeKXTYH3x2tGRxg/fvHmplx7oAIlR+dGPvM="
+      "hash": "sha256-bTotDl8P55NvRh9+c2bZ/pV27V8Q8GC02FPk+7Yk0z4="
     }
   },
-  "version": "3.0.0"
+  "version": "4.0.1"
 }

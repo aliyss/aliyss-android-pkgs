@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kompact_19.apk",
+  "apkName": "com.kompact_32.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-y/pt5LEbYghSlnNjiQVomVE7btTpKFjiAP2Wt5iSz0U="
+      "hash": "sha256-OkelEIrifVhMKg82hvfRNN4Bk9jl5u/tWZKTAf24Ay8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-y/pt5LEbYghSlnNjiQVomVE7btTpKFjiAP2Wt5iSz0U="
+      "hash": "sha256-OkelEIrifVhMKg82hvfRNN4Bk9jl5u/tWZKTAf24Ay8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-y/pt5LEbYghSlnNjiQVomVE7btTpKFjiAP2Wt5iSz0U="
+      "hash": "sha256-OkelEIrifVhMKg82hvfRNN4Bk9jl5u/tWZKTAf24Ay8="
     }
   },
-  "version": "1.1.5"
+  "version": "2.1.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "top.yztz.msggo_26000309.apk",
+  "apkName": "top.yztz.msggo_26000310.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ZKb82frOCDovhQc4fEpCQ3WcSkBNk+RPdfsZxgeHoMM="
+      "hash": "sha256-z5YsUJzSTfMnxG/hGXLo1MVLp8iZ3SWdZESkPwlyIR4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZKb82frOCDovhQc4fEpCQ3WcSkBNk+RPdfsZxgeHoMM="
+      "hash": "sha256-z5YsUJzSTfMnxG/hGXLo1MVLp8iZ3SWdZESkPwlyIR4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZKb82frOCDovhQc4fEpCQ3WcSkBNk+RPdfsZxgeHoMM="
+      "hash": "sha256-z5YsUJzSTfMnxG/hGXLo1MVLp8iZ3SWdZESkPwlyIR4="
     }
   },
-  "version": "3.9"
+  "version": "3.10"
 }

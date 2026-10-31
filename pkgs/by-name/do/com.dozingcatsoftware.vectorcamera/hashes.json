@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dozingcatsoftware.vectorcamera_14.apk",
+  "apkName": "com.dozingcatsoftware.vectorcamera_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-XbiGDZzoBi7FsfaG7ywQ2Vxpg/ZFmwbf3AFs/9nGJPo="
+      "hash": "sha256-vYb90YQWkdmz7mjQYf70Y4HYs0RItLBRVgCG4E1IFHE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XbiGDZzoBi7FsfaG7ywQ2Vxpg/ZFmwbf3AFs/9nGJPo="
+      "hash": "sha256-vYb90YQWkdmz7mjQYf70Y4HYs0RItLBRVgCG4E1IFHE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XbiGDZzoBi7FsfaG7ywQ2Vxpg/ZFmwbf3AFs/9nGJPo="
+      "hash": "sha256-vYb90YQWkdmz7mjQYf70Y4HYs0RItLBRVgCG4E1IFHE="
     }
   },
-  "version": "1.7.0"
+  "version": "2.1.0"
 }

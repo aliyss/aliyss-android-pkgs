@@ -1,18 +1,18 @@
 {
-  "apkName": "com.giacomomensio.ricevapp_26.apk",
+  "apkName": "com.giacomomensio.ricevapp_28.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-3Op3tDcvKDY/bBteXFLdM/T9a/f+QwY+6WuxWcRXiz0="
+      "hash": "sha256-rMwSygCrvhNN8YIuFwKfJ/4lzD8GkEBixnSdMRHYT9E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3Op3tDcvKDY/bBteXFLdM/T9a/f+QwY+6WuxWcRXiz0="
+      "hash": "sha256-rMwSygCrvhNN8YIuFwKfJ/4lzD8GkEBixnSdMRHYT9E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3Op3tDcvKDY/bBteXFLdM/T9a/f+QwY+6WuxWcRXiz0="
+      "hash": "sha256-rMwSygCrvhNN8YIuFwKfJ/4lzD8GkEBixnSdMRHYT9E="
     }
   },
-  "version": "1.9.3"
+  "version": "1.9.5"
 }

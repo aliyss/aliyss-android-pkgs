@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.msfjarvis.claw.android_16800.apk",
+  "apkName": "dev.msfjarvis.claw.android_17500.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-N31Zu39ORNXzihgBwx3mVNm1DKf4d9lX3w/lF4f6oP4="
+      "hash": "sha256-dNcSv76nvAVJaygrSYhQOpaV3l5FYDyB+nqa47rQRgk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-N31Zu39ORNXzihgBwx3mVNm1DKf4d9lX3w/lF4f6oP4="
+      "hash": "sha256-dNcSv76nvAVJaygrSYhQOpaV3l5FYDyB+nqa47rQRgk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-N31Zu39ORNXzihgBwx3mVNm1DKf4d9lX3w/lF4f6oP4="
+      "hash": "sha256-dNcSv76nvAVJaygrSYhQOpaV3l5FYDyB+nqa47rQRgk="
     }
   },
-  "version": "1.68.0"
+  "version": "1.75.0"
 }

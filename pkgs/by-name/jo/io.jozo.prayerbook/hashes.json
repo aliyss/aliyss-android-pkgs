@@ -1,18 +1,18 @@
 {
-  "apkName": "io.jozo.prayerbook_21.apk",
+  "apkName": "io.jozo.prayerbook_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1NeMf7hJLXkEdkfXp0wOWpTgdxFCRZXHDvSWdw8coEA="
+      "hash": "sha256-HGnCZLzigpzz6nsNa6arK8WC7x26cbJtDZQw+iWptKg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1NeMf7hJLXkEdkfXp0wOWpTgdxFCRZXHDvSWdw8coEA="
+      "hash": "sha256-HGnCZLzigpzz6nsNa6arK8WC7x26cbJtDZQw+iWptKg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1NeMf7hJLXkEdkfXp0wOWpTgdxFCRZXHDvSWdw8coEA="
+      "hash": "sha256-HGnCZLzigpzz6nsNa6arK8WC7x26cbJtDZQw+iWptKg="
     }
   },
-  "version": "0.10.3"
+  "version": "0.14.0"
 }

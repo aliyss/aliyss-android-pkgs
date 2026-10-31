@@ -1,18 +1,18 @@
 {
-  "apkName": "com.blankdev.sidestep_17.apk",
+  "apkName": "com.blankdev.sidestep_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jux0N8/aCHrN8llEQn3NQnvXQAdGuGGSaGv6FveQrQs="
+      "hash": "sha256-P5vke+Axt7Vyj39GWnh8VMyMSkjCMMn4SMuuVGDijyY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jux0N8/aCHrN8llEQn3NQnvXQAdGuGGSaGv6FveQrQs="
+      "hash": "sha256-P5vke+Axt7Vyj39GWnh8VMyMSkjCMMn4SMuuVGDijyY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jux0N8/aCHrN8llEQn3NQnvXQAdGuGGSaGv6FveQrQs="
+      "hash": "sha256-P5vke+Axt7Vyj39GWnh8VMyMSkjCMMn4SMuuVGDijyY="
     }
   },
-  "version": "1.2.5"
+  "version": "1.2.7"
 }

@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2.18",
+      "versionCode": 32
+    },
+    {
+      "version": "2.16",
+      "versionCode": 30
+    },
+    {
+      "version": "2.15",
+      "versionCode": 29
+    }
+  ]
+}

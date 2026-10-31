@@ -1,18 +1,18 @@
 {
-  "apkName": "com.maneeshacooray.gitling_59.apk",
+  "apkName": "com.maneeshacooray.gitling_68.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Z0tpJbQzSU27sOqTfbOlKOtqoqHb9Am1bgyMtysARCQ="
+      "hash": "sha256-0ctDVfFMiCOCw5HMW8Pv4o5KLepD2GmgVWsoDk7RMg0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Z0tpJbQzSU27sOqTfbOlKOtqoqHb9Am1bgyMtysARCQ="
+      "hash": "sha256-0ctDVfFMiCOCw5HMW8Pv4o5KLepD2GmgVWsoDk7RMg0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Z0tpJbQzSU27sOqTfbOlKOtqoqHb9Am1bgyMtysARCQ="
+      "hash": "sha256-0ctDVfFMiCOCw5HMW8Pv4o5KLepD2GmgVWsoDk7RMg0="
     }
   },
-  "version": "1.0.59"
+  "version": "1.0.65"
 }

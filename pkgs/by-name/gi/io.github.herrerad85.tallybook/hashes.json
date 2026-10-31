@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.herrerad85.tallybook_81.apk",
+  "apkName": "io.github.herrerad85.tallybook_93.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6X/Bq89Bc+5T8qfwYQov7xXNmDSjmTxY5+l9+Leh3pw="
+      "hash": "sha256-9JiTjRI5PCPgcsaIbS6ZDJX6pHV+H3CqdueTieHs3Ug="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6X/Bq89Bc+5T8qfwYQov7xXNmDSjmTxY5+l9+Leh3pw="
+      "hash": "sha256-9JiTjRI5PCPgcsaIbS6ZDJX6pHV+H3CqdueTieHs3Ug="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6X/Bq89Bc+5T8qfwYQov7xXNmDSjmTxY5+l9+Leh3pw="
+      "hash": "sha256-9JiTjRI5PCPgcsaIbS6ZDJX6pHV+H3CqdueTieHs3Ug="
     }
   },
-  "version": "1.3.0"
+  "version": "1.15.0"
 }

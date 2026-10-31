@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jarsilio.android.drowser_33.apk",
+  "apkName": "com.jarsilio.android.drowser_38.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2Pr8tDdFAXC+gSu4KQlYs/xzsgxBKoKvhFRyHejgPZY="
+      "hash": "sha256-UQGzn47iOhV+0E61eZ9ETvRiCKmOH+I9fjqA/yvMfFg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2Pr8tDdFAXC+gSu4KQlYs/xzsgxBKoKvhFRyHejgPZY="
+      "hash": "sha256-UQGzn47iOhV+0E61eZ9ETvRiCKmOH+I9fjqA/yvMfFg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2Pr8tDdFAXC+gSu4KQlYs/xzsgxBKoKvhFRyHejgPZY="
+      "hash": "sha256-UQGzn47iOhV+0E61eZ9ETvRiCKmOH+I9fjqA/yvMfFg="
     }
   },
-  "version": "1.0.11"
+  "version": "1.0.15"
 }

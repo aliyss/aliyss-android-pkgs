@@ -1,18 +1,18 @@
 {
-  "apkName": "com.hhst.litube_214.apk",
+  "apkName": "com.hhst.litube_303.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TEqxoBoEKYHLkRJE1G4ZaOuXldZLWvCnRJ2+r0z0J9U="
+      "hash": "sha256-k71VcRXTu5bo2S3ZbOccl4Lj59A7wFEJ9NA1+sCpyRg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TEqxoBoEKYHLkRJE1G4ZaOuXldZLWvCnRJ2+r0z0J9U="
+      "hash": "sha256-k71VcRXTu5bo2S3ZbOccl4Lj59A7wFEJ9NA1+sCpyRg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TEqxoBoEKYHLkRJE1G4ZaOuXldZLWvCnRJ2+r0z0J9U="
+      "hash": "sha256-k71VcRXTu5bo2S3ZbOccl4Lj59A7wFEJ9NA1+sCpyRg="
     }
   },
-  "version": "v2.1.4"
+  "version": "3.0.3"
 }

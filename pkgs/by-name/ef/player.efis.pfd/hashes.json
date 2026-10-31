@@ -1,18 +1,18 @@
 {
-  "apkName": "player.efis.pfd_105.apk",
+  "apkName": "player.efis.pfd_110.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9QerpPf0FwUyYd/xQ5Vb9acx7CVOt4xIgMD9fDSMXEQ="
+      "hash": "sha256-MMQcu3av4irrhwELrmaK8OBLPVygnRZ2oY9vldMHvPk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9QerpPf0FwUyYd/xQ5Vb9acx7CVOt4xIgMD9fDSMXEQ="
+      "hash": "sha256-MMQcu3av4irrhwELrmaK8OBLPVygnRZ2oY9vldMHvPk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9QerpPf0FwUyYd/xQ5Vb9acx7CVOt4xIgMD9fDSMXEQ="
+      "hash": "sha256-MMQcu3av4irrhwELrmaK8OBLPVygnRZ2oY9vldMHvPk="
     }
   },
-  "version": "8.05"
+  "version": "8.10"
 }

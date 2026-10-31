@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2024.01.01",
+      "versionCode": 20240101
+    },
+    {
+      "version": "2023.12.25",
+      "versionCode": 20231225
+    },
+    {
+      "version": "2022.04.20",
+      "versionCode": 20220420
+    }
+  ]
+}

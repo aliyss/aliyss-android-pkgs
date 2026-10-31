@@ -1,18 +1,18 @@
 {
-  "apkName": "com.baluchon.app_10.apk",
+  "apkName": "com.baluchon.app_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SVR42OcMQCwW6gMCjaDHAD6W4pqsOAUemFWY/d9YaWc="
+      "hash": "sha256-WSqPNGwJYZ4cdpxey2kfjKACDoduUaH5qNtNznnsgHE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SVR42OcMQCwW6gMCjaDHAD6W4pqsOAUemFWY/d9YaWc="
+      "hash": "sha256-WSqPNGwJYZ4cdpxey2kfjKACDoduUaH5qNtNznnsgHE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SVR42OcMQCwW6gMCjaDHAD6W4pqsOAUemFWY/d9YaWc="
+      "hash": "sha256-WSqPNGwJYZ4cdpxey2kfjKACDoduUaH5qNtNznnsgHE="
     }
   },
-  "version": "3.0"
+  "version": "4.1"
 }

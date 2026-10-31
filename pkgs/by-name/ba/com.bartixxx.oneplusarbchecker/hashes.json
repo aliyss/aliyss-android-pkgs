@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bartixxx.oneplusarbchecker_41.apk",
+  "apkName": "com.bartixxx.oneplusarbchecker_42.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tiYiWJFC8acZlhM5Tzl284yjbw+/+VeEoidk2S8qesM="
+      "hash": "sha256-Gq0RxhJXtjwU++QqkYF9aIqPamKnQzIjztkkROGOsNs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tiYiWJFC8acZlhM5Tzl284yjbw+/+VeEoidk2S8qesM="
+      "hash": "sha256-Gq0RxhJXtjwU++QqkYF9aIqPamKnQzIjztkkROGOsNs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tiYiWJFC8acZlhM5Tzl284yjbw+/+VeEoidk2S8qesM="
+      "hash": "sha256-Gq0RxhJXtjwU++QqkYF9aIqPamKnQzIjztkkROGOsNs="
     }
   },
-  "version": "1.7.5"
+  "version": "1.7.6"
 }
