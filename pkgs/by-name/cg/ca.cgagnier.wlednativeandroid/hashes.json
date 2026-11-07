@@ -1,18 +1,18 @@
 {
-  "apkName": "ca.cgagnier.wlednativeandroid_52.apk",
+  "apkName": "ca.cgagnier.wlednativeandroid_108.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-V0qTkSDM41UOvZJyBk460rq8DNZeJikWKUBVA7Ki9cY="
+      "hash": "sha256-ylNnI2SSQiKGGF4Xg51KH+tLcLbhdBWer+OmeTXfBOM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-V0qTkSDM41UOvZJyBk460rq8DNZeJikWKUBVA7Ki9cY="
+      "hash": "sha256-ylNnI2SSQiKGGF4Xg51KH+tLcLbhdBWer+OmeTXfBOM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-V0qTkSDM41UOvZJyBk460rq8DNZeJikWKUBVA7Ki9cY="
+      "hash": "sha256-ylNnI2SSQiKGGF4Xg51KH+tLcLbhdBWer+OmeTXfBOM="
     }
   },
-  "version": "7.0.1"
+  "version": "8.0.0"
 }

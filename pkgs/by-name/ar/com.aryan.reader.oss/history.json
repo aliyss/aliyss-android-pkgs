@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "1.0.58-oss",
+      "versionCode": 64
+    },
+    {
+      "version": "1.0.57-oss",
+      "versionCode": 62
+    },
+    {
+      "version": "1.0.56-oss",
+      "versionCode": 61
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "apkName": "org.matrix.chromext_16.apk",
+  "apkName": "org.matrix.chromext_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LjpZBQcbG7eN0ESZ6cYX6wFfzRDFr8Nz5QBOjT9N70I="
+      "hash": "sha256-gYOP44XMpjN9C/qpZpw3Vcys3QRJrBf+WbL4xwJsh8o="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LjpZBQcbG7eN0ESZ6cYX6wFfzRDFr8Nz5QBOjT9N70I="
+      "hash": "sha256-gYOP44XMpjN9C/qpZpw3Vcys3QRJrBf+WbL4xwJsh8o="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LjpZBQcbG7eN0ESZ6cYX6wFfzRDFr8Nz5QBOjT9N70I="
+      "hash": "sha256-gYOP44XMpjN9C/qpZpw3Vcys3QRJrBf+WbL4xwJsh8o="
     }
   },
-  "version": "3.8.2"
+  "version": "3.9.1"
 }

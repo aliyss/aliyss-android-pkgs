@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dhangofa.networktoggle_32.apk",
+  "apkName": "com.dhangofa.networktoggle_34.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1cu4Kc9kWifK7m8rgGcXkb3poZQElo25H4UhFBSuhA4="
+      "hash": "sha256-n8dkGHOTBQgHm9jTfmgDAMP333U6qZxkcc5oudSz3Do="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1cu4Kc9kWifK7m8rgGcXkb3poZQElo25H4UhFBSuhA4="
+      "hash": "sha256-n8dkGHOTBQgHm9jTfmgDAMP333U6qZxkcc5oudSz3Do="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1cu4Kc9kWifK7m8rgGcXkb3poZQElo25H4UhFBSuhA4="
+      "hash": "sha256-n8dkGHOTBQgHm9jTfmgDAMP333U6qZxkcc5oudSz3Do="
     }
   },
-  "version": "1.0.32"
+  "version": "1.2.0"
 }

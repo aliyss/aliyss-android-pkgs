@@ -1,18 +1,18 @@
 {
-  "apkName": "com.asksakis.freegate_17.apk",
+  "apkName": "com.asksakis.freegate_21.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0G52BD4hYk2BmWow3XugRGnbyx3pZJHtfH51lRO/3UI="
+      "hash": "sha256-XEdmfcu1kQFM7OoLabLEgjP85Yu9ergy9/ZfwGxnNmo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0G52BD4hYk2BmWow3XugRGnbyx3pZJHtfH51lRO/3UI="
+      "hash": "sha256-XEdmfcu1kQFM7OoLabLEgjP85Yu9ergy9/ZfwGxnNmo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0G52BD4hYk2BmWow3XugRGnbyx3pZJHtfH51lRO/3UI="
+      "hash": "sha256-XEdmfcu1kQFM7OoLabLEgjP85Yu9ergy9/ZfwGxnNmo="
     }
   },
-  "version": "2.9"
+  "version": "2.13"
 }

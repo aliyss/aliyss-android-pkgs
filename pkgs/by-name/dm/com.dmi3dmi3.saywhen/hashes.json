@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dmi3dmi3.saywhen_16.apk",
+  "apkName": "com.dmi3dmi3.saywhen_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-njmcgQOrbhOlvHzwO/yQ6C2ZgoNx74VgRXx7hvrAiQc="
+      "hash": "sha256-V7k7DLnbQvxyW3mcgL7APQHQYpf1x93WlBe5oacYAks="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-njmcgQOrbhOlvHzwO/yQ6C2ZgoNx74VgRXx7hvrAiQc="
+      "hash": "sha256-V7k7DLnbQvxyW3mcgL7APQHQYpf1x93WlBe5oacYAks="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-njmcgQOrbhOlvHzwO/yQ6C2ZgoNx74VgRXx7hvrAiQc="
+      "hash": "sha256-V7k7DLnbQvxyW3mcgL7APQHQYpf1x93WlBe5oacYAks="
     }
   },
-  "version": "2.1.0"
+  "version": "3.1.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.simon.harmonichackernews_80.apk",
+  "apkName": "com.simon.harmonichackernews_81.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-3mXKHyumxih8xGTEiDyNsy1rViv1ZhSv8P5Dhp9OHwA="
+      "hash": "sha256-1URExjzmjY4fg0RGqIaTbGiKe05l6t37pNzOPaKcbwY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3mXKHyumxih8xGTEiDyNsy1rViv1ZhSv8P5Dhp9OHwA="
+      "hash": "sha256-1URExjzmjY4fg0RGqIaTbGiKe05l6t37pNzOPaKcbwY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3mXKHyumxih8xGTEiDyNsy1rViv1ZhSv8P5Dhp9OHwA="
+      "hash": "sha256-1URExjzmjY4fg0RGqIaTbGiKe05l6t37pNzOPaKcbwY="
     }
   },
-  "version": "3.1.2"
+  "version": "3.2"
 }

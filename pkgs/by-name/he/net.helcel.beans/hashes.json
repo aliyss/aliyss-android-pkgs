@@ -1,18 +1,18 @@
 {
-  "apkName": "net.helcel.beans_945.apk",
+  "apkName": "net.helcel.beans_1104.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+zKg9F+h9G5hLrQj0kV644RBK6hI7oeboFNGc/yHsKk="
+      "hash": "sha256-qbQZSmyefo9KlFkN8bkXrqm1jZn8dRIx78q5I8UOqoI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+zKg9F+h9G5hLrQj0kV644RBK6hI7oeboFNGc/yHsKk="
+      "hash": "sha256-qbQZSmyefo9KlFkN8bkXrqm1jZn8dRIx78q5I8UOqoI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+zKg9F+h9G5hLrQj0kV644RBK6hI7oeboFNGc/yHsKk="
+      "hash": "sha256-qbQZSmyefo9KlFkN8bkXrqm1jZn8dRIx78q5I8UOqoI="
     }
   },
-  "version": "1.5"
+  "version": "1.7"
 }

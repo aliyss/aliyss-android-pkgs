@@ -1,18 +1,18 @@
 {
-  "apkName": "org.alberto97.aodtoggle_4.apk",
+  "apkName": "org.alberto97.aodtoggle_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-J0sJEXeyJ+gCDd3rGXMVWKYo5KawV3f9bTccLVx/FxM="
+      "hash": "sha256-SqT4d/7fNy2xTULdIXN7yViRd06YuR/d3wd12S8iJuw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-J0sJEXeyJ+gCDd3rGXMVWKYo5KawV3f9bTccLVx/FxM="
+      "hash": "sha256-SqT4d/7fNy2xTULdIXN7yViRd06YuR/d3wd12S8iJuw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-J0sJEXeyJ+gCDd3rGXMVWKYo5KawV3f9bTccLVx/FxM="
+      "hash": "sha256-SqT4d/7fNy2xTULdIXN7yViRd06YuR/d3wd12S8iJuw="
     }
   },
-  "version": "1.1.0"
+  "version": "1.1.1"
 }

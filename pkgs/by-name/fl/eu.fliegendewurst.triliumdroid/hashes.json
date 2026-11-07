@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.fliegendewurst.triliumdroid_22.apk",
+  "apkName": "eu.fliegendewurst.triliumdroid_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-T801J0nAkDKO57EXrGLnsNIrWdOdeAT2ZoQNxgJuQT0="
+      "hash": "sha256-MzLAsT7wf5Q+k2zlV5gNr54qsgZBskAoaSl3vVrxJVg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-T801J0nAkDKO57EXrGLnsNIrWdOdeAT2ZoQNxgJuQT0="
+      "hash": "sha256-MzLAsT7wf5Q+k2zlV5gNr54qsgZBskAoaSl3vVrxJVg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-T801J0nAkDKO57EXrGLnsNIrWdOdeAT2ZoQNxgJuQT0="
+      "hash": "sha256-MzLAsT7wf5Q+k2zlV5gNr54qsgZBskAoaSl3vVrxJVg="
     }
   },
-  "version": "0.103.0-alpha17"
+  "version": "0.105.0-alpha19"
 }

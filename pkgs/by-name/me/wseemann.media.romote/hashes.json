@@ -1,18 +1,18 @@
 {
-  "apkName": "wseemann.media.romote_29.apk",
+  "apkName": "wseemann.media.romote_32.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-z73eLPBb6aUxFOkvKGY33mMCUOmaz7qNH2XAy4JnjXU="
+      "hash": "sha256-0PFKuoCNgS1fMBpECP0ZiZp3lFrlvVSSGJRVo8YvWkk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-z73eLPBb6aUxFOkvKGY33mMCUOmaz7qNH2XAy4JnjXU="
+      "hash": "sha256-0PFKuoCNgS1fMBpECP0ZiZp3lFrlvVSSGJRVo8YvWkk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-z73eLPBb6aUxFOkvKGY33mMCUOmaz7qNH2XAy4JnjXU="
+      "hash": "sha256-0PFKuoCNgS1fMBpECP0ZiZp3lFrlvVSSGJRVo8YvWkk="
     }
   },
-  "version": "1.0.29"
+  "version": "2.2.0"
 }

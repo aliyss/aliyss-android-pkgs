@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "v0.2.5-f1a530c-release",
+      "versionCode": 17
+    },
+    {
+      "version": "v0.2.4-3804811-release",
+      "versionCode": 16
+    },
+    {
+      "version": "v0.2.3-eadcb6f-release",
+      "versionCode": 15
+    }
+  ]
+}

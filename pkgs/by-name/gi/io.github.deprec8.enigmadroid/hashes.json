@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.deprec8.enigmadroid_19.apk",
+  "apkName": "io.github.deprec8.enigmadroid_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gFcZnVgNRcFltDILZVABJ2/gDgWOLyckzT29Q4vlwaM="
+      "hash": "sha256-4AQ+vZnXvZQ2zn3Zz3LKzGD6vSEpebFNXHt8JWcXsLo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gFcZnVgNRcFltDILZVABJ2/gDgWOLyckzT29Q4vlwaM="
+      "hash": "sha256-4AQ+vZnXvZQ2zn3Zz3LKzGD6vSEpebFNXHt8JWcXsLo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gFcZnVgNRcFltDILZVABJ2/gDgWOLyckzT29Q4vlwaM="
+      "hash": "sha256-4AQ+vZnXvZQ2zn3Zz3LKzGD6vSEpebFNXHt8JWcXsLo="
     }
   },
-  "version": "1.9.2"
+  "version": "1.9.3"
 }

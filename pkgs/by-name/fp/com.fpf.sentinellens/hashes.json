@@ -1,18 +1,18 @@
 {
-  "apkName": "com.fpf.sentinellens_3.apk",
+  "apkName": "com.fpf.sentinellens_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zz03WcioqHkb545XRRI9BpU8eMb7YgRgKlkInbovwIg="
+      "hash": "sha256-sjVTuMsafwYxwWTynHLzBGYC1fytuS3q2UWdWICaQ2Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zz03WcioqHkb545XRRI9BpU8eMb7YgRgKlkInbovwIg="
+      "hash": "sha256-sjVTuMsafwYxwWTynHLzBGYC1fytuS3q2UWdWICaQ2Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zz03WcioqHkb545XRRI9BpU8eMb7YgRgKlkInbovwIg="
+      "hash": "sha256-sjVTuMsafwYxwWTynHLzBGYC1fytuS3q2UWdWICaQ2Y="
     }
   },
-  "version": "1.0.2"
+  "version": "1.0.3"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.shubhang.loophole_3.apk",
+  "apkName": "com.shubhang.loophole_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JMx3B0FPxeTwDIyylaZlRm3RLqtPlz8kG68FMRysDSI="
+      "hash": "sha256-PoeXduqSYyqIuJoGTkjEpFzdA1mdP/4YkHbCVaDDHj8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JMx3B0FPxeTwDIyylaZlRm3RLqtPlz8kG68FMRysDSI="
+      "hash": "sha256-PoeXduqSYyqIuJoGTkjEpFzdA1mdP/4YkHbCVaDDHj8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JMx3B0FPxeTwDIyylaZlRm3RLqtPlz8kG68FMRysDSI="
+      "hash": "sha256-PoeXduqSYyqIuJoGTkjEpFzdA1mdP/4YkHbCVaDDHj8="
     }
   },
-  "version": "1.0.2"
+  "version": "1.1.0"
 }

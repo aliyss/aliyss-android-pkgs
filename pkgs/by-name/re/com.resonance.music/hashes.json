@@ -1,18 +1,18 @@
 {
-  "apkName": "com.resonance.music_10.apk",
+  "apkName": "com.resonance.music_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5iNRq8GbKBJWGmT49BPcjtDxMq9Hn0zmBz4SCFm6NKg="
+      "hash": "sha256-zULJpYyM6agWMdMyusP9gsAHPl+kq6PRFsrqZ8tUIlg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5iNRq8GbKBJWGmT49BPcjtDxMq9Hn0zmBz4SCFm6NKg="
+      "hash": "sha256-zULJpYyM6agWMdMyusP9gsAHPl+kq6PRFsrqZ8tUIlg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5iNRq8GbKBJWGmT49BPcjtDxMq9Hn0zmBz4SCFm6NKg="
+      "hash": "sha256-zULJpYyM6agWMdMyusP9gsAHPl+kq6PRFsrqZ8tUIlg="
     }
   },
-  "version": "0.6.1"
+  "version": "0.8.1"
 }

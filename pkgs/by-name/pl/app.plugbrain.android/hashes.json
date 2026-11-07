@@ -1,18 +1,18 @@
 {
-  "apkName": "app.plugbrain.android_154.apk",
+  "apkName": "app.plugbrain.android_163.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-W18XxTsDFAgmFHU1wMnpOpu3XPawmFbF4uyDR6IbfbQ="
+      "hash": "sha256-fp4VCiIWBkEe2ndVRVx5I2B609NKgBFOvMOy404spzM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-W18XxTsDFAgmFHU1wMnpOpu3XPawmFbF4uyDR6IbfbQ="
+      "hash": "sha256-fp4VCiIWBkEe2ndVRVx5I2B609NKgBFOvMOy404spzM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-W18XxTsDFAgmFHU1wMnpOpu3XPawmFbF4uyDR6IbfbQ="
+      "hash": "sha256-fp4VCiIWBkEe2ndVRVx5I2B609NKgBFOvMOy404spzM="
     }
   },
-  "version": "1.5.4"
+  "version": "1.6.3"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.a4a.g8invoicing_58.apk",
+  "apkName": "com.a4a.g8invoicing_68.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/6lXDX8sH7cz7VfKEOWdyAHI0Xc+9ObU7JWyK0leh/8="
+      "hash": "sha256-3s565fzpoytEG+ndDwXabLS30CTVdbBLISwctvrTzkU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/6lXDX8sH7cz7VfKEOWdyAHI0Xc+9ObU7JWyK0leh/8="
+      "hash": "sha256-3s565fzpoytEG+ndDwXabLS30CTVdbBLISwctvrTzkU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/6lXDX8sH7cz7VfKEOWdyAHI0Xc+9ObU7JWyK0leh/8="
+      "hash": "sha256-3s565fzpoytEG+ndDwXabLS30CTVdbBLISwctvrTzkU="
     }
   },
-  "version": "1.8"
+  "version": "2.3"
 }

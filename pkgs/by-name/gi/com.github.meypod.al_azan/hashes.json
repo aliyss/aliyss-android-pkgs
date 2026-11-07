@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.meypod.al_azan_95000.apk",
+  "apkName": "com.github.meypod.al_azan_98000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LDLZM41fvV9Qn3wuAL9MCcnWTl7vtdgc6gn4QJE2ANc="
+      "hash": "sha256-ZMntc8r5EpoxlkU8kuIajJRb7BJfYFdn6Y1633FaWwI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LDLZM41fvV9Qn3wuAL9MCcnWTl7vtdgc6gn4QJE2ANc="
+      "hash": "sha256-ZMntc8r5EpoxlkU8kuIajJRb7BJfYFdn6Y1633FaWwI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LDLZM41fvV9Qn3wuAL9MCcnWTl7vtdgc6gn4QJE2ANc="
+      "hash": "sha256-ZMntc8r5EpoxlkU8kuIajJRb7BJfYFdn6Y1633FaWwI="
     }
   },
-  "version": "2.3.0"
+  "version": "2.4.1"
 }

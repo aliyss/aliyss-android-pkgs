@@ -1,18 +1,18 @@
 {
-  "apkName": "com.blogspot.developersu.ns_usbloader_7.apk",
+  "apkName": "com.blogspot.developersu.ns_usbloader_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-cAa5VSH3xcYgdIwpd8+u9bzfLPSpRkVbbM82fWtNXsA="
+      "hash": "sha256-z0qHGZFQ46+FDygOcM1siXN15oG4K1OYK9tG5nxC4Po="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cAa5VSH3xcYgdIwpd8+u9bzfLPSpRkVbbM82fWtNXsA="
+      "hash": "sha256-z0qHGZFQ46+FDygOcM1siXN15oG4K1OYK9tG5nxC4Po="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cAa5VSH3xcYgdIwpd8+u9bzfLPSpRkVbbM82fWtNXsA="
+      "hash": "sha256-z0qHGZFQ46+FDygOcM1siXN15oG4K1OYK9tG5nxC4Po="
     }
   },
-  "version": "5.0"
+  "version": "6.1"
 }

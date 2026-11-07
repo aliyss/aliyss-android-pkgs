@@ -1,18 +1,18 @@
 {
-  "apkName": "com.vermont.possin_8.apk",
+  "apkName": "com.vermont.possin_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-EYl3Sj94o+HzIkzFWRPf9rECmAKAte2XpCmr+R+t0XA="
+      "hash": "sha256-EgBRv2o2p/JCoYNvHJkmvpHuvFVfUCZ8Nk+i8BDioIg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EYl3Sj94o+HzIkzFWRPf9rECmAKAte2XpCmr+R+t0XA="
+      "hash": "sha256-EgBRv2o2p/JCoYNvHJkmvpHuvFVfUCZ8Nk+i8BDioIg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EYl3Sj94o+HzIkzFWRPf9rECmAKAte2XpCmr+R+t0XA="
+      "hash": "sha256-EgBRv2o2p/JCoYNvHJkmvpHuvFVfUCZ8Nk+i8BDioIg="
     }
   },
-  "version": "1.7"
+  "version": "1.8"
 }

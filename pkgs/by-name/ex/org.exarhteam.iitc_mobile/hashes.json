@@ -1,18 +1,18 @@
 {
-  "apkName": "org.exarhteam.iitc_mobile_1779111473.apk",
+  "apkName": "org.exarhteam.iitc_mobile_1793192989.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-HbWiEZdLACKLysa2X20ho9pxyr8Fz5nQ44feE/97S98="
+      "hash": "sha256-M7Sk6wZS2b3aB+6OOoe7Mc0Bb8JkvltwSZpKlQ4vi0g="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HbWiEZdLACKLysa2X20ho9pxyr8Fz5nQ44feE/97S98="
+      "hash": "sha256-M7Sk6wZS2b3aB+6OOoe7Mc0Bb8JkvltwSZpKlQ4vi0g="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HbWiEZdLACKLysa2X20ho9pxyr8Fz5nQ44feE/97S98="
+      "hash": "sha256-M7Sk6wZS2b3aB+6OOoe7Mc0Bb8JkvltwSZpKlQ4vi0g="
     }
   },
-  "version": "0.42.3"
+  "version": "0.43.1"
 }

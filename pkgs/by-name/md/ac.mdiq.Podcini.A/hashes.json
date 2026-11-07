@@ -1,18 +1,18 @@
 {
-  "apkName": "ac.mdiq.Podcini.A_100.apk",
+  "apkName": "ac.mdiq.Podcini.A_152.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jv7G3xaDC73NROGOgjV7CI+m5KA7Nv3wmm0wR2o9IAU="
+      "hash": "sha256-PU93vk7fcrUdFsQ3N6w/pXz6I/zCTBZvToSHUUmVGgc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jv7G3xaDC73NROGOgjV7CI+m5KA7Nv3wmm0wR2o9IAU="
+      "hash": "sha256-PU93vk7fcrUdFsQ3N6w/pXz6I/zCTBZvToSHUUmVGgc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jv7G3xaDC73NROGOgjV7CI+m5KA7Nv3wmm0wR2o9IAU="
+      "hash": "sha256-PU93vk7fcrUdFsQ3N6w/pXz6I/zCTBZvToSHUUmVGgc="
     }
   },
-  "version": "12.5.12"
+  "version": "12.18.0"
 }

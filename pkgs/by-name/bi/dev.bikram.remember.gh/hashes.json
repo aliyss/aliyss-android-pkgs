@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.bikram.remember.gh_130.apk",
+  "apkName": "dev.bikram.remember.gh_11000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-uoayhbj8X+Oj2nRUAUDZoA1xxJpMEH60kjsVo9rP76w="
+      "hash": "sha256-AXtAw1CNVAA3IAks/WlEJ8gt6RF6qQNCY1xSTAg0E5k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uoayhbj8X+Oj2nRUAUDZoA1xxJpMEH60kjsVo9rP76w="
+      "hash": "sha256-AXtAw1CNVAA3IAks/WlEJ8gt6RF6qQNCY1xSTAg0E5k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uoayhbj8X+Oj2nRUAUDZoA1xxJpMEH60kjsVo9rP76w="
+      "hash": "sha256-AXtAw1CNVAA3IAks/WlEJ8gt6RF6qQNCY1xSTAg0E5k="
     }
   },
-  "version": "1.3.0"
+  "version": "1.10.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.saulhdev.neofeed_1900.apk",
+  "apkName": "com.saulhdev.neofeed_2002.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2AIoh5p5MZ1f97GmHBPClrRQAO7IGXESyMIneFigEi4="
+      "hash": "sha256-j3KiLcH45vXT4J8LJAs1YNolycGzg/fjx2UDd+nrPxI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2AIoh5p5MZ1f97GmHBPClrRQAO7IGXESyMIneFigEi4="
+      "hash": "sha256-j3KiLcH45vXT4J8LJAs1YNolycGzg/fjx2UDd+nrPxI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2AIoh5p5MZ1f97GmHBPClrRQAO7IGXESyMIneFigEi4="
+      "hash": "sha256-j3KiLcH45vXT4J8LJAs1YNolycGzg/fjx2UDd+nrPxI="
     }
   },
-  "version": "1.9.0"
+  "version": "2.0.0"
 }

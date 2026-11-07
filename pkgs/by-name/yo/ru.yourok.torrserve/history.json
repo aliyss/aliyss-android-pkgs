@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "MatriX.144.FOSS",
+      "versionCode": 178
+    },
+    {
+      "version": "MatriX.143.FOSS",
+      "versionCode": 177
+    },
+    {
+      "version": "MatriX.141.FOSS",
+      "versionCode": 176
+    }
+  ]
+}

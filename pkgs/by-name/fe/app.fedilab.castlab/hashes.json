@@ -1,18 +1,18 @@
 {
-  "apkName": "app.fedilab.castlab_14.apk",
+  "apkName": "app.fedilab.castlab_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Z/dYdu0q479EJNRs8BCHK1Mc8Ki9+s/qxyfBrq/Dv3E="
+      "hash": "sha256-bWHxr3vb5fmdVXf6dKcLuX8HKTZmdlsZRV1N5aF0HGI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Z/dYdu0q479EJNRs8BCHK1Mc8Ki9+s/qxyfBrq/Dv3E="
+      "hash": "sha256-bWHxr3vb5fmdVXf6dKcLuX8HKTZmdlsZRV1N5aF0HGI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Z/dYdu0q479EJNRs8BCHK1Mc8Ki9+s/qxyfBrq/Dv3E="
+      "hash": "sha256-bWHxr3vb5fmdVXf6dKcLuX8HKTZmdlsZRV1N5aF0HGI="
     }
   },
-  "version": "1.5.0"
+  "version": "1.7.0"
 }

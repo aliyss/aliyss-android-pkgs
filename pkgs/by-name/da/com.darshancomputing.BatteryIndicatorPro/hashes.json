@@ -1,18 +1,18 @@
 {
-  "apkName": "com.darshancomputing.BatteryIndicatorPro_26016.apk",
+  "apkName": "com.darshancomputing.BatteryIndicatorPro_26025.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-j4ujRJRlbLzotGrc4MrtQzwxtOsVmlexn1OaGEampAI="
+      "hash": "sha256-NoIxB/sFJo1C1xALl0Zbw54sRC4QpoAtwDf9jYPpw/c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-j4ujRJRlbLzotGrc4MrtQzwxtOsVmlexn1OaGEampAI="
+      "hash": "sha256-NoIxB/sFJo1C1xALl0Zbw54sRC4QpoAtwDf9jYPpw/c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-j4ujRJRlbLzotGrc4MrtQzwxtOsVmlexn1OaGEampAI="
+      "hash": "sha256-NoIxB/sFJo1C1xALl0Zbw54sRC4QpoAtwDf9jYPpw/c="
     }
   },
-  "version": "12.0.0"
+  "version": "12.1.3-dev"
 }

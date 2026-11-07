@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.hxreborn.cleanshare_314.apk",
+  "apkName": "eu.hxreborn.cleanshare_340.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-i+g1g0+S2UGlj3U37VcbgfArCdJC2SewSfHMzpDoA4E="
+      "hash": "sha256-vMw6dlxkzaBOqDpE8MJuIvgyqaVPk6qIzQInoN5E5os="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-i+g1g0+S2UGlj3U37VcbgfArCdJC2SewSfHMzpDoA4E="
+      "hash": "sha256-vMw6dlxkzaBOqDpE8MJuIvgyqaVPk6qIzQInoN5E5os="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-i+g1g0+S2UGlj3U37VcbgfArCdJC2SewSfHMzpDoA4E="
+      "hash": "sha256-vMw6dlxkzaBOqDpE8MJuIvgyqaVPk6qIzQInoN5E5os="
     }
   },
-  "version": "3.1.4"
+  "version": "3.4.0"
 }

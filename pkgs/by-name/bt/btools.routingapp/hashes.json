@@ -1,18 +1,18 @@
 {
-  "apkName": "btools.routingapp_56.apk",
+  "apkName": "btools.routingapp_57.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7w9AvhuUd1LoRB/hBuyxXjcFq1qlKpcmxemgSjpJkDg="
+      "hash": "sha256-UOclsK8eZpZ+fuwysAYYfTUxFifgnewiaEODHArsPUE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7w9AvhuUd1LoRB/hBuyxXjcFq1qlKpcmxemgSjpJkDg="
+      "hash": "sha256-UOclsK8eZpZ+fuwysAYYfTUxFifgnewiaEODHArsPUE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7w9AvhuUd1LoRB/hBuyxXjcFq1qlKpcmxemgSjpJkDg="
+      "hash": "sha256-UOclsK8eZpZ+fuwysAYYfTUxFifgnewiaEODHArsPUE="
     }
   },
-  "version": "1.7.9"
+  "version": "1.7.10"
 }

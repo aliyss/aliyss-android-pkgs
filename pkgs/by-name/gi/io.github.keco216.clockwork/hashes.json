@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.keco216.clockwork_10503.apk",
+  "apkName": "io.github.keco216.clockwork_20001.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6PendaeLxwFqGm18KSq3aitL2l2el3oWPcE8xrdgmgs="
+      "hash": "sha256-S7gz8GpHjFNc/CoTyahdtof8L6JtzHUQKNjp/PH+/pg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6PendaeLxwFqGm18KSq3aitL2l2el3oWPcE8xrdgmgs="
+      "hash": "sha256-S7gz8GpHjFNc/CoTyahdtof8L6JtzHUQKNjp/PH+/pg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6PendaeLxwFqGm18KSq3aitL2l2el3oWPcE8xrdgmgs="
+      "hash": "sha256-S7gz8GpHjFNc/CoTyahdtof8L6JtzHUQKNjp/PH+/pg="
     }
   },
-  "version": "1.5.3"
+  "version": "2.0.1"
 }

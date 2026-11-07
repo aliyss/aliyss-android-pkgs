@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dessalines.thumbkey_186.apk",
+  "apkName": "com.dessalines.thumbkey_190.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FbPGHZZDOjA9ucHhibwglMMrEvjyF36NVMKidKRWNnQ="
+      "hash": "sha256-7h6atx8oNBOu0GGa8qkomegG/tp8Tac9eeFW6rhn4yk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FbPGHZZDOjA9ucHhibwglMMrEvjyF36NVMKidKRWNnQ="
+      "hash": "sha256-7h6atx8oNBOu0GGa8qkomegG/tp8Tac9eeFW6rhn4yk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FbPGHZZDOjA9ucHhibwglMMrEvjyF36NVMKidKRWNnQ="
+      "hash": "sha256-7h6atx8oNBOu0GGa8qkomegG/tp8Tac9eeFW6rhn4yk="
     }
   },
-  "version": "5.1.16"
+  "version": "5.1.20"
 }

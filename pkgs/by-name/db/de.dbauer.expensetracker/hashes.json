@@ -1,18 +1,18 @@
 {
-  "apkName": "de.dbauer.expensetracker_67.apk",
+  "apkName": "de.dbauer.expensetracker_68.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jsONO88P4I/y7/8dbLiAXxsliF/sFxy2rHf4AzB+zM4="
+      "hash": "sha256-f6GiWlxmmc5mWT+KR0t0sa0sYHfmaauyieOqB4C7RDs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jsONO88P4I/y7/8dbLiAXxsliF/sFxy2rHf4AzB+zM4="
+      "hash": "sha256-f6GiWlxmmc5mWT+KR0t0sa0sYHfmaauyieOqB4C7RDs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jsONO88P4I/y7/8dbLiAXxsliF/sFxy2rHf4AzB+zM4="
+      "hash": "sha256-f6GiWlxmmc5mWT+KR0t0sa0sYHfmaauyieOqB4C7RDs="
     }
   },
-  "version": "0.21.3"
+  "version": "0.21.4"
 }

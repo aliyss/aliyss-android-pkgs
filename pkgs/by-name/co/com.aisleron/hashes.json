@@ -1,18 +1,18 @@
 {
-  "apkName": "com.aisleron_23.apk",
+  "apkName": "com.aisleron_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Kz/Fdw5YELK2A0AcrGyxnxUXYLrw29nhotA4lnDzd8w="
+      "hash": "sha256-tE0mQonHqUPTWcD6sIHqN7U3jyYkLOvSVhO2hV04x6I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Kz/Fdw5YELK2A0AcrGyxnxUXYLrw29nhotA4lnDzd8w="
+      "hash": "sha256-tE0mQonHqUPTWcD6sIHqN7U3jyYkLOvSVhO2hV04x6I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Kz/Fdw5YELK2A0AcrGyxnxUXYLrw29nhotA4lnDzd8w="
+      "hash": "sha256-tE0mQonHqUPTWcD6sIHqN7U3jyYkLOvSVhO2hV04x6I="
     }
   },
-  "version": "2026.5.0"
+  "version": "2026.6.3"
 }

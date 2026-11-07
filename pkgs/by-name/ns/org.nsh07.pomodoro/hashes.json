@@ -1,18 +1,18 @@
 {
-  "apkName": "org.nsh07.pomodoro_34.apk",
+  "apkName": "org.nsh07.pomodoro_40.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CAefHgeVvIUEekh98w8n0P6t0rsqAks3ShJPoYMQlnE="
+      "hash": "sha256-NqoOKAVfb63IxjTSuUsCSsxqtSwpRPYvlyJ8ytUxeJI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CAefHgeVvIUEekh98w8n0P6t0rsqAks3ShJPoYMQlnE="
+      "hash": "sha256-NqoOKAVfb63IxjTSuUsCSsxqtSwpRPYvlyJ8ytUxeJI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CAefHgeVvIUEekh98w8n0P6t0rsqAks3ShJPoYMQlnE="
+      "hash": "sha256-NqoOKAVfb63IxjTSuUsCSsxqtSwpRPYvlyJ8ytUxeJI="
     }
   },
-  "version": "1.8.5"
+  "version": "2.0.1"
 }

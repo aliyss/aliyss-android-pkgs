@@ -1,18 +1,18 @@
 {
-  "apkName": "com.foxdebug.acode_1005.apk",
+  "apkName": "com.foxdebug.acode_1008.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-IErHoeYlh8izOjK34k455+eaDWoi+0HTj8g95jeOYKU="
+      "hash": "sha256-qO1IZNqVST2EvNQwtHqJAIFeztf+fHY5Ke96OMOYfDk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IErHoeYlh8izOjK34k455+eaDWoi+0HTj8g95jeOYKU="
+      "hash": "sha256-qO1IZNqVST2EvNQwtHqJAIFeztf+fHY5Ke96OMOYfDk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IErHoeYlh8izOjK34k455+eaDWoi+0HTj8g95jeOYKU="
+      "hash": "sha256-qO1IZNqVST2EvNQwtHqJAIFeztf+fHY5Ke96OMOYfDk="
     }
   },
-  "version": "1.12.9"
+  "version": "1.13.2"
 }

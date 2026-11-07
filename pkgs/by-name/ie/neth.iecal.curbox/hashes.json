@@ -1,18 +1,18 @@
 {
-  "apkName": "neth.iecal.curbox_4.apk",
+  "apkName": "neth.iecal.curbox_6.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WpG491hieJZE8VtOH7EjLbFMZzGNyvnlRZiB5PhcGXc="
+      "hash": "sha256-H0d+uJYSX9WsSTHrfIltI9J/iy1XcEbaYC0zFz8ejY8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WpG491hieJZE8VtOH7EjLbFMZzGNyvnlRZiB5PhcGXc="
+      "hash": "sha256-H0d+uJYSX9WsSTHrfIltI9J/iy1XcEbaYC0zFz8ejY8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WpG491hieJZE8VtOH7EjLbFMZzGNyvnlRZiB5PhcGXc="
+      "hash": "sha256-H0d+uJYSX9WsSTHrfIltI9J/iy1XcEbaYC0zFz8ejY8="
     }
   },
-  "version": "4-fdroid"
+  "version": "6-fdroid"
 }

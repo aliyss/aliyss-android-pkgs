@@ -1,18 +1,18 @@
 {
-  "apkName": "com.offlinecurrencyconverter.app_5.apk",
+  "apkName": "com.offlinecurrencyconverter.app_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-R83KWQlOPZ3UflcwT+Ul9ILhcwTCYjO7bJFHYnc4SMQ="
+      "hash": "sha256-ronJ3irIpJqE2RfZWnLf2wefIBbmlysTJiy0/+RPLyk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-R83KWQlOPZ3UflcwT+Ul9ILhcwTCYjO7bJFHYnc4SMQ="
+      "hash": "sha256-ronJ3irIpJqE2RfZWnLf2wefIBbmlysTJiy0/+RPLyk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-R83KWQlOPZ3UflcwT+Ul9ILhcwTCYjO7bJFHYnc4SMQ="
+      "hash": "sha256-ronJ3irIpJqE2RfZWnLf2wefIBbmlysTJiy0/+RPLyk="
     }
   },
-  "version": "0.4.0"
+  "version": "0.8.1"
 }

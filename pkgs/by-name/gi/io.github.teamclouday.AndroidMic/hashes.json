@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.teamclouday.AndroidMic_24.apk",
+  "apkName": "io.github.teamclouday.AndroidMic_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SWscXznc2FD9TmQFZKw62wKB3BZh4jtj3xdGCDvxmoA="
+      "hash": "sha256-yU5kbs1JqfcixJ7JzQr5/R3maCID1A/7inGTniy05W0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SWscXznc2FD9TmQFZKw62wKB3BZh4jtj3xdGCDvxmoA="
+      "hash": "sha256-yU5kbs1JqfcixJ7JzQr5/R3maCID1A/7inGTniy05W0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SWscXznc2FD9TmQFZKw62wKB3BZh4jtj3xdGCDvxmoA="
+      "hash": "sha256-yU5kbs1JqfcixJ7JzQr5/R3maCID1A/7inGTniy05W0="
     }
   },
-  "version": "2.2.8"
+  "version": "2.2.11"
 }

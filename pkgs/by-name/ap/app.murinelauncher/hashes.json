@@ -1,18 +1,18 @@
 {
-  "apkName": "app.murinelauncher_10102.apk",
+  "apkName": "app.murinelauncher_10300.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JH1x86h1mN22rXr5OepICBGnXyhmjuheHWbHF/j4vl8="
+      "hash": "sha256-Ve0tlVG97t4b6R3lURHfuZMYptCW8GwonbpkkS3TkDo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JH1x86h1mN22rXr5OepICBGnXyhmjuheHWbHF/j4vl8="
+      "hash": "sha256-Ve0tlVG97t4b6R3lURHfuZMYptCW8GwonbpkkS3TkDo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JH1x86h1mN22rXr5OepICBGnXyhmjuheHWbHF/j4vl8="
+      "hash": "sha256-Ve0tlVG97t4b6R3lURHfuZMYptCW8GwonbpkkS3TkDo="
     }
   },
-  "version": "1.1.2"
+  "version": "1.3.0"
 }

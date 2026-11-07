@@ -1,18 +1,18 @@
 {
-  "apkName": "com.david.waterreminder_3.apk",
+  "apkName": "com.david.waterreminder_6.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rdSWZFbgdlWGjk2YoFMqCiepWklRNrMGfAtTvAUMFk4="
+      "hash": "sha256-4u8ywOqqYD5OLWx0CbOkI6wbwLAB7IBi6T6ZOqwHKuU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rdSWZFbgdlWGjk2YoFMqCiepWklRNrMGfAtTvAUMFk4="
+      "hash": "sha256-4u8ywOqqYD5OLWx0CbOkI6wbwLAB7IBi6T6ZOqwHKuU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rdSWZFbgdlWGjk2YoFMqCiepWklRNrMGfAtTvAUMFk4="
+      "hash": "sha256-4u8ywOqqYD5OLWx0CbOkI6wbwLAB7IBi6T6ZOqwHKuU="
     }
   },
-  "version": "0.2.1"
+  "version": "1.2.0"
 }

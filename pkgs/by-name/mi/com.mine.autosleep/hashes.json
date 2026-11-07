@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mine.autosleep_8.apk",
+  "apkName": "com.mine.autosleep_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-nzB0n3ZGzuDqKtCFW4XNpUlAkuXHjr50gV8tBfaUtFA="
+      "hash": "sha256-8myqfz1yIuOseokpdwkBq3HUFtfor3inbO/PhEuAMGc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nzB0n3ZGzuDqKtCFW4XNpUlAkuXHjr50gV8tBfaUtFA="
+      "hash": "sha256-8myqfz1yIuOseokpdwkBq3HUFtfor3inbO/PhEuAMGc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nzB0n3ZGzuDqKtCFW4XNpUlAkuXHjr50gV8tBfaUtFA="
+      "hash": "sha256-8myqfz1yIuOseokpdwkBq3HUFtfor3inbO/PhEuAMGc="
     }
   },
-  "version": "3.1"
+  "version": "3.2"
 }

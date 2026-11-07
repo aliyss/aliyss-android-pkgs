@@ -1,18 +1,18 @@
 {
-  "apkName": "com.relaypony.android_2.apk",
+  "apkName": "com.relaypony.android_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-uADEaJd/ROISe4ZyDwk2dzeGB8EHLezCk1E2ezfViBc="
+      "hash": "sha256-f056kEElTBDONQnFB+M9DH1omBtObTfDUp4+OqpMjbY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uADEaJd/ROISe4ZyDwk2dzeGB8EHLezCk1E2ezfViBc="
+      "hash": "sha256-f056kEElTBDONQnFB+M9DH1omBtObTfDUp4+OqpMjbY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uADEaJd/ROISe4ZyDwk2dzeGB8EHLezCk1E2ezfViBc="
+      "hash": "sha256-f056kEElTBDONQnFB+M9DH1omBtObTfDUp4+OqpMjbY="
     }
   },
-  "version": "2.0"
+  "version": "4.0.0"
 }

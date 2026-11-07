@@ -1,18 +1,18 @@
 {
-  "apkName": "com.windscribe.vpn_2322.apk",
+  "apkName": "com.windscribe.vpn_2360.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-sXmJ8lL1Af5upWxdZqlIpAP193fVUK3BGLLYI0nJGTE="
+      "hash": "sha256-/NsARHIG779IXBJniZFZU3u610JamhcwCUnp9Iv8hy0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sXmJ8lL1Af5upWxdZqlIpAP193fVUK3BGLLYI0nJGTE="
+      "hash": "sha256-/NsARHIG779IXBJniZFZU3u610JamhcwCUnp9Iv8hy0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-sXmJ8lL1Af5upWxdZqlIpAP193fVUK3BGLLYI0nJGTE="
+      "hash": "sha256-/NsARHIG779IXBJniZFZU3u610JamhcwCUnp9Iv8hy0="
     }
   },
-  "version": "4.2"
+  "version": "4.3"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "org.grakovne.lissen_11117.apk",
+  "apkName": "org.grakovne.lissen_11216.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-fIuCs7gFNMjRNw0941+DHo2tWOQiiy4/dRcbQqQNZks="
+      "hash": "sha256-BNk0rCavqBHmHNiBNASiJZITLjx2YcQffu1ncUw/6e4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fIuCs7gFNMjRNw0941+DHo2tWOQiiy4/dRcbQqQNZks="
+      "hash": "sha256-BNk0rCavqBHmHNiBNASiJZITLjx2YcQffu1ncUw/6e4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fIuCs7gFNMjRNw0941+DHo2tWOQiiy4/dRcbQqQNZks="
+      "hash": "sha256-BNk0rCavqBHmHNiBNASiJZITLjx2YcQffu1ncUw/6e4="
     }
   },
-  "version": "1.11.17-release"
+  "version": "1.12.16-release"
 }

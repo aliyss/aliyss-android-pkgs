@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "version": "v3.9.0-FOSS",
+      "versionCode": 2009
+    },
+    {
+      "version": "v3.8.0-FOSS",
+      "versionCode": 2008
+    }
+  ]
+}

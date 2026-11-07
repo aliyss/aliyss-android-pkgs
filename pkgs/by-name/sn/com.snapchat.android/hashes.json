@@ -1,4 +1,17 @@
 {
-  "version": "",
-  "architectures": {}
+  "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-Gi6EYyvQMi9okiAg1/2MkWF/2CktO1QlTVcpiybJ6aQ="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gi6EYyvQMi9okiAg1/2MkWF/2CktO1QlTVcpiybJ6aQ="
+    },
+    "x86_64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-Gi6EYyvQMi9okiAg1/2MkWF/2CktO1QlTVcpiybJ6aQ="
+    }
+  },
+  "version": "14.31.0.56"
 }

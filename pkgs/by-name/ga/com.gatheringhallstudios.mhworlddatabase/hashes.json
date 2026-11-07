@@ -1,18 +1,18 @@
 {
-  "apkName": "com.gatheringhallstudios.mhworlddatabase_25.apk",
+  "apkName": "com.gatheringhallstudios.mhworlddatabase_26.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ISwShCNUxKSp5xYut1ObB7K1r+fU6OpuMbJC68WOY0A="
+      "hash": "sha256-xw79PrY9xrR4d6WayahXQMvP+d8TnV2xwgtL2nPAYSY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ISwShCNUxKSp5xYut1ObB7K1r+fU6OpuMbJC68WOY0A="
+      "hash": "sha256-xw79PrY9xrR4d6WayahXQMvP+d8TnV2xwgtL2nPAYSY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ISwShCNUxKSp5xYut1ObB7K1r+fU6OpuMbJC68WOY0A="
+      "hash": "sha256-xw79PrY9xrR4d6WayahXQMvP+d8TnV2xwgtL2nPAYSY="
     }
   },
-  "version": "2.1.3"
+  "version": "2.2.0"
 }

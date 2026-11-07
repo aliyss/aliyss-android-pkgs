@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ruizlenato.karabau_8.apk",
+  "apkName": "com.ruizlenato.karabau_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-m61cz8yN7cJUT8ktiFEeY221/vPep/jgZP4mj63d+uo="
+      "hash": "sha256-BhkGVpAOWsmo8MjwXQEIuro840S0NUdrB3hFdigxhJQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-m61cz8yN7cJUT8ktiFEeY221/vPep/jgZP4mj63d+uo="
+      "hash": "sha256-BhkGVpAOWsmo8MjwXQEIuro840S0NUdrB3hFdigxhJQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-m61cz8yN7cJUT8ktiFEeY221/vPep/jgZP4mj63d+uo="
+      "hash": "sha256-BhkGVpAOWsmo8MjwXQEIuro840S0NUdrB3hFdigxhJQ="
     }
   },
-  "version": "1.4.2"
+  "version": "1.5.0"
 }

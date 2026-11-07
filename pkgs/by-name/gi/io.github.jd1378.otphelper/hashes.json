@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.jd1378.otphelper_53000.apk",
+  "apkName": "io.github.jd1378.otphelper_55000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8jjHdbI29oceuAu+gPKL2snvSN9FqVk3+HuRMOhwTLk="
+      "hash": "sha256-RWwRgQ9BNPussAUUg2cBtdztjcMuGdyHIgiE71krBvA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8jjHdbI29oceuAu+gPKL2snvSN9FqVk3+HuRMOhwTLk="
+      "hash": "sha256-RWwRgQ9BNPussAUUg2cBtdztjcMuGdyHIgiE71krBvA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8jjHdbI29oceuAu+gPKL2snvSN9FqVk3+HuRMOhwTLk="
+      "hash": "sha256-RWwRgQ9BNPussAUUg2cBtdztjcMuGdyHIgiE71krBvA="
     }
   },
-  "version": "1.20.5"
+  "version": "1.20.7"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "de.morzo.realmscore_4.apk",
+  "apkName": "de.morzo.realmscore_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Ank/kmuvt/uHR5BZ6z7tRJR6Sjqk4YJcYRyyuJjrbiQ="
+      "hash": "sha256-cWfY5nJjUd/qmhrqSThrZeor+/TfmHah37/cP8e5zOU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ank/kmuvt/uHR5BZ6z7tRJR6Sjqk4YJcYRyyuJjrbiQ="
+      "hash": "sha256-cWfY5nJjUd/qmhrqSThrZeor+/TfmHah37/cP8e5zOU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ank/kmuvt/uHR5BZ6z7tRJR6Sjqk4YJcYRyyuJjrbiQ="
+      "hash": "sha256-cWfY5nJjUd/qmhrqSThrZeor+/TfmHah37/cP8e5zOU="
     }
   },
-  "version": "1.3.0"
+  "version": "1.4.0"
 }

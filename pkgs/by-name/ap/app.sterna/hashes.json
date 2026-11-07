@@ -1,18 +1,18 @@
 {
-  "apkName": "app.sterna_169.apk",
+  "apkName": "app.sterna_186.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-oxeh3k9/wtIy5lG0m33hw0CsfwGwGSb64mXX8VnvKt8="
+      "hash": "sha256-0G2IfYxWXZim4ulngmR6Rx6YjUdTEwJzdhKBMUimtCY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oxeh3k9/wtIy5lG0m33hw0CsfwGwGSb64mXX8VnvKt8="
+      "hash": "sha256-0G2IfYxWXZim4ulngmR6Rx6YjUdTEwJzdhKBMUimtCY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oxeh3k9/wtIy5lG0m33hw0CsfwGwGSb64mXX8VnvKt8="
+      "hash": "sha256-0G2IfYxWXZim4ulngmR6Rx6YjUdTEwJzdhKBMUimtCY="
     }
   },
-  "version": "1.4.9"
+  "version": "1.6.5"
 }

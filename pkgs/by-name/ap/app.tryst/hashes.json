@@ -1,18 +1,18 @@
 {
-  "apkName": "app.tryst_9.apk",
+  "apkName": "app.tryst_21.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-cwjVZazMbg7Ee+JEuR+aPtRyIpGafZgl91rgFwFlHz8="
+      "hash": "sha256-xMIL0gciuSVeWcgHC9qEy4rUh7vVVWQFiwmu6hOVaHQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cwjVZazMbg7Ee+JEuR+aPtRyIpGafZgl91rgFwFlHz8="
+      "hash": "sha256-xMIL0gciuSVeWcgHC9qEy4rUh7vVVWQFiwmu6hOVaHQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-cwjVZazMbg7Ee+JEuR+aPtRyIpGafZgl91rgFwFlHz8="
+      "hash": "sha256-xMIL0gciuSVeWcgHC9qEy4rUh7vVVWQFiwmu6hOVaHQ="
     }
   },
-  "version": "0.5.2"
+  "version": "0.6.5"
 }

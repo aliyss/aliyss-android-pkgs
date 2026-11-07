@@ -1,18 +1,18 @@
 {
-  "apkName": "acab.naiveha.upnpkino_10.apk",
+  "apkName": "acab.naiveha.upnpkino_2014.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OqWs0cadGPwM/ybw1hAUxT9wqp46cTNt8/J6AI6ZiBo="
+      "hash": "sha256-UKkIrnXelQQ53gzfbZ+fww1UG0UVJZ6P+PBhloe915M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OqWs0cadGPwM/ybw1hAUxT9wqp46cTNt8/J6AI6ZiBo="
+      "hash": "sha256-UKkIrnXelQQ53gzfbZ+fww1UG0UVJZ6P+PBhloe915M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OqWs0cadGPwM/ybw1hAUxT9wqp46cTNt8/J6AI6ZiBo="
+      "hash": "sha256-UKkIrnXelQQ53gzfbZ+fww1UG0UVJZ6P+PBhloe915M="
     }
   },
-  "version": "3.0.0"
+  "version": "4.0.3"
 }

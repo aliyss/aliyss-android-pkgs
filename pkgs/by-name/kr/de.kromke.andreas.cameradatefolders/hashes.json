@@ -1,18 +1,18 @@
 {
-  "apkName": "de.kromke.andreas.cameradatefolders_12.apk",
+  "apkName": "de.kromke.andreas.cameradatefolders_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-GIbbWTVl0BljO1No7X+nCjQgO1FNoRF6+F4esChShOE="
+      "hash": "sha256-jSqU4/XmCAD/WeTqtsd1AZzrho+M0DOdKONTve2BQ58="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GIbbWTVl0BljO1No7X+nCjQgO1FNoRF6+F4esChShOE="
+      "hash": "sha256-jSqU4/XmCAD/WeTqtsd1AZzrho+M0DOdKONTve2BQ58="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GIbbWTVl0BljO1No7X+nCjQgO1FNoRF6+F4esChShOE="
+      "hash": "sha256-jSqU4/XmCAD/WeTqtsd1AZzrho+M0DOdKONTve2BQ58="
     }
   },
-  "version": "1.5.2"
+  "version": "1.5.3"
 }

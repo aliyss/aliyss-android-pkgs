@@ -1,18 +1,18 @@
 {
-  "apkName": "com.gpl.rpg.AndorsTrail_86.apk",
+  "apkName": "com.gpl.rpg.AndorsTrail_89.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-pdmHV2Vzl7TEF8IiRIAzgRwDlrcBeRuikw9a3unz9oc="
+      "hash": "sha256-Jdab8Bcfm/XPMstkU4Qn3zQi4JQEjgOT8jd7o0MK1gk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pdmHV2Vzl7TEF8IiRIAzgRwDlrcBeRuikw9a3unz9oc="
+      "hash": "sha256-Jdab8Bcfm/XPMstkU4Qn3zQi4JQEjgOT8jd7o0MK1gk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pdmHV2Vzl7TEF8IiRIAzgRwDlrcBeRuikw9a3unz9oc="
+      "hash": "sha256-Jdab8Bcfm/XPMstkU4Qn3zQi4JQEjgOT8jd7o0MK1gk="
     }
   },
-  "version": "0.8.17"
+  "version": "0.8.18"
 }

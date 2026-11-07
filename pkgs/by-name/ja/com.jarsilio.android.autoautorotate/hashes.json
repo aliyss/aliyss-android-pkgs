@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jarsilio.android.autoautorotate_47.apk",
+  "apkName": "com.jarsilio.android.autoautorotate_53.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LVF9FUZD7JC24puljh8Ah2ci3cyNoRHSFwkexRkdHlA="
+      "hash": "sha256-GppGKK4BBUiNsmmgc5Ounz6TOsVOStHrP0sO6x6qZMc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LVF9FUZD7JC24puljh8Ah2ci3cyNoRHSFwkexRkdHlA="
+      "hash": "sha256-GppGKK4BBUiNsmmgc5Ounz6TOsVOStHrP0sO6x6qZMc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LVF9FUZD7JC24puljh8Ah2ci3cyNoRHSFwkexRkdHlA="
+      "hash": "sha256-GppGKK4BBUiNsmmgc5Ounz6TOsVOStHrP0sO6x6qZMc="
     }
   },
-  "version": "1.0"
+  "version": "1.2.4"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "co.adityarajput.fileflow_11.apk",
+  "apkName": "co.adityarajput.fileflow_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yMElODRr4fuix9jScUk1qL3yB+9FNtPDJ5Z7iPzuqFw="
+      "hash": "sha256-GwvqQ95M25tC05D/nQKcJNVPnUcxT7XyFOsmmN4W4dU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yMElODRr4fuix9jScUk1qL3yB+9FNtPDJ5Z7iPzuqFw="
+      "hash": "sha256-GwvqQ95M25tC05D/nQKcJNVPnUcxT7XyFOsmmN4W4dU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yMElODRr4fuix9jScUk1qL3yB+9FNtPDJ5Z7iPzuqFw="
+      "hash": "sha256-GwvqQ95M25tC05D/nQKcJNVPnUcxT7XyFOsmmN4W4dU="
     }
   },
-  "version": "1.9.0"
+  "version": "1.10.0"
 }

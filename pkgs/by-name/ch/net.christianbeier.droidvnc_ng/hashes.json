@@ -1,18 +1,18 @@
 {
-  "apkName": "net.christianbeier.droidvnc_ng_63.apk",
+  "apkName": "net.christianbeier.droidvnc_ng_67.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-XG0PihaquLnd+Dtw1aknjjrgR66Y83TMQw7XYx8MCtE="
+      "hash": "sha256-W8HeMbd98l80RMH/8+SjaopexvKVjz+tcNmCa6vQE7Q="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XG0PihaquLnd+Dtw1aknjjrgR66Y83TMQw7XYx8MCtE="
+      "hash": "sha256-W8HeMbd98l80RMH/8+SjaopexvKVjz+tcNmCa6vQE7Q="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XG0PihaquLnd+Dtw1aknjjrgR66Y83TMQw7XYx8MCtE="
+      "hash": "sha256-W8HeMbd98l80RMH/8+SjaopexvKVjz+tcNmCa6vQE7Q="
     }
   },
-  "version": "2.20.3"
+  "version": "2.22.2"
 }

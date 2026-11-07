@@ -1,18 +1,18 @@
 {
-  "apkName": "com.starry.myne_500.apk",
+  "apkName": "com.starry.myne_510.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-F3XSC9yu2aVWCo1OyiIzilRmfZRSxejl7QVcc27cDTM="
+      "hash": "sha256-tJSaL/lTD5rBxk+eXqc4Q5EKAyhqG7VASWw8+OHGMMs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-F3XSC9yu2aVWCo1OyiIzilRmfZRSxejl7QVcc27cDTM="
+      "hash": "sha256-tJSaL/lTD5rBxk+eXqc4Q5EKAyhqG7VASWw8+OHGMMs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-F3XSC9yu2aVWCo1OyiIzilRmfZRSxejl7QVcc27cDTM="
+      "hash": "sha256-tJSaL/lTD5rBxk+eXqc4Q5EKAyhqG7VASWw8+OHGMMs="
     }
   },
-  "version": "5.0.0"
+  "version": "5.1.0"
 }

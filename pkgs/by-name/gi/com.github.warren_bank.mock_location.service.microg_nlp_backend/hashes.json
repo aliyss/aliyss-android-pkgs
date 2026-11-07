@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.warren_bank.mock_location.service.microg_nlp_backend_2050209.apk",
+  "apkName": "com.github.warren_bank.mock_location.service.microg_nlp_backend_2050309.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-eH55dlME9l2nyb6kpxPxKyFPqKID50KzQ8Tg4KDECqI="
+      "hash": "sha256-ypPWqO9dd1XdWgM5wUqlROii19MnZLmwRgQkxTlW0Ls="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eH55dlME9l2nyb6kpxPxKyFPqKID50KzQ8Tg4KDECqI="
+      "hash": "sha256-ypPWqO9dd1XdWgM5wUqlROii19MnZLmwRgQkxTlW0Ls="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eH55dlME9l2nyb6kpxPxKyFPqKID50KzQ8Tg4KDECqI="
+      "hash": "sha256-ypPWqO9dd1XdWgM5wUqlROii19MnZLmwRgQkxTlW0Ls="
     }
   },
-  "version": "002.05.02-09API"
+  "version": "002.05.03-09API"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "gizz.tapes.foss_112.apk",
+  "apkName": "gizz.tapes.foss_29885238.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8U+mwWCvx5Qp0+hb093sBeIO9aondsWhE1YlytZpG7M="
+      "hash": "sha256-TiRsSMYC4ecXkV64sr3QWTDJRLkewsgPH4YIx0kTK+w="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8U+mwWCvx5Qp0+hb093sBeIO9aondsWhE1YlytZpG7M="
+      "hash": "sha256-TiRsSMYC4ecXkV64sr3QWTDJRLkewsgPH4YIx0kTK+w="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8U+mwWCvx5Qp0+hb093sBeIO9aondsWhE1YlytZpG7M="
+      "hash": "sha256-TiRsSMYC4ecXkV64sr3QWTDJRLkewsgPH4YIx0kTK+w="
     }
   },
-  "version": "KGLW"
+  "version": "MarsForTheRich"
 }

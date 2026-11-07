@@ -1,18 +1,18 @@
 {
-  "apkName": "com.arslandaim.playtube_11.apk",
+  "apkName": "com.arslandaim.playtube_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-oLElErZEliHq3lIYVDUSOLtuOQob5qTFYNLwzheaaP4="
+      "hash": "sha256-za11bh6ScwHwaY8XZBlXHEUXm2ByfeiTMypebLAA8sE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oLElErZEliHq3lIYVDUSOLtuOQob5qTFYNLwzheaaP4="
+      "hash": "sha256-za11bh6ScwHwaY8XZBlXHEUXm2ByfeiTMypebLAA8sE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oLElErZEliHq3lIYVDUSOLtuOQob5qTFYNLwzheaaP4="
+      "hash": "sha256-za11bh6ScwHwaY8XZBlXHEUXm2ByfeiTMypebLAA8sE="
     }
   },
-  "version": "1.3.6"
+  "version": "1.4.3"
 }

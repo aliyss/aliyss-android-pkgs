@@ -1,18 +1,18 @@
 {
-  "apkName": "com.uc.caffeine_11.apk",
+  "apkName": "com.uc.caffeine_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AOVNt9YKFy26CpAefuZnHhx3MnlhcssZAgAoFPGgCXs="
+      "hash": "sha256-ieUHkkep3nvrUwy0flmAPD34uRwMB12FwLOulYxSzZ0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AOVNt9YKFy26CpAefuZnHhx3MnlhcssZAgAoFPGgCXs="
+      "hash": "sha256-ieUHkkep3nvrUwy0flmAPD34uRwMB12FwLOulYxSzZ0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AOVNt9YKFy26CpAefuZnHhx3MnlhcssZAgAoFPGgCXs="
+      "hash": "sha256-ieUHkkep3nvrUwy0flmAPD34uRwMB12FwLOulYxSzZ0="
     }
   },
-  "version": "2.3.1"
+  "version": "2.5.2"
 }

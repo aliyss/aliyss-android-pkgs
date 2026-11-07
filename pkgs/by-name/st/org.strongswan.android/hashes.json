@@ -1,18 +1,18 @@
 {
-  "apkName": "org.strongswan.android_96.apk",
+  "apkName": "org.strongswan.android_100.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qpS6FZx00+Zlqb6gpn3djRSgmSdAfI16R+UtT98tcWs="
+      "hash": "sha256-IFxgz50flZHnV/+W16fWMgf+KaPZIEEBLIZLsQq3gck="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qpS6FZx00+Zlqb6gpn3djRSgmSdAfI16R+UtT98tcWs="
+      "hash": "sha256-IFxgz50flZHnV/+W16fWMgf+KaPZIEEBLIZLsQq3gck="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qpS6FZx00+Zlqb6gpn3djRSgmSdAfI16R+UtT98tcWs="
+      "hash": "sha256-IFxgz50flZHnV/+W16fWMgf+KaPZIEEBLIZLsQq3gck="
     }
   },
-  "version": "2.6.2"
+  "version": "2.6.3"
 }

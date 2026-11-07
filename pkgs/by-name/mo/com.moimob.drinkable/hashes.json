@@ -1,18 +1,18 @@
 {
-  "apkName": "com.moimob.drinkable_16000.apk",
+  "apkName": "com.moimob.drinkable_16001.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-T7EJ94UWzs/g9RpGM8BR1ovDF06dsy7xZJjq/QVPmlA="
+      "hash": "sha256-AzkqvvnGP2qen7Z8IaiVCkQIcHviJ21E893JcbuotGw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-T7EJ94UWzs/g9RpGM8BR1ovDF06dsy7xZJjq/QVPmlA="
+      "hash": "sha256-AzkqvvnGP2qen7Z8IaiVCkQIcHviJ21E893JcbuotGw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-T7EJ94UWzs/g9RpGM8BR1ovDF06dsy7xZJjq/QVPmlA="
+      "hash": "sha256-AzkqvvnGP2qen7Z8IaiVCkQIcHviJ21E893JcbuotGw="
     }
   },
-  "version": "1.60.0"
+  "version": "1.60.1"
 }

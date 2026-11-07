@@ -1,18 +1,18 @@
 {
-  "apkName": "com.tristinbaker.defide_27.apk",
+  "apkName": "com.tristinbaker.defide_29.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+biBUc1qLJyEi6W0zkOUMbZwjIz540LhXPcHnL+00+E="
+      "hash": "sha256-bqDO78w7KzWzYkWgztxOWnwylqnEsgSLs/8ygNeoIAM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+biBUc1qLJyEi6W0zkOUMbZwjIz540LhXPcHnL+00+E="
+      "hash": "sha256-bqDO78w7KzWzYkWgztxOWnwylqnEsgSLs/8ygNeoIAM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+biBUc1qLJyEi6W0zkOUMbZwjIz540LhXPcHnL+00+E="
+      "hash": "sha256-bqDO78w7KzWzYkWgztxOWnwylqnEsgSLs/8ygNeoIAM="
     }
   },
-  "version": "2.1.0"
+  "version": "2.2.0"
 }

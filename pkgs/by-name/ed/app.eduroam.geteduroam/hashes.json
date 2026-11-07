@@ -1,18 +1,18 @@
 {
-  "apkName": "app.eduroam.geteduroam_2692.apk",
+  "apkName": "app.eduroam.geteduroam_2693.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-hgs/uPn6aIeQ2hxEkZha63nHSRrD6IO8WXXhA8mxCiM="
+      "hash": "sha256-TcX4zuAtXE+qwkrUZYNZEwiMhP5/XN6Lr4oStIeZF8M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hgs/uPn6aIeQ2hxEkZha63nHSRrD6IO8WXXhA8mxCiM="
+      "hash": "sha256-TcX4zuAtXE+qwkrUZYNZEwiMhP5/XN6Lr4oStIeZF8M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hgs/uPn6aIeQ2hxEkZha63nHSRrD6IO8WXXhA8mxCiM="
+      "hash": "sha256-TcX4zuAtXE+qwkrUZYNZEwiMhP5/XN6Lr4oStIeZF8M="
     }
   },
-  "version": "2.3.0(2692)"
+  "version": "2.3.1(2693)"
 }

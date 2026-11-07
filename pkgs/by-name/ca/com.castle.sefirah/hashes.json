@@ -1,18 +1,18 @@
 {
-  "apkName": "com.castle.sefirah_34.apk",
+  "apkName": "com.castle.sefirah_38.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WJkdQB8Y40F8l9klh0UhFMgsf84FFnS6SfJbf65qtQY="
+      "hash": "sha256-JYBEkZYKmsPVbXWAjfGuiSSYyy1/Gl6y8oBuUxmvLX8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WJkdQB8Y40F8l9klh0UhFMgsf84FFnS6SfJbf65qtQY="
+      "hash": "sha256-JYBEkZYKmsPVbXWAjfGuiSSYyy1/Gl6y8oBuUxmvLX8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WJkdQB8Y40F8l9klh0UhFMgsf84FFnS6SfJbf65qtQY="
+      "hash": "sha256-JYBEkZYKmsPVbXWAjfGuiSSYyy1/Gl6y8oBuUxmvLX8="
     }
   },
-  "version": "3.0.1"
+  "version": "3.2.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jamal2367.urlradio_128.apk",
+  "apkName": "com.jamal2367.urlradio_131.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FcfpwuUStkb/gZH95Ji7LH/KOAI+T20EhNTwQ8FkPW8="
+      "hash": "sha256-HmlIH4b1gd+kHpsnRrSg0bmR2EAKCGEPkf1FOteXXAM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FcfpwuUStkb/gZH95Ji7LH/KOAI+T20EhNTwQ8FkPW8="
+      "hash": "sha256-HmlIH4b1gd+kHpsnRrSg0bmR2EAKCGEPkf1FOteXXAM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FcfpwuUStkb/gZH95Ji7LH/KOAI+T20EhNTwQ8FkPW8="
+      "hash": "sha256-HmlIH4b1gd+kHpsnRrSg0bmR2EAKCGEPkf1FOteXXAM="
     }
   },
-  "version": "12.8"
+  "version": "13.1"
 }

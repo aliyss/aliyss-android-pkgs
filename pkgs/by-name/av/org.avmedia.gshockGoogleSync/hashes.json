@@ -1,18 +1,18 @@
 {
-  "apkName": "org.avmedia.gshockGoogleSync_4267.apk",
+  "apkName": "org.avmedia.gshockGoogleSync_42920.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Sq2XpxcXeigiGczg1sbVJ2z57FIRNJGkAv3f4YpfX4I="
+      "hash": "sha256-gghIaoNb7H+JfH2xZIjyv79OKp8YtWhizcT8K42YLto="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Sq2XpxcXeigiGczg1sbVJ2z57FIRNJGkAv3f4YpfX4I="
+      "hash": "sha256-gghIaoNb7H+JfH2xZIjyv79OKp8YtWhizcT8K42YLto="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Sq2XpxcXeigiGczg1sbVJ2z57FIRNJGkAv3f4YpfX4I="
+      "hash": "sha256-gghIaoNb7H+JfH2xZIjyv79OKp8YtWhizcT8K42YLto="
     }
   },
-  "version": "42.6.7"
+  "version": "42.9.20"
 }

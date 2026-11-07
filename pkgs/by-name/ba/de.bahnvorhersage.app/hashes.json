@@ -1,18 +1,18 @@
 {
-  "apkName": "de.bahnvorhersage.app_18.apk",
+  "apkName": "de.bahnvorhersage.app_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-f4dIePo2wyyYOt73NsqZn5tZJDMLgASY5n0li8i0x+c="
+      "hash": "sha256-uJyGPcfnpUZusQThtaee12akRi/VCqJR4/y6ClEIHME="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-f4dIePo2wyyYOt73NsqZn5tZJDMLgASY5n0li8i0x+c="
+      "hash": "sha256-uJyGPcfnpUZusQThtaee12akRi/VCqJR4/y6ClEIHME="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-f4dIePo2wyyYOt73NsqZn5tZJDMLgASY5n0li8i0x+c="
+      "hash": "sha256-uJyGPcfnpUZusQThtaee12akRi/VCqJR4/y6ClEIHME="
     }
   },
-  "version": "0.8.1"
+  "version": "0.8.2"
 }

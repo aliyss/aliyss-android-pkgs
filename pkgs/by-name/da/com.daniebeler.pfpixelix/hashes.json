@@ -1,18 +1,18 @@
 {
-  "apkName": "com.daniebeler.pfpixelix_43.apk",
+  "apkName": "com.daniebeler.pfpixelix_49.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OxR8c3GNd9vydK3E2+MkgeVHm1flgPHO7QVuVqWawf0="
+      "hash": "sha256-5U3NINIrT/zf2v19TvCnooZG6Miww06dwyrn7oYJSdM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OxR8c3GNd9vydK3E2+MkgeVHm1flgPHO7QVuVqWawf0="
+      "hash": "sha256-5U3NINIrT/zf2v19TvCnooZG6Miww06dwyrn7oYJSdM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OxR8c3GNd9vydK3E2+MkgeVHm1flgPHO7QVuVqWawf0="
+      "hash": "sha256-5U3NINIrT/zf2v19TvCnooZG6Miww06dwyrn7oYJSdM="
     }
   },
-  "version": "5.0.1"
+  "version": "5.2.2"
 }

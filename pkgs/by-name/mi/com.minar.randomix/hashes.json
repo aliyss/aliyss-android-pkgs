@@ -1,18 +1,18 @@
 {
-  "apkName": "com.minar.randomix_41.apk",
+  "apkName": "com.minar.randomix_42.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Z4L2fDtIkRIbCeQeO4SogbscoxZ7e/587Ehko+aAzF0="
+      "hash": "sha256-jxN75SKMFHZueucGO8sVDzS+RaqxXcj/MvllwCkknt0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Z4L2fDtIkRIbCeQeO4SogbscoxZ7e/587Ehko+aAzF0="
+      "hash": "sha256-jxN75SKMFHZueucGO8sVDzS+RaqxXcj/MvllwCkknt0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Z4L2fDtIkRIbCeQeO4SogbscoxZ7e/587Ehko+aAzF0="
+      "hash": "sha256-jxN75SKMFHZueucGO8sVDzS+RaqxXcj/MvllwCkknt0="
     }
   },
-  "version": "3.0"
+  "version": "4.0"
 }

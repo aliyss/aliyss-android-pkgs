@@ -1,18 +1,18 @@
 {
-  "apkName": "com.porter.tvremote_5.apk",
+  "apkName": "com.porter.tvremote_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7uTsjEWRO1RhtIgaGwtgVQyczrHUYb8r6ZPCUgCpnnY="
+      "hash": "sha256-Oi8lUjIePAZK5g6jutoZksizOvIKJ6PApRpLC9O6p9s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7uTsjEWRO1RhtIgaGwtgVQyczrHUYb8r6ZPCUgCpnnY="
+      "hash": "sha256-Oi8lUjIePAZK5g6jutoZksizOvIKJ6PApRpLC9O6p9s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7uTsjEWRO1RhtIgaGwtgVQyczrHUYb8r6ZPCUgCpnnY="
+      "hash": "sha256-Oi8lUjIePAZK5g6jutoZksizOvIKJ6PApRpLC9O6p9s="
     }
   },
-  "version": "1.4"
+  "version": "1.6"
 }

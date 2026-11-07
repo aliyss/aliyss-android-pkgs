@@ -1,18 +1,18 @@
 {
-  "apkName": "be.robinj.distrohopper_102.apk",
+  "apkName": "be.robinj.distrohopper_116.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-GbdcLEdilMUxYFQR+//qvgRY1Eiz+Kl1jXH2OOfwa0o="
+      "hash": "sha256-13P+GuliJ3N8tWyichEC1vVXLSp7Y0keFRqmjHFOuWI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GbdcLEdilMUxYFQR+//qvgRY1Eiz+Kl1jXH2OOfwa0o="
+      "hash": "sha256-13P+GuliJ3N8tWyichEC1vVXLSp7Y0keFRqmjHFOuWI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GbdcLEdilMUxYFQR+//qvgRY1Eiz+Kl1jXH2OOfwa0o="
+      "hash": "sha256-13P+GuliJ3N8tWyichEC1vVXLSp7Y0keFRqmjHFOuWI="
     }
   },
-  "version": "2.7.0"
+  "version": "3.0.4-paranoia"
 }

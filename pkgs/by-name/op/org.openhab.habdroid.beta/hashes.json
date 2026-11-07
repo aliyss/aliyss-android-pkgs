@@ -1,18 +1,18 @@
 {
-  "apkName": "org.openhab.habdroid.beta_598.apk",
+  "apkName": "org.openhab.habdroid.beta_609.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-F7T5fmIje2wXj3U2X6l0q5QxUcCZdRgjL3zm2bmIdKo="
+      "hash": "sha256-pjcq/bY38jCDjWjta7suT4o6w2iBNzcw01roWSxoSwg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-F7T5fmIje2wXj3U2X6l0q5QxUcCZdRgjL3zm2bmIdKo="
+      "hash": "sha256-pjcq/bY38jCDjWjta7suT4o6w2iBNzcw01roWSxoSwg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-F7T5fmIje2wXj3U2X6l0q5QxUcCZdRgjL3zm2bmIdKo="
+      "hash": "sha256-pjcq/bY38jCDjWjta7suT4o6w2iBNzcw01roWSxoSwg="
     }
   },
-  "version": "3.21.0-beta"
+  "version": "3.22.9-beta"
 }

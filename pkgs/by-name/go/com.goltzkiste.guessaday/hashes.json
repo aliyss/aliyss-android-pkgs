@@ -1,18 +1,18 @@
 {
-  "apkName": "com.goltzkiste.guessaday_8.apk",
+  "apkName": "com.goltzkiste.guessaday_93.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+UE3g734wRJZ4vdUStBabDRctPwQydjArAgzT7Z8rQI="
+      "hash": "sha256-Sy7IIRRPZ9tViCwvLax1JHUqpjYIwUY8mI4Qx9M1KjE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+UE3g734wRJZ4vdUStBabDRctPwQydjArAgzT7Z8rQI="
+      "hash": "sha256-Sy7IIRRPZ9tViCwvLax1JHUqpjYIwUY8mI4Qx9M1KjE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+UE3g734wRJZ4vdUStBabDRctPwQydjArAgzT7Z8rQI="
+      "hash": "sha256-Sy7IIRRPZ9tViCwvLax1JHUqpjYIwUY8mI4Qx9M1KjE="
     }
   },
-  "version": "1.04"
+  "version": "2.0.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.ezberlin.keinplan_10.apk",
+  "apkName": "io.github.ezberlin.keinplan_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-dTl0ftqs9DT2JHu/J89sCXL6fGxwYyc+rtAA3OCi/Nc="
+      "hash": "sha256-ZBzP0S1cQKFOJF9KYAZ8T+UVeY51kJ+A/Pzqsf0ROFg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dTl0ftqs9DT2JHu/J89sCXL6fGxwYyc+rtAA3OCi/Nc="
+      "hash": "sha256-ZBzP0S1cQKFOJF9KYAZ8T+UVeY51kJ+A/Pzqsf0ROFg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dTl0ftqs9DT2JHu/J89sCXL6fGxwYyc+rtAA3OCi/Nc="
+      "hash": "sha256-ZBzP0S1cQKFOJF9KYAZ8T+UVeY51kJ+A/Pzqsf0ROFg="
     }
   },
-  "version": "26.06.01"
+  "version": "26.10.1"
 }

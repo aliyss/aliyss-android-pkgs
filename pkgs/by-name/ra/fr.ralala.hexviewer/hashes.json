@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.ralala.hexviewer_15909.apk",
+  "apkName": "fr.ralala.hexviewer_16000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JlL+ujhybuHYaRfdoLNxCxTMkYJcoqOmOmSXlJPCqVA="
+      "hash": "sha256-Gri/7P2pz7L302X3cSyUnzJSWGhjz/VruV7VtVcKHgA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JlL+ujhybuHYaRfdoLNxCxTMkYJcoqOmOmSXlJPCqVA="
+      "hash": "sha256-Gri/7P2pz7L302X3cSyUnzJSWGhjz/VruV7VtVcKHgA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JlL+ujhybuHYaRfdoLNxCxTMkYJcoqOmOmSXlJPCqVA="
+      "hash": "sha256-Gri/7P2pz7L302X3cSyUnzJSWGhjz/VruV7VtVcKHgA="
     }
   },
-  "version": "1.59.9"
+  "version": "1.60.00"
 }

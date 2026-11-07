@@ -1,18 +1,18 @@
 {
-  "apkName": "in.sunilpaulmathew.appvaultx_5.apk",
+  "apkName": "in.sunilpaulmathew.appvaultx_6.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-eUGpOgbqO2stEgCu7Byd8IClyluFZ1ea9wcccFOKT1U="
+      "hash": "sha256-I2mftPku8kYI4YFbffN3dnJ9mex4wER8PJHxCkOpvZI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eUGpOgbqO2stEgCu7Byd8IClyluFZ1ea9wcccFOKT1U="
+      "hash": "sha256-I2mftPku8kYI4YFbffN3dnJ9mex4wER8PJHxCkOpvZI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eUGpOgbqO2stEgCu7Byd8IClyluFZ1ea9wcccFOKT1U="
+      "hash": "sha256-I2mftPku8kYI4YFbffN3dnJ9mex4wER8PJHxCkOpvZI="
     }
   },
-  "version": "v0.5"
+  "version": "v0.6"
 }

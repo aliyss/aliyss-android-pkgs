@@ -1,18 +1,18 @@
 {
-  "apkName": "org.hwyl.sexytopo_97.apk",
+  "apkName": "org.hwyl.sexytopo_101.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WkuNmZHXIHXbIG+KJjSfE8XeiDNSwXPJeiZGHJQlAu8="
+      "hash": "sha256-E3M8Wn9GFhDL9AwOy8DO+BJQQhsOf8UJnwfQPfxurNM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WkuNmZHXIHXbIG+KJjSfE8XeiDNSwXPJeiZGHJQlAu8="
+      "hash": "sha256-E3M8Wn9GFhDL9AwOy8DO+BJQQhsOf8UJnwfQPfxurNM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WkuNmZHXIHXbIG+KJjSfE8XeiDNSwXPJeiZGHJQlAu8="
+      "hash": "sha256-E3M8Wn9GFhDL9AwOy8DO+BJQQhsOf8UJnwfQPfxurNM="
     }
   },
-  "version": "1.12.3"
+  "version": "1.14.0"
 }

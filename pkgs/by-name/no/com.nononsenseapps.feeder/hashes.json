@@ -1,18 +1,18 @@
 {
-  "apkName": "com.nononsenseapps.feeder_4050.apk",
+  "apkName": "com.nononsenseapps.feeder_4191.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-EGbwjj6edz/gpaTNNdjjCGNNjE++nTOQvgCVy9rwo5w="
+      "hash": "sha256-b1LBETiyMNgcyvKnP/odj88DbmvpC+hiLfo64tiu4vg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EGbwjj6edz/gpaTNNdjjCGNNjE++nTOQvgCVy9rwo5w="
+      "hash": "sha256-b1LBETiyMNgcyvKnP/odj88DbmvpC+hiLfo64tiu4vg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EGbwjj6edz/gpaTNNdjjCGNNjE++nTOQvgCVy9rwo5w="
+      "hash": "sha256-b1LBETiyMNgcyvKnP/odj88DbmvpC+hiLfo64tiu4vg="
     }
   },
-  "version": "2.22.0"
+  "version": "2.25.0"
 }

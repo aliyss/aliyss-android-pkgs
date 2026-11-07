@@ -1,18 +1,18 @@
 {
-  "apkName": "org.schabi.newpipe.localserver_9.apk",
+  "apkName": "org.schabi.newpipe.localserver_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2XjhP5p58uN79SaeP42Kav9HUgUTUEQQ+iSm5FAdD/s="
+      "hash": "sha256-hTNIA0RdJay9pL+kOrtQO3F4BtHKwatpyJ2JnmORCfU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2XjhP5p58uN79SaeP42Kav9HUgUTUEQQ+iSm5FAdD/s="
+      "hash": "sha256-hTNIA0RdJay9pL+kOrtQO3F4BtHKwatpyJ2JnmORCfU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2XjhP5p58uN79SaeP42Kav9HUgUTUEQQ+iSm5FAdD/s="
+      "hash": "sha256-hTNIA0RdJay9pL+kOrtQO3F4BtHKwatpyJ2JnmORCfU="
     }
   },
-  "version": "3.4"
+  "version": "3.9"
 }

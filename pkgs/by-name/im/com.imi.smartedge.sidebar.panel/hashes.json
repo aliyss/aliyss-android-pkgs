@@ -1,18 +1,18 @@
 {
-  "apkName": "com.imi.smartedge.sidebar.panel_14.apk",
+  "apkName": "com.imi.smartedge.sidebar.panel_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VuwrKYGqd//MLunwtAreoPHbjnwQb8fD2svJx0FrQ8g="
+      "hash": "sha256-7T1V+m/xr3wptnPDr6FcqLmy4uePkUEgJcgVh1DRF9c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VuwrKYGqd//MLunwtAreoPHbjnwQb8fD2svJx0FrQ8g="
+      "hash": "sha256-7T1V+m/xr3wptnPDr6FcqLmy4uePkUEgJcgVh1DRF9c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VuwrKYGqd//MLunwtAreoPHbjnwQb8fD2svJx0FrQ8g="
+      "hash": "sha256-7T1V+m/xr3wptnPDr6FcqLmy4uePkUEgJcgVh1DRF9c="
     }
   },
-  "version": "1.3.6"
+  "version": "1.3.7"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "net.bible.android.activity_1111.apk",
+  "apkName": "net.bible.android.activity_1117.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5vpewjKy190OsPO4LO6BPlcsy+mYCoRGumMilDpTpGg="
+      "hash": "sha256-L5nivLlaAlnxqNm3PN0t3EFduCQkWMvGk5fQ/e/xF9A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5vpewjKy190OsPO4LO6BPlcsy+mYCoRGumMilDpTpGg="
+      "hash": "sha256-L5nivLlaAlnxqNm3PN0t3EFduCQkWMvGk5fQ/e/xF9A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5vpewjKy190OsPO4LO6BPlcsy+mYCoRGumMilDpTpGg="
+      "hash": "sha256-L5nivLlaAlnxqNm3PN0t3EFduCQkWMvGk5fQ/e/xF9A="
     }
   },
-  "version": "5.1.1111"
+  "version": "5.1.1117"
 }

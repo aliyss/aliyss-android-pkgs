@@ -1,18 +1,18 @@
 {
-  "apkName": "com.waist.line_31001.apk",
+  "apkName": "com.waist.line_31101.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Sgu+TiFewTWFHeW2b+k1EAd0Liqu0+x1imnGXXLKKrs="
+      "hash": "sha256-e2DekfK9TTfxMwSZEBxDaizt287h/X/zflS3UPM5y1o="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Sgu+TiFewTWFHeW2b+k1EAd0Liqu0+x1imnGXXLKKrs="
+      "hash": "sha256-e2DekfK9TTfxMwSZEBxDaizt287h/X/zflS3UPM5y1o="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Sgu+TiFewTWFHeW2b+k1EAd0Liqu0+x1imnGXXLKKrs="
+      "hash": "sha256-e2DekfK9TTfxMwSZEBxDaizt287h/X/zflS3UPM5y1o="
     }
   },
-  "version": "3.10.1"
+  "version": "3.11.1"
 }

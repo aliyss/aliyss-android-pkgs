@@ -1,18 +1,18 @@
 {
-  "apkName": "com.pixelpen.whereitwent.stable_30000.apk",
+  "apkName": "com.pixelpen.whereitwent.stable_30400.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-m81NvEzolmDRnGmYrnfiylgytT01IRL8T52cVAktfnM="
+      "hash": "sha256-Y/q0H07CldDMVo54nqP+XAelSXQjPqzzsAFiCPDpHyY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-m81NvEzolmDRnGmYrnfiylgytT01IRL8T52cVAktfnM="
+      "hash": "sha256-Y/q0H07CldDMVo54nqP+XAelSXQjPqzzsAFiCPDpHyY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-m81NvEzolmDRnGmYrnfiylgytT01IRL8T52cVAktfnM="
+      "hash": "sha256-Y/q0H07CldDMVo54nqP+XAelSXQjPqzzsAFiCPDpHyY="
     }
   },
-  "version": "3.0"
+  "version": "3.4"
 }

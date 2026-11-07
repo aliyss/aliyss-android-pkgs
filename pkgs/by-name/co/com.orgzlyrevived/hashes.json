@@ -1,18 +1,18 @@
 {
-  "apkName": "com.orgzlyrevived_288.apk",
+  "apkName": "com.orgzlyrevived_292.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-hhMmfVng+DZpXKG/PsXjeHy3TXa7liN1E9RHMXdgvD0="
+      "hash": "sha256-UMnXStRTQnUkMYw8vk7fj1TxXY4vBDAfHFrgEoX63h4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hhMmfVng+DZpXKG/PsXjeHy3TXa7liN1E9RHMXdgvD0="
+      "hash": "sha256-UMnXStRTQnUkMYw8vk7fj1TxXY4vBDAfHFrgEoX63h4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hhMmfVng+DZpXKG/PsXjeHy3TXa7liN1E9RHMXdgvD0="
+      "hash": "sha256-UMnXStRTQnUkMYw8vk7fj1TxXY4vBDAfHFrgEoX63h4="
     }
   },
-  "version": "1.22.0"
+  "version": "1.23.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jayc180.rhythmengine_104.apk",
+  "apkName": "com.jayc180.rhythmengine_106.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-GBk7IbodlzpWfIhwU0WdCEcYZ8+E1Y9YLkcySpXhKz0="
+      "hash": "sha256-GJTeST6l3BC+y/JtBfmo63TmFBTQmZIHNspqCSFxPWs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GBk7IbodlzpWfIhwU0WdCEcYZ8+E1Y9YLkcySpXhKz0="
+      "hash": "sha256-GJTeST6l3BC+y/JtBfmo63TmFBTQmZIHNspqCSFxPWs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GBk7IbodlzpWfIhwU0WdCEcYZ8+E1Y9YLkcySpXhKz0="
+      "hash": "sha256-GJTeST6l3BC+y/JtBfmo63TmFBTQmZIHNspqCSFxPWs="
     }
   },
-  "version": "1.04"
+  "version": "1.06"
 }

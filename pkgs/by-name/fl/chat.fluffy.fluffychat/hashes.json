@@ -1,18 +1,18 @@
 {
-  "apkName": "chat.fluffy.fluffychat_3558.apk",
+  "apkName": "chat.fluffy.fluffychat_3576.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-eVyQ9Eub9UvW0JnQwUqBX6Zo1lmBPVBQegmiUy7PIgY="
+      "hash": "sha256-tbT44elKNcK1+VjvXV7AzVpjBXBRa44HbT22YgMonUo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eVyQ9Eub9UvW0JnQwUqBX6Zo1lmBPVBQegmiUy7PIgY="
+      "hash": "sha256-tbT44elKNcK1+VjvXV7AzVpjBXBRa44HbT22YgMonUo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eVyQ9Eub9UvW0JnQwUqBX6Zo1lmBPVBQegmiUy7PIgY="
+      "hash": "sha256-tbT44elKNcK1+VjvXV7AzVpjBXBRa44HbT22YgMonUo="
     }
   },
-  "version": "2.8.0"
+  "version": "2.11.4"
 }
