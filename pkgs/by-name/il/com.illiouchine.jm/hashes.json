@@ -1,18 +1,18 @@
 {
-  "apkName": "com.illiouchine.jm_23.apk",
+  "apkName": "com.illiouchine.jm_25.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-BLZiPgXfGEEA9G53RaMjBTmy6baX9EI95GSutLVJ8/w="
+      "hash": "sha256-o7x0UoQmQ04jqcj6AD5F+JVvpHeJim+vlOb3EzPcT6g="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-BLZiPgXfGEEA9G53RaMjBTmy6baX9EI95GSutLVJ8/w="
+      "hash": "sha256-o7x0UoQmQ04jqcj6AD5F+JVvpHeJim+vlOb3EzPcT6g="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-BLZiPgXfGEEA9G53RaMjBTmy6baX9EI95GSutLVJ8/w="
+      "hash": "sha256-o7x0UoQmQ04jqcj6AD5F+JVvpHeJim+vlOb3EzPcT6g="
     }
   },
-  "version": "1.6.1"
+  "version": "1.7.0"
 }

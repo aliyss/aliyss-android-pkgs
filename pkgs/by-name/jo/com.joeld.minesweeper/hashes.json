@@ -1,18 +1,18 @@
 {
-  "apkName": "com.joeld.minesweeper_5.apk",
+  "apkName": "com.joeld.minesweeper_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-B9LM9YWA1GKECcYr/rCbQaS/D9h78deTt7Cymok6dWs="
+      "hash": "sha256-RpZNZDinapkPEOFlNAEGeqTcWSfDBQ8TxW0zCWdC/yQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-B9LM9YWA1GKECcYr/rCbQaS/D9h78deTt7Cymok6dWs="
+      "hash": "sha256-RpZNZDinapkPEOFlNAEGeqTcWSfDBQ8TxW0zCWdC/yQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-B9LM9YWA1GKECcYr/rCbQaS/D9h78deTt7Cymok6dWs="
+      "hash": "sha256-RpZNZDinapkPEOFlNAEGeqTcWSfDBQ8TxW0zCWdC/yQ="
     }
   },
-  "version": "1.4"
+  "version": "1.6"
 }

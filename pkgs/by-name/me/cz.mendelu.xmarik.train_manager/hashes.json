@@ -1,18 +1,18 @@
 {
-  "apkName": "cz.mendelu.xmarik.train_manager_36.apk",
+  "apkName": "cz.mendelu.xmarik.train_manager_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-A3O66zXrFfka7NocjrePsxetYpSyPPHxbZVxJXjlDXY="
+      "hash": "sha256-ddGu8fvj10UFHrl9ZmxsxCc4zgmUxHsbsz9FWnN4glU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-A3O66zXrFfka7NocjrePsxetYpSyPPHxbZVxJXjlDXY="
+      "hash": "sha256-ddGu8fvj10UFHrl9ZmxsxCc4zgmUxHsbsz9FWnN4glU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-A3O66zXrFfka7NocjrePsxetYpSyPPHxbZVxJXjlDXY="
+      "hash": "sha256-ddGu8fvj10UFHrl9ZmxsxCc4zgmUxHsbsz9FWnN4glU="
     }
   },
-  "version": "2.5"
+  "version": "2.6"
 }

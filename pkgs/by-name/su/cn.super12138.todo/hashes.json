@@ -1,18 +1,18 @@
 {
-  "apkName": "cn.super12138.todo_1192.apk",
+  "apkName": "cn.super12138.todo_1319.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-a+U9VXhTEdxWieo+BHIKvZjw5wbMp2FEZeMjycYlhho="
+      "hash": "sha256-1q1vthGqNUv8rZkxgO4IvdoyNH3s86jJpmSYFciY0cs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-a+U9VXhTEdxWieo+BHIKvZjw5wbMp2FEZeMjycYlhho="
+      "hash": "sha256-1q1vthGqNUv8rZkxgO4IvdoyNH3s86jJpmSYFciY0cs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-a+U9VXhTEdxWieo+BHIKvZjw5wbMp2FEZeMjycYlhho="
+      "hash": "sha256-1q1vthGqNUv8rZkxgO4IvdoyNH3s86jJpmSYFciY0cs="
     }
   },
-  "version": "3.3.6"
+  "version": "3.6.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.eden.livewidget_20005.apk",
+  "apkName": "com.eden.livewidget_30100.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-x6woQvneoZbS0YgzQH6PJKLKjWMSvQPcYcjO5qUDN5o="
+      "hash": "sha256-jIm+x6+/EwNg/bOF+DbjDI6xUNZiKSz5dtPjxeWE0mk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-x6woQvneoZbS0YgzQH6PJKLKjWMSvQPcYcjO5qUDN5o="
+      "hash": "sha256-jIm+x6+/EwNg/bOF+DbjDI6xUNZiKSz5dtPjxeWE0mk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-x6woQvneoZbS0YgzQH6PJKLKjWMSvQPcYcjO5qUDN5o="
+      "hash": "sha256-jIm+x6+/EwNg/bOF+DbjDI6xUNZiKSz5dtPjxeWE0mk="
     }
   },
-  "version": "2.0.5"
+  "version": "3.1.0"
 }

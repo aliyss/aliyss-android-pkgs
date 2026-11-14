@@ -1,18 +1,18 @@
 {
-  "apkName": "com.acktarius.concealauthenticator_39.apk",
+  "apkName": "com.acktarius.concealauthenticator_41.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KhOa7clBSP7X/1DecTijS62+UD6zEpygR4lFZOMpx6Q="
+      "hash": "sha256-zLv9IX6vEPUWILZm6qgiFGYmwF5AxgjSnH4JZfcFY28="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KhOa7clBSP7X/1DecTijS62+UD6zEpygR4lFZOMpx6Q="
+      "hash": "sha256-zLv9IX6vEPUWILZm6qgiFGYmwF5AxgjSnH4JZfcFY28="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KhOa7clBSP7X/1DecTijS62+UD6zEpygR4lFZOMpx6Q="
+      "hash": "sha256-zLv9IX6vEPUWILZm6qgiFGYmwF5AxgjSnH4JZfcFY28="
     }
   },
-  "version": "1.1.3"
+  "version": "1.1.5"
 }

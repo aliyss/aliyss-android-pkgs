@@ -1,18 +1,18 @@
 {
-  "apkName": "de.moekadu.tuner_49.apk",
+  "apkName": "de.moekadu.tuner_50.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Erjts3pwjKcTbetm9jVHBLIy3rY/waGRoSLiz7d6sRo="
+      "hash": "sha256-O6falIb7jqWGAFfUMId+fgsS/UbtSSfc/T2W2OpSZcU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Erjts3pwjKcTbetm9jVHBLIy3rY/waGRoSLiz7d6sRo="
+      "hash": "sha256-O6falIb7jqWGAFfUMId+fgsS/UbtSSfc/T2W2OpSZcU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Erjts3pwjKcTbetm9jVHBLIy3rY/waGRoSLiz7d6sRo="
+      "hash": "sha256-O6falIb7jqWGAFfUMId+fgsS/UbtSSfc/T2W2OpSZcU="
     }
   },
-  "version": "9.1.1"
+  "version": "9.2.0"
 }

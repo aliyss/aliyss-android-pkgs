@@ -1,18 +1,18 @@
 {
-  "apkName": "com.darkrockstudios.apps.fasttrack_40.apk",
+  "apkName": "com.darkrockstudios.apps.fasttrack_42.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Qk2Pr8G8FDEwIenpcTcj+GoTUHeHFZgDs4pjphZo+Qk="
+      "hash": "sha256-gp+FfTeSimr5U11A8qqy7w0eybcZs6zBJDWuBxPVQVM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Qk2Pr8G8FDEwIenpcTcj+GoTUHeHFZgDs4pjphZo+Qk="
+      "hash": "sha256-gp+FfTeSimr5U11A8qqy7w0eybcZs6zBJDWuBxPVQVM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Qk2Pr8G8FDEwIenpcTcj+GoTUHeHFZgDs4pjphZo+Qk="
+      "hash": "sha256-gp+FfTeSimr5U11A8qqy7w0eybcZs6zBJDWuBxPVQVM="
     }
   },
-  "version": "5.0.1"
+  "version": "5.1.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "me.lecaro.breakout_29749294.apk",
+  "apkName": "me.lecaro.breakout_29856654.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ZCy0ql5DYQJUnYIa/9bo0FMGP4kttcpeSe8T5ruNX2Q="
+      "hash": "sha256-ffP1aaGYtER2gxVvGuv95IEQ6go1LqhLiVNwxDnacOI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZCy0ql5DYQJUnYIa/9bo0FMGP4kttcpeSe8T5ruNX2Q="
+      "hash": "sha256-ffP1aaGYtER2gxVvGuv95IEQ6go1LqhLiVNwxDnacOI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZCy0ql5DYQJUnYIa/9bo0FMGP4kttcpeSe8T5ruNX2Q="
+      "hash": "sha256-ffP1aaGYtER2gxVvGuv95IEQ6go1LqhLiVNwxDnacOI="
     }
   },
-  "version": "29749294"
+  "version": "29856654"
 }

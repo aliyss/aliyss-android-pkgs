@@ -1,18 +1,18 @@
 {
-  "apkName": "com.infomaniak.euria_100400401.apk",
+  "apkName": "com.infomaniak.euria_100400501.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Da5qCSJgDIwMLuIMLeNh7kvgi4gCqzsXuWmLCIMrMWM="
+      "hash": "sha256-rPLWlrHb0j+2viG/gdYz/eOI5kK5MI/glXoAAvA1mXk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Da5qCSJgDIwMLuIMLeNh7kvgi4gCqzsXuWmLCIMrMWM="
+      "hash": "sha256-rPLWlrHb0j+2viG/gdYz/eOI5kK5MI/glXoAAvA1mXk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Da5qCSJgDIwMLuIMLeNh7kvgi4gCqzsXuWmLCIMrMWM="
+      "hash": "sha256-rPLWlrHb0j+2viG/gdYz/eOI5kK5MI/glXoAAvA1mXk="
     }
   },
-  "version": "1.4.4"
+  "version": "1.4.5"
 }

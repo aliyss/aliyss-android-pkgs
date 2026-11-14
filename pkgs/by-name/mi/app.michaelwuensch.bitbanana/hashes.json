@@ -1,18 +1,18 @@
 {
-  "apkName": "app.michaelwuensch.bitbanana_79.apk",
+  "apkName": "app.michaelwuensch.bitbanana_82.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ZoDWt8iLNGwV0tAXjgZWvtXMyUT8qvBCbgi5MIF66XQ="
+      "hash": "sha256-CxFiRtAmRD/IBTh6BrqE2LQvWszU/AXfeazVfJ1MWIA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZoDWt8iLNGwV0tAXjgZWvtXMyUT8qvBCbgi5MIF66XQ="
+      "hash": "sha256-CxFiRtAmRD/IBTh6BrqE2LQvWszU/AXfeazVfJ1MWIA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZoDWt8iLNGwV0tAXjgZWvtXMyUT8qvBCbgi5MIF66XQ="
+      "hash": "sha256-CxFiRtAmRD/IBTh6BrqE2LQvWszU/AXfeazVfJ1MWIA="
     }
   },
-  "version": "1.0.1"
+  "version": "1.1.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "de.HS_Aalen.don_6.apk",
+  "apkName": "de.HS_Aalen.don_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-utb4hkeOuOPHUFm23IXo/dzKaujRPXZ9eVTRPQdHcDk="
+      "hash": "sha256-TiYTS6/D6QyMsFz1B0XiwL2HDR8GQHAHyzGI7TAXJIM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-utb4hkeOuOPHUFm23IXo/dzKaujRPXZ9eVTRPQdHcDk="
+      "hash": "sha256-TiYTS6/D6QyMsFz1B0XiwL2HDR8GQHAHyzGI7TAXJIM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-utb4hkeOuOPHUFm23IXo/dzKaujRPXZ9eVTRPQdHcDk="
+      "hash": "sha256-TiYTS6/D6QyMsFz1B0XiwL2HDR8GQHAHyzGI7TAXJIM="
     }
   },
-  "version": "1.12"
+  "version": "1.13"
 }

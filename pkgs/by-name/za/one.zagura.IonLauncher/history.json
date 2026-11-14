@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "y25-v3",
+      "versionCode": 18
+    },
+    {
+      "version": "y25-v2",
+      "versionCode": 17
+    },
+    {
+      "version": "y25-v1",
+      "versionCode": 16
+    }
+  ]
+}

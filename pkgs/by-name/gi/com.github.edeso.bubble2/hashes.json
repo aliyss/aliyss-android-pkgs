@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.edeso.bubble2_39.apk",
+  "apkName": "com.github.edeso.bubble2_40.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Di/pCIz5rsqXW6MSGo66lINYmaNf21V/matGZa63beE="
+      "hash": "sha256-kn0bNQ1ZtUWma9RlU8mM7D3j90qkK76byRwzyQlBVaI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Di/pCIz5rsqXW6MSGo66lINYmaNf21V/matGZa63beE="
+      "hash": "sha256-kn0bNQ1ZtUWma9RlU8mM7D3j90qkK76byRwzyQlBVaI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Di/pCIz5rsqXW6MSGo66lINYmaNf21V/matGZa63beE="
+      "hash": "sha256-kn0bNQ1ZtUWma9RlU8mM7D3j90qkK76byRwzyQlBVaI="
     }
   },
-  "version": "v2.12.0-Fortunately_I've_been_adhering_to_a_pretty_strict__uh__drug_regimen_to_keep_my_mind__you_know__limber-0-gc7b307a"
+  "version": "v2.13.0-Pin_your_diapers_on,Lebowski.Jackie_Treehorn_wants_to_see_you-0-gc8ae1e9"
 }

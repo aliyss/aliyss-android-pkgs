@@ -1,18 +1,18 @@
 {
-  "apkName": "com.w2sv.filenavigator_19.apk",
+  "apkName": "com.w2sv.filenavigator_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JIUb5unlDbe2RsK4CWmBfAcOEcuEGoHtV8SnQn0sVGQ="
+      "hash": "sha256-uEffhmNbhNF103LeJ1o44g2leIKWVWmAIhXp93/bSlM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JIUb5unlDbe2RsK4CWmBfAcOEcuEGoHtV8SnQn0sVGQ="
+      "hash": "sha256-uEffhmNbhNF103LeJ1o44g2leIKWVWmAIhXp93/bSlM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JIUb5unlDbe2RsK4CWmBfAcOEcuEGoHtV8SnQn0sVGQ="
+      "hash": "sha256-uEffhmNbhNF103LeJ1o44g2leIKWVWmAIhXp93/bSlM="
     }
   },
-  "version": "0.3.3"
+  "version": "0.3.6"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.capyreader.app_1212.apk",
+  "apkName": "com.capyreader.app_1217.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-b/Bo78WGWMVo8CiMcaISCuY301IUxDbmDsGbd5+jiDM="
+      "hash": "sha256-lIGxPp3TBIl99h8wl09niuNTQFJXENJMdQ7Lg/dHkqQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-b/Bo78WGWMVo8CiMcaISCuY301IUxDbmDsGbd5+jiDM="
+      "hash": "sha256-lIGxPp3TBIl99h8wl09niuNTQFJXENJMdQ7Lg/dHkqQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-b/Bo78WGWMVo8CiMcaISCuY301IUxDbmDsGbd5+jiDM="
+      "hash": "sha256-lIGxPp3TBIl99h8wl09niuNTQFJXENJMdQ7Lg/dHkqQ="
     }
   },
-  "version": "2026.07.1212"
+  "version": "2026.11.1217"
 }

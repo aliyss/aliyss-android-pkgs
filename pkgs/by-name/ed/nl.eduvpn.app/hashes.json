@@ -1,18 +1,18 @@
 {
-  "apkName": "nl.eduvpn.app_35.apk",
+  "apkName": "nl.eduvpn.app_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WoIQctJzm08NbCX0jtax3IKSx/Nz6kptwY+UhntIYCA="
+      "hash": "sha256-zIHj5KVlVqbjFo1/xrqSCXyMuCRi4G+LYJEiXw/HL+o="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WoIQctJzm08NbCX0jtax3IKSx/Nz6kptwY+UhntIYCA="
+      "hash": "sha256-zIHj5KVlVqbjFo1/xrqSCXyMuCRi4G+LYJEiXw/HL+o="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WoIQctJzm08NbCX0jtax3IKSx/Nz6kptwY+UhntIYCA="
+      "hash": "sha256-zIHj5KVlVqbjFo1/xrqSCXyMuCRi4G+LYJEiXw/HL+o="
     }
   },
-  "version": "3.5.2"
+  "version": "3.5.3"
 }

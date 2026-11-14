@@ -1,18 +1,18 @@
 {
-  "apkName": "com.chmouel.noisetimer_2.apk",
+  "apkName": "com.chmouel.noisetimer_3.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FNwtzO7yxTIi/V9F58QBGxBl7sU8TADQoIUbfwwIyuo="
+      "hash": "sha256-FRg7CDawXCJmEHWSUOzUxXjAiEur3J9B2QTWO23E338="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FNwtzO7yxTIi/V9F58QBGxBl7sU8TADQoIUbfwwIyuo="
+      "hash": "sha256-FRg7CDawXCJmEHWSUOzUxXjAiEur3J9B2QTWO23E338="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FNwtzO7yxTIi/V9F58QBGxBl7sU8TADQoIUbfwwIyuo="
+      "hash": "sha256-FRg7CDawXCJmEHWSUOzUxXjAiEur3J9B2QTWO23E338="
     }
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2.3.1:Cassini",
+      "versionCode": 1791
+    },
+    {
+      "version": "2.3.0:Cassini",
+      "versionCode": 1787
+    },
+    {
+      "version": "2.2.1:Buran",
+      "versionCode": 1771
+    }
+  ]
+}

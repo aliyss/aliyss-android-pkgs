@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.landwarderer.futon_90800.apk",
+  "apkName": "io.github.landwarderer.futon_90900.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1uUnbJETwtjOKJ4cqJNmSAzLNPOnvMRPmWVgdqDQ974="
+      "hash": "sha256-tk35LxGhFNbG8kG/dPW5Ji4N5f2be6GC84IbkZKt8rU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1uUnbJETwtjOKJ4cqJNmSAzLNPOnvMRPmWVgdqDQ974="
+      "hash": "sha256-tk35LxGhFNbG8kG/dPW5Ji4N5f2be6GC84IbkZKt8rU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1uUnbJETwtjOKJ4cqJNmSAzLNPOnvMRPmWVgdqDQ974="
+      "hash": "sha256-tk35LxGhFNbG8kG/dPW5Ji4N5f2be6GC84IbkZKt8rU="
     }
   },
-  "version": "9.8"
+  "version": "9.9"
 }

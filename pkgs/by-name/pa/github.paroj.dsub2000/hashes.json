@@ -1,18 +1,18 @@
 {
-  "apkName": "github.paroj.dsub2000_217.apk",
+  "apkName": "github.paroj.dsub2000_221.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-j1tMybBaf6m5x98p7e/tvzDTM/o2OjeqxVIb50zKnDs="
+      "hash": "sha256-0UAdXRki+iqxrj0ynPNr/c79ZAbfKJ/+1ecZgGerm18="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-j1tMybBaf6m5x98p7e/tvzDTM/o2OjeqxVIb50zKnDs="
+      "hash": "sha256-0UAdXRki+iqxrj0ynPNr/c79ZAbfKJ/+1ecZgGerm18="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-j1tMybBaf6m5x98p7e/tvzDTM/o2OjeqxVIb50zKnDs="
+      "hash": "sha256-0UAdXRki+iqxrj0ynPNr/c79ZAbfKJ/+1ecZgGerm18="
     }
   },
-  "version": "5.7.4"
+  "version": "5.8.0"
 }

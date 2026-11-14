@@ -1,18 +1,18 @@
 {
-  "apkName": "me.mudkip.moememos_49.apk",
+  "apkName": "me.mudkip.moememos_52.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-UEPxTSfEzCg8sVB6I6hPJR4VmrjTk32phC8gYL1/6Po="
+      "hash": "sha256-8dKLE3AEieP1kvmopMgsKwsTVqX/hAUvZJfBte1Jzqo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-UEPxTSfEzCg8sVB6I6hPJR4VmrjTk32phC8gYL1/6Po="
+      "hash": "sha256-8dKLE3AEieP1kvmopMgsKwsTVqX/hAUvZJfBte1Jzqo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-UEPxTSfEzCg8sVB6I6hPJR4VmrjTk32phC8gYL1/6Po="
+      "hash": "sha256-8dKLE3AEieP1kvmopMgsKwsTVqX/hAUvZJfBte1Jzqo="
     }
   },
-  "version": "2.0.4"
+  "version": "2.1.0"
 }

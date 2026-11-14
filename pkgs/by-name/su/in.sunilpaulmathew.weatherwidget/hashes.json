@@ -1,18 +1,18 @@
 {
-  "apkName": "in.sunilpaulmathew.weatherwidget_6.apk",
+  "apkName": "in.sunilpaulmathew.weatherwidget_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-uU+WILzBYllhlNs123NVHZZz2mEZ1MK1rLdTlMxrvro="
+      "hash": "sha256-ozSUe4ya6X3WcrKvXZoBjzm6Q8ArkEd3TziMSCo4aB0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uU+WILzBYllhlNs123NVHZZz2mEZ1MK1rLdTlMxrvro="
+      "hash": "sha256-ozSUe4ya6X3WcrKvXZoBjzm6Q8ArkEd3TziMSCo4aB0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uU+WILzBYllhlNs123NVHZZz2mEZ1MK1rLdTlMxrvro="
+      "hash": "sha256-ozSUe4ya6X3WcrKvXZoBjzm6Q8ArkEd3TziMSCo4aB0="
     }
   },
-  "version": "v0.6"
+  "version": "v0.7"
 }

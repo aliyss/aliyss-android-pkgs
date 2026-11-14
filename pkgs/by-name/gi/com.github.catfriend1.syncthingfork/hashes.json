@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.catfriend1.syncthingfork_2010300.apk",
+  "apkName": "com.github.catfriend1.syncthingfork_2010700.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-c58Jp5BNtFUhVaB2CJT3O2WpdbZi8ajZOmKPraikaWM="
+      "hash": "sha256-GtVoo3O9NsSBAHluX6w+vQoOBmP/2rHcK6rDVasUAGM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-c58Jp5BNtFUhVaB2CJT3O2WpdbZi8ajZOmKPraikaWM="
+      "hash": "sha256-GtVoo3O9NsSBAHluX6w+vQoOBmP/2rHcK6rDVasUAGM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-c58Jp5BNtFUhVaB2CJT3O2WpdbZi8ajZOmKPraikaWM="
+      "hash": "sha256-GtVoo3O9NsSBAHluX6w+vQoOBmP/2rHcK6rDVasUAGM="
     }
   },
-  "version": "2.1.3.0"
+  "version": "2.1.7.0"
 }

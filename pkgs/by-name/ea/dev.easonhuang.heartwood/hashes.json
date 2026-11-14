@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.easonhuang.heartwood_1.apk",
+  "apkName": "dev.easonhuang.heartwood_2.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-50HzfW+6YrI/tErNnlsXn6nx4R5dQKRajhNGkxabkr4="
+      "hash": "sha256-l0Skuir3imkvkswUBHct5bexB+FxLzAuSAiSJFhST7M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-50HzfW+6YrI/tErNnlsXn6nx4R5dQKRajhNGkxabkr4="
+      "hash": "sha256-l0Skuir3imkvkswUBHct5bexB+FxLzAuSAiSJFhST7M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-50HzfW+6YrI/tErNnlsXn6nx4R5dQKRajhNGkxabkr4="
+      "hash": "sha256-l0Skuir3imkvkswUBHct5bexB+FxLzAuSAiSJFhST7M="
     }
   },
-  "version": "1.0.0"
+  "version": "1.1.0"
 }

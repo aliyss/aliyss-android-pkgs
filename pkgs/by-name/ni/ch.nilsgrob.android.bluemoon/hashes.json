@@ -1,18 +1,18 @@
 {
-  "apkName": "ch.nilsgrob.android.bluemoon_9.apk",
+  "apkName": "ch.nilsgrob.android.bluemoon_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KPUm8eLiaGYuGFnDpfQMYthB942+dyCsPv/YD2tDZEw="
+      "hash": "sha256-xp0cMj+ifbLvCNdlRjHyD/M8XsWzZaZng3v5pGSWaOM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KPUm8eLiaGYuGFnDpfQMYthB942+dyCsPv/YD2tDZEw="
+      "hash": "sha256-xp0cMj+ifbLvCNdlRjHyD/M8XsWzZaZng3v5pGSWaOM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KPUm8eLiaGYuGFnDpfQMYthB942+dyCsPv/YD2tDZEw="
+      "hash": "sha256-xp0cMj+ifbLvCNdlRjHyD/M8XsWzZaZng3v5pGSWaOM="
     }
   },
-  "version": "1.2.0"
+  "version": "1.3.0"
 }

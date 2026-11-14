@@ -1,18 +1,18 @@
 {
-  "apkName": "org.totschnig.myexpenses_871.apk",
+  "apkName": "org.totschnig.myexpenses_889.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vi5QWrUGBPoHPPH08HKNRTWDu7dHaxyVQABURsFh5VA="
+      "hash": "sha256-NJ9yG4CkZ/KT/KSH5sIQ4usK6MwD8KGcKiMDNck01Hs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vi5QWrUGBPoHPPH08HKNRTWDu7dHaxyVQABURsFh5VA="
+      "hash": "sha256-NJ9yG4CkZ/KT/KSH5sIQ4usK6MwD8KGcKiMDNck01Hs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vi5QWrUGBPoHPPH08HKNRTWDu7dHaxyVQABURsFh5VA="
+      "hash": "sha256-NJ9yG4CkZ/KT/KSH5sIQ4usK6MwD8KGcKiMDNck01Hs="
     }
   },
-  "version": "4.1.0.2"
+  "version": "4.1.3.1"
 }

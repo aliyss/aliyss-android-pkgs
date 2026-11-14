@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.neamar.kiss_224.apk",
+  "apkName": "fr.neamar.kiss_225.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2mqwsSGa07XuVzaYUj+xXWCpGAg+CEP5SgPBsS4QmMk="
+      "hash": "sha256-q/qE1jY4k/nDlLivrnQ3SuGpNQZs05yp90egNLaVUdw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2mqwsSGa07XuVzaYUj+xXWCpGAg+CEP5SgPBsS4QmMk="
+      "hash": "sha256-q/qE1jY4k/nDlLivrnQ3SuGpNQZs05yp90egNLaVUdw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2mqwsSGa07XuVzaYUj+xXWCpGAg+CEP5SgPBsS4QmMk="
+      "hash": "sha256-q/qE1jY4k/nDlLivrnQ3SuGpNQZs05yp90egNLaVUdw="
     }
   },
-  "version": "3.26.0"
+  "version": "3.27.0"
 }

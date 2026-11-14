@@ -1,18 +1,18 @@
 {
-  "apkName": "org.staacks.alpharemote_10300.apk",
+  "apkName": "org.staacks.alpharemote_10400.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2wY1cceYL0GjlkrRKUvTpEBVHXg5KWOMYsukBpmQM7s="
+      "hash": "sha256-oH4yC+Jfh9BY79IU3MMsTv55Tw60GqcPK7LeJo1dPkQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2wY1cceYL0GjlkrRKUvTpEBVHXg5KWOMYsukBpmQM7s="
+      "hash": "sha256-oH4yC+Jfh9BY79IU3MMsTv55Tw60GqcPK7LeJo1dPkQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2wY1cceYL0GjlkrRKUvTpEBVHXg5KWOMYsukBpmQM7s="
+      "hash": "sha256-oH4yC+Jfh9BY79IU3MMsTv55Tw60GqcPK7LeJo1dPkQ="
     }
   },
-  "version": "1.3"
+  "version": "1.4"
 }

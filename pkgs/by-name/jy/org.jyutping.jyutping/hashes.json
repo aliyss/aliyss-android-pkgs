@@ -1,18 +1,18 @@
 {
-  "apkName": "org.jyutping.jyutping_67.apk",
+  "apkName": "org.jyutping.jyutping_72.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bPlYOckHyEt0RxzkjKSa7vtM3VbxuJfN2KQDU8RMRiw="
+      "hash": "sha256-viWNph//giTj9YRRpFmHtgkiuH2AO/CEy05PaU4ztRU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bPlYOckHyEt0RxzkjKSa7vtM3VbxuJfN2KQDU8RMRiw="
+      "hash": "sha256-viWNph//giTj9YRRpFmHtgkiuH2AO/CEy05PaU4ztRU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bPlYOckHyEt0RxzkjKSa7vtM3VbxuJfN2KQDU8RMRiw="
+      "hash": "sha256-viWNph//giTj9YRRpFmHtgkiuH2AO/CEy05PaU4ztRU="
     }
   },
-  "version": "0.63.1"
+  "version": "0.67.0"
 }

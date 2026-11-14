@@ -1,18 +1,18 @@
 {
-  "apkName": "net.i2p.android.router_4745304.apk",
+  "apkName": "net.i2p.android.router_4745310.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-IsY3kYF1yk1P5013OiyKG3k83V15W41y/YONKha0rOs="
+      "hash": "sha256-JZIaq3oF2r+eY6OaYPZgoGQrof7lWcS0Gxl7oCRH1VE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IsY3kYF1yk1P5013OiyKG3k83V15W41y/YONKha0rOs="
+      "hash": "sha256-JZIaq3oF2r+eY6OaYPZgoGQrof7lWcS0Gxl7oCRH1VE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IsY3kYF1yk1P5013OiyKG3k83V15W41y/YONKha0rOs="
+      "hash": "sha256-JZIaq3oF2r+eY6OaYPZgoGQrof7lWcS0Gxl7oCRH1VE="
     }
   },
-  "version": "2.11.0"
+  "version": "2.14.1"
 }

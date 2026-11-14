@@ -1,18 +1,18 @@
 {
-  "apkName": "es.wolfi.app.passman_20.apk",
+  "apkName": "es.wolfi.app.passman_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NVA+TyarBzyMhkcFRG3Zwb6qF4EpUksfn7AWnYh3FMM="
+      "hash": "sha256-InQvliigWVHqtx605wRA53/wDIlZravwElL2hdVIMQw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NVA+TyarBzyMhkcFRG3Zwb6qF4EpUksfn7AWnYh3FMM="
+      "hash": "sha256-InQvliigWVHqtx605wRA53/wDIlZravwElL2hdVIMQw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NVA+TyarBzyMhkcFRG3Zwb6qF4EpUksfn7AWnYh3FMM="
+      "hash": "sha256-InQvliigWVHqtx605wRA53/wDIlZravwElL2hdVIMQw="
     }
   },
-  "version": "1.6.0"
+  "version": "1.7.0"
 }

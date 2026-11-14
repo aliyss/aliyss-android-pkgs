@@ -1,18 +1,18 @@
 {
-  "apkName": "com.socks5_302.apk",
+  "apkName": "com.socks5_303.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OpW4mDZbNNWIot8/B+SuMFaLiDSLef770gA3gpXj+3o="
+      "hash": "sha256-TqDGCJvXSCFeELFglCln+kS5Jd7dw814/DeA/XEj0eA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OpW4mDZbNNWIot8/B+SuMFaLiDSLef770gA3gpXj+3o="
+      "hash": "sha256-TqDGCJvXSCFeELFglCln+kS5Jd7dw814/DeA/XEj0eA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OpW4mDZbNNWIot8/B+SuMFaLiDSLef770gA3gpXj+3o="
+      "hash": "sha256-TqDGCJvXSCFeELFglCln+kS5Jd7dw814/DeA/XEj0eA="
     }
   },
-  "version": "3.0.2"
+  "version": "3.0.3"
 }

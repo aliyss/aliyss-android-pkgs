@@ -1,18 +1,18 @@
 {
-  "apkName": "com.galagidae.broadboard_5.apk",
+  "apkName": "com.galagidae.broadboard_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VW+4RzhzkKA5ItpXqYyFG/cZ4dqzw+4kRPPaqjBxGsQ="
+      "hash": "sha256-IOtt9mE8ljGyKztYos8ZkqQNb8nF5+3GOI7jtEhOYbk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VW+4RzhzkKA5ItpXqYyFG/cZ4dqzw+4kRPPaqjBxGsQ="
+      "hash": "sha256-IOtt9mE8ljGyKztYos8ZkqQNb8nF5+3GOI7jtEhOYbk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VW+4RzhzkKA5ItpXqYyFG/cZ4dqzw+4kRPPaqjBxGsQ="
+      "hash": "sha256-IOtt9mE8ljGyKztYos8ZkqQNb8nF5+3GOI7jtEhOYbk="
     }
   },
-  "version": "2.0"
+  "version": "2.2"
 }

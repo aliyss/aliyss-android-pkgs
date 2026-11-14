@@ -1,18 +1,18 @@
 {
-  "apkName": "org.gnosco.share2archivetoday_59.apk",
+  "apkName": "org.gnosco.share2archivetoday_61.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-RpL1dsKL641K4qkmf9m8h80Iaws0Ey7IjthA5w9t8Io="
+      "hash": "sha256-j31UxbAlIgxWi5BO5dwgiOWMjfYwDF8KnwmgxgJUtwk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RpL1dsKL641K4qkmf9m8h80Iaws0Ey7IjthA5w9t8Io="
+      "hash": "sha256-j31UxbAlIgxWi5BO5dwgiOWMjfYwDF8KnwmgxgJUtwk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RpL1dsKL641K4qkmf9m8h80Iaws0Ey7IjthA5w9t8Io="
+      "hash": "sha256-j31UxbAlIgxWi5BO5dwgiOWMjfYwDF8KnwmgxgJUtwk="
     }
   },
-  "version": "5.9"
+  "version": "6.1"
 }

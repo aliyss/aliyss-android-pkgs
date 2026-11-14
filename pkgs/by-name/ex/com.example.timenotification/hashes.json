@@ -1,18 +1,18 @@
 {
-  "apkName": "com.example.timenotification_4.apk",
+  "apkName": "com.example.timenotification_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-mJ6oHxZuSkyqlm5Hxg8v65lzVlL5nmKnTUEmqlgu0Po="
+      "hash": "sha256-SyeCKh1/ajp3R7+piFMz0qczI2hy4iBImSd3euYOr+c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mJ6oHxZuSkyqlm5Hxg8v65lzVlL5nmKnTUEmqlgu0Po="
+      "hash": "sha256-SyeCKh1/ajp3R7+piFMz0qczI2hy4iBImSd3euYOr+c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mJ6oHxZuSkyqlm5Hxg8v65lzVlL5nmKnTUEmqlgu0Po="
+      "hash": "sha256-SyeCKh1/ajp3R7+piFMz0qczI2hy4iBImSd3euYOr+c="
     }
   },
-  "version": "1.3"
+  "version": "1.4"
 }

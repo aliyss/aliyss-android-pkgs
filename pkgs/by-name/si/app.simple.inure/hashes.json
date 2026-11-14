@@ -1,18 +1,18 @@
 {
-  "apkName": "app.simple.inure_10720.apk",
+  "apkName": "app.simple.inure_10731.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MRlAwHPsSoNbfJc+AaO+EpVjzT69MAwJbxVwiYWWdz4="
+      "hash": "sha256-lSJT2O0tE/SGW/FEqLbXe9WvpeJ1gNtUu3tVvzvUrWs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MRlAwHPsSoNbfJc+AaO+EpVjzT69MAwJbxVwiYWWdz4="
+      "hash": "sha256-lSJT2O0tE/SGW/FEqLbXe9WvpeJ1gNtUu3tVvzvUrWs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MRlAwHPsSoNbfJc+AaO+EpVjzT69MAwJbxVwiYWWdz4="
+      "hash": "sha256-lSJT2O0tE/SGW/FEqLbXe9WvpeJ1gNtUu3tVvzvUrWs="
     }
   },
-  "version": "build107.2.0"
+  "version": "build107.3.1"
 }

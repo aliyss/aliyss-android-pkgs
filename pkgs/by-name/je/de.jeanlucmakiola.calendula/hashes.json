@@ -1,18 +1,18 @@
 {
-  "apkName": "de.jeanlucmakiola.calendula_21901.apk",
+  "apkName": "de.jeanlucmakiola.calendula_2230199.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zrC1AIkRFY3PQ5o8lno6SkmF1bKQC/hokWwJAK65Fyg="
+      "hash": "sha256-B5kr0GypGtTOhcvmQ0UAoN5U94RqQyFtxWJ1I8X0jQI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zrC1AIkRFY3PQ5o8lno6SkmF1bKQC/hokWwJAK65Fyg="
+      "hash": "sha256-B5kr0GypGtTOhcvmQ0UAoN5U94RqQyFtxWJ1I8X0jQI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zrC1AIkRFY3PQ5o8lno6SkmF1bKQC/hokWwJAK65Fyg="
+      "hash": "sha256-B5kr0GypGtTOhcvmQ0UAoN5U94RqQyFtxWJ1I8X0jQI="
     }
   },
-  "version": "2.19.1"
+  "version": "2.23.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.limelight_314.apk",
+  "apkName": "com.limelight_315.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rOCyiw1PTFsqDmg75soh696EdoUcQNSJ0FkTIvxsSpk="
+      "hash": "sha256-+LMxL5qwnfDYglZP/ISqOfZfS0Bq5z9/WV496+KWP0g="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rOCyiw1PTFsqDmg75soh696EdoUcQNSJ0FkTIvxsSpk="
+      "hash": "sha256-+LMxL5qwnfDYglZP/ISqOfZfS0Bq5z9/WV496+KWP0g="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rOCyiw1PTFsqDmg75soh696EdoUcQNSJ0FkTIvxsSpk="
+      "hash": "sha256-+LMxL5qwnfDYglZP/ISqOfZfS0Bq5z9/WV496+KWP0g="
     }
   },
-  "version": "12.1"
+  "version": "12.2"
 }

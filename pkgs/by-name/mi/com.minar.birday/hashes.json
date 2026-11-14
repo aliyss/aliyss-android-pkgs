@@ -1,18 +1,18 @@
 {
-  "apkName": "com.minar.birday_37.apk",
+  "apkName": "com.minar.birday_39.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-r296mdeQIi7GF/k/IkIP2wRdVujfFSv0I7eqO2C1SSA="
+      "hash": "sha256-feYoOZx+wNZQ5yfc5IGcGMnXQOOGAyN85l5r3f3R3F8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-r296mdeQIi7GF/k/IkIP2wRdVujfFSv0I7eqO2C1SSA="
+      "hash": "sha256-feYoOZx+wNZQ5yfc5IGcGMnXQOOGAyN85l5r3f3R3F8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-r296mdeQIi7GF/k/IkIP2wRdVujfFSv0I7eqO2C1SSA="
+      "hash": "sha256-feYoOZx+wNZQ5yfc5IGcGMnXQOOGAyN85l5r3f3R3F8="
     }
   },
-  "version": "4.7.2"
+  "version": "5.0.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "la.daube.photochiotte_75.apk",
+  "apkName": "la.daube.photochiotte_76.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-xoodHM5Wtd/mpmKg+ve7g8o4uakIfafeZpNw44DmFv4="
+      "hash": "sha256-yIltD1pMFCTGdw7V5dDvYBvElZqyIbtIZPwaFcA88/8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xoodHM5Wtd/mpmKg+ve7g8o4uakIfafeZpNw44DmFv4="
+      "hash": "sha256-yIltD1pMFCTGdw7V5dDvYBvElZqyIbtIZPwaFcA88/8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xoodHM5Wtd/mpmKg+ve7g8o4uakIfafeZpNw44DmFv4="
+      "hash": "sha256-yIltD1pMFCTGdw7V5dDvYBvElZqyIbtIZPwaFcA88/8="
     }
   },
-  "version": "v1.74"
+  "version": "v1.75"
 }

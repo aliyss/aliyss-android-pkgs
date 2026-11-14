@@ -1,18 +1,18 @@
 {
-  "apkName": "com.tailscale.ipn_297646690.apk",
+  "apkName": "com.tailscale.ipn_299058600.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6j71mGF1YINOLu0Gdj3zjiE/59rpkW4oyRd7WPmD4cw="
+      "hash": "sha256-7W5/q4dwbgPidtqoAeNUqc0d0HbFP+T1Km0nIYfIslA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6j71mGF1YINOLu0Gdj3zjiE/59rpkW4oyRd7WPmD4cw="
+      "hash": "sha256-7W5/q4dwbgPidtqoAeNUqc0d0HbFP+T1Km0nIYfIslA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6j71mGF1YINOLu0Gdj3zjiE/59rpkW4oyRd7WPmD4cw="
+      "hash": "sha256-7W5/q4dwbgPidtqoAeNUqc0d0HbFP+T1Km0nIYfIslA="
     }
   },
-  "version": "1.102.2-t6cac91817-g8c99ed49d"
+  "version": "1.104.6-t3b273a64c-g08d3d325a"
 }

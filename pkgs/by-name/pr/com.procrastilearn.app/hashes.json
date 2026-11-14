@@ -1,18 +1,18 @@
 {
-  "apkName": "com.procrastilearn.app_12.apk",
+  "apkName": "com.procrastilearn.app_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zd1KNHPa2rKXK5TD6FmvNpM5zdD2my1FWf1iQcX7zlk="
+      "hash": "sha256-mHj1idtzeLW/tv318Nis/ccPLVkAh5wyAvSUz1Xteg0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zd1KNHPa2rKXK5TD6FmvNpM5zdD2my1FWf1iQcX7zlk="
+      "hash": "sha256-mHj1idtzeLW/tv318Nis/ccPLVkAh5wyAvSUz1Xteg0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zd1KNHPa2rKXK5TD6FmvNpM5zdD2my1FWf1iQcX7zlk="
+      "hash": "sha256-mHj1idtzeLW/tv318Nis/ccPLVkAh5wyAvSUz1Xteg0="
     }
   },
-  "version": "1.3.4"
+  "version": "1.4.7"
 }

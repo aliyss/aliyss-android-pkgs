@@ -1,18 +1,18 @@
 {
-  "apkName": "de.chadenas.cpudefense_62.apk",
+  "apkName": "de.chadenas.cpudefense_65.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zxRJiPuHtwETc7jifF4eSxjNqocqRRB3IiibpiJH1Zk="
+      "hash": "sha256-Bn6ptRdm1jgJkh7s9vcXnQB0GM00Sz5OUzMaBxs2u8g="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zxRJiPuHtwETc7jifF4eSxjNqocqRRB3IiibpiJH1Zk="
+      "hash": "sha256-Bn6ptRdm1jgJkh7s9vcXnQB0GM00Sz5OUzMaBxs2u8g="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zxRJiPuHtwETc7jifF4eSxjNqocqRRB3IiibpiJH1Zk="
+      "hash": "sha256-Bn6ptRdm1jgJkh7s9vcXnQB0GM00Sz5OUzMaBxs2u8g="
     }
   },
-  "version": "1.62"
+  "version": "1.65"
 }

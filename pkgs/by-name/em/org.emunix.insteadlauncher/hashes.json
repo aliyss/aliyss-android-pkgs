@@ -1,18 +1,18 @@
 {
-  "apkName": "org.emunix.insteadlauncher_90200.apk",
+  "apkName": "org.emunix.insteadlauncher_100000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-h4voNx6fuUSBoLwxz+dHKMayM2SM/FyeqadlxpUbE5M="
+      "hash": "sha256-k7k9iZkQSYgt5yjClf9c4Uqk1lgPeHMWnmulRnkyq1A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h4voNx6fuUSBoLwxz+dHKMayM2SM/FyeqadlxpUbE5M="
+      "hash": "sha256-k7k9iZkQSYgt5yjClf9c4Uqk1lgPeHMWnmulRnkyq1A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h4voNx6fuUSBoLwxz+dHKMayM2SM/FyeqadlxpUbE5M="
+      "hash": "sha256-k7k9iZkQSYgt5yjClf9c4Uqk1lgPeHMWnmulRnkyq1A="
     }
   },
-  "version": "0.9.2"
+  "version": "0.10"
 }

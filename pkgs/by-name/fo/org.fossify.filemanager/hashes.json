@@ -1,18 +1,18 @@
 {
-  "apkName": "org.fossify.filemanager_13.apk",
+  "apkName": "org.fossify.filemanager_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-npfS+vVfsnAjhsPcUeOKawc3gQFrElcB06tmhBmnAAg="
+      "hash": "sha256-bkZWuJR5ZqKFNoFpG7AAXoAu6JmD+xQewPcYZJfc1fQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-npfS+vVfsnAjhsPcUeOKawc3gQFrElcB06tmhBmnAAg="
+      "hash": "sha256-bkZWuJR5ZqKFNoFpG7AAXoAu6JmD+xQewPcYZJfc1fQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-npfS+vVfsnAjhsPcUeOKawc3gQFrElcB06tmhBmnAAg="
+      "hash": "sha256-bkZWuJR5ZqKFNoFpG7AAXoAu6JmD+xQewPcYZJfc1fQ="
     }
   },
-  "version": "1.6.1"
+  "version": "1.6.4"
 }

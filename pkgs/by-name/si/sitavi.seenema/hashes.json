@@ -1,18 +1,18 @@
 {
-  "apkName": "sitavi.seenema_4.apk",
+  "apkName": "sitavi.seenema_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yQXmzNcoE8XTb01KrIJnnA4S0LjpSDssGXJnjOx1HG0="
+      "hash": "sha256-IMHjf/+OT4W0Q3s+HaINoKbBK5/VKQtlkUKIYyMsi0A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yQXmzNcoE8XTb01KrIJnnA4S0LjpSDssGXJnjOx1HG0="
+      "hash": "sha256-IMHjf/+OT4W0Q3s+HaINoKbBK5/VKQtlkUKIYyMsi0A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yQXmzNcoE8XTb01KrIJnnA4S0LjpSDssGXJnjOx1HG0="
+      "hash": "sha256-IMHjf/+OT4W0Q3s+HaINoKbBK5/VKQtlkUKIYyMsi0A="
     }
   },
-  "version": "1.2.1"
+  "version": "1.2.2"
 }

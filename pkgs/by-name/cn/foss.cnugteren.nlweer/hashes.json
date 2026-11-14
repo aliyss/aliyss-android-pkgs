@@ -1,18 +1,18 @@
 {
-  "apkName": "foss.cnugteren.nlweer_18.apk",
+  "apkName": "foss.cnugteren.nlweer_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-euHZKWfZgurzxhRcgkKOHIOzuYUTlKIYTR5lxCB4cVU="
+      "hash": "sha256-GEtcp2Rnzw47v1iUUYPhSstP30CIu7SHupMWVcTwuGI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-euHZKWfZgurzxhRcgkKOHIOzuYUTlKIYTR5lxCB4cVU="
+      "hash": "sha256-GEtcp2Rnzw47v1iUUYPhSstP30CIu7SHupMWVcTwuGI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-euHZKWfZgurzxhRcgkKOHIOzuYUTlKIYTR5lxCB4cVU="
+      "hash": "sha256-GEtcp2Rnzw47v1iUUYPhSstP30CIu7SHupMWVcTwuGI="
     }
   },
-  "version": "1.11.2"
+  "version": "1.12.0"
 }

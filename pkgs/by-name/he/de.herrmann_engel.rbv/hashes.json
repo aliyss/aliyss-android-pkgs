@@ -1,18 +1,18 @@
 {
-  "apkName": "de.herrmann_engel.rbv_84.apk",
+  "apkName": "de.herrmann_engel.rbv_87.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TOmmvRta4TZ9LLB3m9OykcZqQZZt9HLj8YbzhUYND8Q="
+      "hash": "sha256-7n7Kcqvh0HGmHj69UxG5RDOjGBncv1BuPp5lMPbjNiE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TOmmvRta4TZ9LLB3m9OykcZqQZZt9HLj8YbzhUYND8Q="
+      "hash": "sha256-7n7Kcqvh0HGmHj69UxG5RDOjGBncv1BuPp5lMPbjNiE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TOmmvRta4TZ9LLB3m9OykcZqQZZt9HLj8YbzhUYND8Q="
+      "hash": "sha256-7n7Kcqvh0HGmHj69UxG5RDOjGBncv1BuPp5lMPbjNiE="
     }
   },
-  "version": "3.4.10"
+  "version": "4.1.0"
 }

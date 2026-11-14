@@ -1,18 +1,18 @@
 {
-  "apkName": "org.pacien.tincapp_44.apk",
+  "apkName": "org.pacien.tincapp_47.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-V3br+UXSxHt+u143TZ0R8FbAbkNXu0t2Ba4tL8wogkk="
+      "hash": "sha256-vitmiE+sWt71Bp8rwlv1OZt4lwYBXfWDrlKYu8ykPVw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-V3br+UXSxHt+u143TZ0R8FbAbkNXu0t2Ba4tL8wogkk="
+      "hash": "sha256-vitmiE+sWt71Bp8rwlv1OZt4lwYBXfWDrlKYu8ykPVw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-V3br+UXSxHt+u143TZ0R8FbAbkNXu0t2Ba4tL8wogkk="
+      "hash": "sha256-vitmiE+sWt71Bp8rwlv1OZt4lwYBXfWDrlKYu8ykPVw="
     }
   },
-  "version": "0.44"
+  "version": "0.47"
 }

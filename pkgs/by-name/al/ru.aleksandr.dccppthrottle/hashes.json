@@ -1,18 +1,18 @@
 {
-  "apkName": "ru.aleksandr.dccppthrottle_2022.apk",
+  "apkName": "ru.aleksandr.dccppthrottle_2065.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6bVXnw/oLTfklzEceIdEnTLKX4oFQJCP2b5sKZ89aYs="
+      "hash": "sha256-pngauwmlHm7mC0rNMN/x0Qsr1zwg2AmElSOwdmQwM2M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6bVXnw/oLTfklzEceIdEnTLKX4oFQJCP2b5sKZ89aYs="
+      "hash": "sha256-pngauwmlHm7mC0rNMN/x0Qsr1zwg2AmElSOwdmQwM2M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6bVXnw/oLTfklzEceIdEnTLKX4oFQJCP2b5sKZ89aYs="
+      "hash": "sha256-pngauwmlHm7mC0rNMN/x0Qsr1zwg2AmElSOwdmQwM2M="
     }
   },
-  "version": "1.4"
+  "version": "1.5"
 }

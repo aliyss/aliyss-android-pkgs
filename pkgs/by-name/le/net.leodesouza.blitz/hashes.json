@@ -1,18 +1,18 @@
 {
-  "apkName": "net.leodesouza.blitz_208.apk",
+  "apkName": "net.leodesouza.blitz_209.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Rp6QZtxUxzni5TE+geAM98X/wk9KC3Z/z223dCWevMQ="
+      "hash": "sha256-HE+EZntHVFrB+pI9p2258qWX7iSVXvUUNecOnOr02Qg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Rp6QZtxUxzni5TE+geAM98X/wk9KC3Z/z223dCWevMQ="
+      "hash": "sha256-HE+EZntHVFrB+pI9p2258qWX7iSVXvUUNecOnOr02Qg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Rp6QZtxUxzni5TE+geAM98X/wk9KC3Z/z223dCWevMQ="
+      "hash": "sha256-HE+EZntHVFrB+pI9p2258qWX7iSVXvUUNecOnOr02Qg="
     }
   },
-  "version": "2.0.8"
+  "version": "2.0.9"
 }

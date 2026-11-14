@@ -1,18 +1,18 @@
 {
-  "apkName": "cn.morfans.chenjunyu19.mediavolume_20.apk",
+  "apkName": "cn.morfans.chenjunyu19.mediavolume_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9xV0d1FRglun7nnYJ7gqTKx4VkBfh1ZP/J+qvzzljeo="
+      "hash": "sha256-F+161LxAnERR/LCoBA+MP5H8+BI2N2G0s6j/Z76gy8g="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9xV0d1FRglun7nnYJ7gqTKx4VkBfh1ZP/J+qvzzljeo="
+      "hash": "sha256-F+161LxAnERR/LCoBA+MP5H8+BI2N2G0s6j/Z76gy8g="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9xV0d1FRglun7nnYJ7gqTKx4VkBfh1ZP/J+qvzzljeo="
+      "hash": "sha256-F+161LxAnERR/LCoBA+MP5H8+BI2N2G0s6j/Z76gy8g="
     }
   },
-  "version": "1.7.2"
+  "version": "1.7.4"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "net.canvoki.vokibot_70000.apk",
+  "apkName": "net.canvoki.vokibot_80000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-YjmJvc8ux/VxwTLSxb88WgUsLBDUg7f+xVNknoAJBfA="
+      "hash": "sha256-uvJnB4txPP2fHZhcLgolepv7qscA3yGR180FvvK8T5c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YjmJvc8ux/VxwTLSxb88WgUsLBDUg7f+xVNknoAJBfA="
+      "hash": "sha256-uvJnB4txPP2fHZhcLgolepv7qscA3yGR180FvvK8T5c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YjmJvc8ux/VxwTLSxb88WgUsLBDUg7f+xVNknoAJBfA="
+      "hash": "sha256-uvJnB4txPP2fHZhcLgolepv7qscA3yGR180FvvK8T5c="
     }
   },
-  "version": "0.7.0"
+  "version": "0.8.0"
 }

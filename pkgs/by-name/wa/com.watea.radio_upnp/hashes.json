@@ -1,18 +1,18 @@
 {
-  "apkName": "com.watea.radio_upnp_302016.apk",
+  "apkName": "com.watea.radio_upnp_302028.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-PHgPR4qFLchvusSCGe1pwoqJgndin6fBRGjgmaAHmtc="
+      "hash": "sha256-xublu5qGZUxtwBPX8VDgrTjMjNlZF5Ei/ECgzx7mtmE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PHgPR4qFLchvusSCGe1pwoqJgndin6fBRGjgmaAHmtc="
+      "hash": "sha256-xublu5qGZUxtwBPX8VDgrTjMjNlZF5Ei/ECgzx7mtmE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PHgPR4qFLchvusSCGe1pwoqJgndin6fBRGjgmaAHmtc="
+      "hash": "sha256-xublu5qGZUxtwBPX8VDgrTjMjNlZF5Ei/ECgzx7mtmE="
     }
   },
-  "version": "3.02.016"
+  "version": "3.02.028"
 }

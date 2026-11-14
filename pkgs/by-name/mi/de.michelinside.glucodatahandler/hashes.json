@@ -1,18 +1,18 @@
 {
-  "apkName": "de.michelinside.glucodatahandler_1196.apk",
+  "apkName": "de.michelinside.glucodatahandler_1211.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ldw5aG5WsQNJQGmrIDHCfSoIpF9VZHQZd+pVQSo6UIY="
+      "hash": "sha256-TdhegSdFfnhJh6+2ykFf1g1Hqoz7hxr9L2wXJdA8l6s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ldw5aG5WsQNJQGmrIDHCfSoIpF9VZHQZd+pVQSo6UIY="
+      "hash": "sha256-TdhegSdFfnhJh6+2ykFf1g1Hqoz7hxr9L2wXJdA8l6s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ldw5aG5WsQNJQGmrIDHCfSoIpF9VZHQZd+pVQSo6UIY="
+      "hash": "sha256-TdhegSdFfnhJh6+2ykFf1g1Hqoz7hxr9L2wXJdA8l6s="
     }
   },
-  "version": "2.4.2"
+  "version": "2.5"
 }

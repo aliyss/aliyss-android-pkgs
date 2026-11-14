@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.sasikanth.rss.reader_2005.apk",
+  "apkName": "dev.sasikanth.rss.reader_2010.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2vDEXX4f7cZ9AxSz9gklRcsOF3wkntGnn9dbkRPmIVY="
+      "hash": "sha256-ut2Z4ZZErbbQHOPdmK/YaUAgwIDFhU4oZ1TZ/BaQD4Q="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2vDEXX4f7cZ9AxSz9gklRcsOF3wkntGnn9dbkRPmIVY="
+      "hash": "sha256-ut2Z4ZZErbbQHOPdmK/YaUAgwIDFhU4oZ1TZ/BaQD4Q="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2vDEXX4f7cZ9AxSz9gklRcsOF3wkntGnn9dbkRPmIVY="
+      "hash": "sha256-ut2Z4ZZErbbQHOPdmK/YaUAgwIDFhU4oZ1TZ/BaQD4Q="
     }
   },
-  "version": "v3.5.0-FOSS"
+  "version": "v3.10.0-FOSS"
 }

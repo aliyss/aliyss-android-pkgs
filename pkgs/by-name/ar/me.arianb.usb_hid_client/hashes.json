@@ -1,18 +1,18 @@
 {
-  "apkName": "me.arianb.usb_hid_client_301.apk",
+  "apkName": "me.arianb.usb_hid_client_310.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lm3R7p4rg+X4hUwFIPeUeIrfRhqRi/1OVF/9eUGJRqw="
+      "hash": "sha256-cLQLBugOAYREKwLq7b6bnwzZ8VW6EHvqr3C7Y5/7lU0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lm3R7p4rg+X4hUwFIPeUeIrfRhqRi/1OVF/9eUGJRqw="
+      "hash": "sha256-cLQLBugOAYREKwLq7b6bnwzZ8VW6EHvqr3C7Y5/7lU0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lm3R7p4rg+X4hUwFIPeUeIrfRhqRi/1OVF/9eUGJRqw="
+      "hash": "sha256-cLQLBugOAYREKwLq7b6bnwzZ8VW6EHvqr3C7Y5/7lU0="
     }
   },
-  "version": "v3.0.1"
+  "version": "v3.1.0"
 }

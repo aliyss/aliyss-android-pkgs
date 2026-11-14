@@ -1,18 +1,18 @@
 {
-  "apkName": "com.guillaumepayet.remotenumpad_51.apk",
+  "apkName": "com.guillaumepayet.remotenumpad_52.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SdIYHEtqYWrsv3w6uwJ8zLTUChrYH8VOYLn9XE5qVq4="
+      "hash": "sha256-QI3VI7xUvneN+9LnxIKnUEAZEg4CR5KTH3pfbyO8oGM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SdIYHEtqYWrsv3w6uwJ8zLTUChrYH8VOYLn9XE5qVq4="
+      "hash": "sha256-QI3VI7xUvneN+9LnxIKnUEAZEg4CR5KTH3pfbyO8oGM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SdIYHEtqYWrsv3w6uwJ8zLTUChrYH8VOYLn9XE5qVq4="
+      "hash": "sha256-QI3VI7xUvneN+9LnxIKnUEAZEg4CR5KTH3pfbyO8oGM="
     }
   },
-  "version": "2.2.3"
+  "version": "2.3.0"
 }

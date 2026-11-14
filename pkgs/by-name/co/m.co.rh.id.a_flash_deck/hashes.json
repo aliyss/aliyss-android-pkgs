@@ -1,18 +1,18 @@
 {
-  "apkName": "m.co.rh.id.a_flash_deck_57.apk",
+  "apkName": "m.co.rh.id.a_flash_deck_65.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/z6ccn9RZNYjw/gS25qhtLuii09RsUfJYpI92vvtQ8s="
+      "hash": "sha256-tv8rt/30gdKoM6rzRZF6QLSQT7wt67WoZRCx4rtOt6Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/z6ccn9RZNYjw/gS25qhtLuii09RsUfJYpI92vvtQ8s="
+      "hash": "sha256-tv8rt/30gdKoM6rzRZF6QLSQT7wt67WoZRCx4rtOt6Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/z6ccn9RZNYjw/gS25qhtLuii09RsUfJYpI92vvtQ8s="
+      "hash": "sha256-tv8rt/30gdKoM6rzRZF6QLSQT7wt67WoZRCx4rtOt6Y="
     }
   },
-  "version": "1.14.0"
+  "version": "2.5.0"
 }

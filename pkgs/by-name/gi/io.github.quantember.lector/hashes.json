@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.quantember.lector_12.apk",
+  "apkName": "io.github.quantember.lector_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JuJciaPMtZYL2mOk/tTM242HOSNE7NcsACT5gewH3/M="
+      "hash": "sha256-2OE33KfHuPw332T7qb5rgqBNnlWoliixgZ7wZyuL4Ks="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JuJciaPMtZYL2mOk/tTM242HOSNE7NcsACT5gewH3/M="
+      "hash": "sha256-2OE33KfHuPw332T7qb5rgqBNnlWoliixgZ7wZyuL4Ks="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JuJciaPMtZYL2mOk/tTM242HOSNE7NcsACT5gewH3/M="
+      "hash": "sha256-2OE33KfHuPw332T7qb5rgqBNnlWoliixgZ7wZyuL4Ks="
     }
   },
-  "version": "0.6.3"
+  "version": "0.6.4"
 }

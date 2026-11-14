@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "1.7.140-lite-fdroid",
+      "versionCode": 833
+    },
+    {
+      "version": "1.7.139-lite-fdroid",
+      "versionCode": 832
+    },
+    {
+      "version": "1.7.135-lite-fdroid",
+      "versionCode": 828
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.scalepractice_9.apk",
+  "apkName": "com.scalepractice_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1N+tKugAQJSCZnTpSj5eGiizcyDXVJu28xa+8zcbFYE="
+      "hash": "sha256-1o5HSGUopT8aZ7/eJMjOmieaf1mwrfKx2KGQg+Y8LQk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1N+tKugAQJSCZnTpSj5eGiizcyDXVJu28xa+8zcbFYE="
+      "hash": "sha256-1o5HSGUopT8aZ7/eJMjOmieaf1mwrfKx2KGQg+Y8LQk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1N+tKugAQJSCZnTpSj5eGiizcyDXVJu28xa+8zcbFYE="
+      "hash": "sha256-1o5HSGUopT8aZ7/eJMjOmieaf1mwrfKx2KGQg+Y8LQk="
     }
   },
-  "version": "2.8.0"
+  "version": "2.9.2"
 }

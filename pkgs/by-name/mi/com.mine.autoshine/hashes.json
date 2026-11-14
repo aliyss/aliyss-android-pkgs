@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mine.autoshine_5.apk",
+  "apkName": "com.mine.autoshine_6.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tXh6XAe5S3yH4aP599Zd33KtJY/9Ns+jNx4fc/GaMGI="
+      "hash": "sha256-Ed4cJQeM1cAok5vkfT2wCwYYT47aP+2aTHYlP2twpM0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tXh6XAe5S3yH4aP599Zd33KtJY/9Ns+jNx4fc/GaMGI="
+      "hash": "sha256-Ed4cJQeM1cAok5vkfT2wCwYYT47aP+2aTHYlP2twpM0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tXh6XAe5S3yH4aP599Zd33KtJY/9Ns+jNx4fc/GaMGI="
+      "hash": "sha256-Ed4cJQeM1cAok5vkfT2wCwYYT47aP+2aTHYlP2twpM0="
     }
   },
-  "version": "1.4"
+  "version": "1.5"
 }

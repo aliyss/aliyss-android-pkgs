@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.nemeyes.ncarousel_1108.apk",
+  "apkName": "dev.nemeyes.ncarousel_1111.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-DA9qJYjFw7zs51AWzTzc2cEzzv1Dpc9ZdEXVVxJ4kvU="
+      "hash": "sha256-1izhBO7/vC1vi0xsq9+Qgp71ZyudIhsaCmreL92fhOM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DA9qJYjFw7zs51AWzTzc2cEzzv1Dpc9ZdEXVVxJ4kvU="
+      "hash": "sha256-1izhBO7/vC1vi0xsq9+Qgp71ZyudIhsaCmreL92fhOM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DA9qJYjFw7zs51AWzTzc2cEzzv1Dpc9ZdEXVVxJ4kvU="
+      "hash": "sha256-1izhBO7/vC1vi0xsq9+Qgp71ZyudIhsaCmreL92fhOM="
     }
   },
-  "version": "0.2.54"
+  "version": "0.3.0"
 }

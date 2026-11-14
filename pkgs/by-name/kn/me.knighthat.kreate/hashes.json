@@ -1,18 +1,18 @@
 {
-  "apkName": "me.knighthat.kreate_141.apk",
+  "apkName": "me.knighthat.kreate_143.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-c1PjjY8Ct21wSKcMC5Gp/bWsQzxYQw+a+LooF2/jSYU="
+      "hash": "sha256-PDciWm5dlNEEEbwqZbZWPfGDnfDjoXTHSNY/oWwbM0k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-c1PjjY8Ct21wSKcMC5Gp/bWsQzxYQw+a+LooF2/jSYU="
+      "hash": "sha256-PDciWm5dlNEEEbwqZbZWPfGDnfDjoXTHSNY/oWwbM0k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-c1PjjY8Ct21wSKcMC5Gp/bWsQzxYQw+a+LooF2/jSYU="
+      "hash": "sha256-PDciWm5dlNEEEbwqZbZWPfGDnfDjoXTHSNY/oWwbM0k="
     }
   },
-  "version": "2.2.3-fdroid"
+  "version": "2.2.5-fdroid"
 }

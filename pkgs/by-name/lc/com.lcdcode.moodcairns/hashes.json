@@ -1,18 +1,18 @@
 {
-  "apkName": "com.lcdcode.moodcairns_9.apk",
+  "apkName": "com.lcdcode.moodcairns_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qH06NPFqp+EoDQUw8x3oYKPwZRy7Uivmqq8QOe9gK8s="
+      "hash": "sha256-jLkFhHJrAvbjVdxFNMurQVhmhTuUFWZDgbb7OfYmtTo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qH06NPFqp+EoDQUw8x3oYKPwZRy7Uivmqq8QOe9gK8s="
+      "hash": "sha256-jLkFhHJrAvbjVdxFNMurQVhmhTuUFWZDgbb7OfYmtTo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qH06NPFqp+EoDQUw8x3oYKPwZRy7Uivmqq8QOe9gK8s="
+      "hash": "sha256-jLkFhHJrAvbjVdxFNMurQVhmhTuUFWZDgbb7OfYmtTo="
     }
   },
-  "version": "1.1.0"
+  "version": "1.2.1"
 }

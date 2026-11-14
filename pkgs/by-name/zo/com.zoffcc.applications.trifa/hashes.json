@@ -1,18 +1,18 @@
 {
-  "apkName": "com.zoffcc.applications.trifa_10283.apk",
+  "apkName": "com.zoffcc.applications.trifa_10316.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SxjRbJ9ffyamjyc6rEWRA1BuRi+qx4RRa5FEfYJPato="
+      "hash": "sha256-kDaFjlXpoxbq1/0KJATxMRDiMhvd6qMX4AAqOAKYpbg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SxjRbJ9ffyamjyc6rEWRA1BuRi+qx4RRa5FEfYJPato="
+      "hash": "sha256-kDaFjlXpoxbq1/0KJATxMRDiMhvd6qMX4AAqOAKYpbg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SxjRbJ9ffyamjyc6rEWRA1BuRi+qx4RRa5FEfYJPato="
+      "hash": "sha256-kDaFjlXpoxbq1/0KJATxMRDiMhvd6qMX4AAqOAKYpbg="
     }
   },
-  "version": "1.0.283"
+  "version": "1.0.316"
 }

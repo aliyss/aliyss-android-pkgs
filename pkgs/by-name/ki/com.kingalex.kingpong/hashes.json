@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kingalex.kingpong_6.apk",
+  "apkName": "com.kingalex.kingpong_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lUWmZpeoPCWVd2e3+a2yltcf1X4wNl3HQiJRBP63C2Y="
+      "hash": "sha256-zrqx5O1S38VL7QVYQPttZlm4eHd2+iFNnLFgoRpU2cQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lUWmZpeoPCWVd2e3+a2yltcf1X4wNl3HQiJRBP63C2Y="
+      "hash": "sha256-zrqx5O1S38VL7QVYQPttZlm4eHd2+iFNnLFgoRpU2cQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lUWmZpeoPCWVd2e3+a2yltcf1X4wNl3HQiJRBP63C2Y="
+      "hash": "sha256-zrqx5O1S38VL7QVYQPttZlm4eHd2+iFNnLFgoRpU2cQ="
     }
   },
-  "version": "1.1.2"
+  "version": "2.0.0"
 }

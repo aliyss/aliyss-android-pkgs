@@ -1,18 +1,18 @@
 {
-  "apkName": "com.sbv.linkdroid_27.apk",
+  "apkName": "com.sbv.linkdroid_30.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-7lGMmdhCBbd61sZlFIXWYk+7QuWyNMoQM952gXgsGcE="
+      "hash": "sha256-jA3N5QppJWhcsh89OjPkbO4fxH0bEt/CEmNBMtTa570="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7lGMmdhCBbd61sZlFIXWYk+7QuWyNMoQM952gXgsGcE="
+      "hash": "sha256-jA3N5QppJWhcsh89OjPkbO4fxH0bEt/CEmNBMtTa570="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-7lGMmdhCBbd61sZlFIXWYk+7QuWyNMoQM952gXgsGcE="
+      "hash": "sha256-jA3N5QppJWhcsh89OjPkbO4fxH0bEt/CEmNBMtTa570="
     }
   },
-  "version": "2.2.0"
+  "version": "2.3.0"
 }

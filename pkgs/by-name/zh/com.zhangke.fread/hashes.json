@@ -1,18 +1,18 @@
 {
-  "apkName": "com.zhangke.fread_109000.apk",
+  "apkName": "com.zhangke.fread_109015.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-oTgTCTHWnJRkF/tFsaA2ooNQh/GoBgUQuLyFZPWz240="
+      "hash": "sha256-NaCXPrO2qKEwwaLZaw2xU4fjPJtrZ6B4uISeRtPGwb8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oTgTCTHWnJRkF/tFsaA2ooNQh/GoBgUQuLyFZPWz240="
+      "hash": "sha256-NaCXPrO2qKEwwaLZaw2xU4fjPJtrZ6B4uISeRtPGwb8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oTgTCTHWnJRkF/tFsaA2ooNQh/GoBgUQuLyFZPWz240="
+      "hash": "sha256-NaCXPrO2qKEwwaLZaw2xU4fjPJtrZ6B4uISeRtPGwb8="
     }
   },
-  "version": "1.9.0"
+  "version": "1.10.5"
 }

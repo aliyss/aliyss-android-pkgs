@@ -1,18 +1,18 @@
 {
-  "apkName": "com.acutis.firewall_10005.apk",
+  "apkName": "com.acutis.firewall_10011.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-h2RFe/hVV3D+udNjOvi/HR8uupFlj/oNgjXsu4WmKw8="
+      "hash": "sha256-NbwMMzADjgwU3umlK4HTERTyq2HoyYjvHb/Q6GOhiSQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h2RFe/hVV3D+udNjOvi/HR8uupFlj/oNgjXsu4WmKw8="
+      "hash": "sha256-NbwMMzADjgwU3umlK4HTERTyq2HoyYjvHb/Q6GOhiSQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h2RFe/hVV3D+udNjOvi/HR8uupFlj/oNgjXsu4WmKw8="
+      "hash": "sha256-NbwMMzADjgwU3umlK4HTERTyq2HoyYjvHb/Q6GOhiSQ="
     }
   },
-  "version": "1.0.5"
+  "version": "1.0.11"
 }

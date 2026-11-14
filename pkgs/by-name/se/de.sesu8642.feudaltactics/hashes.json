@@ -1,18 +1,18 @@
 {
-  "apkName": "de.sesu8642.feudaltactics_17.apk",
+  "apkName": "de.sesu8642.feudaltactics_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qHQiRsieIAw8qHzRo54Lpdx1SZQNcurekLGyqwz/5Io="
+      "hash": "sha256-KZNu6C00QCL7EdIxerpU6LnqGoiYfEXIghZWZKvLnZ4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qHQiRsieIAw8qHzRo54Lpdx1SZQNcurekLGyqwz/5Io="
+      "hash": "sha256-KZNu6C00QCL7EdIxerpU6LnqGoiYfEXIghZWZKvLnZ4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qHQiRsieIAw8qHzRo54Lpdx1SZQNcurekLGyqwz/5Io="
+      "hash": "sha256-KZNu6C00QCL7EdIxerpU6LnqGoiYfEXIghZWZKvLnZ4="
     }
   },
-  "version": "1.5.2"
+  "version": "1.5.5"
 }

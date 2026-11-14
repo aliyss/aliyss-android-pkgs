@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.free.nrw.commons_1066.apk",
+  "apkName": "fr.free.nrw.commons_1070.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NcvlH0x9raD667FxNNRWwPQ+td8Rcfob5ryFbfZ9U0I="
+      "hash": "sha256-PP+XoZhspRHnUFLVglgZnl0CdG7MDhOx81MyncVji/c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NcvlH0x9raD667FxNNRWwPQ+td8Rcfob5ryFbfZ9U0I="
+      "hash": "sha256-PP+XoZhspRHnUFLVglgZnl0CdG7MDhOx81MyncVji/c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NcvlH0x9raD667FxNNRWwPQ+td8Rcfob5ryFbfZ9U0I="
+      "hash": "sha256-PP+XoZhspRHnUFLVglgZnl0CdG7MDhOx81MyncVji/c="
     }
   },
-  "version": "6.7.0"
+  "version": "6.9.0"
 }

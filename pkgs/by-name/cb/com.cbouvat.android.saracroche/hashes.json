@@ -1,18 +1,18 @@
 {
-  "apkName": "com.cbouvat.android.saracroche_36.apk",
+  "apkName": "com.cbouvat.android.saracroche_45.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-GLggYuClbvxl0qOs1Jnfyn0LI1N+msOapdjvvEZusiM="
+      "hash": "sha256-SCY2zwMdrg1L4mYg4385xJtr4uIhET/DCoXTbxIckws="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GLggYuClbvxl0qOs1Jnfyn0LI1N+msOapdjvvEZusiM="
+      "hash": "sha256-SCY2zwMdrg1L4mYg4385xJtr4uIhET/DCoXTbxIckws="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GLggYuClbvxl0qOs1Jnfyn0LI1N+msOapdjvvEZusiM="
+      "hash": "sha256-SCY2zwMdrg1L4mYg4385xJtr4uIhET/DCoXTbxIckws="
     }
   },
-  "version": "5.1.1"
+  "version": "5.6.0"
 }

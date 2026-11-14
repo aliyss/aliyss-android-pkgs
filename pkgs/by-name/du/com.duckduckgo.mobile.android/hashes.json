@@ -1,18 +1,18 @@
 {
-  "apkName": "com.duckduckgo.mobile.android_52911000.apk",
+  "apkName": "com.duckduckgo.mobile.android_52990000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-q7JCKOhez8nr8Ia8mRAZ+8sF1NV5DZPlO0+ZvwmF2Pg="
+      "hash": "sha256-a+4YobOF+VS6n8iJYOwLgdzrygRcQPxeCk6beX9Rcbo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-q7JCKOhez8nr8Ia8mRAZ+8sF1NV5DZPlO0+ZvwmF2Pg="
+      "hash": "sha256-a+4YobOF+VS6n8iJYOwLgdzrygRcQPxeCk6beX9Rcbo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-q7JCKOhez8nr8Ia8mRAZ+8sF1NV5DZPlO0+ZvwmF2Pg="
+      "hash": "sha256-a+4YobOF+VS6n8iJYOwLgdzrygRcQPxeCk6beX9Rcbo="
     }
   },
-  "version": "5.291.1"
+  "version": "5.299.0"
 }

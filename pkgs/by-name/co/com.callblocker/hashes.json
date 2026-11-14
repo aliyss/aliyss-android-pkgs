@@ -1,18 +1,18 @@
 {
-  "apkName": "com.callblocker_17.apk",
+  "apkName": "com.callblocker_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-I7eW5OS9PtlOgQEH48tkhb7jeLP0+RVutzpUf9U/bpo="
+      "hash": "sha256-hBaUYmzwaYb2CGY5SnBlICZ7EbvAGrg/laaoVqEM2HE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-I7eW5OS9PtlOgQEH48tkhb7jeLP0+RVutzpUf9U/bpo="
+      "hash": "sha256-hBaUYmzwaYb2CGY5SnBlICZ7EbvAGrg/laaoVqEM2HE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-I7eW5OS9PtlOgQEH48tkhb7jeLP0+RVutzpUf9U/bpo="
+      "hash": "sha256-hBaUYmzwaYb2CGY5SnBlICZ7EbvAGrg/laaoVqEM2HE="
     }
   },
-  "version": "0.3.4"
+  "version": "0.3.6"
 }

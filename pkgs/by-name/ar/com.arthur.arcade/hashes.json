@@ -1,18 +1,18 @@
 {
-  "apkName": "com.arthur.arcade_101.apk",
+  "apkName": "com.arthur.arcade_102.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-EU11D+coaG4OvYqFaZC4Na/MbDFgrFs4qcrZ52OU6Yc="
+      "hash": "sha256-/QAGBsDzqOxmIPyUR329h8QY0QQtNZnCTA64SSI23cg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EU11D+coaG4OvYqFaZC4Na/MbDFgrFs4qcrZ52OU6Yc="
+      "hash": "sha256-/QAGBsDzqOxmIPyUR329h8QY0QQtNZnCTA64SSI23cg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EU11D+coaG4OvYqFaZC4Na/MbDFgrFs4qcrZ52OU6Yc="
+      "hash": "sha256-/QAGBsDzqOxmIPyUR329h8QY0QQtNZnCTA64SSI23cg="
     }
   },
-  "version": "1.1"
+  "version": "1.2"
 }

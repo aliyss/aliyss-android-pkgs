@@ -1,18 +1,18 @@
 {
-  "apkName": "org.billthefarmer.notes_141.apk",
+  "apkName": "org.billthefarmer.notes_142.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-roqpZ5T8VdWJFtj+OiF5EvvMnt1eyftyxUf5DZfTwOo="
+      "hash": "sha256-soRuEFW2VbfYd93ooFhMFftFogDLKeF7wMIufRiM3FM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-roqpZ5T8VdWJFtj+OiF5EvvMnt1eyftyxUf5DZfTwOo="
+      "hash": "sha256-soRuEFW2VbfYd93ooFhMFftFogDLKeF7wMIufRiM3FM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-roqpZ5T8VdWJFtj+OiF5EvvMnt1eyftyxUf5DZfTwOo="
+      "hash": "sha256-soRuEFW2VbfYd93ooFhMFftFogDLKeF7wMIufRiM3FM="
     }
   },
-  "version": "1.41"
+  "version": "1.42"
 }

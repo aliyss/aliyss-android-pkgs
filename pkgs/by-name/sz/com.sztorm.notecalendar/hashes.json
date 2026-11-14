@@ -1,18 +1,18 @@
 {
-  "apkName": "com.sztorm.notecalendar_12.apk",
+  "apkName": "com.sztorm.notecalendar_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-pxKWtkRxdlU67gkISaZsu/18bDv3/GPupZupdvtTuPg="
+      "hash": "sha256-4U7I7bQMknSFbiiNyVxMeiP6Dl6z5azdEDe6FE9d/PA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pxKWtkRxdlU67gkISaZsu/18bDv3/GPupZupdvtTuPg="
+      "hash": "sha256-4U7I7bQMknSFbiiNyVxMeiP6Dl6z5azdEDe6FE9d/PA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pxKWtkRxdlU67gkISaZsu/18bDv3/GPupZupdvtTuPg="
+      "hash": "sha256-4U7I7bQMknSFbiiNyVxMeiP6Dl6z5azdEDe6FE9d/PA="
     }
   },
-  "version": "1.0.11"
+  "version": "2.3.0"
 }

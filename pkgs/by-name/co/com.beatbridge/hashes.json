@@ -1,18 +1,18 @@
 {
-  "apkName": "com.beatbridge_3704.apk",
+  "apkName": "com.beatbridge_8504.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-q2cASGVP83u4pi5pF1wQQ8GO2zWVxh4xU3l5TEjyP7o="
+      "hash": "sha256-mrjvW90DqQp7DfjRzRrZqNem/db9SbD6qgD818gBv9Q="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-q2cASGVP83u4pi5pF1wQQ8GO2zWVxh4xU3l5TEjyP7o="
+      "hash": "sha256-mrjvW90DqQp7DfjRzRrZqNem/db9SbD6qgD818gBv9Q="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-q2cASGVP83u4pi5pF1wQQ8GO2zWVxh4xU3l5TEjyP7o="
+      "hash": "sha256-mrjvW90DqQp7DfjRzRrZqNem/db9SbD6qgD818gBv9Q="
     }
   },
-  "version": "1.0.37"
+  "version": "1.0.85"
 }

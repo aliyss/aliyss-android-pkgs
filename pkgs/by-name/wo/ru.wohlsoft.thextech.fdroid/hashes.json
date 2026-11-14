@@ -1,18 +1,18 @@
 {
-  "apkName": "ru.wohlsoft.thextech.fdroid_1030703.apk",
+  "apkName": "ru.wohlsoft.thextech.fdroid_1070401.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-doqqmtCgjY3FZA5w8pjWiOWTuWJ7lun5zbrNtIcmjt0="
+      "hash": "sha256-hS4FZmYfwJ4TnhMWth8TCxpRcOhM9PQdJB7z3AHMOGk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-doqqmtCgjY3FZA5w8pjWiOWTuWJ7lun5zbrNtIcmjt0="
+      "hash": "sha256-hS4FZmYfwJ4TnhMWth8TCxpRcOhM9PQdJB7z3AHMOGk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-doqqmtCgjY3FZA5w8pjWiOWTuWJ7lun5zbrNtIcmjt0="
+      "hash": "sha256-hS4FZmYfwJ4TnhMWth8TCxpRcOhM9PQdJB7z3AHMOGk="
     }
   },
-  "version": "1.3.7.3"
+  "version": "1.7.4.1"
 }

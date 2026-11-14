@@ -1,18 +1,18 @@
 {
-  "apkName": "com.firebirdberlin.nightdream.noGms_348.apk",
+  "apkName": "com.firebirdberlin.nightdream.noGms_368.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ds11kQGhm6NOhP/pIK4t1ya1OylS3aSX9KUzzxCn1mk="
+      "hash": "sha256-7uvS5WdSWi1Lsbi7+2DNOc/tW3uMo3LkEkRRqUsfaPg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ds11kQGhm6NOhP/pIK4t1ya1OylS3aSX9KUzzxCn1mk="
+      "hash": "sha256-7uvS5WdSWi1Lsbi7+2DNOc/tW3uMo3LkEkRRqUsfaPg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ds11kQGhm6NOhP/pIK4t1ya1OylS3aSX9KUzzxCn1mk="
+      "hash": "sha256-7uvS5WdSWi1Lsbi7+2DNOc/tW3uMo3LkEkRRqUsfaPg="
     }
   },
-  "version": "2.11.26"
+  "version": "2.11.46"
 }

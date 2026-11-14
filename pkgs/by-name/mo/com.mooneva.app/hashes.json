@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mooneva.app_13.apk",
+  "apkName": "com.mooneva.app_26.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0IjpsNGreWteSmY7YaqaPG0Up3dsS9Ou6xUJR1BeBYw="
+      "hash": "sha256-A/4VjrWUQfBIv3w41mzvOqwnDXVwT8KtWNLsg0LRIu8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0IjpsNGreWteSmY7YaqaPG0Up3dsS9Ou6xUJR1BeBYw="
+      "hash": "sha256-A/4VjrWUQfBIv3w41mzvOqwnDXVwT8KtWNLsg0LRIu8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0IjpsNGreWteSmY7YaqaPG0Up3dsS9Ou6xUJR1BeBYw="
+      "hash": "sha256-A/4VjrWUQfBIv3w41mzvOqwnDXVwT8KtWNLsg0LRIu8="
     }
   },
-  "version": "2.0.8"
+  "version": "3.0.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "app.subster_108.apk",
+  "apkName": "app.subster_201.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+u9LIiQMh8ZgJVje+q8gc4V7KhAHJw+90dpIZzjZZl0="
+      "hash": "sha256-V7qzpJn+BWpuTsyT3gGd5HV8/vuv57G2KcXbhTsNwn4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+u9LIiQMh8ZgJVje+q8gc4V7KhAHJw+90dpIZzjZZl0="
+      "hash": "sha256-V7qzpJn+BWpuTsyT3gGd5HV8/vuv57G2KcXbhTsNwn4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+u9LIiQMh8ZgJVje+q8gc4V7KhAHJw+90dpIZzjZZl0="
+      "hash": "sha256-V7qzpJn+BWpuTsyT3gGd5HV8/vuv57G2KcXbhTsNwn4="
     }
   },
-  "version": "0.1.8"
+  "version": "0.2.1"
 }

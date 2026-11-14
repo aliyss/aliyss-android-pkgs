@@ -1,18 +1,18 @@
 {
-  "apkName": "jp.takke.cpustats_30.apk",
+  "apkName": "jp.takke.cpustats_31.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CE0uPdrwVg8KVMyTI0sMzJ2TF/gYIxpTlMa+CXfkZ6c="
+      "hash": "sha256-ADZC4iRRiTw2ysT43purULKQJJxG8qNODTnRA4mo0s4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CE0uPdrwVg8KVMyTI0sMzJ2TF/gYIxpTlMa+CXfkZ6c="
+      "hash": "sha256-ADZC4iRRiTw2ysT43purULKQJJxG8qNODTnRA4mo0s4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CE0uPdrwVg8KVMyTI0sMzJ2TF/gYIxpTlMa+CXfkZ6c="
+      "hash": "sha256-ADZC4iRRiTw2ysT43purULKQJJxG8qNODTnRA4mo0s4="
     }
   },
-  "version": "3.0.1"
+  "version": "3.0.2"
 }

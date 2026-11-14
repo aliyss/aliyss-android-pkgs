@@ -1,18 +1,18 @@
 {
-  "apkName": "com.barghest.mesh_363.apk",
+  "apkName": "com.barghest.mesh_364.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-i3z8VdnxpfTwaA9MYrDpFNf9oTv7lFSeKSl98BOgRj0="
+      "hash": "sha256-WSHJlHqryzBDA2UGTl58PZu9CCg+dNWZB6xvYCzwzog="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-i3z8VdnxpfTwaA9MYrDpFNf9oTv7lFSeKSl98BOgRj0="
+      "hash": "sha256-WSHJlHqryzBDA2UGTl58PZu9CCg+dNWZB6xvYCzwzog="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-i3z8VdnxpfTwaA9MYrDpFNf9oTv7lFSeKSl98BOgRj0="
+      "hash": "sha256-WSHJlHqryzBDA2UGTl58PZu9CCg+dNWZB6xvYCzwzog="
     }
   },
-  "version": "0.1.7-alpha"
+  "version": "0.2.1-beta"
 }

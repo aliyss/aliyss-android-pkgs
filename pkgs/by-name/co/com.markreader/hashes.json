@@ -1,18 +1,18 @@
 {
-  "apkName": "com.markreader_3.apk",
+  "apkName": "com.markreader_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-F92u7xJbRDCDyyQkPvtQxmbf++YlEBFPi/dPbYwp3vY="
+      "hash": "sha256-7EWD5UD5kpmj6zo8LRq7+59FprRUHalCs6wLPDMvO0s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-F92u7xJbRDCDyyQkPvtQxmbf++YlEBFPi/dPbYwp3vY="
+      "hash": "sha256-7EWD5UD5kpmj6zo8LRq7+59FprRUHalCs6wLPDMvO0s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-F92u7xJbRDCDyyQkPvtQxmbf++YlEBFPi/dPbYwp3vY="
+      "hash": "sha256-7EWD5UD5kpmj6zo8LRq7+59FprRUHalCs6wLPDMvO0s="
     }
   },
-  "version": "1.0.2"
+  "version": "1.1.1"
 }

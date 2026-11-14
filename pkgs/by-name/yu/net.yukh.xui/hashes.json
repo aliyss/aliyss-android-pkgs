@@ -1,18 +1,18 @@
 {
-  "apkName": "net.yukh.xui_100600.apk",
+  "apkName": "net.yukh.xui_1000080.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-pf5McLtb1FTDsC9OzKG/aCXg2nBCnN37LAF9GRQB+gM="
+      "hash": "sha256-cqrkACGnFx2Kg/YUPgCzNDZ0t5whe3pij48BzHokuv8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pf5McLtb1FTDsC9OzKG/aCXg2nBCnN37LAF9GRQB+gM="
+      "hash": "sha256-cqrkACGnFx2Kg/YUPgCzNDZ0t5whe3pij48BzHokuv8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pf5McLtb1FTDsC9OzKG/aCXg2nBCnN37LAF9GRQB+gM="
+      "hash": "sha256-cqrkACGnFx2Kg/YUPgCzNDZ0t5whe3pij48BzHokuv8="
     }
   },
-  "version": "0.10.6"
+  "version": "26.10.28.80"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.stardomains3.oxproxion_214.apk",
+  "apkName": "io.github.stardomains3.oxproxion_234.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aZzya4MfbJA+C8hg/Eu0CFSMN76SfmVhX/dAe0zUX0c="
+      "hash": "sha256-WO8CquGIk8At+yV2SCU8C+ZL8iVqtUwjpsIqXhMp0nM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aZzya4MfbJA+C8hg/Eu0CFSMN76SfmVhX/dAe0zUX0c="
+      "hash": "sha256-WO8CquGIk8At+yV2SCU8C+ZL8iVqtUwjpsIqXhMp0nM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aZzya4MfbJA+C8hg/Eu0CFSMN76SfmVhX/dAe0zUX0c="
+      "hash": "sha256-WO8CquGIk8At+yV2SCU8C+ZL8iVqtUwjpsIqXhMp0nM="
     }
   },
-  "version": "2.1.104"
+  "version": "2.2.19"
 }

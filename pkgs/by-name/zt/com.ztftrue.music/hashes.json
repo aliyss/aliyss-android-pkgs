@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ztftrue.music_71.apk",
+  "apkName": "com.ztftrue.music_85.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-XXJksZP3YH44S0lsVeKXv2nDg+YpkNldivsV2xRgOXk="
+      "hash": "sha256-gPYeNxRPwzqGFuayanLQZPeHdUsp6fmTYIwbTWTX5p4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XXJksZP3YH44S0lsVeKXv2nDg+YpkNldivsV2xRgOXk="
+      "hash": "sha256-gPYeNxRPwzqGFuayanLQZPeHdUsp6fmTYIwbTWTX5p4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-XXJksZP3YH44S0lsVeKXv2nDg+YpkNldivsV2xRgOXk="
+      "hash": "sha256-gPYeNxRPwzqGFuayanLQZPeHdUsp6fmTYIwbTWTX5p4="
     }
   },
-  "version": "0.1.71"
+  "version": "0.1.85"
 }

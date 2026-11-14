@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2026.10-free",
+      "versionCode": 63
+    },
+    {
+      "version": "2026.8-free",
+      "versionCode": 62
+    },
+    {
+      "version": "2026.06.02-free",
+      "versionCode": 61
+    }
+  ]
+}

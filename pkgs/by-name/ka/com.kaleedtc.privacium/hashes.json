@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kaleedtc.privacium_38.apk",
+  "apkName": "com.kaleedtc.privacium_39.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ukLhrfKKRqIqaYRipxRTnH/G9OXJXLN4q5eTB9iXFO8="
+      "hash": "sha256-IGnHNs/V+pf0XXvPogFztcv8BYIpvSloJVSMLSs/i1Q="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ukLhrfKKRqIqaYRipxRTnH/G9OXJXLN4q5eTB9iXFO8="
+      "hash": "sha256-IGnHNs/V+pf0XXvPogFztcv8BYIpvSloJVSMLSs/i1Q="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ukLhrfKKRqIqaYRipxRTnH/G9OXJXLN4q5eTB9iXFO8="
+      "hash": "sha256-IGnHNs/V+pf0XXvPogFztcv8BYIpvSloJVSMLSs/i1Q="
     }
   },
-  "version": "2.1.2"
+  "version": "2.1.3"
 }

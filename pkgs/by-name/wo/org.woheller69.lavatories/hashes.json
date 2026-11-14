@@ -1,18 +1,18 @@
 {
-  "apkName": "org.woheller69.lavatories_27.apk",
+  "apkName": "org.woheller69.lavatories_28.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+A9EDGJDwNzbt6vMQluLOu3PSNuKR067Bluirr2mqh0="
+      "hash": "sha256-kymG//lZx5q+ZpI320poXYiJ6IaEC5I3fT4g+bODeWI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+A9EDGJDwNzbt6vMQluLOu3PSNuKR067Bluirr2mqh0="
+      "hash": "sha256-kymG//lZx5q+ZpI320poXYiJ6IaEC5I3fT4g+bODeWI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+A9EDGJDwNzbt6vMQluLOu3PSNuKR067Bluirr2mqh0="
+      "hash": "sha256-kymG//lZx5q+ZpI320poXYiJ6IaEC5I3fT4g+bODeWI="
     }
   },
-  "version": "2.7"
+  "version": "2.8"
 }

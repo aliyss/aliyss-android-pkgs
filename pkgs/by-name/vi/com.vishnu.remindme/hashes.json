@@ -1,18 +1,18 @@
 {
-  "apkName": "com.vishnu.remindme_8.apk",
+  "apkName": "com.vishnu.remindme_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FsKpsq8yk58e4DsYtS2Ds5WisL7GrGtzjOeJg2fiCT4="
+      "hash": "sha256-K/j2KkIYMv21vk1DzMaO1ZRenwnY6N3OsxlqUILRlaY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FsKpsq8yk58e4DsYtS2Ds5WisL7GrGtzjOeJg2fiCT4="
+      "hash": "sha256-K/j2KkIYMv21vk1DzMaO1ZRenwnY6N3OsxlqUILRlaY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FsKpsq8yk58e4DsYtS2Ds5WisL7GrGtzjOeJg2fiCT4="
+      "hash": "sha256-K/j2KkIYMv21vk1DzMaO1ZRenwnY6N3OsxlqUILRlaY="
     }
   },
-  "version": "v1.3.0"
+  "version": "v1.4.2"
 }

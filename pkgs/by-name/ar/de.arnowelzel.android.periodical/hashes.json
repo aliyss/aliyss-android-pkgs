@@ -1,18 +1,18 @@
 {
-  "apkName": "de.arnowelzel.android.periodical_109.apk",
+  "apkName": "de.arnowelzel.android.periodical_110.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-nbLM8XWPCd6ST/zfIx9ftnRdZtr33SGqUJRs3/MBpfs="
+      "hash": "sha256-Lp8vtHx8DWp0M85qxpuUxlDhB+zGYmTOOq73DCIhi+E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nbLM8XWPCd6ST/zfIx9ftnRdZtr33SGqUJRs3/MBpfs="
+      "hash": "sha256-Lp8vtHx8DWp0M85qxpuUxlDhB+zGYmTOOq73DCIhi+E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nbLM8XWPCd6ST/zfIx9ftnRdZtr33SGqUJRs3/MBpfs="
+      "hash": "sha256-Lp8vtHx8DWp0M85qxpuUxlDhB+zGYmTOOq73DCIhi+E="
     }
   },
-  "version": "1.96"
+  "version": "1.97"
 }

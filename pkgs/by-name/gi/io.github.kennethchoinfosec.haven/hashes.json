@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.kennethchoinfosec.haven_8.apk",
+  "apkName": "io.github.kennethchoinfosec.haven_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SvP8czsLBJYPnmOjMiX9236oxLBhfBFSbg87+LU+5/g="
+      "hash": "sha256-JP6jSII7wa2NzaJ3csDyVnFuXE+mwp+KKGAq8TZnwS4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SvP8czsLBJYPnmOjMiX9236oxLBhfBFSbg87+LU+5/g="
+      "hash": "sha256-JP6jSII7wa2NzaJ3csDyVnFuXE+mwp+KKGAq8TZnwS4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SvP8czsLBJYPnmOjMiX9236oxLBhfBFSbg87+LU+5/g="
+      "hash": "sha256-JP6jSII7wa2NzaJ3csDyVnFuXE+mwp+KKGAq8TZnwS4="
     }
   },
-  "version": "0.1.4"
+  "version": "0.1.5"
 }

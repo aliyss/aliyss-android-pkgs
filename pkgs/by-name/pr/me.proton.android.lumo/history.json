@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "1.2.18-nogms",
+      "versionCode": 50
+    },
+    {
+      "version": "1.2.11-nogms",
+      "versionCode": 43
+    },
+    {
+      "version": "1.2.9-nogms",
+      "versionCode": 40
+    }
+  ]
+}

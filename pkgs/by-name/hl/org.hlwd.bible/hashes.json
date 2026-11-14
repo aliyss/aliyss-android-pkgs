@@ -1,18 +1,18 @@
 {
-  "apkName": "org.hlwd.bible_20260612.apk",
+  "apkName": "org.hlwd.bible_20260810.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MYOPWc+OLaqo173hp7HzmZWnpnqiqfahGame3fQQE2w="
+      "hash": "sha256-G0Y69yXdEZSPaLqZH4KRcrXT5qKcsTd6qgbRjMAYW2I="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MYOPWc+OLaqo173hp7HzmZWnpnqiqfahGame3fQQE2w="
+      "hash": "sha256-G0Y69yXdEZSPaLqZH4KRcrXT5qKcsTd6qgbRjMAYW2I="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MYOPWc+OLaqo173hp7HzmZWnpnqiqfahGame3fQQE2w="
+      "hash": "sha256-G0Y69yXdEZSPaLqZH4KRcrXT5qKcsTd6qgbRjMAYW2I="
     }
   },
-  "version": "4.03"
+  "version": "4.04"
 }

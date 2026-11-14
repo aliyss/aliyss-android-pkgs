@@ -1,18 +1,18 @@
 {
-  "apkName": "org.glpi.inventory.agent_39471.apk",
+  "apkName": "org.glpi.inventory.agent_39497.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-PkqkydFyhYSSGgH8+fHmJ4X1ML+hJlnd1m4Obj3ZpsY="
+      "hash": "sha256-WTExwlvWutGLZL6Kj4hubTt3YzKqCIqncgOpsswwJ8M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PkqkydFyhYSSGgH8+fHmJ4X1ML+hJlnd1m4Obj3ZpsY="
+      "hash": "sha256-WTExwlvWutGLZL6Kj4hubTt3YzKqCIqncgOpsswwJ8M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PkqkydFyhYSSGgH8+fHmJ4X1ML+hJlnd1m4Obj3ZpsY="
+      "hash": "sha256-WTExwlvWutGLZL6Kj4hubTt3YzKqCIqncgOpsswwJ8M="
     }
   },
-  "version": "1.8.1"
+  "version": "1.9.1"
 }

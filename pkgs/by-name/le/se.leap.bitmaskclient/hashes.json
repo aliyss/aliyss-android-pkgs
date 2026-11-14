@@ -1,18 +1,18 @@
 {
-  "apkName": "se.leap.bitmaskclient_186000.apk",
+  "apkName": "se.leap.bitmaskclient_188000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lnjs1Hb56jTwuRhZSHQcJm2NQZOkP0kDsW/32qv9t7Y="
+      "hash": "sha256-Ttei7T4EmqFz1F0bcnJ2DkKQI8cnaW2/+zGjnXXLtsI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lnjs1Hb56jTwuRhZSHQcJm2NQZOkP0kDsW/32qv9t7Y="
+      "hash": "sha256-Ttei7T4EmqFz1F0bcnJ2DkKQI8cnaW2/+zGjnXXLtsI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lnjs1Hb56jTwuRhZSHQcJm2NQZOkP0kDsW/32qv9t7Y="
+      "hash": "sha256-Ttei7T4EmqFz1F0bcnJ2DkKQI8cnaW2/+zGjnXXLtsI="
     }
   },
-  "version": "1.6.3"
+  "version": "1.7.1"
 }

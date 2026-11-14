@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.opencloud.android_11.apk",
+  "apkName": "eu.opencloud.android_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aKY8ODBNxP88c4QVLPPgYBZmODJIjgIhAzPhXQoDeQw="
+      "hash": "sha256-a2UnBWAe1sibRzEolGO8evVJOcb4R76Yf51jQZX1cpI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aKY8ODBNxP88c4QVLPPgYBZmODJIjgIhAzPhXQoDeQw="
+      "hash": "sha256-a2UnBWAe1sibRzEolGO8evVJOcb4R76Yf51jQZX1cpI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aKY8ODBNxP88c4QVLPPgYBZmODJIjgIhAzPhXQoDeQw="
+      "hash": "sha256-a2UnBWAe1sibRzEolGO8evVJOcb4R76Yf51jQZX1cpI="
     }
   },
-  "version": "1.2.5"
+  "version": "1.3.0"
 }

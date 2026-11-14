@@ -1,18 +1,18 @@
 {
-  "apkName": "com.github.olga_yakovleva.rhvoice.android_118040.apk",
+  "apkName": "com.github.olga_yakovleva.rhvoice.android_118050.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/bD31vPsRVR3qEqozIbR8tWAyxgNaaDHgCQJdcLv0og="
+      "hash": "sha256-FSXexaFOO7Ipsur9wK//aWPakkCQXqTAnNZgLETlzzk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/bD31vPsRVR3qEqozIbR8tWAyxgNaaDHgCQJdcLv0og="
+      "hash": "sha256-FSXexaFOO7Ipsur9wK//aWPakkCQXqTAnNZgLETlzzk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/bD31vPsRVR3qEqozIbR8tWAyxgNaaDHgCQJdcLv0og="
+      "hash": "sha256-FSXexaFOO7Ipsur9wK//aWPakkCQXqTAnNZgLETlzzk="
     }
   },
-  "version": "1.18.4"
+  "version": "1.18.5"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.mirkodi.bfpcalculator_3.apk",
+  "apkName": "eu.mirkodi.bfpcalculator_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-agrbCFGRfFLcCjBiI3sZTcUwHUR/3bp6+b2vggF7ZAg="
+      "hash": "sha256-PGjDZZdesn7b20MVWPYO45FmYQefggmtB85g2wxgS/k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-agrbCFGRfFLcCjBiI3sZTcUwHUR/3bp6+b2vggF7ZAg="
+      "hash": "sha256-PGjDZZdesn7b20MVWPYO45FmYQefggmtB85g2wxgS/k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-agrbCFGRfFLcCjBiI3sZTcUwHUR/3bp6+b2vggF7ZAg="
+      "hash": "sha256-PGjDZZdesn7b20MVWPYO45FmYQefggmtB85g2wxgS/k="
     }
   },
-  "version": "v1.2"
+  "version": "v1.2.2"
 }

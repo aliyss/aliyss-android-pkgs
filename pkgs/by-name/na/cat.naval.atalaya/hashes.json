@@ -1,18 +1,18 @@
 {
-  "apkName": "cat.naval.atalaya_1.apk",
+  "apkName": "cat.naval.atalaya_2.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+ZuCf5vZc9Mqe97gQ794Q4EJCCSYEWgbNz/07/UdSug="
+      "hash": "sha256-AMGaZkKWmDX4qfUO55mjAH4lxIjTq4v0dUEUPaI9AFo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+ZuCf5vZc9Mqe97gQ794Q4EJCCSYEWgbNz/07/UdSug="
+      "hash": "sha256-AMGaZkKWmDX4qfUO55mjAH4lxIjTq4v0dUEUPaI9AFo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+ZuCf5vZc9Mqe97gQ794Q4EJCCSYEWgbNz/07/UdSug="
+      "hash": "sha256-AMGaZkKWmDX4qfUO55mjAH4lxIjTq4v0dUEUPaI9AFo="
     }
   },
-  "version": "1.0.0"
+  "version": "1.1.0"
 }

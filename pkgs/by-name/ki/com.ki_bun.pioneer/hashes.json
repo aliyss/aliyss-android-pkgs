@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ki_bun.pioneer_13.apk",
+  "apkName": "com.ki_bun.pioneer_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Kr5c8gu9LbnpaBqljDXZUTXVrRs6wkEGfGtRV81HTlw="
+      "hash": "sha256-aJRTh8wnxMGonFO9vFDKRwJRCsbLZCpLGYW7EYTmksE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Kr5c8gu9LbnpaBqljDXZUTXVrRs6wkEGfGtRV81HTlw="
+      "hash": "sha256-aJRTh8wnxMGonFO9vFDKRwJRCsbLZCpLGYW7EYTmksE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Kr5c8gu9LbnpaBqljDXZUTXVrRs6wkEGfGtRV81HTlw="
+      "hash": "sha256-aJRTh8wnxMGonFO9vFDKRwJRCsbLZCpLGYW7EYTmksE="
     }
   },
-  "version": "2.6.0"
+  "version": "2.8.0"
 }
