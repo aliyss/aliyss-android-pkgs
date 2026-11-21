@@ -1,18 +1,18 @@
 {
-  "apkName": "cz.lastaapps.menza_1040800.apk",
+  "apkName": "cz.lastaapps.menza_1040900.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-e96XyhceVt/8EpoZ3OQiwfHhfyq2hRnvrPuLiqaZC2w="
+      "hash": "sha256-SUKduCmK8rM9MAVSedzlP3UXJ3HEIXDo26br4jt/XTA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-e96XyhceVt/8EpoZ3OQiwfHhfyq2hRnvrPuLiqaZC2w="
+      "hash": "sha256-SUKduCmK8rM9MAVSedzlP3UXJ3HEIXDo26br4jt/XTA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-e96XyhceVt/8EpoZ3OQiwfHhfyq2hRnvrPuLiqaZC2w="
+      "hash": "sha256-SUKduCmK8rM9MAVSedzlP3UXJ3HEIXDo26br4jt/XTA="
     }
   },
-  "version": "1.4.8"
+  "version": "1.4.9"
 }

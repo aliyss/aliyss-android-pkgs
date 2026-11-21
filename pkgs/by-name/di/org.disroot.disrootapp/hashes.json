@@ -1,18 +1,18 @@
 {
-  "apkName": "org.disroot.disrootapp_37.apk",
+  "apkName": "org.disroot.disrootapp_38.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-L3gakuFrah0411HvGyTPjMA+jdFC+K/Gif8YjCkoSPs="
+      "hash": "sha256-PdEHFJKT6PukIMZrKT17Yo8gDd6ObHA5Z1/Cz6cUZbw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-L3gakuFrah0411HvGyTPjMA+jdFC+K/Gif8YjCkoSPs="
+      "hash": "sha256-PdEHFJKT6PukIMZrKT17Yo8gDd6ObHA5Z1/Cz6cUZbw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-L3gakuFrah0411HvGyTPjMA+jdFC+K/Gif8YjCkoSPs="
+      "hash": "sha256-PdEHFJKT6PukIMZrKT17Yo8gDd6ObHA5Z1/Cz6cUZbw="
     }
   },
-  "version": "2.2.2"
+  "version": "2.2.3"
 }

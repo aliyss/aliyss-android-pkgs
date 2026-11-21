@@ -1,18 +1,18 @@
 {
-  "apkName": "me.kafuuneko.rpclient_20260103.apk",
+  "apkName": "me.kafuuneko.rpclient_20260403.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FrcyuvmRKRIucZwEztKE2+457TmkZZG8qJu7iq+bjC8="
+      "hash": "sha256-SK2zoM9CzLZY55PHZJ+EQkTdQNVbm38Ma5AxyJuWSrc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FrcyuvmRKRIucZwEztKE2+457TmkZZG8qJu7iq+bjC8="
+      "hash": "sha256-SK2zoM9CzLZY55PHZJ+EQkTdQNVbm38Ma5AxyJuWSrc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FrcyuvmRKRIucZwEztKE2+457TmkZZG8qJu7iq+bjC8="
+      "hash": "sha256-SK2zoM9CzLZY55PHZJ+EQkTdQNVbm38Ma5AxyJuWSrc="
     }
   },
-  "version": "2026.1.3"
+  "version": "2026.4.3"
 }

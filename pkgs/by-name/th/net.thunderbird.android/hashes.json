@@ -1,18 +1,18 @@
 {
-  "apkName": "net.thunderbird.android_29.apk",
+  "apkName": "net.thunderbird.android_34.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aZpIrqpP/KiK2GhlXjVplflDkz+v5fHXdz+AO4Zvxxc="
+      "hash": "sha256-yfR06BQ5ZB3soWHt3++lcEqXqwYCsU771zJOs4NWMr0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aZpIrqpP/KiK2GhlXjVplflDkz+v5fHXdz+AO4Zvxxc="
+      "hash": "sha256-yfR06BQ5ZB3soWHt3++lcEqXqwYCsU771zJOs4NWMr0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aZpIrqpP/KiK2GhlXjVplflDkz+v5fHXdz+AO4Zvxxc="
+      "hash": "sha256-yfR06BQ5ZB3soWHt3++lcEqXqwYCsU771zJOs4NWMr0="
     }
   },
-  "version": "21.1"
+  "version": "25.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "org.thayyil.spring.launcher_113.apk",
+  "apkName": "org.thayyil.spring.launcher_114.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8RkBLXNZdmpvP131oSGjONTI6Wpd+5W6hhh89W4BrHI="
+      "hash": "sha256-llUHVfJ132vCvbtg8QFNWnwRgl/LDdonN7h95DK7tH4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8RkBLXNZdmpvP131oSGjONTI6Wpd+5W6hhh89W4BrHI="
+      "hash": "sha256-llUHVfJ132vCvbtg8QFNWnwRgl/LDdonN7h95DK7tH4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8RkBLXNZdmpvP131oSGjONTI6Wpd+5W6hhh89W4BrHI="
+      "hash": "sha256-llUHVfJ132vCvbtg8QFNWnwRgl/LDdonN7h95DK7tH4="
     }
   },
-  "version": "0.1.10.3"
+  "version": "0.1.14"
 }

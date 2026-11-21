@@ -1,18 +1,18 @@
 {
-  "apkName": "com.zygisk_enc.RecorderX_6.apk",
+  "apkName": "com.zygisk_enc.RecorderX_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-D8as+/4XuUTr0nM/xj0oYWikqopcjfD1LpApr/+b9Jo="
+      "hash": "sha256-rIilVsCA2EIdVsnePB92iV0ieqtlr9yZ8i63aYel6dU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-D8as+/4XuUTr0nM/xj0oYWikqopcjfD1LpApr/+b9Jo="
+      "hash": "sha256-rIilVsCA2EIdVsnePB92iV0ieqtlr9yZ8i63aYel6dU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-D8as+/4XuUTr0nM/xj0oYWikqopcjfD1LpApr/+b9Jo="
+      "hash": "sha256-rIilVsCA2EIdVsnePB92iV0ieqtlr9yZ8i63aYel6dU="
     }
   },
-  "version": "3.0.1"
+  "version": "3.1.1"
 }

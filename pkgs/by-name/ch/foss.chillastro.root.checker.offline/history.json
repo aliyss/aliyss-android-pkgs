@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "37.24.4.2o",
+      "versionCode": 6
+    },
+    {
+      "version": "v37.24.4.1-OFFLINE",
+      "versionCode": 5
+    },
+    {
+      "version": "v37.24.4.0-OFFLINE",
+      "versionCode": 4
+    }
+  ]
+}

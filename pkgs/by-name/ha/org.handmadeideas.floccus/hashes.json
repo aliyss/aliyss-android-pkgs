@@ -1,18 +1,18 @@
 {
-  "apkName": "org.handmadeideas.floccus_5010002.apk",
+  "apkName": "org.handmadeideas.floccus_5013000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-hGqow7hy7PQdkxyVrh1e5hEoAEuLP2Iq/2g6ger4Ud4="
+      "hash": "sha256-Uw6xoARlQ9blyhQ9z5ttcV+LJIP3XIXE64kQxSR832c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hGqow7hy7PQdkxyVrh1e5hEoAEuLP2Iq/2g6ger4Ud4="
+      "hash": "sha256-Uw6xoARlQ9blyhQ9z5ttcV+LJIP3XIXE64kQxSR832c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hGqow7hy7PQdkxyVrh1e5hEoAEuLP2Iq/2g6ger4Ud4="
+      "hash": "sha256-Uw6xoARlQ9blyhQ9z5ttcV+LJIP3XIXE64kQxSR832c="
     }
   },
-  "version": "5.10.2"
+  "version": "5.13.0"
 }

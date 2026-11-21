@@ -1,18 +1,18 @@
 {
-  "apkName": "org.adrianvictor.geleia_2.apk",
+  "apkName": "org.adrianvictor.geleia_3.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+61Vwucla3dAxOve6AVUCBmAMb/EJU/qQQsQKloHJBA="
+      "hash": "sha256-xClrdrsU5GTLAdGxC0RAsWKjl2N9KXn8rJ4Mzthm+ks="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+61Vwucla3dAxOve6AVUCBmAMb/EJU/qQQsQKloHJBA="
+      "hash": "sha256-xClrdrsU5GTLAdGxC0RAsWKjl2N9KXn8rJ4Mzthm+ks="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+61Vwucla3dAxOve6AVUCBmAMb/EJU/qQQsQKloHJBA="
+      "hash": "sha256-xClrdrsU5GTLAdGxC0RAsWKjl2N9KXn8rJ4Mzthm+ks="
     }
   },
-  "version": "1.4.1"
+  "version": "1.4.2"
 }

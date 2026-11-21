@@ -1,18 +1,18 @@
 {
-  "apkName": "de.ph1b.audiobook_5406001.apk",
+  "apkName": "de.ph1b.audiobook_5410008.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Ic/xgHPRXjUOWEXyBD0fB9lE8N7kINfPol/ZGW8F6Lg="
+      "hash": "sha256-8O5Lly9TIemMpL6rXwilJZCunIxfoKDdMTd3nkLekB4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ic/xgHPRXjUOWEXyBD0fB9lE8N7kINfPol/ZGW8F6Lg="
+      "hash": "sha256-8O5Lly9TIemMpL6rXwilJZCunIxfoKDdMTd3nkLekB4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Ic/xgHPRXjUOWEXyBD0fB9lE8N7kINfPol/ZGW8F6Lg="
+      "hash": "sha256-8O5Lly9TIemMpL6rXwilJZCunIxfoKDdMTd3nkLekB4="
     }
   },
-  "version": "26.6.1"
+  "version": "26.10.8"
 }

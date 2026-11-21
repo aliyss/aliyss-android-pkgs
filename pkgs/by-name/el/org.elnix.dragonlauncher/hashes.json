@@ -1,18 +1,18 @@
 {
-  "apkName": "org.elnix.dragonlauncher_56.apk",
+  "apkName": "org.elnix.dragonlauncher_76.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-h+hDuLO4HOCs3Te0nBN5eCWVJ6doSJCgs6YjIYlOLXQ="
+      "hash": "sha256-89vI796oUfdJ4zC4pE7s+UbAfqOafG7MjPCicYz1MYQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h+hDuLO4HOCs3Te0nBN5eCWVJ6doSJCgs6YjIYlOLXQ="
+      "hash": "sha256-89vI796oUfdJ4zC4pE7s+UbAfqOafG7MjPCicYz1MYQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h+hDuLO4HOCs3Te0nBN5eCWVJ6doSJCgs6YjIYlOLXQ="
+      "hash": "sha256-89vI796oUfdJ4zC4pE7s+UbAfqOafG7MjPCicYz1MYQ="
     }
   },
-  "version": "3.2.2 (Worm)"
+  "version": "4.6.1 (Tardigrade)"
 }

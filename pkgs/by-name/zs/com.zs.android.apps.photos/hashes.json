@@ -1,18 +1,18 @@
 {
-  "apkName": "com.zs.android.apps.photos_83.apk",
+  "apkName": "com.zs.android.apps.photos_86.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jNisBqQqsm5UoE2LTv5fcUGJuUO6woYdbuDqWp5e6/4="
+      "hash": "sha256-c0ihw4ecAW+0UZrWrVXkrx4YFObuwcYXY+g3E/ebMCg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jNisBqQqsm5UoE2LTv5fcUGJuUO6woYdbuDqWp5e6/4="
+      "hash": "sha256-c0ihw4ecAW+0UZrWrVXkrx4YFObuwcYXY+g3E/ebMCg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jNisBqQqsm5UoE2LTv5fcUGJuUO6woYdbuDqWp5e6/4="
+      "hash": "sha256-c0ihw4ecAW+0UZrWrVXkrx4YFObuwcYXY+g3E/ebMCg="
     }
   },
-  "version": "1.0.9-foss"
+  "version": "1.1.0-foss"
 }

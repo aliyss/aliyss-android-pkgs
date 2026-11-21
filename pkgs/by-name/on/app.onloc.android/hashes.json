@@ -1,18 +1,18 @@
 {
-  "apkName": "app.onloc.android_128.apk",
+  "apkName": "app.onloc.android_130.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-IWcbmZqheo+60l435Gz6n/Vg96/JvP18Qi/EKuzBzcU="
+      "hash": "sha256-2ivlMr+rhV8/wQahxkrd1zCps1ru3qJ1mUZa7MHS8zE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IWcbmZqheo+60l435Gz6n/Vg96/JvP18Qi/EKuzBzcU="
+      "hash": "sha256-2ivlMr+rhV8/wQahxkrd1zCps1ru3qJ1mUZa7MHS8zE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IWcbmZqheo+60l435Gz6n/Vg96/JvP18Qi/EKuzBzcU="
+      "hash": "sha256-2ivlMr+rhV8/wQahxkrd1zCps1ru3qJ1mUZa7MHS8zE="
     }
   },
-  "version": "1.2.8"
+  "version": "1.3.0"
 }

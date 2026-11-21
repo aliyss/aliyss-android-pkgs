@@ -1,18 +1,18 @@
 {
-  "apkName": "app.ladefuchs.android_365.apk",
+  "apkName": "app.ladefuchs.android_414.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Dw3EV3pFcPD3TF0ToYz1lolH9vMnNQJ/+z24nq/b+no="
+      "hash": "sha256-LwqLfbwqSONSHw1/CzT+VSEMLJikozWO8GewH8Cdipk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Dw3EV3pFcPD3TF0ToYz1lolH9vMnNQJ/+z24nq/b+no="
+      "hash": "sha256-LwqLfbwqSONSHw1/CzT+VSEMLJikozWO8GewH8Cdipk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Dw3EV3pFcPD3TF0ToYz1lolH9vMnNQJ/+z24nq/b+no="
+      "hash": "sha256-LwqLfbwqSONSHw1/CzT+VSEMLJikozWO8GewH8Cdipk="
     }
   },
-  "version": "3.5.5"
+  "version": "4.0.5"
 }

@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2.3.0+fork.121.occmdm",
+      "versionCode": 121
+    },
+    {
+      "version": "2.3.0+fork.118.occmdm",
+      "versionCode": 118
+    },
+    {
+      "version": "2.3.0+fork.115.occmdm",
+      "versionCode": 115
+    }
+  ]
+}

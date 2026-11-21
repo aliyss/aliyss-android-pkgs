@@ -1,18 +1,18 @@
 {
-  "apkName": "com.app.dailylog_2001.apk",
+  "apkName": "com.app.dailylog_3103.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2/qrORp3mPd4lScivfpf3oIKjMLju1B44LKqYv0Abw8="
+      "hash": "sha256-0nTPmsJa57ldw2vqFbBwQhuRP4+A+QQ8P2pHPr0zyeM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2/qrORp3mPd4lScivfpf3oIKjMLju1B44LKqYv0Abw8="
+      "hash": "sha256-0nTPmsJa57ldw2vqFbBwQhuRP4+A+QQ8P2pHPr0zyeM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2/qrORp3mPd4lScivfpf3oIKjMLju1B44LKqYv0Abw8="
+      "hash": "sha256-0nTPmsJa57ldw2vqFbBwQhuRP4+A+QQ8P2pHPr0zyeM="
     }
   },
-  "version": "2.0.1"
+  "version": "3.1.3"
 }

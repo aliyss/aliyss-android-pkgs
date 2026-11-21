@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2026.11.11.321",
+      "versionCode": 261111000
+    },
+    {
+      "version": "2026.11.06.319",
+      "versionCode": 261106000
+    },
+    {
+      "version": "2026.10.31.316",
+      "versionCode": 261031001
+    }
+  ]
+}

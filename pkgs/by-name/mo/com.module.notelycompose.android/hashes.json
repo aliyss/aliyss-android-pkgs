@@ -1,18 +1,18 @@
 {
-  "apkName": "com.module.notelycompose.android_35.apk",
+  "apkName": "com.module.notelycompose.android_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wOSLYVd6nKS8f6JjuLBcpuEFwgN6wK087jcjMjg82so="
+      "hash": "sha256-fyILRmpbNFHR9DI7RzJQNI38j0twCjVQ5skyOO5F1Yk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wOSLYVd6nKS8f6JjuLBcpuEFwgN6wK087jcjMjg82so="
+      "hash": "sha256-fyILRmpbNFHR9DI7RzJQNI38j0twCjVQ5skyOO5F1Yk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wOSLYVd6nKS8f6JjuLBcpuEFwgN6wK087jcjMjg82so="
+      "hash": "sha256-fyILRmpbNFHR9DI7RzJQNI38j0twCjVQ5skyOO5F1Yk="
     }
   },
-  "version": "1.3.4"
+  "version": "1.3.5"
 }

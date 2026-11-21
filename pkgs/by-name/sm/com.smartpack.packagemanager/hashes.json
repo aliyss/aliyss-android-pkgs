@@ -1,18 +1,18 @@
 {
-  "apkName": "com.smartpack.packagemanager_79.apk",
+  "apkName": "com.smartpack.packagemanager_80.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-3bAteSKi0phtJ72E1zMn0WXd1RBJmNqdpolbG03LwJ0="
+      "hash": "sha256-bjJcATfX7srxDA+IuDaRw/LMyt6yCEBs/Bq7d1a4kBM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3bAteSKi0phtJ72E1zMn0WXd1RBJmNqdpolbG03LwJ0="
+      "hash": "sha256-bjJcATfX7srxDA+IuDaRw/LMyt6yCEBs/Bq7d1a4kBM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3bAteSKi0phtJ72E1zMn0WXd1RBJmNqdpolbG03LwJ0="
+      "hash": "sha256-bjJcATfX7srxDA+IuDaRw/LMyt6yCEBs/Bq7d1a4kBM="
     }
   },
-  "version": "v7.9"
+  "version": "v8.0"
 }

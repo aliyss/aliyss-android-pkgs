@@ -1,18 +1,18 @@
 {
-  "apkName": "timur.prose_20106.apk",
+  "apkName": "timur.prose_20305.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lpf2/LU2kj0enaffFe5qPVJxo7hf6bcVulbYJchzszo="
+      "hash": "sha256-19CVZd0HMBFB58XQ4JylqMEMjKsEzywWccMtfeMiq1E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lpf2/LU2kj0enaffFe5qPVJxo7hf6bcVulbYJchzszo="
+      "hash": "sha256-19CVZd0HMBFB58XQ4JylqMEMjKsEzywWccMtfeMiq1E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lpf2/LU2kj0enaffFe5qPVJxo7hf6bcVulbYJchzszo="
+      "hash": "sha256-19CVZd0HMBFB58XQ4JylqMEMjKsEzywWccMtfeMiq1E="
     }
   },
-  "version": "2.1.6"
+  "version": "2.3.5"
 }

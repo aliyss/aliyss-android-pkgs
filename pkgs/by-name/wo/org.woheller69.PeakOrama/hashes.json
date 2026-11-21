@@ -1,18 +1,18 @@
 {
-  "apkName": "org.woheller69.PeakOrama_35.apk",
+  "apkName": "org.woheller69.PeakOrama_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Vh+I5alTKLVPVV8mlNe/TNg0yx7LiIAMFDbU8Av5gvg="
+      "hash": "sha256-hnImLUe2q9daRYRbVwP83SHdgAoWdMZyafQhvqov5z8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Vh+I5alTKLVPVV8mlNe/TNg0yx7LiIAMFDbU8Av5gvg="
+      "hash": "sha256-hnImLUe2q9daRYRbVwP83SHdgAoWdMZyafQhvqov5z8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Vh+I5alTKLVPVV8mlNe/TNg0yx7LiIAMFDbU8Av5gvg="
+      "hash": "sha256-hnImLUe2q9daRYRbVwP83SHdgAoWdMZyafQhvqov5z8="
     }
   },
-  "version": "3.5"
+  "version": "3.6"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.calmyjane.spacebeam_11.apk",
+  "apkName": "com.calmyjane.spacebeam_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-3rmmj04sbY+i0m6z2BnXSjb7D8E/IdJu2NvRAD/qf9Y="
+      "hash": "sha256-kmDCT7SmS6cdaT0uJcqn+SWUUvZj+ba3+YliXHI9Ft4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3rmmj04sbY+i0m6z2BnXSjb7D8E/IdJu2NvRAD/qf9Y="
+      "hash": "sha256-kmDCT7SmS6cdaT0uJcqn+SWUUvZj+ba3+YliXHI9Ft4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3rmmj04sbY+i0m6z2BnXSjb7D8E/IdJu2NvRAD/qf9Y="
+      "hash": "sha256-kmDCT7SmS6cdaT0uJcqn+SWUUvZj+ba3+YliXHI9Ft4="
     }
   },
-  "version": "4.3"
+  "version": "5.2"
 }

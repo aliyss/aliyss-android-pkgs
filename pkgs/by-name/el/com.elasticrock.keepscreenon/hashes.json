@@ -1,18 +1,18 @@
 {
-  "apkName": "com.elasticrock.keepscreenon_60.apk",
+  "apkName": "com.elasticrock.keepscreenon_63.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6wKLN7V9suATttsmMyH+0rbFdEuuJlfPLbVJ86aXufw="
+      "hash": "sha256-gYLzBWsYODf4AMkTBu1FpTGUFf65SGlep2yKMNcID4Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6wKLN7V9suATttsmMyH+0rbFdEuuJlfPLbVJ86aXufw="
+      "hash": "sha256-gYLzBWsYODf4AMkTBu1FpTGUFf65SGlep2yKMNcID4Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6wKLN7V9suATttsmMyH+0rbFdEuuJlfPLbVJ86aXufw="
+      "hash": "sha256-gYLzBWsYODf4AMkTBu1FpTGUFf65SGlep2yKMNcID4Y="
     }
   },
-  "version": "1.28.0"
+  "version": "1.29.1"
 }

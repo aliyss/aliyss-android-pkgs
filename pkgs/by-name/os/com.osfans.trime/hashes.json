@@ -1,18 +1,18 @@
 {
-  "apkName": "com.osfans.trime_20260701.apk",
+  "apkName": "com.osfans.trime_20261101.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Amnf9lm8o2NHJ596f1rCxAdBBrhGXH1YnCwv8OqypkQ="
+      "hash": "sha256-jSJYWhXHCZYgL4pyO/fxmSGZa7ULKBwbw7GyjuMK3xw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Amnf9lm8o2NHJ596f1rCxAdBBrhGXH1YnCwv8OqypkQ="
+      "hash": "sha256-jSJYWhXHCZYgL4pyO/fxmSGZa7ULKBwbw7GyjuMK3xw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Amnf9lm8o2NHJ596f1rCxAdBBrhGXH1YnCwv8OqypkQ="
+      "hash": "sha256-jSJYWhXHCZYgL4pyO/fxmSGZa7ULKBwbw7GyjuMK3xw="
     }
   },
-  "version": "3.3.11"
+  "version": "3.3.13"
 }

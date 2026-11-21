@@ -1,18 +1,18 @@
 {
-  "apkName": "de.qspool.clementineremote_759.apk",
+  "apkName": "de.qspool.clementineremote_2143.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-x617UODzT+RwsGp/bUfh4xqX9FXZ6+7NIzXuvVYgERg="
+      "hash": "sha256-hJ67wpa3SFlnu3JvUuUviho/bZRMTFx95VRv9xeDtuA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-x617UODzT+RwsGp/bUfh4xqX9FXZ6+7NIzXuvVYgERg="
+      "hash": "sha256-hJ67wpa3SFlnu3JvUuUviho/bZRMTFx95VRv9xeDtuA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-x617UODzT+RwsGp/bUfh4xqX9FXZ6+7NIzXuvVYgERg="
+      "hash": "sha256-hJ67wpa3SFlnu3JvUuUviho/bZRMTFx95VRv9xeDtuA="
     }
   },
-  "version": "v12"
+  "version": "13.14"
 }

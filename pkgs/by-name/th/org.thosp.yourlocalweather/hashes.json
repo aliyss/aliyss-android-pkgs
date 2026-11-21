@@ -1,18 +1,18 @@
 {
-  "apkName": "org.thosp.yourlocalweather_195.apk",
+  "apkName": "org.thosp.yourlocalweather_214.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5ZpkRXqoyHITi2//swSAFmNJGzBbrHEhlgZoOgP7UPs="
+      "hash": "sha256-YLwDsGlg4HKkB7uvf3BP8sLenp4eCXd1oiM+on68R18="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5ZpkRXqoyHITi2//swSAFmNJGzBbrHEhlgZoOgP7UPs="
+      "hash": "sha256-YLwDsGlg4HKkB7uvf3BP8sLenp4eCXd1oiM+on68R18="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5ZpkRXqoyHITi2//swSAFmNJGzBbrHEhlgZoOgP7UPs="
+      "hash": "sha256-YLwDsGlg4HKkB7uvf3BP8sLenp4eCXd1oiM+on68R18="
     }
   },
-  "version": "6.5.1-FOSS"
+  "version": "6.6.2-FOSS"
 }

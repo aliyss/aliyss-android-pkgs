@@ -1,18 +1,18 @@
 {
-  "apkName": "org.transdroid.full_249.apk",
+  "apkName": "org.transdroid.full_3000015.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-uWKf4LTa5KTzylsK/dX1DuvPTxk6CcED9NagKfnapfk="
+      "hash": "sha256-kgc4M3T95hZSVQrn563xaW0Ad25ehbeLKTGw9CoNHB8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uWKf4LTa5KTzylsK/dX1DuvPTxk6CcED9NagKfnapfk="
+      "hash": "sha256-kgc4M3T95hZSVQrn563xaW0Ad25ehbeLKTGw9CoNHB8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uWKf4LTa5KTzylsK/dX1DuvPTxk6CcED9NagKfnapfk="
+      "hash": "sha256-kgc4M3T95hZSVQrn563xaW0Ad25ehbeLKTGw9CoNHB8="
     }
   },
-  "version": "2.5.29"
+  "version": "3.0.0-beta3"
 }

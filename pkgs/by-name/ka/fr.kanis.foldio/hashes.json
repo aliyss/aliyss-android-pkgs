@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.kanis.foldio_1.apk",
+  "apkName": "fr.kanis.foldio_3.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vzz//xB/Rc904NY7PySCtZXlQBoi84sJZpswZaQRQZY="
+      "hash": "sha256-2cBCshC5Uttt2dff6o1y/GJCK0tEOaeU1Gy535IN4mE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vzz//xB/Rc904NY7PySCtZXlQBoi84sJZpswZaQRQZY="
+      "hash": "sha256-2cBCshC5Uttt2dff6o1y/GJCK0tEOaeU1Gy535IN4mE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vzz//xB/Rc904NY7PySCtZXlQBoi84sJZpswZaQRQZY="
+      "hash": "sha256-2cBCshC5Uttt2dff6o1y/GJCK0tEOaeU1Gy535IN4mE="
     }
   },
-  "version": "1.0.0"
+  "version": "1.2.0"
 }

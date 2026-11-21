@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dn0ne.lotus.community_1008003.apk",
+  "apkName": "com.dn0ne.lotus.community_1009002.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9ujcQXWrZSiAffULDwvlHfx5bqg8i95sByJCvcrS4lA="
+      "hash": "sha256-lwysZ7nUNQYJZ9VBpVnbIwHJe0jKknEHh1Uez8jbTL4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9ujcQXWrZSiAffULDwvlHfx5bqg8i95sByJCvcrS4lA="
+      "hash": "sha256-lwysZ7nUNQYJZ9VBpVnbIwHJe0jKknEHh1Uez8jbTL4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9ujcQXWrZSiAffULDwvlHfx5bqg8i95sByJCvcrS4lA="
+      "hash": "sha256-lwysZ7nUNQYJZ9VBpVnbIwHJe0jKknEHh1Uez8jbTL4="
     }
   },
-  "version": "1.8.3-community"
+  "version": "1.9.2-community"
 }

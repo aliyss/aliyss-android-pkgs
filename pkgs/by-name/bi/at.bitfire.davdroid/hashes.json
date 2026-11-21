@@ -1,18 +1,18 @@
 {
-  "apkName": "at.bitfire.davdroid_405190003.apk",
+  "apkName": "at.bitfire.davdroid_405210002.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Hv1NYlHSVvlfEg0AxI2sdBkm14kPdnMil2IuloOW0sQ="
+      "hash": "sha256-Qc+YMtl8MeP8aU5cZrOJkN7DMSk2zDNhQXFNsHJZCBs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Hv1NYlHSVvlfEg0AxI2sdBkm14kPdnMil2IuloOW0sQ="
+      "hash": "sha256-Qc+YMtl8MeP8aU5cZrOJkN7DMSk2zDNhQXFNsHJZCBs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Hv1NYlHSVvlfEg0AxI2sdBkm14kPdnMil2IuloOW0sQ="
+      "hash": "sha256-Qc+YMtl8MeP8aU5cZrOJkN7DMSk2zDNhQXFNsHJZCBs="
     }
   },
-  "version": "4.5.19-ose"
+  "version": "4.5.21-ose"
 }

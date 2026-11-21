@@ -1,18 +1,18 @@
 {
-  "apkName": "info.dvkr.screenstream_44002.apk",
+  "apkName": "info.dvkr.screenstream_45000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kA3gR8kS0mWdAOyMOL9t4u/63Md3h0huxEgbc+Sk8hg="
+      "hash": "sha256-VGQuDF57c70cswaJM5/Ku/XHxO89umt36EXZRESbQGc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kA3gR8kS0mWdAOyMOL9t4u/63Md3h0huxEgbc+Sk8hg="
+      "hash": "sha256-VGQuDF57c70cswaJM5/Ku/XHxO89umt36EXZRESbQGc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kA3gR8kS0mWdAOyMOL9t4u/63Md3h0huxEgbc+Sk8hg="
+      "hash": "sha256-VGQuDF57c70cswaJM5/Ku/XHxO89umt36EXZRESbQGc="
     }
   },
-  "version": "4.4.2"
+  "version": "4.5.0"
 }

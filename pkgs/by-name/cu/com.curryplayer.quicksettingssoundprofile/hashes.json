@@ -1,18 +1,18 @@
 {
-  "apkName": "com.curryplayer.quicksettingssoundprofile_9.apk",
+  "apkName": "com.curryplayer.quicksettingssoundprofile_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-UFMdNPiEi9XRZ4jCh3wLiCHUR9cQV4Wse2kOvP1tYDI="
+      "hash": "sha256-18DChvG99XIT381bmokCoQ/4X5tkuXGlmmCABKYZfqY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-UFMdNPiEi9XRZ4jCh3wLiCHUR9cQV4Wse2kOvP1tYDI="
+      "hash": "sha256-18DChvG99XIT381bmokCoQ/4X5tkuXGlmmCABKYZfqY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-UFMdNPiEi9XRZ4jCh3wLiCHUR9cQV4Wse2kOvP1tYDI="
+      "hash": "sha256-18DChvG99XIT381bmokCoQ/4X5tkuXGlmmCABKYZfqY="
     }
   },
-  "version": "1.0.1"
+  "version": "2.0.0"
 }

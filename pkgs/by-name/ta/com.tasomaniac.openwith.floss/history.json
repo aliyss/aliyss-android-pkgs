@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2.10-floss",
+      "versionCode": 21000
+    },
+    {
+      "version": "2.9-floss",
+      "versionCode": 20901
+    },
+    {
+      "version": "2.5-floss",
+      "versionCode": 20503
+    }
+  ]
+}

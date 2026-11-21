@@ -1,18 +1,18 @@
 {
-  "apkName": "me.blog.korn123.easydiary_346.apk",
+  "apkName": "me.blog.korn123.easydiary_355.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-U1NyI4m0HIZb6wz/lIgF5L9uJ+aLxBi6plpKY7uy4TM="
+      "hash": "sha256-jmC2RyV9H9DVLiusx0lSimeQzpRInFXawLu38Ubo4MQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-U1NyI4m0HIZb6wz/lIgF5L9uJ+aLxBi6plpKY7uy4TM="
+      "hash": "sha256-jmC2RyV9H9DVLiusx0lSimeQzpRInFXawLu38Ubo4MQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-U1NyI4m0HIZb6wz/lIgF5L9uJ+aLxBi6plpKY7uy4TM="
+      "hash": "sha256-jmC2RyV9H9DVLiusx0lSimeQzpRInFXawLu38Ubo4MQ="
     }
   },
-  "version": "1.4.346.202604090"
+  "version": "1.4.355.202611140"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.wbrawner.simplemarkdown.free_61.apk",
+  "apkName": "com.wbrawner.simplemarkdown.free_63.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-38aeJmoq0YGwv2BqqMVyZK76eteOAuKxor7RQ2ZGamQ="
+      "hash": "sha256-/HjA9sSgs4sTqjVXYZzfd3Tb1sKbz0F9Ss/FuetQSCU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-38aeJmoq0YGwv2BqqMVyZK76eteOAuKxor7RQ2ZGamQ="
+      "hash": "sha256-/HjA9sSgs4sTqjVXYZzfd3Tb1sKbz0F9Ss/FuetQSCU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-38aeJmoq0YGwv2BqqMVyZK76eteOAuKxor7RQ2ZGamQ="
+      "hash": "sha256-/HjA9sSgs4sTqjVXYZzfd3Tb1sKbz0F9Ss/FuetQSCU="
     }
   },
-  "version": "2026.06.02-free"
+  "version": "2026.10-free"
 }

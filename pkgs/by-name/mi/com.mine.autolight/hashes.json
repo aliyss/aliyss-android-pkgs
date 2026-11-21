@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mine.autolight_17.apk",
+  "apkName": "com.mine.autolight_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-H/mwP5o0l5yDs3qnV35ZENkCeORCIQFcsOXmAPNVv64="
+      "hash": "sha256-QUtU2ZQBDZJVZGA2Xq6eJ4OhlVmf5WJepogUUqXmh1E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-H/mwP5o0l5yDs3qnV35ZENkCeORCIQFcsOXmAPNVv64="
+      "hash": "sha256-QUtU2ZQBDZJVZGA2Xq6eJ4OhlVmf5WJepogUUqXmh1E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-H/mwP5o0l5yDs3qnV35ZENkCeORCIQFcsOXmAPNVv64="
+      "hash": "sha256-QUtU2ZQBDZJVZGA2Xq6eJ4OhlVmf5WJepogUUqXmh1E="
     }
   },
-  "version": "2.15"
+  "version": "3.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.arnv.bluke_8.apk",
+  "apkName": "dev.arnv.bluke_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yt4Jrvkp5sGdHdSddpXg8YPiNLQfN83Oj19XTZ+XRpI="
+      "hash": "sha256-jDT2gzFcfMrNxfPPeL9ujXuFRr+4P3J10RLdiuWLVIc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yt4Jrvkp5sGdHdSddpXg8YPiNLQfN83Oj19XTZ+XRpI="
+      "hash": "sha256-jDT2gzFcfMrNxfPPeL9ujXuFRr+4P3J10RLdiuWLVIc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yt4Jrvkp5sGdHdSddpXg8YPiNLQfN83Oj19XTZ+XRpI="
+      "hash": "sha256-jDT2gzFcfMrNxfPPeL9ujXuFRr+4P3J10RLdiuWLVIc="
     }
   },
-  "version": "1.0.7"
+  "version": "1.1.0"
 }

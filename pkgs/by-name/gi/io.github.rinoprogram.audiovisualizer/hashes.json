@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.rinoprogram.audiovisualizer_14.apk",
+  "apkName": "io.github.rinoprogram.audiovisualizer_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AE6XkxWfnT1pHao4mYizvrPjk+sOfi3tVbkGapMd/go="
+      "hash": "sha256-fKWtx7yYCEBJbyeTPFME+KgA1gGZmUdIya+lJU+IFc4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AE6XkxWfnT1pHao4mYizvrPjk+sOfi3tVbkGapMd/go="
+      "hash": "sha256-fKWtx7yYCEBJbyeTPFME+KgA1gGZmUdIya+lJU+IFc4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AE6XkxWfnT1pHao4mYizvrPjk+sOfi3tVbkGapMd/go="
+      "hash": "sha256-fKWtx7yYCEBJbyeTPFME+KgA1gGZmUdIya+lJU+IFc4="
     }
   },
-  "version": "1.1.1"
+  "version": "1.1.4"
 }

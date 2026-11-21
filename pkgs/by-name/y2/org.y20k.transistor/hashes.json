@@ -1,18 +1,18 @@
 {
-  "apkName": "org.y20k.transistor_115.apk",
+  "apkName": "org.y20k.transistor_118.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yCL9nwpaFUbBDhp+iTWgeLXUsZwybEVhQtxITLHiNv0="
+      "hash": "sha256-VpsrcBciSFuIrHmOBeqcJ1EvQ5opypapjycygFZ+ksY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yCL9nwpaFUbBDhp+iTWgeLXUsZwybEVhQtxITLHiNv0="
+      "hash": "sha256-VpsrcBciSFuIrHmOBeqcJ1EvQ5opypapjycygFZ+ksY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yCL9nwpaFUbBDhp+iTWgeLXUsZwybEVhQtxITLHiNv0="
+      "hash": "sha256-VpsrcBciSFuIrHmOBeqcJ1EvQ5opypapjycygFZ+ksY="
     }
   },
-  "version": "4.3.8"
+  "version": "4.3.11"
 }

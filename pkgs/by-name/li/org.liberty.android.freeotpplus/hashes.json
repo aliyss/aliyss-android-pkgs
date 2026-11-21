@@ -1,18 +1,18 @@
 {
-  "apkName": "org.liberty.android.freeotpplus_26.apk",
+  "apkName": "org.liberty.android.freeotpplus_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Bw8twB4xn+WgSvv5BnCG8m3eNlRtbfhvZ4crwEhhJPg="
+      "hash": "sha256-pE2Ax/LpAI1i2Q2xAN3TBGAWg2sriEKCWd42jH3g+Ac="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Bw8twB4xn+WgSvv5BnCG8m3eNlRtbfhvZ4crwEhhJPg="
+      "hash": "sha256-pE2Ax/LpAI1i2Q2xAN3TBGAWg2sriEKCWd42jH3g+Ac="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Bw8twB4xn+WgSvv5BnCG8m3eNlRtbfhvZ4crwEhhJPg="
+      "hash": "sha256-pE2Ax/LpAI1i2Q2xAN3TBGAWg2sriEKCWd42jH3g+Ac="
     }
   },
-  "version": "3.4"
+  "version": "3.5"
 }

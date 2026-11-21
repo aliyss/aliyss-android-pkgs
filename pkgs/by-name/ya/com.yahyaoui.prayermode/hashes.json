@@ -1,18 +1,18 @@
 {
-  "apkName": "com.yahyaoui.prayermode_10.apk",
+  "apkName": "com.yahyaoui.prayermode_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wzW3YWEHPprLUQlSHBI5tNOpv7KZ5cjB/+ROSjrlveE="
+      "hash": "sha256-GHdyseqAZBe9J3XKloDHV7LraC8g8jyfthoK26hrsmg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wzW3YWEHPprLUQlSHBI5tNOpv7KZ5cjB/+ROSjrlveE="
+      "hash": "sha256-GHdyseqAZBe9J3XKloDHV7LraC8g8jyfthoK26hrsmg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wzW3YWEHPprLUQlSHBI5tNOpv7KZ5cjB/+ROSjrlveE="
+      "hash": "sha256-GHdyseqAZBe9J3XKloDHV7LraC8g8jyfthoK26hrsmg="
     }
   },
-  "version": "1.8.1"
+  "version": "1.8.5"
 }

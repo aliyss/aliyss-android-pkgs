@@ -1,18 +1,18 @@
 {
-  "apkName": "org.thayyil.ringdroid_30100.apk",
+  "apkName": "org.thayyil.ringdroid_30200.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-3xTz424dLr8VghSRVRtptl44cqEjlGFITWI97xTCMl8="
+      "hash": "sha256-druJ22HH75VywYloBgaWwYel1eYYpxRPVKn7NTyzXjE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3xTz424dLr8VghSRVRtptl44cqEjlGFITWI97xTCMl8="
+      "hash": "sha256-druJ22HH75VywYloBgaWwYel1eYYpxRPVKn7NTyzXjE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3xTz424dLr8VghSRVRtptl44cqEjlGFITWI97xTCMl8="
+      "hash": "sha256-druJ22HH75VywYloBgaWwYel1eYYpxRPVKn7NTyzXjE="
     }
   },
-  "version": "3.1.0"
+  "version": "3.2.0"
 }

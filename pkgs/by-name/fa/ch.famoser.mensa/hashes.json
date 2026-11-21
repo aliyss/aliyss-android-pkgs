@@ -1,18 +1,18 @@
 {
-  "apkName": "ch.famoser.mensa_71.apk",
+  "apkName": "ch.famoser.mensa_73.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-v9H3hYZ5f6vSDyzU6wU/+sbJHmynFqODM+pygElTRoE="
+      "hash": "sha256-g3j7J7Z5ABotOl1t9LqPP4XMg5ZOdoD607iKDAxtu3s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-v9H3hYZ5f6vSDyzU6wU/+sbJHmynFqODM+pygElTRoE="
+      "hash": "sha256-g3j7J7Z5ABotOl1t9LqPP4XMg5ZOdoD607iKDAxtu3s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-v9H3hYZ5f6vSDyzU6wU/+sbJHmynFqODM+pygElTRoE="
+      "hash": "sha256-g3j7J7Z5ABotOl1t9LqPP4XMg5ZOdoD607iKDAxtu3s="
     }
   },
-  "version": "2.2.1"
+  "version": "2.2.3"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "uk.co.yahoo.p1rpp.secondsclock_7.apk",
+  "apkName": "uk.co.yahoo.p1rpp.secondsclock_88.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CCyTD0noftHSt0W7Sdn7py3OcD+wdX1Q56tB/hiqTCk="
+      "hash": "sha256-LBBZl/q4YszhrubMZWACOCIg22DIx4sSPRURn7QK8Cg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CCyTD0noftHSt0W7Sdn7py3OcD+wdX1Q56tB/hiqTCk="
+      "hash": "sha256-LBBZl/q4YszhrubMZWACOCIg22DIx4sSPRURn7QK8Cg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CCyTD0noftHSt0W7Sdn7py3OcD+wdX1Q56tB/hiqTCk="
+      "hash": "sha256-LBBZl/q4YszhrubMZWACOCIg22DIx4sSPRURn7QK8Cg="
     }
   },
-  "version": "2.3"
+  "version": "2.7.1"
 }

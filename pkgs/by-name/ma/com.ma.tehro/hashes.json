@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ma.tehro_11.apk",
+  "apkName": "com.ma.tehro_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ZWHCVcuAZdLLilxaSIHyGkUu3yIRPg+rSy9dCOy3qRA="
+      "hash": "sha256-4rvxHRtBJmSjaYQv/f25sxJ7WsruTx7QPKSEdTeBruU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZWHCVcuAZdLLilxaSIHyGkUu3yIRPg+rSy9dCOy3qRA="
+      "hash": "sha256-4rvxHRtBJmSjaYQv/f25sxJ7WsruTx7QPKSEdTeBruU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZWHCVcuAZdLLilxaSIHyGkUu3yIRPg+rSy9dCOy3qRA="
+      "hash": "sha256-4rvxHRtBJmSjaYQv/f25sxJ7WsruTx7QPKSEdTeBruU="
     }
   },
-  "version": "1.0.0"
+  "version": "1.6.0"
 }

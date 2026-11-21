@@ -1,18 +1,18 @@
 {
-  "apkName": "com.w2sv.wifiwidget_71.apk",
+  "apkName": "com.w2sv.wifiwidget_72.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+Yv8grOBoFHRccVkMEoqPFYj9oZxTPDc0pIJm7dJjOg="
+      "hash": "sha256-YKAo0q9/bCqgynLdbTTiDBZ4+ay0yv16ogyQrvi+2+k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+Yv8grOBoFHRccVkMEoqPFYj9oZxTPDc0pIJm7dJjOg="
+      "hash": "sha256-YKAo0q9/bCqgynLdbTTiDBZ4+ay0yv16ogyQrvi+2+k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+Yv8grOBoFHRccVkMEoqPFYj9oZxTPDc0pIJm7dJjOg="
+      "hash": "sha256-YKAo0q9/bCqgynLdbTTiDBZ4+ay0yv16ogyQrvi+2+k="
     }
   },
-  "version": "1.8.1"
+  "version": "1.8.2"
 }

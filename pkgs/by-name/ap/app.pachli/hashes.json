@@ -1,18 +1,18 @@
 {
-  "apkName": "app.pachli_53.apk",
+  "apkName": "app.pachli_57.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-R30rXZaxa30uAb6SZILiM2SMgi/CARDjXd8pi7hlIV0="
+      "hash": "sha256-20XsWcW31a/FnF45t0ge0b3XfjGQqoGGfUytuSusRrw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-R30rXZaxa30uAb6SZILiM2SMgi/CARDjXd8pi7hlIV0="
+      "hash": "sha256-20XsWcW31a/FnF45t0ge0b3XfjGQqoGGfUytuSusRrw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-R30rXZaxa30uAb6SZILiM2SMgi/CARDjXd8pi7hlIV0="
+      "hash": "sha256-20XsWcW31a/FnF45t0ge0b3XfjGQqoGGfUytuSusRrw="
     }
   },
-  "version": "3.8.0"
+  "version": "3.10.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.deedeedev.ytreader_8006.apk",
+  "apkName": "com.deedeedev.ytreader_8008.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-thOgMIyH5UQyrwPaSuEDz0LCbgC0KtkjXKyVHYSPMv4="
+      "hash": "sha256-D4KRRrHnQtIjm3Z/f7Dj17IaMCEeFhZyKrjJZUNDXOM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-thOgMIyH5UQyrwPaSuEDz0LCbgC0KtkjXKyVHYSPMv4="
+      "hash": "sha256-D4KRRrHnQtIjm3Z/f7Dj17IaMCEeFhZyKrjJZUNDXOM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-thOgMIyH5UQyrwPaSuEDz0LCbgC0KtkjXKyVHYSPMv4="
+      "hash": "sha256-D4KRRrHnQtIjm3Z/f7Dj17IaMCEeFhZyKrjJZUNDXOM="
     }
   },
-  "version": "0.8.5"
+  "version": "0.8.7"
 }

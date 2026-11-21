@@ -1,18 +1,18 @@
 {
-  "apkName": "org.unifiedpush.distributor.sunup_22.apk",
+  "apkName": "org.unifiedpush.distributor.sunup_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6+b7nIMQZjgJJvYU4Q9ipozlkdLGIUnE1qvTYR+Q/To="
+      "hash": "sha256-WZ4xFH73NXTPrAa7wHCHNj0gD3NY8wno0fhEbWqfftI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6+b7nIMQZjgJJvYU4Q9ipozlkdLGIUnE1qvTYR+Q/To="
+      "hash": "sha256-WZ4xFH73NXTPrAa7wHCHNj0gD3NY8wno0fhEbWqfftI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6+b7nIMQZjgJJvYU4Q9ipozlkdLGIUnE1qvTYR+Q/To="
+      "hash": "sha256-WZ4xFH73NXTPrAa7wHCHNj0gD3NY8wno0fhEbWqfftI="
     }
   },
-  "version": "1.3.2"
+  "version": "1.3.3"
 }

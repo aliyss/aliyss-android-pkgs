@@ -1,18 +1,18 @@
 {
-  "apkName": "com.fabienli.dokuwiki_82.apk",
+  "apkName": "com.fabienli.dokuwiki_83.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ApZhMcvWlRC43RO8LV68QdbexQmmVTa7xET6fu8Kzww="
+      "hash": "sha256-jhvErX4D/WY7+s2SvhmyF2q/Px3u6kyjGTR3Hes4L3w="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ApZhMcvWlRC43RO8LV68QdbexQmmVTa7xET6fu8Kzww="
+      "hash": "sha256-jhvErX4D/WY7+s2SvhmyF2q/Px3u6kyjGTR3Hes4L3w="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ApZhMcvWlRC43RO8LV68QdbexQmmVTa7xET6fu8Kzww="
+      "hash": "sha256-jhvErX4D/WY7+s2SvhmyF2q/Px3u6kyjGTR3Hes4L3w="
     }
   },
-  "version": "v1.4.0"
+  "version": "v1.5.0"
 }

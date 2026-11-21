@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.scarf.gc_3.apk",
+  "apkName": "dev.scarf.gc_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+7zwNFPUhxgy/Uvz3oS1Vi+J9gpIkwm6ag13pjku8fw="
+      "hash": "sha256-IG5mVjn/qnw1j53v06ERSiERltPMp94zvpLUVvEuOtI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+7zwNFPUhxgy/Uvz3oS1Vi+J9gpIkwm6ag13pjku8fw="
+      "hash": "sha256-IG5mVjn/qnw1j53v06ERSiERltPMp94zvpLUVvEuOtI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+7zwNFPUhxgy/Uvz3oS1Vi+J9gpIkwm6ag13pjku8fw="
+      "hash": "sha256-IG5mVjn/qnw1j53v06ERSiERltPMp94zvpLUVvEuOtI="
     }
   },
-  "version": "1.0.2"
+  "version": "1.1.1"
 }

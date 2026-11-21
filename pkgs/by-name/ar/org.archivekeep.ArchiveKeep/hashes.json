@@ -1,18 +1,18 @@
 {
-  "apkName": "org.archivekeep.ArchiveKeep_62.apk",
+  "apkName": "org.archivekeep.ArchiveKeep_83.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-hpHhd4Pi6/KPCtJH9hdK2c2xQcPOFHiSM22Dlg/a/pE="
+      "hash": "sha256-geHBuYN4bXh8x8KlZpb4EthX2WHWeYMghdiTIrfODHM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hpHhd4Pi6/KPCtJH9hdK2c2xQcPOFHiSM22Dlg/a/pE="
+      "hash": "sha256-geHBuYN4bXh8x8KlZpb4EthX2WHWeYMghdiTIrfODHM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hpHhd4Pi6/KPCtJH9hdK2c2xQcPOFHiSM22Dlg/a/pE="
+      "hash": "sha256-geHBuYN4bXh8x8KlZpb4EthX2WHWeYMghdiTIrfODHM="
     }
   },
-  "version": "0.6.2"
+  "version": "0.8.3"
 }

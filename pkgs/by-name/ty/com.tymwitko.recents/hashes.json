@@ -1,18 +1,18 @@
 {
-  "apkName": "com.tymwitko.recents_33.apk",
+  "apkName": "com.tymwitko.recents_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-dsJF+UyP88GZxBN5cNzFSTwBwFDOuip5iIuZMP3u17g="
+      "hash": "sha256-SQRlBHapMZD0YKrh0Y8g1kot7UWtUHxFIAiIyDXm0i8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dsJF+UyP88GZxBN5cNzFSTwBwFDOuip5iIuZMP3u17g="
+      "hash": "sha256-SQRlBHapMZD0YKrh0Y8g1kot7UWtUHxFIAiIyDXm0i8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dsJF+UyP88GZxBN5cNzFSTwBwFDOuip5iIuZMP3u17g="
+      "hash": "sha256-SQRlBHapMZD0YKrh0Y8g1kot7UWtUHxFIAiIyDXm0i8="
     }
   },
-  "version": "1.7.3"
+  "version": "1.8.1"
 }

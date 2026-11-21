@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "version": "2023.01",
+      "versionCode": 2
+    },
+    {
+      "version": "2020.04",
+      "versionCode": 1
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "apkName": "moe.chensi.volume_4.apk",
+  "apkName": "moe.chensi.volume_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wfFIAWbkhtFuwtuPKkegu2M2wTxFTEKQyT6xS0An8Cw="
+      "hash": "sha256-i9EPWoJtQF/nhGkBZgRciho2GLzELDDI9PBEeS+xStQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wfFIAWbkhtFuwtuPKkegu2M2wTxFTEKQyT6xS0An8Cw="
+      "hash": "sha256-i9EPWoJtQF/nhGkBZgRciho2GLzELDDI9PBEeS+xStQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wfFIAWbkhtFuwtuPKkegu2M2wTxFTEKQyT6xS0An8Cw="
+      "hash": "sha256-i9EPWoJtQF/nhGkBZgRciho2GLzELDDI9PBEeS+xStQ="
     }
   },
-  "version": "0.2"
+  "version": "0.3"
 }

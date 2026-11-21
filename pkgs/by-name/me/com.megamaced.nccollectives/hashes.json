@@ -1,18 +1,18 @@
 {
-  "apkName": "com.megamaced.nccollectives_26.apk",
+  "apkName": "com.megamaced.nccollectives_45.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CP8VDfb5TIVb0V7Dbzj5rPbLtnli8bZd+vqjXTU0cgM="
+      "hash": "sha256-wSrirh2H53uUC8M9CHvZlXyg5FmYK3E5ZR3BGRugC6Y="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CP8VDfb5TIVb0V7Dbzj5rPbLtnli8bZd+vqjXTU0cgM="
+      "hash": "sha256-wSrirh2H53uUC8M9CHvZlXyg5FmYK3E5ZR3BGRugC6Y="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CP8VDfb5TIVb0V7Dbzj5rPbLtnli8bZd+vqjXTU0cgM="
+      "hash": "sha256-wSrirh2H53uUC8M9CHvZlXyg5FmYK3E5ZR3BGRugC6Y="
     }
   },
-  "version": "2.6.0"
+  "version": "3.2.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.activitymanager_564.apk",
+  "apkName": "com.activitymanager_568.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-hSEGwmZ1QkXgCuF7Bc2vqLQ1dXMO7xV2HXU829OujOE="
+      "hash": "sha256-8QSCwjN6ZUkA1GgcFltjTAhF0G3CzBMt2RP3Df5+QIw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hSEGwmZ1QkXgCuF7Bc2vqLQ1dXMO7xV2HXU829OujOE="
+      "hash": "sha256-8QSCwjN6ZUkA1GgcFltjTAhF0G3CzBMt2RP3Df5+QIw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-hSEGwmZ1QkXgCuF7Bc2vqLQ1dXMO7xV2HXU829OujOE="
+      "hash": "sha256-8QSCwjN6ZUkA1GgcFltjTAhF0G3CzBMt2RP3Df5+QIw="
     }
   },
-  "version": "5.5.0"
+  "version": "5.5.4"
 }

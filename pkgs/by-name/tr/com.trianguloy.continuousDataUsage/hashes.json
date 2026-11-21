@@ -1,18 +1,18 @@
 {
-  "apkName": "com.trianguloy.continuousDataUsage_28.apk",
+  "apkName": "com.trianguloy.continuousDataUsage_30.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-geDQ8MaPDVjV5N0WJQ0gSepTHtiUhB4ZZ0q6enhfHiY="
+      "hash": "sha256-lpVPxpNPJ5yZmjD5CzvF3TmrTmJ9jQMHKkv3G2AgszI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-geDQ8MaPDVjV5N0WJQ0gSepTHtiUhB4ZZ0q6enhfHiY="
+      "hash": "sha256-lpVPxpNPJ5yZmjD5CzvF3TmrTmJ9jQMHKkv3G2AgszI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-geDQ8MaPDVjV5N0WJQ0gSepTHtiUhB4ZZ0q6enhfHiY="
+      "hash": "sha256-lpVPxpNPJ5yZmjD5CzvF3TmrTmJ9jQMHKkv3G2AgszI="
     }
   },
-  "version": "4.1"
+  "version": "4.2.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "cc.sovellus.vrcaa_300007.apk",
+  "apkName": "cc.sovellus.vrcaa_300100.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-uG4IFX7JL0tT6KHWlxZ+VI42J0dvZem4K3X7dxzvCJw="
+      "hash": "sha256-VG1MCqTvE5uxWjNQ8S/K/BIE1ZToLfF69b3MkqsZJFQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uG4IFX7JL0tT6KHWlxZ+VI42J0dvZem4K3X7dxzvCJw="
+      "hash": "sha256-VG1MCqTvE5uxWjNQ8S/K/BIE1ZToLfF69b3MkqsZJFQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-uG4IFX7JL0tT6KHWlxZ+VI42J0dvZem4K3X7dxzvCJw="
+      "hash": "sha256-VG1MCqTvE5uxWjNQ8S/K/BIE1ZToLfF69b3MkqsZJFQ="
     }
   },
-  "version": "3.0.7"
+  "version": "3.1.0"
 }

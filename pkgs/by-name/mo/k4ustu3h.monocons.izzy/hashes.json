@@ -1,18 +1,18 @@
 {
-  "apkName": "k4ustu3h.monocons.izzy_9.apk",
+  "apkName": "k4ustu3h.monocons.izzy_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9M8O52C/v3oWocvzPeEk4TNHa3PwwbVgRSoTLm40SFI="
+      "hash": "sha256-oSqCvjqQ2reh8oEvoRhazKmsxTE5XH5qvB0looDTPgw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9M8O52C/v3oWocvzPeEk4TNHa3PwwbVgRSoTLm40SFI="
+      "hash": "sha256-oSqCvjqQ2reh8oEvoRhazKmsxTE5XH5qvB0looDTPgw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9M8O52C/v3oWocvzPeEk4TNHa3PwwbVgRSoTLm40SFI="
+      "hash": "sha256-oSqCvjqQ2reh8oEvoRhazKmsxTE5XH5qvB0looDTPgw="
     }
   },
-  "version": "1.2.0"
+  "version": "1.3.0"
 }

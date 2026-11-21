@@ -1,18 +1,18 @@
 {
-  "apkName": "com.subtracks_9.apk",
+  "apkName": "com.subtracks_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gKJfSHOFbVurJX15HPxpxkCRk9VAzUPqWeit4bjRAsY="
+      "hash": "sha256-EY7xZrzzJTrl0ke9ytYV/HsKD6F8SkXZ5pfF7Fhu5L8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gKJfSHOFbVurJX15HPxpxkCRk9VAzUPqWeit4bjRAsY="
+      "hash": "sha256-EY7xZrzzJTrl0ke9ytYV/HsKD6F8SkXZ5pfF7Fhu5L8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gKJfSHOFbVurJX15HPxpxkCRk9VAzUPqWeit4bjRAsY="
+      "hash": "sha256-EY7xZrzzJTrl0ke9ytYV/HsKD6F8SkXZ5pfF7Fhu5L8="
     }
   },
-  "version": "1.3.0"
+  "version": "3.1.0"
 }

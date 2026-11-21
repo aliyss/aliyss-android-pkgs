@@ -1,18 +1,18 @@
 {
-  "apkName": "com.jens.automation2_148.apk",
+  "apkName": "com.jens.automation2_149.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TrHqnqoc7rVsWZkwKMwCaEofDbUX2QnZ99LAgcAmTdA="
+      "hash": "sha256-5IeKxacwj4hnRyFBaKv/ozL4rlV3vNGrnqjWpB6E34c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TrHqnqoc7rVsWZkwKMwCaEofDbUX2QnZ99LAgcAmTdA="
+      "hash": "sha256-5IeKxacwj4hnRyFBaKv/ozL4rlV3vNGrnqjWpB6E34c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TrHqnqoc7rVsWZkwKMwCaEofDbUX2QnZ99LAgcAmTdA="
+      "hash": "sha256-5IeKxacwj4hnRyFBaKv/ozL4rlV3vNGrnqjWpB6E34c="
     }
   },
-  "version": "1.8.7"
+  "version": "1.8.8"
 }

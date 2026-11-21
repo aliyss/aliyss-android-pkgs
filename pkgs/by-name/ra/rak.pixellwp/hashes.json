@@ -1,18 +1,18 @@
 {
-  "apkName": "rak.pixellwp_12.apk",
+  "apkName": "rak.pixellwp_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-blJtNhoR5H2FySZkTI027rdgArtChXklsPHxVUddA3o="
+      "hash": "sha256-phUY41NrB5WHKVi8e3zRSdBPS3fp7hjBhlVH30EXjFw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-blJtNhoR5H2FySZkTI027rdgArtChXklsPHxVUddA3o="
+      "hash": "sha256-phUY41NrB5WHKVi8e3zRSdBPS3fp7hjBhlVH30EXjFw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-blJtNhoR5H2FySZkTI027rdgArtChXklsPHxVUddA3o="
+      "hash": "sha256-phUY41NrB5WHKVi8e3zRSdBPS3fp7hjBhlVH30EXjFw="
     }
   },
-  "version": "2.3.1"
+  "version": "2.3.2"
 }

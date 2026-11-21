@@ -1,18 +1,18 @@
 {
-  "apkName": "com.roufsyed.onekey_3.apk",
+  "apkName": "com.roufsyed.onekey_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aQpYu3V4DZ+DUYOubetWPgbbZZIYpCdd3UC6FTU9Zs4="
+      "hash": "sha256-kkE2xEFkINbzTMEUj76Ev3a1XRCvdRccCXIMYt1cDxQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aQpYu3V4DZ+DUYOubetWPgbbZZIYpCdd3UC6FTU9Zs4="
+      "hash": "sha256-kkE2xEFkINbzTMEUj76Ev3a1XRCvdRccCXIMYt1cDxQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aQpYu3V4DZ+DUYOubetWPgbbZZIYpCdd3UC6FTU9Zs4="
+      "hash": "sha256-kkE2xEFkINbzTMEUj76Ev3a1XRCvdRccCXIMYt1cDxQ="
     }
   },
-  "version": "1.1.1"
+  "version": "1.1.2"
 }

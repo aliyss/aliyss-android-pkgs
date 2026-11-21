@@ -1,18 +1,18 @@
 {
-  "apkName": "com.corphish.quicktools_34.apk",
+  "apkName": "com.corphish.quicktools_38.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-nDCjYj6Dli/V1IzpA4BsR8kvr3a2VB0CojcsYnZ1oIA="
+      "hash": "sha256-waq0tnMdW3qrNbUDTnDAcAZmSLD/64/mJGfAgxxhYbw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nDCjYj6Dli/V1IzpA4BsR8kvr3a2VB0CojcsYnZ1oIA="
+      "hash": "sha256-waq0tnMdW3qrNbUDTnDAcAZmSLD/64/mJGfAgxxhYbw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-nDCjYj6Dli/V1IzpA4BsR8kvr3a2VB0CojcsYnZ1oIA="
+      "hash": "sha256-waq0tnMdW3qrNbUDTnDAcAZmSLD/64/mJGfAgxxhYbw="
     }
   },
-  "version": "2.2.4"
+  "version": "3.0.0"
 }

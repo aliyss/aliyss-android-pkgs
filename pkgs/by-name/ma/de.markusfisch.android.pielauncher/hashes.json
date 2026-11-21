@@ -1,18 +1,18 @@
 {
-  "apkName": "de.markusfisch.android.pielauncher_75.apk",
+  "apkName": "de.markusfisch.android.pielauncher_76.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Os8UF7TPpzslN4L3W3fTdT3kwrUYYVTfwb/z5Zs+xEA="
+      "hash": "sha256-xD7AcceFQzRkY3/G/yUYa3Hh9oDFyatKWf46HJChrDE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Os8UF7TPpzslN4L3W3fTdT3kwrUYYVTfwb/z5Zs+xEA="
+      "hash": "sha256-xD7AcceFQzRkY3/G/yUYa3Hh9oDFyatKWf46HJChrDE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Os8UF7TPpzslN4L3W3fTdT3kwrUYYVTfwb/z5Zs+xEA="
+      "hash": "sha256-xD7AcceFQzRkY3/G/yUYa3Hh9oDFyatKWf46HJChrDE="
     }
   },
-  "version": "1.28.0"
+  "version": "1.29.0"
 }

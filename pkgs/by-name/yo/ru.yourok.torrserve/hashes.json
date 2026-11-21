@@ -1,18 +1,18 @@
 {
-  "apkName": "ru.yourok.torrserve_176.apk",
+  "apkName": "ru.yourok.torrserve_180.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Z/a7HXyFZI5EdkhInKz4n2rbGAOkg98odQU8h21n310="
+      "hash": "sha256-YoQMEI5crOGYsdt5DOI4HSwwkTBUZQsjr2Z3gMkumDg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Z/a7HXyFZI5EdkhInKz4n2rbGAOkg98odQU8h21n310="
+      "hash": "sha256-YoQMEI5crOGYsdt5DOI4HSwwkTBUZQsjr2Z3gMkumDg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Z/a7HXyFZI5EdkhInKz4n2rbGAOkg98odQU8h21n310="
+      "hash": "sha256-YoQMEI5crOGYsdt5DOI4HSwwkTBUZQsjr2Z3gMkumDg="
     }
   },
-  "version": "MatriX.141.FOSS"
+  "version": "MatriX.146.FOSS"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.cliffracertech.soundaura_13.apk",
+  "apkName": "com.cliffracertech.soundaura_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-rOKWH1EW3ZnCVYH64LG/zq9+VWrZP9AjyBVfnXS18BA="
+      "hash": "sha256-prCdQJHnbh+ajvgLGbv5ad7WI2mJtcmnNqF/ETgb2g0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rOKWH1EW3ZnCVYH64LG/zq9+VWrZP9AjyBVfnXS18BA="
+      "hash": "sha256-prCdQJHnbh+ajvgLGbv5ad7WI2mJtcmnNqF/ETgb2g0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-rOKWH1EW3ZnCVYH64LG/zq9+VWrZP9AjyBVfnXS18BA="
+      "hash": "sha256-prCdQJHnbh+ajvgLGbv5ad7WI2mJtcmnNqF/ETgb2g0="
     }
   },
-  "version": "1.6.2"
+  "version": "1.6.4"
 }

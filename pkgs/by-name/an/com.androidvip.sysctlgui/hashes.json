@@ -1,18 +1,18 @@
 {
-  "apkName": "com.androidvip.sysctlgui_23.apk",
+  "apkName": "com.androidvip.sysctlgui_25.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-l34B9lBhmTFaQC6bDxDSdz9p5sBj9E/VvK7yUImiowg="
+      "hash": "sha256-+KEtOaCJZAwRzrjXGKg61BAVjjnbl0O6K4bD1dTZ1gA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-l34B9lBhmTFaQC6bDxDSdz9p5sBj9E/VvK7yUImiowg="
+      "hash": "sha256-+KEtOaCJZAwRzrjXGKg61BAVjjnbl0O6K4bD1dTZ1gA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-l34B9lBhmTFaQC6bDxDSdz9p5sBj9E/VvK7yUImiowg="
+      "hash": "sha256-+KEtOaCJZAwRzrjXGKg61BAVjjnbl0O6K4bD1dTZ1gA="
     }
   },
-  "version": "3.1.0"
+  "version": "3.3.0"
 }

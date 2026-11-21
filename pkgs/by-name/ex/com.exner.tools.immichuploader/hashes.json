@@ -1,18 +1,18 @@
 {
-  "apkName": "com.exner.tools.immichuploader_23.apk",
+  "apkName": "com.exner.tools.immichuploader_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-YBuRiUN5AvHnEGRHG8ZuCY9WccUnfWBuXDe17ahX6RE="
+      "hash": "sha256-VXjqqB5x/jzU8v5zdN8/MulMdHwry7PBYCWBWV1Bhgo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YBuRiUN5AvHnEGRHG8ZuCY9WccUnfWBuXDe17ahX6RE="
+      "hash": "sha256-VXjqqB5x/jzU8v5zdN8/MulMdHwry7PBYCWBWV1Bhgo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YBuRiUN5AvHnEGRHG8ZuCY9WccUnfWBuXDe17ahX6RE="
+      "hash": "sha256-VXjqqB5x/jzU8v5zdN8/MulMdHwry7PBYCWBWV1Bhgo="
     }
   },
-  "version": "3.0.1"
+  "version": "3.1.0"
 }

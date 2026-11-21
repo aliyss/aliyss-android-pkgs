@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.vipaol.mobapp.game_23.apk",
+  "apkName": "io.github.vipaol.mobapp.game_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6Yyal+Cc0Uvtkmdp3gUyXSe8K1PYaK2vTv0ehqr0hO8="
+      "hash": "sha256-bdaPqZOkN4fUIZgkgFfb6ybivK8cj/ZaiFU1p64C7Ow="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6Yyal+Cc0Uvtkmdp3gUyXSe8K1PYaK2vTv0ehqr0hO8="
+      "hash": "sha256-bdaPqZOkN4fUIZgkgFfb6ybivK8cj/ZaiFU1p64C7Ow="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6Yyal+Cc0Uvtkmdp3gUyXSe8K1PYaK2vTv0ehqr0hO8="
+      "hash": "sha256-bdaPqZOkN4fUIZgkgFfb6ybivK8cj/ZaiFU1p64C7Ow="
     }
   },
-  "version": "v0.9.7"
+  "version": "v0.9.8"
 }

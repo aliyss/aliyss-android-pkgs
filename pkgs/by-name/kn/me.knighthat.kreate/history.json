@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "2.2.5-fdroid",
+      "versionCode": 143
+    },
+    {
+      "version": "2.2.4-fdroid",
+      "versionCode": 142
+    },
+    {
+      "version": "2.2.3-fdroid",
+      "versionCode": 141
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.metrolist.music_153.apk",
+  "apkName": "com.metrolist.music_155.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bSpbaix98rCcbDGWmjl4phiYh5VW8ia7MJVZbwfIdNc="
+      "hash": "sha256-sZF4FjpvdhZrH3d5uNhFMyhVkartFw3cIN7i0v/gdZk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bSpbaix98rCcbDGWmjl4phiYh5VW8ia7MJVZbwfIdNc="
+      "hash": "sha256-sZF4FjpvdhZrH3d5uNhFMyhVkartFw3cIN7i0v/gdZk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bSpbaix98rCcbDGWmjl4phiYh5VW8ia7MJVZbwfIdNc="
+      "hash": "sha256-sZF4FjpvdhZrH3d5uNhFMyhVkartFw3cIN7i0v/gdZk="
     }
   },
-  "version": "13.7.0"
+  "version": "14.0.1"
 }

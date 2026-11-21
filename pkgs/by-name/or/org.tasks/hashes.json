@@ -1,18 +1,18 @@
 {
-  "apkName": "org.tasks_150902.apk",
+  "apkName": "org.tasks_151404.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jsqspSb0LOLwj5Wr/RU4GiOo1Xhjpehv1oDXV9Sp+ck="
+      "hash": "sha256-iMRHdTs9u76OVbFpQ4eNMq4bTy8rotfFSzG3AgnfEX0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jsqspSb0LOLwj5Wr/RU4GiOo1Xhjpehv1oDXV9Sp+ck="
+      "hash": "sha256-iMRHdTs9u76OVbFpQ4eNMq4bTy8rotfFSzG3AgnfEX0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jsqspSb0LOLwj5Wr/RU4GiOo1Xhjpehv1oDXV9Sp+ck="
+      "hash": "sha256-iMRHdTs9u76OVbFpQ4eNMq4bTy8rotfFSzG3AgnfEX0="
     }
   },
-  "version": "15.9"
+  "version": "15.14"
 }

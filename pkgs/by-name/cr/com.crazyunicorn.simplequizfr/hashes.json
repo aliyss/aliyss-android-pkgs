@@ -1,18 +1,18 @@
 {
-  "apkName": "com.crazyunicorn.simplequizfr_14.apk",
+  "apkName": "com.crazyunicorn.simplequizfr_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-X/ScR8XKzSpxNokmO3alBLbWOVVjMrEklCBAfbtQPnk="
+      "hash": "sha256-FxEDbeeyqBlscE0CFq5MHan/YzgLgII8LUeXDwtH90A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-X/ScR8XKzSpxNokmO3alBLbWOVVjMrEklCBAfbtQPnk="
+      "hash": "sha256-FxEDbeeyqBlscE0CFq5MHan/YzgLgII8LUeXDwtH90A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-X/ScR8XKzSpxNokmO3alBLbWOVVjMrEklCBAfbtQPnk="
+      "hash": "sha256-FxEDbeeyqBlscE0CFq5MHan/YzgLgII8LUeXDwtH90A="
     }
   },
-  "version": "2026.07.30"
+  "version": "2026.10.10"
 }

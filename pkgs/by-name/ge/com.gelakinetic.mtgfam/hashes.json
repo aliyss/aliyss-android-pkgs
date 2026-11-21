@@ -1,18 +1,18 @@
 {
-  "apkName": "com.gelakinetic.mtgfam_99.apk",
+  "apkName": "com.gelakinetic.mtgfam_100.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-4vRRUZ0E6ZIr9pslUGnEkqr8x1k5FPNltP1xl+swSbM="
+      "hash": "sha256-aUkVcqYKkbO2CPI9dC9evNNTgkkSg8GeIFH1L+PNvLs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4vRRUZ0E6ZIr9pslUGnEkqr8x1k5FPNltP1xl+swSbM="
+      "hash": "sha256-aUkVcqYKkbO2CPI9dC9evNNTgkkSg8GeIFH1L+PNvLs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4vRRUZ0E6ZIr9pslUGnEkqr8x1k5FPNltP1xl+swSbM="
+      "hash": "sha256-aUkVcqYKkbO2CPI9dC9evNNTgkkSg8GeIFH1L+PNvLs="
     }
   },
-  "version": "3.9.16"
+  "version": "3.9.17"
 }

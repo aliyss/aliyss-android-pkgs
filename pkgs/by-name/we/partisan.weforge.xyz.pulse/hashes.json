@@ -1,18 +1,18 @@
 {
-  "apkName": "partisan.weforge.xyz.pulse_20.apk",
+  "apkName": "partisan.weforge.xyz.pulse_21.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vFh3yXJQfal7M4gqDSKJtGI+HZqR3RR+KIXypjbGXmE="
+      "hash": "sha256-RoW36nyhkHDzVQILLFmZB63nw33gZWyfhfT3CQTGpAI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vFh3yXJQfal7M4gqDSKJtGI+HZqR3RR+KIXypjbGXmE="
+      "hash": "sha256-RoW36nyhkHDzVQILLFmZB63nw33gZWyfhfT3CQTGpAI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vFh3yXJQfal7M4gqDSKJtGI+HZqR3RR+KIXypjbGXmE="
+      "hash": "sha256-RoW36nyhkHDzVQILLFmZB63nw33gZWyfhfT3CQTGpAI="
     }
   },
-  "version": "2.2.1"
+  "version": "2.3.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "orinasa.njarasoa.maripanatokana_58.apk",
+  "apkName": "orinasa.njarasoa.maripanatokana_194.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Prkr6vA35H4bEVYGFdPqyhdntYVEk6GERjPtZB7ibq4="
+      "hash": "sha256-B1yq0Py53J7UDuVYMKC/S//Z0c8ai5U4yDsu6Vqeigw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Prkr6vA35H4bEVYGFdPqyhdntYVEk6GERjPtZB7ibq4="
+      "hash": "sha256-B1yq0Py53J7UDuVYMKC/S//Z0c8ai5U4yDsu6Vqeigw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Prkr6vA35H4bEVYGFdPqyhdntYVEk6GERjPtZB7ibq4="
+      "hash": "sha256-B1yq0Py53J7UDuVYMKC/S//Z0c8ai5U4yDsu6Vqeigw="
     }
   },
-  "version": "1.2.15"
+  "version": "1.7.20261116171218"
 }

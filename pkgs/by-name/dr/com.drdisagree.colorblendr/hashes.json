@@ -1,18 +1,18 @@
 {
-  "apkName": "com.drdisagree.colorblendr_42.apk",
+  "apkName": "com.drdisagree.colorblendr_46.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ow6o8U6p1jSTgfwrbVN7GcE35HYtxYcT2hior5FwAEU="
+      "hash": "sha256-8Tea8T1+NO1Slz4JZKIZaLp110X0Iw0+czgV2ow/yAM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ow6o8U6p1jSTgfwrbVN7GcE35HYtxYcT2hior5FwAEU="
+      "hash": "sha256-8Tea8T1+NO1Slz4JZKIZaLp110X0Iw0+czgV2ow/yAM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ow6o8U6p1jSTgfwrbVN7GcE35HYtxYcT2hior5FwAEU="
+      "hash": "sha256-8Tea8T1+NO1Slz4JZKIZaLp110X0Iw0+czgV2ow/yAM="
     }
   },
-  "version": "v3.0.1"
+  "version": "v3.1.3"
 }

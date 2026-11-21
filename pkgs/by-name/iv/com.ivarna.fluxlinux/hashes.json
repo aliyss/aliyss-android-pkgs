@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ivarna.fluxlinux_10.apk",
+  "apkName": "com.ivarna.fluxlinux_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6INzSQRzI4MewpiEzi40ZSvbhLtndbNFdNZtDpO2G0c="
+      "hash": "sha256-fiZIqmA51b8xd2EgGA7SpGt+hhuakYg/RzbRyQonDYE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6INzSQRzI4MewpiEzi40ZSvbhLtndbNFdNZtDpO2G0c="
+      "hash": "sha256-fiZIqmA51b8xd2EgGA7SpGt+hhuakYg/RzbRyQonDYE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6INzSQRzI4MewpiEzi40ZSvbhLtndbNFdNZtDpO2G0c="
+      "hash": "sha256-fiZIqmA51b8xd2EgGA7SpGt+hhuakYg/RzbRyQonDYE="
     }
   },
-  "version": "1.8.0"
+  "version": "2.0.1"
 }

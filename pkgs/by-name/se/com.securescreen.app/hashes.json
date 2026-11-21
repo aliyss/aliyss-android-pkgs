@@ -1,18 +1,18 @@
 {
-  "apkName": "com.securescreen.app_7.apk",
+  "apkName": "com.securescreen.app_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-1+vW8lizI/VjUV+ipINCCx5d4c2KL6onP4QdZUjMulg="
+      "hash": "sha256-5CRYxRzsWGZ2Crv1N0ZUd29Df1ZgJlU7MQXofMhsROY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1+vW8lizI/VjUV+ipINCCx5d4c2KL6onP4QdZUjMulg="
+      "hash": "sha256-5CRYxRzsWGZ2Crv1N0ZUd29Df1ZgJlU7MQXofMhsROY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-1+vW8lizI/VjUV+ipINCCx5d4c2KL6onP4QdZUjMulg="
+      "hash": "sha256-5CRYxRzsWGZ2Crv1N0ZUd29Df1ZgJlU7MQXofMhsROY="
     }
   },
-  "version": "1.2.0"
+  "version": "1.3.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "jwtc.android.chess_284.apk",
+  "apkName": "jwtc.android.chess_313.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TTrHfvu9PaAwiZk36bqNTvRyuBO22KqTm1YyYjK747I="
+      "hash": "sha256-o4lqqzj3+P83+Q6GyQFoZiTYThLiKUR951n0lB2A0xo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TTrHfvu9PaAwiZk36bqNTvRyuBO22KqTm1YyYjK747I="
+      "hash": "sha256-o4lqqzj3+P83+Q6GyQFoZiTYThLiKUR951n0lB2A0xo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TTrHfvu9PaAwiZk36bqNTvRyuBO22KqTm1YyYjK747I="
+      "hash": "sha256-o4lqqzj3+P83+Q6GyQFoZiTYThLiKUR951n0lB2A0xo="
     }
   },
-  "version": "10.3.2"
+  "version": "10.7.0"
 }

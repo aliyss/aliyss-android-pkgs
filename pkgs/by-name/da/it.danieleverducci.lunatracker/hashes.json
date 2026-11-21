@@ -1,18 +1,18 @@
 {
-  "apkName": "it.danieleverducci.lunatracker_6.apk",
+  "apkName": "it.danieleverducci.lunatracker_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NI6pHcnFW+16+SssGRQicjopluLAnngY/CG0qLxKxl4="
+      "hash": "sha256-hK2wvjd1irOjDszD6FrU2urfMlCuYHk1kM83zGRlTQs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NI6pHcnFW+16+SssGRQicjopluLAnngY/CG0qLxKxl4="
+      "hash": "sha256-hK2wvjd1irOjDszD6FrU2urfMlCuYHk1kM83zGRlTQs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NI6pHcnFW+16+SssGRQicjopluLAnngY/CG0qLxKxl4="
+      "hash": "sha256-hK2wvjd1irOjDszD6FrU2urfMlCuYHk1kM83zGRlTQs="
     }
   },
-  "version": "0.8"
+  "version": "0.9"
 }

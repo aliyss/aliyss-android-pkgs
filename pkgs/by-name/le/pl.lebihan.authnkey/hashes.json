@@ -1,18 +1,18 @@
 {
-  "apkName": "pl.lebihan.authnkey_12.apk",
+  "apkName": "pl.lebihan.authnkey_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zXrU8c9DytSKed+wEdUmxqNp1xeVuMhyar9BudF8i4g="
+      "hash": "sha256-P7DzD0TbqFR2D+7+/lmSvRDtr8pVHu0U63lwhzJ4n34="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zXrU8c9DytSKed+wEdUmxqNp1xeVuMhyar9BudF8i4g="
+      "hash": "sha256-P7DzD0TbqFR2D+7+/lmSvRDtr8pVHu0U63lwhzJ4n34="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zXrU8c9DytSKed+wEdUmxqNp1xeVuMhyar9BudF8i4g="
+      "hash": "sha256-P7DzD0TbqFR2D+7+/lmSvRDtr8pVHu0U63lwhzJ4n34="
     }
   },
-  "version": "1.2.5"
+  "version": "1.2.6"
 }

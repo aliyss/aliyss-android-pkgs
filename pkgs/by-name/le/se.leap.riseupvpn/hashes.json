@@ -1,18 +1,18 @@
 {
-  "apkName": "se.leap.riseupvpn_186000.apk",
+  "apkName": "se.leap.riseupvpn_188000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TaMGI0lPkbZonXEL/aTbL3zhwAUNeQNDFhJhWCTAP3U="
+      "hash": "sha256-pktGEvmZUbKTDN7I8G0HbY7c0KKVrw3525WwRZ+4x00="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TaMGI0lPkbZonXEL/aTbL3zhwAUNeQNDFhJhWCTAP3U="
+      "hash": "sha256-pktGEvmZUbKTDN7I8G0HbY7c0KKVrw3525WwRZ+4x00="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TaMGI0lPkbZonXEL/aTbL3zhwAUNeQNDFhJhWCTAP3U="
+      "hash": "sha256-pktGEvmZUbKTDN7I8G0HbY7c0KKVrw3525WwRZ+4x00="
     }
   },
-  "version": "1.6.3"
+  "version": "1.7.1"
 }

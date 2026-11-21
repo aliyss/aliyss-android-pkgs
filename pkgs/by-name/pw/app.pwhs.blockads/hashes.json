@@ -1,18 +1,18 @@
 {
-  "apkName": "app.pwhs.blockads_51.apk",
+  "apkName": "app.pwhs.blockads_56.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-DDyVBjy5qf0XNt+V1KoesqJFoCsmhe+8OVjh5l8DS7c="
+      "hash": "sha256-zQoFtFjGUk9Ey4/JClhseVPT2ncV/A81hQHH8OtidzE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DDyVBjy5qf0XNt+V1KoesqJFoCsmhe+8OVjh5l8DS7c="
+      "hash": "sha256-zQoFtFjGUk9Ey4/JClhseVPT2ncV/A81hQHH8OtidzE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DDyVBjy5qf0XNt+V1KoesqJFoCsmhe+8OVjh5l8DS7c="
+      "hash": "sha256-zQoFtFjGUk9Ey4/JClhseVPT2ncV/A81hQHH8OtidzE="
     }
   },
-  "version": "6.5.2"
+  "version": "7.0.0"
 }

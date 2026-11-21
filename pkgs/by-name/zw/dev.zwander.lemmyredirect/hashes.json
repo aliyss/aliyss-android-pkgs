@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.zwander.lemmyredirect_44.apk",
+  "apkName": "dev.zwander.lemmyredirect_47.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2SsqOu7kEMAyIVDU2/gjL3tybha+JOk9NBFm/yjTD3M="
+      "hash": "sha256-iTQvPfmGKRqCc4306eUm+dwXENOLr0Sgbfwqmfnsd3g="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2SsqOu7kEMAyIVDU2/gjL3tybha+JOk9NBFm/yjTD3M="
+      "hash": "sha256-iTQvPfmGKRqCc4306eUm+dwXENOLr0Sgbfwqmfnsd3g="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2SsqOu7kEMAyIVDU2/gjL3tybha+JOk9NBFm/yjTD3M="
+      "hash": "sha256-iTQvPfmGKRqCc4306eUm+dwXENOLr0Sgbfwqmfnsd3g="
     }
   },
-  "version": "1.15.1"
+  "version": "1.16.1"
 }

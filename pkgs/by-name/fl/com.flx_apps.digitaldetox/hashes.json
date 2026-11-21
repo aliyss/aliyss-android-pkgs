@@ -1,18 +1,18 @@
 {
-  "apkName": "com.flx_apps.digitaldetox_20601.apk",
+  "apkName": "com.flx_apps.digitaldetox_30001.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0+PLf0A6xMqmB0znWjfBr9Yn+LbKyUzd2eSfHJ0xjtQ="
+      "hash": "sha256-PP3xIU+V+GnVE/ONLevCSB5Lm17TbOEFofyf7S/NdEc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0+PLf0A6xMqmB0znWjfBr9Yn+LbKyUzd2eSfHJ0xjtQ="
+      "hash": "sha256-PP3xIU+V+GnVE/ONLevCSB5Lm17TbOEFofyf7S/NdEc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0+PLf0A6xMqmB0znWjfBr9Yn+LbKyUzd2eSfHJ0xjtQ="
+      "hash": "sha256-PP3xIU+V+GnVE/ONLevCSB5Lm17TbOEFofyf7S/NdEc="
     }
   },
-  "version": "2.6.1"
+  "version": "3.0.1"
 }

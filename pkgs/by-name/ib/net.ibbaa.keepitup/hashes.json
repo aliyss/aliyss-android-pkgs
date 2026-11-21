@@ -1,18 +1,18 @@
 {
-  "apkName": "net.ibbaa.keepitup_23.apk",
+  "apkName": "net.ibbaa.keepitup_25.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tSlnpiogtboh1OhrQY2YFEzJmo/E7hR7bfXtg43dXKs="
+      "hash": "sha256-dmHOLpOk36BOaJAiXYdE3z1NgG7jNQq5CJ3OY0fUy5M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tSlnpiogtboh1OhrQY2YFEzJmo/E7hR7bfXtg43dXKs="
+      "hash": "sha256-dmHOLpOk36BOaJAiXYdE3z1NgG7jNQq5CJ3OY0fUy5M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tSlnpiogtboh1OhrQY2YFEzJmo/E7hR7bfXtg43dXKs="
+      "hash": "sha256-dmHOLpOk36BOaJAiXYdE3z1NgG7jNQq5CJ3OY0fUy5M="
     }
   },
-  "version": "1.12.1"
+  "version": "1.13.1"
 }

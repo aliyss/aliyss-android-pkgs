@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.randombits.intervaltimer_14.apk",
+  "apkName": "dev.randombits.intervaltimer_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-fLYebZ2BtxOzhHgzTZQs8qn9CCbfQ5JLrZNIUA+Tlqg="
+      "hash": "sha256-Fjqq7TBpwTusKmzklTqtYGLCzpEnkR3RpAiadoohRoc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fLYebZ2BtxOzhHgzTZQs8qn9CCbfQ5JLrZNIUA+Tlqg="
+      "hash": "sha256-Fjqq7TBpwTusKmzklTqtYGLCzpEnkR3RpAiadoohRoc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fLYebZ2BtxOzhHgzTZQs8qn9CCbfQ5JLrZNIUA+Tlqg="
+      "hash": "sha256-Fjqq7TBpwTusKmzklTqtYGLCzpEnkR3RpAiadoohRoc="
     }
   },
-  "version": "1.2.0"
+  "version": "1.3.0"
 }

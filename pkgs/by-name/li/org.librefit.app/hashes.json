@@ -1,18 +1,18 @@
 {
-  "apkName": "org.librefit.app_40101.apk",
+  "apkName": "org.librefit.app_50001.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-HmzAlXMbC+AI8T0s2EUTTxUApRIsFR0GFoFZnxKHBlw="
+      "hash": "sha256-CvK6LmvYX8XKNxXtX6D0j2UxiIAqqYafpgpNrN50Dhs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HmzAlXMbC+AI8T0s2EUTTxUApRIsFR0GFoFZnxKHBlw="
+      "hash": "sha256-CvK6LmvYX8XKNxXtX6D0j2UxiIAqqYafpgpNrN50Dhs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HmzAlXMbC+AI8T0s2EUTTxUApRIsFR0GFoFZnxKHBlw="
+      "hash": "sha256-CvK6LmvYX8XKNxXtX6D0j2UxiIAqqYafpgpNrN50Dhs="
     }
   },
-  "version": "0.4.1"
+  "version": "0.5.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.phpbg.easysync_25.apk",
+  "apkName": "com.phpbg.easysync_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-dSNq/W8DafzzHqOozzTHZh1TCzjjd/57n/DB8KsDVDw="
+      "hash": "sha256-g3ypJ7YFVwSJfhMgjY+Pej6IyndqmVd2qZwUPu1TxAc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dSNq/W8DafzzHqOozzTHZh1TCzjjd/57n/DB8KsDVDw="
+      "hash": "sha256-g3ypJ7YFVwSJfhMgjY+Pej6IyndqmVd2qZwUPu1TxAc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dSNq/W8DafzzHqOozzTHZh1TCzjjd/57n/DB8KsDVDw="
+      "hash": "sha256-g3ypJ7YFVwSJfhMgjY+Pej6IyndqmVd2qZwUPu1TxAc="
     }
   },
-  "version": "1.25"
+  "version": "1.27"
 }

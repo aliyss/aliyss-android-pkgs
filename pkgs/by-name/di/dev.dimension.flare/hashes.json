@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.dimension.flare_1720.apk",
+  "apkName": "dev.dimension.flare_1810.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-D0MgTz/jGgz8s3rRcpjhBRmsayVmehGJPCzHu2S0Nv4="
+      "hash": "sha256-UedZO/yMiEKnwLjNDNOBYkW295djyVezTmVIQg1Acno="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-D0MgTz/jGgz8s3rRcpjhBRmsayVmehGJPCzHu2S0Nv4="
+      "hash": "sha256-UedZO/yMiEKnwLjNDNOBYkW295djyVezTmVIQg1Acno="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-D0MgTz/jGgz8s3rRcpjhBRmsayVmehGJPCzHu2S0Nv4="
+      "hash": "sha256-UedZO/yMiEKnwLjNDNOBYkW295djyVezTmVIQg1Acno="
     }
   },
-  "version": "1.7.2"
+  "version": "1.8.1"
 }

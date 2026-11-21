@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.imranr.obtainium_23563.apk",
+  "apkName": "dev.imranr.obtainium_23623.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zhqmVDCvgJKJ9ARZlIOLGwcqICG9gvzqsab0qQ0BCNQ="
+      "hash": "sha256-+SFvchp3E7dZKeCAa8GFhvj89zKPu/+Ztq7x3rue74A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zhqmVDCvgJKJ9ARZlIOLGwcqICG9gvzqsab0qQ0BCNQ="
+      "hash": "sha256-+SFvchp3E7dZKeCAa8GFhvj89zKPu/+Ztq7x3rue74A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zhqmVDCvgJKJ9ARZlIOLGwcqICG9gvzqsab0qQ0BCNQ="
+      "hash": "sha256-+SFvchp3E7dZKeCAa8GFhvj89zKPu/+Ztq7x3rue74A="
     }
   },
-  "version": "1.6.17"
+  "version": "1.7.4"
 }

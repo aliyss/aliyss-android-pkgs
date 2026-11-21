@@ -1,18 +1,18 @@
 {
-  "apkName": "com.gitlab.dibdib.dib2calc_2430.apk",
+  "apkName": "com.gitlab.dibdib.dib2calc_2432.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-VCzxWSlK+4cWQYOKJcqudssCYHHrMQrJRWaH1ziZJDI="
+      "hash": "sha256-lw5VO2nSw6X+43E2EYVOdlHnZ36+GzqXrzlOjO6JUlY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VCzxWSlK+4cWQYOKJcqudssCYHHrMQrJRWaH1ziZJDI="
+      "hash": "sha256-lw5VO2nSw6X+43E2EYVOdlHnZ36+GzqXrzlOjO6JUlY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-VCzxWSlK+4cWQYOKJcqudssCYHHrMQrJRWaH1ziZJDI="
+      "hash": "sha256-lw5VO2nSw6X+43E2EYVOdlHnZ36+GzqXrzlOjO6JUlY="
     }
   },
-  "version": "0.24.30"
+  "version": "0.24.32"
 }

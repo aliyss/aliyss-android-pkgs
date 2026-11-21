@@ -1,18 +1,18 @@
 {
-  "apkName": "ca.rmen.android.poetassistant_113200.apk",
+  "apkName": "ca.rmen.android.poetassistant_113201.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Rlc07K2R3HZ15cV766lkh1s505q80vtSRL9jcS+dMaQ="
+      "hash": "sha256-0kwNFmx4u5KKDaO/Uj0JZ2I1/nh12m8kF11cfn1+Jkc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Rlc07K2R3HZ15cV766lkh1s505q80vtSRL9jcS+dMaQ="
+      "hash": "sha256-0kwNFmx4u5KKDaO/Uj0JZ2I1/nh12m8kF11cfn1+Jkc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Rlc07K2R3HZ15cV766lkh1s505q80vtSRL9jcS+dMaQ="
+      "hash": "sha256-0kwNFmx4u5KKDaO/Uj0JZ2I1/nh12m8kF11cfn1+Jkc="
     }
   },
-  "version": "1.32.0"
+  "version": "1.32.1"
 }

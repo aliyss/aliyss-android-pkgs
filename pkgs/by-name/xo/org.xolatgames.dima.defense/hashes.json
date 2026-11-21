@@ -1,18 +1,18 @@
 {
-  "apkName": "org.xolatgames.dima.defense_13.apk",
+  "apkName": "org.xolatgames.dima.defense_17.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gq/RM9/ASKlyny0Y+VAnES4dYeQCaVQlsemkVFPGC+Y="
+      "hash": "sha256-hhz/TFU+kREJ+zPXj8PUcQssFF2viqP/Q7UFb0MQ6/E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gq/RM9/ASKlyny0Y+VAnES4dYeQCaVQlsemkVFPGC+Y="
+      "hash": "sha256-hhz/TFU+kREJ+zPXj8PUcQssFF2viqP/Q7UFb0MQ6/E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gq/RM9/ASKlyny0Y+VAnES4dYeQCaVQlsemkVFPGC+Y="
+      "hash": "sha256-hhz/TFU+kREJ+zPXj8PUcQssFF2viqP/Q7UFb0MQ6/E="
     }
   },
-  "version": "0.9.0"
+  "version": "1.1.2"
 }

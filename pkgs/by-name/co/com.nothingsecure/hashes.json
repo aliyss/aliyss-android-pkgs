@@ -1,18 +1,18 @@
 {
-  "apkName": "com.nothingsecure_31.apk",
+  "apkName": "com.nothingsecure_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-q4ZQ0Zn7vm3l5LY+MhTE6sjpLDi2tP1KSog7jR8/v4s="
+      "hash": "sha256-muXCTmYBnsxqSvPI/8X8Sp+y4C2Hw0rc5KysWEpZMlM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-q4ZQ0Zn7vm3l5LY+MhTE6sjpLDi2tP1KSog7jR8/v4s="
+      "hash": "sha256-muXCTmYBnsxqSvPI/8X8Sp+y4C2Hw0rc5KysWEpZMlM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-q4ZQ0Zn7vm3l5LY+MhTE6sjpLDi2tP1KSog7jR8/v4s="
+      "hash": "sha256-muXCTmYBnsxqSvPI/8X8Sp+y4C2Hw0rc5KysWEpZMlM="
     }
   },
-  "version": "0.3.21-Pokemon_X"
+  "version": "1.4.23-Castlevania"
 }

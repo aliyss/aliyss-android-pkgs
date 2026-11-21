@@ -1,18 +1,18 @@
 {
-  "apkName": "com.tk.quicksearch_70.apk",
+  "apkName": "com.tk.quicksearch_105.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-RtcpuBM1/2kzdYGtZxJw/A3A4YrCcpY1r2koH/O+CaE="
+      "hash": "sha256-5zAWk+eiY8I1w35PfLnaDklZUhYPCL7UAe0hLCjHwYE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RtcpuBM1/2kzdYGtZxJw/A3A4YrCcpY1r2koH/O+CaE="
+      "hash": "sha256-5zAWk+eiY8I1w35PfLnaDklZUhYPCL7UAe0hLCjHwYE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RtcpuBM1/2kzdYGtZxJw/A3A4YrCcpY1r2koH/O+CaE="
+      "hash": "sha256-5zAWk+eiY8I1w35PfLnaDklZUhYPCL7UAe0hLCjHwYE="
     }
   },
-  "version": "4.0"
+  "version": "5.0"
 }

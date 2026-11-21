@@ -1,18 +1,18 @@
 {
-  "apkName": "me.diamondforge.tokn_22.apk",
+  "apkName": "me.diamondforge.tokn_23.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CGutCQnCByUf+SXnbqFnCASTwQXXm3f5HIG04RGQaZ8="
+      "hash": "sha256-HtpsfU87uCZE7THxpOiy5BjpTTPbekWfOCza64eGkV4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CGutCQnCByUf+SXnbqFnCASTwQXXm3f5HIG04RGQaZ8="
+      "hash": "sha256-HtpsfU87uCZE7THxpOiy5BjpTTPbekWfOCza64eGkV4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CGutCQnCByUf+SXnbqFnCASTwQXXm3f5HIG04RGQaZ8="
+      "hash": "sha256-HtpsfU87uCZE7THxpOiy5BjpTTPbekWfOCza64eGkV4="
     }
   },
-  "version": "1.8.2"
+  "version": "1.8.3"
 }

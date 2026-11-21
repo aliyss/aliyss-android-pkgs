@@ -1,18 +1,18 @@
 {
-  "apkName": "org.ostrya.presencepublisher_59.apk",
+  "apkName": "org.ostrya.presencepublisher_63.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8UFn/arFlAz6KWZeG0z1YcEfUSDZGt+b7WSp5Uwopcs="
+      "hash": "sha256-5V4HuAvOujV7t2AlYckdFfpp/mdTc3WKI2Fkmfx+G3o="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8UFn/arFlAz6KWZeG0z1YcEfUSDZGt+b7WSp5Uwopcs="
+      "hash": "sha256-5V4HuAvOujV7t2AlYckdFfpp/mdTc3WKI2Fkmfx+G3o="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8UFn/arFlAz6KWZeG0z1YcEfUSDZGt+b7WSp5Uwopcs="
+      "hash": "sha256-5V4HuAvOujV7t2AlYckdFfpp/mdTc3WKI2Fkmfx+G3o="
     }
   },
-  "version": "2.7.0"
+  "version": "2.8.3"
 }

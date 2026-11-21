@@ -1,18 +1,18 @@
 {
-  "apkName": "lu.knaff.alain.saf_sftp_222.apk",
+  "apkName": "lu.knaff.alain.saf_sftp_229.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-v84R85qGNYPcslJcWeJgz9TuoDncPXa5x6N4eY+xun0="
+      "hash": "sha256-uYyaxiZLShLXWKAtOrwTmqmSNe8BUxcvxkdIzlU2H3w="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-v84R85qGNYPcslJcWeJgz9TuoDncPXa5x6N4eY+xun0="
+      "hash": "sha256-uYyaxiZLShLXWKAtOrwTmqmSNe8BUxcvxkdIzlU2H3w="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-v84R85qGNYPcslJcWeJgz9TuoDncPXa5x6N4eY+xun0="
+      "hash": "sha256-uYyaxiZLShLXWKAtOrwTmqmSNe8BUxcvxkdIzlU2H3w="
     }
   },
-  "version": "0.2.22"
+  "version": "0.2.29"
 }

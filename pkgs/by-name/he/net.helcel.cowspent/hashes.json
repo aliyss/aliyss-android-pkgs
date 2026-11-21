@@ -1,18 +1,18 @@
 {
-  "apkName": "net.helcel.cowspent_33.apk",
+  "apkName": "net.helcel.cowspent_144.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-HOvl5Ri9zIc5BPVVfhhZ4Wcawm8btbNj+7z0WonObrc="
+      "hash": "sha256-5qvqD2QwdD5toaQ6IsOOljt4z1e9xsILWKCLna8UcWI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HOvl5Ri9zIc5BPVVfhhZ4Wcawm8btbNj+7z0WonObrc="
+      "hash": "sha256-5qvqD2QwdD5toaQ6IsOOljt4z1e9xsILWKCLna8UcWI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HOvl5Ri9zIc5BPVVfhhZ4Wcawm8btbNj+7z0WonObrc="
+      "hash": "sha256-5qvqD2QwdD5toaQ6IsOOljt4z1e9xsILWKCLna8UcWI="
     }
   },
-  "version": "1.4"
+  "version": "1.9"
 }

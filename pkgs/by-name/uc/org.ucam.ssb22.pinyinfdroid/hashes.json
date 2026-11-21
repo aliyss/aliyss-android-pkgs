@@ -1,18 +1,18 @@
 {
-  "apkName": "org.ucam.ssb22.pinyinfdroid_106.apk",
+  "apkName": "org.ucam.ssb22.pinyinfdroid_110.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wHkZxsdAumf8d0f7JIBbpNMc+bv7jM7IMTXy/JJlqEc="
+      "hash": "sha256-We7QqAb8Ia59P/4mwmQDgzVJboSc65SP1dbX9shZeBU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wHkZxsdAumf8d0f7JIBbpNMc+bv7jM7IMTXy/JJlqEc="
+      "hash": "sha256-We7QqAb8Ia59P/4mwmQDgzVJboSc65SP1dbX9shZeBU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wHkZxsdAumf8d0f7JIBbpNMc+bv7jM7IMTXy/JJlqEc="
+      "hash": "sha256-We7QqAb8Ia59P/4mwmQDgzVJboSc65SP1dbX9shZeBU="
     }
   },
-  "version": "2.12.71"
+  "version": "2.12.75"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "org.androidlabs.applistbackup_19.apk",
+  "apkName": "org.androidlabs.applistbackup_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CqAOrf4h0lUY9dd2Iq7h3/jTbzBTAH43p+3zxgkKpms="
+      "hash": "sha256-HeEWRe4r0Xet8xqTNJS4zjK2za8YQ8eFKJT0SdGT6Sc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CqAOrf4h0lUY9dd2Iq7h3/jTbzBTAH43p+3zxgkKpms="
+      "hash": "sha256-HeEWRe4r0Xet8xqTNJS4zjK2za8YQ8eFKJT0SdGT6Sc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CqAOrf4h0lUY9dd2Iq7h3/jTbzBTAH43p+3zxgkKpms="
+      "hash": "sha256-HeEWRe4r0Xet8xqTNJS4zjK2za8YQ8eFKJT0SdGT6Sc="
     }
   },
-  "version": "2.0.2"
+  "version": "2.0.3"
 }

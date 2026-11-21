@@ -1,18 +1,18 @@
 {
-  "apkName": "com.roguetemple.hyperroid_13105.apk",
+  "apkName": "com.roguetemple.hyperroid_13116.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SWzJwKI2aqiiwwrh9Nyfe3XC5JOySjUg1Q8IIwi+vtA="
+      "hash": "sha256-1HQXKIy0l5+7hhUmVsOB6ZzIgw4TTtAFloSdnTre6bY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SWzJwKI2aqiiwwrh9Nyfe3XC5JOySjUg1Q8IIwi+vtA="
+      "hash": "sha256-1HQXKIy0l5+7hhUmVsOB6ZzIgw4TTtAFloSdnTre6bY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SWzJwKI2aqiiwwrh9Nyfe3XC5JOySjUg1Q8IIwi+vtA="
+      "hash": "sha256-1HQXKIy0l5+7hhUmVsOB6ZzIgw4TTtAFloSdnTre6bY="
     }
   },
-  "version": "13.1e"
+  "version": "13.1p"
 }

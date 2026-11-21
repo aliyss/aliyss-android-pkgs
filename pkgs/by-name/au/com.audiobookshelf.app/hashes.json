@@ -1,18 +1,18 @@
 {
-  "apkName": "com.audiobookshelf.app_118.apk",
+  "apkName": "com.audiobookshelf.app_121.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-khg9jtEgVzZCCy+OAOmgcn6TdK1d0awxdkM+HBKjdYo="
+      "hash": "sha256-6xnTfAYKQOMjKfflHk1cnBwmlDLBTK5oV1oJ2CKxY9E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-khg9jtEgVzZCCy+OAOmgcn6TdK1d0awxdkM+HBKjdYo="
+      "hash": "sha256-6xnTfAYKQOMjKfflHk1cnBwmlDLBTK5oV1oJ2CKxY9E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-khg9jtEgVzZCCy+OAOmgcn6TdK1d0awxdkM+HBKjdYo="
+      "hash": "sha256-6xnTfAYKQOMjKfflHk1cnBwmlDLBTK5oV1oJ2CKxY9E="
     }
   },
-  "version": "0.14.0-beta"
+  "version": "0.14.2-beta"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.looker.droidify_740.apk",
+  "apkName": "com.looker.droidify_780.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-evc0VPOrffjYE0LoGk+ApCtBsXqwvcHtlue7bZ23V/w="
+      "hash": "sha256-uyPRLouCpcupBuYd70ncOcEUaNIzNjOnLhB8pCLo+Hk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-evc0VPOrffjYE0LoGk+ApCtBsXqwvcHtlue7bZ23V/w="
+      "hash": "sha256-uyPRLouCpcupBuYd70ncOcEUaNIzNjOnLhB8pCLo+Hk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-evc0VPOrffjYE0LoGk+ApCtBsXqwvcHtlue7bZ23V/w="
+      "hash": "sha256-uyPRLouCpcupBuYd70ncOcEUaNIzNjOnLhB8pCLo+Hk="
     }
   },
-  "version": "0.7.4"
+  "version": "0.7.8"
 }

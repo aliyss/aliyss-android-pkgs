@@ -1,18 +1,18 @@
 {
-  "apkName": "com.wmstein.transektcount_515.apk",
+  "apkName": "com.wmstein.transektcount_516.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Iy618Bg8nRoKTSkqGZPFBrjbd3T1FdZ0pgE3w/h7PiE="
+      "hash": "sha256-CzPLs3khpz3LmQZsRYJEaRsx1bOqDeSuVjRxPjddYlY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Iy618Bg8nRoKTSkqGZPFBrjbd3T1FdZ0pgE3w/h7PiE="
+      "hash": "sha256-CzPLs3khpz3LmQZsRYJEaRsx1bOqDeSuVjRxPjddYlY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Iy618Bg8nRoKTSkqGZPFBrjbd3T1FdZ0pgE3w/h7PiE="
+      "hash": "sha256-CzPLs3khpz3LmQZsRYJEaRsx1bOqDeSuVjRxPjddYlY="
     }
   },
-  "version": "5.1.5"
+  "version": "5.1.6"
 }

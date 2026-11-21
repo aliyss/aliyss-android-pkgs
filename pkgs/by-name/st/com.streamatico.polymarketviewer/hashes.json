@@ -1,18 +1,18 @@
 {
-  "apkName": "com.streamatico.polymarketviewer_42.apk",
+  "apkName": "com.streamatico.polymarketviewer_44.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lj0kt5PnqA8lMEKNpGA+HfbgDotQpsBRDrcsbIgcA78="
+      "hash": "sha256-bmlfCD8kravbNuumyakm/nqOMfxdg/EK426FItlaggE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lj0kt5PnqA8lMEKNpGA+HfbgDotQpsBRDrcsbIgcA78="
+      "hash": "sha256-bmlfCD8kravbNuumyakm/nqOMfxdg/EK426FItlaggE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lj0kt5PnqA8lMEKNpGA+HfbgDotQpsBRDrcsbIgcA78="
+      "hash": "sha256-bmlfCD8kravbNuumyakm/nqOMfxdg/EK426FItlaggE="
     }
   },
-  "version": "1.42"
+  "version": "1.44"
 }

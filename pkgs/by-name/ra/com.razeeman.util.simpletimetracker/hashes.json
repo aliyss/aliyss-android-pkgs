@@ -1,18 +1,18 @@
 {
-  "apkName": "com.razeeman.util.simpletimetracker_143.apk",
+  "apkName": "com.razeeman.util.simpletimetracker_153.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-d/kWhj6WVI3xWEWxyOCNYgKbrR5pCBuPfW+WLNmHEN4="
+      "hash": "sha256-SKolc/fheE0c2Fc8NJ0TBl87a8PTfTMngsr8lpwh+o4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-d/kWhj6WVI3xWEWxyOCNYgKbrR5pCBuPfW+WLNmHEN4="
+      "hash": "sha256-SKolc/fheE0c2Fc8NJ0TBl87a8PTfTMngsr8lpwh+o4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-d/kWhj6WVI3xWEWxyOCNYgKbrR5pCBuPfW+WLNmHEN4="
+      "hash": "sha256-SKolc/fheE0c2Fc8NJ0TBl87a8PTfTMngsr8lpwh+o4="
     }
   },
-  "version": "1.59"
+  "version": "1.61"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.rosan.dhizuku_17.apk",
+  "apkName": "com.rosan.dhizuku_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-jStppCuK47kuAMN+eR24KV6CUBLFAyPKVO2a9vakwxg="
+      "hash": "sha256-GOQlBmD4p/3LZYQEs+f/XaQ6B3fr+TiwmY3mKqLiIiY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jStppCuK47kuAMN+eR24KV6CUBLFAyPKVO2a9vakwxg="
+      "hash": "sha256-GOQlBmD4p/3LZYQEs+f/XaQ6B3fr+TiwmY3mKqLiIiY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-jStppCuK47kuAMN+eR24KV6CUBLFAyPKVO2a9vakwxg="
+      "hash": "sha256-GOQlBmD4p/3LZYQEs+f/XaQ6B3fr+TiwmY3mKqLiIiY="
     }
   },
-  "version": "2.11.1"
+  "version": "2.13.0"
 }

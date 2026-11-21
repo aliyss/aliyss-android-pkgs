@@ -1,18 +1,18 @@
 {
-  "apkName": "com.livefast.eattrash.raccoonforfriendica_90.apk",
+  "apkName": "com.livefast.eattrash.raccoonforfriendica_121.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-DIHP23UkMG9Gx5bHSOnvArjU4u/VUE/mXAZ9NJ14HMk="
+      "hash": "sha256-iSVUy8qOCYvn7NRq974VhuJ4HvxJ6sz2hEAc3ZoeXO0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DIHP23UkMG9Gx5bHSOnvArjU4u/VUE/mXAZ9NJ14HMk="
+      "hash": "sha256-iSVUy8qOCYvn7NRq974VhuJ4HvxJ6sz2hEAc3ZoeXO0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-DIHP23UkMG9Gx5bHSOnvArjU4u/VUE/mXAZ9NJ14HMk="
+      "hash": "sha256-iSVUy8qOCYvn7NRq974VhuJ4HvxJ6sz2hEAc3ZoeXO0="
     }
   },
-  "version": "0.4.2"
+  "version": "1.2.1"
 }

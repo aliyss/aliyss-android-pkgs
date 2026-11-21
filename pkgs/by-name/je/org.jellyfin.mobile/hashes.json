@@ -1,18 +1,18 @@
 {
-  "apkName": "org.jellyfin.mobile_2070199.apk",
+  "apkName": "org.jellyfin.mobile_2070399.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-d31J7PCO+B361K5+PBqr78gkV4eiUkHDo3pC5KFR4jo="
+      "hash": "sha256-+fSzq0bMlDTfgRGUwtQ1FBf024OkwaD6zQpmLWlTP38="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-d31J7PCO+B361K5+PBqr78gkV4eiUkHDo3pC5KFR4jo="
+      "hash": "sha256-+fSzq0bMlDTfgRGUwtQ1FBf024OkwaD6zQpmLWlTP38="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-d31J7PCO+B361K5+PBqr78gkV4eiUkHDo3pC5KFR4jo="
+      "hash": "sha256-+fSzq0bMlDTfgRGUwtQ1FBf024OkwaD6zQpmLWlTP38="
     }
   },
-  "version": "2.7.1"
+  "version": "2.7.3"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.nocle.passegares_304.apk",
+  "apkName": "fr.nocle.passegares_305.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-s8Zz7NIrDkxYoZ9kGH36IHNaMZSR2dl/oCK0JnKTkW4="
+      "hash": "sha256-mig/4OqKun4sLV3dfY1Q5i3IovAfxYXWlBk+52CvUYw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-s8Zz7NIrDkxYoZ9kGH36IHNaMZSR2dl/oCK0JnKTkW4="
+      "hash": "sha256-mig/4OqKun4sLV3dfY1Q5i3IovAfxYXWlBk+52CvUYw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-s8Zz7NIrDkxYoZ9kGH36IHNaMZSR2dl/oCK0JnKTkW4="
+      "hash": "sha256-mig/4OqKun4sLV3dfY1Q5i3IovAfxYXWlBk+52CvUYw="
     }
   },
-  "version": "1.6.4"
+  "version": "1.6.5"
 }

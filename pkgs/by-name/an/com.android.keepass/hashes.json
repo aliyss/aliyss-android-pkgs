@@ -1,18 +1,18 @@
 {
-  "apkName": "com.android.keepass_222.apk",
+  "apkName": "com.android.keepass_223.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zFdeuC/1d4CmcGCtiW2N2kyFdhBH77ilRHgfRzmoy/A="
+      "hash": "sha256-IyC0yVrLLf5PXrmV0WD4WqqmZku91p6oq8V3odIzmc0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zFdeuC/1d4CmcGCtiW2N2kyFdhBH77ilRHgfRzmoy/A="
+      "hash": "sha256-IyC0yVrLLf5PXrmV0WD4WqqmZku91p6oq8V3odIzmc0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zFdeuC/1d4CmcGCtiW2N2kyFdhBH77ilRHgfRzmoy/A="
+      "hash": "sha256-IyC0yVrLLf5PXrmV0WD4WqqmZku91p6oq8V3odIzmc0="
     }
   },
-  "version": "2.6.9.2"
+  "version": "2.7"
 }

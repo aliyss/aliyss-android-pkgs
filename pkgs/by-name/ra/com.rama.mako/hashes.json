@@ -1,18 +1,18 @@
 {
-  "apkName": "com.rama.mako_49.apk",
+  "apkName": "com.rama.mako_57.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-xlT7fsBdai9WtH7wp49B75dx8aGNx8yCbpXx4SvQSuE="
+      "hash": "sha256-6Apq5IfxjYq9Uj929ikblLc6CcAFvVbOmC5NQSiEyOI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xlT7fsBdai9WtH7wp49B75dx8aGNx8yCbpXx4SvQSuE="
+      "hash": "sha256-6Apq5IfxjYq9Uj929ikblLc6CcAFvVbOmC5NQSiEyOI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-xlT7fsBdai9WtH7wp49B75dx8aGNx8yCbpXx4SvQSuE="
+      "hash": "sha256-6Apq5IfxjYq9Uj929ikblLc6CcAFvVbOmC5NQSiEyOI="
     }
   },
-  "version": "2026.49"
+  "version": "2026.57"
 }

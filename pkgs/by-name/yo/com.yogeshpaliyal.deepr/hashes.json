@@ -1,18 +1,18 @@
 {
-  "apkName": "com.yogeshpaliyal.deepr_29.apk",
+  "apkName": "com.yogeshpaliyal.deepr_31.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gC7BJPLkDUjurxtXCRk89dj03AnXUSSgiOj0w/GKFt8="
+      "hash": "sha256-ry+pg+sCLM4QUwZYkC1GRFig4Q1d3bQlJ0Q1HHa+8H0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gC7BJPLkDUjurxtXCRk89dj03AnXUSSgiOj0w/GKFt8="
+      "hash": "sha256-ry+pg+sCLM4QUwZYkC1GRFig4Q1d3bQlJ0Q1HHa+8H0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gC7BJPLkDUjurxtXCRk89dj03AnXUSSgiOj0w/GKFt8="
+      "hash": "sha256-ry+pg+sCLM4QUwZYkC1GRFig4Q1d3bQlJ0Q1HHa+8H0="
     }
   },
-  "version": "1.0.28"
+  "version": "1.0.30"
 }

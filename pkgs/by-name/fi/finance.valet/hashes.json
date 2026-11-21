@@ -1,18 +1,18 @@
 {
-  "apkName": "finance.valet_105.apk",
+  "apkName": "finance.valet_115.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-15YTpHn0tg5fwquhadOMqal+SCqu8wXXeShMEEx2epo="
+      "hash": "sha256-kY47Y4uCp7lQ89QxNOvKspsiaYVERCr5Gzf0gAXvuns="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-15YTpHn0tg5fwquhadOMqal+SCqu8wXXeShMEEx2epo="
+      "hash": "sha256-kY47Y4uCp7lQ89QxNOvKspsiaYVERCr5Gzf0gAXvuns="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-15YTpHn0tg5fwquhadOMqal+SCqu8wXXeShMEEx2epo="
+      "hash": "sha256-kY47Y4uCp7lQ89QxNOvKspsiaYVERCr5Gzf0gAXvuns="
     }
   },
-  "version": "4.4.4"
+  "version": "5.3.0"
 }

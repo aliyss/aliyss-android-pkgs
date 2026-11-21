@@ -1,18 +1,18 @@
 {
-  "apkName": "org.woheller69.dumpseeker_17.apk",
+  "apkName": "org.woheller69.dumpseeker_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kHO39x5k/MnfbRngb+3KPvUIMWUyp8GkCv34OFLoVSQ="
+      "hash": "sha256-VPkacHajbG96B2lAboIhJFAWHR38AWWIRbyH95mZLjc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kHO39x5k/MnfbRngb+3KPvUIMWUyp8GkCv34OFLoVSQ="
+      "hash": "sha256-VPkacHajbG96B2lAboIhJFAWHR38AWWIRbyH95mZLjc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kHO39x5k/MnfbRngb+3KPvUIMWUyp8GkCv34OFLoVSQ="
+      "hash": "sha256-VPkacHajbG96B2lAboIhJFAWHR38AWWIRbyH95mZLjc="
     }
   },
-  "version": "1.7"
+  "version": "1.8"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.isayso.fire2kodi_29.apk",
+  "apkName": "com.isayso.fire2kodi_33.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AxRi4vTFQAHwkFgY0zVjE3g1uhcmuPgre/DLyYqlgUw="
+      "hash": "sha256-FIzJx3Tx3ma5KdETbXJoJ4elATKu/fBhv8dkisVnTns="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AxRi4vTFQAHwkFgY0zVjE3g1uhcmuPgre/DLyYqlgUw="
+      "hash": "sha256-FIzJx3Tx3ma5KdETbXJoJ4elATKu/fBhv8dkisVnTns="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AxRi4vTFQAHwkFgY0zVjE3g1uhcmuPgre/DLyYqlgUw="
+      "hash": "sha256-FIzJx3Tx3ma5KdETbXJoJ4elATKu/fBhv8dkisVnTns="
     }
   },
-  "version": "0.82"
+  "version": "0.89"
 }
