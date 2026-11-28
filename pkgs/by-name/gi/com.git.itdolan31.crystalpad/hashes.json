@@ -1,18 +1,18 @@
 {
-  "apkName": "com.git.itdolan31.crystalpad_11.apk",
+  "apkName": "com.git.itdolan31.crystalpad_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+AE0VfTlNtdMz7W6XrV7A/vRbPj5ZmTSONnGnGbkZdc="
+      "hash": "sha256-q4Ux+xkPmw53obcEOtsY4eQOfg8eCaDiAuPheJyopMY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+AE0VfTlNtdMz7W6XrV7A/vRbPj5ZmTSONnGnGbkZdc="
+      "hash": "sha256-q4Ux+xkPmw53obcEOtsY4eQOfg8eCaDiAuPheJyopMY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+AE0VfTlNtdMz7W6XrV7A/vRbPj5ZmTSONnGnGbkZdc="
+      "hash": "sha256-q4Ux+xkPmw53obcEOtsY4eQOfg8eCaDiAuPheJyopMY="
     }
   },
-  "version": "1.6.1"
+  "version": "1.8.0"
 }

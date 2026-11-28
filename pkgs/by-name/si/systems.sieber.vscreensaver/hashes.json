@@ -1,18 +1,18 @@
 {
-  "apkName": "systems.sieber.vscreensaver_6.apk",
+  "apkName": "systems.sieber.vscreensaver_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-m9rBC5s/LaiwQrE08EPCuL8tK0/ssyyBMced2P23d4Q="
+      "hash": "sha256-JViMg/7tzJRnt6Q3iYbqE4Ukoum+2jDLDmiEzdr7PLc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-m9rBC5s/LaiwQrE08EPCuL8tK0/ssyyBMced2P23d4Q="
+      "hash": "sha256-JViMg/7tzJRnt6Q3iYbqE4Ukoum+2jDLDmiEzdr7PLc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-m9rBC5s/LaiwQrE08EPCuL8tK0/ssyyBMced2P23d4Q="
+      "hash": "sha256-JViMg/7tzJRnt6Q3iYbqE4Ukoum+2jDLDmiEzdr7PLc="
     }
   },
-  "version": "1.3.1"
+  "version": "1.3.2"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "me.hackerchick.sharetoinputstick_26.apk",
+  "apkName": "me.hackerchick.sharetoinputstick_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-3oJ1UsZ1opNVXm3Qf9feBSM4pwUX9IjfgNeYwVSa+5o="
+      "hash": "sha256-1dwPcHae+YR7+tNKN9IarnffxjFUTH2KVm3DZV/qBEw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3oJ1UsZ1opNVXm3Qf9feBSM4pwUX9IjfgNeYwVSa+5o="
+      "hash": "sha256-1dwPcHae+YR7+tNKN9IarnffxjFUTH2KVm3DZV/qBEw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3oJ1UsZ1opNVXm3Qf9feBSM4pwUX9IjfgNeYwVSa+5o="
+      "hash": "sha256-1dwPcHae+YR7+tNKN9IarnffxjFUTH2KVm3DZV/qBEw="
     }
   },
-  "version": "3.8.0"
+  "version": "3.8.1"
 }

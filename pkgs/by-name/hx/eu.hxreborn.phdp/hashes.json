@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.hxreborn.phdp_26000.apk",
+  "apkName": "eu.hxreborn.phdp_211000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LrwmKdi3a5qC8jfTVHjCrkCe/OZXm7oWuCLU74YIaKY="
+      "hash": "sha256-7IJ/CSpSOcukB9aBez5A8I9iOlu1mvRSXfaGClwhgpE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LrwmKdi3a5qC8jfTVHjCrkCe/OZXm7oWuCLU74YIaKY="
+      "hash": "sha256-7IJ/CSpSOcukB9aBez5A8I9iOlu1mvRSXfaGClwhgpE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LrwmKdi3a5qC8jfTVHjCrkCe/OZXm7oWuCLU74YIaKY="
+      "hash": "sha256-7IJ/CSpSOcukB9aBez5A8I9iOlu1mvRSXfaGClwhgpE="
     }
   },
-  "version": "2.6.0"
+  "version": "2.11.0"
 }

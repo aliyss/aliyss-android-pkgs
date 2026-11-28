@@ -1,18 +1,18 @@
 {
-  "apkName": "at.krixec.rosary_12.apk",
+  "apkName": "at.krixec.rosary_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CqL2atS8OvJCYPXh0fwDfN7OJf027M+Im2r5avJS+sU="
+      "hash": "sha256-XkQBW+hk7UWEN70jXzbk8KKjJvY1DIkCaL/vhFmDayQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CqL2atS8OvJCYPXh0fwDfN7OJf027M+Im2r5avJS+sU="
+      "hash": "sha256-XkQBW+hk7UWEN70jXzbk8KKjJvY1DIkCaL/vhFmDayQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CqL2atS8OvJCYPXh0fwDfN7OJf027M+Im2r5avJS+sU="
+      "hash": "sha256-XkQBW+hk7UWEN70jXzbk8KKjJvY1DIkCaL/vhFmDayQ="
     }
   },
-  "version": "Ruth"
+  "version": "IISamuelis"
 }

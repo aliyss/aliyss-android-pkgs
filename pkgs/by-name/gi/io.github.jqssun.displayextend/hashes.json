@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.jqssun.displayextend_26.apk",
+  "apkName": "io.github.jqssun.displayextend_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-fwV0HdJLXoPHZ5cI1BLhHyJIym4Kg3GinMcD4VaGIV0="
+      "hash": "sha256-NJX/GP3ekYdXYqj2u6uGEJ05f/2dNdb6tcNmQf2zMjE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fwV0HdJLXoPHZ5cI1BLhHyJIym4Kg3GinMcD4VaGIV0="
+      "hash": "sha256-NJX/GP3ekYdXYqj2u6uGEJ05f/2dNdb6tcNmQf2zMjE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-fwV0HdJLXoPHZ5cI1BLhHyJIym4Kg3GinMcD4VaGIV0="
+      "hash": "sha256-NJX/GP3ekYdXYqj2u6uGEJ05f/2dNdb6tcNmQf2zMjE="
     }
   },
-  "version": "0.0.26"
+  "version": "0.0.27"
 }

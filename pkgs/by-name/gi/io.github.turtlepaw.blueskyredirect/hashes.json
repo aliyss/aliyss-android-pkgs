@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.turtlepaw.blueskyredirect_2.apk",
+  "apkName": "io.github.turtlepaw.blueskyredirect_3.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CkOvTUOukr4jxLoFsJneRQ2GlKYJRilCBYzNCZZKSK4="
+      "hash": "sha256-NDIi41pupGdyYjpy8tSQXkSL8mCD1mIN56mNaqDjyyc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CkOvTUOukr4jxLoFsJneRQ2GlKYJRilCBYzNCZZKSK4="
+      "hash": "sha256-NDIi41pupGdyYjpy8tSQXkSL8mCD1mIN56mNaqDjyyc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CkOvTUOukr4jxLoFsJneRQ2GlKYJRilCBYzNCZZKSK4="
+      "hash": "sha256-NDIi41pupGdyYjpy8tSQXkSL8mCD1mIN56mNaqDjyyc="
     }
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }

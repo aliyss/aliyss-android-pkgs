@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.zwander.peertuberedirect_44.apk",
+  "apkName": "dev.zwander.peertuberedirect_49.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aq/UT3cwr8FfnRO1xcBdg8vqZRovHqC6jzC3rZ7yF00="
+      "hash": "sha256-nb3Z+DqTvhzyEnR0v2ipatsBf5zXxhKGd2hbpD8OoSY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aq/UT3cwr8FfnRO1xcBdg8vqZRovHqC6jzC3rZ7yF00="
+      "hash": "sha256-nb3Z+DqTvhzyEnR0v2ipatsBf5zXxhKGd2hbpD8OoSY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aq/UT3cwr8FfnRO1xcBdg8vqZRovHqC6jzC3rZ7yF00="
+      "hash": "sha256-nb3Z+DqTvhzyEnR0v2ipatsBf5zXxhKGd2hbpD8OoSY="
     }
   },
-  "version": "1.15.1"
+  "version": "1.16.3"
 }

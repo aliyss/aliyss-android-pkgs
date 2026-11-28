@@ -1,18 +1,18 @@
 {
-  "apkName": "com.darkrockstudios.apps.hammer.android_308030000.apk",
+  "apkName": "com.darkrockstudios.apps.hammer.android_312030000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-6VCMZZAQc9IiO7Ou/NjvS4G5KaX75NdqFQQ+FJR/7s4="
+      "hash": "sha256-OX8R1vAdqnp1gafiJC9x6oewq5DGMos2JGCXCL53sY4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6VCMZZAQc9IiO7Ou/NjvS4G5KaX75NdqFQQ+FJR/7s4="
+      "hash": "sha256-OX8R1vAdqnp1gafiJC9x6oewq5DGMos2JGCXCL53sY4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-6VCMZZAQc9IiO7Ou/NjvS4G5KaX75NdqFQQ+FJR/7s4="
+      "hash": "sha256-OX8R1vAdqnp1gafiJC9x6oewq5DGMos2JGCXCL53sY4="
     }
   },
-  "version": "3.8.2"
+  "version": "3.12.2"
 }

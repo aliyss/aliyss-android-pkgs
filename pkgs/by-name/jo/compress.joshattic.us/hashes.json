@@ -1,18 +1,18 @@
 {
-  "apkName": "compress.joshattic.us_24.apk",
+  "apkName": "compress.joshattic.us_29.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-JxwLSb1LvIIjDs1oc6emwA4Oqga7qaa4wEooo0VHfAI="
+      "hash": "sha256-+Q5Ua7QFk1KvTWhm3KurPDA4Yd+8Shf4jU6BoQSctAU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JxwLSb1LvIIjDs1oc6emwA4Oqga7qaa4wEooo0VHfAI="
+      "hash": "sha256-+Q5Ua7QFk1KvTWhm3KurPDA4Yd+8Shf4jU6BoQSctAU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-JxwLSb1LvIIjDs1oc6emwA4Oqga7qaa4wEooo0VHfAI="
+      "hash": "sha256-+Q5Ua7QFk1KvTWhm3KurPDA4Yd+8Shf4jU6BoQSctAU="
     }
   },
-  "version": "1.6.1"
+  "version": "1.7.0"
 }

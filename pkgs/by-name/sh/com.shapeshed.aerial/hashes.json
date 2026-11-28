@@ -1,18 +1,18 @@
 {
-  "apkName": "com.shapeshed.aerial_15.apk",
+  "apkName": "com.shapeshed.aerial_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+Mi+3sxs/18E52/JG+EC8Zk4ZQWdD+wDMtxqXxmC1SQ="
+      "hash": "sha256-FIwI+MwGJQOBQJbeGLGHpiwU8qqTJPa7pCt4d5TcMoo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+Mi+3sxs/18E52/JG+EC8Zk4ZQWdD+wDMtxqXxmC1SQ="
+      "hash": "sha256-FIwI+MwGJQOBQJbeGLGHpiwU8qqTJPa7pCt4d5TcMoo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+Mi+3sxs/18E52/JG+EC8Zk4ZQWdD+wDMtxqXxmC1SQ="
+      "hash": "sha256-FIwI+MwGJQOBQJbeGLGHpiwU8qqTJPa7pCt4d5TcMoo="
     }
   },
-  "version": "0.6.0"
+  "version": "0.7.4"
 }

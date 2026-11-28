@@ -1,18 +1,18 @@
 {
-  "apkName": "m.co.rh.id.a_news_provider_72.apk",
+  "apkName": "m.co.rh.id.a_news_provider_80.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OC0cbpvLguQEOLTDX/MnMlJH1+9ycdPLsJEXeWsuHno="
+      "hash": "sha256-x2jFc67tAE+Zrd+0cSYadOqwAGcrThZGffkkOXAZ9D0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OC0cbpvLguQEOLTDX/MnMlJH1+9ycdPLsJEXeWsuHno="
+      "hash": "sha256-x2jFc67tAE+Zrd+0cSYadOqwAGcrThZGffkkOXAZ9D0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OC0cbpvLguQEOLTDX/MnMlJH1+9ycdPLsJEXeWsuHno="
+      "hash": "sha256-x2jFc67tAE+Zrd+0cSYadOqwAGcrThZGffkkOXAZ9D0="
     }
   },
-  "version": "1.13.1"
+  "version": "2.5.0"
 }

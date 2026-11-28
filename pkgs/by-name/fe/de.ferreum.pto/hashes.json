@@ -1,18 +1,18 @@
 {
-  "apkName": "de.ferreum.pto_3006000.apk",
+  "apkName": "de.ferreum.pto_3006001.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-pzG1fnZhop/9hmO6jOAclqmY6F3fCIPjaPmdUv8B250="
+      "hash": "sha256-eWLXGsUqIEzJ8DEJPjmtEycJbdq60egXN9gpUn53YJM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pzG1fnZhop/9hmO6jOAclqmY6F3fCIPjaPmdUv8B250="
+      "hash": "sha256-eWLXGsUqIEzJ8DEJPjmtEycJbdq60egXN9gpUn53YJM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pzG1fnZhop/9hmO6jOAclqmY6F3fCIPjaPmdUv8B250="
+      "hash": "sha256-eWLXGsUqIEzJ8DEJPjmtEycJbdq60egXN9gpUn53YJM="
     }
   },
-  "version": "3.6.0"
+  "version": "3.6.1"
 }

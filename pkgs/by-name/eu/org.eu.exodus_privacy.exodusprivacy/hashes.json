@@ -1,18 +1,18 @@
 {
-  "apkName": "org.eu.exodus_privacy.exodusprivacy_23.apk",
+  "apkName": "org.eu.exodus_privacy.exodusprivacy_24.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-d1jSwxibLH3rHD49dpQc4hwaHyw+lblGc8gVFGMsAXs="
+      "hash": "sha256-UXqjxL5FLqhTTMsKyE2+uR/P6ptt69uFViRBnUgaplA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-d1jSwxibLH3rHD49dpQc4hwaHyw+lblGc8gVFGMsAXs="
+      "hash": "sha256-UXqjxL5FLqhTTMsKyE2+uR/P6ptt69uFViRBnUgaplA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-d1jSwxibLH3rHD49dpQc4hwaHyw+lblGc8gVFGMsAXs="
+      "hash": "sha256-UXqjxL5FLqhTTMsKyE2+uR/P6ptt69uFViRBnUgaplA="
     }
   },
-  "version": "3.3.2"
+  "version": "3.4.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.olaf.rereminder_4.apk",
+  "apkName": "com.olaf.rereminder_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Hw7PC9elGT5EQlgI2RCM9FjrAVoqSXdj2RI2EGpHUfQ="
+      "hash": "sha256-apk0T1aHxGtybHiXJHzyJ9sCrMBEUqG0KppjAbZE2OI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Hw7PC9elGT5EQlgI2RCM9FjrAVoqSXdj2RI2EGpHUfQ="
+      "hash": "sha256-apk0T1aHxGtybHiXJHzyJ9sCrMBEUqG0KppjAbZE2OI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Hw7PC9elGT5EQlgI2RCM9FjrAVoqSXdj2RI2EGpHUfQ="
+      "hash": "sha256-apk0T1aHxGtybHiXJHzyJ9sCrMBEUqG0KppjAbZE2OI="
     }
   },
-  "version": "3.0"
+  "version": "4.1"
 }

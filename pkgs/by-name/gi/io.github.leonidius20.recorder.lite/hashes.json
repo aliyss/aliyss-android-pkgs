@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.leonidius20.recorder.lite_7.apk",
+  "apkName": "io.github.leonidius20.recorder.lite_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5uiK8beqTMqYY3F0U3NdEs1AUwCQKHNgIU6jrIrp0+g="
+      "hash": "sha256-7JiBmwh+sa9X8NqdXtCNZ95rUjaccJxlEHfQvN18VVY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5uiK8beqTMqYY3F0U3NdEs1AUwCQKHNgIU6jrIrp0+g="
+      "hash": "sha256-7JiBmwh+sa9X8NqdXtCNZ95rUjaccJxlEHfQvN18VVY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5uiK8beqTMqYY3F0U3NdEs1AUwCQKHNgIU6jrIrp0+g="
+      "hash": "sha256-7JiBmwh+sa9X8NqdXtCNZ95rUjaccJxlEHfQvN18VVY="
     }
   },
-  "version": "0.2.0"
+  "version": "0.2.1"
 }

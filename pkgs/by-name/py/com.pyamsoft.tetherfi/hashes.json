@@ -1,18 +1,18 @@
 {
-  "apkName": "com.pyamsoft.tetherfi_68.apk",
+  "apkName": "com.pyamsoft.tetherfi_78.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-QtHlcwttwobu1CmRV7ELyVGkvu+B00I+jL99v4R9x3I="
+      "hash": "sha256-FEmNWXyJIxdgNEb5e/syy+R/gSasCBZH0dvRIkQEj0E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-QtHlcwttwobu1CmRV7ELyVGkvu+B00I+jL99v4R9x3I="
+      "hash": "sha256-FEmNWXyJIxdgNEb5e/syy+R/gSasCBZH0dvRIkQEj0E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-QtHlcwttwobu1CmRV7ELyVGkvu+B00I+jL99v4R9x3I="
+      "hash": "sha256-FEmNWXyJIxdgNEb5e/syy+R/gSasCBZH0dvRIkQEj0E="
     }
   },
-  "version": "20260620-1"
+  "version": "20261120-2"
 }

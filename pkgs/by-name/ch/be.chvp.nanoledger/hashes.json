@@ -1,18 +1,18 @@
 {
-  "apkName": "be.chvp.nanoledger_2026070402.apk",
+  "apkName": "be.chvp.nanoledger_2026110701.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gixFxHK1NA00zGPzNX18Yy35Z+h3LXH0x3k5tnSL2rU="
+      "hash": "sha256-Wdbv6l0DwGWtP/8etCu+d0zOnAKW8a+WYesmGCDwT/c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gixFxHK1NA00zGPzNX18Yy35Z+h3LXH0x3k5tnSL2rU="
+      "hash": "sha256-Wdbv6l0DwGWtP/8etCu+d0zOnAKW8a+WYesmGCDwT/c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gixFxHK1NA00zGPzNX18Yy35Z+h3LXH0x3k5tnSL2rU="
+      "hash": "sha256-Wdbv6l0DwGWtP/8etCu+d0zOnAKW8a+WYesmGCDwT/c="
     }
   },
-  "version": "1.4.4"
+  "version": "1.5.0"
 }

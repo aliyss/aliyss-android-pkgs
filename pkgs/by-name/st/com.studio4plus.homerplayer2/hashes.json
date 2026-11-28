@@ -1,18 +1,18 @@
 {
-  "apkName": "com.studio4plus.homerplayer2_47.apk",
+  "apkName": "com.studio4plus.homerplayer2_49.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+v25S74l9AYZNcGhTqsFrACBMgw0V5N+czj0XNvrWMA="
+      "hash": "sha256-U9rxWp4ysNHiir5dl1J7Bv+MAlUS1Z+a4eWmBKfU3Ho="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+v25S74l9AYZNcGhTqsFrACBMgw0V5N+czj0XNvrWMA="
+      "hash": "sha256-U9rxWp4ysNHiir5dl1J7Bv+MAlUS1Z+a4eWmBKfU3Ho="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+v25S74l9AYZNcGhTqsFrACBMgw0V5N+czj0XNvrWMA="
+      "hash": "sha256-U9rxWp4ysNHiir5dl1J7Bv+MAlUS1Z+a4eWmBKfU3Ho="
     }
   },
-  "version": "1.5.12"
+  "version": "1.5.14"
 }

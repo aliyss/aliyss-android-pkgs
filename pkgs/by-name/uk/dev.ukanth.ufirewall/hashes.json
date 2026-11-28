@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.ukanth.ufirewall_20260801.apk",
+  "apkName": "dev.ukanth.ufirewall_20261004.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Mriujmh8EVPU86dMvOzxB4JkrtpZyhAuuBU3KGvOXjo="
+      "hash": "sha256-YSxftSm4pKGDhmAPB1JGuHdHtfK5dH3DvdyMb1YJrk0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Mriujmh8EVPU86dMvOzxB4JkrtpZyhAuuBU3KGvOXjo="
+      "hash": "sha256-YSxftSm4pKGDhmAPB1JGuHdHtfK5dH3DvdyMb1YJrk0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Mriujmh8EVPU86dMvOzxB4JkrtpZyhAuuBU3KGvOXjo="
+      "hash": "sha256-YSxftSm4pKGDhmAPB1JGuHdHtfK5dH3DvdyMb1YJrk0="
     }
   },
-  "version": "4.1.0"
+  "version": "5.0.0-BETA_1"
 }

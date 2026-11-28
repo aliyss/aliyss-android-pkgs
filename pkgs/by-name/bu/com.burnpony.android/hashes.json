@@ -1,18 +1,18 @@
 {
-  "apkName": "com.burnpony.android_2.apk",
+  "apkName": "com.burnpony.android_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-vbxXPd0qDqPiw9Ouc+HyLBxypLoFP7zigm2dtwZJ44U="
+      "hash": "sha256-kqQG9ZxaVLxtCERa5DL+E+5q7NDXMTGJ4wyt93reBnI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vbxXPd0qDqPiw9Ouc+HyLBxypLoFP7zigm2dtwZJ44U="
+      "hash": "sha256-kqQG9ZxaVLxtCERa5DL+E+5q7NDXMTGJ4wyt93reBnI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-vbxXPd0qDqPiw9Ouc+HyLBxypLoFP7zigm2dtwZJ44U="
+      "hash": "sha256-kqQG9ZxaVLxtCERa5DL+E+5q7NDXMTGJ4wyt93reBnI="
     }
   },
-  "version": "1.0.1"
+  "version": "2.0.1"
 }

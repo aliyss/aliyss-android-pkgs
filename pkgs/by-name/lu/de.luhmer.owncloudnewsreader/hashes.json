@@ -1,18 +1,18 @@
 {
-  "apkName": "de.luhmer.owncloudnewsreader_196.apk",
+  "apkName": "de.luhmer.owncloudnewsreader_198.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Up8l90r7ToPZVt1yNVxXiMPhiqxV9Gqw8sgdEPA2HBc="
+      "hash": "sha256-zkUAhRUZMq3Yo0WTvIBuO1Uj2SSqETtuE5KK8vxWw/M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Up8l90r7ToPZVt1yNVxXiMPhiqxV9Gqw8sgdEPA2HBc="
+      "hash": "sha256-zkUAhRUZMq3Yo0WTvIBuO1Uj2SSqETtuE5KK8vxWw/M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Up8l90r7ToPZVt1yNVxXiMPhiqxV9Gqw8sgdEPA2HBc="
+      "hash": "sha256-zkUAhRUZMq3Yo0WTvIBuO1Uj2SSqETtuE5KK8vxWw/M="
     }
   },
-  "version": "0.9.9.95"
+  "version": "0.9.9.97"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "cc.occm.app_118.apk",
+  "apkName": "cc.occm.app_121.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Dweinj6bHhfjZNc3x82C9unpEw9tyDATUicrcPQ4Bhk="
+      "hash": "sha256-TmqrzfrzzVDHN37y6uU5QTFarjnEhCsUw4xtNGPoISA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Dweinj6bHhfjZNc3x82C9unpEw9tyDATUicrcPQ4Bhk="
+      "hash": "sha256-TmqrzfrzzVDHN37y6uU5QTFarjnEhCsUw4xtNGPoISA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Dweinj6bHhfjZNc3x82C9unpEw9tyDATUicrcPQ4Bhk="
+      "hash": "sha256-TmqrzfrzzVDHN37y6uU5QTFarjnEhCsUw4xtNGPoISA="
     }
   },
-  "version": "2.3.0+fork.118.occmdm"
+  "version": "2.3.0+fork.121.occmdm"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "in.basulabs.shakealarmclock_36.apk",
+  "apkName": "in.basulabs.shakealarmclock_39.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Xbv45jrY9FQCY5TNp9ZuojYKCF9yj2jYvBLIyv59OA0="
+      "hash": "sha256-qeTOW+3M4XagyJ69PLBDwjia4KjvPcAusN7c+yZlL30="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Xbv45jrY9FQCY5TNp9ZuojYKCF9yj2jYvBLIyv59OA0="
+      "hash": "sha256-qeTOW+3M4XagyJ69PLBDwjia4KjvPcAusN7c+yZlL30="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Xbv45jrY9FQCY5TNp9ZuojYKCF9yj2jYvBLIyv59OA0="
+      "hash": "sha256-qeTOW+3M4XagyJ69PLBDwjia4KjvPcAusN7c+yZlL30="
     }
   },
-  "version": "4.2.1"
+  "version": "5.0.0"
 }

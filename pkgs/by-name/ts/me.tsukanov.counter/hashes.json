@@ -1,18 +1,18 @@
 {
-  "apkName": "me.tsukanov.counter_35.apk",
+  "apkName": "me.tsukanov.counter_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0Kp5i67KuXIu0p3vVSa3jAY4c8Z1M1Puh79wH0CbR0M="
+      "hash": "sha256-UPKOl9BGpVZ6L0L9LkbThyF93H+ZyR/yH7tUE8wj53k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0Kp5i67KuXIu0p3vVSa3jAY4c8Z1M1Puh79wH0CbR0M="
+      "hash": "sha256-UPKOl9BGpVZ6L0L9LkbThyF93H+ZyR/yH7tUE8wj53k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0Kp5i67KuXIu0p3vVSa3jAY4c8Z1M1Puh79wH0CbR0M="
+      "hash": "sha256-UPKOl9BGpVZ6L0L9LkbThyF93H+ZyR/yH7tUE8wj53k="
     }
   },
-  "version": "35"
+  "version": "36"
 }

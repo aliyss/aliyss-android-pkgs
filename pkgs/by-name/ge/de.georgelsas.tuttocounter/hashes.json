@@ -1,18 +1,18 @@
 {
-  "apkName": "de.georgelsas.tuttocounter_14.apk",
+  "apkName": "de.georgelsas.tuttocounter_15.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FU6W3HzpJIM5tzud3vJzEQgyH2BtebnL2W9KzQXDXXM="
+      "hash": "sha256-h1vOStj9afRTAgn0SyM/ZUKiakf/SQugeZmohYcIEOU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FU6W3HzpJIM5tzud3vJzEQgyH2BtebnL2W9KzQXDXXM="
+      "hash": "sha256-h1vOStj9afRTAgn0SyM/ZUKiakf/SQugeZmohYcIEOU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FU6W3HzpJIM5tzud3vJzEQgyH2BtebnL2W9KzQXDXXM="
+      "hash": "sha256-h1vOStj9afRTAgn0SyM/ZUKiakf/SQugeZmohYcIEOU="
     }
   },
-  "version": "0.8.7"
+  "version": "0.9.0"
 }

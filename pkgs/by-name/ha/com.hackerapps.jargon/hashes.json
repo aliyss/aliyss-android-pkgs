@@ -1,18 +1,18 @@
 {
-  "apkName": "com.hackerapps.jargon_3.apk",
+  "apkName": "com.hackerapps.jargon_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-HGtX5av+eXWL5cy+WnuxqMqp8f7oLS0xekO/+QKBneY="
+      "hash": "sha256-HiAddB6aaoDi8Jib4KD5kEvsZgAkPPznJ3DPuJYwUW0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HGtX5av+eXWL5cy+WnuxqMqp8f7oLS0xekO/+QKBneY="
+      "hash": "sha256-HiAddB6aaoDi8Jib4KD5kEvsZgAkPPznJ3DPuJYwUW0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-HGtX5av+eXWL5cy+WnuxqMqp8f7oLS0xekO/+QKBneY="
+      "hash": "sha256-HiAddB6aaoDi8Jib4KD5kEvsZgAkPPznJ3DPuJYwUW0="
     }
   },
-  "version": "1.0.2"
+  "version": "1.2.0"
 }

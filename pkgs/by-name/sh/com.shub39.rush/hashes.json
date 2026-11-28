@@ -1,18 +1,18 @@
 {
-  "apkName": "com.shub39.rush_6520.apk",
+  "apkName": "com.shub39.rush_7520.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MiIpSDiVUPVIL8YAz93VMKKk7MgFZHCrSPvRiLlhyUM="
+      "hash": "sha256-tPopO6f6W9KVfaa9n9oXs+0WLkAdzm1cwuk3tUwbQzE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MiIpSDiVUPVIL8YAz93VMKKk7MgFZHCrSPvRiLlhyUM="
+      "hash": "sha256-tPopO6f6W9KVfaa9n9oXs+0WLkAdzm1cwuk3tUwbQzE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MiIpSDiVUPVIL8YAz93VMKKk7MgFZHCrSPvRiLlhyUM="
+      "hash": "sha256-tPopO6f6W9KVfaa9n9oXs+0WLkAdzm1cwuk3tUwbQzE="
     }
   },
-  "version": "6.5.2"
+  "version": "7.5.2"
 }

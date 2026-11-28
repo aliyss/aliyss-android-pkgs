@@ -1,18 +1,18 @@
 {
-  "apkName": "com.codedead.advancedportchecker_17.apk",
+  "apkName": "com.codedead.advancedportchecker_20.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ltMJbcGsdaU59TIaw8Oz/akDnTyiDPvVm0OI+xc3qRE="
+      "hash": "sha256-La5Bci9So9oqDGxlj7LScj6cgUxIaQLd7jWassMtvbE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ltMJbcGsdaU59TIaw8Oz/akDnTyiDPvVm0OI+xc3qRE="
+      "hash": "sha256-La5Bci9So9oqDGxlj7LScj6cgUxIaQLd7jWassMtvbE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ltMJbcGsdaU59TIaw8Oz/akDnTyiDPvVm0OI+xc3qRE="
+      "hash": "sha256-La5Bci9So9oqDGxlj7LScj6cgUxIaQLd7jWassMtvbE="
     }
   },
-  "version": "1.5.4"
+  "version": "1.5.7"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "ds.pulsar_7.apk",
+  "apkName": "ds.pulsar_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-NSvxBcjMZ3AN+UzgO6YbO3nth0AF92ZuShtO8JIaJjo="
+      "hash": "sha256-QBTKHu4lpu5/i2QVvcUzNuLoj6jJOm/yVyA9bp428jY="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NSvxBcjMZ3AN+UzgO6YbO3nth0AF92ZuShtO8JIaJjo="
+      "hash": "sha256-QBTKHu4lpu5/i2QVvcUzNuLoj6jJOm/yVyA9bp428jY="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-NSvxBcjMZ3AN+UzgO6YbO3nth0AF92ZuShtO8JIaJjo="
+      "hash": "sha256-QBTKHu4lpu5/i2QVvcUzNuLoj6jJOm/yVyA9bp428jY="
     }
   },
-  "version": "7"
+  "version": "9"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.kazumaproject.markdownhelperkeyboard.lite.fdroid_799.apk",
+  "apkName": "com.kazumaproject.markdownhelperkeyboard.lite.fdroid_873.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5LwwC3kV7DnaQKQY5PEvrgZrTcUhRXAJ/N0J/X4oIN8="
+      "hash": "sha256-RcUeDEbzTo8a589Q+QIwUfEQzP0LIUyVNViE31y6Fco="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5LwwC3kV7DnaQKQY5PEvrgZrTcUhRXAJ/N0J/X4oIN8="
+      "hash": "sha256-RcUeDEbzTo8a589Q+QIwUfEQzP0LIUyVNViE31y6Fco="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5LwwC3kV7DnaQKQY5PEvrgZrTcUhRXAJ/N0J/X4oIN8="
+      "hash": "sha256-RcUeDEbzTo8a589Q+QIwUfEQzP0LIUyVNViE31y6Fco="
     }
   },
-  "version": "1.7.106-lite-fdroid"
+  "version": "1.7.160-lite-fdroid"
 }

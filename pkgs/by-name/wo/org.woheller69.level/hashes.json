@@ -1,18 +1,18 @@
 {
-  "apkName": "org.woheller69.level_34.apk",
+  "apkName": "org.woheller69.level_35.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+oAoxNcyPmR1dIa6uh7q9uPH+f9DSa6EsNiP4qj1Qow="
+      "hash": "sha256-++L6GbBa3E0TNfeiRWwTi4SDtkN0bEXe5sb7FMp6bbg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+oAoxNcyPmR1dIa6uh7q9uPH+f9DSa6EsNiP4qj1Qow="
+      "hash": "sha256-++L6GbBa3E0TNfeiRWwTi4SDtkN0bEXe5sb7FMp6bbg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+oAoxNcyPmR1dIa6uh7q9uPH+f9DSa6EsNiP4qj1Qow="
+      "hash": "sha256-++L6GbBa3E0TNfeiRWwTi4SDtkN0bEXe5sb7FMp6bbg="
     }
   },
-  "version": "3.4"
+  "version": "3.5"
 }

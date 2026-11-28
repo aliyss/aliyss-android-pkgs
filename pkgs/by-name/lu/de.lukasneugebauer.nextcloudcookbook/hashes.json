@@ -1,18 +1,18 @@
 {
-  "apkName": "de.lukasneugebauer.nextcloudcookbook_64.apk",
+  "apkName": "de.lukasneugebauer.nextcloudcookbook_65.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+c7PFawIwLJfS3HTl+kkobNm9FHxIvRZdIPSLbd+8IU="
+      "hash": "sha256-38a+xiV3k1CvWrA0cEM+foHIvRbvVR27+oc9/WdOvHI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+c7PFawIwLJfS3HTl+kkobNm9FHxIvRZdIPSLbd+8IU="
+      "hash": "sha256-38a+xiV3k1CvWrA0cEM+foHIvRbvVR27+oc9/WdOvHI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+c7PFawIwLJfS3HTl+kkobNm9FHxIvRZdIPSLbd+8IU="
+      "hash": "sha256-38a+xiV3k1CvWrA0cEM+foHIvRbvVR27+oc9/WdOvHI="
     }
   },
-  "version": "0.30.0"
+  "version": "0.31.0"
 }

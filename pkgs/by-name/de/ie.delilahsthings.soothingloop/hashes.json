@@ -1,18 +1,18 @@
 {
-  "apkName": "ie.delilahsthings.soothingloop_17.apk",
+  "apkName": "ie.delilahsthings.soothingloop_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9d0y2c0T5JeqMtN8SZq7bmnpVaP/jhQ7jjB0E56wz3c="
+      "hash": "sha256-jDfeUc2FMuhL2JaOFAcw8mIn/wh5vBDFkEuXhP51kt8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9d0y2c0T5JeqMtN8SZq7bmnpVaP/jhQ7jjB0E56wz3c="
+      "hash": "sha256-jDfeUc2FMuhL2JaOFAcw8mIn/wh5vBDFkEuXhP51kt8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9d0y2c0T5JeqMtN8SZq7bmnpVaP/jhQ7jjB0E56wz3c="
+      "hash": "sha256-jDfeUc2FMuhL2JaOFAcw8mIn/wh5vBDFkEuXhP51kt8="
     }
   },
-  "version": "1.5.1"
+  "version": "1.5.2"
 }

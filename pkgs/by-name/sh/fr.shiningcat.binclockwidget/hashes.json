@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.shiningcat.binclockwidget_5.apk",
+  "apkName": "fr.shiningcat.binclockwidget_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5UyL6bq05YQP3dgccEgBh61rtkBR1XDzUmtTM9iqcDg="
+      "hash": "sha256-jWX9Hd550C5uo2jMxptFgdfVZ3UMro16ZWs4H5FdWj4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5UyL6bq05YQP3dgccEgBh61rtkBR1XDzUmtTM9iqcDg="
+      "hash": "sha256-jWX9Hd550C5uo2jMxptFgdfVZ3UMro16ZWs4H5FdWj4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5UyL6bq05YQP3dgccEgBh61rtkBR1XDzUmtTM9iqcDg="
+      "hash": "sha256-jWX9Hd550C5uo2jMxptFgdfVZ3UMro16ZWs4H5FdWj4="
     }
   },
-  "version": "1.0.0"
+  "version": "1.1.2"
 }

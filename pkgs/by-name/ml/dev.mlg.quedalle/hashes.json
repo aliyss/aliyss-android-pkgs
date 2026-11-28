@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.mlg.quedalle_8.apk",
+  "apkName": "dev.mlg.quedalle_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Lp/q0aqRsO1I5zPbhk0br1nINvDinzWP2vqS5zID5S8="
+      "hash": "sha256-YjIxpzNpzribizP95B9GbIpnB7AO2qJt+hOyFw1aLCk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Lp/q0aqRsO1I5zPbhk0br1nINvDinzWP2vqS5zID5S8="
+      "hash": "sha256-YjIxpzNpzribizP95B9GbIpnB7AO2qJt+hOyFw1aLCk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Lp/q0aqRsO1I5zPbhk0br1nINvDinzWP2vqS5zID5S8="
+      "hash": "sha256-YjIxpzNpzribizP95B9GbIpnB7AO2qJt+hOyFw1aLCk="
     }
   },
-  "version": "2.2"
+  "version": "3.0"
 }

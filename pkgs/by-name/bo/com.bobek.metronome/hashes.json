@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bobek.metronome_27.apk",
+  "apkName": "com.bobek.metronome_29.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WdQg9ngaRhd6wCQqg+67/KIwavIIfquCsIEyE/tRuxU="
+      "hash": "sha256-jO/daTBvd/Qr57Xml3VmXZk4dDb7wQkc93dPtkOXPkM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WdQg9ngaRhd6wCQqg+67/KIwavIIfquCsIEyE/tRuxU="
+      "hash": "sha256-jO/daTBvd/Qr57Xml3VmXZk4dDb7wQkc93dPtkOXPkM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WdQg9ngaRhd6wCQqg+67/KIwavIIfquCsIEyE/tRuxU="
+      "hash": "sha256-jO/daTBvd/Qr57Xml3VmXZk4dDb7wQkc93dPtkOXPkM="
     }
   },
-  "version": "2.2.0"
+  "version": "2.3.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.antony.muzei.pixiv_327.apk",
+  "apkName": "com.antony.muzei.pixiv_328.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gQESz2JrfoNC+7+5ZL9YI8/mQlBc8BQWUCDk4xiQUos="
+      "hash": "sha256-KoUfD6KlltPs6plCML1DrPvCvYzyvbnkyux7U+opSQs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gQESz2JrfoNC+7+5ZL9YI8/mQlBc8BQWUCDk4xiQUos="
+      "hash": "sha256-KoUfD6KlltPs6plCML1DrPvCvYzyvbnkyux7U+opSQs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gQESz2JrfoNC+7+5ZL9YI8/mQlBc8BQWUCDk4xiQUos="
+      "hash": "sha256-KoUfD6KlltPs6plCML1DrPvCvYzyvbnkyux7U+opSQs="
     }
   },
-  "version": "3.9.1"
+  "version": "3.10.0"
 }

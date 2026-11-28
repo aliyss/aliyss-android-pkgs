@@ -1,18 +1,18 @@
 {
-  "apkName": "com.prajwalch.torrentsearch_17.apk",
+  "apkName": "com.prajwalch.torrentsearch_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OzmAyd8X2RBtZywzS2ona0FEumAhj3285Tcu5TL0Ojw="
+      "hash": "sha256-5LBoW+hk//DX7oWFOyJggqjvb0dEAHyodude5wrA84M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OzmAyd8X2RBtZywzS2ona0FEumAhj3285Tcu5TL0Ojw="
+      "hash": "sha256-5LBoW+hk//DX7oWFOyJggqjvb0dEAHyodude5wrA84M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OzmAyd8X2RBtZywzS2ona0FEumAhj3285Tcu5TL0Ojw="
+      "hash": "sha256-5LBoW+hk//DX7oWFOyJggqjvb0dEAHyodude5wrA84M="
     }
   },
-  "version": "0.5.0"
+  "version": "0.5.2"
 }

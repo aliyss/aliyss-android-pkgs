@@ -1,18 +1,18 @@
 {
-  "apkName": "com.labnex.app_801.apk",
+  "apkName": "com.labnex.app_900.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SnvRgA5+QvyQOojX0DWxKFIcN6G91xpAHUIJ1OdpzRw="
+      "hash": "sha256-YrhOFYGYkbKvzJj11agpfIFunkWfbMNoTIjhLJHw9q4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SnvRgA5+QvyQOojX0DWxKFIcN6G91xpAHUIJ1OdpzRw="
+      "hash": "sha256-YrhOFYGYkbKvzJj11agpfIFunkWfbMNoTIjhLJHw9q4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SnvRgA5+QvyQOojX0DWxKFIcN6G91xpAHUIJ1OdpzRw="
+      "hash": "sha256-YrhOFYGYkbKvzJj11agpfIFunkWfbMNoTIjhLJHw9q4="
     }
   },
-  "version": "8.0.1"
+  "version": "9.0.0"
 }

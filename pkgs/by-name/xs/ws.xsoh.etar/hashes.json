@@ -1,18 +1,18 @@
 {
-  "apkName": "ws.xsoh.etar_57.apk",
+  "apkName": "ws.xsoh.etar_58.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2uAdk8iSCqY4RYaNshkLzEqm/4QQsSid4c4nsbuJxZk="
+      "hash": "sha256-tfO7kH/Y1qGqJonjTyzxa84L6K5oHPeNAtEKP4Kut3o="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2uAdk8iSCqY4RYaNshkLzEqm/4QQsSid4c4nsbuJxZk="
+      "hash": "sha256-tfO7kH/Y1qGqJonjTyzxa84L6K5oHPeNAtEKP4Kut3o="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2uAdk8iSCqY4RYaNshkLzEqm/4QQsSid4c4nsbuJxZk="
+      "hash": "sha256-tfO7kH/Y1qGqJonjTyzxa84L6K5oHPeNAtEKP4Kut3o="
     }
   },
-  "version": "1.0.57"
+  "version": "1.0.58"
 }

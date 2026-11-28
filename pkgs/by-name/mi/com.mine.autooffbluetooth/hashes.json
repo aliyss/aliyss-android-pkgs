@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mine.autooffbluetooth_8.apk",
+  "apkName": "com.mine.autooffbluetooth_10.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-3d4XWnO0R7csF5GOzb3XplddzUXmgi3uMbAAXIw41ZM="
+      "hash": "sha256-jbM3zOUhLCKgnZN28C7YM5iTCWxd1Er1SeSak0q416U="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3d4XWnO0R7csF5GOzb3XplddzUXmgi3uMbAAXIw41ZM="
+      "hash": "sha256-jbM3zOUhLCKgnZN28C7YM5iTCWxd1Er1SeSak0q416U="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-3d4XWnO0R7csF5GOzb3XplddzUXmgi3uMbAAXIw41ZM="
+      "hash": "sha256-jbM3zOUhLCKgnZN28C7YM5iTCWxd1Er1SeSak0q416U="
     }
   },
-  "version": "1.7"
+  "version": "2.1"
 }

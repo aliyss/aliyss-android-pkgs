@@ -1,18 +1,18 @@
 {
-  "apkName": "net.nhiroki.bluelineconsole_44.apk",
+  "apkName": "net.nhiroki.bluelineconsole_45.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ePV5pn7RBWqc/igKHv3BcLxzryiojo/aqt17SEjz2b8="
+      "hash": "sha256-UC4fnCbD2iZRIcpei2tGrEpjb3xTYo+qTVPWfCuXiog="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ePV5pn7RBWqc/igKHv3BcLxzryiojo/aqt17SEjz2b8="
+      "hash": "sha256-UC4fnCbD2iZRIcpei2tGrEpjb3xTYo+qTVPWfCuXiog="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ePV5pn7RBWqc/igKHv3BcLxzryiojo/aqt17SEjz2b8="
+      "hash": "sha256-UC4fnCbD2iZRIcpei2tGrEpjb3xTYo+qTVPWfCuXiog="
     }
   },
-  "version": "1.2.25"
+  "version": "1.2.26"
 }

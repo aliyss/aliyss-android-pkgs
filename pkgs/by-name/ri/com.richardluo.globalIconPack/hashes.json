@@ -1,18 +1,18 @@
 {
-  "apkName": "com.richardluo.globalIconPack_511.apk",
+  "apkName": "com.richardluo.globalIconPack_602.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-676jV/Peb367ZWWhUY7Lc1JiQ+1WsEZIID7BnoMkL4g="
+      "hash": "sha256-mzQEOxAcJiJTSonJQvDCHrbwAjWsguK1UvZbY4cewHs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-676jV/Peb367ZWWhUY7Lc1JiQ+1WsEZIID7BnoMkL4g="
+      "hash": "sha256-mzQEOxAcJiJTSonJQvDCHrbwAjWsguK1UvZbY4cewHs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-676jV/Peb367ZWWhUY7Lc1JiQ+1WsEZIID7BnoMkL4g="
+      "hash": "sha256-mzQEOxAcJiJTSonJQvDCHrbwAjWsguK1UvZbY4cewHs="
     }
   },
-  "version": "0.5.11"
+  "version": "0.6.2"
 }

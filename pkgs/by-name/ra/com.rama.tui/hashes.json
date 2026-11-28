@@ -1,18 +1,18 @@
 {
-  "apkName": "com.rama.tui_11.apk",
+  "apkName": "com.rama.tui_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FiYmx1AmWxiCZLMr025+4oT/3d/RUSA03hj9RWOc9PQ="
+      "hash": "sha256-fObAro8P+ml4RqwdMg2v0H49UVq4TNOOYg3oyH/+fMo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FiYmx1AmWxiCZLMr025+4oT/3d/RUSA03hj9RWOc9PQ="
+      "hash": "sha256-fObAro8P+ml4RqwdMg2v0H49UVq4TNOOYg3oyH/+fMo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FiYmx1AmWxiCZLMr025+4oT/3d/RUSA03hj9RWOc9PQ="
+      "hash": "sha256-fObAro8P+ml4RqwdMg2v0H49UVq4TNOOYg3oyH/+fMo="
     }
   },
-  "version": "2026.11"
+  "version": "2026.13"
 }

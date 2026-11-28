@@ -1,18 +1,18 @@
 {
-  "apkName": "com.musicremover.app_4.apk",
+  "apkName": "com.musicremover.app_93.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-KJOlOatSG7Tz/T9KS1zM1roD8JwDcETh3NKuhgHYykA="
+      "hash": "sha256-yhpVCG+39K376aL4BU2EvjCivOzW/fX4HbfvwwGihUk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KJOlOatSG7Tz/T9KS1zM1roD8JwDcETh3NKuhgHYykA="
+      "hash": "sha256-yhpVCG+39K376aL4BU2EvjCivOzW/fX4HbfvwwGihUk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-KJOlOatSG7Tz/T9KS1zM1roD8JwDcETh3NKuhgHYykA="
+      "hash": "sha256-yhpVCG+39K376aL4BU2EvjCivOzW/fX4HbfvwwGihUk="
     }
   },
-  "version": "3.0.0"
+  "version": "4.3.1"
 }

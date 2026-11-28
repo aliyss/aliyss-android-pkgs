@@ -1,18 +1,18 @@
 {
-  "apkName": "com.StudyDesk.app_18.apk",
+  "apkName": "com.StudyDesk.app_39.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-c5UrUOx3swKZca9SzDIe1C3FpTpKMVnA0tLhv95+GAg="
+      "hash": "sha256-7ARoB0IBD2R3RNWScO17EaS519MFFJlLlxVXG6LX7HA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-c5UrUOx3swKZca9SzDIe1C3FpTpKMVnA0tLhv95+GAg="
+      "hash": "sha256-7ARoB0IBD2R3RNWScO17EaS519MFFJlLlxVXG6LX7HA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-c5UrUOx3swKZca9SzDIe1C3FpTpKMVnA0tLhv95+GAg="
+      "hash": "sha256-7ARoB0IBD2R3RNWScO17EaS519MFFJlLlxVXG6LX7HA="
     }
   },
-  "version": "1.9.0"
+  "version": "1.21.1"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.owncloud.android_48000300.apk",
+  "apkName": "com.owncloud.android_48000401.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-0OM2rTWHxJMnDZq1hbpZX+jsLKAKWOCcJKZWc87U++w="
+      "hash": "sha256-BXsB9l6vIRxFIYM7L4AZnwDcuX5YdtaTTP1o9wrTSrw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0OM2rTWHxJMnDZq1hbpZX+jsLKAKWOCcJKZWc87U++w="
+      "hash": "sha256-BXsB9l6vIRxFIYM7L4AZnwDcuX5YdtaTTP1o9wrTSrw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-0OM2rTWHxJMnDZq1hbpZX+jsLKAKWOCcJKZWc87U++w="
+      "hash": "sha256-BXsB9l6vIRxFIYM7L4AZnwDcuX5YdtaTTP1o9wrTSrw="
     }
   },
-  "version": "4.8.3"
+  "version": "5.0.0-beta.1"
 }

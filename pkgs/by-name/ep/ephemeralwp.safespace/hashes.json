@@ -1,18 +1,18 @@
 {
-  "apkName": "ephemeralwp.safespace_54.apk",
+  "apkName": "ephemeralwp.safespace_63.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yuCaVijsLw3ltLGIDW3/qn1AYzNcZo/DQJuYwlRB+wA="
+      "hash": "sha256-VtxiAyiqHSnNvvn5dXbb8o6Kg2M1I4wccEjaH081AYE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yuCaVijsLw3ltLGIDW3/qn1AYzNcZo/DQJuYwlRB+wA="
+      "hash": "sha256-VtxiAyiqHSnNvvn5dXbb8o6Kg2M1I4wccEjaH081AYE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yuCaVijsLw3ltLGIDW3/qn1AYzNcZo/DQJuYwlRB+wA="
+      "hash": "sha256-VtxiAyiqHSnNvvn5dXbb8o6Kg2M1I4wccEjaH081AYE="
     }
   },
-  "version": "54.0"
+  "version": "63.0"
 }

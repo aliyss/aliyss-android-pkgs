@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bernaferrari.sdkmonitor_16.apk",
+  "apkName": "com.bernaferrari.sdkmonitor_18.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WkbltmHSMdmDAizbOnr8uc93P0B3j6jWTGIUUPdH9Uw="
+      "hash": "sha256-qSGYat83/Ykrobpvd7QpHP3HSh2lRUATCbdNFqVPNAU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WkbltmHSMdmDAizbOnr8uc93P0B3j6jWTGIUUPdH9Uw="
+      "hash": "sha256-qSGYat83/Ykrobpvd7QpHP3HSh2lRUATCbdNFqVPNAU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WkbltmHSMdmDAizbOnr8uc93P0B3j6jWTGIUUPdH9Uw="
+      "hash": "sha256-qSGYat83/Ykrobpvd7QpHP3HSh2lRUATCbdNFqVPNAU="
     }
   },
-  "version": "2.0.2"
+  "version": "2.1"
 }

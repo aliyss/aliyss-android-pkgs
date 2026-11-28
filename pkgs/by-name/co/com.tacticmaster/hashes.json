@@ -1,18 +1,18 @@
 {
-  "apkName": "com.tacticmaster_39.apk",
+  "apkName": "com.tacticmaster_45.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qUzPHwOEmM3UtOHbZMs6tHfjyKQ3ZGBEyWoc1o7L/xo="
+      "hash": "sha256-eEgFN24T27oLRpJQgUPrsrq1LnOTXCZvzWVLhspeDsA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qUzPHwOEmM3UtOHbZMs6tHfjyKQ3ZGBEyWoc1o7L/xo="
+      "hash": "sha256-eEgFN24T27oLRpJQgUPrsrq1LnOTXCZvzWVLhspeDsA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qUzPHwOEmM3UtOHbZMs6tHfjyKQ3ZGBEyWoc1o7L/xo="
+      "hash": "sha256-eEgFN24T27oLRpJQgUPrsrq1LnOTXCZvzWVLhspeDsA="
     }
   },
-  "version": "1.0.39"
+  "version": "1.0.45"
 }

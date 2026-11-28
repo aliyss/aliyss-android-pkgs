@@ -1,18 +1,18 @@
 {
-  "apkName": "org.prauga.messages_8.apk",
+  "apkName": "org.prauga.messages_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-zcQiTaMz9Ldo3Ci0dFhWlY+9mWM+RCl8CGcyMM7F+Hs="
+      "hash": "sha256-c8apaOi1kmABm3mbIp5gSq+ppHrWwL+vLDqs6HjM9vw="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zcQiTaMz9Ldo3Ci0dFhWlY+9mWM+RCl8CGcyMM7F+Hs="
+      "hash": "sha256-c8apaOi1kmABm3mbIp5gSq+ppHrWwL+vLDqs6HjM9vw="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-zcQiTaMz9Ldo3Ci0dFhWlY+9mWM+RCl8CGcyMM7F+Hs="
+      "hash": "sha256-c8apaOi1kmABm3mbIp5gSq+ppHrWwL+vLDqs6HjM9vw="
     }
   },
-  "version": "1.0.7"
+  "version": "1.0.10"
 }

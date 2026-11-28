@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bnyro.translate_56.apk",
+  "apkName": "com.bnyro.translate_57.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-eJsAKUAznrYeeF9dAIagwbJeeuZgaRm38zilltrDy9I="
+      "hash": "sha256-fcEt+9nv7Wd1xz2jACuCMKp1tie4DQV1vlTyNGTP+Bg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eJsAKUAznrYeeF9dAIagwbJeeuZgaRm38zilltrDy9I="
+      "hash": "sha256-fcEt+9nv7Wd1xz2jACuCMKp1tie4DQV1vlTyNGTP+Bg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-eJsAKUAznrYeeF9dAIagwbJeeuZgaRm38zilltrDy9I="
+      "hash": "sha256-fcEt+9nv7Wd1xz2jACuCMKp1tie4DQV1vlTyNGTP+Bg="
     }
   },
-  "version": "19.0"
+  "version": "20.0"
 }

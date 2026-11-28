@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.mage.age_5.apk",
+  "apkName": "dev.mage.age_11.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-GseCKYzItUGQOwg2N6up6ozlXSXY4lkYC/4b9HdDPc4="
+      "hash": "sha256-zAO9WcBzYHRAV/VsoTvOjlE9uMJz6LxWa3kbKVGh270="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GseCKYzItUGQOwg2N6up6ozlXSXY4lkYC/4b9HdDPc4="
+      "hash": "sha256-zAO9WcBzYHRAV/VsoTvOjlE9uMJz6LxWa3kbKVGh270="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GseCKYzItUGQOwg2N6up6ozlXSXY4lkYC/4b9HdDPc4="
+      "hash": "sha256-zAO9WcBzYHRAV/VsoTvOjlE9uMJz6LxWa3kbKVGh270="
     }
   },
-  "version": "0.1.3"
+  "version": "0.1.9"
 }

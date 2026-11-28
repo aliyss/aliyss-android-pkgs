@@ -1,18 +1,18 @@
 {
-  "apkName": "jp.ddo.hotmist.unicodepad_79.apk",
+  "apkName": "jp.ddo.hotmist.unicodepad_81.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TnGGQYL4gaYQQzAylrKuEDCokuxnvWz1m9tmu3XRRVo="
+      "hash": "sha256-juoBV0drNopgxS20NbUytqv8FFSDYuhTrdH6cy6ZAhg="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TnGGQYL4gaYQQzAylrKuEDCokuxnvWz1m9tmu3XRRVo="
+      "hash": "sha256-juoBV0drNopgxS20NbUytqv8FFSDYuhTrdH6cy6ZAhg="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TnGGQYL4gaYQQzAylrKuEDCokuxnvWz1m9tmu3XRRVo="
+      "hash": "sha256-juoBV0drNopgxS20NbUytqv8FFSDYuhTrdH6cy6ZAhg="
     }
   },
-  "version": "2.19.3-fdroid"
+  "version": "2.20.0-fdroid"
 }

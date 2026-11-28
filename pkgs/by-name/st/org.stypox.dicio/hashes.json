@@ -1,18 +1,18 @@
 {
-  "apkName": "org.stypox.dicio_17.apk",
+  "apkName": "org.stypox.dicio_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-bdhx8wxBFkiBCy2W8t4rxKKPVyMua05xzeZphx7dxIE="
+      "hash": "sha256-8XJwoOiAmnwHakI+Oc292G3Eh+iBdi6vylfgP4IljoA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bdhx8wxBFkiBCy2W8t4rxKKPVyMua05xzeZphx7dxIE="
+      "hash": "sha256-8XJwoOiAmnwHakI+Oc292G3Eh+iBdi6vylfgP4IljoA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-bdhx8wxBFkiBCy2W8t4rxKKPVyMua05xzeZphx7dxIE="
+      "hash": "sha256-8XJwoOiAmnwHakI+Oc292G3Eh+iBdi6vylfgP4IljoA="
     }
   },
-  "version": "4.0"
+  "version": "4.2"
 }

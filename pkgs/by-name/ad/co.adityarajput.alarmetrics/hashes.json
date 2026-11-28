@@ -1,18 +1,18 @@
 {
-  "apkName": "co.adityarajput.alarmetrics_10.apk",
+  "apkName": "co.adityarajput.alarmetrics_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-GzH6/sJ+I8bG2TZCrHFTKLavHuxnBfCm/zOOzodw0Kc="
+      "hash": "sha256-YmrZ9kudLrhFN8WmBU/FQy5Ck/WqnO5lTRPCX/1yqBk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GzH6/sJ+I8bG2TZCrHFTKLavHuxnBfCm/zOOzodw0Kc="
+      "hash": "sha256-YmrZ9kudLrhFN8WmBU/FQy5Ck/WqnO5lTRPCX/1yqBk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GzH6/sJ+I8bG2TZCrHFTKLavHuxnBfCm/zOOzodw0Kc="
+      "hash": "sha256-YmrZ9kudLrhFN8WmBU/FQy5Ck/WqnO5lTRPCX/1yqBk="
     }
   },
-  "version": "2.5.0"
+  "version": "2.6.0"
 }

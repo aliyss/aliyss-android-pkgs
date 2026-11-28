@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mateusrodcosta.apps.share2storage_34.apk",
+  "apkName": "com.mateusrodcosta.apps.share2storage_36.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8fdS/mYA3h6Ck19NrRzm8XVRkAAvPlmrKYPZ2lMVpSA="
+      "hash": "sha256-B4wo4Eeqy71eLd6rh2SnAoy4rdFxvfjgB+aqVtuzdjM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8fdS/mYA3h6Ck19NrRzm8XVRkAAvPlmrKYPZ2lMVpSA="
+      "hash": "sha256-B4wo4Eeqy71eLd6rh2SnAoy4rdFxvfjgB+aqVtuzdjM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8fdS/mYA3h6Ck19NrRzm8XVRkAAvPlmrKYPZ2lMVpSA="
+      "hash": "sha256-B4wo4Eeqy71eLd6rh2SnAoy4rdFxvfjgB+aqVtuzdjM="
     }
   },
-  "version": "2.1.1"
+  "version": "2.1.2a"
 }

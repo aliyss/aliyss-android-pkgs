@@ -1,10 +1,18 @@
 {
-  "apkName": "Dartotsu_Android_Universal_v1.0.0.apk",
+  "apkName": "Dartotsu_Android_Universal_v1.2.2.apk",
   "architectures": {
+    "aarch64-darwin": {
+      "archStr": "universal",
+      "hash": "sha256-8odrFSdJO3TBUUX6mfgklRpNZfYqxg32y6fe5vlVMgE="
+    },
+    "aarch64-linux": {
+      "archStr": "universal",
+      "hash": "sha256-8odrFSdJO3TBUUX6mfgklRpNZfYqxg32y6fe5vlVMgE="
+    },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pqUAtGvO+iaAueSMKHfLoiaRKYifYkBY+QlSIah8PB4="
+      "hash": "sha256-8odrFSdJO3TBUUX6mfgklRpNZfYqxg32y6fe5vlVMgE="
     }
   },
-  "version": "v1.0.0"
+  "version": "v1.2.2"
 }

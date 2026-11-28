@@ -1,18 +1,18 @@
 {
-  "apkName": "su.comp.bk_1002002.apk",
+  "apkName": "su.comp.bk_1002003.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-RxJAuzb9AYe/H3XUKqE/Upba5iqDpIxhCLaQaA+Q7oA="
+      "hash": "sha256-JWjGue6FP3Q/XV3/EZQh6xbFkcaLLa7QLuK+2g12X2A="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RxJAuzb9AYe/H3XUKqE/Upba5iqDpIxhCLaQaA+Q7oA="
+      "hash": "sha256-JWjGue6FP3Q/XV3/EZQh6xbFkcaLLa7QLuK+2g12X2A="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RxJAuzb9AYe/H3XUKqE/Upba5iqDpIxhCLaQaA+Q7oA="
+      "hash": "sha256-JWjGue6FP3Q/XV3/EZQh6xbFkcaLLa7QLuK+2g12X2A="
     }
   },
-  "version": "1.2.2"
+  "version": "1.2.3"
 }

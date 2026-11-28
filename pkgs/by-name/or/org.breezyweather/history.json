@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "6.2.2_freenet",
+      "versionCode": 60202
+    },
+    {
+      "version": "6.2.1_freenet",
+      "versionCode": 60201
+    },
+    {
+      "version": "6.2.0_freenet",
+      "versionCode": 60200
+    }
+  ]
+}

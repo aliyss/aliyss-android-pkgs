@@ -1,18 +1,18 @@
 {
-  "apkName": "livio.rssreader_120.apk",
+  "apkName": "livio.rssreader_130.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Se48UOCcFwn2i6BY3ZfMv3RsbgJhSf6sXfX8i0tKxUk="
+      "hash": "sha256-Ky2Va8tGzFZVVtp2jUdLjeJwW5r7/3EBndjB2/BNr7s="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Se48UOCcFwn2i6BY3ZfMv3RsbgJhSf6sXfX8i0tKxUk="
+      "hash": "sha256-Ky2Va8tGzFZVVtp2jUdLjeJwW5r7/3EBndjB2/BNr7s="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Se48UOCcFwn2i6BY3ZfMv3RsbgJhSf6sXfX8i0tKxUk="
+      "hash": "sha256-Ky2Va8tGzFZVVtp2jUdLjeJwW5r7/3EBndjB2/BNr7s="
     }
   },
-  "version": "1.2"
+  "version": "1.3"
 }

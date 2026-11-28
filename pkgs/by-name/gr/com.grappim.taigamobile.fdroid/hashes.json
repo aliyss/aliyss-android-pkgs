@@ -1,18 +1,18 @@
 {
-  "apkName": "com.grappim.taigamobile.fdroid_44.apk",
+  "apkName": "com.grappim.taigamobile.fdroid_49.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-yus7+8kXLjjBjrzhSvvAw2WidPPcEF/sx8u3OZ+Uiak="
+      "hash": "sha256-XBdQu6G4l3Z+CTLXDN/+gc7kq+P5C6s6XcC+vVnYCmU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yus7+8kXLjjBjrzhSvvAw2WidPPcEF/sx8u3OZ+Uiak="
+      "hash": "sha256-XBdQu6G4l3Z+CTLXDN/+gc7kq+P5C6s6XcC+vVnYCmU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-yus7+8kXLjjBjrzhSvvAw2WidPPcEF/sx8u3OZ+Uiak="
+      "hash": "sha256-XBdQu6G4l3Z+CTLXDN/+gc7kq+P5C6s6XcC+vVnYCmU="
     }
   },
-  "version": "2.1.5"
+  "version": "2.2.3"
 }

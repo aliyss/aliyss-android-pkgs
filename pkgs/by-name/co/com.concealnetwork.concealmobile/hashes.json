@@ -1,18 +1,18 @@
 {
-  "apkName": "com.concealnetwork.concealmobile_53.apk",
+  "apkName": "com.concealnetwork.concealmobile_61.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-t2RPEWN5mB8YO6Rfncs3wtjaAIxd0tmr4G/tFXZSGng="
+      "hash": "sha256-lutW+76wZR2o00EO+FNxY+lNVXAP3sQnGdtAiYbLtq8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-t2RPEWN5mB8YO6Rfncs3wtjaAIxd0tmr4G/tFXZSGng="
+      "hash": "sha256-lutW+76wZR2o00EO+FNxY+lNVXAP3sQnGdtAiYbLtq8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-t2RPEWN5mB8YO6Rfncs3wtjaAIxd0tmr4G/tFXZSGng="
+      "hash": "sha256-lutW+76wZR2o00EO+FNxY+lNVXAP3sQnGdtAiYbLtq8="
     }
   },
-  "version": "6.0.2"
+  "version": "6.1.0"
 }

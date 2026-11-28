@@ -1,18 +1,18 @@
 {
-  "apkName": "com.arslan.shizuwall_43.apk",
+  "apkName": "com.arslan.shizuwall_56.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-GuvvF8cl6Zxzp4OOZZuq++c4ORWy7Hvgpm/vipbUk1g="
+      "hash": "sha256-ZPpNVcR3bmK9Bas76iPMdvEHPG7MNN192bLVWvxNysk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GuvvF8cl6Zxzp4OOZZuq++c4ORWy7Hvgpm/vipbUk1g="
+      "hash": "sha256-ZPpNVcR3bmK9Bas76iPMdvEHPG7MNN192bLVWvxNysk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-GuvvF8cl6Zxzp4OOZZuq++c4ORWy7Hvgpm/vipbUk1g="
+      "hash": "sha256-ZPpNVcR3bmK9Bas76iPMdvEHPG7MNN192bLVWvxNysk="
     }
   },
-  "version": "4.6"
+  "version": "4.7.2"
 }

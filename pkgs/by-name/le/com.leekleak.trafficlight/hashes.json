@@ -1,18 +1,18 @@
 {
-  "apkName": "com.leekleak.trafficlight_49.apk",
+  "apkName": "com.leekleak.trafficlight_59.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-evXolvnwnvBH+/qy5cZZB5UkRoGJnXfLMOuSBVSOORI="
+      "hash": "sha256-b2jtd5ML4RRGNkxPc6DddFZKDQPOSBs3t0LtNqOGoOs="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-evXolvnwnvBH+/qy5cZZB5UkRoGJnXfLMOuSBVSOORI="
+      "hash": "sha256-b2jtd5ML4RRGNkxPc6DddFZKDQPOSBs3t0LtNqOGoOs="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-evXolvnwnvBH+/qy5cZZB5UkRoGJnXfLMOuSBVSOORI="
+      "hash": "sha256-b2jtd5ML4RRGNkxPc6DddFZKDQPOSBs3t0LtNqOGoOs="
     }
   },
-  "version": "3.1"
+  "version": "3.4.5"
 }

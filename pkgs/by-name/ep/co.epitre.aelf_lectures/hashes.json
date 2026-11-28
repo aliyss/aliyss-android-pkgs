@@ -1,18 +1,18 @@
 {
-  "apkName": "co.epitre.aelf_lectures_86.apk",
+  "apkName": "co.epitre.aelf_lectures_88.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2XSvhYsAVbJ7E6YRk4+PX4MC98kneb7ism510OopCGI="
+      "hash": "sha256-Sez8ovu28TRTI4pyYVYbOkACYnQ70NlmkFTQijCsd1Q="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2XSvhYsAVbJ7E6YRk4+PX4MC98kneb7ism510OopCGI="
+      "hash": "sha256-Sez8ovu28TRTI4pyYVYbOkACYnQ70NlmkFTQijCsd1Q="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2XSvhYsAVbJ7E6YRk4+PX4MC98kneb7ism510OopCGI="
+      "hash": "sha256-Sez8ovu28TRTI4pyYVYbOkACYnQ70NlmkFTQijCsd1Q="
     }
   },
-  "version": "2.10.0"
+  "version": "2.10.2"
 }

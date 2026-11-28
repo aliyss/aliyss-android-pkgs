@@ -1,18 +1,18 @@
 {
-  "apkName": "com.serranoie.app.minus_10503.apk",
+  "apkName": "com.serranoie.app.minus_20110.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9vTjyyjOOvqSM5GueQriR/Az9qGSoUArFyUckJGfWFY="
+      "hash": "sha256-gvxMnZ4r6xfMMspK2pRCnZxJ+UtvfWlIrLe9P4DPebM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9vTjyyjOOvqSM5GueQriR/Az9qGSoUArFyUckJGfWFY="
+      "hash": "sha256-gvxMnZ4r6xfMMspK2pRCnZxJ+UtvfWlIrLe9P4DPebM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9vTjyyjOOvqSM5GueQriR/Az9qGSoUArFyUckJGfWFY="
+      "hash": "sha256-gvxMnZ4r6xfMMspK2pRCnZxJ+UtvfWlIrLe9P4DPebM="
     }
   },
-  "version": "1.5.3"
+  "version": "2.1.1"
 }

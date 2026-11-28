@@ -1,18 +1,18 @@
 {
-  "apkName": "com.dessalines.rankmyfavs_44.apk",
+  "apkName": "com.dessalines.rankmyfavs_45.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5HGDE4J1iz+0kr9Q1R5S+9AP6HfYDQBddN9KCZKEMew="
+      "hash": "sha256-FuwIcLNa3vxoaa1X0UdNJ2TzmbHyKCT3/DFtYLfg/eo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5HGDE4J1iz+0kr9Q1R5S+9AP6HfYDQBddN9KCZKEMew="
+      "hash": "sha256-FuwIcLNa3vxoaa1X0UdNJ2TzmbHyKCT3/DFtYLfg/eo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5HGDE4J1iz+0kr9Q1R5S+9AP6HfYDQBddN9KCZKEMew="
+      "hash": "sha256-FuwIcLNa3vxoaa1X0UdNJ2TzmbHyKCT3/DFtYLfg/eo="
     }
   },
-  "version": "0.6.21"
+  "version": "0.6.22"
 }

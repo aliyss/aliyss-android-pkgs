@@ -1,18 +1,18 @@
 {
-  "apkName": "com.pocket_plan.j7_003_151.apk",
+  "apkName": "com.pocket_plan.j7_003_160.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-TrDLTaq8mmn1/dZwz9k/u5xXHuL/gYHdKEnFZbczXXI="
+      "hash": "sha256-CumQT6KBriaqQ/ckSayLAPAf2EMz/FdlxfbWv/VvII8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TrDLTaq8mmn1/dZwz9k/u5xXHuL/gYHdKEnFZbczXXI="
+      "hash": "sha256-CumQT6KBriaqQ/ckSayLAPAf2EMz/FdlxfbWv/VvII8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-TrDLTaq8mmn1/dZwz9k/u5xXHuL/gYHdKEnFZbczXXI="
+      "hash": "sha256-CumQT6KBriaqQ/ckSayLAPAf2EMz/FdlxfbWv/VvII8="
     }
   },
-  "version": "1.5.1"
+  "version": "1.6.0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "info.varden.hauk_14.apk",
+  "apkName": "info.varden.hauk_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-CWX/2iDEGcabCB1ISKvddQKh44AaLjASTgNp3SBRR44="
+      "hash": "sha256-/bjJ+05Q0C6/6Sw4sl2QDpxS5Zp6tfPFaZu+TraM8wU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CWX/2iDEGcabCB1ISKvddQKh44AaLjASTgNp3SBRR44="
+      "hash": "sha256-/bjJ+05Q0C6/6Sw4sl2QDpxS5Zp6tfPFaZu+TraM8wU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-CWX/2iDEGcabCB1ISKvddQKh44AaLjASTgNp3SBRR44="
+      "hash": "sha256-/bjJ+05Q0C6/6Sw4sl2QDpxS5Zp6tfPFaZu+TraM8wU="
     }
   },
-  "version": "1.6.2"
+  "version": "1.7.0"
 }

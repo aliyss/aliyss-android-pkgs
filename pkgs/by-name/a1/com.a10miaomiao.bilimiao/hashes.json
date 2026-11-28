@@ -1,18 +1,18 @@
 {
-  "apkName": "com.a10miaomiao.bilimiao_117.apk",
+  "apkName": "com.a10miaomiao.bilimiao_124.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-YITlh2zglbqmg7QTUEpbctNI1pBt+vcRBTvw76axv3M="
+      "hash": "sha256-ebEA2bsWgXw+DT+WKELzRX1yvFhFvGe9TjfZr73I0oc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YITlh2zglbqmg7QTUEpbctNI1pBt+vcRBTvw76axv3M="
+      "hash": "sha256-ebEA2bsWgXw+DT+WKELzRX1yvFhFvGe9TjfZr73I0oc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-YITlh2zglbqmg7QTUEpbctNI1pBt+vcRBTvw76axv3M="
+      "hash": "sha256-ebEA2bsWgXw+DT+WKELzRX1yvFhFvGe9TjfZr73I0oc="
     }
   },
-  "version": "2.4.8.1"
+  "version": "2.5.4"
 }

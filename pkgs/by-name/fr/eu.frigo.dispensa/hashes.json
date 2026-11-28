@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.frigo.dispensa_23.apk",
+  "apkName": "eu.frigo.dispensa_29.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-u/9A43iqI2658kYq8UcgdDnc7oAerrBdFi2qX20Ynng="
+      "hash": "sha256-YZ51MGBgZCDGQOBq1H5+O4/mJ09gQaf2x0G7gVD4v9E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-u/9A43iqI2658kYq8UcgdDnc7oAerrBdFi2qX20Ynng="
+      "hash": "sha256-YZ51MGBgZCDGQOBq1H5+O4/mJ09gQaf2x0G7gVD4v9E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-u/9A43iqI2658kYq8UcgdDnc7oAerrBdFi2qX20Ynng="
+      "hash": "sha256-YZ51MGBgZCDGQOBq1H5+O4/mJ09gQaf2x0G7gVD4v9E="
     }
   },
-  "version": "0.1.13-fdroid"
+  "version": "0.1.19-fdroid"
 }

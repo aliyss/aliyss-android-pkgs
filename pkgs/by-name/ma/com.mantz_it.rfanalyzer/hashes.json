@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mantz_it.rfanalyzer_20208.apk",
+  "apkName": "com.mantz_it.rfanalyzer_20301.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-B6X1qxD4CovK1IPBjCdCj2v3UBKrcaro9NS88aPr6cY="
+      "hash": "sha256-vRp+yUXEN/9AuXhqlK22fXCl3e8x+/z/e1liKkffoFE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-B6X1qxD4CovK1IPBjCdCj2v3UBKrcaro9NS88aPr6cY="
+      "hash": "sha256-vRp+yUXEN/9AuXhqlK22fXCl3e8x+/z/e1liKkffoFE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-B6X1qxD4CovK1IPBjCdCj2v3UBKrcaro9NS88aPr6cY="
+      "hash": "sha256-vRp+yUXEN/9AuXhqlK22fXCl3e8x+/z/e1liKkffoFE="
     }
   },
-  "version": "2.2.1-foss"
+  "version": "2.3beta1-foss"
 }

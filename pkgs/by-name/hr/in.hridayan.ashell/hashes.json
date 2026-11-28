@@ -1,18 +1,18 @@
 {
-  "apkName": "in.hridayan.ashell_62.apk",
+  "apkName": "in.hridayan.ashell_63.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-D/mmlPzbLa/VZhysKFpJtFQcezO8OOjhrrr/paSONLI="
+      "hash": "sha256-Pb8eeyXZ8cmbmOuMNsaFA0T+VrnHQjZgIPQhKTslTiE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-D/mmlPzbLa/VZhysKFpJtFQcezO8OOjhrrr/paSONLI="
+      "hash": "sha256-Pb8eeyXZ8cmbmOuMNsaFA0T+VrnHQjZgIPQhKTslTiE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-D/mmlPzbLa/VZhysKFpJtFQcezO8OOjhrrr/paSONLI="
+      "hash": "sha256-Pb8eeyXZ8cmbmOuMNsaFA0T+VrnHQjZgIPQhKTslTiE="
     }
   },
-  "version": "v7.4.0"
+  "version": "v8.0.0"
 }

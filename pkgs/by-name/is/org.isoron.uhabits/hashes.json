@@ -1,18 +1,18 @@
 {
-  "apkName": "org.isoron.uhabits_20301.apk",
+  "apkName": "org.isoron.uhabits_20302.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-OQPTvj2w8WIq1hz1uyZ1FclaQGno3Ub3MklyGxu4Fz4="
+      "hash": "sha256-inAvha/oM4XV+2HLz0BTZBE3b2S7sXEpENTtABgrgwM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OQPTvj2w8WIq1hz1uyZ1FclaQGno3Ub3MklyGxu4Fz4="
+      "hash": "sha256-inAvha/oM4XV+2HLz0BTZBE3b2S7sXEpENTtABgrgwM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-OQPTvj2w8WIq1hz1uyZ1FclaQGno3Ub3MklyGxu4Fz4="
+      "hash": "sha256-inAvha/oM4XV+2HLz0BTZBE3b2S7sXEpENTtABgrgwM="
     }
   },
-  "version": "2.3.1"
+  "version": "2.3.2"
 }

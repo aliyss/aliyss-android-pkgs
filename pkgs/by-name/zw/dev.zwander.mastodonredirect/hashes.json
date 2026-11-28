@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.zwander.mastodonredirect_44.apk",
+  "apkName": "dev.zwander.mastodonredirect_49.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-+OBkJTxlmCj13i95SnNLFrcPzEylBPbfnovLANoNYCw="
+      "hash": "sha256-+enjn8zzQMqTMSh5QMKZRUUvB82XHCi+Nib2NLpIjD0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+OBkJTxlmCj13i95SnNLFrcPzEylBPbfnovLANoNYCw="
+      "hash": "sha256-+enjn8zzQMqTMSh5QMKZRUUvB82XHCi+Nib2NLpIjD0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-+OBkJTxlmCj13i95SnNLFrcPzEylBPbfnovLANoNYCw="
+      "hash": "sha256-+enjn8zzQMqTMSh5QMKZRUUvB82XHCi+Nib2NLpIjD0="
     }
   },
-  "version": "1.15.1"
+  "version": "1.16.3"
 }

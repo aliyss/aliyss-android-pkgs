@@ -1,18 +1,18 @@
 {
-  "apkName": "org.disspair.disspair_3.apk",
+  "apkName": "org.disspair.disspair_4.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-h77OGGm7uldUHzRFFLSxcOlG30NvgSxlwoaV/s+fBxk="
+      "hash": "sha256-W7YkKzThfKJ1JZ10PHqI8eHHVBTLhyV5q/p8wMCBJxE="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h77OGGm7uldUHzRFFLSxcOlG30NvgSxlwoaV/s+fBxk="
+      "hash": "sha256-W7YkKzThfKJ1JZ10PHqI8eHHVBTLhyV5q/p8wMCBJxE="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h77OGGm7uldUHzRFFLSxcOlG30NvgSxlwoaV/s+fBxk="
+      "hash": "sha256-W7YkKzThfKJ1JZ10PHqI8eHHVBTLhyV5q/p8wMCBJxE="
     }
   },
-  "version": "2.1.2"
+  "version": "2.2.0"
 }

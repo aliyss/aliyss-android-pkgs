@@ -1,18 +1,18 @@
 {
-  "apkName": "de.jrpie.android.launcher_57.apk",
+  "apkName": "de.jrpie.android.launcher_58.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9nEk2tUAkBbdH843nXmyDqk6Rs77V1kALz+hSdULAY8="
+      "hash": "sha256-iQeRhlNqyTtvgL2t4kWlOd1Q7/jSE3s3hfnXpv3fRHM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9nEk2tUAkBbdH843nXmyDqk6Rs77V1kALz+hSdULAY8="
+      "hash": "sha256-iQeRhlNqyTtvgL2t4kWlOd1Q7/jSE3s3hfnXpv3fRHM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9nEk2tUAkBbdH843nXmyDqk6Rs77V1kALz+hSdULAY8="
+      "hash": "sha256-iQeRhlNqyTtvgL2t4kWlOd1Q7/jSE3s3hfnXpv3fRHM="
     }
   },
-  "version": "0.2.12"
+  "version": "0.2.13"
 }

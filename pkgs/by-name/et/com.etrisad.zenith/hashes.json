@@ -1,18 +1,18 @@
 {
-  "apkName": "com.etrisad.zenith_12.apk",
+  "apkName": "com.etrisad.zenith_19.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-FIRXd3Zx8TED/K8AkcCiyky6/aEdEJWwlElGI4yqsps="
+      "hash": "sha256-ELPv7utt8ABoGScjbGgJ6PieLrdgCfSxCHtDHOL5bsM="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FIRXd3Zx8TED/K8AkcCiyky6/aEdEJWwlElGI4yqsps="
+      "hash": "sha256-ELPv7utt8ABoGScjbGgJ6PieLrdgCfSxCHtDHOL5bsM="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-FIRXd3Zx8TED/K8AkcCiyky6/aEdEJWwlElGI4yqsps="
+      "hash": "sha256-ELPv7utt8ABoGScjbGgJ6PieLrdgCfSxCHtDHOL5bsM="
     }
   },
-  "version": "1.5.8"
+  "version": "1.6.5"
 }

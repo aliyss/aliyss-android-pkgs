@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bernaferrari.changedetection_32.apk",
+  "apkName": "com.bernaferrari.changedetection_48.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-LpuUJdrLh6AvKDQ1QK1YbaoB8ji+ubYd67T7Y8DWpts="
+      "hash": "sha256-CbY+XGCRstLw8L5EC6j/lmcEUGG6Vo2ZPFKZ7xQt+fI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LpuUJdrLh6AvKDQ1QK1YbaoB8ji+ubYd67T7Y8DWpts="
+      "hash": "sha256-CbY+XGCRstLw8L5EC6j/lmcEUGG6Vo2ZPFKZ7xQt+fI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-LpuUJdrLh6AvKDQ1QK1YbaoB8ji+ubYd67T7Y8DWpts="
+      "hash": "sha256-CbY+XGCRstLw8L5EC6j/lmcEUGG6Vo2ZPFKZ7xQt+fI="
     }
   },
-  "version": "2.2"
+  "version": "3.3"
 }

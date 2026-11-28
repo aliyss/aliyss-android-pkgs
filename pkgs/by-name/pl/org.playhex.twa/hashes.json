@@ -1,18 +1,18 @@
 {
-  "apkName": "org.playhex.twa_2026060400.apk",
+  "apkName": "org.playhex.twa_2026111700.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-aBdz2TxP6d3Oxe3khm36ppAovdON/h1qumNy43IvuIg="
+      "hash": "sha256-Z8U5uZP/z+REvEpfttg7xBtUqhM9KXQbHQx7s32f/wc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aBdz2TxP6d3Oxe3khm36ppAovdON/h1qumNy43IvuIg="
+      "hash": "sha256-Z8U5uZP/z+REvEpfttg7xBtUqhM9KXQbHQx7s32f/wc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-aBdz2TxP6d3Oxe3khm36ppAovdON/h1qumNy43IvuIg="
+      "hash": "sha256-Z8U5uZP/z+REvEpfttg7xBtUqhM9KXQbHQx7s32f/wc="
     }
   },
-  "version": "1.0.0.9"
+  "version": "1.0.0.12"
 }

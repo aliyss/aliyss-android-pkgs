@@ -1,18 +1,18 @@
 {
-  "apkName": "com.Colota_44.apk",
+  "apkName": "com.Colota_55.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-IsYJWG7xV59SQ49MojDgrQWO6G3gUJRpdyZIOKxh7t4="
+      "hash": "sha256-yVv2XEJmhmcaqcKN+H6eXWlR0QWe4QWJPHqKWzn1ego="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IsYJWG7xV59SQ49MojDgrQWO6G3gUJRpdyZIOKxh7t4="
+      "hash": "sha256-yVv2XEJmhmcaqcKN+H6eXWlR0QWe4QWJPHqKWzn1ego="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IsYJWG7xV59SQ49MojDgrQWO6G3gUJRpdyZIOKxh7t4="
+      "hash": "sha256-yVv2XEJmhmcaqcKN+H6eXWlR0QWe4QWJPHqKWzn1ego="
     }
   },
-  "version": "1.13.0"
+  "version": "1.22.0"
 }

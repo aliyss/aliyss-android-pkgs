@@ -1,18 +1,18 @@
 {
-  "apkName": "com.atharok.btremote_26.apk",
+  "apkName": "com.atharok.btremote_27.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ZQLZWJ7nwNDi80klCyi7U0JUZX3zYNwzCxXSFzSVGrc="
+      "hash": "sha256-WAACYrtvy6sZVQHMGNP0ZoWwbw1lq7duFo3fdpuJjmo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZQLZWJ7nwNDi80klCyi7U0JUZX3zYNwzCxXSFzSVGrc="
+      "hash": "sha256-WAACYrtvy6sZVQHMGNP0ZoWwbw1lq7duFo3fdpuJjmo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ZQLZWJ7nwNDi80klCyi7U0JUZX3zYNwzCxXSFzSVGrc="
+      "hash": "sha256-WAACYrtvy6sZVQHMGNP0ZoWwbw1lq7duFo3fdpuJjmo="
     }
   },
-  "version": "1.12.1"
+  "version": "1.13.0"
 }

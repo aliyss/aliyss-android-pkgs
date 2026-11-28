@@ -1,18 +1,18 @@
 {
-  "apkName": "org.kde.kdeconnect_tp_13513.apk",
+  "apkName": "org.kde.kdeconnect_tp_13703.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-h5SccqIrrpfgGc6BzbQUlpmSVMqaU8xmR+qALD1VBvQ="
+      "hash": "sha256-lYQpFvMCFcVrBR0gaLJYz7FW3pOYSk6nnnziULsi4U8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h5SccqIrrpfgGc6BzbQUlpmSVMqaU8xmR+qALD1VBvQ="
+      "hash": "sha256-lYQpFvMCFcVrBR0gaLJYz7FW3pOYSk6nnnziULsi4U8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-h5SccqIrrpfgGc6BzbQUlpmSVMqaU8xmR+qALD1VBvQ="
+      "hash": "sha256-lYQpFvMCFcVrBR0gaLJYz7FW3pOYSk6nnnziULsi4U8="
     }
   },
-  "version": "1.35.13"
+  "version": "1.37.3"
 }

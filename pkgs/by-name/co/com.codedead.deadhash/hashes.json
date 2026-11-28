@@ -1,18 +1,18 @@
 {
-  "apkName": "com.codedead.deadhash_13.apk",
+  "apkName": "com.codedead.deadhash_22.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-gBaA/ZE45QP+R2qSGpaloeRdht9Vf0LRXyuiqBUGr1Y="
+      "hash": "sha256-hYqq1tXS64+nESFte0dH4fuz3hO4/IXy8ukwq+WxDbk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gBaA/ZE45QP+R2qSGpaloeRdht9Vf0LRXyuiqBUGr1Y="
+      "hash": "sha256-hYqq1tXS64+nESFte0dH4fuz3hO4/IXy8ukwq+WxDbk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-gBaA/ZE45QP+R2qSGpaloeRdht9Vf0LRXyuiqBUGr1Y="
+      "hash": "sha256-hYqq1tXS64+nESFte0dH4fuz3hO4/IXy8ukwq+WxDbk="
     }
   },
-  "version": "1.8.3"
+  "version": "1.9.2"
 }

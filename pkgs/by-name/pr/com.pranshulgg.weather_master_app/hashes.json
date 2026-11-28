@@ -1,18 +1,18 @@
 {
-  "apkName": "com.pranshulgg.weather_master_app_58.apk",
+  "apkName": "com.pranshulgg.weather_master_app_68.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-2ia4Ro1lnPlUuBwtxOt8djI6uYGf1lZn6OSCYPv0SA4="
+      "hash": "sha256-MgT1L1WCAOahhbcy8Tau5W5DTcFGWKMwI8E1P6UXQyk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2ia4Ro1lnPlUuBwtxOt8djI6uYGf1lZn6OSCYPv0SA4="
+      "hash": "sha256-MgT1L1WCAOahhbcy8Tau5W5DTcFGWKMwI8E1P6UXQyk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-2ia4Ro1lnPlUuBwtxOt8djI6uYGf1lZn6OSCYPv0SA4="
+      "hash": "sha256-MgT1L1WCAOahhbcy8Tau5W5DTcFGWKMwI8E1P6UXQyk="
     }
   },
-  "version": "3.8.0"
+  "version": "3.11.0"
 }

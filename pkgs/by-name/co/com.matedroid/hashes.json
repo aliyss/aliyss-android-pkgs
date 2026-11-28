@@ -1,18 +1,18 @@
 {
-  "apkName": "com.matedroid_178293972.apk",
+  "apkName": "com.matedroid_178982387.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-pUavlThAIjpXGXc+84501EaaND3Ot4holTHHAfIejfQ="
+      "hash": "sha256-aKZAPjYYTyHnzufFViQKfr479gsjVhO94e/RwGZo8eU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pUavlThAIjpXGXc+84501EaaND3Ot4holTHHAfIejfQ="
+      "hash": "sha256-aKZAPjYYTyHnzufFViQKfr479gsjVhO94e/RwGZo8eU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pUavlThAIjpXGXc+84501EaaND3Ot4holTHHAfIejfQ="
+      "hash": "sha256-aKZAPjYYTyHnzufFViQKfr479gsjVhO94e/RwGZo8eU="
     }
   },
-  "version": "1.10.0"
+  "version": "1.11.3"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.absinthe.libchecker_2671.apk",
+  "apkName": "com.absinthe.libchecker_2955.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-BrXLNrUAK/9VvioemSNQS+hm/IghsowcdJY8ip9b4k4="
+      "hash": "sha256-M/6OIDdq0NHN4dhrROPy7EFtJX4u/GrqF/5vYRV9g8g="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-BrXLNrUAK/9VvioemSNQS+hm/IghsowcdJY8ip9b4k4="
+      "hash": "sha256-M/6OIDdq0NHN4dhrROPy7EFtJX4u/GrqF/5vYRV9g8g="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-BrXLNrUAK/9VvioemSNQS+hm/IghsowcdJY8ip9b4k4="
+      "hash": "sha256-M/6OIDdq0NHN4dhrROPy7EFtJX4u/GrqF/5vYRV9g8g="
     }
   },
-  "version": "2.5.4.5696014"
+  "version": "2.5.5.1.2a0850a"
 }

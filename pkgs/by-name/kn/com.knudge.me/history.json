@@ -1,66 +1,6 @@
 {
   "versions": [
     {
-      "version": "3.17.0",
-      "versionCode": 286,
-      "date": "Feb 18, 2026",
-      "size": "25.6 MB"
-    },
-    {
-      "version": "3.16.0",
-      "versionCode": 285,
-      "date": "Dec 28, 2025",
-      "size": "25.6 MB"
-    },
-    {
-      "version": "3.15.0",
-      "versionCode": 284,
-      "date": "Oct 5, 2025",
-      "size": "28.6 MB"
-    },
-    {
-      "version": "3.14.0",
-      "versionCode": 283,
-      "date": "Sep 22, 2025",
-      "size": "28.6 MB"
-    },
-    {
-      "version": "3.13.0",
-      "versionCode": 282,
-      "date": "Sep 17, 2025",
-      "size": "14.7 MB"
-    },
-    {
-      "version": "3.12.0",
-      "versionCode": 281,
-      "date": "Aug 31, 2025",
-      "size": "32.0 MB"
-    },
-    {
-      "version": "3.11.0",
-      "versionCode": 280,
-      "date": "Aug 21, 2025",
-      "size": "17.9 MB"
-    },
-    {
-      "version": "3.10.0",
-      "versionCode": 279,
-      "date": "Feb 11, 2025",
-      "size": "21.6 MB"
-    },
-    {
-      "version": "3.8.0",
-      "versionCode": 277,
-      "date": "Oct 21, 2024",
-      "size": "18.5 MB"
-    },
-    {
-      "version": "3.7.0",
-      "versionCode": 275,
-      "date": "Jul 15, 2024",
-      "size": "21.2 MB"
-    },
-    {
       "version": "2.22.7"
     },
     {
@@ -106,6 +46,30 @@
       "version": "3.1.0"
     },
     {
+      "version": "3.10.0"
+    },
+    {
+      "version": "3.11.0"
+    },
+    {
+      "version": "3.12.0"
+    },
+    {
+      "version": "3.13.0"
+    },
+    {
+      "version": "3.14.0"
+    },
+    {
+      "version": "3.15.0"
+    },
+    {
+      "version": "3.16.0"
+    },
+    {
+      "version": "3.17.0"
+    },
+    {
       "version": "3.2.0"
     },
     {
@@ -119,6 +83,12 @@
     },
     {
       "version": "3.6.0"
+    },
+    {
+      "version": "3.7.0"
+    },
+    {
+      "version": "3.8.0"
     }
   ]
 }

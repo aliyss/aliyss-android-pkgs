@@ -1,18 +1,18 @@
 {
-  "apkName": "com.bytehamster.flowitgame_403.apk",
+  "apkName": "com.bytehamster.flowitgame_404.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-SNAquulHJPhW3VP3mBbT5ZipkXxnYIXqeLshJSaSJbY="
+      "hash": "sha256-SxN10GZTSragjTbdZmHVVu5YEvmjY994YxRx2oIe8TI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SNAquulHJPhW3VP3mBbT5ZipkXxnYIXqeLshJSaSJbY="
+      "hash": "sha256-SxN10GZTSragjTbdZmHVVu5YEvmjY994YxRx2oIe8TI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-SNAquulHJPhW3VP3mBbT5ZipkXxnYIXqeLshJSaSJbY="
+      "hash": "sha256-SxN10GZTSragjTbdZmHVVu5YEvmjY994YxRx2oIe8TI="
     }
   },
-  "version": "4.3"
+  "version": "4.4"
 }

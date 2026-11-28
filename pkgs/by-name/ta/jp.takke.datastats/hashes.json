@@ -1,18 +1,18 @@
 {
-  "apkName": "jp.takke.datastats_37.apk",
+  "apkName": "jp.takke.datastats_38.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-D/4lEPMYp1717FmHzQO0usjw/sPq6b+g3YSuAEGJkHo="
+      "hash": "sha256-qM/6CVpILVYTQqnjgMcYXqCo6V9l8wrUXX1N0HCikmA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-D/4lEPMYp1717FmHzQO0usjw/sPq6b+g3YSuAEGJkHo="
+      "hash": "sha256-qM/6CVpILVYTQqnjgMcYXqCo6V9l8wrUXX1N0HCikmA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-D/4lEPMYp1717FmHzQO0usjw/sPq6b+g3YSuAEGJkHo="
+      "hash": "sha256-qM/6CVpILVYTQqnjgMcYXqCo6V9l8wrUXX1N0HCikmA="
     }
   },
-  "version": "4.0.1"
+  "version": "4.1.0"
 }

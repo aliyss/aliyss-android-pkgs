@@ -1,18 +1,18 @@
 {
-  "apkName": "com.slate.launcher_4.apk",
+  "apkName": "com.slate.launcher_7.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5OuMDd+LzG6qxSkbd9FhZqo1I/1jj4cprpUK8+KqeS0="
+      "hash": "sha256-/D/o8jI+eMpu2XCKeiBn+o/CH+OtkMjBSt66J/6haig="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5OuMDd+LzG6qxSkbd9FhZqo1I/1jj4cprpUK8+KqeS0="
+      "hash": "sha256-/D/o8jI+eMpu2XCKeiBn+o/CH+OtkMjBSt66J/6haig="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5OuMDd+LzG6qxSkbd9FhZqo1I/1jj4cprpUK8+KqeS0="
+      "hash": "sha256-/D/o8jI+eMpu2XCKeiBn+o/CH+OtkMjBSt66J/6haig="
     }
   },
-  "version": "1.3"
+  "version": "1.6"
 }

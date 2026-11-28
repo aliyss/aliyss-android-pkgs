@@ -1,18 +1,18 @@
 {
-  "apkName": "app.fluffy_801.apk",
+  "apkName": "app.fluffy_981.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-kuy2sGmfppEwoRQGndJJUrITEvPpcy+9+V1/yU+yxSU="
+      "hash": "sha256-j9RGnySG/F9lgl9HSO2eR/gBXY8LUv0rzEAWhvPIgg4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kuy2sGmfppEwoRQGndJJUrITEvPpcy+9+V1/yU+yxSU="
+      "hash": "sha256-j9RGnySG/F9lgl9HSO2eR/gBXY8LUv0rzEAWhvPIgg4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-kuy2sGmfppEwoRQGndJJUrITEvPpcy+9+V1/yU+yxSU="
+      "hash": "sha256-j9RGnySG/F9lgl9HSO2eR/gBXY8LUv0rzEAWhvPIgg4="
     }
   },
-  "version": "4.2.5"
+  "version": "4.6.1"
 }

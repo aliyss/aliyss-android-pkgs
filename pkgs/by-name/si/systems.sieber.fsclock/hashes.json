@@ -1,18 +1,18 @@
 {
-  "apkName": "systems.sieber.fsclock_42.apk",
+  "apkName": "systems.sieber.fsclock_43.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-grV23LQrGdt/1YPJLXdDZvOhG7ahT19GM/gqCAMZ5+U="
+      "hash": "sha256-2N1g5rCjv3K9K7KugJw+unDKHvDUQ1APmPhI86Km7Ts="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-grV23LQrGdt/1YPJLXdDZvOhG7ahT19GM/gqCAMZ5+U="
+      "hash": "sha256-2N1g5rCjv3K9K7KugJw+unDKHvDUQ1APmPhI86Km7Ts="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-grV23LQrGdt/1YPJLXdDZvOhG7ahT19GM/gqCAMZ5+U="
+      "hash": "sha256-2N1g5rCjv3K9K7KugJw+unDKHvDUQ1APmPhI86Km7Ts="
     }
   },
-  "version": "2.2"
+  "version": "2.3"
 }

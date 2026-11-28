@@ -1,18 +1,18 @@
 {
-  "apkName": "com.zoffcc.applications.toloshare_10028.apk",
+  "apkName": "com.zoffcc.applications.toloshare_10038.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Gjj+WdjZuc9BypMRlHF5W3Ss/etJR54+6uVn0e5slJQ="
+      "hash": "sha256-FB2bX5TcNSIMNfrOhmosY6ezvvqwO5Fc89RjDQcvaY8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Gjj+WdjZuc9BypMRlHF5W3Ss/etJR54+6uVn0e5slJQ="
+      "hash": "sha256-FB2bX5TcNSIMNfrOhmosY6ezvvqwO5Fc89RjDQcvaY8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Gjj+WdjZuc9BypMRlHF5W3Ss/etJR54+6uVn0e5slJQ="
+      "hash": "sha256-FB2bX5TcNSIMNfrOhmosY6ezvvqwO5Fc89RjDQcvaY8="
     }
   },
-  "version": "1.0.28"
+  "version": "1.0.38"
 }

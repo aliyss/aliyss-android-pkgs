@@ -1,18 +1,18 @@
 {
-  "apkName": "io.homeassistant.companion.android.minimal_22884.apk",
+  "apkName": "io.homeassistant.companion.android.minimal_25506.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8+z8ujPS15Nuf21a3ebN01tQ0Z0K82sdW17RHJ5TpgE="
+      "hash": "sha256-YdlvS8+x+JCqEN1m2+ulX/zeqNmL5WmJNg27/9DoH0k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8+z8ujPS15Nuf21a3ebN01tQ0Z0K82sdW17RHJ5TpgE="
+      "hash": "sha256-YdlvS8+x+JCqEN1m2+ulX/zeqNmL5WmJNg27/9DoH0k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8+z8ujPS15Nuf21a3ebN01tQ0Z0K82sdW17RHJ5TpgE="
+      "hash": "sha256-YdlvS8+x+JCqEN1m2+ulX/zeqNmL5WmJNg27/9DoH0k="
     }
   },
-  "version": "2026.6.5-minimal"
+  "version": "2026.11.1-minimal"
 }

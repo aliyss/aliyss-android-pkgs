@@ -1,18 +1,18 @@
 {
-  "apkName": "com.google.android.stardroid_1704.apk",
+  "apkName": "com.google.android.stardroid_1794.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-ncY6hRA/L4vg1Rswf0d/UNPA2A4XgrnsiQv1WtOb0nM="
+      "hash": "sha256-FcieMNBcU6s6vmeFc28Chto5GSXtItyhNjCx0D0xJl0="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ncY6hRA/L4vg1Rswf0d/UNPA2A4XgrnsiQv1WtOb0nM="
+      "hash": "sha256-FcieMNBcU6s6vmeFc28Chto5GSXtItyhNjCx0D0xJl0="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-ncY6hRA/L4vg1Rswf0d/UNPA2A4XgrnsiQv1WtOb0nM="
+      "hash": "sha256-FcieMNBcU6s6vmeFc28Chto5GSXtItyhNjCx0D0xJl0="
     }
   },
-  "version": "1.18.0:Eclipse"
+  "version": "2.3.2:Cassini"
 }

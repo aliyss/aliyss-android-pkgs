@@ -1,18 +1,18 @@
 {
-  "apkName": "com.buzbuz.smartautoclicker_85.apk",
+  "apkName": "com.buzbuz.smartautoclicker_1040004.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-4DgjXo6shYff3kUEce7fSHz3jUE7kKqH0yR5N7/djG8="
+      "hash": "sha256-U1RjCXdQqpIrRCOlXJeZ8kSC8rwnW5O7XKQmGLGbvcQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4DgjXo6shYff3kUEce7fSHz3jUE7kKqH0yR5N7/djG8="
+      "hash": "sha256-U1RjCXdQqpIrRCOlXJeZ8kSC8rwnW5O7XKQmGLGbvcQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-4DgjXo6shYff3kUEce7fSHz3jUE7kKqH0yR5N7/djG8="
+      "hash": "sha256-U1RjCXdQqpIrRCOlXJeZ8kSC8rwnW5O7XKQmGLGbvcQ="
     }
   },
-  "version": "3.5.1"
+  "version": "4.1.2"
 }

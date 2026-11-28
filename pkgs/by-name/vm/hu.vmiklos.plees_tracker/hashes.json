@@ -1,18 +1,18 @@
 {
-  "apkName": "hu.vmiklos.plees_tracker_66.apk",
+  "apkName": "hu.vmiklos.plees_tracker_68.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-tQrPP8fjoE+kY3zG7Gs2tZ2q5uZgfhVLXUzKHHjctg4="
+      "hash": "sha256-0JR0V37VKlRCRL3bAdYYTmRPl3QyqhKQbKRb/KsRTHA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tQrPP8fjoE+kY3zG7Gs2tZ2q5uZgfhVLXUzKHHjctg4="
+      "hash": "sha256-0JR0V37VKlRCRL3bAdYYTmRPl3QyqhKQbKRb/KsRTHA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-tQrPP8fjoE+kY3zG7Gs2tZ2q5uZgfhVLXUzKHHjctg4="
+      "hash": "sha256-0JR0V37VKlRCRL3bAdYYTmRPl3QyqhKQbKRb/KsRTHA="
     }
   },
-  "version": "26.8"
+  "version": "26.8.2"
 }

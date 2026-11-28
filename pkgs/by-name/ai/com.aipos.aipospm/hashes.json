@@ -1,18 +1,18 @@
 {
-  "apkName": "com.aipos.aipospm_3.apk",
+  "apkName": "com.aipos.aipospm_12.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Hi1YCPvH5zbBUMhVN0GRK1lZWPEX6W1C0+WaQ0MVIRY="
+      "hash": "sha256-ogAbbOI0Sz7ibJlxGCYdl0c+zG4aixBrOvmCgUGUGL8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Hi1YCPvH5zbBUMhVN0GRK1lZWPEX6W1C0+WaQ0MVIRY="
+      "hash": "sha256-ogAbbOI0Sz7ibJlxGCYdl0c+zG4aixBrOvmCgUGUGL8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Hi1YCPvH5zbBUMhVN0GRK1lZWPEX6W1C0+WaQ0MVIRY="
+      "hash": "sha256-ogAbbOI0Sz7ibJlxGCYdl0c+zG4aixBrOvmCgUGUGL8="
     }
   },
-  "version": "1.2.0"
+  "version": "1.7.0-beta.1"
 }

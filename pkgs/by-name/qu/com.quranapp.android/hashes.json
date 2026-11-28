@@ -1,18 +1,18 @@
 {
-  "apkName": "com.quranapp.android_231111142.apk",
+  "apkName": "com.quranapp.android_231111147.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-IU5hhb1prSowJLNrWWBlaMYQwmrn7tLJSUiOFqYxXU4="
+      "hash": "sha256-8DcJPXUgT3VyLbzywAwCfWdTAX2bC1WvLXTFT4icLkI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IU5hhb1prSowJLNrWWBlaMYQwmrn7tLJSUiOFqYxXU4="
+      "hash": "sha256-8DcJPXUgT3VyLbzywAwCfWdTAX2bC1WvLXTFT4icLkI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-IU5hhb1prSowJLNrWWBlaMYQwmrn7tLJSUiOFqYxXU4="
+      "hash": "sha256-8DcJPXUgT3VyLbzywAwCfWdTAX2bC1WvLXTFT4icLkI="
     }
   },
-  "version": "2026.05.13.2"
+  "version": "2026.11.16.1"
 }

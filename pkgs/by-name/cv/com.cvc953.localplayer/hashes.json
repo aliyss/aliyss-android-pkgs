@@ -1,18 +1,18 @@
 {
-  "apkName": "com.cvc953.localplayer_12.apk",
+  "apkName": "com.cvc953.localplayer_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-PaCEvgC0OJ0b4kC+5UB9B88JOgEzzDLapqHrJ9M+hmI="
+      "hash": "sha256-e0pJGMIHJy/jUUrL1ckCDYvf0zipoD9Bu9eh57mVTxQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PaCEvgC0OJ0b4kC+5UB9B88JOgEzzDLapqHrJ9M+hmI="
+      "hash": "sha256-e0pJGMIHJy/jUUrL1ckCDYvf0zipoD9Bu9eh57mVTxQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-PaCEvgC0OJ0b4kC+5UB9B88JOgEzzDLapqHrJ9M+hmI="
+      "hash": "sha256-e0pJGMIHJy/jUUrL1ckCDYvf0zipoD9Bu9eh57mVTxQ="
     }
   },
-  "version": "1.1.1"
+  "version": "1.1.3"
 }

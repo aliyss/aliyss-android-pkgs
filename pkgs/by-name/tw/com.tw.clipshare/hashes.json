@@ -1,18 +1,18 @@
 {
-  "apkName": "com.tw.clipshare_40103.apk",
+  "apkName": "com.tw.clipshare_40400.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-83BjNojSXa+D+7rte3TTV5HQUHgt/ZI8KIAG0cHhdXk="
+      "hash": "sha256-NBUPm/IJjomXtfHPGiI1+HxHAcIVfI5ovfUOwTawn9o="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-83BjNojSXa+D+7rte3TTV5HQUHgt/ZI8KIAG0cHhdXk="
+      "hash": "sha256-NBUPm/IJjomXtfHPGiI1+HxHAcIVfI5ovfUOwTawn9o="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-83BjNojSXa+D+7rte3TTV5HQUHgt/ZI8KIAG0cHhdXk="
+      "hash": "sha256-NBUPm/IJjomXtfHPGiI1+HxHAcIVfI5ovfUOwTawn9o="
     }
   },
-  "version": "4.1.3"
+  "version": "4.4.0"
 }

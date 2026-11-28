@@ -1,18 +1,18 @@
 {
-  "apkName": "eu.darken.sdmse_20002000.apk",
+  "apkName": "eu.darken.sdmse_20203000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wJFwPsaDwNR1wFxJJJdrYk4iO+024bWAxn8steXjqZ0="
+      "hash": "sha256-KamOYWDKseD+E357GSEGURIsbqQ3kc3cZpJMoS4QOsI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wJFwPsaDwNR1wFxJJJdrYk4iO+024bWAxn8steXjqZ0="
+      "hash": "sha256-KamOYWDKseD+E357GSEGURIsbqQ3kc3cZpJMoS4QOsI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wJFwPsaDwNR1wFxJJJdrYk4iO+024bWAxn8steXjqZ0="
+      "hash": "sha256-KamOYWDKseD+E357GSEGURIsbqQ3kc3cZpJMoS4QOsI="
     }
   },
-  "version": "2.0.2-rc0"
+  "version": "2.2.3-rc0"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.emanuelef.remote_capture_91.apk",
+  "apkName": "com.emanuelef.remote_capture_97.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-9HhVrmkVv68q4omjJ6FDTrQGd3EEX2nKX1Z6+S5ZDRQ="
+      "hash": "sha256-npMBd48yjGoqxbDEE2PMeyk3Je9fZhPMZNNTb8KUc9M="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9HhVrmkVv68q4omjJ6FDTrQGd3EEX2nKX1Z6+S5ZDRQ="
+      "hash": "sha256-npMBd48yjGoqxbDEE2PMeyk3Je9fZhPMZNNTb8KUc9M="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-9HhVrmkVv68q4omjJ6FDTrQGd3EEX2nKX1Z6+S5ZDRQ="
+      "hash": "sha256-npMBd48yjGoqxbDEE2PMeyk3Je9fZhPMZNNTb8KUc9M="
     }
   },
-  "version": "1.9.1"
+  "version": "2.0.4"
 }

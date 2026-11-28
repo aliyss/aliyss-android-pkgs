@@ -1,18 +1,18 @@
 {
-  "apkName": "com.hwanderer.entropysdefiance_7.apk",
+  "apkName": "com.hwanderer.entropysdefiance_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qujLFZDRBvSWqMcSrk+kC3Z++jL/bNAXT80+3FsO/IM="
+      "hash": "sha256-DOOCu+GyBxzLh8W2WLuNhfWzlaXzefwSlx57VmREGG8="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qujLFZDRBvSWqMcSrk+kC3Z++jL/bNAXT80+3FsO/IM="
+      "hash": "sha256-DOOCu+GyBxzLh8W2WLuNhfWzlaXzefwSlx57VmREGG8="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qujLFZDRBvSWqMcSrk+kC3Z++jL/bNAXT80+3FsO/IM="
+      "hash": "sha256-DOOCu+GyBxzLh8W2WLuNhfWzlaXzefwSlx57VmREGG8="
     }
   },
-  "version": "3.3.0"
+  "version": "4.0.0"
 }

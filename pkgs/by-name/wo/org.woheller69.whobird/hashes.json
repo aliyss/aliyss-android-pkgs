@@ -1,18 +1,18 @@
 {
-  "apkName": "org.woheller69.whobird_54.apk",
+  "apkName": "org.woheller69.whobird_55.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-d/E/pkP4EK4mSmo/vNiS2W6EDqvPt7UJ7r/IuLG+mVQ="
+      "hash": "sha256-ufdHspVppkdBBlnBe5nFPWw1U+eJCfSlJidBFt+NvBk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-d/E/pkP4EK4mSmo/vNiS2W6EDqvPt7UJ7r/IuLG+mVQ="
+      "hash": "sha256-ufdHspVppkdBBlnBe5nFPWw1U+eJCfSlJidBFt+NvBk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-d/E/pkP4EK4mSmo/vNiS2W6EDqvPt7UJ7r/IuLG+mVQ="
+      "hash": "sha256-ufdHspVppkdBBlnBe5nFPWw1U+eJCfSlJidBFt+NvBk="
     }
   },
-  "version": "5.4"
+  "version": "5.5"
 }

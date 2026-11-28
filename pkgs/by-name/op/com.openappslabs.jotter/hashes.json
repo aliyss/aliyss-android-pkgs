@@ -1,18 +1,18 @@
 {
-  "apkName": "com.openappslabs.jotter_12.apk",
+  "apkName": "com.openappslabs.jotter_14.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-Qe5PwKvq1IupgNFtm5GX2Ib5xQvhU2Wqt54pBp4igo0="
+      "hash": "sha256-rRER51pMBocztALAJPslaIF60tb1m7tm3pkvYUcAxG4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Qe5PwKvq1IupgNFtm5GX2Ib5xQvhU2Wqt54pBp4igo0="
+      "hash": "sha256-rRER51pMBocztALAJPslaIF60tb1m7tm3pkvYUcAxG4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-Qe5PwKvq1IupgNFtm5GX2Ib5xQvhU2Wqt54pBp4igo0="
+      "hash": "sha256-rRER51pMBocztALAJPslaIF60tb1m7tm3pkvYUcAxG4="
     }
   },
-  "version": "2.4.0"
+  "version": "2.5.1"
 }

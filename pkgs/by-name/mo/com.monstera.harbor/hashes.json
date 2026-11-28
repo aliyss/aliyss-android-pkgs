@@ -1,18 +1,18 @@
 {
-  "apkName": "com.monstera.harbor_7.apk",
+  "apkName": "com.monstera.harbor_9.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-qlFKjexbd7nuzEw/DZbqM3RIK8t65p9Z9q7MXlQJTwM="
+      "hash": "sha256-MPJuivfO6ONgObvqUZ+2whopX6ykWRNp7wgZ6ZpxTl4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qlFKjexbd7nuzEw/DZbqM3RIK8t65p9Z9q7MXlQJTwM="
+      "hash": "sha256-MPJuivfO6ONgObvqUZ+2whopX6ykWRNp7wgZ6ZpxTl4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-qlFKjexbd7nuzEw/DZbqM3RIK8t65p9Z9q7MXlQJTwM="
+      "hash": "sha256-MPJuivfO6ONgObvqUZ+2whopX6ykWRNp7wgZ6ZpxTl4="
     }
   },
-  "version": "0.2.0-alpha05"
+  "version": "0.2.0-alpha07"
 }

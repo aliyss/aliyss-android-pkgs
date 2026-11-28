@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mablanco.pricegrab_12.apk",
+  "apkName": "com.mablanco.pricegrab_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-S+VSsofO9jBM7Ir9BJY3RuyO4/wwumzjyZCUWJK8LkA="
+      "hash": "sha256-V+nQW/UBIdTY2tjU0iLzRPjgp/mATV95lZAydL4BGzo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-S+VSsofO9jBM7Ir9BJY3RuyO4/wwumzjyZCUWJK8LkA="
+      "hash": "sha256-V+nQW/UBIdTY2tjU0iLzRPjgp/mATV95lZAydL4BGzo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-S+VSsofO9jBM7Ir9BJY3RuyO4/wwumzjyZCUWJK8LkA="
+      "hash": "sha256-V+nQW/UBIdTY2tjU0iLzRPjgp/mATV95lZAydL4BGzo="
     }
   },
-  "version": "0.1.11"
+  "version": "0.1.12"
 }

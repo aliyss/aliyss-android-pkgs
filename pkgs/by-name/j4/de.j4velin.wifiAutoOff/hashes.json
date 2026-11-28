@@ -1,18 +1,18 @@
 {
-  "apkName": "de.j4velin.wifiAutoOff_1910.apk",
+  "apkName": "de.j4velin.wifiAutoOff_2000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-dsDBtRB1+QHgGdkcFkMBlELpNZlm1d6roYJ2L/Jw1cw="
+      "hash": "sha256-mPJcpqtktT6t0LZyNGFibFdJ4hUcD4/OoiulVmcH5RQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dsDBtRB1+QHgGdkcFkMBlELpNZlm1d6roYJ2L/Jw1cw="
+      "hash": "sha256-mPJcpqtktT6t0LZyNGFibFdJ4hUcD4/OoiulVmcH5RQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-dsDBtRB1+QHgGdkcFkMBlELpNZlm1d6roYJ2L/Jw1cw="
+      "hash": "sha256-mPJcpqtktT6t0LZyNGFibFdJ4hUcD4/OoiulVmcH5RQ="
     }
   },
-  "version": "1.9.1"
+  "version": "2.0.0"
 }

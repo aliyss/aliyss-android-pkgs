@@ -1,18 +1,18 @@
 {
-  "apkName": "com.mdiqentw.lifedots_155.apk",
+  "apkName": "com.mdiqentw.lifedots_157.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-l2+RbXb8CdwRHnf7CdCiv71oGbbc3nTjIvLu/NdRfKs="
+      "hash": "sha256-ND3spCr642j7L7wbZUhM5rPWcZXXNQIUaJ5MSanC824="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-l2+RbXb8CdwRHnf7CdCiv71oGbbc3nTjIvLu/NdRfKs="
+      "hash": "sha256-ND3spCr642j7L7wbZUhM5rPWcZXXNQIUaJ5MSanC824="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-l2+RbXb8CdwRHnf7CdCiv71oGbbc3nTjIvLu/NdRfKs="
+      "hash": "sha256-ND3spCr642j7L7wbZUhM5rPWcZXXNQIUaJ5MSanC824="
     }
   },
-  "version": "2.2.2"
+  "version": "2.2.4"
 }

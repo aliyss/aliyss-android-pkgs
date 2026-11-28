@@ -1,18 +1,18 @@
 {
-  "apkName": "com.ivanovsky.passnotes_20002.apk",
+  "apkName": "com.ivanovsky.passnotes_20200.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-abeyqd1h1GYn/jYCSCKQ9HwWcm3Qu0lB2AeMRbH3wNo="
+      "hash": "sha256-+l8OL77BXOtWv5fDiXXgnIrkPQYcZU3h4RX8ndVgpoA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-abeyqd1h1GYn/jYCSCKQ9HwWcm3Qu0lB2AeMRbH3wNo="
+      "hash": "sha256-+l8OL77BXOtWv5fDiXXgnIrkPQYcZU3h4RX8ndVgpoA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-abeyqd1h1GYn/jYCSCKQ9HwWcm3Qu0lB2AeMRbH3wNo="
+      "hash": "sha256-+l8OL77BXOtWv5fDiXXgnIrkPQYcZU3h4RX8ndVgpoA="
     }
   },
-  "version": "2.0.2"
+  "version": "2.2.0"
 }

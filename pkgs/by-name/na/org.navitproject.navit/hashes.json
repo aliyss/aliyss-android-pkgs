@@ -1,18 +1,18 @@
 {
-  "apkName": "org.navitproject.navit_2026020887.apk",
+  "apkName": "org.navitproject.navit_2026112194.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/1qCW1Muu32J9dLXEote1vrJa/TcOz4MOAUoMhUpGbo="
+      "hash": "sha256-Y4N/Ap6laXOo6SiQEjVwnvHDxkTVlPaEmhEdlQQqzk4="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/1qCW1Muu32J9dLXEote1vrJa/TcOz4MOAUoMhUpGbo="
+      "hash": "sha256-Y4N/Ap6laXOo6SiQEjVwnvHDxkTVlPaEmhEdlQQqzk4="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/1qCW1Muu32J9dLXEote1vrJa/TcOz4MOAUoMhUpGbo="
+      "hash": "sha256-Y4N/Ap6laXOo6SiQEjVwnvHDxkTVlPaEmhEdlQQqzk4="
     }
   },
-  "version": "v0.5.7"
+  "version": "v0.5.8-dirty"
 }

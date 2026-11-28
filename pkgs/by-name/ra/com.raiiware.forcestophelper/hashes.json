@@ -1,18 +1,18 @@
 {
-  "apkName": "com.raiiware.forcestophelper_13.apk",
+  "apkName": "com.raiiware.forcestophelper_16.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/9CAMFnv0wFo7vhxMuXskBnsI5yjQ2vHEOx8GqNY4Ek="
+      "hash": "sha256-C/swoqasZHsOu+xF2T88a7pirnoRaGT0blqZRDs973k="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/9CAMFnv0wFo7vhxMuXskBnsI5yjQ2vHEOx8GqNY4Ek="
+      "hash": "sha256-C/swoqasZHsOu+xF2T88a7pirnoRaGT0blqZRDs973k="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/9CAMFnv0wFo7vhxMuXskBnsI5yjQ2vHEOx8GqNY4Ek="
+      "hash": "sha256-C/swoqasZHsOu+xF2T88a7pirnoRaGT0blqZRDs973k="
     }
   },
-  "version": "0.12.0"
+  "version": "0.14.1"
 }

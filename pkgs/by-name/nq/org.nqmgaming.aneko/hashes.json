@@ -1,18 +1,18 @@
 {
-  "apkName": "org.nqmgaming.aneko_34.apk",
+  "apkName": "org.nqmgaming.aneko_37.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-MnChT90Uf86NRsJYoWTEBog2Tn0Bn/7j1fpKV2zj4jQ="
+      "hash": "sha256-703ipcd3jQwHQIe4rk2DsojhA7ziEsP1fzoyW01xups="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MnChT90Uf86NRsJYoWTEBog2Tn0Bn/7j1fpKV2zj4jQ="
+      "hash": "sha256-703ipcd3jQwHQIe4rk2DsojhA7ziEsP1fzoyW01xups="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-MnChT90Uf86NRsJYoWTEBog2Tn0Bn/7j1fpKV2zj4jQ="
+      "hash": "sha256-703ipcd3jQwHQIe4rk2DsojhA7ziEsP1fzoyW01xups="
     }
   },
-  "version": "2.4.2"
+  "version": "2.4.5"
 }

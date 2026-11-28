@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.benji377.timety_241.apk",
+  "apkName": "io.github.benji377.timety_248.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-is9+ivy1ZVsLqwrNG+xYLdBGro9RwOjGjNO2pepaK6U="
+      "hash": "sha256-4iSaYEstdj9oCWgZnpwpc3NgR53dTtEx1HOjRR7gUVA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-is9+ivy1ZVsLqwrNG+xYLdBGro9RwOjGjNO2pepaK6U="
+      "hash": "sha256-4iSaYEstdj9oCWgZnpwpc3NgR53dTtEx1HOjRR7gUVA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-is9+ivy1ZVsLqwrNG+xYLdBGro9RwOjGjNO2pepaK6U="
+      "hash": "sha256-4iSaYEstdj9oCWgZnpwpc3NgR53dTtEx1HOjRR7gUVA="
     }
   },
-  "version": "2.1.0"
+  "version": "3.1.0"
 }

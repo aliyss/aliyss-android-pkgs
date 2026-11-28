@@ -1,18 +1,18 @@
 {
-  "apkName": "bluepie.ad_silence_55.apk",
+  "apkName": "bluepie.ad_silence_56.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-wTSSf5LsvzTZpvf5VxstIq4CzDW/iWF+TQBE0DVTbBU="
+      "hash": "sha256-Pl0AskO10RPytac7+K8NtHfA9zoIzZAK1hSreULa7Ws="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wTSSf5LsvzTZpvf5VxstIq4CzDW/iWF+TQBE0DVTbBU="
+      "hash": "sha256-Pl0AskO10RPytac7+K8NtHfA9zoIzZAK1hSreULa7Ws="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-wTSSf5LsvzTZpvf5VxstIq4CzDW/iWF+TQBE0DVTbBU="
+      "hash": "sha256-Pl0AskO10RPytac7+K8NtHfA9zoIzZAK1hSreULa7Ws="
     }
   },
-  "version": "v0.8.0-prod"
+  "version": "v0.8.1-prod"
 }

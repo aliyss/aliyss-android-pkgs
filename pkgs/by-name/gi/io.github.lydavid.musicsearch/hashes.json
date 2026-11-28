@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.lydavid.musicsearch_950.apk",
+  "apkName": "io.github.lydavid.musicsearch_1014.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-v/Qcm3Y0i7DjyKkzMv8scrvigYuT+u7B9bD8att5fM0="
+      "hash": "sha256-kHH/MGrboWvJnLt891rtTMcjWUDi6AzP8cFS9OZCUMI="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-v/Qcm3Y0i7DjyKkzMv8scrvigYuT+u7B9bD8att5fM0="
+      "hash": "sha256-kHH/MGrboWvJnLt891rtTMcjWUDi6AzP8cFS9OZCUMI="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-v/Qcm3Y0i7DjyKkzMv8scrvigYuT+u7B9bD8att5fM0="
+      "hash": "sha256-kHH/MGrboWvJnLt891rtTMcjWUDi6AzP8cFS9OZCUMI="
     }
   },
-  "version": "1.129.5"
+  "version": "1.139.3"
 }

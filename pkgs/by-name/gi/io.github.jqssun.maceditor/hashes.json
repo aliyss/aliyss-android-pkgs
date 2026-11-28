@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.jqssun.maceditor_7.apk",
+  "apkName": "io.github.jqssun.maceditor_8.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-pWR9cJKyZnSDsUdnHFbX4x+s7yGmERhL28SE6TfQXGs="
+      "hash": "sha256-erbbdQ12d11JqXILl5AB7iH6rEonoMfcKyz4/L95n7w="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pWR9cJKyZnSDsUdnHFbX4x+s7yGmERhL28SE6TfQXGs="
+      "hash": "sha256-erbbdQ12d11JqXILl5AB7iH6rEonoMfcKyz4/L95n7w="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-pWR9cJKyZnSDsUdnHFbX4x+s7yGmERhL28SE6TfQXGs="
+      "hash": "sha256-erbbdQ12d11JqXILl5AB7iH6rEonoMfcKyz4/L95n7w="
     }
   },
-  "version": "0.0.7"
+  "version": "0.0.8"
 }

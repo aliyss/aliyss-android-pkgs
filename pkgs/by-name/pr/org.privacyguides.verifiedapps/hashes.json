@@ -1,18 +1,18 @@
 {
-  "apkName": "org.privacyguides.verifiedapps_26060014.apk",
+  "apkName": "org.privacyguides.verifiedapps_26070000.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-/UHWoQE90Q5FAqiVOaSuQK/ApgLLdWqcVmUIbAerZLY="
+      "hash": "sha256-A8YTKaTEQGoLmO6GY742yytbFTHFe8BcFH4/h1T/ndo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/UHWoQE90Q5FAqiVOaSuQK/ApgLLdWqcVmUIbAerZLY="
+      "hash": "sha256-A8YTKaTEQGoLmO6GY742yytbFTHFe8BcFH4/h1T/ndo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-/UHWoQE90Q5FAqiVOaSuQK/ApgLLdWqcVmUIbAerZLY="
+      "hash": "sha256-A8YTKaTEQGoLmO6GY742yytbFTHFe8BcFH4/h1T/ndo="
     }
   },
-  "version": "26.6.14"
+  "version": "26.7.0"
 }

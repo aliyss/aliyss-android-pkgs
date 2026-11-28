@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "version": "1.88.4-fdroid",
+      "versionCode": 360
+    },
+    {
+      "version": "1.88.2-fdroid",
+      "versionCode": 358
+    },
+    {
+      "version": "1.88.1-fdroid",
+      "versionCode": 357
+    }
+  ]
+}

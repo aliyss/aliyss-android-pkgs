@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.ronynn.karui_7.apk",
+  "apkName": "io.github.ronynn.karui_13.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-EjyMQRHJhexkKzR2JxEovY8QNGQFcgal9yq6mvuRdC8="
+      "hash": "sha256-m/7dp11cEaTtD614oFFTfSdBoiOBh2+ooVdsw+2dUso="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EjyMQRHJhexkKzR2JxEovY8QNGQFcgal9yq6mvuRdC8="
+      "hash": "sha256-m/7dp11cEaTtD614oFFTfSdBoiOBh2+ooVdsw+2dUso="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-EjyMQRHJhexkKzR2JxEovY8QNGQFcgal9yq6mvuRdC8="
+      "hash": "sha256-m/7dp11cEaTtD614oFFTfSdBoiOBh2+ooVdsw+2dUso="
     }
   },
-  "version": "1.7"
+  "version": "2.3"
 }

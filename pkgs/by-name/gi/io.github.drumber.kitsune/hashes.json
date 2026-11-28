@@ -1,18 +1,18 @@
 {
-  "apkName": "io.github.drumber.kitsune_40.apk",
+  "apkName": "io.github.drumber.kitsune_43.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-RASEONedFzta4Ue/w57ipTUSbil+BtYHdg7Otgn+oXs="
+      "hash": "sha256-ZYEciHrQ7lp4gHt0Y5KBNkwSoHK51enCu59uK1cIyDc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RASEONedFzta4Ue/w57ipTUSbil+BtYHdg7Otgn+oXs="
+      "hash": "sha256-ZYEciHrQ7lp4gHt0Y5KBNkwSoHK51enCu59uK1cIyDc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-RASEONedFzta4Ue/w57ipTUSbil+BtYHdg7Otgn+oXs="
+      "hash": "sha256-ZYEciHrQ7lp4gHt0Y5KBNkwSoHK51enCu59uK1cIyDc="
     }
   },
-  "version": "2.1.0"
+  "version": "2.1.3"
 }

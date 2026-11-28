@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.ioanm.fissh_71.apk",
+  "apkName": "dev.ioanm.fissh_73.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-mtkY14DjuV4EPgZNTrngFc7qKchGMlUNSsx969lZjls="
+      "hash": "sha256-sMMcx5TeI5s457eERhBpcQjquRbUTSZBsN4qV0QNZAQ="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mtkY14DjuV4EPgZNTrngFc7qKchGMlUNSsx969lZjls="
+      "hash": "sha256-sMMcx5TeI5s457eERhBpcQjquRbUTSZBsN4qV0QNZAQ="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-mtkY14DjuV4EPgZNTrngFc7qKchGMlUNSsx969lZjls="
+      "hash": "sha256-sMMcx5TeI5s457eERhBpcQjquRbUTSZBsN4qV0QNZAQ="
     }
   },
-  "version": "7.1"
+  "version": "7.3"
 }

@@ -1,18 +1,18 @@
 {
-  "apkName": "com.merxury.blocker_6339.apk",
+  "apkName": "com.merxury.blocker_6447.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-WZ1soPyskmconW6YxEK8X9kg75UDo9Oz2wv95DlLKvU="
+      "hash": "sha256-xBhl32EjgsLX/wRPNqFc+qphA3GcVStKpMxkoG2MuXU="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WZ1soPyskmconW6YxEK8X9kg75UDo9Oz2wv95DlLKvU="
+      "hash": "sha256-xBhl32EjgsLX/wRPNqFc+qphA3GcVStKpMxkoG2MuXU="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-WZ1soPyskmconW6YxEK8X9kg75UDo9Oz2wv95DlLKvU="
+      "hash": "sha256-xBhl32EjgsLX/wRPNqFc+qphA3GcVStKpMxkoG2MuXU="
     }
   },
-  "version": "2.0.6339"
+  "version": "2.0.6447"
 }

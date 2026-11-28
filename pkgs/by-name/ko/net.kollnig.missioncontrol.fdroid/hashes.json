@@ -1,18 +1,18 @@
 {
-  "apkName": "net.kollnig.missioncontrol.fdroid_2026080501.apk",
+  "apkName": "net.kollnig.missioncontrol.fdroid_2026110101.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-8iGwLwmqsfljCudAbpHiYNkvN3pLtOAgThdUJ0EmPUI="
+      "hash": "sha256-Z2XKJ4idkfQcBZghUfR+KE6DH9FBJLnNF+UDHENaK/E="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8iGwLwmqsfljCudAbpHiYNkvN3pLtOAgThdUJ0EmPUI="
+      "hash": "sha256-Z2XKJ4idkfQcBZghUfR+KE6DH9FBJLnNF+UDHENaK/E="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-8iGwLwmqsfljCudAbpHiYNkvN3pLtOAgThdUJ0EmPUI="
+      "hash": "sha256-Z2XKJ4idkfQcBZghUfR+KE6DH9FBJLnNF+UDHENaK/E="
     }
   },
-  "version": "2026.08.05-fdroid"
+  "version": "2026.11.01-fdroid"
 }

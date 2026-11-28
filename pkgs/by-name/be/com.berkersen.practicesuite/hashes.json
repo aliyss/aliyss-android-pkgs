@@ -1,18 +1,18 @@
 {
-  "apkName": "com.berkersen.practicesuite_130.apk",
+  "apkName": "com.berkersen.practicesuite_135.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-AwtH9LDXBep/IFDOprz7WY7ufYwmV39IMDMo0YqFkIE="
+      "hash": "sha256-rMTCxR1KeOt04OC8p8Y04Nss1px0qr9e9r9V6sdxx6c="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AwtH9LDXBep/IFDOprz7WY7ufYwmV39IMDMo0YqFkIE="
+      "hash": "sha256-rMTCxR1KeOt04OC8p8Y04Nss1px0qr9e9r9V6sdxx6c="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-AwtH9LDXBep/IFDOprz7WY7ufYwmV39IMDMo0YqFkIE="
+      "hash": "sha256-rMTCxR1KeOt04OC8p8Y04Nss1px0qr9e9r9V6sdxx6c="
     }
   },
-  "version": "2.1.3"
+  "version": "2.1.6"
 }

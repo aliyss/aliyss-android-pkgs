@@ -1,18 +1,18 @@
 {
-  "apkName": "io.ente.auth_1072.apk",
+  "apkName": "io.ente.auth_1118.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-lx9RdtzWcoHtUdHjM84qAeEMuhmfRLxjiVJ5pWm7ByY="
+      "hash": "sha256-sNFMJJ1lY3HbqUVqnIjMyrqcloArHaZ9aUG6EkmEadk="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lx9RdtzWcoHtUdHjM84qAeEMuhmfRLxjiVJ5pWm7ByY="
+      "hash": "sha256-sNFMJJ1lY3HbqUVqnIjMyrqcloArHaZ9aUG6EkmEadk="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-lx9RdtzWcoHtUdHjM84qAeEMuhmfRLxjiVJ5pWm7ByY="
+      "hash": "sha256-sNFMJJ1lY3HbqUVqnIjMyrqcloArHaZ9aUG6EkmEadk="
     }
   },
-  "version": "4.4.25"
+  "version": "4.4.26"
 }

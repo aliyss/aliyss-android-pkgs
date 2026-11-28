@@ -1,18 +1,18 @@
 {
-  "apkName": "com.idunnololz.summit.fdroid_347.apk",
+  "apkName": "com.idunnololz.summit.fdroid_360.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-oy+YUVSV8A1mSpbve580I1VRoJ4q9kiP0VbmSRG3n4w="
+      "hash": "sha256-evEa6inbrcQMnU2Pl+T9ICbIdXR9FnvIymWyFzD0SNo="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oy+YUVSV8A1mSpbve580I1VRoJ4q9kiP0VbmSRG3n4w="
+      "hash": "sha256-evEa6inbrcQMnU2Pl+T9ICbIdXR9FnvIymWyFzD0SNo="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-oy+YUVSV8A1mSpbve580I1VRoJ4q9kiP0VbmSRG3n4w="
+      "hash": "sha256-evEa6inbrcQMnU2Pl+T9ICbIdXR9FnvIymWyFzD0SNo="
     }
   },
-  "version": "1.83.3-fdroid"
+  "version": "1.88.4-fdroid"
 }

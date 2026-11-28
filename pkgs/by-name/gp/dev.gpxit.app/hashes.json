@@ -1,18 +1,18 @@
 {
-  "apkName": "dev.gpxit.app_3.apk",
+  "apkName": "dev.gpxit.app_5.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-662zpTDoTUbTxsaRFnFhn3jjjIOakNnXo6+CTrGsSaw="
+      "hash": "sha256-pEgH0Hb+Al8POMl48ISeBisw+ucUyZ+fz5rEVyMtdaA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-662zpTDoTUbTxsaRFnFhn3jjjIOakNnXo6+CTrGsSaw="
+      "hash": "sha256-pEgH0Hb+Al8POMl48ISeBisw+ucUyZ+fz5rEVyMtdaA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-662zpTDoTUbTxsaRFnFhn3jjjIOakNnXo6+CTrGsSaw="
+      "hash": "sha256-pEgH0Hb+Al8POMl48ISeBisw+ucUyZ+fz5rEVyMtdaA="
     }
   },
-  "version": "0.2.1"
+  "version": "0.3.0"
 }

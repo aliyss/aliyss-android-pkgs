@@ -1,18 +1,18 @@
 {
-  "apkName": "net.oblivion.wipe_45.apk",
+  "apkName": "net.oblivion.wipe_47.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-No7+bt6kOs6m0Ed4ed7wY1Vkl6ScEQMHSnPOd9JKBqo="
+      "hash": "sha256-isI1/6VV/Lmt7SFngI2/U5gf61sF3qfKn+zeCkkPRlc="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-No7+bt6kOs6m0Ed4ed7wY1Vkl6ScEQMHSnPOd9JKBqo="
+      "hash": "sha256-isI1/6VV/Lmt7SFngI2/U5gf61sF3qfKn+zeCkkPRlc="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-No7+bt6kOs6m0Ed4ed7wY1Vkl6ScEQMHSnPOd9JKBqo="
+      "hash": "sha256-isI1/6VV/Lmt7SFngI2/U5gf61sF3qfKn+zeCkkPRlc="
     }
   },
-  "version": "1.0.6"
+  "version": "1.0.8"
 }

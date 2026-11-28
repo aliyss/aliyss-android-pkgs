@@ -1,18 +1,18 @@
 {
-  "apkName": "fr.ign.geoportail_30511.apk",
+  "apkName": "fr.ign.geoportail_30520.apk",
   "architectures": {
     "aarch64-darwin": {
       "archStr": "universal",
-      "hash": "sha256-5BjZ734oeby8drdtY8nN5bpFmFJAK8ji0X8uYGFcLOc="
+      "hash": "sha256-yz+QzBsVIiagfBmqlNzsg4MiojPilLi7RODV1W8dnMA="
     },
     "aarch64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5BjZ734oeby8drdtY8nN5bpFmFJAK8ji0X8uYGFcLOc="
+      "hash": "sha256-yz+QzBsVIiagfBmqlNzsg4MiojPilLi7RODV1W8dnMA="
     },
     "x86_64-linux": {
       "archStr": "universal",
-      "hash": "sha256-5BjZ734oeby8drdtY8nN5bpFmFJAK8ji0X8uYGFcLOc="
+      "hash": "sha256-yz+QzBsVIiagfBmqlNzsg4MiojPilLi7RODV1W8dnMA="
     }
   },
-  "version": "3.5.11"
+  "version": "3.5.20"
 }
